@@ -1,0 +1,48 @@
+{
+    "appid": "2067310",
+    "type": "Game",
+    "name": "Neon Blood",
+    "schinese_name": "霓虹之血",
+    "isfreeapp": "0",
+    "change_number": "27484875",
+    "update_time": "2025-02-15 02:14:25",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2067311": {
+            "manifests": {
+                "public": {
+                    "gid": "5362642650676018277",
+                    "size": "5931985222",
+                    "download": "1098910560"
+                }
+            },
+            "decryptionkey": "250ca541652dc67026fe0060efa93ad7cafce6a026c62aca851a85902771c927"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16763673",
+                "timeupdated": "1734381602"
+            }
+        }
+    }
+}
