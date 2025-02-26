@@ -1,0 +1,52 @@
+{
+    "appid": "2981670",
+    "type": "Demo",
+    "name": "The King is Watching Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27535266",
+    "update_time": "2025-02-18 21:44:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2981671": {
+            "manifests": {
+                "public": {
+                    "gid": "8599487804985647777",
+                    "size": "144404256",
+                    "download": "104723040"
+                },
+                "demo_alternative": {
+                    "gid": "8617554549809952180",
+                    "size": "131960865",
+                    "download": "95518016"
+                }
+            },
+            "decryptionkey": "1b58e14d917a10caa557452bb38b652fa76224989c771f61c5356eb1227ba1f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17459239",
+                "timeupdated": "1740161941"
+            },
+            "demo_alternative": {
+                "buildid": "16543657",
+                "description": "can fix problems for people playing on laptops",
+                "timeupdated": "1732655213"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
