@@ -1,0 +1,61 @@
+{
+    "appid": "2178590",
+    "type": "Game",
+    "name": "Coin Pusher Casino",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27332667",
+    "update_time": "2025-02-06 04:08:25",
+    "depot": {
+        "2178591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4724336067252545663",
+                    "size": "841670701",
+                    "download": "484381360"
+                },
+                "experimental": {
+                    "gid": "2972542970138823917",
+                    "size": "872362341",
+                    "download": "513520640"
+                }
+            },
+            "decryptionkey": "c699d843398fb056d9d3e5ae5012aa328ba50fedacba89ed51fac3020baf1473"
+        },
+        "2178592": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "192494245458998460",
+                    "size": "916901266",
+                    "download": "506027872"
+                },
+                "experimental": {
+                    "gid": "192494245458998460",
+                    "size": "916901266",
+                    "download": "506027872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16605271",
+                "timeupdated": "1733168575"
+            },
+            "experimental": {
+                "buildid": "17442677",
+                "description": "Experimental updates",
+                "timeupdated": "1740072468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
