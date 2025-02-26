@@ -1,0 +1,42 @@
+{
+    "appid": "2393580",
+    "type": "Game",
+    "name": "The Dead Await",
+    "schinese_name": "末日车队",
+    "isfreeapp": "0",
+    "change_number": "27379462",
+    "update_time": "2025-02-08 23:22:05",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2393581": {
+            "manifests": {
+                "public": {
+                    "gid": "1544746709125995298",
+                    "size": "864132995",
+                    "download": "513092688"
+                }
+            },
+            "decryptionkey": "1279db8cd7d23429b826afe7c414fd734273be90411336a848f46c1b419ed7b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16555677",
+                "timeupdated": "1732728019"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
