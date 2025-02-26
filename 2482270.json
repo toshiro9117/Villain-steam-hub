@@ -1,0 +1,28 @@
+{
+    "appid": "2482270",
+    "type": "Game",
+    "name": "Stilt",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27196317",
+    "update_time": "2025-01-28 15:34:53",
+    "depot": {
+        "2482271": {
+            "manifests": {
+                "public": {
+                    "gid": "7584598766167028076",
+                    "size": "1440078581",
+                    "download": "502834624"
+                }
+            },
+            "decryptionkey": "fc209ce2f1b82ee1d38671023c7e7e69367242dc1fc1446bfbf8661f8afb6801"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16718566",
+                "timeupdated": "1734336745"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
