@@ -1,0 +1,69 @@
+{
+    "appid": "2109270",
+    "type": "Game",
+    "name": "Preserve",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27537955",
+    "update_time": "2025-02-19 00:22:34",
+    "depot": {
+        "baselanguages": "english",
+        "2109271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7890117986028175319",
+                    "size": "1103331178",
+                    "download": "674049200"
+                }
+            },
+            "decryptionkey": "159b87c9592c3fcd889e37b4bb9ad67aa87361e8e6f1dc80f56e7013ce994bc0"
+        },
+        "2109272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5489080917404026450",
+                    "size": "893870331",
+                    "download": "702563184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2109273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8978717313300555061",
+                    "size": "934368806",
+                    "download": "742349920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3114870": {
+            "dlcappid": "3114870",
+            "manifests": {
+                "public": {
+                    "gid": "5978852950305735066",
+                    "size": "72554167",
+                    "download": "68198256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17454140",
+                "timeupdated": "1740137344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
