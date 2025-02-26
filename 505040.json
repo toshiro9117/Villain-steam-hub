@@ -1,0 +1,78 @@
+{
+    "appid": "505040",
+    "type": "Game",
+    "name": "FORTIFY",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26682091",
+    "update_time": "2024-12-18 01:43:34",
+    "depot": {
+        "505041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5530589338509461112",
+                    "size": "111745759",
+                    "download": "28168992"
+                },
+                "testing": {
+                    "gid": "5530589338509461112",
+                    "size": "111745759",
+                    "download": "28168992"
+                }
+            },
+            "decryptionkey": "55427e1043b3f94d81973e9ae9bfa6b47296dad8ffcd2b9f3ea2100b9acb0ddd"
+        },
+        "505042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7351622618224896777",
+                    "size": "133059148",
+                    "download": "36856032"
+                },
+                "testing": {
+                    "gid": "7351622618224896777",
+                    "size": "133059148",
+                    "download": "36856032"
+                }
+            },
+            "decryptionkey": "3b5db81dac58dcac2771acbb5ad520d8f468f39519830b5b89af1c71b1729535"
+        },
+        "505043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7686552024961993228",
+                    "size": "185014192",
+                    "download": "55592784"
+                },
+                "testing": {
+                    "gid": "7686552024961993228",
+                    "size": "185014192",
+                    "download": "55592784"
+                }
+            },
+            "decryptionkey": "531a1906c2f0b563c4d875d0379ddb4532b7e7991c7d025dc9e36c8a70745953"
+        },
+        "workshopdepot": "505040",
+        "branches": {
+            "public": {
+                "buildid": "17468507",
+                "timeupdated": "1740247159"
+            },
+            "testing": {
+                "buildid": "17468507",
+                "timeupdated": "1740247172"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c5efdf3326ce49cf346ed2d2f12bf61c615ea50dadd213eb96811ba6693b1618"
+    }
+}
