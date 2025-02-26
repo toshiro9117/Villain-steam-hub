@@ -1,0 +1,45 @@
+{
+    "appid": "2890890",
+    "type": "Game",
+    "name": "LingerieS / ランジェリーズ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27463892",
+    "update_time": "2025-02-14 01:08:27",
+    "depot": {
+        "2890891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2248615016715772529",
+                    "size": "1786460095",
+                    "download": "1593516464"
+                }
+            },
+            "decryptionkey": "e60c94dbc93d4ff68753b42b9b3e597d749b8739eba27c0ea016196fd04888a3"
+        },
+        "2893920": {
+            "dlcappid": "2893920",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6571643762944460592",
+                    "size": "1756863209",
+                    "download": "1697547104"
+                }
+            },
+            "decryptionkey": "55fc8b745cd9389c7001ea343fb1aceaec46bdcacca640897db70e4fed2210e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17355051",
+                "timeupdated": "1739466504"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
