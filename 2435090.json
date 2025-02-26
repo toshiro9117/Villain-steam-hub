@@ -1,0 +1,31 @@
+{
+    "appid": "2435090",
+    "type": "Game",
+    "name": "Talented",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27542736",
+    "update_time": "2025-02-19 05:39:25",
+    "depot": {
+        "2435091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8154530116589674429",
+                    "size": "227280901",
+                    "download": "61954240"
+                }
+            },
+            "decryptionkey": "3bb02dd8b5026578c993a658d5539930ff82e9da5d955961d1043af6a76e43b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16926229",
+                "timeupdated": "1736241849"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
