@@ -1,0 +1,45 @@
+{
+    "appid": "2310700",
+    "type": "Game",
+    "name": "Shadow Corridor 2 雨ノ四葩",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27064654",
+    "update_time": "2025-01-19 23:53:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "2310701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "193314755454878299",
+                    "size": "7575238557",
+                    "download": "7113547808"
+                }
+            },
+            "decryptionkey": "755facd04814a99ed35cddbe95fdf47e317d63159ef24b7ffdbab96b2f7925df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16461869",
+                "timeupdated": "1732037976"
+            }
+        }
+    }
+}
