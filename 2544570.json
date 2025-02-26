@@ -1,0 +1,49 @@
+{
+    "appid": "2544570",
+    "type": "Game",
+    "name": "LumineNight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27144630",
+    "update_time": "2025-01-24 15:11:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2544571": {
+            "manifests": {
+                "public": {
+                    "gid": "2276225148083125622",
+                    "size": "14478275911",
+                    "download": "2154309360"
+                }
+            },
+            "decryptionkey": "1088b6f1da25954c522dffc5db8c3ffcaeafa861fa68628cc6e96b00dd07d554"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "16815842",
+                "timeupdated": "1734708562"
+            }
+        }
+    }
+}
