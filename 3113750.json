@@ -1,0 +1,42 @@
+{
+    "appid": "3113750",
+    "type": "Game",
+    "name": "Drunk Builder Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27520514",
+    "update_time": "2025-02-18 01:54:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3113751": {
+            "manifests": {
+                "public": {
+                    "gid": "3918550719510322744",
+                    "size": "1039772603",
+                    "download": "880408672"
+                }
+            },
+            "decryptionkey": "1f4f2edd4b1c18c4a776008fc5c10e9cf5b67810889058252c80ab8f0c229ae0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17396735",
+                "timeupdated": "1739814850"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
