@@ -1,0 +1,42 @@
+{
+    "appid": "2287150",
+    "type": "Game",
+    "name": "Revenge of the Mage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27537371",
+    "update_time": "2025-02-18 23:46:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2287151": {
+            "manifests": {
+                "public": {
+                    "gid": "9194483733985738575",
+                    "size": "4812973199",
+                    "download": "4534865648"
+                }
+            },
+            "decryptionkey": "de7dd5e4cacdce00287697122fff8e3db28e280079e8581365ffec726a7da42c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17436614",
+                "timeupdated": "1740045671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
