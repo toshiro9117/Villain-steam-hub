@@ -1,0 +1,60 @@
+{
+    "appid": "2998290",
+    "type": "Game",
+    "name": "Weirdo",
+    "schinese_name": "异人",
+    "isfreeapp": "0",
+    "change_number": "27536736",
+    "update_time": "2025-02-18 23:14:31",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2998291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7920078634408492059",
+                    "size": "1602713251",
+                    "download": "358690256"
+                }
+            },
+            "decryptionkey": "446c76053bf016bf6d54b3d27a5bad60b5773234362ea74e39b22ec41e3ed53b"
+        },
+        "2998292": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6965341641958483342",
+                    "size": "1603840300",
+                    "download": "357968192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2998293": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "352553829585268282",
+                    "size": "3253890494",
+                    "download": "369743120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17478188",
+                "timeupdated": "1740364915"
+            }
+        }
+    }
+}
