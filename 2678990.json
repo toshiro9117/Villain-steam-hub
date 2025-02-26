@@ -1,0 +1,57 @@
+{
+    "appid": "2678990",
+    "type": "Game",
+    "name": "Minami Lane",
+    "schinese_name": "南之町",
+    "isfreeapp": "0",
+    "change_number": "27533764",
+    "update_time": "2025-02-18 20:16:01",
+    "depot": {
+        "2678991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6214111903637316140",
+                    "size": "264657317",
+                    "download": "171496336"
+                }
+            },
+            "decryptionkey": "d84a738140bbcd05ee16bf3e5e225082b6d30b792da04df9be5ceef9245e886c"
+        },
+        "2678992": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8461799396452893546",
+                    "size": "263632445",
+                    "download": "170038832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2678993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7539004649388207352",
+                    "size": "257969648",
+                    "download": "169808672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16916856",
+                "timeupdated": "1736162852"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
