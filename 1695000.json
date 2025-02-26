@@ -1,0 +1,44 @@
+{
+    "appid": "1695000",
+    "type": "Game",
+    "name": "Rainbow Sea",
+    "schinese_name": "落虹之海",
+    "isfreeapp": "0",
+    "change_number": "27334460",
+    "update_time": "2025-02-06 06:26:14",
+    "depot": {
+        "1695001": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "461134079763186896",
+                    "size": "509111151",
+                    "download": "213640400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1695003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6088764517914914660",
+                    "size": "491378070",
+                    "download": "207272016"
+                }
+            },
+            "decryptionkey": "a6893d675b6bdfa78c864f5b7c68f0fb4bab74895183e2afe8ad2a6212901540"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16023628",
+                "timeupdated": "1729154506"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
