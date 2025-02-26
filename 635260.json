@@ -1,0 +1,69 @@
+{
+    "appid": "635260",
+    "type": "Game",
+    "name": "CarX Drift Racing Online",
+    "schinese_name": "CarX漂移赛车",
+    "isfreeapp": "0",
+    "change_number": "27535483",
+    "update_time": "2025-02-18 21:57:42",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "635261": {
+            "manifests": {
+                "public": {
+                    "gid": "3527169741645304394",
+                    "size": "8385057584",
+                    "download": "4799257008"
+                },
+                "old_version_1.9": {
+                    "gid": "6477544475857177194",
+                    "size": "2382212793",
+                    "download": "639167600"
+                },
+                "moddable": {
+                    "gid": "4842307879367843917",
+                    "size": "8303640764",
+                    "download": "4784006000"
+                }
+            },
+            "decryptionkey": "12eafb480d17be3196fc40eeec87820d98ecf98fc24580764a1b86d14ae04cef"
+        },
+        "752440": {
+            "dlcappid": "752440"
+        },
+        "752450": {
+            "dlcappid": "752450"
+        },
+        "workshopdepot": "635260",
+        "branches": {
+            "public": {
+                "buildid": "17224854",
+                "timeupdated": "1738682066"
+            },
+            "old_version_1.9": {
+                "buildid": "4430790",
+                "timeupdated": "1574852634"
+            },
+            "moddable": {
+                "buildid": "17224552",
+                "description": "Public moddable branch",
+                "timeupdated": "1738682090"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9dc5190c6ab81a7bf36f8c7e307dfdbdba71058e1d2c1166bb3ec1bf4f88be15"
+    }
+}
