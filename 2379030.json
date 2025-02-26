@@ -1,0 +1,52 @@
+{
+    "appid": "2379030",
+    "type": "Game",
+    "name": "Barro T23",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26745065",
+    "update_time": "2024-12-21 18:22:16",
+    "depot": {
+        "2379031": {
+            "manifests": {
+                "public": {
+                    "gid": "1998892862462315124",
+                    "size": "2558203090",
+                    "download": "661940912"
+                },
+                "pre_release": {
+                    "gid": "1998892862462315124",
+                    "size": "2558203090",
+                    "download": "661940912"
+                }
+            },
+            "decryptionkey": "affef6e4b68eb0dc05b4e8d44164886bd636ecb23cf8bfa950a6467ab38e4be0"
+        },
+        "2379032": {
+            "manifests": {
+                "public": {
+                    "gid": "6350629800453340881",
+                    "size": "146851848",
+                    "download": "45408768"
+                },
+                "pre_release": {
+                    "gid": "6350629800453340881",
+                    "size": "146851848",
+                    "download": "45408768"
+                }
+            },
+            "decryptionkey": "d01b261496d4a6bb21d979e10a141cbf5fb73bb1f5d347d85492f80ba5b88faf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14993759",
+                "timeupdated": "1720648354"
+            },
+            "pre_release": {
+                "buildid": "14993759",
+                "description": "pre_release",
+                "timeupdated": "1720645669"
+            }
+        }
+    }
+}
