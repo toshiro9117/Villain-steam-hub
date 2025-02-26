@@ -1,0 +1,59 @@
+{
+    "appid": "3126330",
+    "type": "Game",
+    "name": "Kiosk",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27530048",
+    "update_time": "2025-02-18 16:17:34",
+    "depot": {
+        "3126332": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3244358578407774119",
+                    "size": "351071064",
+                    "download": "170434512"
+                }
+            },
+            "decryptionkey": "c7ca641cf58761e53aa8e95f746dcfbe37093b8db75257bf29cff35dd6ff045f"
+        },
+        "3126331": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6687860317922342238",
+                    "size": "326320700",
+                    "download": "170811392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3126333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2634853963754539314",
+                    "size": "343213235",
+                    "download": "160475312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17427654",
+                "timeupdated": "1739994664"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
