@@ -1,0 +1,48 @@
+{
+    "appid": "1805480",
+    "type": "Game",
+    "name": "Like a Dragon: Ishin!",
+    "schinese_name": "人中之龙 维新！极",
+    "isfreeapp": "0",
+    "change_number": "27512434",
+    "update_time": "2025-02-17 17:13:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1805481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5879049278161002062",
+                    "size": "62546327721",
+                    "download": "59988215136"
+                }
+            },
+            "decryptionkey": "b6865a3777287943bedd9ec78a50d638f0eea4d711441035e656bcc633a83765"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "10920385",
+                "timeupdated": "1681434016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
