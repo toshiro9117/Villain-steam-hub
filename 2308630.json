@@ -1,0 +1,28 @@
+{
+    "appid": "2308630",
+    "type": "Game",
+    "name": "Dawnfolk",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27537643",
+    "update_time": "2025-02-19 00:03:01",
+    "depot": {
+        "2308631": {
+            "manifests": {
+                "public": {
+                    "gid": "8942470181644946241",
+                    "size": "1116298402",
+                    "download": "256212688"
+                }
+            },
+            "decryptionkey": "4a0002995ee4b17bdf1fbcdf1b20a2ff66ecebbf0f7290dbe8d67d178e4c1983"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17467829",
+                "timeupdated": "1740239438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
