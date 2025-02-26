@@ -1,0 +1,46 @@
+{
+    "appid": "2726870",
+    "type": "Game",
+    "name": "玩个Gui",
+    "schinese_name": "玩个Gui",
+    "isfreeapp": "0",
+    "change_number": "27528500",
+    "update_time": "2025-02-18 13:49:32",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "workshopdepot": "2726870",
+        "2726871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5728475308262639626",
+                    "size": "1845253887",
+                    "download": "534177216"
+                },
+                "alpha": {
+                    "gid": "5728475308262639626",
+                    "size": "1845253887",
+                    "download": "534177216"
+                }
+            },
+            "decryptionkey": "2fe1ac080bb10c4f2a361100606dad11c1212c7ac0a06e57c658d9c00920c13a"
+        },
+        "2726872": {},
+        "branches": {
+            "public": {
+                "buildid": "17121306",
+                "timeupdated": "1737778607"
+            },
+            "alpha": {
+                "buildid": "17121306",
+                "description": "alpha test branch",
+                "timeupdated": "1737731796"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a450a3bcadd806bfd62e0b4e07143e864aabcca16c9238ac293d057cd4c91d12"
+    }
+}
