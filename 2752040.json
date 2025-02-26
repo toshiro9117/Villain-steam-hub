@@ -1,0 +1,61 @@
+{
+    "appid": "2752040",
+    "type": "Application",
+    "name": "PlayStatus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27498100",
+    "update_time": "2025-02-16 06:07:33",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2752041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1023000097340192039",
+                    "size": "257589264",
+                    "download": "126952992"
+                }
+            },
+            "decryptionkey": "8950bc893424c4dc580126c9450e075aa4b5b4097b016536636d0193e497d3a1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "15970947",
+                "timeupdated": "1728413717"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
