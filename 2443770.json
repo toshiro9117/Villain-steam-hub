@@ -1,0 +1,59 @@
+{
+    "appid": "2443770",
+    "type": "Game",
+    "name": "Will You Wheel?",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27391454",
+    "update_time": "2025-02-10 06:25:12",
+    "depot": {
+        "2443771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2636634626382526590",
+                    "size": "1531687313",
+                    "download": "322885536"
+                },
+                "beta": {
+                    "gid": "836598806210655717",
+                    "size": "1478892523",
+                    "download": "302521760"
+                }
+            },
+            "decryptionkey": "1c42a49ebaaf7b18b33996dc75f9814e381d9c519605b8b927da430e6b96c74c"
+        },
+        "2443772": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6362324721160057972",
+                    "size": "1520624126",
+                    "download": "301164128"
+                },
+                "beta": {
+                    "gid": "6362324721160057972",
+                    "size": "1520624126",
+                    "download": "301164128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16982905",
+                "timeupdated": "1736909226"
+            },
+            "beta": {
+                "buildid": "17444345",
+                "description": "this will be betas of updates",
+                "timeupdated": "1740079335"
+            }
+        }
+    }
+}
