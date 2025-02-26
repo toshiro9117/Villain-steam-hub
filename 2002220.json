@@ -1,0 +1,28 @@
+{
+    "appid": "2002220",
+    "type": "Game",
+    "name": "Keeper's Toll",
+    "schinese_name": "守护者之魂",
+    "isfreeapp": "0",
+    "change_number": "27527326",
+    "update_time": "2025-02-18 11:41:21",
+    "depot": {
+        "2002221": {
+            "manifests": {
+                "public": {
+                    "gid": "2618160864782066397",
+                    "size": "1556265846",
+                    "download": "276668016"
+                }
+            },
+            "decryptionkey": "d4d948ea316e69a85da5404e1b7e1f1847c798bfb887b9d5ad83621f2e0f3339"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17397838",
+                "timeupdated": "1739850078"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
