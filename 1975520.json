@@ -1,0 +1,48 @@
+{
+    "appid": "1975520",
+    "type": "Game",
+    "name": "Astronomics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27525205",
+    "update_time": "2025-02-18 08:19:01",
+    "depot": {
+        "1975521": {
+            "manifests": {
+                "public": {
+                    "gid": "8220678369263681976",
+                    "size": "756950863",
+                    "download": "166995840"
+                },
+                "demo": {
+                    "gid": "3142874900317064495",
+                    "size": "775334412",
+                    "download": "188169040"
+                },
+                "previous-version": {
+                    "gid": "3172881636351412500",
+                    "size": "756950839",
+                    "download": "166996032"
+                }
+            },
+            "decryptionkey": "074c4f2f2da1a4e2db3056bfe224889fe1dba950f6ed4134a952cc42c2161c46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17474710",
+                "timeupdated": "1740330684"
+            },
+            "demo": {
+                "buildid": "17255427",
+                "description": "demo",
+                "timeupdated": "1738778552"
+            },
+            "previous-version": {
+                "buildid": "17464342",
+                "description": "The previous version to fallback to",
+                "timeupdated": "1740330668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
