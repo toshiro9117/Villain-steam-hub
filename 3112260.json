@@ -1,0 +1,47 @@
+{
+    "appid": "3112260",
+    "type": "Game",
+    "name": "Virtua Fighter 5 R.E.V.O.",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27525718",
+    "update_time": "2025-02-18 09:02:56",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3112261": {
+            "manifests": {
+                "public": {
+                    "gid": "458315324348140584",
+                    "size": "22909195120",
+                    "download": "13025480560"
+                }
+            },
+            "decryptionkey": "e6f1715a5b59614a89b1dd93f5b2f9c4078e5365b885651d49acfbfc4df8ad89"
+        },
+        "3353790": {
+            "dlcappid": "3353790"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17196362",
+                "timeupdated": "1738634450"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
