@@ -1,0 +1,44 @@
+{
+    "appid": "2225530",
+    "type": "Game",
+    "name": "Drawing From Memory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27295902",
+    "update_time": "2025-02-04 04:32:31",
+    "depot": {
+        "2225531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1043495230401942605",
+                    "size": "1205971572",
+                    "download": "95096400"
+                }
+            },
+            "decryptionkey": "5e5087456c02c573eacc1aa07105e8b225719f3cdcb1610d674d470b9ae64c91"
+        },
+        "2225532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4151624528080600045",
+                    "size": "1199380733",
+                    "download": "93039840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11352739",
+                "timeupdated": "1685473328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
