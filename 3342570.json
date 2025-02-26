@@ -1,0 +1,54 @@
+{
+    "appid": "3342570",
+    "type": "Demo",
+    "name": "琉隐神渡 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27528190",
+    "update_time": "2025-02-18 13:17:20",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "3342571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7717674070525869152",
+                    "size": "4181216305",
+                    "download": "4059333664"
+                }
+            },
+            "decryptionkey": "b5e36cee36231cc8e201776d535ca6a6a8a103e4ca047c738fa312e077115a77"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "17479162",
+                "timeupdated": "1740374377"
+            }
+        }
+    }
+}
