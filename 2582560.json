@@ -1,0 +1,52 @@
+{
+    "appid": "2582560",
+    "type": "Game",
+    "name": "EA SPORTS™ Madden NFL 25",
+    "schinese_name": "麦登橄榄球25",
+    "isfreeapp": "0",
+    "change_number": "27543483",
+    "update_time": "2025-02-19 06:36:20",
+    "depot": {
+        "2582561": {
+            "manifests": {
+                "public": {
+                    "gid": "2774533661164272884",
+                    "size": "58917803142",
+                    "download": "54892385664"
+                }
+            },
+            "decryptionkey": "ac359dbd4e38d078bab3b059797599a3c7f41423406c468825b27386afce46c4"
+        },
+        "2582562": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5429916605601222781",
+                    "size": "121620",
+                    "download": "29008"
+                }
+            },
+            "decryptionkey": "833e8a4e1f351c4d37259578665fe7384c32bc36569fb9b7febd77aa7772735d"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "7491961404986575764",
+                    "size": "235848799",
+                    "download": "237956208"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17286015",
+                "timeupdated": "1739966409"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
