@@ -1,0 +1,39 @@
+{
+    "appid": "3395140",
+    "type": "Game",
+    "name": "小小侠客模拟器",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27533871",
+    "update_time": "2025-02-18 20:21:09",
+    "depot": {
+        "3395141": {
+            "manifests": {
+                "public": {
+                    "gid": "7132093847617821754",
+                    "size": "584088757",
+                    "download": "402389392"
+                },
+                "test": {
+                    "gid": "6968788508878948309",
+                    "size": "583953116",
+                    "download": "402319104"
+                }
+            },
+            "decryptionkey": "f790bdf4b2a593f8aa9ba91d22825cb001b52156935252c18e6b0445da8b0cd9"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "17454488",
+                "timeupdated": "1740139398"
+            },
+            "test": {
+                "buildid": "17401521",
+                "description": "Game testing",
+                "timeupdated": "1739848133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
