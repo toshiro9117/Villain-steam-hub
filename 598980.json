@@ -1,0 +1,48 @@
+{
+    "appid": "598980",
+    "type": "Game",
+    "name": "The Coin Game",
+    "schinese_name": "硬币游戏",
+    "isfreeapp": "0",
+    "change_number": "27481322",
+    "update_time": "2025-02-14 22:43:10",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "598981": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "577180024992143128",
+                    "size": "4388573919",
+                    "download": "1378291552"
+                }
+            },
+            "decryptionkey": "5eef890e869bba07fb135158a507ede6b276453d706d5c4e36f2ac5a66e43963"
+        },
+        "598984": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5948476972997444892",
+                    "size": "4493401959",
+                    "download": "1405945984"
+                }
+            },
+            "decryptionkey": "8cd74454dd76b1413f9e9edce77dc07524709e46e9cca1523699953c636ad7dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16984283",
+                "timeupdated": "1737557981"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
