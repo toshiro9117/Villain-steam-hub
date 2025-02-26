@@ -1,0 +1,59 @@
+{
+    "appid": "2708790",
+    "type": "Game",
+    "name": "Together After Dark",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27500723",
+    "update_time": "2025-02-16 14:34:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2708791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1263747297805323220",
+                    "size": "12977533121",
+                    "download": "5327383680"
+                }
+            },
+            "decryptionkey": "8603d680cd2dfeee6da670de7dd0a0618464478381aaa55672071ed1a45c4647"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17478676",
+                "timeupdated": "1740369859"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
