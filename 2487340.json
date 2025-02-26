@@ -1,0 +1,28 @@
+{
+    "appid": "2487340",
+    "type": "Game",
+    "name": "MOMIBOSU",
+    "schinese_name": "别洞天记",
+    "isfreeapp": "0",
+    "change_number": "27372661",
+    "update_time": "2025-02-08 07:26:07",
+    "depot": {
+        "2487341": {
+            "manifests": {
+                "public": {
+                    "gid": "4961806506925246016",
+                    "size": "1367024599",
+                    "download": "651700768"
+                }
+            },
+            "decryptionkey": "07be30fcdffc5ebd31385b7f473091a8c9337a00524bdff323ce4380c419dbea"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "17282309",
+                "timeupdated": "1738970764"
+            }
+        }
+    }
+}
