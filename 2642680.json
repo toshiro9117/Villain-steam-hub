@@ -1,0 +1,44 @@
+{
+    "appid": "2642680",
+    "type": "Demo",
+    "name": "Half Sword Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24797573",
+    "update_time": "2024-08-15 17:25:05",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2642681": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6862758297285366977",
+                    "size": "1485330932",
+                    "download": "1365120304"
+                }
+            },
+            "decryptionkey": "730e6f8f0beb385c1a1ed0596d231bd8fc5ebbcbf87c2c7ba445ff008662dc05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12746708",
+                "timeupdated": "1700450250"
+            }
+        }
+    }
+}
