@@ -1,0 +1,43 @@
+{
+    "appid": "2157560",
+    "type": "Game",
+    "name": "Granblue Fantasy Versus: Rising",
+    "schinese_name": "碧蓝幻想Versus：崛起",
+    "isfreeapp": "0",
+    "change_number": "27533764",
+    "update_time": "2025-02-18 20:15:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2157561": {
+            "manifests": {
+                "public": {
+                    "gid": "7733914718336837058",
+                    "size": "20622721879",
+                    "download": "19325017552"
+                }
+            },
+            "decryptionkey": "ffd9dda329bdf010ea5cf3d9006024b8a321b4678cdee77fa6f753ee3e54b855"
+        },
+        "baselanguages": "english,german,french,spanish,japanese,portuguese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "16322716",
+                "timeupdated": "1732237895"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
