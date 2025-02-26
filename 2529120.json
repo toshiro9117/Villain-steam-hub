@@ -1,0 +1,27 @@
+{
+    "appid": "2529120",
+    "type": "Game",
+    "name": "Old School",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27437681",
+    "update_time": "2025-02-12 19:01:50",
+    "depot": {
+        "2529121": {
+            "manifests": {
+                "public": {
+                    "gid": "7636363021620974702",
+                    "size": "477863020",
+                    "download": "197466128"
+                }
+            },
+            "decryptionkey": "7b596a9f1c177977de7a3626a7bc624007bbc310a506eadbf0b904de1cf6a5ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17467492",
+                "timeupdated": "1740235033"
+            }
+        }
+    }
+}
