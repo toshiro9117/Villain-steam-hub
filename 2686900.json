@@ -1,0 +1,76 @@
+{
+    "appid": "2686900",
+    "type": "Game",
+    "name": "Churn Vector",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27508444",
+    "update_time": "2025-02-17 09:53:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2686901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2350132882629112940",
+                    "size": "1002080484",
+                    "download": "792686240"
+                }
+            },
+            "decryptionkey": "5345442adf6ca691d40d1d4e255b572a60f0bd3c5eed1365dcb9ce1daf27d926"
+        },
+        "2686902": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7150168723446953766",
+                    "size": "1049993632",
+                    "download": "808555472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2686903": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7540055524746928301",
+                    "size": "1047134282",
+                    "download": "803143984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2686900",
+        "branches": {
+            "public": {
+                "buildid": "16904774",
+                "timeupdated": "1736033132"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cab4a9de1affe35b2a15d603b6c5fb263eb746c3b5000da83c5cdf2ae7eaf4bf"
+    }
+}
