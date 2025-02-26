@@ -1,0 +1,47 @@
+{
+    "appid": "2194730",
+    "type": "Game",
+    "name": "ServiceIT: You can do IT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27466780",
+    "update_time": "2025-02-14 04:14:09",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2194731": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6610655008150533842",
+                    "size": "10790698055",
+                    "download": "10338994912"
+                }
+            },
+            "decryptionkey": "54bf44cc8249563ea86f88474f83467d819eae17775a0e82a8b440be87b81804"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17206662",
+                "timeupdated": "1738373634"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
