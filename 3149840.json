@@ -1,0 +1,29 @@
+{
+    "appid": "3149840",
+    "type": "Game",
+    "name": "Скуф на рыбалке",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27405007",
+    "update_time": "2025-02-11 01:17:46",
+    "depot": {
+        "3149841": {
+            "manifests": {
+                "public": {
+                    "gid": "4730016452687308558",
+                    "size": "662629611",
+                    "download": "267172720"
+                }
+            },
+            "decryptionkey": "2f33b10d7294fd95579a4326817dd0dad7e062ebeaadd85abc56da16133b2df9"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "16973918",
+                "timeupdated": "1736591831"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
