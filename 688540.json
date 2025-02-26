@@ -1,0 +1,47 @@
+{
+    "appid": "688540",
+    "type": "Game",
+    "name": "ZOMBIE RAID: No One Survives",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27539241",
+    "update_time": "2025-02-19 01:40:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "688541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3152792385033698817",
+                    "size": "12233801254",
+                    "download": "3026187712"
+                }
+            },
+            "decryptionkey": "4ab92f086dd11ccdda52175de5301341c928d8b2739401c43b4da0732019a99e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17441212",
+                "timeupdated": "1740064807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
