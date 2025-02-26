@@ -1,0 +1,35 @@
+{
+    "appid": "1711120",
+    "type": "Game",
+    "name": "Taxi Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27308414",
+    "update_time": "2025-02-04 22:33:33",
+    "depot": {
+        "1711121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5626997349244220806",
+                    "size": "2196299310",
+                    "download": "707847136"
+                }
+            },
+            "decryptionkey": "83252a9580adb0191ce22ae296a2cd64458c106724357215619005cbde3de46c"
+        },
+        "1711122": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8489467",
+                "timeupdated": "1648992480"
+            }
+        }
+    }
+}
