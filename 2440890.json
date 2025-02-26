@@ -1,0 +1,46 @@
+{
+    "appid": "2440890",
+    "type": "Game",
+    "name": "Nobody Nowhere",
+    "schinese_name": "无名归宿 NobodyNowhere",
+    "isfreeapp": "0",
+    "change_number": "27538832",
+    "update_time": "2025-02-19 01:14:58",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2440891": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "39048401234765971",
+                    "size": "566011956",
+                    "download": "405774080"
+                }
+            },
+            "decryptionkey": "57014a8c9e570e3251a1614e3bbd9dc7433a932543998b829f80ea7e64fc46dd"
+        },
+        "2440892": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3497431203957440888",
+                    "size": "566307999",
+                    "download": "405770352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17395485",
+                "timeupdated": "1739808008"
+            }
+        }
+    }
+}
