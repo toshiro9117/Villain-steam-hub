@@ -1,0 +1,32 @@
+{
+    "appid": "3099000",
+    "type": "Game",
+    "name": "Guns of Fury",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27531851",
+    "update_time": "2025-02-18 18:14:42",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,japanese",
+        "3099001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5885244387317395303",
+                    "size": "143733559",
+                    "download": "118325824"
+                }
+            },
+            "decryptionkey": "b796e08fa994d42f500dfea5db6515409779cc50c6e94a719f862ed2d2c0af43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17471073",
+                "timeupdated": "1740289233"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
