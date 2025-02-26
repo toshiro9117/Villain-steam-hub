@@ -1,0 +1,59 @@
+{
+    "appid": "2753100",
+    "type": "Game",
+    "name": "Idle Trillionaire",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27541687",
+    "update_time": "2025-02-19 04:14:41",
+    "depot": {
+        "baselanguages": "english",
+        "2753101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2237245453662374769",
+                    "size": "372187524",
+                    "download": "108949696"
+                },
+                "buildtest": {
+                    "gid": "8969806313240227596",
+                    "size": "325426887",
+                    "download": "97823488"
+                }
+            },
+            "decryptionkey": "894e229332c2f2ef62705259877f837eb9d847091b13eedea0734cb144eb164b"
+        },
+        "2753102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1586641608715501895",
+                    "size": "519605043",
+                    "download": "155392784"
+                },
+                "buildtest": {
+                    "gid": "3143370241102457424",
+                    "size": "474139439",
+                    "download": "144974592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17475194",
+                "timeupdated": "1740335551"
+            },
+            "buildtest": {
+                "buildid": "14566821",
+                "description": "testing new builds",
+                "timeupdated": "1717196091"
+            }
+        }
+    }
+}
