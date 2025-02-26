@@ -1,0 +1,30 @@
+{
+    "appid": "3359320",
+    "type": "Game",
+    "name": "SchoolBoy Runaway",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27505471",
+    "update_time": "2025-02-17 03:15:05",
+    "depot": {
+        "3359321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1240642654763541475",
+                    "size": "557640946",
+                    "download": "252147456"
+                }
+            },
+            "decryptionkey": "6501fca770ca2ec4e4804a7c5674717d9e5fd6e864f3860cd9624379fafe214c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16910402",
+                "timeupdated": "1736076182"
+            }
+        }
+    }
+}
