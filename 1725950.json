@@ -1,0 +1,40 @@
+{
+    "appid": "1725950",
+    "type": "Game",
+    "name": "魔塔地牢",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27172903",
+    "update_time": "2025-01-26 23:46:48",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "1725951": {
+            "manifests": {
+                "public": {
+                    "gid": "1399112433982729106",
+                    "size": "417055809",
+                    "download": "191661328"
+                },
+                "old-version": {
+                    "gid": "8444922358181903477",
+                    "size": "411626208",
+                    "download": "188989856"
+                }
+            },
+            "decryptionkey": "84a861d76b157b4729f0bffbd15255b98bad47300252ab0e88221f7a375eb3f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17433488",
+                "timeupdated": "1740024688"
+            },
+            "old-version": {
+                "buildid": "15442778",
+                "description": "老版本，如果无法读取存档请在这个版本转生之后再更新",
+                "timeupdated": "1724813087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
