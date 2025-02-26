@@ -1,0 +1,42 @@
+{
+    "appid": "2735220",
+    "type": "Game",
+    "name": "PolyZ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27519934",
+    "update_time": "2025-02-18 01:15:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2735221": {
+            "manifests": {
+                "public": {
+                    "gid": "637739584656802152",
+                    "size": "6341236493",
+                    "download": "2775274336"
+                }
+            },
+            "decryptionkey": "c755c493b5ad54eabb764997ae78422300d7b9208709f8028211de7b73392078"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16023228",
+                "timeupdated": "1728776227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
