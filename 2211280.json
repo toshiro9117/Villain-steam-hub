@@ -1,0 +1,47 @@
+{
+    "appid": "2211280",
+    "type": "Game",
+    "name": "Roller Champions™",
+    "schinese_name": "冠军冲刺™",
+    "isfreeapp": "1",
+    "change_number": "26597879",
+    "update_time": "2024-12-12 02:14:56",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2211281": {
+            "manifests": {
+                "public": {
+                    "gid": "3592675481150918859",
+                    "size": "13512148900",
+                    "download": "10649278064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "6750736260530963906",
+                    "size": "256391736",
+                    "download": "258388880"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13737792",
+                "timeupdated": "1711450717"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
