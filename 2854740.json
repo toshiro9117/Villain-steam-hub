@@ -1,0 +1,57 @@
+{
+    "appid": "2854740",
+    "type": "Game",
+    "name": "Nunholy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27518972",
+    "update_time": "2025-02-18 00:18:04",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2854741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "480824043497391793",
+                    "size": "696712965",
+                    "download": "523741504"
+                }
+            },
+            "decryptionkey": "0e7a850b48b129deb2aaad37ecfe891a75e20b415134fcefefd010fff8c8936a"
+        },
+        "2854742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5070968834080360854",
+                    "size": "718289162",
+                    "download": "529698352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2854743": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5320098298118457261",
+                    "size": "694749281",
+                    "download": "521053872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17425247",
+                "timeupdated": "1739981850"
+            }
+        }
+    }
+}
