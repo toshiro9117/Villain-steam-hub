@@ -1,0 +1,178 @@
+{
+    "appid": "990080",
+    "type": "Game",
+    "name": "Hogwarts Legacy",
+    "schinese_name": "霍格沃茨之遗",
+    "isfreeapp": "0",
+    "change_number": "27543772",
+    "update_time": "2025-02-19 07:01:28",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "990081": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6083292835765343404",
+                    "size": "74112678353",
+                    "download": "70573252544"
+                }
+            },
+            "decryptionkey": "99edd7f3221635d93481770b28ebac240488e1f42cf16f01e5a4e744b0944da6"
+        },
+        "1377040": {
+            "dlcappid": "1377040",
+            "config": {
+                "language": ""
+            }
+        },
+        "1386970": {
+            "dlcappid": "1386970",
+            "config": {
+                "language": ""
+            }
+        },
+        "990082": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4538721162885396348",
+                    "size": "2387463637",
+                    "download": "2290758928"
+                }
+            },
+            "decryptionkey": "ac55581fbdef1f6687f91654d435e2d4c395d2fa56eb5aba4fa52d708118157e"
+        },
+        "990083": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3367911833819005302",
+                    "size": "2604057950",
+                    "download": "2494495056"
+                }
+            },
+            "decryptionkey": "2326f907ccd6ebfc8235495fbb2abd7b12d814a3228cd3b0bf480f7c602c87f5"
+        },
+        "990084": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "414441310706175620",
+                    "size": "2596093389",
+                    "download": "2485112512"
+                }
+            },
+            "decryptionkey": "f043f2ca0cfbbaf5fcb6e30d4beb1a20ba5ef293db11dc4e5521bdfa8a7fdfe0"
+        },
+        "990085": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7318299547251450832",
+                    "size": "2696455135",
+                    "download": "2587139520"
+                }
+            },
+            "decryptionkey": "b7d07ff314786df30f9d32266a2e88cd026fabaffbd2567dbc1637cd319ef996"
+        },
+        "990086": {
+            "config": {
+                "language": "latam"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8617281161021980231",
+                    "size": "2703391750",
+                    "download": "2591786928"
+                }
+            },
+            "decryptionkey": "d9814846faaa5f83e45151bec5190062e320c6b9a6842e7722ed51293a29a667"
+        },
+        "990087": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5778957647446170879",
+                    "size": "2685750099",
+                    "download": "2571862880"
+                }
+            },
+            "decryptionkey": "42c46e0e1520cefc9f4120f00fca640bc83f48b322e7b19ad9530538d9cbee75"
+        },
+        "990088": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2587553384854783015",
+                    "size": "2615366425",
+                    "download": "2505467280"
+                }
+            },
+            "decryptionkey": "81c364d84279c2fafb7960d0aabd75e7e371ad27f275484d99ef5734e4c00d95"
+        },
+        "990089": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6371051939419455615",
+                    "size": "2572033639",
+                    "download": "2461935280"
+                }
+            },
+            "decryptionkey": "21886ab063a78ccf9b676f311597b895c73a1410cd9f7e0e3e7b4e99b82f1e6b"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17118096",
+                "timeupdated": "1738257065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
