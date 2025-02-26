@@ -1,0 +1,45 @@
+{
+    "appid": "3066570",
+    "type": "Game",
+    "name": "Aotenjo: Infinite Hands",
+    "schinese_name": "青天井",
+    "isfreeapp": "0",
+    "change_number": "27539372",
+    "update_time": "2025-02-19 01:49:21",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3066571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2080205364649310334",
+                    "size": "342008214",
+                    "download": "87717312"
+                }
+            },
+            "decryptionkey": "3a0d81046c1bd184184fde7c181a9e705d2a78580deef1c427be4392d9e5558f"
+        },
+        "3066572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8869583710674675256",
+                    "size": "365147600",
+                    "download": "94409696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17301529",
+                "timeupdated": "1739196086"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
