@@ -1,0 +1,89 @@
+{
+    "appid": "463530",
+    "type": "Game",
+    "name": "Empires of the Undergrowth",
+    "schinese_name": "地下蚁国 Empires of the Undergrowth",
+    "isfreeapp": "0",
+    "change_number": "27468197",
+    "update_time": "2025-02-14 06:03:03",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "463531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1406841710592888681",
+                    "size": "5540744550",
+                    "download": "5335103856"
+                }
+            },
+            "decryptionkey": "913b6f7c71e6b2453f127bfaa8581883b1fda1fa980ddbe4b1ef1b3f9b6c9cef"
+        },
+        "463532": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8740411461507035877",
+                    "size": "5930473396",
+                    "download": "5783634528"
+                }
+            },
+            "decryptionkey": "f933bfcc5faca765720f0b113d3ca3048cec73afc259ec932c39cd7980444066"
+        },
+        "463533": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5863906363843821727",
+                    "size": "5847954340",
+                    "download": "5522143584"
+                }
+            },
+            "decryptionkey": "ee2baffa6fd92a5208e990513c71a8ea15fe00f12c67f74b6a45cc1b993f8191"
+        },
+        "463534": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4928343751148336280",
+                    "size": "3553255409",
+                    "download": "3368202000"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16828767",
+                "timeupdated": "1734957762"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
