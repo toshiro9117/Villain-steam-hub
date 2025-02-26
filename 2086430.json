@@ -1,0 +1,52 @@
+{
+    "appid": "2086430",
+    "type": "Game",
+    "name": "NIMRODS",
+    "schinese_name": "NIMRODS: 枪匠幸存者",
+    "isfreeapp": "0",
+    "change_number": "27543380",
+    "update_time": "2025-02-19 06:28:16",
+    "depot": {
+        "2086432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7664126511242703418",
+                    "size": "841369914",
+                    "download": "184760640"
+                }
+            },
+            "decryptionkey": "027b957a020894379976c203d53558eacd1459e14c73fd73986c6e45e423fd19"
+        },
+        "2086433": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6903273690915922511",
+                    "size": "1028588872",
+                    "download": "215554672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2086431": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17445167",
+                "timeupdated": "1740089185"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
