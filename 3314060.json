@@ -1,0 +1,36 @@
+{
+    "appid": "3314060",
+    "type": "Game",
+    "name": "The Sims™ Legacy Collection",
+    "schinese_name": "《The Sims™》经典合集",
+    "isfreeapp": "0",
+    "change_number": "27543597",
+    "update_time": "2025-02-19 06:46:27",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3314061": {
+            "manifests": {
+                "public": {
+                    "gid": "1422979514925483174",
+                    "size": "3680430791",
+                    "download": "1824708912"
+                }
+            },
+            "decryptionkey": "702f1538eec82128d56b61de25ef41583c24e6993df1245fee4174583cd6dda6"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,polish,danish,dutch,finnish,norwegian,swedish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17372953",
+                "timeupdated": "1740074345"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
