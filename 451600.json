@@ -1,0 +1,100 @@
+{
+    "appid": "451600",
+    "type": "Game",
+    "name": "CounterAttack: Uprising",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27499626",
+    "update_time": "2025-02-16 10:18:31",
+    "depot": {
+        "451601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8774464868221337826",
+                    "size": "2465513582",
+                    "download": "1047711392"
+                },
+                "beta": {
+                    "gid": "8774464868221337826",
+                    "size": "2465513582",
+                    "download": "1047711392"
+                },
+                "v114": {
+                    "gid": "5903178124819549270",
+                    "size": "2264266871",
+                    "download": "987313008"
+                }
+            },
+            "decryptionkey": "fcd4ee232b1a7ad5216998fb5d14c5b10b58bdc2fcaec2dbb0eb8f36861332fa"
+        },
+        "451602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "695691362236072701",
+                    "size": "2512141238",
+                    "download": "1061000896"
+                },
+                "beta": {
+                    "gid": "695691362236072701",
+                    "size": "2512141238",
+                    "download": "1061000896"
+                },
+                "v114": {
+                    "gid": "4676842387362649755",
+                    "size": "2317374146",
+                    "download": "1002597664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "451603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6681086084330254399",
+                    "size": "2556083457",
+                    "download": "1073740240"
+                },
+                "beta": {
+                    "gid": "6681086084330254399",
+                    "size": "2556083457",
+                    "download": "1073740240"
+                },
+                "v114": {
+                    "gid": "331328763988948810",
+                    "size": "2361191932",
+                    "download": "1015093952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,french,koreana,spanish,schinese,japanese",
+        "workshopdepot": "451600",
+        "branches": {
+            "public": {
+                "buildid": "17417590",
+                "timeupdated": "1739942818"
+            },
+            "beta": {
+                "buildid": "17417590",
+                "description": "Prerelease of next update (when available)",
+                "timeupdated": "1739942557"
+            },
+            "v114": {
+                "buildid": "13418687",
+                "description": "Version 1.1.4",
+                "timeupdated": "1725087106"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
