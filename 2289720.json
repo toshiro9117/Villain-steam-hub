@@ -1,0 +1,38 @@
+{
+    "appid": "2289720",
+    "type": "Game",
+    "name": "Kaiju Princess 2",
+    "schinese_name": "暴食的怪兽公主：惑星美食之旅",
+    "isfreeapp": "0",
+    "change_number": "27502866",
+    "update_time": "2025-02-16 21:14:13",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,ukrainian",
+        "hasdepotsindlc": "1",
+        "2289721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3506526687849413593",
+                    "size": "4038308486",
+                    "download": "3230591728"
+                }
+            },
+            "decryptionkey": "9fc3429c350b7acd178867e645e958b1fafa2cf615acb4bdae830eaac032bdd0"
+        },
+        "2289722": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16857100",
+                "timeupdated": "1735315943"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
