@@ -1,0 +1,50 @@
+{
+    "appid": "2468100",
+    "type": "Game",
+    "name": "Pyrene",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27522124",
+    "update_time": "2025-02-18 03:41:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2468101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6277425478328003133",
+                    "size": "475741995",
+                    "download": "260962224"
+                }
+            },
+            "decryptionkey": "a21cf0e528c3491a8bd1137b7677c952289e6bae9151840615a2d53e4db3295b"
+        },
+        "2468102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3022966308932236150",
+                    "size": "441263726",
+                    "download": "244658672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17394998",
+                "timeupdated": "1739805732"
+            }
+        }
+    }
+}
