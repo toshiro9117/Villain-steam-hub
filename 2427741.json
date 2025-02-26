@@ -1,0 +1,33 @@
+{
+    "appid": "2427741",
+    "type": "DLC",
+    "name": "Cities: Skylines II - Creator Pack: Modern Architecture",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27520173",
+    "update_time": "2025-02-18 01:32:36",
+    "depot": {
+        "2427741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9051044764819450395",
+                    "size": "746186991",
+                    "download": "661391216"
+                }
+            },
+            "dlcappid": "2427741",
+            "decryptionkey": "d2166f8c2e87ec7b0900a190c9cc19ee010fdd65fd616e23a0f5e7c86ab7f6b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16816450",
+                "timeupdated": "1737536374"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
