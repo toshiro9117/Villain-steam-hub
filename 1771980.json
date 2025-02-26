@@ -1,0 +1,78 @@
+{
+    "appid": "1771980",
+    "type": "Game",
+    "name": "The Operator",
+    "schinese_name": "接线疑云 The Operator",
+    "isfreeapp": "0",
+    "change_number": "27516307",
+    "update_time": "2025-02-17 21:33:31",
+    "depot": {
+        "baselanguages": "english,french",
+        "1771981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1521055226008888090",
+                    "size": "2062626580",
+                    "download": "700346528"
+                },
+                "beta": {
+                    "gid": "1521055226008888090",
+                    "size": "2062626580",
+                    "download": "700346528"
+                }
+            },
+            "decryptionkey": "a132c1c3d884ac55a44f68c500d37d3562afab6e6642d3051469f09a097274c3"
+        },
+        "1771982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1308903935495870256",
+                    "size": "2112034861",
+                    "download": "711584032"
+                },
+                "beta": {
+                    "gid": "1308903935495870256",
+                    "size": "2112034861",
+                    "download": "711584032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1771983": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1056633337870240217",
+                    "size": "2046201452",
+                    "download": "695225952"
+                },
+                "beta": {
+                    "gid": "1056633337870240217",
+                    "size": "2046201452",
+                    "download": "695225952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15593303",
+                "timeupdated": "1725470530"
+            },
+            "beta": {
+                "buildid": "15593303",
+                "description": "beta branch to test the latest version",
+                "timeupdated": "1725470500"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
