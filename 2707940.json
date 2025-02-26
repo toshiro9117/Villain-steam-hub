@@ -1,0 +1,52 @@
+{
+    "appid": "2707940",
+    "type": "Game",
+    "name": "FPV Kamikaze Drone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501124",
+    "update_time": "2025-02-16 16:00:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707941": {
+            "manifests": {
+                "public": {
+                    "gid": "727902665397627590",
+                    "size": "4002805145",
+                    "download": "3778122288"
+                },
+                "development": {
+                    "gid": "727902665397627590",
+                    "size": "4002805145",
+                    "download": "3778122288"
+                }
+            },
+            "decryptionkey": "6660644ddd76643cb6e2fed1f8da977636b5677060ef6338cf9d2e8d3ecc0c07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17382617",
+                "timeupdated": "1739692839"
+            },
+            "development": {
+                "buildid": "17382617",
+                "description": "dev",
+                "timeupdated": "1739692537"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
