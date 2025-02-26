@@ -1,0 +1,77 @@
+{
+    "appid": "830640",
+    "type": "Tool",
+    "name": "DayZ Tools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27532741",
+    "update_time": "2025-02-18 19:06:55",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "830641": {
+            "manifests": {
+                "public": {
+                    "gid": "3313984765444353794",
+                    "size": "510805647",
+                    "download": "219356368"
+                }
+            },
+            "decryptionkey": "3e61bff301ba32c46755dfa2807e6b54e9482e44f9732d0a166ff258cc0a20c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16504650",
+                "timeupdated": "1732305818"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
