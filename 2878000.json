@@ -1,0 +1,44 @@
+{
+    "appid": "2878000",
+    "type": "Game",
+    "name": "Personal Study",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27492306",
+    "update_time": "2025-02-15 16:17:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2878001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8490557280076627697",
+                    "size": "1108989152",
+                    "download": "955132672"
+                }
+            },
+            "decryptionkey": "0bea8f1a793fa678e815c85c9c5fc07fb54eb2325124eabaea048bb2cf3dad50"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17091954",
+                "timeupdated": "1737553386"
+            }
+        }
+    }
+}
