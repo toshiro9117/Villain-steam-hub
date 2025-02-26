@@ -1,0 +1,46 @@
+{
+    "appid": "2290000",
+    "type": "Game",
+    "name": "TerraScape",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27464134",
+    "update_time": "2025-02-14 01:22:11",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,dutch,brazilian",
+        "2290001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6382588483529831436",
+                    "size": "1842713277",
+                    "download": "1543337136"
+                }
+            },
+            "decryptionkey": "3cf35d14bf13777748547142d001d9010de60946610bcdb524db81acc663069f"
+        },
+        "2290002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "475083825827797801",
+                    "size": "1892350368",
+                    "download": "1554403600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17437057",
+                "timeupdated": "1740060897"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
