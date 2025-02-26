@@ -1,0 +1,31 @@
+{
+    "appid": "3328720",
+    "type": "Game",
+    "name": "闪光公仔",
+    "schinese_name": "闪光公仔",
+    "isfreeapp": "0",
+    "change_number": "27537802",
+    "update_time": "2025-02-19 00:15:15",
+    "depot": {
+        "3328721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4568282501148547112",
+                    "size": "1762879945",
+                    "download": "1394259392"
+                }
+            },
+            "decryptionkey": "2b884aee62fb6f72dff10a76bfef85f1abe442945e02bb555872218a05f66f25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17465898",
+                "timeupdated": "1740216419"
+            }
+        }
+    }
+}
