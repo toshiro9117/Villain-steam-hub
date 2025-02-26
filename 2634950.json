@@ -1,0 +1,50 @@
+{
+    "appid": "2634950",
+    "type": "Game",
+    "name": "Tokyo Xtreme Racer",
+    "schinese_name": "首都高赛车",
+    "isfreeapp": "0",
+    "change_number": "27530433",
+    "update_time": "2025-02-18 16:40:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2634951": {
+            "manifests": {
+                "public": {
+                    "gid": "722582944103692481",
+                    "size": "7191637855",
+                    "download": "7002125632"
+                }
+            },
+            "decryptionkey": "0f27021c9467560d6fd421ba480ebc674efa20375f8a2af71fc51e28345005f5"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "17435236",
+                "timeupdated": "1740041790"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
