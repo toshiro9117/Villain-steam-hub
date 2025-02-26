@@ -1,0 +1,42 @@
+{
+    "appid": "1714900",
+    "type": "Game",
+    "name": "First Dwarf",
+    "schinese_name": "《矮人元祖》 (First Dwarf)",
+    "isfreeapp": "0",
+    "change_number": "27520257",
+    "update_time": "2025-02-18 01:37:56",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1714901": {
+            "manifests": {
+                "public": {
+                    "gid": "8102653640685457627",
+                    "size": "9151732027",
+                    "download": "4093475504"
+                }
+            },
+            "decryptionkey": "4a350b16170b0b8dedd4a037757b361c684d522266a79073451d057a9bb0a361"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17339253",
+                "timeupdated": "1739384392"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
