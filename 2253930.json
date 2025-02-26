@@ -1,0 +1,28 @@
+{
+    "appid": "2253930",
+    "type": "Game",
+    "name": "Kamikaze Lassplanes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27380042",
+    "update_time": "2025-02-09 00:29:33",
+    "depot": {
+        "2253931": {
+            "manifests": {
+                "public": {
+                    "gid": "8461050715675281720",
+                    "size": "6580778846",
+                    "download": "4775811376"
+                }
+            },
+            "decryptionkey": "be43d2ec2928a93cfcb96cdb9b4fc2653b53b7b2a9dca4fd13458f67caf8c3a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16478446",
+                "timeupdated": "1732174533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
