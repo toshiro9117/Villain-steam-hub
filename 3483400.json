@@ -1,0 +1,29 @@
+{
+    "appid": "3483400",
+    "type": "DLC",
+    "name": "ARK: Astraeos",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27538896",
+    "update_time": "2025-02-19 01:18:32",
+    "depot": {
+        "3483400": {
+            "dlcappid": "3483400",
+            "manifests": {
+                "public": {
+                    "gid": "5911446799562094720",
+                    "size": "2599273439",
+                    "download": "2154505664"
+                }
+            },
+            "decryptionkey": "8f2706fe64f86426091cbb9a23dedbc3ec0c53a78877abb9b549edded5f436ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17348488",
+                "timeupdated": "1739512429"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
