@@ -1,0 +1,66 @@
+{
+    "appid": "783710",
+    "type": "Tool",
+    "name": "Virtual Desktop Dashboard",
+    "schinese_name": "VR桌面 仪表板",
+    "isfreeapp": "0",
+    "change_number": "27351956",
+    "update_time": "2025-02-07 03:57:46",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "783711": {
+            "manifests": {
+                "public": {
+                    "gid": "191742436550526795",
+                    "size": "22482399",
+                    "download": "10802032"
+                },
+                "beta": {
+                    "gid": "191742436550526795",
+                    "size": "22482399",
+                    "download": "10802032"
+                }
+            },
+            "decryptionkey": "033f19bf2c9ba42ce48dc01e8129ccf0527987b45719b229f4c1659d62ff62b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17240269",
+                "timeupdated": "1738871862"
+            },
+            "beta": {
+                "buildid": "17240269",
+                "description": "Public testing branch",
+                "timeupdated": "1738871838"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
