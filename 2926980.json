@@ -1,0 +1,35 @@
+{
+    "appid": "2926980",
+    "type": "Demo",
+    "name": "Combat Complex Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27050259",
+    "update_time": "2025-01-18 06:41:59",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2926981": {
+            "manifests": {
+                "public": {
+                    "gid": "6314507847435420448",
+                    "size": "1960253852",
+                    "download": "260427888"
+                }
+            },
+            "decryptionkey": "be8c94f7bcfcf88a444b448e65807f5f681085a686abf1cf50f846915d95515c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16582018",
+                "timeupdated": "1732903010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
