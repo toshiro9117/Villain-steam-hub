@@ -1,0 +1,94 @@
+{
+    "appid": "1932210",
+    "type": "Game",
+    "name": "Takara Cards",
+    "schinese_name": "宝卡太空龙",
+    "isfreeapp": "0",
+    "change_number": "27479812",
+    "update_time": "2025-02-14 21:15:54",
+    "depot": {
+        "1932211": {
+            "manifests": {
+                "public": {
+                    "gid": "6444796285885788590",
+                    "size": "677440600",
+                    "download": "204914176"
+                },
+                "old_stable": {
+                    "gid": "1333307337039777674",
+                    "size": "676745176",
+                    "download": "204823952"
+                },
+                "open_beta": {
+                    "gid": "4044230425005173424",
+                    "size": "677442184",
+                    "download": "204914800"
+                }
+            },
+            "decryptionkey": "e9188b890dcb89bedea898c293e931705c7db2f8f280b7dbadebd952fa5ba30c"
+        },
+        "1932212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7667211823833263983",
+                    "size": "34025984",
+                    "download": "10421216"
+                },
+                "old_stable": {
+                    "gid": "7667211823833263983",
+                    "size": "34025984",
+                    "download": "10421216"
+                },
+                "open_beta": {
+                    "gid": "7667211823833263983",
+                    "size": "34025984",
+                    "download": "10421216"
+                }
+            },
+            "decryptionkey": "6eca36acbd37c293c23e73f42d55fe3fec47d7ba6e405a01137eec3353274b69"
+        },
+        "1932213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3030394590881040616",
+                    "size": "34492936",
+                    "download": "10859600"
+                },
+                "old_stable": {
+                    "gid": "3030394590881040616",
+                    "size": "34492936",
+                    "download": "10859600"
+                },
+                "open_beta": {
+                    "gid": "3030394590881040616",
+                    "size": "34492936",
+                    "download": "10859600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17228532",
+                "timeupdated": "1738615571"
+            },
+            "old_stable": {
+                "buildid": "17132082",
+                "description": "Older stable releases",
+                "timeupdated": "1738372073"
+            },
+            "open_beta": {
+                "buildid": "17311711",
+                "description": "Open beta for players",
+                "timeupdated": "1739538922"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
