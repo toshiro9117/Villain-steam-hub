@@ -1,0 +1,36 @@
+{
+    "appid": "1893810",
+    "type": "Game",
+    "name": "Solium Infernum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501629",
+    "update_time": "2025-02-16 17:39:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1893811": {
+            "manifests": {
+                "public": {
+                    "gid": "4931160729540482288",
+                    "size": "5460012639",
+                    "download": "4250229952"
+                }
+            },
+            "decryptionkey": "1e7029fe0f49b6198e77a38bd01242345eab2e81a7ded46b2f212defd18710c3"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "14840662",
+                "timeupdated": "1719448163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
