@@ -1,0 +1,58 @@
+{
+    "appid": "1683150",
+    "type": "Game",
+    "name": "Railroader",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27430196",
+    "update_time": "2025-02-12 08:48:32",
+    "depot": {
+        "1683151": {
+            "manifests": {
+                "public": {
+                    "gid": "380914064683205385",
+                    "size": "7716455322",
+                    "download": "2958270496"
+                },
+                "2024.5.x": {
+                    "gid": "380914064683205385",
+                    "size": "7716455322",
+                    "download": "2958270496"
+                },
+                "experimental-2024.6": {
+                    "gid": "5432790048923658661",
+                    "size": "8908349634",
+                    "download": "3298584896"
+                },
+                "previous": {
+                    "gid": "7354064618380832233",
+                    "size": "7716311064",
+                    "download": "2958207744"
+                }
+            },
+            "decryptionkey": "a6213f68b5dd47f4f8e9e0252dfc6ff390dea9931c891b01fca20408efae3bb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15169177",
+                "timeupdated": "1722045050"
+            },
+            "2024.5.x": {
+                "buildid": "15169177",
+                "description": "2024.5.x",
+                "timeupdated": "1722045022"
+            },
+            "experimental-2024.6": {
+                "buildid": "17470917",
+                "description": "Experimental 2024.6.x build",
+                "timeupdated": "1740277704"
+            },
+            "previous": {
+                "buildid": "15083054",
+                "description": "Previous build.",
+                "timeupdated": "1722002426"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
