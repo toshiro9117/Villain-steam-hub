@@ -1,0 +1,79 @@
+{
+    "appid": "3093590",
+    "type": "Game",
+    "name": "Kemopop!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27488439",
+    "update_time": "2025-02-15 07:05:38",
+    "depot": {
+        "3093591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1130469096401876510",
+                    "size": "517948120",
+                    "download": "461871168"
+                },
+                "beta": {
+                    "gid": "1130469096401876510",
+                    "size": "517948120",
+                    "download": "461871168"
+                }
+            },
+            "decryptionkey": "bb1643f6f7a3b4bd4f286d307082298064737c237f7cd8a8546dc399590f82d7"
+        },
+        "3093592": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2376573467787783955",
+                    "size": "524542912",
+                    "download": "463592928"
+                },
+                "beta": {
+                    "gid": "2376573467787783955",
+                    "size": "524542912",
+                    "download": "463592928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3093593": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1762525407771040502",
+                    "size": "589496332",
+                    "download": "477101040"
+                },
+                "beta": {
+                    "gid": "1762525407771040502",
+                    "size": "589496332",
+                    "download": "477101040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "3093590",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17454015",
+                "timeupdated": "1740136919"
+            },
+            "beta": {
+                "buildid": "17454015",
+                "description": "Live distribution staging branch",
+                "timeupdated": "1740136821"
+            }
+        },
+        "workshopdepotdecryptionkey": "d2ef3d71acee18fec388c39f07d9c1fbe04beec5eecd1782a43a250170ebaa43"
+    }
+}
