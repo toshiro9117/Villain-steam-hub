@@ -1,0 +1,44 @@
+{
+    "appid": "3453320",
+    "type": "Demo",
+    "name": "Squirreled Away Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27530891",
+    "update_time": "2025-02-18 17:14:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3453321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7100768996156289557",
+                    "size": "1191596385",
+                    "download": "1046637472"
+                }
+            },
+            "decryptionkey": "2bd955dccbe493602075a0d8911294761671bf09438845f4a2d9ea65d0174d6b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17254387",
+                "timeupdated": "1738772987"
+            }
+        }
+    }
+}
