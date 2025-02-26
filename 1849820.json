@@ -1,0 +1,30 @@
+{
+    "appid": "1849820",
+    "type": "Game",
+    "name": "Telepath Tactics Liberated",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26931517",
+    "update_time": "2025-01-10 06:39:19",
+    "depot": {
+        "1849821": {
+            "manifests": {
+                "public": {
+                    "gid": "6087007021048531242",
+                    "size": "10142696847",
+                    "download": "1296111568"
+                }
+            },
+            "decryptionkey": "1501d925a8ed6f8c94e152eab67d7ba72131eb88383308f9b8de8361ffd030d7"
+        },
+        "workshopdepot": "1849820",
+        "branches": {
+            "public": {
+                "buildid": "16957112",
+                "timeupdated": "1736462355"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
