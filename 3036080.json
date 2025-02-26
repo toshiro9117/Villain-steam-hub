@@ -1,0 +1,42 @@
+{
+    "appid": "3036080",
+    "type": "Game",
+    "name": "Shawarma Legend",
+    "schinese_name": "沙威玛传奇 - Shawarma Legend",
+    "isfreeapp": "0",
+    "change_number": "27376455",
+    "update_time": "2025-02-08 16:17:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3036081": {
+            "manifests": {
+                "public": {
+                    "gid": "3142843487299001299",
+                    "size": "98692131",
+                    "download": "80537104"
+                }
+            },
+            "decryptionkey": "43c6cbc48dd25cd831e560ab88eaec5ec6ea5759d28d66933d6ae1a4badb30db"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,turkish,arabic,brazilian,latam,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "16194740",
+                "timeupdated": "1729991801"
+            }
+        }
+    }
+}
