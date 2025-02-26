@@ -1,0 +1,135 @@
+{
+    "appid": "2322560",
+    "type": "Game",
+    "name": "完蛋！我被美女包围了！",
+    "schinese_name": "完蛋！我被美女包围了！",
+    "isfreeapp": "0",
+    "change_number": "26864483",
+    "update_time": "2025-01-05 08:06:12",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese,vietnamese",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2322561": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1152833641078037540",
+                    "size": "15581212691",
+                    "download": "15100686128"
+                }
+            },
+            "decryptionkey": "f8ae938c87b21add3212afdb3a3ff3ce10006f418b44f8ba151efab5fa3645ba"
+        },
+        "2322562": {
+            "config": {
+                "oslist": "macos",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5336560606984778189",
+                    "size": "15720880209",
+                    "download": "15131718624"
+                }
+            },
+            "decryptionkey": "4c7fe6457c86ff503ae1c48175bdf14b66e7aeace01051dd0c2ebe8c193eb826"
+        },
+        "2322563": {
+            "config": {
+                "oslist": "linux",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6523703741848690378",
+                    "size": "15641380825",
+                    "download": "15108506352"
+                }
+            },
+            "decryptionkey": "43e70d7f01def87e3f7da43d52cfab4355d2df1140aaf190894a9b834f97b5dd"
+        },
+        "2322564": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7090632964322436303",
+                    "size": "17735887341",
+                    "download": "16874677920"
+                }
+            },
+            "decryptionkey": "ffba65bebbbe85488c3fc3327d568c07b9fd02bdd5c4a8a988e2b6056561b9b8"
+        },
+        "2322565": {
+            "config": {
+                "language": "japanese",
+                "oslist": "macos",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4248830091730589857",
+                    "size": "17875554859",
+                    "download": "16905699904"
+                }
+            },
+            "decryptionkey": "4e3c98a38e395106c2ae7b7158a0d71d196f67fb233f6ad104c76d6e93c6f9b9"
+        },
+        "2322566": {
+            "config": {
+                "language": "japanese",
+                "oslist": "linux",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8458217373506459901",
+                    "size": "17796055475",
+                    "download": "16882485472"
+                }
+            },
+            "decryptionkey": "143539fbc7eb0af9ab5d61ab19123942fefcfef35d51e3a3d221db46ffdc39aa"
+        },
+        "2322567": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4526584360959775877",
+                    "size": "17705873748",
+                    "download": "16876682624"
+                }
+            },
+            "decryptionkey": "7d0e7a2f4fe4b913552a2e98b1ef0e0b59d0f6704c6aa17f6338b32f998410f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16139868",
+                "timeupdated": "1729648855"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
