@@ -1,0 +1,134 @@
+{
+    "appid": "2842040",
+    "type": "Game",
+    "name": "Star Wars Outlaws",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27518219",
+    "update_time": "2025-02-17 23:29:01",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2842041": {
+            "manifests": {
+                "public": {
+                    "gid": "3787832869766273258",
+                    "size": "67468709939",
+                    "download": "59152638368"
+                }
+            },
+            "decryptionkey": "bed1b2aedb9b823e084bde3a15663caf8f50feaadd104bba0c7e474540a11f43"
+        },
+        "2842042": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3461393091043384503",
+                    "size": "2386614873",
+                    "download": "2249827360"
+                }
+            },
+            "decryptionkey": "110e9180cab6db688b21cc6f16820d8197b333d0c1d88b66da81d43753a9c786"
+        },
+        "2842043": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "924782718830989789",
+                    "size": "2542957542",
+                    "download": "2400769040"
+                }
+            },
+            "decryptionkey": "2d98d4345bb461b3ee9574d5e4f00cf62e968042031e7d7361b3d15d09282788"
+        },
+        "2842044": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "719866849635215746",
+                    "size": "2716086215",
+                    "download": "2570580464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2842045": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8699567528538870887",
+                    "size": "2632795205",
+                    "download": "2494130320"
+                }
+            },
+            "decryptionkey": "845fbe248a74375c3dda44984552af44018332d3b7f355dce4d1c833727e0a42"
+        },
+        "2842046": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8354064244509367798",
+                    "size": "2601201813",
+                    "download": "2455274032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3271130": {
+            "dlcappid": "3271130",
+            "manifests": {
+                "public": {
+                    "gid": "8008262336619622094",
+                    "size": "1193119242",
+                    "download": "1096865936"
+                }
+            },
+            "decryptionkey": "cd4259d93979d9d480227cf581dbb3855b238747fa76988d8c94da591300669e"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "6750736260530963906",
+                    "size": "256391736",
+                    "download": "258388880"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "3541390": {
+            "dlcappid": "3541390",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "17223926",
+                "timeupdated": "1738832671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
