@@ -1,0 +1,32 @@
+{
+    "appid": "2615670",
+    "type": "Game",
+    "name": "Bewitching Sinners",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27325262",
+    "update_time": "2025-02-05 20:17:17",
+    "depot": {
+        "baselanguages": "english",
+        "2615671": {
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9141943556752964978",
+                    "size": "1610616915",
+                    "download": "1329487200"
+                }
+            },
+            "decryptionkey": "8bc2945ca474de1691221f84c63d718f0a1cfcb28fef277753ef72fabb4e3af8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15171124",
+                "timeupdated": "1722070159"
+            }
+        }
+    }
+}
