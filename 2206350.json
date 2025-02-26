@@ -1,0 +1,47 @@
+{
+    "appid": "2206350",
+    "type": "Game",
+    "name": "Farm Manager World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27516947",
+    "update_time": "2025-02-17 22:14:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2206351": {
+            "manifests": {
+                "public": {
+                    "gid": "761441956751869410",
+                    "size": "11676515908",
+                    "download": "6253216064"
+                },
+                "publicbeta": {
+                    "gid": "2148903529122113430",
+                    "size": "11675768249",
+                    "download": "6253089440"
+                }
+            },
+            "decryptionkey": "b2f5cc6afb93e000b9757839e6b0e05ff910467ce361f0917ebad42e2107900a"
+        },
+        "workshopdepot": "2206350",
+        "branches": {
+            "public": {
+                "buildid": "17386741",
+                "timeupdated": "1739747722"
+            },
+            "publicbeta": {
+                "buildid": "16758389",
+                "description": "public beta",
+                "timeupdated": "1734349380"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
