@@ -1,0 +1,28 @@
+{
+    "appid": "3037930",
+    "type": "Game",
+    "name": "[Bober Bros] The Hole",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27530037",
+    "update_time": "2025-02-18 16:14:40",
+    "depot": {
+        "3037931": {
+            "manifests": {
+                "public": {
+                    "gid": "137269639927752891",
+                    "size": "596542242",
+                    "download": "277082928"
+                }
+            },
+            "decryptionkey": "f365b814864e076222c7c5747f3b29af7fa838de5283ae3d3b9abe252cba76e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17291540",
+                "timeupdated": "1739021024"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
