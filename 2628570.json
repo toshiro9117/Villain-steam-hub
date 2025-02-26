@@ -1,0 +1,77 @@
+{
+    "appid": "2628570",
+    "type": "Game",
+    "name": "Stellar Settlers",
+    "schinese_name": "异星开拓者 - 太空基地建造",
+    "isfreeapp": "0",
+    "change_number": "27356968",
+    "update_time": "2025-02-07 10:40:31",
+    "depot": {
+        "2628571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2054164914162305536",
+                    "size": "1146511948",
+                    "download": "426072112"
+                },
+                "staging": {
+                    "gid": "2054164914162305536",
+                    "size": "1146511948",
+                    "download": "426072112"
+                }
+            },
+            "decryptionkey": "3d8f02ab298debf84b3210ecc847f8439a407d8de7c7ec0c40cc66ef8fa81aac"
+        },
+        "2628572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4557134638821771245",
+                    "size": "1171962859",
+                    "download": "433951936"
+                },
+                "staging": {
+                    "gid": "4557134638821771245",
+                    "size": "1171962859",
+                    "download": "433951936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2628573": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3303765352432167846",
+                    "size": "1154031083",
+                    "download": "429116352"
+                },
+                "staging": {
+                    "gid": "3303765352432167846",
+                    "size": "1154031083",
+                    "download": "429116352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "17466718",
+                "timeupdated": "1740236440"
+            },
+            "staging": {
+                "buildid": "17466718",
+                "description": "Beta stating branch for Stellar Settlers usually full of bugs",
+                "timeupdated": "1740224355"
+            }
+        }
+    }
+}
