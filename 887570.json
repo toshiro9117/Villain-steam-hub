@@ -1,0 +1,60 @@
+{
+    "appid": "887570",
+    "type": "Game",
+    "name": "NEBULOUS: Fleet Command",
+    "schinese_name": "星云：战舰指挥官 NEBULOUS: Fleet Command",
+    "isfreeapp": "0",
+    "change_number": "27527249",
+    "update_time": "2025-02-18 11:32:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "887571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7065708878699566938",
+                    "size": "2513281173",
+                    "download": "1973736800"
+                },
+                "conquest-unfinished-build": {
+                    "gid": "2224373734496984127",
+                    "size": "2464935551",
+                    "download": "1880676448"
+                },
+                "testing": {
+                    "gid": "5084405974633966751",
+                    "size": "2513281591",
+                    "download": "1973738976"
+                }
+            },
+            "decryptionkey": "75252a8e668a49c99a8f56a9b77550209a9965e9a93b26c882c9706b973f5054"
+        },
+        "workshopdepot": "887570",
+        "branches": {
+            "public": {
+                "buildid": "17401376",
+                "timeupdated": "1739849547"
+            },
+            "conquest-unfinished-build": {
+                "buildid": "14802179",
+                "description": "Incomplete build of the original Conquest update design",
+                "timeupdated": "1719034534"
+            },
+            "testing": {
+                "buildid": "17475485",
+                "description": "For test builds only",
+                "timeupdated": "1740338476"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8f583f57e1b04a6b6972b0fc85731bd23d2b9b4d38f1457edf5ebac6e1534159"
+    }
+}
