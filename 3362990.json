@@ -1,0 +1,45 @@
+{
+    "appid": "3362990",
+    "type": "Game",
+    "name": "The Three Kingdoms: The Tales of Jian An",
+    "schinese_name": "三国志：建安外史",
+    "isfreeapp": "0",
+    "change_number": "27491884",
+    "update_time": "2025-02-15 15:00:50",
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "3362991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1426424415158796577",
+                    "size": "652713717",
+                    "download": "553517088"
+                }
+            },
+            "decryptionkey": "d1f8c1d20b6f71281f05cf7dbb076f6be0b6cca082d9b1c96ce53e7b044af80e"
+        },
+        "3362992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8813175703079959398",
+                    "size": "769049614",
+                    "download": "636230592"
+                }
+            },
+            "decryptionkey": "9798990a39e5d194686a71b75300b0a1496099a09f87f7c0462ec9217dac84a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17346623",
+                "timeupdated": "1739427252"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
