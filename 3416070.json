@@ -1,0 +1,28 @@
+{
+    "appid": "3416070",
+    "type": "Game",
+    "name": "Ropuka's Idle Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27533778",
+    "update_time": "2025-02-18 20:18:34",
+    "depot": {
+        "3416071": {
+            "manifests": {
+                "public": {
+                    "gid": "6971708515680816681",
+                    "size": "227302523",
+                    "download": "93495056"
+                }
+            },
+            "decryptionkey": "dd9c9acd29a60cf2cd7bf22e51433362f2e97ba5fdadfa5734087bd224683daf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17468084",
+                "timeupdated": "1740242499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
