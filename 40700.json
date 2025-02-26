@@ -1,0 +1,106 @@
+{
+    "appid": "40700",
+    "type": "Game",
+    "name": "Machinarium",
+    "schinese_name": "机械迷城 (Machinarium)",
+    "isfreeapp": "0",
+    "change_number": "27315338",
+    "update_time": "2025-02-05 06:13:06",
+    "depot": {
+        "40702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4264264643288819069",
+                    "size": "318400281",
+                    "download": "309559312"
+                },
+                "legacy": {
+                    "gid": "3835245042910267334",
+                    "size": "317281168",
+                    "download": "308188192"
+                },
+                "mac2021": {
+                    "gid": "4106488397934718316",
+                    "size": "316675265",
+                    "download": "307708608"
+                },
+                "mac2023": {
+                    "gid": "4264264643288819069",
+                    "size": "318400281",
+                    "download": "309559312"
+                },
+                "pc2021": {
+                    "gid": "4106488397934718316",
+                    "size": "316675265",
+                    "download": "307708608"
+                }
+            },
+            "decryptionkey": "d1a795482b2ed2bc97591ba8a6020c1a1392da9794f3f0648611113f22f323ec"
+        },
+        "40701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3658574386657440524",
+                    "size": "311767200",
+                    "download": "301997568"
+                },
+                "legacy": {
+                    "gid": "645634711973099289",
+                    "size": "311657664",
+                    "download": "301935344"
+                },
+                "mac2021": {
+                    "gid": "3658574386657440524",
+                    "size": "311767200",
+                    "download": "301997568"
+                },
+                "mac2023": {
+                    "gid": "3658574386657440524",
+                    "size": "311767200",
+                    "download": "301997568"
+                },
+                "pc2021": {
+                    "gid": "3658574386657440524",
+                    "size": "311767200",
+                    "download": "301997568"
+                }
+            },
+            "decryptionkey": "37b5c7293653b02c677be46f10d154102e715fda6a2e0ccbbf7f8a11c5e7c91e"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "12893158",
+                "timeupdated": "1701945959"
+            },
+            "legacy": {
+                "buildid": "4293212",
+                "description": "Old Mac OpenGL Build",
+                "timeupdated": "1614171865"
+            },
+            "mac2021": {
+                "buildid": "6787141",
+                "description": "New Mac 'Metal' Build 2021",
+                "timeupdated": "1622468533"
+            },
+            "mac2023": {
+                "buildid": "12893158",
+                "description": "Mac update 2023",
+                "timeupdated": "1701891278"
+            },
+            "pc2021": {
+                "buildid": "6787141",
+                "description": "New PC 2021 Beta",
+                "timeupdated": "1622468543"
+            }
+        }
+    }
+}
