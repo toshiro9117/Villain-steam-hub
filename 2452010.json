@@ -1,0 +1,45 @@
+{
+    "appid": "2452010",
+    "type": "Game",
+    "name": "都市小面馆",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27509286",
+    "update_time": "2025-02-17 11:42:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2452012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1953049881837788816",
+                    "size": "807312014",
+                    "download": "674836320"
+                }
+            },
+            "decryptionkey": "29aeceb12333cfe23137c838f957b19d5d2d27758ceb55b80990d797d11e2fd6"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "17454704",
+                "timeupdated": "1740140209"
+            }
+        }
+    }
+}
