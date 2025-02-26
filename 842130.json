@@ -1,0 +1,45 @@
+{
+    "appid": "842130",
+    "type": "Game",
+    "name": "Achievement Smiles",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27489720",
+    "update_time": "2025-02-15 09:13:40",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "842131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6160326138648235794",
+                    "size": "629326109",
+                    "download": "239603808"
+                }
+            },
+            "decryptionkey": "ddcb37d62af93b9afb7da90a6b61411048a726593534249f04ffe410c555d4f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11596144",
+                "timeupdated": "1688113412"
+            }
+        }
+    }
+}
