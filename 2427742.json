@@ -1,0 +1,33 @@
+{
+    "appid": "2427742",
+    "type": "DLC",
+    "name": "Cities: Skylines II - Creator Pack: Urban Promenades",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27520176",
+    "update_time": "2025-02-18 01:33:06",
+    "depot": {
+        "2427742": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8127593078845454193",
+                    "size": "1531657748",
+                    "download": "1466135792"
+                }
+            },
+            "dlcappid": "2427742",
+            "decryptionkey": "10f591eaa4714450e076677b7e7769008213ced4a34ee7d8680ab9e56ef4fe49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16816681",
+                "timeupdated": "1737536400"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
