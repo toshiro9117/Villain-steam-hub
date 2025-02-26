@@ -1,0 +1,27 @@
+{
+    "appid": "1859490",
+    "type": "Game",
+    "name": "Planet TD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26407258",
+    "update_time": "2024-12-05 06:54:51",
+    "depot": {
+        "1859491": {
+            "manifests": {
+                "public": {
+                    "gid": "3368132728772408624",
+                    "size": "811661433",
+                    "download": "146869232"
+                }
+            },
+            "decryptionkey": "7e69a6d17b5f851531a5c3b7a8b2fa4f70b7881a136db11e06b545c627e668df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10446709",
+                "timeupdated": "1675200104"
+            }
+        }
+    }
+}
