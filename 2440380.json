@@ -1,0 +1,48 @@
+{
+    "appid": "2440380",
+    "type": "Game",
+    "name": "Megaloot",
+    "schinese_name": "无尽劫掠",
+    "isfreeapp": "0",
+    "change_number": "27543374",
+    "update_time": "2025-02-19 06:27:56",
+    "depot": {
+        "2440381": {
+            "manifests": {
+                "public": {
+                    "gid": "6167661447448350873",
+                    "size": "509842312",
+                    "download": "409371072"
+                },
+                "1.14": {
+                    "gid": "1316081310740320524",
+                    "size": "509327240",
+                    "download": "409055488"
+                },
+                "public_testing_branch": {
+                    "gid": "4144247803969579599",
+                    "size": "509875112",
+                    "download": "409375056"
+                }
+            },
+            "decryptionkey": "def2da358b14cdc00d139af62c7d7275bb0a1eab0c9409d162edcac2ad5842ea"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17467057",
+                "timeupdated": "1740234599"
+            },
+            "1.14": {
+                "buildid": "16812491",
+                "description": "older version",
+                "timeupdated": "1740206780"
+            },
+            "public_testing_branch": {
+                "buildid": "17476406",
+                "description": "Experimental",
+                "timeupdated": "1740347114"
+            }
+        }
+    }
+}
