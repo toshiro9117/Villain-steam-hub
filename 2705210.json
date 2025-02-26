@@ -1,0 +1,41 @@
+{
+    "appid": "2705210",
+    "type": "Game",
+    "name": "Good Kill!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27517954",
+    "update_time": "2025-02-17 23:15:27",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2705211": {
+            "manifests": {
+                "public": {
+                    "gid": "2824079825099639400",
+                    "size": "5548201906",
+                    "download": "5240431584"
+                }
+            },
+            "decryptionkey": "cd5dff7b8ed88730a8513ec1b773d101ea477e6c637b0d5644ca19afa32f3c45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17200993",
+                "timeupdated": "1738338363"
+            }
+        }
+    }
+}
