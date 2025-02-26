@@ -1,0 +1,42 @@
+{
+    "appid": "2803360",
+    "type": "Game",
+    "name": "Project L33T",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27228275",
+    "update_time": "2025-01-30 10:19:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2803361": {
+            "manifests": {
+                "public": {
+                    "gid": "9022069704868165915",
+                    "size": "23016580145",
+                    "download": "21589242384"
+                }
+            },
+            "decryptionkey": "6baf81f704f545a4cdd39adc0400334745f08d31ed765e00b6ac7a213ddcdcf6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17118884",
+                "timeupdated": "1737738731"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
