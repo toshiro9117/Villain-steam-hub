@@ -1,0 +1,33 @@
+{
+    "appid": "2280350",
+    "type": "Game",
+    "name": "Turbo Dismount 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27505464",
+    "update_time": "2025-02-17 03:14:18",
+    "depot": {
+        "2280351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3071107686659192818",
+                    "size": "2088876338",
+                    "download": "987646880"
+                }
+            },
+            "decryptionkey": "05912239d3da3436c0206a9c064eff71dd637b6a9b9e540ba91cd84f6548e541"
+        },
+        "workshopdepot": "2280350",
+        "branches": {
+            "public": {
+                "buildid": "17451270",
+                "timeupdated": "1740126111"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e82817a540a9d32b515b97d767f9dc33141fcbb4e0046c24fef3f2de6684c67d"
+    }
+}
