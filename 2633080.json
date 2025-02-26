@@ -1,0 +1,29 @@
+{
+    "appid": "2633080",
+    "type": "Game",
+    "name": "Struggle F.O",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27528680",
+    "update_time": "2025-02-18 14:07:33",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2633081": {
+            "manifests": {
+                "public": {
+                    "gid": "7067026767271343586",
+                    "size": "5767559127",
+                    "download": "3153466816"
+                }
+            },
+            "decryptionkey": "2530a41d518a5b593d4392543d9f69f69ceb84422c8aa3a3e205075d6e8c1d85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17366853",
+                "timeupdated": "1739543869"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
