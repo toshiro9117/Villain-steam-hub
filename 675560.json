@@ -1,0 +1,103 @@
+{
+    "appid": "675560",
+    "type": "Game",
+    "name": "NAVYFIELD",
+    "schinese_name": "舰队使命 大海战2",
+    "isfreeapp": "0",
+    "change_number": "27543229",
+    "update_time": "2025-02-19 06:17:17",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "675564": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2337669936324552513",
+                    "size": "4190494895",
+                    "download": "1253827072"
+                }
+            },
+            "decryptionkey": "fd169fe2762885367f82cc2ce9b42784e0e704658c9047899fca0559bf4c7897"
+        },
+        "675565": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3117047667420434192",
+                    "size": "4190444530",
+                    "download": "1253816880"
+                }
+            },
+            "decryptionkey": "2bd2ff579b8d223afc7d56dcf1843668603b06b84b8cea5eb1ba53e4ca4de1e7"
+        },
+        "675566": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6657040725546001550",
+                    "size": "4190392814",
+                    "download": "1253298880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "675567": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8929080123825968122",
+                    "size": "4190533303",
+                    "download": "1254698848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17440864",
+                "timeupdated": "1740062977"
+            }
+        }
+    }
+}
