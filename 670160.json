@@ -1,0 +1,56 @@
+{
+    "appid": "670160",
+    "type": "Game",
+    "name": "D'LIRIUM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27535241",
+    "update_time": "2025-02-18 21:43:09",
+    "depot": {
+        "baselanguages": "english,german,french,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "670160",
+        "670161": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7526996151599014332",
+                    "size": "515497170",
+                    "download": "236181008"
+                },
+                "dev_vm": {
+                    "gid": "4108737811963273972",
+                    "size": "513635265",
+                    "download": "234287040"
+                },
+                "yyc_stable": {
+                    "gid": "5383756685780746043",
+                    "size": "538512198",
+                    "download": "239834800"
+                }
+            },
+            "decryptionkey": "2772a1ea6667775a9bcbdfb20c5c8a6eea1aa04aeb3b4e8056e8b574515fa0d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17052404",
+                "timeupdated": "1737234854"
+            },
+            "dev_vm": {
+                "buildid": "17408016",
+                "description": "Unstable builds that still in development (verbose error output).",
+                "timeupdated": "1739886182"
+            },
+            "yyc_stable": {
+                "buildid": "17052557",
+                "description": "Optimized and fast, but less error info.",
+                "timeupdated": "1737236997"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9831eb16e16ae9d24fa70566adc11e1f61b532e1706540a26d21442a992a282c"
+    }
+}
