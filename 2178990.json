@@ -1,0 +1,58 @@
+{
+    "appid": "2178990",
+    "type": "Game",
+    "name": "Sodaman",
+    "schinese_name": "汽水侠",
+    "isfreeapp": "0",
+    "change_number": "27543603",
+    "update_time": "2025-02-19 06:47:07",
+    "depot": {
+        "2178992": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8041624884639304179",
+                    "size": "4135979136",
+                    "download": "890709952"
+                }
+            },
+            "decryptionkey": "6b62515b6c4760a5613f6a145f90c85222f5c846b4f1ac3f91c0bc5a8d245d28"
+        },
+        "2178991": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2605316362250938849",
+                    "size": "3491902481",
+                    "download": "765918608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2178993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "68757753682765246",
+                    "size": "4174317123",
+                    "download": "911577728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17429156",
+                "timeupdated": "1740002992"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
