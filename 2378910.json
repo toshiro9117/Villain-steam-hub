@@ -1,0 +1,50 @@
+{
+    "appid": "2378910",
+    "type": "Game",
+    "name": "Settlements Rising",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27455193",
+    "update_time": "2025-02-13 16:37:42",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2378911": {
+            "manifests": {
+                "public": {
+                    "gid": "7843187764908169976",
+                    "size": "953248063",
+                    "download": "772036832"
+                }
+            },
+            "decryptionkey": "e200731f8afd2f8137351361a3c2d1b87138c52e0a42435c6a7555eab7a78be6"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17348128",
+                "timeupdated": "1739435855"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
