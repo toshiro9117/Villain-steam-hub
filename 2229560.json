@@ -1,0 +1,28 @@
+{
+    "appid": "2229560",
+    "type": "Game",
+    "name": "Zet Zillions",
+    "schinese_name": "狂星滥炸",
+    "isfreeapp": "0",
+    "change_number": "27146802",
+    "update_time": "2025-01-24 18:00:54",
+    "depot": {
+        "2229561": {
+            "manifests": {
+                "public": {
+                    "gid": "1048388892016537111",
+                    "size": "1671581153",
+                    "download": "682142112"
+                }
+            },
+            "decryptionkey": "91161aebcfa29bf039b624a2c81f097793db4455287bda944179623d65bc535a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15592270",
+                "timeupdated": "1725466813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
