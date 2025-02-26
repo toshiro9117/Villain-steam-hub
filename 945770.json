@@ -1,0 +1,39 @@
+{
+    "appid": "945770",
+    "type": "Game",
+    "name": "Dark Envoy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27503504",
+    "update_time": "2025-02-16 23:00:08",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "945771": {
+            "manifests": {
+                "public": {
+                    "gid": "2684174119646887428",
+                    "size": "39063093566",
+                    "download": "33478892240"
+                },
+                "previous_version": {
+                    "gid": "8594978632806504795",
+                    "size": "37551073326",
+                    "download": "32115813184"
+                }
+            },
+            "decryptionkey": "172381d90e7f0c26b53ddef31436566e858d4c074c17e25ee1f4255db3680820"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14961614",
+                "timeupdated": "1720454215"
+            },
+            "previous_version": {
+                "buildid": "13657336",
+                "description": "Previous version of the game",
+                "timeupdated": "1715708189"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
