@@ -1,0 +1,29 @@
+{
+    "appid": "2748830",
+    "type": "Game",
+    "name": "たねつみの歌",
+    "schinese_name": "播种之谣",
+    "isfreeapp": "0",
+    "change_number": "27495517",
+    "update_time": "2025-02-16 00:16:22",
+    "depot": {
+        "2748831": {
+            "manifests": {
+                "public": {
+                    "gid": "8832142143315530784",
+                    "size": "10673674017",
+                    "download": "10096903456"
+                }
+            },
+            "decryptionkey": "cb2d67d322c512b61ad764667c94d3fd3eb7d8807ebb92c730ee85959b923caa"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "16739420",
+                "timeupdated": "1734190016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
