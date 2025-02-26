@@ -1,0 +1,100 @@
+{
+    "appid": "1755580",
+    "type": "Game",
+    "name": "The Jackbox Party Starter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27528922",
+    "update_time": "2025-02-18 14:31:25",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,latam",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1755581": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2498330376969091723",
+                    "size": "5068290101",
+                    "download": "4709573808"
+                }
+            },
+            "decryptionkey": "aeeb74b74b94bec0bfddd61e1a9f6c17aae14be679970d8eb0030394ead303a2"
+        },
+        "1755582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5337096692379644688",
+                    "size": "22090304",
+                    "download": "6327696"
+                }
+            },
+            "decryptionkey": "8e2ca6c76f3a664d9cc158d646418970f48ef904993c9be26cf4f807f0223bfe"
+        },
+        "1755583": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4836054818831015340",
+                    "size": "5115079063",
+                    "download": "4720603584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1755584": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4155681932151669214",
+                    "size": "46132900",
+                    "download": "12870752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2828508": {
+            "manifests": {
+                "public": {
+                    "gid": "5145691608909662874",
+                    "size": "2021",
+                    "download": "848"
+                }
+            },
+            "depotfromapp": "2828500",
+            "decryptionkey": "86a8e078c58ea7fbf57bdf1b2611116fe069f5e590cfa11058ca6610e0961700"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16032382",
+                "timeupdated": "1728931016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
