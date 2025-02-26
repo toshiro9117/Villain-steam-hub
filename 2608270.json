@@ -1,0 +1,92 @@
+{
+    "appid": "2608270",
+    "type": "Game",
+    "name": "Intravenous 2",
+    "schinese_name": "静脉注射2",
+    "isfreeapp": "0",
+    "change_number": "27497321",
+    "update_time": "2025-02-16 04:30:24",
+    "depot": {
+        "workshopdepot": "2608270",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2608271": {
+            "manifests": {
+                "public": {
+                    "gid": "5911739206448694133",
+                    "size": "996269021",
+                    "download": "1003552144"
+                },
+                "test": {
+                    "gid": "5911739206448694133",
+                    "size": "996269021",
+                    "download": "1003552144"
+                }
+            },
+            "decryptionkey": "65303bb0b084fda7e68b6e2dc146d2d0e42df675c4fd522649ad8dc41cea69e5"
+        },
+        "3116710": {
+            "dlcappid": "3116710",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7402576984630271349",
+                    "size": "3185595859",
+                    "download": "3194926656"
+                },
+                "test": {
+                    "gid": "7402576984630271349",
+                    "size": "3185595859",
+                    "download": "3194926656"
+                }
+            },
+            "decryptionkey": "e4dc2f66d1a61c0ff2f0249ab17212c51cba476048e43aaf576ee8afbcd80706"
+        },
+        "3391540": {
+            "dlcappid": "3391540",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6260108872146736211",
+                    "size": "538279900",
+                    "download": "535982704"
+                },
+                "test": {
+                    "gid": "6260108872146736211",
+                    "size": "538279900",
+                    "download": "535982704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17475664",
+                "timeupdated": "1740340357"
+            },
+            "test": {
+                "buildid": "17475664",
+                "description": "upcoming update voluntary testing",
+                "timeupdated": "1740340234"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ae8b55e6b7d2169a598bd847747bd05f540cee30d3d95cacbea0c5be269a1f35"
+    }
+}
