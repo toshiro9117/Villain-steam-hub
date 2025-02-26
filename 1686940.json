@@ -1,0 +1,31 @@
+{
+    "appid": "1686940",
+    "type": "Game",
+    "name": "Bopl Battle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540165",
+    "update_time": "2025-02-19 02:35:35",
+    "depot": {
+        "1686941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1047787296783701551",
+                    "size": "549677647",
+                    "download": "112448960"
+                }
+            },
+            "decryptionkey": "de23a57d97b78aaf4bbf11afcce1b6d2e96ce42e7518fb58ddf5535a51b81c65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17396422",
+                "timeupdated": "1739903726"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
