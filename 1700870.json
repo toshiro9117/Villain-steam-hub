@@ -1,0 +1,43 @@
+{
+    "appid": "1700870",
+    "type": "Game",
+    "name": "Clanfolk",
+    "schinese_name": "族人 Clanfolk",
+    "isfreeapp": "0",
+    "change_number": "27018497",
+    "update_time": "2025-01-16 12:08:03",
+    "depot": {
+        "1700871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4203381085950177523",
+                    "size": "700217252",
+                    "download": "224769616"
+                },
+                "testing": {
+                    "gid": "348563803479294374",
+                    "size": "705882316",
+                    "download": "226024656"
+                }
+            },
+            "decryptionkey": "279d4f9fe1b44e97299ee0c570d08dfc6aa69119cc9c5c1a5d1cc3467f4811c7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "15799806",
+                "timeupdated": "1727196799"
+            },
+            "testing": {
+                "buildid": "16544858",
+                "description": "test Clanfolk between major version releases",
+                "timeupdated": "1732663322"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
