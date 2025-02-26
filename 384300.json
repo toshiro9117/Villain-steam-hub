@@ -1,0 +1,39 @@
+{
+    "appid": "384300",
+    "type": "Application",
+    "name": "CPUCores :: Maximize Your FPS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27519749",
+    "update_time": "2025-02-18 01:02:50",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "384301": {
+            "manifests": {
+                "public": {
+                    "gid": "4865230131276567673",
+                    "size": "13816628",
+                    "download": "4895968"
+                },
+                "legacy": {
+                    "gid": "2464109320478490543",
+                    "size": "3218951",
+                    "download": "1926176"
+                }
+            },
+            "decryptionkey": "da5a3e68c9ed912dc199160655f508a26739096a242cf275dce4ff6bafde0277"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17396172",
+                "timeupdated": "1739811761"
+            },
+            "legacy": {
+                "buildid": "17380188",
+                "description": "Legacy Version",
+                "timeupdated": "1739655306"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
