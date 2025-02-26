@@ -1,0 +1,31 @@
+{
+    "appid": "2909170",
+    "type": "Game",
+    "name": "Body Pay",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27404364",
+    "update_time": "2025-02-11 00:40:41",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "2909171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "226413929960145640",
+                    "size": "1487790680",
+                    "download": "233341248"
+                }
+            },
+            "decryptionkey": "7cbbaf548fcb7e13b3f988bc1ddf128dc062f4751b682542c931e7780643fe58"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14855193",
+                "timeupdated": "1719475240"
+            }
+        }
+    }
+}
