@@ -1,0 +1,57 @@
+{
+    "appid": "2161700",
+    "type": "Game",
+    "name": "Persona 3 Reload",
+    "schinese_name": "女神异闻录３ Reload",
+    "isfreeapp": "0",
+    "change_number": "27508423",
+    "update_time": "2025-02-17 09:49:49",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2161701": {
+            "manifests": {
+                "public": {
+                    "gid": "6270411921474516352",
+                    "size": "20206712773",
+                    "download": "19550071744"
+                }
+            },
+            "decryptionkey": "9644c57e48eb13144cd26fa9423b85051e1c474221f8f6cfcb017478cd8f3503"
+        },
+        "2517300": {
+            "dlcappid": "2517300"
+        },
+        "2517310": {
+            "dlcappid": "2517310"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15831617",
+                "timeupdated": "1729051419"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
