@@ -1,0 +1,31 @@
+{
+    "appid": "2109340",
+    "type": "Application",
+    "name": "Pixel Game Engine",
+    "schinese_name": "像素游戏引擎",
+    "isfreeapp": "0",
+    "change_number": "27168727",
+    "update_time": "2025-01-26 11:12:58",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,swedish,arabic",
+        "2109341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3232904943680513163",
+                    "size": "717345157",
+                    "download": "668427968"
+                }
+            },
+            "decryptionkey": "aacc45fc5857358445ba12066bd74d2cc28c9a31e23a82b9c69a492f3ca5adbe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17134114",
+                "timeupdated": "1737861174"
+            }
+        }
+    }
+}
