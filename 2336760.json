@@ -1,0 +1,60 @@
+{
+    "appid": "2336760",
+    "type": "Game",
+    "name": "Immortal Hunters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27519723",
+    "update_time": "2025-02-18 01:00:50",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2336761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8186123509526155724",
+                    "size": "4153408710",
+                    "download": "1857811072"
+                }
+            },
+            "decryptionkey": "f12cdd3b0632534870272d3050cd48f2305fd57adb3875cad06d29eaed9f723a"
+        },
+        "2336762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7141474990185631666",
+                    "size": "1401525176",
+                    "download": "893019232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16434838",
+                "timeupdated": "1739811293"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
