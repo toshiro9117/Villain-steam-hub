@@ -1,0 +1,39 @@
+{
+    "appid": "1763250",
+    "type": "Game",
+    "name": "SWORN",
+    "schinese_name": "圣杯誓约",
+    "isfreeapp": "0",
+    "change_number": "27529930",
+    "update_time": "2025-02-18 16:06:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1763251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8979067344522923569",
+                    "size": "4837434354",
+                    "download": "2275465232"
+                }
+            },
+            "decryptionkey": "32467278867521bb7848990057535c82d0e863ccdfabefffa0cd87c75a6d6b56"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17430810",
+                "timeupdated": "1740069221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
