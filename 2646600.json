@@ -1,0 +1,50 @@
+{
+    "appid": "2646600",
+    "type": "Demo",
+    "name": "Spilled! ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27188867",
+    "update_time": "2025-01-28 02:52:33",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2646602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4271500943874972273",
+                    "size": "441671719",
+                    "download": "196116192"
+                }
+            },
+            "decryptionkey": "e1009850cb0a4d8f2c8aa91d072bf3fbdc7367baef753e4c83c681b1de525b1d"
+        },
+        "2646601": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7795224709829938269",
+                    "size": "424883099",
+                    "download": "185565440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16870257",
+                "timeupdated": "1735478741"
+            }
+        }
+    }
+}
