@@ -1,0 +1,47 @@
+{
+    "appid": "2555430",
+    "type": "Game",
+    "name": "TRADESMAN: Deal to Dealer",
+    "schinese_name": "天涯跑商记：好商人志在四方",
+    "isfreeapp": "0",
+    "change_number": "27530604",
+    "update_time": "2025-02-18 16:54:00",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2555431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "295750581791764630",
+                    "size": "106670708",
+                    "download": "63227120"
+                },
+                "betaexperimentsru": {
+                    "gid": "4027081832535341955",
+                    "size": "106083744",
+                    "download": "63080096"
+                }
+            },
+            "decryptionkey": "18aecd28f1a2e9ac4ba577111bd5c963487b23b817f4b2210363f1bd00b08064"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17404317",
+                "timeupdated": "1739868836"
+            },
+            "betaexperimentsru": {
+                "buildid": "17332796",
+                "description": "(dangerous and not localized)",
+                "timeupdated": "1739347395"
+            }
+        }
+    }
+}
