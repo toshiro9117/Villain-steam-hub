@@ -1,0 +1,77 @@
+{
+    "appid": "403190",
+    "type": "Game",
+    "name": "Planetbase",
+    "schinese_name": "星球基地",
+    "isfreeapp": "0",
+    "change_number": "27109910",
+    "update_time": "2025-01-22 18:26:19",
+    "depot": {
+        "baselanguages": "english,german,french,spanish",
+        "workshopdepot": "403190",
+        "403191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3792388824359637500",
+                    "size": "700198263",
+                    "download": "333862304"
+                },
+                "experimental": {
+                    "gid": "3792388824359637500",
+                    "size": "700198263",
+                    "download": "333862304"
+                },
+                "oldversion": {
+                    "gid": "3330989669120227581",
+                    "size": "670584833",
+                    "download": "324924448"
+                }
+            },
+            "decryptionkey": "a043be27ee71135a6635e7578da9ea0e617ee4724adfbc12ffacf28d80cbd019"
+        },
+        "403192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1391192768431119641",
+                    "size": "704155682",
+                    "download": "335817888"
+                },
+                "experimental": {
+                    "gid": "1391192768431119641",
+                    "size": "704155682",
+                    "download": "335817888"
+                },
+                "oldversion": {
+                    "gid": "2810492408550210286",
+                    "size": "666188195",
+                    "download": "323606016"
+                }
+            },
+            "decryptionkey": "ab730985e19e31713ca4e68a054650b7b35fa677c419bddf6aaaeafa90835b12"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14829412",
+                "timeupdated": "1725973025"
+            },
+            "experimental": {
+                "buildid": "14829412",
+                "description": "Experimental versions",
+                "timeupdated": "1719307881"
+            },
+            "oldversion": {
+                "buildid": "6317568",
+                "description": "Version 1.3.8 runing on the old engine",
+                "timeupdated": "1728050577"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e38d67aafa1754dba9dac6ccce399a0ae8261ef69ba79fe6f9997d4a00daa705"
+    }
+}
