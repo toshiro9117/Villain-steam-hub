@@ -1,0 +1,31 @@
+{
+    "appid": "3338600",
+    "type": "Game",
+    "name": "The Last Experiment: A Memetric Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27532281",
+    "update_time": "2025-02-18 18:40:20",
+    "depot": {
+        "baselanguages": "english,german,russian,hungarian,turkish",
+        "3338601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6910261706777344147",
+                    "size": "307000902",
+                    "download": "157622224"
+                }
+            },
+            "decryptionkey": "6e6d485b13a5a14f93d95056614e2bf52ac307a83e25488cafc5b56ea400eecd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17383096",
+                "timeupdated": "1739698895"
+            }
+        }
+    }
+}
