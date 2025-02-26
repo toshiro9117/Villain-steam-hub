@@ -1,0 +1,43 @@
+{
+    "appid": "946770",
+    "type": "Game",
+    "name": "Scheming Through The Zombie Apocalypse Ep2: Caged",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26803070",
+    "update_time": "2024-12-28 16:39:25",
+    "depot": {
+        "946771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5746195092770972375",
+                    "size": "1438169327",
+                    "download": "305995168"
+                }
+            },
+            "decryptionkey": "a59876f41082585993533644a4488a09906de8bec7d619409ab3bd4f4a20ef2c"
+        },
+        "946772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2470898566958759136",
+                    "size": "1480811976",
+                    "download": "318276880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15773751",
+                "timeupdated": "1726854748"
+            }
+        }
+    }
+}
