@@ -1,0 +1,42 @@
+{
+    "appid": "2570210",
+    "type": "Game",
+    "name": "Eden Crafters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27225287",
+    "update_time": "2025-01-30 05:48:22",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2570211": {
+            "manifests": {
+                "public": {
+                    "gid": "4794649084401918082",
+                    "size": "3343519559",
+                    "download": "1115931632"
+                }
+            },
+            "decryptionkey": "a6d9fd6c7cb73b8737246837d4b5446f3af752492a3a7adec43c60b3c590ca34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17467991",
+                "timeupdated": "1740244527"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
