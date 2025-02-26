@@ -1,0 +1,44 @@
+{
+    "appid": "2834320",
+    "type": "Game",
+    "name": "Exographer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27186262",
+    "update_time": "2025-01-28 00:12:51",
+    "depot": {
+        "2834321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2253699631263950295",
+                    "size": "2521733587",
+                    "download": "603338704"
+                }
+            },
+            "decryptionkey": "ebf245d763fde18d355fd614962a3486baed5e18580bd369bcfb79cad2ac85db"
+        },
+        "2834322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8389240372876796139",
+                    "size": "2528943435",
+                    "download": "607355344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16077012",
+                "timeupdated": "1729149628"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
