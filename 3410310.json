@@ -1,0 +1,44 @@
+{
+    "appid": "3410310",
+    "type": "Game",
+    "name": "Make Good Choices",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27507693",
+    "update_time": "2025-02-17 08:15:29",
+    "depot": {
+        "3410311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5414203651243764687",
+                    "size": "2609458548",
+                    "download": "1046250816"
+                }
+            },
+            "decryptionkey": "9f9fbe1a217b2aa27bb04ddf2d7bd856d6e606ccaf00ac26ce356bf794320a6c"
+        },
+        "3410312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6177504903460157734",
+                    "size": "3874402822",
+                    "download": "2316281520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17180141",
+                "timeupdated": "1738212463"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
