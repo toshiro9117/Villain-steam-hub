@@ -1,0 +1,44 @@
+{
+    "appid": "1709870",
+    "type": "Game",
+    "name": "Spirited Thief",
+    "schinese_name": "鬼灵双盗",
+    "isfreeapp": "0",
+    "change_number": "27498152",
+    "update_time": "2025-02-16 06:13:55",
+    "depot": {
+        "1709871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3131588487728775032",
+                    "size": "634789899",
+                    "download": "305464384"
+                }
+            },
+            "decryptionkey": "62146708fc8a61d0719a0d31a37d58717f4ee60b626570273866e6bd9ce0182f"
+        },
+        "1709872": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5138826978863724172",
+                    "size": "664848990",
+                    "download": "302653248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17161224",
+                "timeupdated": "1738162815"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
