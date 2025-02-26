@@ -1,0 +1,44 @@
+{
+    "appid": "2866440",
+    "type": "Game",
+    "name": "Lily’s Labyrinth of Lust",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27519934",
+    "update_time": "2025-02-18 01:15:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2866441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1327620354981303024",
+                    "size": "3456174999",
+                    "download": "3020467872"
+                }
+            },
+            "decryptionkey": "72efb7fe79c1a54168b510a4895ad5b3326dd92d86846cb6b7a1c45fdfa6ab27"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17082943",
+                "timeupdated": "1737494940"
+            }
+        }
+    }
+}
