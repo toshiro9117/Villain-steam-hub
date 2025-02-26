@@ -1,0 +1,45 @@
+{
+    "appid": "2522160",
+    "type": "Game",
+    "name": "Letter Lancers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27469157",
+    "update_time": "2025-02-14 07:23:56",
+    "depot": {
+        "2522161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3803429883433965932",
+                    "size": "676321416",
+                    "download": "121099104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2522162": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9098787222276018234",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5a3f62c582a07686a930b686913f4394dbbdfa8f476c1fd5edc4cad61a50c2fc"
+        },
+        "baselanguages": "english,italian,koreana,schinese,russian,brazilian,latam,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "17432403",
+                "timeupdated": "1740016918"
+            }
+        }
+    }
+}
