@@ -1,0 +1,43 @@
+{
+    "appid": "2221500",
+    "type": "Game",
+    "name": "Tostchu",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27216941",
+    "update_time": "2025-01-29 20:18:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,turkish",
+        "2221501": {
+            "manifests": {
+                "public": {
+                    "gid": "3250165768309823246",
+                    "size": "726809173",
+                    "download": "446097632"
+                }
+            },
+            "decryptionkey": "7fa14f8f947993db82479fd4266befae5ea8d0e245790c76ca82b40a99cf280e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16970139",
+                "timeupdated": "1736548529"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
