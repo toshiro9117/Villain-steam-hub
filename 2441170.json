@@ -1,0 +1,41 @@
+{
+    "appid": "2441170",
+    "type": "Game",
+    "name": "MagicShop2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27390965",
+    "update_time": "2025-02-10 05:18:10",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2441171": {
+            "manifests": {
+                "public": {
+                    "gid": "7784550980734619684",
+                    "size": "5063743972",
+                    "download": "4737513888"
+                }
+            },
+            "decryptionkey": "c51f8c407a5471645fbe34dd790416f2e82522f60f19a089aa8198ebcf9b297c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15922103",
+                "timeupdated": "1727993174"
+            }
+        }
+    }
+}
