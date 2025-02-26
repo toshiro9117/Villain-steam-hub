@@ -1,0 +1,65 @@
+{
+    "appid": "1999520",
+    "type": "Game",
+    "name": "CATO: Buttered Cat",
+    "schinese_name": "CATO 黄油猫",
+    "isfreeapp": "0",
+    "change_number": "27479057",
+    "update_time": "2025-02-14 20:27:52",
+    "depot": {
+        "1999521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6357427437783714055",
+                    "size": "692999476",
+                    "download": "279319856"
+                }
+            },
+            "decryptionkey": "5bacced6080e6c0df6311f62565f3853d82a536fde554c48451d72f78216d232"
+        },
+        "1999522": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3599425019592291959",
+                    "size": "1023382918",
+                    "download": "498481104"
+                }
+            },
+            "decryptionkey": "8ad71e3e60b3f8b04bbe5f59ee5f3b42b007fd96f483cca42a864de78103ec77"
+        },
+        "1999523": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4677236778201948960",
+                    "size": "855713507",
+                    "download": "280718912"
+                }
+            },
+            "decryptionkey": "abb0a8418238ab28264aa7ee6ddc98a2c5e0a2c06ef58c93ee022c9097581d44"
+        },
+        "1999524": {
+            "config": {
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17137066",
+                "timeupdated": "1737959719"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
