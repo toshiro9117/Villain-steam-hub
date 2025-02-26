@@ -1,0 +1,57 @@
+{
+    "appid": "719890",
+    "type": "Game",
+    "name": "Beasts of Bermuda",
+    "schinese_name": "百慕大野兽",
+    "isfreeapp": "0",
+    "change_number": "27525411",
+    "update_time": "2025-02-18 08:39:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,finnish,hungarian,brazilian",
+        "719891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5730583599426533850",
+                    "size": "26580373512",
+                    "download": "25854674672"
+                },
+                "public_testing": {
+                    "gid": "5730583599426533850",
+                    "size": "26580373512",
+                    "download": "25854674672"
+                }
+            },
+            "decryptionkey": "2da829832bc98bf02ca57d2657259de6374b9c0eb55da360e231471310319cea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17227326",
+                "timeupdated": "1738727693"
+            },
+            "public_testing": {
+                "buildid": "17227326",
+                "description": "Used immediately prior to public updates for a last round of testing",
+                "timeupdated": "1738727738"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
