@@ -1,0 +1,51 @@
+{
+    "appid": "2829790",
+    "type": "Game",
+    "name": "Windstorm: Start of a Great Friendship - Remastered",
+    "schinese_name": "风暴：深厚友谊的开始 重制版",
+    "isfreeapp": "0",
+    "change_number": "27399656",
+    "update_time": "2025-02-10 19:55:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2829791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4738202436827963180",
+                    "size": "13865309470",
+                    "download": "5785778432"
+                }
+            },
+            "decryptionkey": "f205e2369971a3648f4ecfa09318f96511a707f005a067f90384a8dedc8c1d34"
+        },
+        "2829792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "16653366",
+                "timeupdated": "1734529152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
