@@ -1,0 +1,42 @@
+{
+    "appid": "3287520",
+    "type": "Game",
+    "name": "NINJA GAIDEN 2 Black",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27537802",
+    "update_time": "2025-02-19 00:15:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3287521": {
+            "manifests": {
+                "public": {
+                    "gid": "1162494661906979271",
+                    "size": "86966169252",
+                    "download": "81042521856"
+                }
+            },
+            "decryptionkey": "d026ecb27a03a6ca26771e7352214eed11c1b9d1553cc0b47aaf6cb6e7f4f371"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17251493",
+                "timeupdated": "1739329363"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
