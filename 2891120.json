@@ -1,0 +1,28 @@
+{
+    "appid": "2891120",
+    "type": "Game",
+    "name": "Mad Smartphone Tycoon",
+    "schinese_name": "疯狂手机大亨",
+    "isfreeapp": "0",
+    "change_number": "27318750",
+    "update_time": "2025-02-05 11:17:51",
+    "depot": {
+        "2891121": {
+            "manifests": {
+                "public": {
+                    "gid": "1411573287917920346",
+                    "size": "792045546",
+                    "download": "379179088"
+                }
+            },
+            "decryptionkey": "0f89934f08c036132da63004a1278e527956820824f956cc538d22113b6dacc0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16706474",
+                "timeupdated": "1733988563"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
