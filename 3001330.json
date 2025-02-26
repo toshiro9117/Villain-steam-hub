@@ -1,0 +1,33 @@
+{
+    "appid": "3001330",
+    "type": "Game",
+    "name": "Forest Heroes",
+    "schinese_name": "绿林英雄 (Forest Heroes)",
+    "isfreeapp": "0",
+    "change_number": "27541687",
+    "update_time": "2025-02-19 04:14:53",
+    "depot": {
+        "3001331": {
+            "manifests": {
+                "public": {
+                    "gid": "6703028358270682095",
+                    "size": "910184391",
+                    "download": "207095616"
+                }
+            },
+            "decryptionkey": "8f6bb53ae79817fe5609ad0e7eefd94ad6e3844c4a4819607350f6845ba2e24a"
+        },
+        "3001332": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17452044",
+                "timeupdated": "1740128823"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
