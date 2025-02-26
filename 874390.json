@@ -1,0 +1,70 @@
+{
+    "appid": "874390",
+    "type": "Game",
+    "name": "The Battle of Polytopia",
+    "schinese_name": "低模之战",
+    "isfreeapp": "0",
+    "change_number": "27532565",
+    "update_time": "2025-02-18 18:55:25",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "874391": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7468442206236659165",
+                    "size": "266759631",
+                    "download": "110113648"
+                }
+            },
+            "decryptionkey": "3e4f836c2b81f6990a3bcc630fbc90bd1897904d6480477a25a4102b7adeb688"
+        },
+        "874392": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741142225578712216",
+                    "size": "174718950",
+                    "download": "88845696"
+                }
+            },
+            "decryptionkey": "468ee2c9635146e7af81725c7cf06cd35fe273a80c3068d630afdb394135bd8b"
+        },
+        "874393": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4709541387702056614",
+                    "size": "209592656",
+                    "download": "92077664"
+                }
+            },
+            "decryptionkey": "b0bc887e6a6361cfade1a868bef4b48b9b53b5dd7b6319378b44f3daff4e77ed"
+        },
+        "982200": {
+            "dlcappid": "982200"
+        },
+        "982201": {
+            "dlcappid": "982201"
+        },
+        "1237430": {
+            "dlcappid": "1237430"
+        },
+        "2186650": {
+            "dlcappid": "2186650"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16394433",
+                "timeupdated": "1731588551"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
