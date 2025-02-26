@@ -1,0 +1,52 @@
+{
+    "appid": "325210",
+    "type": "Game",
+    "name": "Arctico",
+    "schinese_name": "北极",
+    "isfreeapp": "0",
+    "change_number": "27541702",
+    "update_time": "2025-02-19 04:17:24",
+    "depot": {
+        "baselanguages": "english",
+        "325212": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8892285985916203349",
+                    "size": "913524278",
+                    "download": "174927968"
+                }
+            },
+            "decryptionkey": "0953c1747a6e94fc628fc42581c03d14d7870946418fd8ec5beb907e8e42820c"
+        },
+        "325211": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1874443825526817352",
+                    "size": "934653919",
+                    "download": "183039904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "325213": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17043993",
+                "timeupdated": "1737140386"
+            }
+        }
+    }
+}
