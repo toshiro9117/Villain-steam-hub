@@ -1,0 +1,54 @@
+{
+    "appid": "2400770",
+    "type": "Game",
+    "name": "Dungeon Tycoon",
+    "schinese_name": "地下城资本家 (Dungeon Tycoon)",
+    "isfreeapp": "0",
+    "change_number": "27437989",
+    "update_time": "2025-02-12 19:23:15",
+    "depot": {
+        "2400771": {
+            "manifests": {
+                "public": {
+                    "gid": "5563296919848479666",
+                    "size": "1411748135",
+                    "download": "293157168"
+                },
+                "open-beta": {
+                    "gid": "6227919000725990711",
+                    "size": "1411467447",
+                    "download": "293157296"
+                }
+            },
+            "decryptionkey": "2702fa62592dc31adb894183b5c31b2408a5c5e3050c2c263441a0319cf00c3c"
+        },
+        "3233000": {
+            "dlcappid": "3233000",
+            "manifests": {
+                "public": {
+                    "gid": "3437469253914081200",
+                    "size": "32029709",
+                    "download": "31876432"
+                },
+                "open-beta": {
+                    "gid": "3437469253914081200",
+                    "size": "32029709",
+                    "download": "31876432"
+                }
+            },
+            "decryptionkey": "a4944acb674c6afff8251dfb07f4cabfcce477eac25c724619ec3b5e1ce5c0bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17325112",
+                "timeupdated": "1739296267"
+            },
+            "open-beta": {
+                "buildid": "16999629",
+                "description": "Public beta branch - May contain bugs!",
+                "timeupdated": "1736858232"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
