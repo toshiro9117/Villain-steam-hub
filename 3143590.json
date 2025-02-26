@@ -1,0 +1,39 @@
+{
+    "appid": "3143590",
+    "type": "Demo",
+    "name": "All in Abyss: Judge the Fake Demo",
+    "schinese_name": "深渊绝赌：千王处刑 Demo",
+    "isfreeapp": "0",
+    "change_number": "27531851",
+    "update_time": "2025-02-18 18:14:43",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3143591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5213753789664923697",
+                    "size": "2441361864",
+                    "download": "863724272"
+                }
+            },
+            "decryptionkey": "01ef80c81d01f900a8cb8b00518d88e2b67ab8b754d91f931a11eb6a772c1520"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17085920",
+                "timeupdated": "1737517974"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
