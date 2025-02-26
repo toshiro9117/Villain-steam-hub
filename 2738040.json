@@ -1,0 +1,115 @@
+{
+    "appid": "2738040",
+    "type": "Tool",
+    "name": "Silica Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27265939",
+    "update_time": "2025-02-01 14:16:47",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2738041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2412674601940913445",
+                    "size": "8154890571",
+                    "download": "3236896400"
+                },
+                "beta": {
+                    "gid": "8557223730052612845",
+                    "size": "7807111541",
+                    "download": "3048395216"
+                }
+            },
+            "decryptionkey": "a7df626c379d1ae106f0dcbb99b08f574a628a4b2b8b04cf5cc726164a5ba219"
+        },
+        "2738042": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5353096309918974697",
+                    "size": "8180603722",
+                    "download": "3241976768"
+                },
+                "beta": {
+                    "gid": "2159574106390498191",
+                    "size": "7774221806",
+                    "download": "3026242480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16801601",
+                "timeupdated": "1734619647"
+            },
+            "beta": {
+                "buildid": "17207018",
+                "description": "Branch for Beta playtesting",
+                "timeupdated": "1738390602"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
