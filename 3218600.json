@@ -1,0 +1,58 @@
+{
+    "appid": "3218600",
+    "type": "Game",
+    "name": "命运游戏2：百年之约",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27471515",
+    "update_time": "2025-02-14 10:33:53",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese",
+        "3218601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4751066434090484656",
+                    "size": "67351824909",
+                    "download": "67926888480"
+                }
+            },
+            "decryptionkey": "a9056353de36f2ccfb10c1b66ad52bba28d64db535fb19c5540bbf759b0a6ec7"
+        },
+        "3218602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2055927374493243860",
+                    "size": "66252220830",
+                    "download": "66774051888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3218603": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1496480879471018632",
+                    "size": "66871982397",
+                    "download": "67512647872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17345931",
+                "timeupdated": "1739416885"
+            }
+        }
+    }
+}
