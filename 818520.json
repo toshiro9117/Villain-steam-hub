@@ -1,0 +1,87 @@
+{
+    "appid": "818520",
+    "type": "Game",
+    "name": "Builders Of Egypt",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27493053",
+    "update_time": "2025-02-15 18:11:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "818521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7340372777229545706",
+                    "size": "15951462143",
+                    "download": "15239913168"
+                },
+                "patch_test": {
+                    "gid": "7340372777229545706",
+                    "size": "15951462143",
+                    "download": "15239913168"
+                },
+                "previous_version": {
+                    "gid": "1023063969842824206",
+                    "size": "15951464207",
+                    "download": "15239922608"
+                }
+            },
+            "decryptionkey": "149a50ad89bd36bfa5c15cdd859336466689abaecc6ce54f3c8ec6cb0ff6bbd1"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17457264",
+                "timeupdated": "1740160242"
+            },
+            "patch_test": {
+                "buildid": "17457264",
+                "description": "The latest patch is being tested here. Warning, there may be bugs!",
+                "timeupdated": "1740152529"
+            },
+            "previous_version": {
+                "buildid": "17376871",
+                "description": "Did something go wrong? Do you want to go back to a previous version? Here you will find it",
+                "timeupdated": "1740160217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
