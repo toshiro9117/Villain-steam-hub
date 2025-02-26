@@ -1,0 +1,32 @@
+{
+    "appid": "2776780",
+    "type": "Game",
+    "name": "Blood Bar Tycoon",
+    "schinese_name": "吸血鬼酒吧大亨",
+    "isfreeapp": "0",
+    "change_number": "27524590",
+    "update_time": "2025-02-18 07:13:59",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,japanese,brazilian",
+        "2776781": {
+            "manifests": {
+                "public": {
+                    "gid": "6585594573746752314",
+                    "size": "3025159250",
+                    "download": "1983482064"
+                }
+            },
+            "decryptionkey": "afa10f600fdbcfa388448072896e37c7d362a5efbbf2f49e6e85493d0e90aabe"
+        },
+        "3372940": {
+            "dlcappid": "3372940"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17435630",
+                "timeupdated": "1740062864"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
