@@ -1,0 +1,105 @@
+{
+    "appid": "2858150",
+    "type": "Game",
+    "name": "Airships: Lost Flotilla",
+    "schinese_name": "失落舰队",
+    "isfreeapp": "0",
+    "change_number": "27543045",
+    "update_time": "2025-02-19 06:03:45",
+    "depot": {
+        "2858151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3074597638957282550",
+                    "size": "824584586",
+                    "download": "255056576"
+                },
+                "demo": {
+                    "gid": "5295220605388472202",
+                    "size": "683407382",
+                    "download": "171054736"
+                },
+                "donotuse": {
+                    "gid": "3686325814995022724",
+                    "size": "824338146",
+                    "download": "254995024"
+                },
+                "modding-beta": {
+                    "gid": "3686325814995022724",
+                    "size": "824338146",
+                    "download": "254995024"
+                },
+                "test": {
+                    "gid": "3074597638957282550",
+                    "size": "824584586",
+                    "download": "255056576"
+                }
+            },
+            "decryptionkey": "6098e8439ab4facbc0c97bece65039085d8ba9d4122d5774d2b920e0bf7a619b"
+        },
+        "2858152": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3621256096229094230",
+                    "size": "824850584",
+                    "download": "254457984"
+                },
+                "demo": {
+                    "gid": "1392310005245266990",
+                    "size": "683677828",
+                    "download": "170459616"
+                },
+                "donotuse": {
+                    "gid": "2479811317562361519",
+                    "size": "824594420",
+                    "download": "254394256"
+                },
+                "modding-beta": {
+                    "gid": "2479811317562361519",
+                    "size": "824594420",
+                    "download": "254394256"
+                },
+                "test": {
+                    "gid": "3621256096229094230",
+                    "size": "824850584",
+                    "download": "254457984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2858150",
+        "branches": {
+            "public": {
+                "buildid": "17376556",
+                "timeupdated": "1739643080"
+            },
+            "demo": {
+                "buildid": "16421199",
+                "description": "Demo test",
+                "timeupdated": "1737818845"
+            },
+            "donotuse": {
+                "buildid": "17421815",
+                "description": "Dead dove do not execute",
+                "timeupdated": "1739964883"
+            },
+            "modding-beta": {
+                "buildid": "17421815",
+                "description": "Beta version of modding support",
+                "timeupdated": "1739968779"
+            },
+            "test": {
+                "buildid": "17376556",
+                "description": "Test branch, do not use",
+                "timeupdated": "1739609694"
+            }
+        },
+        "workshopdepotdecryptionkey": "938a1e856eb9ed43f7d5e4b3d37dbb8e91c824f1c7db6abc09959f6d2a19278a"
+    }
+}
