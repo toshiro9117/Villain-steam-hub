@@ -1,0 +1,43 @@
+{
+    "appid": "2178070",
+    "type": "Game",
+    "name": "Towers of Aghasba",
+    "schinese_name": "阿加斯巴之塔",
+    "isfreeapp": "0",
+    "change_number": "27543197",
+    "update_time": "2025-02-19 06:15:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2178071": {
+            "manifests": {
+                "public": {
+                    "gid": "490109440909923492",
+                    "size": "31428302399",
+                    "download": "13998899984"
+                }
+            },
+            "decryptionkey": "a0cc1ebf88bc7bfcac11875c070fb0a2b0b439f439779695e2f7a3499ebcc7fd"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17286281",
+                "timeupdated": "1738975924"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
