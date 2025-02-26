@@ -1,0 +1,27 @@
+{
+    "appid": "2192900",
+    "type": "Game",
+    "name": "Knock'Em Out",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27397327",
+    "update_time": "2025-02-10 17:27:15",
+    "depot": {
+        "2192901": {
+            "manifests": {
+                "public": {
+                    "gid": "4743586852512653386",
+                    "size": "2180203910",
+                    "download": "616696544"
+                }
+            },
+            "decryptionkey": "0c1840ea3034ffc95b8876adba1d2abbc0276437392add138754347775fd121b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17292894",
+                "timeupdated": "1739179594"
+            }
+        }
+    }
+}
