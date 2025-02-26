@@ -1,0 +1,53 @@
+{
+    "appid": "2796180",
+    "type": "Game",
+    "name": "SILENT BREATH",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27469766",
+    "update_time": "2025-02-14 08:15:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2796181": {
+            "manifests": {
+                "public": {
+                    "gid": "8008426595655309722",
+                    "size": "13841771382",
+                    "download": "13530533088"
+                },
+                "public_beta": {
+                    "gid": "7160071858301256625",
+                    "size": "11955338571",
+                    "download": "11404265680"
+                }
+            },
+            "decryptionkey": "0bc95c642ade277747008c7f43a7903ef23726feaa4dce9411f15cf287aebd16"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17324581",
+                "timeupdated": "1739293485"
+            },
+            "public_beta": {
+                "buildid": "14118960",
+                "description": "Public beta branch",
+                "timeupdated": "1713625226"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
