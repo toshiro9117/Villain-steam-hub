@@ -1,0 +1,28 @@
+{
+    "appid": "1942110",
+    "type": "Game",
+    "name": "Bootstrap Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27175093",
+    "update_time": "2025-01-27 05:26:43",
+    "depot": {
+        "1942111": {
+            "manifests": {
+                "public": {
+                    "gid": "6640857522612974101",
+                    "size": "16986135905",
+                    "download": "16861583936"
+                }
+            },
+            "decryptionkey": "99f7b518140fce9f16e690ba937ae59eeb918f35348ba45974e4e2f96a11f59f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16391930",
+                "timeupdated": "1731586266"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
