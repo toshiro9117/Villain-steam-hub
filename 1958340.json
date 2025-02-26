@@ -1,0 +1,66 @@
+{
+    "appid": "1958340",
+    "type": "Game",
+    "name": "Cube Chaos",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27516970",
+    "update_time": "2025-02-17 22:15:38",
+    "depot": {
+        "workshopdepot": "1958340",
+        "1958341": {
+            "manifests": {
+                "public": {
+                    "gid": "2626242921160021767",
+                    "size": "20535419",
+                    "download": "13519232"
+                },
+                "oldversion_6.2": {
+                    "gid": "3108162889837353150",
+                    "size": "118881116",
+                    "download": "43232096"
+                }
+            },
+            "decryptionkey": "fe299ec04331e8d79d96236840bdfb7f68d5bfdcd56f294d95277db13b3bbd08"
+        },
+        "1958342": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6622023141311857908",
+                    "size": "359470275",
+                    "download": "188324272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1958343": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4789379329834288049",
+                    "size": "99140581",
+                    "download": "30156048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17305698",
+                "timeupdated": "1739801712"
+            },
+            "oldversion_6.2": {
+                "buildid": "14019049",
+                "description": "Version 6.2.2",
+                "timeupdated": "1714627645"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0bf74a884732a08530d8b93f7b83e103cfef0bdbe87835b885abf3cc5da0b839"
+    }
+}
