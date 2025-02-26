@@ -1,0 +1,30 @@
+{
+    "appid": "687800",
+    "type": "Game",
+    "name": "Heads Will Roll: Reforged",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27215547",
+    "update_time": "2025-01-29 18:20:39",
+    "depot": {
+        "687801": {
+            "manifests": {
+                "public": {
+                    "gid": "8473727986251306551",
+                    "size": "1210828149",
+                    "download": "903720368"
+                }
+            },
+            "decryptionkey": "c2ca504542832cb9bfbb6785fafb8bd15bf790b11ca42c4c627bebcdbdf13e9c"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16966236",
+                "timeupdated": "1736522757"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
