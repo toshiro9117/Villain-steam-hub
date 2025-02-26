@@ -1,0 +1,42 @@
+{
+    "appid": "2838940",
+    "type": "Game",
+    "name": "神魔决之江湖行",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27377323",
+    "update_time": "2025-02-08 18:16:29",
+    "depot": {
+        "baselanguages": "schinese",
+        "2838941": {
+            "manifests": {
+                "public": {
+                    "gid": "7624631966857511501",
+                    "size": "2024160159",
+                    "download": "437025600"
+                }
+            },
+            "decryptionkey": "3bac7548c85b7fadfa6746b536af989a485506fe800f4ea0aac28a0858ca5036"
+        },
+        "2838942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2718482827105515490",
+                    "size": "2048879051",
+                    "download": "445108528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17054272",
+                "timeupdated": "1737263646"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
