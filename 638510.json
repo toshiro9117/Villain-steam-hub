@@ -1,0 +1,79 @@
+{
+    "appid": "638510",
+    "type": "Game",
+    "name": "dotAGE",
+    "schinese_name": "点老救世记 - dotAGE",
+    "isfreeapp": "0",
+    "change_number": "27494125",
+    "update_time": "2025-02-15 21:01:48",
+    "depot": {
+        "baselanguages": "english,italian",
+        "638511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6213256611522864034",
+                    "size": "416721780",
+                    "download": "144187568"
+                },
+                "experimental": {
+                    "gid": "6845278691521079059",
+                    "size": "416698298",
+                    "download": "144187952"
+                }
+            },
+            "decryptionkey": "43a0d933728c94f2a389e62a5437babad1243459004f122547c8531220af92b9"
+        },
+        "638512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1304934017528750980",
+                    "size": "493198681",
+                    "download": "161330912"
+                },
+                "experimental": {
+                    "gid": "7556939543635589855",
+                    "size": "493164468",
+                    "download": "161330560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "638513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2400925152527107543",
+                    "size": "482796981",
+                    "download": "151092640"
+                },
+                "experimental": {
+                    "gid": "3659312002052960088",
+                    "size": "482535058",
+                    "download": "151117376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17056040",
+                "timeupdated": "1737295512"
+            },
+            "experimental": {
+                "buildid": "16759137",
+                "description": "Updated faster, but may be more unstable",
+                "timeupdated": "1734354070"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
