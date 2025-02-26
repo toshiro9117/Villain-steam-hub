@@ -1,0 +1,49 @@
+{
+    "appid": "2671230",
+    "type": "Game",
+    "name": "BLADE CHIMERA",
+    "schinese_name": "幻刃奇美拉",
+    "isfreeapp": "0",
+    "change_number": "27439752",
+    "update_time": "2025-02-12 21:22:29",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2671231": {
+            "manifests": {
+                "public": {
+                    "gid": "8018641918980313292",
+                    "size": "298803005",
+                    "download": "189866016"
+                }
+            },
+            "decryptionkey": "83393dbe4d646f58e4904203ccee9e147af7a942cdec79617be2e13061f0f3ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16916277",
+                "timeupdated": "1737014131"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
