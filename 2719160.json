@@ -1,0 +1,42 @@
+{
+    "appid": "2719160",
+    "type": "Game",
+    "name": "Contractors Showdown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27512680",
+    "update_time": "2025-02-17 17:31:26",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2719161": {
+            "manifests": {
+                "public": {
+                    "gid": "5013788972080810830",
+                    "size": "39099137173",
+                    "download": "36494577664"
+                }
+            },
+            "decryptionkey": "09414e3bc70d3b13b3e1145978229a49a56414f7aec9ed4eedc8598d31d720b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17390351",
+                "timeupdated": "1739784352"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
