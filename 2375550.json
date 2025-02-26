@@ -1,0 +1,40 @@
+{
+    "appid": "2375550",
+    "type": "Game",
+    "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "schinese_name": "人中之龙7外传 无名之龙",
+    "isfreeapp": "0",
+    "change_number": "27304144",
+    "update_time": "2025-02-04 17:37:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2375551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4690972963020273116",
+                    "size": "93721525181",
+                    "download": "70533256352"
+                }
+            },
+            "decryptionkey": "98c80a1e378de4c0c534551cba0c53e74326cd8ff2f9360ad6fa4f5588a4729e"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "13843181",
+                "timeupdated": "1711677611"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
