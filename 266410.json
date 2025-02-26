@@ -1,0 +1,68 @@
+{
+    "appid": "266410",
+    "type": "Game",
+    "name": "iRacing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27308252",
+    "update_time": "2025-02-04 22:21:38",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "266415": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3103250304282027456",
+                    "size": "133299306732",
+                    "download": "120453189840"
+                }
+            },
+            "decryptionkey": "178e63e412c7306dfaef0daf0941e930181b56ae738df0feef6e403dee85aaec"
+        },
+        "266416": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "266417": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "266411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4602344135809957150",
+                    "size": "2018",
+                    "download": "912"
+                }
+            },
+            "decryptionkey": "c6926148df6b91b2ca1e691ad992d112a63e9ef46f067d86ad73e0e6220a310d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17238665",
+                "timeupdated": "1738678890"
+            }
+        }
+    }
+}
