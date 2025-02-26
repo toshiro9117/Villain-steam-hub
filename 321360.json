@@ -1,0 +1,82 @@
+{
+    "appid": "321360",
+    "type": "Game",
+    "name": "Primal Carnage: Extinction",
+    "schinese_name": "原始杀戮：灭绝",
+    "isfreeapp": "0",
+    "change_number": "27446539",
+    "update_time": "2025-02-13 04:22:39",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "321361": {
+            "manifests": {
+                "public": {
+                    "gid": "9032859555243679918",
+                    "size": "12320363100",
+                    "download": "8965682048"
+                },
+                "pre-v3": {
+                    "gid": "664511832144855734",
+                    "size": "10559093860",
+                    "download": "7944743104"
+                }
+            },
+            "decryptionkey": "44c9aa7a8860e89276b65426256e270756e1c1b62567ee7d97de2b41008300a1"
+        },
+        "workshopdepot": "321360",
+        "branches": {
+            "public": {
+                "buildid": "17341692",
+                "timeupdated": "1739391693"
+            },
+            "pre-v3": {
+                "buildid": "14852435",
+                "description": "last version before 3.0 update",
+                "timeupdated": "1731075405"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8a1de5ea422f8588c30987880e5f33e08ebc2242d9fdcf10ec21317be73a2440"
+    }
+}
