@@ -1,0 +1,44 @@
+{
+    "appid": "3446850",
+    "type": "Game",
+    "name": "Skufs VS Quadrobers",
+    "schinese_name": "斯库夫 对决 夸德罗伯 Skufs VS Quadrobers",
+    "isfreeapp": "0",
+    "change_number": "27524062",
+    "update_time": "2025-02-18 06:25:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3446851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "862846403010307284",
+                    "size": "5913804682",
+                    "download": "5722008800"
+                }
+            },
+            "decryptionkey": "9971739238be7f6f5a9d2fa1717819e11d4141c0c4053276656a3bf15721867d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17399269",
+                "timeupdated": "1739831137"
+            }
+        }
+    }
+}
