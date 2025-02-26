@@ -1,0 +1,59 @@
+{
+    "appid": "1990050",
+    "type": "Game",
+    "name": "Creature Creator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27497412",
+    "update_time": "2025-02-16 04:45:17",
+    "depot": {
+        "workshopdepot": "1990050",
+        "1990051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1774356622177124960",
+                    "size": "943316805",
+                    "download": "272394352"
+                }
+            },
+            "decryptionkey": "1a899ea1a518a54b37c7002a421793a3d8ec2ee9c3908a6f93baae6a43adc4c3"
+        },
+        "1990052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2056065181396025558",
+                    "size": "971306263",
+                    "download": "280772848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1990053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4392536004584177954",
+                    "size": "947965171",
+                    "download": "266656256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15785592",
+                "timeupdated": "1726995887"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8686f086af8c078d9ee3acd6f092a85473f11a1935cdd4c25c573708d023c42f"
+    }
+}
