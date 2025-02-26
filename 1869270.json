@@ -1,0 +1,50 @@
+{
+    "appid": "1869270",
+    "type": "Game",
+    "name": "Multi Turret Academy",
+    "schinese_name": "多炮塔神教",
+    "isfreeapp": "0",
+    "change_number": "27416434",
+    "update_time": "2025-02-11 16:53:41",
+    "depot": {
+        "baselanguages": "english",
+        "1869271": {
+            "manifests": {
+                "public": {
+                    "gid": "7384918669925218203",
+                    "size": "4023172543",
+                    "download": "3114023856"
+                },
+                "beta": {
+                    "gid": "4096958608273531292",
+                    "size": "4048479015",
+                    "download": "3133314672"
+                },
+                "mono": {
+                    "gid": "4828287285592489503",
+                    "size": "3188652660",
+                    "download": "2522195680"
+                }
+            },
+            "decryptionkey": "383cfc607b678816d447a6c1deead0f145f9e4d59ab77ddbb80af0fd50f29fc8"
+        },
+        "3020050": {
+            "dlcappid": "3020050"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17318456",
+                "timeupdated": "1739264014"
+            },
+            "beta": {
+                "buildid": "17474115",
+                "description": "Testing",
+                "timeupdated": "1740322855"
+            },
+            "mono": {
+                "buildid": "15504320",
+                "timeupdated": "1724755505"
+            }
+        }
+    }
+}
