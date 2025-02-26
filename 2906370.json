@@ -1,0 +1,42 @@
+{
+    "appid": "2906370",
+    "type": "Game",
+    "name": "Bright Lord",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27348176",
+    "update_time": "2025-02-07 00:05:52",
+    "depot": {
+        "2906371": {
+            "manifests": {
+                "public": {
+                    "gid": "1382332403212776104",
+                    "size": "2840659658",
+                    "download": "2686051248"
+                }
+            },
+            "decryptionkey": "aefc381b5f8e1d6ef23422f8681f983febac8819a4956ae1855ea457d479a416"
+        },
+        "3316070": {
+            "dlcappid": "3316070",
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5182704651917315777",
+                    "size": "15045915",
+                    "download": "14324080"
+                }
+            },
+            "decryptionkey": "c0b8b21be38e98c6b9e12aceb56e5726b5ab65c936856e1984197770ab299986"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16774615",
+                "timeupdated": "1734451053"
+            }
+        }
+    }
+}
