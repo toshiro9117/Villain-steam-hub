@@ -1,0 +1,59 @@
+{
+    "appid": "1841240",
+    "type": "Game",
+    "name": "FOUNTAINS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501802",
+    "update_time": "2025-02-16 18:13:21",
+    "depot": {
+        "1841242": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6159485478096595893",
+                    "size": "315453797",
+                    "download": "179778080"
+                }
+            },
+            "decryptionkey": "e150800a581d326ca7167683a140a2bf62e2b714ff1966830cc8707cc88d23d1"
+        },
+        "1841243": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8038030283829940139",
+                    "size": "358661377",
+                    "download": "190132768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1841244": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "687573928365238974",
+                    "size": "327507125",
+                    "download": "183537984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17342969",
+                "timeupdated": "1739396465"
+            }
+        }
+    }
+}
