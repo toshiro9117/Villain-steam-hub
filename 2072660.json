@@ -1,0 +1,42 @@
+{
+    "appid": "2072660",
+    "type": "Game",
+    "name": "Voidborn",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25612790",
+    "update_time": "2024-10-10 19:41:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2072661": {
+            "manifests": {
+                "public": {
+                    "gid": "3814095236669439093",
+                    "size": "1551986233",
+                    "download": "1372922080"
+                }
+            },
+            "decryptionkey": "5efa73871d64b1d009cec8925d8007c02580d70c8fc44f6bed8540ff9a9d6a08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14642654",
+                "timeupdated": "1717779844"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
