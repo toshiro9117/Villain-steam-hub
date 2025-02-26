@@ -1,0 +1,54 @@
+{
+    "appid": "2666510",
+    "type": "Game",
+    "name": "Rusty's Retirement",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27533764",
+    "update_time": "2025-02-18 20:16:00",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2666511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6452610647182154688",
+                    "size": "309963955",
+                    "download": "78096896"
+                }
+            },
+            "decryptionkey": "87c44f717e4f4a2bc193e9fef7d8ddf9e01972a6fd582a8c6940c56c564e501e"
+        },
+        "2666512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5396577208463020113",
+                    "size": "302790152",
+                    "download": "75764640"
+                }
+            },
+            "decryptionkey": "36002f9d0ef88f73fbfaa26203e579f6c53e4b234a6dea6004419be23d09b212"
+        },
+        "2943560": {
+            "dlcappid": "2943560"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17237769",
+                "timeupdated": "1738673954"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
