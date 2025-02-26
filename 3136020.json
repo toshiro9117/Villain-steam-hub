@@ -1,0 +1,27 @@
+{
+    "appid": "3136020",
+    "type": "Game",
+    "name": "My Cheetah Friend",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27152720",
+    "update_time": "2025-01-25 00:29:21",
+    "depot": {
+        "3136021": {
+            "manifests": {
+                "public": {
+                    "gid": "8215675100114662548",
+                    "size": "389013992",
+                    "download": "276709056"
+                }
+            },
+            "decryptionkey": "ab8ff62c7a1a4cd805bc24aa16a4bf9f50beaa8425d833bcb58539639743c581"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17436093",
+                "timeupdated": "1740040980"
+            }
+        }
+    }
+}
