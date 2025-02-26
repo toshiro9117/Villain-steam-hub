@@ -1,0 +1,48 @@
+{
+    "appid": "2361680",
+    "type": "Game",
+    "name": "Path of Kung Fu",
+    "schinese_name": "刀剑江湖路",
+    "isfreeapp": "0",
+    "change_number": "27376585",
+    "update_time": "2025-02-08 16:40:45",
+    "depot": {
+        "baselanguages": "schinese",
+        "workshopdepot": "2361680",
+        "2361688": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "194508872956471940",
+                    "size": "11720663920",
+                    "download": "4535211472"
+                }
+            },
+            "decryptionkey": "07a52ef0c4000ac45e3da0a62c446d7b48ca61f9cc84b39b7f27b2fa3a8350ef"
+        },
+        "2361689": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2717435456905004283",
+                    "size": "11720663920",
+                    "download": "4535354176"
+                }
+            },
+            "decryptionkey": "7a25fdbc01e0976feba001688f5a6c52c29585d0a8965e3090d0b2ceefd84979"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17289342",
+                "timeupdated": "1739004039"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2a4b729e6af8835c4895a641bcd108277f517579fa0b96c63cd21d65ddb60f0f"
+    }
+}
