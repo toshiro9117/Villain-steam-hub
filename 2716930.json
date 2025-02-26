@@ -1,0 +1,36 @@
+{
+    "appid": "2716930",
+    "type": "Game",
+    "name": "The Emperor and State",
+    "schinese_name": "皇帝与社稷",
+    "isfreeapp": "0",
+    "change_number": "27182629",
+    "update_time": "2025-01-27 20:35:54",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "2716931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3656953779004091457",
+                    "size": "1471879848",
+                    "download": "457458720"
+                }
+            },
+            "decryptionkey": "0c32344f8dbf49426e7b6da2cb1ddd972e3e2883a1ffbcac7dbdb9a9eb2d53eb"
+        },
+        "workshopdepot": "2716930",
+        "branches": {
+            "public": {
+                "buildid": "17419365",
+                "timeupdated": "1739953077"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4d683fa3a0504ee6e9b58b043f98c3100d562d751048a03ab8d0518335fbc9a4"
+    }
+}
