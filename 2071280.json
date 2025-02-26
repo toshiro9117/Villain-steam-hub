@@ -1,0 +1,37 @@
+{
+    "appid": "2071280",
+    "type": "Game",
+    "name": "Ravenswatch",
+    "schinese_name": "Ravenswatch 鸦卫奇旅",
+    "isfreeapp": "0",
+    "change_number": "27528805",
+    "update_time": "2025-02-18 14:19:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2071281": {
+            "manifests": {
+                "public": {
+                    "gid": "8375052363483122438",
+                    "size": "6009318686",
+                    "download": "2131609936"
+                }
+            },
+            "decryptionkey": "708c675853989cbd400455e166d30f9dec051473847f4577ef48f7c9331edb97"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17186701",
+                "timeupdated": "1738332006"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
