@@ -1,0 +1,28 @@
+{
+    "appid": "2955590",
+    "type": "Game",
+    "name": "Creepy Shift: Roadside Diner",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27505927",
+    "update_time": "2025-02-17 04:15:49",
+    "depot": {
+        "2955591": {
+            "manifests": {
+                "public": {
+                    "gid": "5463235660918729440",
+                    "size": "3699686487",
+                    "download": "1499691920"
+                }
+            },
+            "decryptionkey": "408d08c9788da9c2abeff9f3668ecc9a6e50bcccac6f2c1dd5f12fe2e0cd5c6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17147829",
+                "timeupdated": "1737999028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
