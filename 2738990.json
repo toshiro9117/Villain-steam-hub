@@ -1,0 +1,37 @@
+{
+    "appid": "2738990",
+    "type": "Game",
+    "name": "Node Farm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27431261",
+    "update_time": "2025-02-12 10:21:44",
+    "depot": {
+        "2738991": {
+            "manifests": {
+                "public": {
+                    "gid": "892315653641884324",
+                    "size": "367533146",
+                    "download": "215626464"
+                },
+                "public_beta": {
+                    "gid": "892315653641884324",
+                    "size": "367533146",
+                    "download": "215626464"
+                }
+            },
+            "decryptionkey": "6f85921732319a70ee9c493efbb955e18e776c530382e99a07abca30e7f29f09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17328040",
+                "timeupdated": "1739313661"
+            },
+            "public_beta": {
+                "buildid": "17328040",
+                "description": "Public beta to check updates before deploying to the default branch",
+                "timeupdated": "1739313630"
+            }
+        }
+    }
+}
