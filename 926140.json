@@ -1,0 +1,59 @@
+{
+    "appid": "926140",
+    "type": "Game",
+    "name": "CHANGE: A Homeless Survival Experience",
+    "schinese_name": "CHANGE：无家可归的生存体验",
+    "isfreeapp": "0",
+    "change_number": "26681681",
+    "update_time": "2024-12-18 01:10:06",
+    "depot": {
+        "926141": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3266805651036766136",
+                    "size": "1186397485",
+                    "download": "573775808"
+                }
+            },
+            "decryptionkey": "77470138e52af8fb87708e9084498ce59dea9ead06e835f0fde64faf88b7a059"
+        },
+        "926142": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3887580013357328325",
+                    "size": "1208121380",
+                    "download": "578521376"
+                }
+            },
+            "decryptionkey": "42cac4fff425db7bc94a96ddf9bad9158792975a2c51113ad5d10ac042ce8b63"
+        },
+        "926143": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3681247477012625912",
+                    "size": "1238335270",
+                    "download": "578391968"
+                }
+            },
+            "decryptionkey": "71766b560fab8c4af6bd8dc1855aa386a8ba62a30a94bbbbc5482e56cfcd9069"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16776173",
+                "timeupdated": "1734455397"
+            }
+        }
+    }
+}
