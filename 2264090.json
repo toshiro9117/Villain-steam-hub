@@ -1,0 +1,45 @@
+{
+    "appid": "2264090",
+    "type": "Game",
+    "name": "Desktop Garage Kit",
+    "schinese_name": "桌面手办",
+    "isfreeapp": "0",
+    "change_number": "27537798",
+    "update_time": "2025-02-19 00:14:17",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2264091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1563304685945122243",
+                    "size": "24060800325",
+                    "download": "6780912384"
+                }
+            },
+            "decryptionkey": "09fe8b6d4e4e72ffcc2c1a7c5350e441eb9792badeed8568f1891cd7f5b60f14"
+        },
+        "2264092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3219000967167973436",
+                    "size": "2612228820",
+                    "download": "514568592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17370604",
+                "timeupdated": "1739557066"
+            }
+        }
+    }
+}
