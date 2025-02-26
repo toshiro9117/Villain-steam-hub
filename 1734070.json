@@ -1,0 +1,29 @@
+{
+    "appid": "1734070",
+    "type": "Game",
+    "name": "東方紅夜狂宴 ~Red Empress Devil.",
+    "schinese_name": "东方红夜狂宴",
+    "isfreeapp": "0",
+    "change_number": "27064218",
+    "update_time": "2025-01-19 22:47:33",
+    "depot": {
+        "baselanguages": "english",
+        "1734071": {
+            "manifests": {
+                "public": {
+                    "gid": "9114274787533206343",
+                    "size": "535364445",
+                    "download": "63958320"
+                }
+            },
+            "decryptionkey": "15d8af2106ca1aa26fbc0da3b60ff929e41fc7e3f238652bededb36705700d0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17056185",
+                "timeupdated": "1737298023"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
