@@ -1,0 +1,39 @@
+{
+    "appid": "1924140",
+    "type": "Game",
+    "name": "ISEKAI FRONTLINE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501179",
+    "update_time": "2025-02-16 16:16:33",
+    "depot": {
+        "1924141": {
+            "manifests": {
+                "public": {
+                    "gid": "7925816749821577868",
+                    "size": "9410465078",
+                    "download": "923812256"
+                },
+                "beta": {
+                    "gid": "3622750578954013753",
+                    "size": "8562668166",
+                    "download": "830421088"
+                }
+            },
+            "decryptionkey": "bf3ae84c04ed171cde0d22d2539d383938e3dcf0350a52a8b7b111283ad1e563"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "16700442",
+                "timeupdated": "1733872084"
+            },
+            "beta": {
+                "buildid": "14765424",
+                "description": "open beta",
+                "timeupdated": "1733795222"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
