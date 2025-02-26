@@ -1,0 +1,41 @@
+{
+    "appid": "2999780",
+    "type": "Game",
+    "name": "Skeletos Sword",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26661371",
+    "update_time": "2024-12-16 21:39:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2999781": {
+            "manifests": {
+                "public": {
+                    "gid": "2892645626435530177",
+                    "size": "1540148472",
+                    "download": "1428722720"
+                }
+            },
+            "decryptionkey": "9f5d4dc7148010aae97aaeec8e6e7e69fb688a604c72c7d339b22f21fecdf74f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14629219",
+                "timeupdated": "1717695354"
+            }
+        }
+    }
+}
