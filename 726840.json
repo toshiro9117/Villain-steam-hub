@@ -1,0 +1,125 @@
+{
+    "appid": "726840",
+    "type": "Game",
+    "name": "City Game Studio",
+    "schinese_name": "城市游戏工作室",
+    "isfreeapp": "0",
+    "change_number": "27482886",
+    "update_time": "2025-02-15 00:15:07",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,ukrainian",
+        "726842": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1772444931821255992",
+                    "size": "369653548",
+                    "download": "277390864"
+                },
+                "oldstable": {
+                    "gid": "8757294308409845471",
+                    "size": "370070663",
+                    "download": "277430288"
+                },
+                "unstable": {
+                    "gid": "5559529806755514327",
+                    "size": "372689887",
+                    "download": "277563888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "726844": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9189814163584655478",
+                    "size": "372016284",
+                    "download": "278140368"
+                },
+                "oldstable": {
+                    "gid": "3707062458008569724",
+                    "size": "372521975",
+                    "download": "278195216"
+                },
+                "unstable": {
+                    "gid": "232450778843640899",
+                    "size": "375052623",
+                    "download": "278329728"
+                }
+            },
+            "decryptionkey": "cbe477aab7ce09bfebf6c5c4096023b76e4bb51a8599feea893c80eaaa51de71"
+        },
+        "726841": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6791207135850597789",
+                    "size": "376305735",
+                    "download": "292731936"
+                },
+                "oldstable": {
+                    "gid": "6340509842121398816",
+                    "size": "375878722",
+                    "download": "292533728"
+                },
+                "unstable": {
+                    "gid": "5098004517773836896",
+                    "size": "379342074",
+                    "download": "292907648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "726843": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2586016148618123962",
+                    "size": "381985523",
+                    "download": "280375072"
+                },
+                "oldstable": {
+                    "gid": "8328364098725224772",
+                    "size": "381569022",
+                    "download": "280193888"
+                },
+                "unstable": {
+                    "gid": "8414161989575474226",
+                    "size": "385021862",
+                    "download": "280549664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "726840",
+        "branches": {
+            "public": {
+                "buildid": "16887075",
+                "timeupdated": "1735752596"
+            },
+            "oldstable": {
+                "buildid": "15874484",
+                "description": "Contains an older version of City Game Studio",
+                "timeupdated": "1733731412"
+            },
+            "unstable": {
+                "buildid": "17420841",
+                "description": "Unstable branch, contains the newest features",
+                "timeupdated": "1739960560"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "5392a73096836296dd5e5ce31126fd9c8447332930b6ca8d176471354e9f4308"
+    }
+}
