@@ -1,0 +1,52 @@
+{
+    "appid": "2096030",
+    "type": "Game",
+    "name": "Snow Plowing Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27518965",
+    "update_time": "2025-02-18 00:15:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2096031": {
+            "manifests": {
+                "public": {
+                    "gid": "2388120629014835740",
+                    "size": "11102654772",
+                    "download": "10531334240"
+                },
+                "beta": {
+                    "gid": "2388120629014835740",
+                    "size": "11102654772",
+                    "download": "10531334240"
+                }
+            },
+            "decryptionkey": "4e2c22138fdf5e47bfe4d75e51360d167256c71f32aad159c9c841d483d3dc4c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17313402",
+                "timeupdated": "1739230708"
+            },
+            "beta": {
+                "buildid": "17313402",
+                "description": "Public Beta",
+                "timeupdated": "1739227433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
