@@ -1,0 +1,82 @@
+{
+    "appid": "2937910",
+    "type": "Game",
+    "name": "Don't Disturb Your STEPMOM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27506351",
+    "update_time": "2025-02-17 05:14:56",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2937911": {
+            "manifests": {
+                "public": {
+                    "gid": "4776125924033141239",
+                    "size": "8128658528",
+                    "download": "6730317504"
+                },
+                "testing": {
+                    "gid": "43079943426763330",
+                    "size": "8673910987",
+                    "download": "7323797392"
+                }
+            },
+            "decryptionkey": "7f1c7ada777551a1a6b52b48d1def3e574cdc1aae86d2e5575821f5002fe0733"
+        },
+        "workshopdepot": "2937910",
+        "branches": {
+            "public": {
+                "buildid": "16747975",
+                "timeupdated": "1734216728"
+            },
+            "testing": {
+                "buildid": "17386004",
+                "description": "Preview branch",
+                "timeupdated": "1740201553"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
