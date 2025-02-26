@@ -1,0 +1,44 @@
+{
+    "appid": "1689500",
+    "type": "Game",
+    "name": "Dune: Imperium",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540813",
+    "update_time": "2025-02-19 03:16:31",
+    "depot": {
+        "1689501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4376007224664808850",
+                    "size": "657384552",
+                    "download": "393285632"
+                }
+            },
+            "decryptionkey": "3e373de600fd15359e36cc7c92050dce9e8395fc94d981e27f4d8ad79f168737"
+        },
+        "1689502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7565472867933259022",
+                    "size": "826146696",
+                    "download": "407456608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16970182",
+                "timeupdated": "1737568059"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
