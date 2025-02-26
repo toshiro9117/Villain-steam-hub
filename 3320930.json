@@ -1,0 +1,60 @@
+{
+    "appid": "3320930",
+    "type": "Game",
+    "name": "Paranormal Night Shift",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27499607",
+    "update_time": "2025-02-16 10:15:06",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3320931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6593188172944988532",
+                    "size": "2418155402",
+                    "download": "923126752"
+                }
+            },
+            "decryptionkey": "d7f818bd1a88df25164b18ff2dfb5209fa3b3c454342ba5b22973106bac3764a"
+        },
+        "3320932": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4697029974469133046",
+                    "size": "2418155402",
+                    "download": "923126752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3320933": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5485685431573136162",
+                    "size": "2418155402",
+                    "download": "923126752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17322325",
+                "timeupdated": "1739283052"
+            }
+        }
+    }
+}
