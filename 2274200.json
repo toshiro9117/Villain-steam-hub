@@ -1,0 +1,28 @@
+{
+    "appid": "2274200",
+    "type": "Game",
+    "name": "Arken Age",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27526713",
+    "update_time": "2025-02-18 10:37:14",
+    "depot": {
+        "2274201": {
+            "manifests": {
+                "public": {
+                    "gid": "7013472862428807935",
+                    "size": "24265625551",
+                    "download": "10163032912"
+                }
+            },
+            "decryptionkey": "23fe823eb2d203e3fe4e1aabc4a7e6e449c1422b95bb39a3b6b117970cc45ba3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17439814",
+                "timeupdated": "1740151037"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
