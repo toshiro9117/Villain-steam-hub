@@ -1,0 +1,43 @@
+{
+    "appid": "2473710",
+    "type": "Game",
+    "name": "Abyss School",
+    "schinese_name": "深渊学校",
+    "isfreeapp": "0",
+    "change_number": "27438768",
+    "update_time": "2025-02-12 20:16:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2473711": {
+            "manifests": {
+                "public": {
+                    "gid": "983557067170554849",
+                    "size": "4185751893",
+                    "download": "3964753680"
+                }
+            },
+            "decryptionkey": "6fd98a3d18e40a628a3f7fa0419499d35cb31f86e6d45d1e881b91659184024d"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "16736638",
+                "timeupdated": "1734100615"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
