@@ -1,0 +1,126 @@
+{
+    "appid": "1664200",
+    "type": "Game",
+    "name": "Duelists of Eden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27381756",
+    "update_time": "2025-02-09 04:30:55",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1664201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7703615160988360887",
+                    "size": "534978839",
+                    "download": "272137088"
+                },
+                "multi-keyboard": {
+                    "gid": "7572701459277840373",
+                    "size": "534718452",
+                    "download": "271916288"
+                },
+                "previous-build": {
+                    "gid": "1720622996648129819",
+                    "size": "534804096",
+                    "download": "272000160"
+                },
+                "tournament": {
+                    "gid": "2930075534550615505",
+                    "size": "533124740",
+                    "download": "253317296"
+                }
+            },
+            "decryptionkey": "7434874be8446c990f6cd305ad2632218a35fdc9f3325eee46f962875f7554ed"
+        },
+        "1664202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "209736305652620940",
+                    "size": "563056629",
+                    "download": "279561936"
+                },
+                "multi-keyboard": {
+                    "gid": "8269222959452729511",
+                    "size": "549176069",
+                    "download": "255485344"
+                },
+                "previous-build": {
+                    "gid": "8015596954430259418",
+                    "size": "562876120",
+                    "download": "279424608"
+                },
+                "tournament": {
+                    "gid": "1119782164681603182",
+                    "size": "561197721",
+                    "download": "260737424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1664203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8631661871760877070",
+                    "size": "575409561",
+                    "download": "271312976"
+                },
+                "multi-keyboard": {
+                    "gid": "3976201654486641188",
+                    "size": "561523514",
+                    "download": "247228416"
+                },
+                "previous-build": {
+                    "gid": "8098930015021772865",
+                    "size": "575234925",
+                    "download": "271171008"
+                },
+                "tournament": {
+                    "gid": "9068722317427514534",
+                    "size": "573522288",
+                    "download": "252460816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17282840",
+                "timeupdated": "1738948088"
+            },
+            "multi-keyboard": {
+                "buildid": "15960660",
+                "description": "Enables multi-keyboard support for windows, at the expense of some controller support",
+                "timeupdated": "1728348795"
+            },
+            "previous-build": {
+                "buildid": "16668922",
+                "description": "previous build for watching old replays",
+                "timeupdated": "1739046650"
+            },
+            "tournament": {
+                "buildid": "14991281",
+                "description": "last tournament build",
+                "timeupdated": "1722269387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
