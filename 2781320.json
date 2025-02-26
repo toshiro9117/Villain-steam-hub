@@ -1,0 +1,43 @@
+{
+    "appid": "2781320",
+    "type": "Beta",
+    "name": "SMITE 2 - Public Test",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540201",
+    "update_time": "2025-02-19 02:37:37",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2781321": {
+            "manifests": {
+                "public": {
+                    "gid": "8928362278029487128",
+                    "size": "18955826258",
+                    "download": "16944130944"
+                }
+            },
+            "decryptionkey": "cf2c5add2f73e54d521a1f094722ef5bbd84ef6a22cec5ea265e96bc7bd22f8b"
+        },
+        "baselanguages": "english,german,french,schinese,russian,japanese,polish,turkish,brazilian,ukrainian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17421925",
+                "timeupdated": "1739987347"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
