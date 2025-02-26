@@ -1,0 +1,88 @@
+{
+    "appid": "3241110",
+    "type": "Game",
+    "name": "封神传God pass",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27538734",
+    "update_time": "2025-02-19 01:09:21",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese",
+        "3241111": {
+            "manifests": {
+                "public": {
+                    "gid": "8360379032415508835",
+                    "size": "381741321",
+                    "download": "278130928"
+                }
+            },
+            "decryptionkey": "87e5538fb4a5c525dacaa834224f334cc7c9106b1f4c15950a5909f01ca03f42"
+        },
+        "3241112": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5315635441641871272",
+                    "size": "381721828",
+                    "download": "278122544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3241113": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7983888148718329969",
+                    "size": "289151246",
+                    "download": "219895152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3241114": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6458801595106594319",
+                    "size": "289077295",
+                    "download": "219821120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3518770": {
+            "dlcappid": "3518770",
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "optionaldlc": "3518770"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4345470746162200251",
+                    "size": "402864001",
+                    "download": "292373968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17438953",
+                "timeupdated": "1740054537"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
