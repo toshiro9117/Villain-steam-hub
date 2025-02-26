@@ -1,0 +1,45 @@
+{
+    "appid": "2873080",
+    "type": "Game",
+    "name": "不/存在的你，和我",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27400946",
+    "update_time": "2025-02-10 21:18:50",
+    "depot": {
+        "2873081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5534801334860167658",
+                    "size": "1634040106",
+                    "download": "1000478096"
+                }
+            },
+            "decryptionkey": "08b343a18857a38239ec80b4280bbd5944eb618feeb2f12e2b3b3314659495df"
+        },
+        "2873082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2175440881263125236",
+                    "size": "1747984958",
+                    "download": "1021689984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "16862310",
+                "timeupdated": "1735327446"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
