@@ -1,0 +1,44 @@
+{
+    "appid": "3393250",
+    "type": "Demo",
+    "name": "Careening Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27429209",
+    "update_time": "2025-02-12 07:47:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3393251": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6278544680313848299",
+                    "size": "1051930480",
+                    "download": "912455392"
+                }
+            },
+            "decryptionkey": "2c3198112e8fce61253d1dc33e0ac4f7fd4dcb3ceb0d7ac3f382d294ed9f8dd5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17011264",
+                "timeupdated": "1736935099"
+            }
+        }
+    }
+}
