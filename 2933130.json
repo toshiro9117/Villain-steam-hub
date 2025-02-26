@@ -1,0 +1,58 @@
+{
+    "appid": "2933130",
+    "type": "Game",
+    "name": "The Lord of the Rings: Return to Moria™",
+    "schinese_name": "《指环王：重返墨瑞亚™》Return to Moria",
+    "isfreeapp": "0",
+    "change_number": "27543502",
+    "update_time": "2025-02-19 06:38:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2933131": {
+            "manifests": {
+                "public": {
+                    "gid": "8408104795255549786",
+                    "size": "15932699987",
+                    "download": "15376173648"
+                }
+            },
+            "decryptionkey": "571136626b31c8951f3afe863e98bd7d8c833657d08311b65aa528309cb9b6ef"
+        },
+        "3184500": {
+            "dlcappid": "3184500",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9124949127565843574",
+                    "size": "18164860",
+                    "download": "16812080"
+                }
+            },
+            "decryptionkey": "f496d95994c7faaae378d2296549e6dcf8caba08288406472ede9bf5c3cdf2ef"
+        },
+        "2933132": {},
+        "2933133": {},
+        "branches": {
+            "public": {
+                "buildid": "17359674",
+                "timeupdated": "1739493288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
