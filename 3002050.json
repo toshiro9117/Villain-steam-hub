@@ -1,0 +1,42 @@
+{
+    "appid": "3002050",
+    "type": "Demo",
+    "name": "Steel Seed Demo",
+    "schinese_name": "钢铁之种 Demo",
+    "isfreeapp": "0",
+    "change_number": "26183469",
+    "update_time": "2024-11-14 07:24:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3002051": {
+            "manifests": {
+                "public": {
+                    "gid": "1865884636561140794",
+                    "size": "17095677918",
+                    "download": "15634651808"
+                }
+            },
+            "decryptionkey": "6be0257e69d24e487930c9ab6589c1028fdc62c8aff752e2aecfc1f158d3239e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15756970",
+                "timeupdated": "1726756141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
