@@ -1,0 +1,28 @@
+{
+    "appid": "2877540",
+    "type": "Game",
+    "name": "Heretical",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27271548",
+    "update_time": "2025-02-02 04:33:00",
+    "depot": {
+        "2877541": {
+            "manifests": {
+                "public": {
+                    "gid": "3093636496231992995",
+                    "size": "883147506",
+                    "download": "366576192"
+                }
+            },
+            "decryptionkey": "a9ce0bfd6d731be4c23bc3d53755bddc74be59237e5ba9b0365f02f9d4daaa57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17110855",
+                "timeupdated": "1737668196"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
