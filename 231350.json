@@ -1,0 +1,228 @@
+{
+    "appid": "231350",
+    "type": "Demo",
+    "name": "3DMark Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27517610",
+    "update_time": "2025-02-17 22:53:41",
+    "depot": {
+        "overridescddb": "1",
+        "hasdepotsindlc": "0",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "223851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4752792742715822323",
+                    "size": "458345607",
+                    "download": "215303856"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "3de227c648bb03f2e1c49c79d24114cec185486be4058e6f76eb4175b5c8ee1c"
+        },
+        "223857": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8010588214735581753",
+                    "size": "740754175",
+                    "download": "730199248"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "3b9c04fda6f4eec1130cfadfa5524ed579db2b1a2ea05e642b589fdbd22d154e"
+        },
+        "223858": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4288125963042803502",
+                    "size": "235988525",
+                    "download": "223305600"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "a149d2384c242a0f24db11102ba5192e6be5b24e4e9f5478d6f81715e1be2600"
+        },
+        "223859": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6646684782746287281",
+                    "size": "565691357",
+                    "download": "550364384"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "7ba109e7f86954b3752a77be9bcf62ac11fca73888fd16451324d316a8a648c7"
+        },
+        "223860": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6561610102331963776",
+                    "size": "1934670306",
+                    "download": "1871774432"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "34c1fa8d4ac0296046d8b013606ccd07dabafc06f5fd315998163a027ad36570"
+        },
+        "496106": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5328519819212543753",
+                    "size": "741350148",
+                    "download": "712991488"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "6ea0283e4e59b867500f3a10bffbf76ddc462694f60eec5c36a701679f60afbf"
+        },
+        "231351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7416636026263056943",
+                    "size": "3408684",
+                    "download": "2893552"
+                }
+            },
+            "decryptionkey": "ea967aec25f5d98458c97f13d4eb7a66593415e13426917b37c2c3401ed73d0b"
+        },
+        "231352": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "655097302299685837",
+                    "size": "458345607",
+                    "download": "215304896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "223856": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4732013580466450219",
+                    "size": "1414165147",
+                    "download": "1366929872"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "c597efcdf5cf687d07b63f3521b6c1bdba41bcf0a2d3e3656d74a80425b08e06"
+        },
+        "231353": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "223854": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8599550070442906953",
+                    "size": "11560522",
+                    "download": "8326736"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": ""
+        },
+        "223855": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2717523885921763234",
+                    "size": "1387243554",
+                    "download": "1359411184"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": "6dcde23dd4a79de2f94c31253c4e03d58ab1321af3740f962efdb97151f704c7"
+        },
+        "223861": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3155156095723230672",
+                    "size": "137591504",
+                    "download": "122927776"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": ""
+        },
+        "223862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5317938110331284580",
+                    "size": "269032545",
+                    "download": "241196464"
+                }
+            },
+            "depotfromapp": "223850",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17453536",
+                "timeupdated": "1740134882"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
