@@ -1,0 +1,606 @@
+{
+    "appid": "953580",
+    "type": "Game",
+    "name": "Tourist Bus Simulator",
+    "schinese_name": "旅游巴士模拟",
+    "isfreeapp": "0",
+    "change_number": "27535292",
+    "update_time": "2025-02-18 21:46:20",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,swedish,hungarian,turkish,brazilian",
+        "workshopdepot": "953580",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "953581": {
+            "manifests": {
+                "public": {
+                    "gid": "5108421609812091779",
+                    "size": "29889261912",
+                    "download": "24962284816"
+                },
+                "local_test": {
+                    "gid": "2881474053639527164",
+                    "size": "23654722461",
+                    "download": "19279719504"
+                },
+                "previous_1_3": {
+                    "gid": "9044737762770234673",
+                    "size": "12520970332",
+                    "download": "10656355664"
+                },
+                "beta": {
+                    "gid": "5108421609812091779",
+                    "size": "29889261912",
+                    "download": "24962284816"
+                },
+                "local": {
+                    "gid": "7570219580607371812",
+                    "size": "27441499445",
+                    "download": "22806382576"
+                },
+                "previousversion": {
+                    "gid": "8317958934215622199",
+                    "size": "13834748278",
+                    "download": "11610854992"
+                }
+            },
+            "decryptionkey": "22d29d0e7574aa3646b5486a9374eac19b3cde7b673ac0645760578c6ea471ec"
+        },
+        "953582": {
+            "dlcappid": "953680",
+            "manifests": {
+                "public": {
+                    "gid": "5953636843449255074",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "5953636843449255074",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_1_3": {
+                    "gid": "872572472043730585",
+                    "size": "160354930",
+                    "download": "145868704"
+                },
+                "beta": {
+                    "gid": "5953636843449255074",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5953636843449255074",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "3710056115998164194",
+                    "size": "160199369",
+                    "download": "146134160"
+                }
+            },
+            "decryptionkey": "d51ae6401494816328acb668f144ee7ebb108ef324b33a9ea1266babe610865a"
+        },
+        "953583": {
+            "dlcappid": "953681",
+            "manifests": {
+                "public": {
+                    "gid": "8751512754004194706",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "8751512754004194706",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_1_3": {
+                    "gid": "6173171884103880907",
+                    "size": "122622077",
+                    "download": "104571648"
+                },
+                "beta": {
+                    "gid": "8751512754004194706",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "8751512754004194706",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "6498138586257063306",
+                    "size": "136282942",
+                    "download": "117372336"
+                }
+            },
+            "decryptionkey": "bbfe3e721ddb6a6e6e34794d995bdbf0d86cea2022d101f9721450e59137cbc4"
+        },
+        "953584": {
+            "dlcappid": "953682",
+            "manifests": {
+                "public": {
+                    "gid": "1623184393214560511",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "1623184393214560511",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_1_3": {
+                    "gid": "4999515774385525938",
+                    "size": "61168812",
+                    "download": "48678832"
+                },
+                "beta": {
+                    "gid": "1623184393214560511",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1623184393214560511",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "7376431821019971823",
+                    "size": "61089610",
+                    "download": "48942976"
+                }
+            },
+            "decryptionkey": "5441fcfc5f0fa21bdbaaf23956452cf8f9baceaeef876bd0f8352270f5ea391e"
+        },
+        "953585": {
+            "dlcappid": "1026750",
+            "manifests": {
+                "public": {
+                    "gid": "2749496403380181063",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "2749496403380181063",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_1_3": {
+                    "gid": "4276426729656164631",
+                    "size": "35464448",
+                    "download": "30095072"
+                },
+                "beta": {
+                    "gid": "2749496403380181063",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "2749496403380181063",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "5906017591220389319",
+                    "size": "64018878",
+                    "download": "55263184"
+                }
+            },
+            "decryptionkey": "ac964cc5bb85e35d66e868542d9dbceddb8656d055810de8030f67d8dc929e49"
+        },
+        "953586": {
+            "dlcappid": "1121020",
+            "manifests": {
+                "public": {
+                    "gid": "1280292202339611603",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "1280292202339611603",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_1_3": {
+                    "gid": "1367495906824475418",
+                    "size": "97603876",
+                    "download": "83364080"
+                },
+                "beta": {
+                    "gid": "1280292202339611603",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "1280292202339611603",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "163055540376539690",
+                    "size": "96555323",
+                    "download": "83255712"
+                }
+            },
+            "decryptionkey": "474f49db6238b2fb41a1047ee3242b4862065bd9bc7a3dc3721f28762ba68419"
+        },
+        "953587": {
+            "dlcappid": "1158130",
+            "manifests": {
+                "public": {
+                    "gid": "5135838414753424535",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "5135838414753424535",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_1_3": {
+                    "gid": "2625059538457975558",
+                    "size": "73126153",
+                    "download": "63193136"
+                },
+                "beta": {
+                    "gid": "5135838414753424535",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "5135838414753424535",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "3889011799822671729",
+                    "size": "77322981",
+                    "download": "66604704"
+                }
+            },
+            "decryptionkey": "0fe3f425316697307070dbfdd7f6bce62c83cb4241625b0cc6c8434a2ee4942a"
+        },
+        "953588": {
+            "dlcappid": "1250740",
+            "manifests": {
+                "public": {
+                    "gid": "3397041753652541692",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "3397041753652541692",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "3397041753652541692",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3397041753652541692",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "8695589016610319456",
+                    "size": "43654938",
+                    "download": "37115872"
+                }
+            },
+            "decryptionkey": "d89e07093927b4eeed490b2fb18e8b2f568663ac1666e5abbe1bf04e1d33b8e3"
+        },
+        "953589": {
+            "dlcappid": "1294460",
+            "manifests": {
+                "public": {
+                    "gid": "855998593940098510",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "855998593940098510",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "855998593940098510",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "855998593940098510",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "8860053563969836011",
+                    "size": "171284689",
+                    "download": "149306256"
+                }
+            },
+            "decryptionkey": "ba8541b3460e23f4c134ef2a72eb209ceea56e785d519b0c91012bb1d6fd94f1"
+        },
+        "953683": {
+            "dlcappid": "1370020",
+            "manifests": {
+                "public": {
+                    "gid": "4834694809291704322",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "4834694809291704322",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4834694809291704322",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "4834694809291704322",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previousversion": {
+                    "gid": "3756308945464075330",
+                    "size": "198741065",
+                    "download": "181162784"
+                }
+            },
+            "decryptionkey": "4c30620741af56d18d2995c3e0b0e93d0606d929d1576790c9019ab72e317903"
+        },
+        "953684": {
+            "dlcappid": "1840750",
+            "manifests": {
+                "public": {
+                    "gid": "815857994361691752",
+                    "size": "30572833",
+                    "download": "23142816"
+                },
+                "local_test": {
+                    "gid": "43170339086689063",
+                    "size": "29522864",
+                    "download": "22913376"
+                },
+                "beta": {
+                    "gid": "815857994361691752",
+                    "size": "30572833",
+                    "download": "23142816"
+                },
+                "local": {
+                    "gid": "1564329368088164981",
+                    "size": "30572833",
+                    "download": "23142832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "953685": {
+            "dlcappid": "1847580",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4979430217737186214",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local_test": {
+                    "gid": "41063442688903522",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4979430217737186214",
+                    "size": "0",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "9213767621758843290",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9be35a5113c757bb7d512210eea0185031510226bf4b4e4e175384127ef53c9a"
+        },
+        "953686": {
+            "dlcappid": "2295460",
+            "manifests": {
+                "public": {
+                    "gid": "3723227509686963909",
+                    "size": "180808758",
+                    "download": "153372928"
+                },
+                "local_test": {
+                    "gid": "4258555445259962612",
+                    "size": "197667942",
+                    "download": "164492272"
+                },
+                "beta": {
+                    "gid": "3723227509686963909",
+                    "size": "180808758",
+                    "download": "153372928"
+                },
+                "local": {
+                    "gid": "7397526232108427624",
+                    "size": "180808758",
+                    "download": "153372384"
+                }
+            },
+            "decryptionkey": "ada5ac12a67ebd1ad59fb2d2268ab7020c53aebf5107c91829620c5f9f329a2a"
+        },
+        "953687": {
+            "dlcappid": "2295461",
+            "manifests": {
+                "public": {
+                    "gid": "8838788046019814056",
+                    "size": "175547382",
+                    "download": "149497408"
+                },
+                "local_test": {
+                    "gid": "622974689460629764",
+                    "size": "191357926",
+                    "download": "159669472"
+                },
+                "beta": {
+                    "gid": "8838788046019814056",
+                    "size": "175547382",
+                    "download": "149497408"
+                },
+                "local": {
+                    "gid": "7024731631818328366",
+                    "size": "175547382",
+                    "download": "149496832"
+                }
+            },
+            "decryptionkey": "235ff4e195531d1614867902d5825e994f13fa9b67e82626e67686b4d20c330c"
+        },
+        "953688": {
+            "dlcappid": "2295462",
+            "manifests": {
+                "public": {
+                    "gid": "456269965377158774",
+                    "size": "175547274",
+                    "download": "149000240"
+                },
+                "local_test": {
+                    "gid": "669911385343933441",
+                    "size": "191357758",
+                    "download": "158704928"
+                },
+                "beta": {
+                    "gid": "456269965377158774",
+                    "size": "175547274",
+                    "download": "149000240"
+                },
+                "local": {
+                    "gid": "2517425114500898860",
+                    "size": "175547274",
+                    "download": "148999728"
+                }
+            },
+            "decryptionkey": "196247529527339b4a0f5d6675369fb72408e1f26bc8049ed6809ffb25b12c2a"
+        },
+        "953689": {
+            "dlcappid": "2295463",
+            "manifests": {
+                "public": {
+                    "gid": "3310160562724757569",
+                    "size": "97221590",
+                    "download": "83251344"
+                },
+                "local_test": {
+                    "gid": "3194539492497272765",
+                    "size": "103513502",
+                    "download": "88044368"
+                },
+                "beta": {
+                    "gid": "3310160562724757569",
+                    "size": "97221590",
+                    "download": "83251344"
+                },
+                "local": {
+                    "gid": "5942517750005346728",
+                    "size": "97221590",
+                    "download": "83252080"
+                }
+            },
+            "decryptionkey": "f6f37acf6fbfc664b95dfd4578712b10a2f3ca00403e566b80021710549b6b34"
+        },
+        "1026751": {
+            "manifests": {
+                "public": {
+                    "gid": "2053343277114261031",
+                    "size": "102433525",
+                    "download": "89532672"
+                },
+                "local_test": {
+                    "gid": "2601764957032539749",
+                    "size": "113871331",
+                    "download": "96697344"
+                },
+                "beta": {
+                    "gid": "2053343277114261031",
+                    "size": "102433525",
+                    "download": "89532672"
+                },
+                "local": {
+                    "gid": "58923568336374521",
+                    "size": "102433525",
+                    "download": "89534288"
+                }
+            },
+            "decryptionkey": "dbcd300d2528c1fdff04b43a1911f3860c9d1d61c0d12d367db3f1ff58923245"
+        },
+        "1026752": {
+            "manifests": {
+                "public": {
+                    "gid": "7792651784455836814",
+                    "size": "105476669",
+                    "download": "87818848"
+                },
+                "local_test": {
+                    "gid": "1517027615856830013",
+                    "size": "102281027",
+                    "download": "85646112"
+                },
+                "beta": {
+                    "gid": "7792651784455836814",
+                    "size": "105476669",
+                    "download": "87818848"
+                },
+                "local": {
+                    "gid": "5754543482579575632",
+                    "size": "105476941",
+                    "download": "87815040"
+                }
+            },
+            "decryptionkey": "169c6ec413903a9efe4b281b6c17e80ce076d8f1b6e19053351649aa8560380e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16766820",
+                "timeupdated": "1734439265"
+            },
+            "local_test": {
+                "buildid": "12823099",
+                "description": "-",
+                "lcsrequired": "1",
+                "timeupdated": "1701697246"
+            },
+            "previous_1_3": {
+                "buildid": "4474069",
+                "timeupdated": "1575903152"
+            },
+            "beta": {
+                "buildid": "16766820",
+                "timeupdated": "1734439124"
+            },
+            "local": {
+                "buildid": "17470692",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1740274618"
+            },
+            "previousversion": {
+                "buildid": "7519665",
+                "timeupdated": "1734439161"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "19189140d338e81ff265023fcb5c6034b498e3ed7fde9b8ec7981bac17f62861"
+    }
+}
