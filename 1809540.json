@@ -1,0 +1,59 @@
+{
+    "appid": "1809540",
+    "type": "Game",
+    "name": "Nine Sols",
+    "schinese_name": "九日",
+    "isfreeapp": "0",
+    "change_number": "27534042",
+    "update_time": "2025-02-18 20:32:20",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "1809541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3517913580673185839",
+                    "size": "6574544275",
+                    "download": "3950815504"
+                }
+            },
+            "decryptionkey": "6c41504f601faddc7ec40aff4688b9ee9e34c37f2ab46b882880cbcc76a8eb40"
+        },
+        "1809542": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8521552231039670227",
+                    "size": "6601761383",
+                    "download": "3956897232"
+                },
+                "local": {
+                    "gid": "1410053766624351650",
+                    "size": "905937261",
+                    "download": "287893344"
+                }
+            },
+            "decryptionkey": "39cff11ed94d5fb43612916d75ca9d971b35caeca4fa3bda91610e1118927ec3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17403777",
+                "timeupdated": "1739944161"
+            },
+            "local": {
+                "buildid": "8221279",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1645093784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
