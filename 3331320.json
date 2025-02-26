@@ -1,0 +1,58 @@
+{
+    "appid": "3331320",
+    "type": "Game",
+    "name": "Back in Service: a Metro Driver",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27410624",
+    "update_time": "2025-02-11 07:39:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "3331321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "71562590499907185",
+                    "size": "3419548770",
+                    "download": "3250047056"
+                }
+            },
+            "decryptionkey": "c5b4f37efe1db24fa5a3c645176980193cd8a9895fee4e7fe6a733f96cea3110"
+        },
+        "3331322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3559368666853514848",
+                    "size": "4037984819",
+                    "download": "3262732960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17147433",
+                "timeupdated": "1737999617"
+            }
+        }
+    }
+}
