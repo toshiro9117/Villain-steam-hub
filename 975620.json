@@ -1,0 +1,53 @@
+{
+    "appid": "975620",
+    "type": "Game",
+    "name": "Project DeepWeb",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25047682",
+    "update_time": "2024-09-03 03:49:43",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "975621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "763619516394905396",
+                    "size": "2704577403",
+                    "download": "2100965632"
+                }
+            },
+            "decryptionkey": "b1eb3b74567b0e96516fe1ae6b39379aef6a161eaeba9796578909f0e383a2e9"
+        },
+        "975622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1312072090053018481",
+                    "size": "2123202833",
+                    "download": "1571468816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "10181594",
+                "timeupdated": "1671703305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
