@@ -1,0 +1,27 @@
+{
+    "appid": "2903160",
+    "type": "Game",
+    "name": "Midori no Kaori",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27446368",
+    "update_time": "2025-02-13 04:10:15",
+    "depot": {
+        "2903161": {
+            "manifests": {
+                "public": {
+                    "gid": "5310322780854443955",
+                    "size": "1195454904",
+                    "download": "752537328"
+                }
+            },
+            "decryptionkey": "6c3d015357b1037838a051aa9686cd45df27b8d754feda56fe9f6775b3fb3d4c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17438458",
+                "timeupdated": "1740052287"
+            }
+        }
+    }
+}
