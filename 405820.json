@@ -1,0 +1,133 @@
+{
+    "appid": "405820",
+    "type": "Game",
+    "name": "Turok",
+    "schinese_name": "恐龙猎人",
+    "isfreeapp": "0",
+    "change_number": "27532979",
+    "update_time": "2025-02-18 19:21:12",
+    "depot": {
+        "workshopdepot": "405820",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "405821": {
+            "manifests": {
+                "public": {
+                    "gid": "4080823477449817263",
+                    "size": "255351719",
+                    "download": "252630000"
+                },
+                "beta": {
+                    "gid": "4080823477449817263",
+                    "size": "255351719",
+                    "download": "252630000"
+                }
+            },
+            "decryptionkey": "de91936b56f62ac1d0024bb432568e28865b657cfe6eacd1626430f516b01cbb"
+        },
+        "405822": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1206134855762662216",
+                    "size": "47088783",
+                    "download": "17769536"
+                },
+                "beta": {
+                    "gid": "1206134855762662216",
+                    "size": "47088783",
+                    "download": "17769536"
+                }
+            },
+            "decryptionkey": "eb7606a23f80255909a0b05a3c8f71932b097c7bfe3c05b77b2ec32bd6476498"
+        },
+        "405823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4651988819491725174",
+                    "size": "11575324",
+                    "download": "5061776"
+                },
+                "beta": {
+                    "gid": "4651988819491725174",
+                    "size": "11575324",
+                    "download": "5061776"
+                }
+            },
+            "decryptionkey": "d980041d22de4be97b20d31396109720c6f3f445f3bdd457629c09847e2aee6b"
+        },
+        "405824": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3856305976979122741",
+                    "size": "7143796",
+                    "download": "2714832"
+                },
+                "beta": {
+                    "gid": "3856305976979122741",
+                    "size": "7143796",
+                    "download": "2714832"
+                }
+            },
+            "decryptionkey": "7ed4c95f5573c4bc17f820067c037f9f3a788ee86368a64731b6d4a3f1e37132"
+        },
+        "405825": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8011537891701083483",
+                    "size": "43420889",
+                    "download": "38884352"
+                },
+                "beta": {
+                    "gid": "8011537891701083483",
+                    "size": "43420889",
+                    "download": "38884352"
+                }
+            },
+            "decryptionkey": "c27514a9e5e8a74a6fbba78c1f5b1d79808fcfc74b617e9045317a973ae4b98b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2984637",
+                "timeupdated": "1532737412"
+            },
+            "beta": {
+                "buildid": "2984637",
+                "timeupdated": "1542849654"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "27a7b691713eabc4e9360da30f5ebbe972f98ab65b2c073ad99499059973752c"
+    }
+}
