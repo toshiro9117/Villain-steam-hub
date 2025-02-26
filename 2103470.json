@@ -1,0 +1,28 @@
+{
+    "appid": "2103470",
+    "type": "Game",
+    "name": "Republic of Pirates",
+    "schinese_name": "海盗共和国",
+    "isfreeapp": "0",
+    "change_number": "27481836",
+    "update_time": "2025-02-14 23:14:49",
+    "depot": {
+        "2103471": {
+            "manifests": {
+                "public": {
+                    "gid": "3616008916516186785",
+                    "size": "7341165908",
+                    "download": "2542245792"
+                }
+            },
+            "decryptionkey": "83064d42e8372ad1c0d40277404906958b53d3c654b238d08e20c367feed5c09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16814785",
+                "timeupdated": "1734702640"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
