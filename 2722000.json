@@ -1,0 +1,65 @@
+{
+    "appid": "2722000",
+    "type": "Game",
+    "name": "我说什么她们都答应（OKeverything）",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27396364",
+    "update_time": "2025-02-10 16:27:12",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2722001": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1801794068686554210",
+                    "size": "349041893",
+                    "download": "294295872"
+                }
+            },
+            "decryptionkey": "f47e2e35ee18b987ae77f57495b50bcb39b8d037f75068dea324f2c06aef46fb"
+        },
+        "3084170": {
+            "dlcappid": "3084170",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "optionaldlc": "3084170"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7505550731720819802",
+                    "size": "352960491",
+                    "download": "298429872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3177040": {
+            "dlcappid": "3177040",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3491399738572995040",
+                    "size": "251499950",
+                    "download": "208691344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15422143",
+                "timeupdated": "1724083651"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
