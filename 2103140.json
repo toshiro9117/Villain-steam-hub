@@ -1,0 +1,28 @@
+{
+    "appid": "2103140",
+    "type": "Game",
+    "name": "Magicraft",
+    "schinese_name": "魔法工艺 Magicraft",
+    "isfreeapp": "0",
+    "change_number": "27532755",
+    "update_time": "2025-02-18 19:07:48",
+    "depot": {
+        "2103141": {
+            "manifests": {
+                "public": {
+                    "gid": "142245188621826107",
+                    "size": "2403650508",
+                    "download": "395959440"
+                }
+            },
+            "decryptionkey": "f0ba119c48fc700dae769f7087e735d40dc7f3a1f379c01ff163a8386ae1b3ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17363966",
+                "timeupdated": "1739876863"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
