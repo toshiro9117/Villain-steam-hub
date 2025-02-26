@@ -1,0 +1,43 @@
+{
+    "appid": "496240",
+    "type": "Game",
+    "name": "Onward",
+    "schinese_name": "进军",
+    "isfreeapp": "0",
+    "change_number": "27540037",
+    "update_time": "2025-02-19 02:27:13",
+    "depot": {
+        "496241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5888557444486506719",
+                    "size": "33036051943",
+                    "download": "27254916384"
+                },
+                "esports_branch": {
+                    "gid": "8945265835954305882",
+                    "size": "33031871539",
+                    "download": "27252862256"
+                }
+            },
+            "decryptionkey": "71a14b0a9721275ee6aed871405aadf80e75224bc4bd8a6100aa5de6de3e9912"
+        },
+        "workshopdepot": "496240",
+        "branches": {
+            "public": {
+                "buildid": "16063706",
+                "timeupdated": "1729620498"
+            },
+            "esports_branch": {
+                "buildid": "13523478",
+                "description": "Branch for esports backup",
+                "timeupdated": "1715730202"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "141da7704aa356f5073cea80d8e45e7828edddfb08b60f7cd3531b3d483d26c7"
+    }
+}
