@@ -1,0 +1,106 @@
+{
+    "appid": "871540",
+    "type": "Game",
+    "name": "BMX Streets",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27538879",
+    "update_time": "2025-02-19 01:17:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,swedish,hungarian,czech,turkish,brazilian,ukrainian",
+        "871541": {
+            "manifests": {
+                "public": {
+                    "gid": "7316156699524306459",
+                    "size": "18474014914",
+                    "download": "4889440816"
+                },
+                "beta": {
+                    "gid": "7316156699524306459",
+                    "size": "18474014914",
+                    "download": "4889440816"
+                },
+                "2.0prealpha": {
+                    "gid": "6516618921860572959",
+                    "size": "1677245387",
+                    "download": "274494128"
+                },
+                "developer": {
+                    "gid": "2505700546001734324",
+                    "size": "6816728855",
+                    "download": "3476864896"
+                },
+                "dont": {
+                    "gid": "8181962554074583027",
+                    "size": "1782858987",
+                    "download": "260443776"
+                },
+                "experimental": {
+                    "gid": "2644275486910898954",
+                    "size": "5558604219",
+                    "download": "2457617152"
+                }
+            },
+            "decryptionkey": "0158c064648ac4e2ebeaaac25704874b8ad9e392f695b2675ada1266720ee67e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14026049",
+                "timeupdated": "1712859691"
+            },
+            "beta": {
+                "buildid": "14026049",
+                "description": "fixes for build",
+                "timeupdated": "1712859659"
+            },
+            "2.0prealpha": {
+                "buildid": "17417752",
+                "description": "Streets 2.0 Pre-Alpha",
+                "timeupdated": "1739943372"
+            },
+            "developer": {
+                "buildid": "15175986",
+                "description": "for devs",
+                "timeupdated": "1722144088"
+            },
+            "dont": {
+                "buildid": "17477833",
+                "description": "Pre-Pre-Alpha",
+                "timeupdated": "1740361669"
+            },
+            "experimental": {
+                "buildid": "14632959",
+                "description": "experiments",
+                "timeupdated": "1717721314"
+            }
+        }
+    }
+}
