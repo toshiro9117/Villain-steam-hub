@@ -1,0 +1,42 @@
+{
+    "appid": "2360770",
+    "type": "Game",
+    "name": "Coreupt",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27470639",
+    "update_time": "2025-02-14 09:23:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2360771": {
+            "manifests": {
+                "public": {
+                    "gid": "1697399922288481357",
+                    "size": "7129512702",
+                    "download": "6820207088"
+                }
+            },
+            "decryptionkey": "3c2e52371015fc5ccdc3a965a24e810ff463885b14fc1a532cb0f21f29d5a77d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17129019",
+                "timeupdated": "1737831005"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
