@@ -1,0 +1,102 @@
+{
+    "appid": "1802710",
+    "type": "Beta",
+    "name": "Momentum Mod Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27349785",
+    "update_time": "2025-02-07 01:37:22",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1802711": {
+            "manifests": {
+                "public": {
+                    "gid": "6191793780476827057",
+                    "size": "4214362302",
+                    "download": "2021048736"
+                },
+                "0.10.0-pre": {
+                    "gid": "8133800512976483386",
+                    "size": "4228111106",
+                    "download": "2025360832"
+                },
+                "upcoming": {
+                    "gid": "8332217358963038859",
+                    "size": "4221656757",
+                    "download": "2024286736"
+                }
+            },
+            "decryptionkey": "efefa2a23c0112e13a7cd3198cd6120833afacadc276fda80874af59c1af0504"
+        },
+        "1802712": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5673798725324903291",
+                    "size": "374101283",
+                    "download": "110663840"
+                },
+                "0.10.0-pre": {
+                    "gid": "5600541576415579253",
+                    "size": "374220067",
+                    "download": "110600656"
+                },
+                "upcoming": {
+                    "gid": "2579399155721404307",
+                    "size": "367241507",
+                    "download": "108356640"
+                }
+            },
+            "decryptionkey": "08d634f951ebc26371df13ec1e57280541c63f9818fefe7e4f82784d57a2d830"
+        },
+        "1802713": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4154073843492571727",
+                    "size": "855298180",
+                    "download": "220675088"
+                },
+                "0.10.0-pre": {
+                    "gid": "2012444267739029994",
+                    "size": "853855988",
+                    "download": "220162464"
+                },
+                "upcoming": {
+                    "gid": "2669288593390677698",
+                    "size": "812494692",
+                    "download": "208029264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16878426",
+                "timeupdated": "1735606624"
+            },
+            "0.10.0-pre": {
+                "buildid": "17212079",
+                "description": "Prerelease 0.10.0 things",
+                "timeupdated": "1738444345"
+            },
+            "upcoming": {
+                "buildid": "16119672",
+                "description": "Upcoming Momentum updates, may be unstable!",
+                "timeupdated": "1729500962"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
