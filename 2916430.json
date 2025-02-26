@@ -1,0 +1,43 @@
+{
+    "appid": "2916430",
+    "type": "Game",
+    "name": "Fast Food Simulator",
+    "schinese_name": "快餐模拟器",
+    "isfreeapp": "0",
+    "change_number": "27536646",
+    "update_time": "2025-02-18 23:08:12",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2916431": {
+            "manifests": {
+                "public": {
+                    "gid": "3793722009615640924",
+                    "size": "4926018482",
+                    "download": "4728470416"
+                }
+            },
+            "decryptionkey": "564c9e0805c5dec31aa2dd90a84b9b054479da085b32843dec67a4ef39a45eee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17455818",
+                "timeupdated": "1740149125"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
