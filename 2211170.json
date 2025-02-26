@@ -1,0 +1,126 @@
+{
+    "appid": "2211170",
+    "type": "Game",
+    "name": "Unrailed 2: Back on Track",
+    "schinese_name": "一起开火车2：汽笛重鸣",
+    "isfreeapp": "0",
+    "change_number": "27543770",
+    "update_time": "2025-02-19 07:01:12",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2211171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2470602298278411405",
+                    "size": "559882945",
+                    "download": "410902672"
+                },
+                "community-cup-japan": {
+                    "gid": "9157307307623154147",
+                    "size": "460853587",
+                    "download": "314083616"
+                },
+                "experimental": {
+                    "gid": "6371456091750516458",
+                    "size": "559595840",
+                    "download": "411626096"
+                },
+                "last-default": {
+                    "gid": "7100771164020763605",
+                    "size": "579538465",
+                    "download": "381116672"
+                }
+            },
+            "decryptionkey": "924f04bf42410b224830a5cbe6e5fe8ed52b2cac3a5fc909505918bbbc2670c7"
+        },
+        "2211172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1698829874912870611",
+                    "size": "566763423",
+                    "download": "366093296"
+                },
+                "community-cup-japan": {
+                    "gid": "298633845571471003",
+                    "size": "466321964",
+                    "download": "270367168"
+                },
+                "experimental": {
+                    "gid": "2516121555510335553",
+                    "size": "564766591",
+                    "download": "365606368"
+                },
+                "last-default": {
+                    "gid": "5184908605937259281",
+                    "size": "515689750",
+                    "download": "315534896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3393870": {
+            "dlcappid": "3393870",
+            "manifests": {
+                "public": {
+                    "gid": "6791668633663136818",
+                    "size": "340245525",
+                    "download": "341584416"
+                },
+                "experimental": {
+                    "gid": "6791668633663136818",
+                    "size": "340245525",
+                    "download": "341584416"
+                },
+                "last-default": {
+                    "gid": "6791668633663136818",
+                    "size": "340245525",
+                    "download": "341584416"
+                }
+            },
+            "decryptionkey": "677987212f50458d0f106db2ca80b57787838ed4128669ed85322d2923aa79b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17424199",
+                "timeupdated": "1739977663"
+            },
+            "community-cup-japan": {
+                "buildid": "16644570",
+                "description": "Version for the community cup vol 2",
+                "timeupdated": "1733409422"
+            },
+            "experimental": {
+                "buildid": "17444004",
+                "description": "Test new features early on!",
+                "timeupdated": "1740077411"
+            },
+            "last-default": {
+                "buildid": "17171471",
+                "description": "Last stable (legacy)",
+                "timeupdated": "1738680847"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
