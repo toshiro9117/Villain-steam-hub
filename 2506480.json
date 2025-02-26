@@ -1,0 +1,28 @@
+{
+    "appid": "2506480",
+    "type": "Game",
+    "name": "Clue/Cluedo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27536992",
+    "update_time": "2025-02-18 23:24:44",
+    "depot": {
+        "2506481": {
+            "manifests": {
+                "public": {
+                    "gid": "1243567342058557879",
+                    "size": "2201178427",
+                    "download": "1775125216"
+                }
+            },
+            "decryptionkey": "7121a4ab19d5ec332a0f39b06ce5a28df4aef2d556b8913b9b5dbf83305bee8e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16777967",
+                "timeupdated": "1734626061"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
