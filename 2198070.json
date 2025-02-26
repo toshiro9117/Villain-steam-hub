@@ -1,0 +1,77 @@
+{
+    "appid": "2198070",
+    "type": "Game",
+    "name": "Cardboard Town",
+    "schinese_name": "卡牌城镇 Cardboard Town",
+    "isfreeapp": "0",
+    "change_number": "27501174",
+    "update_time": "2025-02-16 16:16:01",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,turkish,brazilian,ukrainian",
+        "2198071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1645719931824198358",
+                    "size": "1065413291",
+                    "download": "338008912"
+                },
+                "beta": {
+                    "gid": "1645719931824198358",
+                    "size": "1065413291",
+                    "download": "338008912"
+                }
+            },
+            "decryptionkey": "eb6fe6ec54d15a65f67f38378a6628b012ee5113d66834b0aac3725755ffbf39"
+        },
+        "2198072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4155428817886336251",
+                    "size": "1089277748",
+                    "download": "345181008"
+                },
+                "beta": {
+                    "gid": "4155428817886336251",
+                    "size": "1089277748",
+                    "download": "345181008"
+                }
+            },
+            "decryptionkey": "221fa3d5bd5cbb83e996719d27deb96d677e1d580adc32af5a56ff58cbdb2b22"
+        },
+        "2198073": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5296900157257830781",
+                    "size": "1063918221",
+                    "download": "336403776"
+                },
+                "beta": {
+                    "gid": "5296900157257830781",
+                    "size": "1063918221",
+                    "download": "336403776"
+                }
+            },
+            "decryptionkey": "37797624ae4199ec0f588900bb7bd923c9720fe74fa1a8d79468cc36804a87f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16873243",
+                "timeupdated": "1735544931"
+            },
+            "beta": {
+                "buildid": "16873243",
+                "description": "Staging branch of Cardboard Town, usually full of bugs",
+                "timeupdated": "1735544913"
+            }
+        }
+    }
+}
