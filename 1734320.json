@@ -1,0 +1,63 @@
+{
+    "appid": "1734320",
+    "type": "Game",
+    "name": "Brutal Orchestra",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27542434",
+    "update_time": "2025-02-19 05:14:53",
+    "depot": {
+        "1734321": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2850918757968732018",
+                    "size": "888972005",
+                    "download": "190408368"
+                },
+                "legacy": {
+                    "gid": "630742951997817484",
+                    "size": "835037509",
+                    "download": "186747040"
+                }
+            },
+            "decryptionkey": "605e144f17f31e41c7d192c2f35f94bd1a52fb6754923aea7488eb8057a1f84e"
+        },
+        "1734322": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1849188710465267176",
+                    "size": "882556353",
+                    "download": "187151872"
+                },
+                "legacy": {
+                    "gid": "6950063963494995568",
+                    "size": "832232193",
+                    "download": "184463744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1734320",
+        "branches": {
+            "public": {
+                "buildid": "16772540",
+                "timeupdated": "1734441103"
+            },
+            "legacy": {
+                "buildid": "12299084",
+                "description": "legacy - v1.3.4 Older mods compatibility",
+                "timeupdated": "1725548484"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
