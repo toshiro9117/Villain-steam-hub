@@ -1,0 +1,59 @@
+{
+    "appid": "2505570",
+    "type": "Game",
+    "name": "Burger Shop 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540623",
+    "update_time": "2025-02-19 03:03:00",
+    "depot": {
+        "2505571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4890139142445207957",
+                    "size": "78104494",
+                    "download": "70960752"
+                },
+                "beta": {
+                    "gid": "4890139142445207957",
+                    "size": "78104494",
+                    "download": "70960752"
+                }
+            },
+            "decryptionkey": "37130c3d1cef8499046837217b86c1be5fc653ca4a8065c063b9e22f32bd15cc"
+        },
+        "2505572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5481177114206429623",
+                    "size": "82707386",
+                    "download": "71802912"
+                },
+                "beta": {
+                    "gid": "5481177114206429623",
+                    "size": "82707386",
+                    "download": "71802912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17426639",
+                "timeupdated": "1739989142"
+            },
+            "beta": {
+                "buildid": "17426639",
+                "description": "Early Early Access (for testing new Early Access builds)",
+                "timeupdated": "1739989110"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
