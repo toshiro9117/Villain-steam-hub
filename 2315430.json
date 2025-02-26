@@ -1,0 +1,54 @@
+{
+    "appid": "2315430",
+    "type": "Game",
+    "name": "The Executive - Movie Industry Tycoon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27540817",
+    "update_time": "2025-02-19 03:16:25",
+    "depot": {
+        "2315431": {
+            "manifests": {
+                "public": {
+                    "gid": "2794322665945721313",
+                    "size": "1217083759",
+                    "download": "285113840"
+                }
+            },
+            "decryptionkey": "3c10b450fd01b2a223c4efb4b565fafb56309518f23a7475025782f7137cee3c"
+        },
+        "2315432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6481563550982898677",
+                    "size": "1078699313",
+                    "download": "266171360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2315433": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6283473803585279177",
+                    "size": "1103773799",
+                    "download": "275392752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17458905",
+                "timeupdated": "1740161975"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
