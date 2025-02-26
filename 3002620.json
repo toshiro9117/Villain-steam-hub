@@ -1,0 +1,31 @@
+{
+    "appid": "3002620",
+    "type": "Game",
+    "name": "Football Referee Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27491340",
+    "update_time": "2025-02-15 13:14:42",
+    "depot": {
+        "3002621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1086442442704290110",
+                    "size": "367034043",
+                    "download": "97900624"
+                }
+            },
+            "decryptionkey": "7ebbf54c548bf412356905bbe77e7bea3d16190a7daa946b4d5ed8a0d263359e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16849579",
+                "timeupdated": "1735138114"
+            }
+        }
+    }
+}
