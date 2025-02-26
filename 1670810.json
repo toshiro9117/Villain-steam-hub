@@ -1,0 +1,55 @@
+{
+    "appid": "1670810",
+    "type": "Game",
+    "name": "Life Not Supported",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27418190",
+    "update_time": "2025-02-11 18:48:03",
+    "depot": {
+        "1670811": {
+            "manifests": {
+                "public": {
+                    "gid": "1723317083752360339",
+                    "size": "3150489323",
+                    "download": "967492384"
+                },
+                "beta": {
+                    "gid": "1723317083752360339",
+                    "size": "3150489323",
+                    "download": "967492384"
+                }
+            },
+            "decryptionkey": "9af7226fc4ed01e6b84a5ebdaeaf6d1030af8bb8d19e4e599ffa5442266647f1"
+        },
+        "1670812": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8179597411477342768",
+                    "size": "1632433027",
+                    "download": "1180237424"
+                },
+                "beta": {
+                    "gid": "8179597411477342768",
+                    "size": "1632433027",
+                    "download": "1180237424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15275551",
+                "timeupdated": "1722940918"
+            },
+            "beta": {
+                "buildid": "15275551",
+                "description": "Use to test the latest stuff!",
+                "timeupdated": "1722940878"
+            }
+        }
+    }
+}
