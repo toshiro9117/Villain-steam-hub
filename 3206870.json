@@ -1,0 +1,59 @@
+{
+    "appid": "3206870",
+    "type": "Game",
+    "name": "Claritas - Dungeon Crawler RPG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27464551",
+    "update_time": "2025-02-14 01:47:18",
+    "depot": {
+        "3206872": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "201758268572356182",
+                    "size": "503645203",
+                    "download": "302656176"
+                }
+            },
+            "decryptionkey": "c7b3d690ff7542621099a5aa0ab49089334e0ecac3f9be1c6c89546f3f2c3900"
+        },
+        "3206873": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5588872334805782431",
+                    "size": "503493262",
+                    "download": "297207264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3206874": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7486875391261533883",
+                    "size": "474762521",
+                    "download": "294246704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17474612",
+                "timeupdated": "1740329455"
+            }
+        }
+    }
+}
