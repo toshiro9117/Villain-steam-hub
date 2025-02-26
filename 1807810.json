@@ -1,0 +1,57 @@
+{
+    "appid": "1807810",
+    "type": "Game",
+    "name": "The Axis Unseen",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27482907",
+    "update_time": "2025-02-15 00:16:50",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1807811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5397414067701955153",
+                    "size": "26056870463",
+                    "download": "24775063248"
+                },
+                "local": {
+                    "gid": "4157520960381721445",
+                    "size": "414728",
+                    "download": "88880"
+                }
+            },
+            "decryptionkey": "4135eb4fbb0382638a520149b5584c6e2205085136f341d8984084fe431dd900"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17013693",
+                "timeupdated": "1736960528"
+            },
+            "local": {
+                "buildid": "12226831",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1695136345"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
