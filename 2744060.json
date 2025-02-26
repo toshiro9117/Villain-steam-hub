@@ -1,0 +1,47 @@
+{
+    "appid": "2744060",
+    "type": "DLC",
+    "name": "FINAL FANTASY XVI The Rising Tide",
+    "schinese_name": "FINAL FANTASY XVI The Rising Tide《沧海恸哭》",
+    "isfreeapp": "0",
+    "change_number": "27517954",
+    "update_time": "2025-02-17 23:15:29",
+    "depot": {
+        "2744060": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2744060",
+            "manifests": {
+                "public": {
+                    "gid": "409502577277493232",
+                    "size": "15896905463",
+                    "download": "15076706192"
+                }
+            },
+            "decryptionkey": "e57aab17d957ce339fc8bfa53c929fdaa17fa91f3355b40c9bd25e8ba1f1ff83"
+        },
+        "2744061": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5120128471687041902",
+                    "size": "413809760",
+                    "download": "410607168"
+                }
+            },
+            "dlcappid": "2744060",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16072437",
+                "timeupdated": "1729162341"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
