@@ -1,0 +1,59 @@
+{
+    "appid": "1665190",
+    "type": "Game",
+    "name": "Monster Prom 3: Monster Roadtrip",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27508163",
+    "update_time": "2025-02-17 09:12:10",
+    "depot": {
+        "1665191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5136443679374028419",
+                    "size": "1808862512",
+                    "download": "1289638928"
+                }
+            },
+            "decryptionkey": "54444609941985bf7d7f7c095d22cbb84fcaf9a90492a369d7ca6fbee58894df"
+        },
+        "1665192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4684130122244341356",
+                    "size": "1820584118",
+                    "download": "1294620384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1665193": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1666798682119576264",
+                    "size": "1798202849",
+                    "download": "1286821616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1665190",
+        "branches": {
+            "public": {
+                "buildid": "16300508",
+                "timeupdated": "1730812796"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
