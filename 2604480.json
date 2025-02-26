@@ -1,0 +1,52 @@
+{
+    "appid": "2604480",
+    "type": "Game",
+    "name": "City Transport Simulator: Tram",
+    "schinese_name": "城市交通模拟：电车",
+    "isfreeapp": "0",
+    "change_number": "27535878",
+    "update_time": "2025-02-18 22:20:17",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2604481": {
+            "manifests": {
+                "public": {
+                    "gid": "8397412980473557182",
+                    "size": "12429059105",
+                    "download": "10103194272"
+                }
+            },
+            "decryptionkey": "f90984d0922ee373e6a38ccc5dd98001fbf35a3abc8e101f8e6ebd27f9b53ee0"
+        },
+        "3028650": {
+            "dlcappid": "3028650"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17241751",
+                "timeupdated": "1739377695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
