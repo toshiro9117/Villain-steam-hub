@@ -1,0 +1,121 @@
+{
+    "appid": "1840800",
+    "type": "Game",
+    "name": "Headquarters: World War II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27536863",
+    "update_time": "2025-02-18 23:18:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1840801": {
+            "manifests": {
+                "public": {
+                    "gid": "8179429498996854105",
+                    "size": "26072921848",
+                    "download": "12077713712"
+                },
+                "beta": {
+                    "gid": "3286329030045212897",
+                    "size": "28099307228",
+                    "download": "13290791488"
+                },
+                "openbeta": {
+                    "gid": "3286329030045212897",
+                    "size": "28099307228",
+                    "download": "13290791488"
+                }
+            },
+            "decryptionkey": "ff2d8c45c35e81391fda349955290d9ec6bb2125325841f63df17a59d559fcd1"
+        },
+        "1840802": {
+            "manifests": {
+                "public": {
+                    "gid": "2631914834312517170",
+                    "size": "42580013",
+                    "download": "35469808"
+                },
+                "beta": {
+                    "gid": "8630226028093283388",
+                    "size": "42171518",
+                    "download": "35064656"
+                },
+                "openbeta": {
+                    "gid": "8630226028093283388",
+                    "size": "42171518",
+                    "download": "35064656"
+                }
+            },
+            "decryptionkey": "02d4624618c1b7a31579dc43a230a772f6573474738baadaec47e45debe14e0c"
+        },
+        "3047640": {
+            "dlcappid": "3047640",
+            "manifests": {
+                "public": {
+                    "gid": "3899602805837461101",
+                    "size": "2408268471",
+                    "download": "1194559952"
+                },
+                "beta": {
+                    "gid": "2594767687951438187",
+                    "size": "2793588330",
+                    "download": "1516918720"
+                },
+                "openbeta": {
+                    "gid": "2594767687951438187",
+                    "size": "2793588330",
+                    "download": "1516918720"
+                }
+            },
+            "decryptionkey": "ccef1868801a9d1b50abe1161a90efdac4950ad7f57b5b04aa4f1704da6a178e"
+        },
+        "3295310": {
+            "dlcappid": "3295310",
+            "manifests": {
+                "public": {
+                    "gid": "6626968672211802224",
+                    "size": "1300924652",
+                    "download": "702683856"
+                }
+            },
+            "decryptionkey": "27d046f37b398876ab45a3f5e257a42e0b33f68061aef514b37fdb669e4b3559"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17334889",
+                "timeupdated": "1739888375"
+            },
+            "beta": {
+                "buildid": "16644702",
+                "description": "Open Beta",
+                "timeupdated": "1733924705"
+            },
+            "openbeta": {
+                "buildid": "16644702",
+                "description": "v1.01.02",
+                "timeupdated": "1734516170"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
