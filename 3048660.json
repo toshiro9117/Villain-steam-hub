@@ -1,0 +1,37 @@
+{
+    "appid": "3048660",
+    "type": "Game",
+    "name": "公主：东方与远征（Princess: The East and the Expedition）",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27273109",
+    "update_time": "2025-02-02 08:33:19",
+    "depot": {
+        "3048661": {
+            "manifests": {
+                "public": {
+                    "gid": "7635046731766373177",
+                    "size": "1908628133",
+                    "download": "962562816"
+                },
+                "test": {
+                    "gid": "2055331763803444309",
+                    "size": "1792139817",
+                    "download": "863795872"
+                }
+            },
+            "decryptionkey": "1d714d70ad4f5946e357c2cfb84c31ff09cd0c2e63327185202dff2aa5757fab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16688119",
+                "timeupdated": "1733798788"
+            },
+            "test": {
+                "buildid": "16575216",
+                "description": "测试",
+                "timeupdated": "1732864999"
+            }
+        }
+    }
+}
