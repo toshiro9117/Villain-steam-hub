@@ -1,0 +1,32 @@
+{
+    "appid": "2099110",
+    "type": "Game",
+    "name": "The Classrooms",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27543555",
+    "update_time": "2025-02-19 06:43:07",
+    "depot": {
+        "2099111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6046132213752177835",
+                    "size": "12140694474",
+                    "download": "4308015008"
+                }
+            },
+            "decryptionkey": "f72beb8416791f32f5214aeca544d8e2b30321b3310de239f9ae824182d2a5a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17414168",
+                "timeupdated": "1739921299"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
