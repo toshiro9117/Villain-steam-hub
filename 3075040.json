@@ -1,0 +1,32 @@
+{
+    "appid": "3075040",
+    "type": "Game",
+    "name": "EggGarden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27138140",
+    "update_time": "2025-01-24 05:23:10",
+    "depot": {
+        "baselanguages": "",
+        "3075041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2792901692643563496",
+                    "size": "1239923247",
+                    "download": "222535264"
+                }
+            },
+            "decryptionkey": "d70545615dcb7034085e68d9d1610d4a9934eedd9eaae8f2e0511d624eafa78e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16191662",
+                "timeupdated": "1729951652"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
