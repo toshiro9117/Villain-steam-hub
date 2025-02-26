@@ -1,0 +1,45 @@
+{
+    "appid": "2797310",
+    "type": "Game",
+    "name": "Hypnotic Idol",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27296445",
+    "update_time": "2025-02-04 05:11:58",
+    "depot": {
+        "2797311": {
+            "manifests": {
+                "public": {
+                    "gid": "6085826939804352257",
+                    "size": "358259334",
+                    "download": "232217776"
+                }
+            },
+            "decryptionkey": "2fee0d3ceb47f07db76153736bebdd92eb1e44b9fe6d731c8f237d37a05ce7db"
+        },
+        "3463980": {
+            "dlcappid": "3463980",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "3463980"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2413205947323823770",
+                    "size": "2178719",
+                    "download": "2184512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17009927",
+                "timeupdated": "1737160479"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
