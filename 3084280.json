@@ -1,0 +1,28 @@
+{
+    "appid": "3084280",
+    "type": "Game",
+    "name": "Threefold Recital 三相奇谈",
+    "schinese_name": "三相奇谈",
+    "isfreeapp": "0",
+    "change_number": "27530048",
+    "update_time": "2025-02-18 16:17:31",
+    "depot": {
+        "3084281": {
+            "manifests": {
+                "public": {
+                    "gid": "3141837632798741349",
+                    "size": "4464028423",
+                    "download": "484981472"
+                }
+            },
+            "decryptionkey": "8992e70f6265e3afca1db65339f6132ed758d29b4517fd6e44039e6154082644"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17375177",
+                "timeupdated": "1739592461"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
