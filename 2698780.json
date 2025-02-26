@@ -1,0 +1,109 @@
+{
+    "appid": "2698780",
+    "type": "Game",
+    "name": "ContractVille",
+    "schinese_name": "合同村",
+    "isfreeapp": "0",
+    "change_number": "27535286",
+    "update_time": "2025-02-18 21:45:51",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2698781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8407168977619223766",
+                    "size": "16914931487",
+                    "download": "5156418512"
+                },
+                "old_public_0.2.2.3": {
+                    "gid": "1129424357115231018",
+                    "size": "16446163804",
+                    "download": "4461733744"
+                },
+                "old_public_0.0.7.9": {
+                    "gid": "9016253768810583078",
+                    "size": "19593552912",
+                    "download": "4686412672"
+                },
+                "old_public_0.0.6": {
+                    "gid": "8208735678380743692",
+                    "size": "19790950013",
+                    "download": "4742903360"
+                },
+                "old_public_0.0.5.4": {
+                    "gid": "3505327245410087987",
+                    "size": "19405340122",
+                    "download": "4666827456"
+                },
+                "old_public_contractville_0.0.1": {
+                    "gid": "95931696895419291",
+                    "size": "18957795906",
+                    "download": "4422926880"
+                }
+            },
+            "decryptionkey": "828d5f7224a4a0900737bb184f8ebcb2f7db10894724f2ca7d7d06c9904cf1cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17285134",
+                "timeupdated": "1738960790"
+            },
+            "old_public_0.2.2.3": {
+                "buildid": "15997405",
+                "description": "old_public_0.2.2.3",
+                "timeupdated": "1729896476"
+            },
+            "old_public_0.0.7.9": {
+                "buildid": "15214801",
+                "description": "old_public_0.0.7.9",
+                "timeupdated": "1723236916"
+            },
+            "old_public_0.0.6": {
+                "buildid": "14825133",
+                "description": "old_public_0.0.6",
+                "timeupdated": "1719465243"
+            },
+            "old_public_0.0.5.4": {
+                "buildid": "14731560",
+                "description": "old_public_0.0.5.4",
+                "timeupdated": "1718976766"
+            },
+            "old_public_contractville_0.0.1": {
+                "buildid": "14578095",
+                "description": "Old version 0.0.1",
+                "timeupdated": "1717458028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
