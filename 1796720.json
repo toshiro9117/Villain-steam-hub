@@ -1,0 +1,56 @@
+{
+    "appid": "1796720",
+    "type": "Game",
+    "name": "Industrial Annihilation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27487745",
+    "update_time": "2025-02-15 05:59:32",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1796721": {
+            "manifests": {
+                "public": {
+                    "gid": "6565914062462402675",
+                    "size": "4660579183",
+                    "download": "2304112688"
+                }
+            },
+            "decryptionkey": "051a5366d88b1b6518bb689eaa149e076eef9d750a602e22d5821bb9a0c405b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16967981",
+                "timeupdated": "1736540855"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
