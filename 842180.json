@@ -1,0 +1,34 @@
+{
+    "appid": "842180",
+    "type": "Game",
+    "name": "Prison Simulator",
+    "schinese_name": "监狱模拟器 | Prison Simulator",
+    "isfreeapp": "0",
+    "change_number": "27095743",
+    "update_time": "2025-01-21 23:26:09",
+    "depot": {
+        "baselanguages": "english",
+        "842181": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8855776631804349005",
+                    "size": "3990354005",
+                    "download": "3235828432"
+                }
+            },
+            "decryptionkey": "613f14926c14907812b3dafc61eace8ecad7bea31eb7d101181b78dbfdca03fb"
+        },
+        "workshopdepot": "842180",
+        "branches": {
+            "public": {
+                "buildid": "11737500",
+                "timeupdated": "1689775834"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e1e7079ff2ff97e5261e211c769b91f3a1cdb4f0423eeecc31512949d8ba36df"
+    }
+}
