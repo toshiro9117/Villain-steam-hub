@@ -1,0 +1,84 @@
+{
+    "appid": "1715280",
+    "type": "Game",
+    "name": "AirportSim",
+    "schinese_name": "机场：模拟地勤",
+    "isfreeapp": "0",
+    "change_number": "27498956",
+    "update_time": "2025-02-16 08:16:29",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1715280",
+        "1715281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1224754714420639660",
+                    "size": "9173411652",
+                    "download": "4161849696"
+                }
+            },
+            "decryptionkey": "bae7ffcb078e65e62cc598e17e77d8490179058f9e3cb23a6d4950ce392d1476"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "16121222",
+                "timeupdated": "1729519722"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3c702a85e6db06ab77dbbde4a3e548371fe67effd98c92a9bc415f64d36a54ae"
+    }
+}
