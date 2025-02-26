@@ -1,0 +1,71 @@
+{
+    "appid": "821250",
+    "type": "Game",
+    "name": "Flotsam",
+    "schinese_name": "漂流品",
+    "isfreeapp": "0",
+    "change_number": "27485995",
+    "update_time": "2025-02-15 03:36:06",
+    "depot": {
+        "821251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8059281645985601204",
+                    "size": "993319357",
+                    "download": "389566256"
+                },
+                "early_access_0.1": {
+                    "gid": "542916223925840511",
+                    "size": "661184608",
+                    "download": "278910800"
+                },
+                "early_access_0.2": {
+                    "gid": "7094769071842546163",
+                    "size": "739802948",
+                    "download": "306734336"
+                },
+                "early_access_0.3.7": {
+                    "gid": "4515998971573553151",
+                    "size": "839084819",
+                    "download": "334343568"
+                },
+                "experimental": {
+                    "gid": "2593400946289127816",
+                    "size": "1037564326",
+                    "download": "369742128"
+                }
+            },
+            "decryptionkey": "56d2732aafc44c77401e0dfc97a9374d19b16610b85b9446aadcbaccdfaf7c20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16339134",
+                "timeupdated": "1731063561"
+            },
+            "early_access_0.1": {
+                "buildid": "4315655",
+                "description": "Release version 0.1 of the Flotsam Early Access. Use this to play old saves.",
+                "timeupdated": "1574762419"
+            },
+            "early_access_0.2": {
+                "buildid": "4766256",
+                "description": "Release version 0.2 of the Flotsam Early Access. Use this to play old saves.",
+                "timeupdated": "1585131271"
+            },
+            "early_access_0.3.7": {
+                "buildid": "6175890",
+                "description": "Release version 0.3.7 of the Flotsam Early Access. Use this to play old saves.\t",
+                "timeupdated": "1622467644"
+            },
+            "experimental": {
+                "buildid": "17473542",
+                "description": "Experimental",
+                "timeupdated": "1740315436"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
