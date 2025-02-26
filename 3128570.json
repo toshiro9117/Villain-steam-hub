@@ -1,0 +1,47 @@
+{
+    "appid": "3128570",
+    "type": "Game",
+    "name": "法医探案团之碎嘴小诗",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27518976",
+    "update_time": "2025-02-18 00:17:18",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3128571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5709924100785469318",
+                    "size": "3177716822",
+                    "download": "3025900256"
+                }
+            },
+            "decryptionkey": "f9570382bc6e398c8c6a6871d3672a14212c5391c71d5438e6c3396364404cae"
+        },
+        "3128572": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3709817029117972591",
+                    "size": "3172663588",
+                    "download": "3021578128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17347351",
+                "timeupdated": "1739435829"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
