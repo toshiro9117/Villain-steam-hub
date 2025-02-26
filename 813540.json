@@ -1,0 +1,44 @@
+{
+    "appid": "813540",
+    "type": "Game",
+    "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25321796",
+    "update_time": "2024-09-21 01:51:47",
+    "depot": {
+        "813541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8620324287884969210",
+                    "size": "1479892817",
+                    "download": "342756208"
+                }
+            },
+            "decryptionkey": "5454c6bd101d0eb4a25fd41058579e33c48939ea0e2936d0ed38c0ca8679108f"
+        },
+        "813542": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8217949223965503428",
+                    "size": "1522420235",
+                    "download": "354929696"
+                }
+            },
+            "decryptionkey": "6dfbcd2a59ec3177a6adbfe069fae9f5562981e314135c3957e2e21bb5f7b7d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15773728",
+                "timeupdated": "1726854700"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
