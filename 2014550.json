@@ -1,0 +1,28 @@
+{
+    "appid": "2014550",
+    "type": "Game",
+    "name": "Voidwrought",
+    "schinese_name": "星穹遗迹",
+    "isfreeapp": "0",
+    "change_number": "27533083",
+    "update_time": "2025-02-18 19:27:11",
+    "depot": {
+        "2014551": {
+            "manifests": {
+                "public": {
+                    "gid": "3501167265933520820",
+                    "size": "1827343871",
+                    "download": "1299955472"
+                }
+            },
+            "decryptionkey": "6d2ed618640bb062b370e4f15dc33c4cfddb5536b55bc4bf6b3d633885110588"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17370421",
+                "timeupdated": "1739876541"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
