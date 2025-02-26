@@ -1,0 +1,77 @@
+{
+    "appid": "1769170",
+    "type": "Game",
+    "name": "Shattered Pixel Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27543134",
+    "update_time": "2025-02-19 06:09:57",
+    "depot": {
+        "1769171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6859728305127275044",
+                    "size": "121870288",
+                    "download": "104076688"
+                },
+                "beta": {
+                    "gid": "2354058634820824371",
+                    "size": "123001463",
+                    "download": "105184656"
+                }
+            },
+            "decryptionkey": "16fd8f03cbefeee50bcd0bee58adf8fa760e02ad522cd43ff176adc6809fe459"
+        },
+        "1769172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4623159189941074465",
+                    "size": "127140238",
+                    "download": "103150592"
+                },
+                "beta": {
+                    "gid": "1631893513177887810",
+                    "size": "128271207",
+                    "download": "103271600"
+                }
+            },
+            "decryptionkey": "437b34162453cb091719a785061a77e63a466a4aff5e80e6e5c239d950349bc5"
+        },
+        "1769173": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "495117244601353812",
+                    "size": "133920213",
+                    "download": "106863424"
+                },
+                "beta": {
+                    "gid": "4155436775667020014",
+                    "size": "135054869",
+                    "download": "107967328"
+                }
+            },
+            "decryptionkey": "d1735f3afa87ecbf4b228220e1738c6eaf9ee9840229767e0694ec13bf87614f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15983942",
+                "timeupdated": "1728506316"
+            },
+            "beta": {
+                "buildid": "17461414",
+                "description": "Get access to updates early, but in a rougher state.",
+                "timeupdated": "1740174849"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
