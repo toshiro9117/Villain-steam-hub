@@ -1,0 +1,300 @@
+{
+    "appid": "492720",
+    "type": "Game",
+    "name": "Tropico 6",
+    "schinese_name": "海岛大亨6",
+    "isfreeapp": "0",
+    "change_number": "27532673",
+    "update_time": "2025-02-18 19:02:48",
+    "depot": {
+        "baselanguages": "",
+        "workshopdepot": "492720",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "492721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3190550350149094476",
+                    "size": "20511158573",
+                    "download": "8045981280"
+                },
+                "publicmacosbeta": {
+                    "gid": "3767208933068438283",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dd1294f56dcac65ce85f51bb16a22e48be2ae8a6ad5d4ca90c6dab91f11d11e0"
+        },
+        "881962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1737996270104826012",
+                    "size": "28043906371",
+                    "download": "10337445280"
+                },
+                "publicmacosbeta": {
+                    "gid": "3156388516966463005",
+                    "size": "25655205067",
+                    "download": "16058547280"
+                }
+            },
+            "decryptionkey": "17f8cb3323a7e98acdaf4db2607701917ed439757bc8adb8e81f69272de34077"
+        },
+        "881963": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6352963870625577580",
+                    "size": "22777648532",
+                    "download": "8400430288"
+                },
+                "publicmacosbeta": {
+                    "gid": "866889989142190878",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fa30a245f1c36ba45e97fe5366ffcc2d17c2b22f510ddc1c788b4260099e5af6"
+        },
+        "492722": {
+            "sharedinstall": "",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7430798278374217126",
+                    "size": "4188308225",
+                    "download": "2692954704"
+                },
+                "publicmacosbeta": {
+                    "gid": "4047275886941528439",
+                    "size": "620790848",
+                    "download": "615236048"
+                }
+            },
+            "decryptionkey": "3f6d0842f19aa9a1e925efa65af938a7c0787a40772209f04f85b642390a7e7d"
+        },
+        "492723": {
+            "sharedinstall": "",
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2630947539349552240",
+                    "size": "4753103807",
+                    "download": "3041366176"
+                },
+                "publicmacosbeta": {
+                    "gid": "804177462327104083",
+                    "size": "1164357455",
+                    "download": "1158651280"
+                }
+            },
+            "decryptionkey": "a7acf29ed791bbbbeab7db9de495da7a7a8de56210c1ecbfc1a136fd5164bafc"
+        },
+        "492724": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4087728873381442126",
+                    "size": "4222163043",
+                    "download": "2726175104"
+                },
+                "publicmacosbeta": {
+                    "gid": "246959118624177829",
+                    "size": "1112062089",
+                    "download": "1106324304"
+                }
+            },
+            "decryptionkey": "ab2df80459c17b89abb8dc0b273fc0428a0032b6ebc2c5027c98588279068a37"
+        },
+        "492725": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8789553108564053318",
+                    "size": "4260778853",
+                    "download": "2746435680"
+                },
+                "publicmacosbeta": {
+                    "gid": "619816772186697571",
+                    "size": "1119192036",
+                    "download": "1112662064"
+                }
+            },
+            "decryptionkey": "8efc4cf21f7207cea9c32f259680080dac5f5f942aaec8868cfbee4e8de36029"
+        },
+        "492726": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5160942157761185577",
+                    "size": "4174378843",
+                    "download": "2689666960"
+                },
+                "publicmacosbeta": {
+                    "gid": "4632049064210979825",
+                    "size": "1098756086",
+                    "download": "1092549792"
+                }
+            },
+            "decryptionkey": "9020266ef836d81e3607a7ef8c032c5d154101593ca7819008fe12e390b2b738"
+        },
+        "492727": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8905852106355550538",
+                    "size": "4582265301",
+                    "download": "2946534928"
+                },
+                "publicmacosbeta": {
+                    "gid": "4265763402563986815",
+                    "size": "768253852",
+                    "download": "761987008"
+                }
+            },
+            "decryptionkey": "553570b3d73881c17534d6e148cf70cae386b3329d85e5b102865c6abe9b5780"
+        },
+        "492729": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1899416863110428455",
+                    "size": "4149647404",
+                    "download": "2663950576"
+                },
+                "publicmacosbeta": {
+                    "gid": "1250630044190440283",
+                    "size": "2384223062",
+                    "download": "2262597504"
+                }
+            },
+            "decryptionkey": "4188d6855228eedcaf3acee2a1177b56d9cadde1f6564d1fcc8b2d5e8fd07dd4"
+        },
+        "881961": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4780261621884431373",
+                    "size": "4188308225",
+                    "download": "2692954704"
+                },
+                "publicmacosbeta": {
+                    "gid": "1093541170286204965",
+                    "size": "620132164",
+                    "download": "615240992"
+                }
+            },
+            "decryptionkey": "4acb95226bd1bae883783022f7021263752f0ad2c41657310320ef2252167fb8"
+        },
+        "881964": {
+            "config": {
+                "language": "arabic"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2704887409257881496",
+                    "size": "5646684013",
+                    "download": "3473771152"
+                }
+            },
+            "decryptionkey": "cdcb5067d4bd9abc27cdf0c5bc5e389b5c04cd3d9b864539e4e5ef12c45b6e25"
+        },
+        "881965": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7974289292825418947",
+                    "size": "4188308225",
+                    "download": "2692954704"
+                }
+            },
+            "decryptionkey": "e8c37b294ead4c0599777edbd97dd724ceb7c1140fb8a6cf165a0ac83cd140a9"
+        },
+        "492728": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "385727268187516236",
+                    "size": "8494261999",
+                    "download": "5272304512"
+                },
+                "publicmacosbeta": {
+                    "gid": "9044822759261539731",
+                    "size": "724200333",
+                    "download": "719986976"
+                }
+            },
+            "decryptionkey": "b45380cb07f37f378d256c7db47227896c9fdac77516b840e8290a25d8b59a2f"
+        },
+        "881960": {
+            "dlcappid": "881960",
+            "manifests": {
+                "public": {
+                    "gid": "7166363854253545793",
+                    "size": "592968505",
+                    "download": "514288896"
+                },
+                "publicmacosbeta": {
+                    "gid": "1227314909265760908",
+                    "size": "510304902",
+                    "download": "431990880"
+                }
+            },
+            "decryptionkey": "9a205eb5d636da4082eef0bd4c83938e1eaf7f313cc8f19e3daaae78989b2b24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15938618",
+                "timeupdated": "1728561371"
+            },
+            "publicmacosbeta": {
+                "buildid": "3910662",
+                "description": "MacOS Public Beta",
+                "timeupdated": "1560348183"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3d5a3467d900e030ecfe1b205db124966a55bec80fe529a0610d96892ee59e50"
+    }
+}
