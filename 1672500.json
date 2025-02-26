@@ -1,0 +1,53 @@
+{
+    "appid": "1672500",
+    "type": "Game",
+    "name": "GUNDAM BREAKER 4",
+    "schinese_name": "高达破坏者4",
+    "isfreeapp": "0",
+    "change_number": "27525776",
+    "update_time": "2025-02-18 09:06:24",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1672501": {
+            "manifests": {
+                "public": {
+                    "gid": "6190249151076635767",
+                    "size": "11663136229",
+                    "download": "11533802416"
+                }
+            },
+            "decryptionkey": "9f2f74d11338105456bfb27b568e86d4db1b13ce938fcc6272f334a7d042be53"
+        },
+        "1672502": {
+            "manifests": {
+                "public": {
+                    "gid": "5798723466342164145",
+                    "size": "1195814912",
+                    "download": "178868800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,brazilian,latam,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "16958882",
+                "timeupdated": "1738198839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
