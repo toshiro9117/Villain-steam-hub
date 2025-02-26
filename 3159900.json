@@ -1,0 +1,29 @@
+{
+    "appid": "3159900",
+    "type": "Game",
+    "name": "108 Silly Ways to Die",
+    "schinese_name": "杠精的108种死法",
+    "isfreeapp": "0",
+    "change_number": "27528766",
+    "update_time": "2025-02-18 14:15:21",
+    "depot": {
+        "3159901": {
+            "manifests": {
+                "public": {
+                    "gid": "4468634334550349722",
+                    "size": "22879344285",
+                    "download": "21582784672"
+                }
+            },
+            "decryptionkey": "de7ec94f1484dcc239b0bd407445682237a6ac1da0497d4278cb0f3945341a2e"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17336852",
+                "timeupdated": "1739367959"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
