@@ -1,0 +1,84 @@
+{
+    "appid": "391730",
+    "type": "Game",
+    "name": "Crashlands",
+    "schinese_name": "崩溃大陆",
+    "isfreeapp": "0",
+    "change_number": "27139636",
+    "update_time": "2025-01-24 07:23:09",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "391731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5702919251111799161",
+                    "size": "113871613",
+                    "download": "78045920"
+                },
+                "beta": {
+                    "gid": "8260876748467584874",
+                    "size": "137633689",
+                    "download": "93115520"
+                }
+            },
+            "decryptionkey": "31db48045139ccd5e4b431c76c2d9831552e9b3877879501bac6b0ea8130551a"
+        },
+        "391732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5160663558593528303",
+                    "size": "99499946",
+                    "download": "76010288"
+                },
+                "beta": {
+                    "gid": "5160663558593528303",
+                    "size": "99499946",
+                    "download": "76010288"
+                }
+            },
+            "decryptionkey": "42943e1707294ffbb6e5e87b3e3627a37d39edb7b10039a4781119eab9716f96"
+        },
+        "391733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3651336909143255242",
+                    "size": "181385331",
+                    "download": "137898880"
+                },
+                "beta": {
+                    "gid": "3651336909143255242",
+                    "size": "181385331",
+                    "download": "137898880"
+                }
+            },
+            "decryptionkey": "e52eb7bae24fd420c5fdd24263e55cf1029e74cc18a9fef19b8d62288c5a91a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14550292",
+                "timeupdated": "1717093297"
+            },
+            "beta": {
+                "buildid": "13522026",
+                "description": "Beta - For testing changes",
+                "timeupdated": "1708535540"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
