@@ -1,0 +1,27 @@
+{
+    "appid": "2478810",
+    "type": "Game",
+    "name": "Strangers on Paper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27504014",
+    "update_time": "2025-02-17 00:14:34",
+    "depot": {
+        "2478811": {
+            "manifests": {
+                "public": {
+                    "gid": "821102425833859761",
+                    "size": "2194786340",
+                    "download": "2030305840"
+                }
+            },
+            "decryptionkey": "ce16974d55daa253c93de4373d9287795393af242b5f7c4296853c802e5c6fc1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17259826",
+                "timeupdated": "1738805111"
+            }
+        }
+    }
+}
