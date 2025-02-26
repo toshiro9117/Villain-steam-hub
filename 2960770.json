@@ -1,0 +1,58 @@
+{
+    "appid": "2960770",
+    "type": "Game",
+    "name": "The Anomaly Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27524041",
+    "update_time": "2025-02-18 06:24:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2960771": {
+            "manifests": {
+                "public": {
+                    "gid": "3842443025075092383",
+                    "size": "4859385022",
+                    "download": "4454690432"
+                },
+                "test": {
+                    "gid": "3842443025075092383",
+                    "size": "4859385022",
+                    "download": "4454690432"
+                }
+            },
+            "decryptionkey": "c754869c3fe7c99d217c5062703d4ebea5445911727691bb5fcc44129c45f4aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17399047",
+                "timeupdated": "1739831036"
+            },
+            "test": {
+                "buildid": "17399047",
+                "description": "Test server",
+                "timeupdated": "1739829284"
+            }
+        }
+    }
+}
