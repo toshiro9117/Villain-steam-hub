@@ -1,0 +1,57 @@
+{
+    "appid": "2795060",
+    "type": "Game",
+    "name": "DREAMIO: AI-Powered Adventures",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27356479",
+    "update_time": "2025-02-07 10:02:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2795061": {
+            "manifests": {
+                "public": {
+                    "gid": "8811871636520804769",
+                    "size": "3297856183",
+                    "download": "1959122048"
+                },
+                "beta": {
+                    "gid": "5700747460405817210",
+                    "size": "3297052270",
+                    "download": "1958302544"
+                },
+                "nightly": {
+                    "gid": "5700747460405817210",
+                    "size": "3297052270",
+                    "download": "1958302544"
+                }
+            },
+            "decryptionkey": "ef4305110b445059ce0979096ce45df0f73fae89d4fa49738ade891680fc7c9f"
+        },
+        "workshopdepot": "2795060",
+        "branches": {
+            "public": {
+                "buildid": "17262517",
+                "timeupdated": "1738829612"
+            },
+            "beta": {
+                "buildid": "17477244",
+                "description": "beta testing branch",
+                "timeupdated": "1740356092"
+            },
+            "nightly": {
+                "buildid": "17477244",
+                "description": "very unstable builds",
+                "timeupdated": "1740356085"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "dd1685629c49c7b999784c53685db62f5f2593b85597fb0082d18443f960c21d"
+    }
+}
