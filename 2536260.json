@@ -1,0 +1,31 @@
+{
+    "appid": "2536260",
+    "type": "Game",
+    "name": "Mayhemers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27533785",
+    "update_time": "2025-02-18 20:17:19",
+    "depot": {
+        "2536261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7583298619771989463",
+                    "size": "412126206",
+                    "download": "145397248"
+                }
+            },
+            "decryptionkey": "4a9479f566e28998f98ddbf37cb096acc9c6c5a115c81d6528c1ba336f68a6df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17371566",
+                "timeupdated": "1739563482"
+            }
+        }
+    }
+}
