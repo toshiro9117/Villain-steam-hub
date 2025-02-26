@@ -1,0 +1,98 @@
+{
+    "appid": "2050680",
+    "type": "Game",
+    "name": "Warbox Sandbox",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27486449",
+    "update_time": "2025-02-15 04:14:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2050681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5141010578719668720",
+                    "size": "1700634438",
+                    "download": "1142681776"
+                }
+            },
+            "decryptionkey": "290d77a85af2fe398bc501f62cd1c472b4064d20a014f009f197d3630eb705d7"
+        },
+        "2050683": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8858433302914399300",
+                    "size": "2022326606",
+                    "download": "1175889184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2050684": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6089044614777668593",
+                    "size": "1852244911",
+                    "download": "1158663856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15814730",
+                "timeupdated": "1727217463"
+            }
+        }
+    }
+}
