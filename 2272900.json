@@ -1,0 +1,47 @@
+{
+    "appid": "2272900",
+    "type": "Game",
+    "name": "Mirthwood",
+    "schinese_name": "欢欣森活",
+    "isfreeapp": "0",
+    "change_number": "27488540",
+    "update_time": "2025-02-15 07:15:41",
+    "depot": {
+        "2272901": {
+            "manifests": {
+                "public": {
+                    "gid": "2856797235855031451",
+                    "size": "7412479872",
+                    "download": "1549313120"
+                },
+                "beta": {
+                    "gid": "2856797235855031451",
+                    "size": "7412479872",
+                    "download": "1549313120"
+                },
+                "test": {
+                    "gid": "2153984394184853258",
+                    "size": "7430209125",
+                    "download": "1552144320"
+                }
+            },
+            "decryptionkey": "58185efce9e4c852272795c4415161a02c53bbd566dd9cb704dbe8c6f0c797ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17275843",
+                "timeupdated": "1739490532"
+            },
+            "beta": {
+                "buildid": "17275843",
+                "description": "beta testing branch",
+                "timeupdated": "1739208463"
+            },
+            "test": {
+                "buildid": "17457681",
+                "description": "extra testing branch",
+                "timeupdated": "1740154064"
+            }
+        }
+    }
+}
