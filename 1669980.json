@@ -1,0 +1,33 @@
+{
+    "appid": "1669980",
+    "type": "Game",
+    "name": "Volcano Princess",
+    "schinese_name": "火山的女儿",
+    "isfreeapp": "0",
+    "change_number": "27493794",
+    "update_time": "2025-02-15 20:17:49",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "1669981": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2425626147872672006",
+                    "size": "5063658108",
+                    "download": "1104467776"
+                }
+            },
+            "decryptionkey": "3a047ea5cbf7ba1277d2f1f7ed2016381bf2791e4678e42a7548f09fa03284e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16899910",
+                "timeupdated": "1735954090"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
