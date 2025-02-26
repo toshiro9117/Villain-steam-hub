@@ -1,0 +1,48 @@
+{
+    "appid": "3469850",
+    "type": "Game",
+    "name": "噩梦摇篮：献花于你",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27537802",
+    "update_time": "2025-02-19 00:15:29",
+    "depot": {
+        "baselanguages": "english",
+        "3469851": {
+            "manifests": {
+                "public": {
+                    "gid": "1930888249272468089",
+                    "size": "1851189674",
+                    "download": "1486052352"
+                },
+                "default2": {
+                    "gid": "7656809383605229191",
+                    "size": "1851097944",
+                    "download": "1486030416"
+                },
+                "default3": {
+                    "gid": "7656809383605229191",
+                    "size": "1851097944",
+                    "download": "1486030416"
+                }
+            },
+            "decryptionkey": "a3451796b5c0e4b38400eef7ad7daef654ee98f673de976c56bee65637b7b9f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17481597",
+                "timeupdated": "1740392191"
+            },
+            "default2": {
+                "buildid": "17471154",
+                "description": "特殊处理用版本【优化脚本去除】",
+                "timeupdated": "1740281291"
+            },
+            "default3": {
+                "buildid": "17471154",
+                "description": "测试版【勿选】",
+                "timeupdated": "1740281300"
+            }
+        }
+    }
+}
