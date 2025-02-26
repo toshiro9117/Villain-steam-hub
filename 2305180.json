@@ -1,0 +1,29 @@
+{
+    "appid": "2305180",
+    "type": "Game",
+    "name": "You are the Judge!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27395579",
+    "update_time": "2025-02-10 15:26:44",
+    "depot": {
+        "2305181": {
+            "manifests": {
+                "public": {
+                    "gid": "51292210811987190",
+                    "size": "4693491035",
+                    "download": "1595377360"
+                }
+            },
+            "decryptionkey": "c3f22f368f49ae6bb156dcdd4ce88de2f126405fb3a05d45ba02afc5a6d7df54"
+        },
+        "baselanguages": "english,turkish",
+        "branches": {
+            "public": {
+                "buildid": "15420471",
+                "timeupdated": "1724077280"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
