@@ -1,0 +1,48 @@
+{
+    "appid": "3371240",
+    "type": "Game",
+    "name": "Beyond Citadel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27499835",
+    "update_time": "2025-02-16 11:07:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3371241": {
+            "manifests": {
+                "public": {
+                    "gid": "6109863416598785606",
+                    "size": "1598521871",
+                    "download": "1423248672"
+                }
+            },
+            "decryptionkey": "545544358b5ccb968bcb306b020d7d3b5f749949a10a6f02958a6d6181e9dcce"
+        },
+        "3371242": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17416108",
+                "timeupdated": "1739933019"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
