@@ -1,0 +1,30 @@
+{
+    "appid": "2336220",
+    "type": "Game",
+    "name": "Feed The Cups",
+    "schinese_name": "杯杯倒满 Feed The Cups",
+    "isfreeapp": "0",
+    "change_number": "27527742",
+    "update_time": "2025-02-18 12:26:52",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "0",
+        "2336221": {
+            "manifests": {
+                "public": {
+                    "gid": "8740983723791965733",
+                    "size": "311062488",
+                    "download": "178560128"
+                }
+            },
+            "decryptionkey": "f3f120d62113945152c4dbc839727429765e41336f99fc3a1e125c5bdf43ec2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17417809",
+                "timeupdated": "1739943834"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
