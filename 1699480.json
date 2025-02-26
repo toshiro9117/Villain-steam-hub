@@ -1,0 +1,78 @@
+{
+    "appid": "1699480",
+    "type": "Game",
+    "name": "KLETKA",
+    "schinese_name": "笼子",
+    "isfreeapp": "0",
+    "change_number": "27442559",
+    "update_time": "2025-02-13 00:11:06",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "workshopdepot": "1699480",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1699481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7685860369461075846",
+                    "size": "1353549889",
+                    "download": "993195168"
+                },
+                "beta-test": {
+                    "gid": "547404396426778072",
+                    "size": "1407257079",
+                    "download": "1045601728"
+                }
+            },
+            "decryptionkey": "c68d3843c14b9584d5c8707632ad7c1876efeb1528e0b97802b47663295ec466"
+        },
+        "1699482": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6827182940768852457",
+                    "size": "3099033940",
+                    "download": "1103814736"
+                },
+                "beta-test": {
+                    "gid": "2392636244320076584",
+                    "size": "3150723863",
+                    "download": "1151541776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17291383",
+                "timeupdated": "1739018496"
+            },
+            "beta-test": {
+                "buildid": "17467224",
+                "description": "For beta testers",
+                "timeupdated": "1740230539"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ec5b27d1c16d51433f44a2500f0f4a906c6b04aed6c62ba47de5137b524acbca"
+    }
+}
