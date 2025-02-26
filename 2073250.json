@@ -1,0 +1,61 @@
+{
+    "appid": "2073250",
+    "type": "Game",
+    "name": "Rift of the NecroDancer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27527643",
+    "update_time": "2025-02-18 12:16:49",
+    "depot": {
+        "workshopdepot": "2073250",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
+        "2073251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6225699693998561978",
+                    "size": "2896366442",
+                    "download": "2443761440"
+                }
+            },
+            "decryptionkey": "f3424a6f32150d03e898c114191451b63081675764e3e0ddf0ce6bd0734d666b"
+        },
+        "2073252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4980886239221002056",
+                    "size": "321387790",
+                    "download": "217976640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467170": {
+            "dlcappid": "3467170",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3192063576867734685",
+                    "size": "26553162",
+                    "download": "20045920"
+                }
+            },
+            "decryptionkey": "4e3a42f92f481f77ae7843e6844ee9049f90cfdd302f49d4b122b7ff66f32c53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17356000",
+                "timeupdated": "1739472076"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0b6ca1d9c88455d6ac1096de88585db96ff084f284219f56fc05d100441bedda"
+    }
+}
