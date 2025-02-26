@@ -1,0 +1,41 @@
+{
+    "appid": "3282700",
+    "type": "Game",
+    "name": "LIMINAL SHIFT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27543219",
+    "update_time": "2025-02-19 06:16:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3282701": {
+            "manifests": {
+                "public": {
+                    "gid": "7846604441747751121",
+                    "size": "4599841715",
+                    "download": "3998142672"
+                }
+            },
+            "decryptionkey": "168d492fbe75b6315d1a22bcc709e79c632578886152d8d5a6e9f4c2ca2bc7f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17325744",
+                "timeupdated": "1739301689"
+            }
+        }
+    }
+}
