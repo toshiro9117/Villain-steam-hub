@@ -1,0 +1,58 @@
+{
+    "appid": "2391690",
+    "type": "Game",
+    "name": "Blue Maiden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27497054",
+    "update_time": "2025-02-16 03:45:28",
+    "depot": {
+        "2391691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1375786102432480694",
+                    "size": "4530275637",
+                    "download": "1494196352"
+                },
+                "beta": {
+                    "gid": "4876147055906132052",
+                    "size": "4530276749",
+                    "download": "1494193296"
+                }
+            },
+            "decryptionkey": "019a391dea7436cb32c65a2f1c0cbb97ac68c2193e6dab5a8bbee4f06b3b9c93"
+        },
+        "2391692": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4977886281207469833",
+                    "size": "4535447164",
+                    "download": "1497412560"
+                },
+                "beta": {
+                    "gid": "6003478425391774946",
+                    "size": "4535448276",
+                    "download": "1497411424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17379616",
+                "timeupdated": "1739648724"
+            },
+            "beta": {
+                "buildid": "17061706",
+                "description": "Beta testing",
+                "timeupdated": "1737359393"
+            }
+        }
+    }
+}
