@@ -1,0 +1,32 @@
+{
+    "appid": "2891310",
+    "type": "Game",
+    "name": "Genome Guardian",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27500396",
+    "update_time": "2025-02-16 13:14:59",
+    "depot": {
+        "2891311": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2821423537304363207",
+                    "size": "618850543",
+                    "download": "535018704"
+                }
+            },
+            "decryptionkey": "34a5853f3137451b58cbf5c4c335dcf39541f070cbfe7d5d24d51466f2bfd86f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17380975",
+                "timeupdated": "1739664931"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
