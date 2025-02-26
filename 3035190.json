@@ -1,0 +1,48 @@
+{
+    "appid": "3035190",
+    "type": "Demo",
+    "name": "KARMA: The Dark World Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26761508",
+    "update_time": "2024-12-23 18:22:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3035191": {
+            "manifests": {
+                "public": {
+                    "gid": "6608641504020017108",
+                    "size": "13790633284",
+                    "download": "12900919552"
+                }
+            },
+            "decryptionkey": "9ef73fee98cff62f8cb99bfc3d28d4d185191c49db561cf950df29b76be610c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16160939",
+                "timeupdated": "1729758720"
+            }
+        }
+    }
+}
