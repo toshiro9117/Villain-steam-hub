@@ -1,0 +1,27 @@
+{
+    "appid": "2709940",
+    "type": "Game",
+    "name": "Shhh!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27495983",
+    "update_time": "2025-02-16 01:14:28",
+    "depot": {
+        "2709941": {
+            "manifests": {
+                "public": {
+                    "gid": "7355887778927904152",
+                    "size": "5807684120",
+                    "download": "2925033296"
+                }
+            },
+            "decryptionkey": "237cee666db2f5c6ba94f702a2117bb5e7149c96cabbd4fa9a298055f6ed04d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13256633",
+                "timeupdated": "1706080105"
+            }
+        }
+    }
+}
