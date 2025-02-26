@@ -1,0 +1,29 @@
+{
+    "appid": "2704100",
+    "type": "Game",
+    "name": "小小群雄",
+    "schinese_name": "小小群雄",
+    "isfreeapp": "0",
+    "change_number": "27384472",
+    "update_time": "2025-02-09 12:17:58",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese",
+        "2704101": {
+            "manifests": {
+                "public": {
+                    "gid": "5009470554291883900",
+                    "size": "416111074",
+                    "download": "81414720"
+                }
+            },
+            "decryptionkey": "86df36619b578ef0939382d01a6bc16267816fcd7ca17a61d699dce335daa987"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16749000",
+                "timeupdated": "1734235781"
+            }
+        }
+    }
+}
