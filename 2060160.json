@@ -1,0 +1,51 @@
+{
+    "appid": "2060160",
+    "type": "Game",
+    "name": "The Farmer Was Replaced",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27455333",
+    "update_time": "2025-02-13 16:46:56",
+    "depot": {
+        "2060162": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5876243428828609262",
+                    "size": "141793639",
+                    "download": "45557776"
+                },
+                "beta": {
+                    "gid": "5876243428828609262",
+                    "size": "141793639",
+                    "download": "45557776"
+                },
+                "jul-2024": {
+                    "gid": "2693703265569981095",
+                    "size": "99244351",
+                    "download": "26521328"
+                }
+            },
+            "decryptionkey": "18be2e81f67839803b107115cde05b35e14fc9b9bb4b71bb9f21a79503cda2b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17348760",
+                "timeupdated": "1739436411"
+            },
+            "beta": {
+                "buildid": "17348760",
+                "description": "public beta branch",
+                "timeupdated": "1739436374"
+            },
+            "jul-2024": {
+                "buildid": "14934045",
+                "description": "Pre Simulation Update",
+                "timeupdated": "1734000823"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
