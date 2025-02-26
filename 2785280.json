@@ -1,0 +1,47 @@
+{
+    "appid": "2785280",
+    "type": "Game",
+    "name": "Ruined Nurse",
+    "schinese_name": "毁了的护士",
+    "isfreeapp": "0",
+    "change_number": "27510712",
+    "update_time": "2025-02-17 14:51:24",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2785281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1566479643086324761",
+                    "size": "4507989472",
+                    "download": "4016475024"
+                }
+            },
+            "decryptionkey": "310cdd51fb23b00e96efb37dc25decdc08cd417a0fced203c292b5d8e1b2a877"
+        },
+        "workshopdepot": "2785280",
+        "branches": {
+            "public": {
+                "buildid": "17287712",
+                "timeupdated": "1738980952"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
