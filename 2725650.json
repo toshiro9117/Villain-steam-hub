@@ -1,0 +1,41 @@
+{
+    "appid": "2725650",
+    "type": "Game",
+    "name": "Pro Show Jumping",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27104426",
+    "update_time": "2025-01-22 10:28:42",
+    "depot": {
+        "workshopdepot": "2725650",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2725651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "493154678757901840",
+                    "size": "5830420841",
+                    "download": "1851865472"
+                }
+            },
+            "decryptionkey": "07ac1bfb47e29ccf542503bcbfeaa8a48ed3ebf5668b917ec0a5825a75ca3fdd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15481773",
+                "timeupdated": "1724513125"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
