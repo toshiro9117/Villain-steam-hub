@@ -1,0 +1,52 @@
+{
+    "appid": "885000",
+    "type": "Game",
+    "name": "Synth Riders",
+    "schinese_name": "综合骑手",
+    "isfreeapp": "0",
+    "change_number": "27542728",
+    "update_time": "2025-02-19 05:38:55",
+    "depot": {
+        "885001": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8834515486231824578",
+                    "size": "10186490801",
+                    "download": "3545011104"
+                },
+                "open-beta": {
+                    "gid": "8834515486231824578",
+                    "size": "10186490801",
+                    "download": "3545011104"
+                },
+                "previous": {
+                    "gid": "2241211775523479467",
+                    "size": "8636301651",
+                    "download": "3066394192"
+                }
+            },
+            "decryptionkey": "02645ffcb89ba0e277f11418e05f7dc010d530aed0399178ea0acfb44beada08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17332534",
+                "timeupdated": "1739469668"
+            },
+            "open-beta": {
+                "buildid": "17332534",
+                "description": "OPEN BETA (Opt-in for early access to patches!)",
+                "timeupdated": "1739469621"
+            },
+            "previous": {
+                "buildid": "14144154",
+                "description": "PREVIOUS Legacy v2.3.32 (No new content available here)",
+                "timeupdated": "1731578284"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
