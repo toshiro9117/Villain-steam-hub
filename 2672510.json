@@ -1,0 +1,27 @@
+{
+    "appid": "2672510",
+    "type": "Game",
+    "name": "Kinky Cosplay Heroes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27417083",
+    "update_time": "2025-02-11 17:38:00",
+    "depot": {
+        "2672511": {
+            "manifests": {
+                "public": {
+                    "gid": "1284597990861207624",
+                    "size": "1367803529",
+                    "download": "295227024"
+                }
+            },
+            "decryptionkey": "b3966858900b0e002a4224dc76149db3b8e6014c8548a5fbb25d60e793c631ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16641878",
+                "timeupdated": "1733395723"
+            }
+        }
+    }
+}
