@@ -1,0 +1,54 @@
+{
+    "appid": "2512710",
+    "type": "Demo",
+    "name": "Fuga Melodies of Steel 2 - Demo",
+    "schinese_name": "战场的赋格曲2 体验版",
+    "isfreeapp": "0",
+    "change_number": "27430137",
+    "update_time": "2025-02-12 08:43:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2512711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1709556718529737291",
+                    "size": "3489861223",
+                    "download": "1569947168"
+                }
+            },
+            "decryptionkey": "49ee9124044c0a6138c883ba250a52ce073fd750461ed01194ff7003ab39a374"
+        },
+        "2512712": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "15722672",
+                "timeupdated": "1730941480"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
