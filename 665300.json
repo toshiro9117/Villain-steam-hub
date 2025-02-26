@@ -1,0 +1,114 @@
+{
+    "appid": "665300",
+    "type": "Application",
+    "name": "Stream Avatars",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27279160",
+    "update_time": "2025-02-03 02:34:41",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "665300",
+        "665301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8348014912191426415",
+                    "size": "207685286",
+                    "download": "49834976"
+                },
+                "beta--3": {
+                    "gid": "3201019477895510266",
+                    "size": "171938376",
+                    "download": "38637952"
+                },
+                "mac-test": {
+                    "gid": "3043747292658598372",
+                    "size": "171920504",
+                    "download": "38636720"
+                },
+                "beta": {
+                    "gid": "6059604842891978131",
+                    "size": "171940496",
+                    "download": "38675488"
+                },
+                "beta--1": {
+                    "gid": "3759665663747171178",
+                    "size": "207746822",
+                    "download": "49844640"
+                }
+            },
+            "decryptionkey": "3dcf4555a8f4a9b92f642d2de7e8b125fd06f8455d560852c4bedf7a808dc8c8"
+        },
+        "665302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6733567463873757017",
+                    "size": "211156968",
+                    "download": "50976704"
+                },
+                "beta--3": {
+                    "gid": "9028049044290640658",
+                    "size": "202532436",
+                    "download": "48171200"
+                },
+                "mac-test": {
+                    "gid": "1535433955090023870",
+                    "size": "202519172",
+                    "download": "48168768"
+                },
+                "beta": {
+                    "gid": "9028049044290640658",
+                    "size": "202532436",
+                    "download": "48171200"
+                },
+                "beta--1": {
+                    "gid": "922795105791207565",
+                    "size": "211218624",
+                    "download": "50988064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16423633",
+                "timeupdated": "1731694239"
+            },
+            "beta--3": {
+                "buildid": "13906467",
+                "description": "hotkeys",
+                "timeupdated": "1711876528"
+            },
+            "mac-test": {
+                "buildid": "12777908",
+                "description": "testing window mode mac",
+                "timeupdated": "1703117430"
+            },
+            "beta": {
+                "buildid": "14578021",
+                "description": "beta",
+                "timeupdated": "1723158208"
+            },
+            "beta--1": {
+                "buildid": "17472085",
+                "description": "beta1",
+                "timeupdated": "1740296241"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c1adf8f82b12c705f3d252b8ce2ce92a12dc3ac81b3229a45fb0817489ca01a5"
+    }
+}
