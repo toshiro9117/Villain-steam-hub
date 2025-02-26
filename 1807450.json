@@ -1,0 +1,38 @@
+{
+    "appid": "1807450",
+    "type": "Game",
+    "name": "Love with Furry",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26802821",
+    "update_time": "2024-12-28 15:40:31",
+    "depot": {
+        "1807451": {
+            "manifests": {
+                "public": {
+                    "gid": "4110849125442848312",
+                    "size": "498736245",
+                    "download": "48938288"
+                }
+            },
+            "decryptionkey": "fe37135106d89a8d3897dc5db80b5bf44d4a714085f107015dff6524e93b2cea"
+        },
+        "1820540": {
+            "dlcappid": "1820540",
+            "manifests": {
+                "public": {
+                    "gid": "4543055996608486572",
+                    "size": "532750453",
+                    "download": "52371280"
+                }
+            },
+            "decryptionkey": "a425dc9ca736f0e9d08ad9b29f53a98e13fbe2f744d6cca0a341c3a115a70c21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7844375",
+                "timeupdated": "1638915996"
+            }
+        }
+    }
+}
