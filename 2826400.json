@@ -1,0 +1,42 @@
+{
+    "appid": "2826400",
+    "type": "Game",
+    "name": "CASE RECORDS: Fear of Abduction",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27485753",
+    "update_time": "2025-02-15 03:16:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2826401": {
+            "manifests": {
+                "public": {
+                    "gid": "6797773240906713039",
+                    "size": "3433788347",
+                    "download": "3287660224"
+                }
+            },
+            "decryptionkey": "e56e3248a19c365e23aa8eaa1f00e703ed57725d877c40945441f6b8d364a1a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16849465",
+                "timeupdated": "1735213624"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
