@@ -1,0 +1,46 @@
+{
+    "appid": "3093370",
+    "type": "Game",
+    "name": "The Last Sight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26720299",
+    "update_time": "2024-12-20 03:47:54",
+    "depot": {
+        "3093371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1472032885686199739",
+                    "size": "3278801398",
+                    "download": "3111062736"
+                }
+            },
+            "decryptionkey": "2e23aac3b9bf9877119c2811af2a8b855757803bb611a3362d35597155387bf6"
+        },
+        "3220840": {
+            "dlcappid": "3220840",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3673387212957622680",
+                    "size": "3931569777",
+                    "download": "3764177872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16805350",
+                "timeupdated": "1734637670"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
