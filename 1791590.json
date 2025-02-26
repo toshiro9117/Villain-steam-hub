@@ -1,0 +1,77 @@
+{
+    "appid": "1791590",
+    "type": "Game",
+    "name": "Sunset Hills",
+    "schinese_name": "落日山丘",
+    "isfreeapp": "0",
+    "change_number": "27416227",
+    "update_time": "2025-02-11 16:39:32",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "1791591": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8666347611252651222",
+                    "size": "6603252686",
+                    "download": "1201058752"
+                }
+            },
+            "decryptionkey": "e02d286317336282bcd3d5c676620b5e49946ccc92fb4c7c4fbbab27f494bc17"
+        },
+        "1791592": {
+            "config": {
+                "oslist": "macos",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4303549927626802618",
+                    "size": "6612694049",
+                    "download": "1206252704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1791593": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9066822046038965711",
+                    "size": "6603251686",
+                    "download": "1200882720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1791594": {
+            "config": {
+                "language": "schinese",
+                "oslist": "macos",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8079592230022632050",
+                    "size": "6612694049",
+                    "download": "1206245536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15874069",
+                "timeupdated": "1727942148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
