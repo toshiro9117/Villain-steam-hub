@@ -1,0 +1,36 @@
+{
+    "appid": "2858370",
+    "type": "Game",
+    "name": "Voxel Project VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27527653",
+    "update_time": "2025-02-18 12:17:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2858371": {
+            "manifests": {
+                "public": {
+                    "gid": "3806816774807893930",
+                    "size": "11060280937",
+                    "download": "1554563040"
+                }
+            },
+            "decryptionkey": "0ba2a43eddd2720ce19d754de3ec5aedd2f850bb29ad1d61ffa4cedde17e0258"
+        },
+        "workshopdepot": "2858370",
+        "branches": {
+            "public": {
+                "buildid": "17393139",
+                "timeupdated": "1739796695"
+            }
+        },
+        "workshopdepotdecryptionkey": "e66cd6fc2bb280106b437148a5abd541dbf520076daa7cfc606f7d117dac35ce"
+    }
+}
