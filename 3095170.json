@@ -1,0 +1,83 @@
+{
+    "appid": "3095170",
+    "type": "Game",
+    "name": "Sunshine Love Chapter 1",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27504015",
+    "update_time": "2025-02-17 00:16:31",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3095171": {
+            "manifests": {
+                "public": {
+                    "gid": "1176553683817749275",
+                    "size": "6612711946",
+                    "download": "6185801616"
+                }
+            },
+            "decryptionkey": "ad49ebbdee9016ed9b16f1971950db2fd27b840a51c1a53bbd5c582823550df8"
+        },
+        "3162770": {
+            "dlcappid": "3162770",
+            "manifests": {
+                "public": {
+                    "gid": "7792373477320512752",
+                    "size": "136041731",
+                    "download": "134157888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3338040": {
+            "dlcappid": "3338040",
+            "manifests": {
+                "public": {
+                    "gid": "6661577063668448508",
+                    "size": "5847412380",
+                    "download": "5739244128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3341810": {
+            "dlcappid": "3341810",
+            "manifests": {
+                "public": {
+                    "gid": "9082907948582581563",
+                    "size": "90135193",
+                    "download": "89308320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3342550": {
+            "dlcappid": "3342550",
+            "manifests": {
+                "public": {
+                    "gid": "4131886567773141329",
+                    "size": "4133311459",
+                    "download": "4030170832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3343050": {
+            "dlcappid": "3343050",
+            "manifests": {
+                "public": {
+                    "gid": "6171314101327550587",
+                    "size": "41148894",
+                    "download": "40732224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17371074",
+                "timeupdated": "1739560386"
+            }
+        }
+    }
+}
