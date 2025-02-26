@@ -1,0 +1,31 @@
+{
+    "appid": "2124120",
+    "type": "Game",
+    "name": "SULFUR",
+    "schinese_name": "火湖",
+    "isfreeapp": "0",
+    "change_number": "27502412",
+    "update_time": "2025-02-16 20:15:05",
+    "depot": {
+        "2124121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2975958777040562478",
+                    "size": "1010459472",
+                    "download": "606973040"
+                }
+            },
+            "decryptionkey": "5a0438ea06459ea27a8da1e417a22ffeee9793b472712d0a2a86179b4554bf36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17355164",
+                "timeupdated": "1739467045"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
