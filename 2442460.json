@@ -1,0 +1,55 @@
+{
+    "appid": "2442460",
+    "type": "Game",
+    "name": "Citizen Sleeper 2: Starward Vector",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27507689",
+    "update_time": "2025-02-17 08:14:41",
+    "depot": {
+        "2442462": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6816991484721901540",
+                    "size": "1645036064",
+                    "download": "416957392"
+                }
+            },
+            "decryptionkey": "d7edcb7820b1b5c1dd8d0e432df52666f204fd961ee1df803cc12ec644b176c0"
+        },
+        "2442461": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5636025883972599093",
+                    "size": "1669965373",
+                    "download": "424418320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3415120": {
+            "dlcappid": "3415120",
+            "manifests": {
+                "public": {
+                    "gid": "804581225831992428",
+                    "size": "26249752",
+                    "download": "26298128"
+                }
+            },
+            "decryptionkey": "09fc88ea87d3aec72c058ead2fd779aa0bd24c736b29f183356488b7eee17fce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17306254",
+                "timeupdated": "1739189116"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
