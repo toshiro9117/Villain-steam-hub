@@ -1,0 +1,44 @@
+{
+    "appid": "2453360",
+    "type": "Game",
+    "name": "鸡械绿洲",
+    "schinese_name": "鸡械绿洲",
+    "isfreeapp": "0",
+    "change_number": "27414103",
+    "update_time": "2025-02-11 13:35:47",
+    "depot": {
+        "2453361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "614479286436861492",
+                    "size": "1395379259",
+                    "download": "323452528"
+                }
+            },
+            "decryptionkey": "c28f6652a67eef84e3fb87549167532fdbb74636978127507da233265dfee2bd"
+        },
+        "2453362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7319047908911564496",
+                    "size": "1419437131",
+                    "download": "330788032"
+                }
+            },
+            "decryptionkey": "f1094c165f85c9d4a1114a63db62848ece4273c6f60268c0ca82e3c6303929fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17263780",
+                "timeupdated": "1738834044"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
