@@ -1,0 +1,45 @@
+{
+    "appid": "2275940",
+    "type": "Game",
+    "name": "Rogue Hex",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27481684",
+    "update_time": "2025-02-14 23:03:20",
+    "depot": {
+        "baselanguages": "english",
+        "2275941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "588187586156543153",
+                    "size": "3520752455",
+                    "download": "915068656"
+                },
+                "preview": {
+                    "gid": "588187586156543153",
+                    "size": "3520752455",
+                    "download": "915068656"
+                }
+            },
+            "decryptionkey": "493a9b9bd149fbff512d290f8730b75c9821ea5e71fdb8022926b4a6456ac8ad"
+        },
+        "3405240": {
+            "dlcappid": "3405240"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17445568",
+                "timeupdated": "1740156204"
+            },
+            "preview": {
+                "buildid": "17445568",
+                "description": "Preview branch with the newest public build. May be unstable.",
+                "timeupdated": "1740156188"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
