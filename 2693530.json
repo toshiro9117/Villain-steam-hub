@@ -1,0 +1,28 @@
+{
+    "appid": "2693530",
+    "type": "Game",
+    "name": "Witching Stone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27501298",
+    "update_time": "2025-02-16 16:42:24",
+    "depot": {
+        "2693531": {
+            "manifests": {
+                "public": {
+                    "gid": "3827044307616000209",
+                    "size": "303833793",
+                    "download": "101067408"
+                }
+            },
+            "decryptionkey": "64664e4b41ab2c8f9a04361f9f5a56fdaeca10a9b5c1ffeb2c2b64193a20ac44"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16979629",
+                "timeupdated": "1736688588"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
