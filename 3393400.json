@@ -1,0 +1,28 @@
+{
+    "appid": "3393400",
+    "type": "Game",
+    "name": "Rust of Steel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27502868",
+    "update_time": "2025-02-16 21:14:56",
+    "depot": {
+        "baselanguages": "",
+        "3393401": {
+            "manifests": {
+                "public": {
+                    "gid": "2759822843508813008",
+                    "size": "257794513",
+                    "download": "199892288"
+                }
+            },
+            "decryptionkey": "1cdca9d9ae49498dc1d72535f383dbee4df475d22bf841f279d3c4f0b856ae62"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17295202",
+                "timeupdated": "1739069059"
+            }
+        }
+    }
+}
