@@ -1,0 +1,47 @@
+{
+    "appid": "2322010",
+    "type": "Game",
+    "name": "God of War Ragnarök",
+    "schinese_name": "战神：诸神黄昏",
+    "isfreeapp": "0",
+    "change_number": "27498951",
+    "update_time": "2025-02-16 08:15:31",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,latam,vietnamese,indonesian",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2322011": {
+            "manifests": {
+                "public": {
+                    "gid": "1728891831302856666",
+                    "size": "188611358221",
+                    "download": "107441616912"
+                },
+                "beta": {
+                    "gid": "1728891831302856666",
+                    "size": "188611358221",
+                    "download": "107441616912"
+                }
+            },
+            "decryptionkey": "78758c85a2a8b04770fb4fe430ac7a215a959b72e496d94f6a0ec5ac38066f49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17354269",
+                "timeupdated": "1739477799"
+            },
+            "beta": {
+                "buildid": "17354269",
+                "description": "Beta builds",
+                "timeupdated": "1739464257"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
