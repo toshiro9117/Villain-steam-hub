@@ -1,0 +1,27 @@
+{
+    "appid": "3097560",
+    "type": "Game",
+    "name": "Liar's Bar",
+    "schinese_name": "骗子酒吧",
+    "isfreeapp": "0",
+    "change_number": "27408837",
+    "update_time": "2025-02-11 05:17:48",
+    "depot": {
+        "3097561": {
+            "manifests": {
+                "public": {
+                    "gid": "1669366563175571400",
+                    "size": "10907290591",
+                    "download": "2103590848"
+                }
+            },
+            "decryptionkey": "86eb48bd45b0ad6b6c525996f1844bb03ddd150dff04f65f5119418b10017dd3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17050938",
+                "timeupdated": "1737216717"
+            }
+        }
+    }
+}
