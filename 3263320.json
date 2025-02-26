@@ -1,0 +1,55 @@
+{
+    "appid": "3263320",
+    "type": "Game",
+    "name": "Carry The Glass",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27530891",
+    "update_time": "2025-02-18 17:14:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3263321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7609701599864110790",
+                    "size": "827249084",
+                    "download": "652768240"
+                },
+                "beta": {
+                    "gid": "7050911059434209289",
+                    "size": "775660977",
+                    "download": "601638496"
+                }
+            },
+            "decryptionkey": "c37aea5aa76e0d105869e5a7b3134002ffb8d512a43b5c5abbd2f4007f11a627"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17437417",
+                "timeupdated": "1740049190"
+            },
+            "beta": {
+                "buildid": "16672264",
+                "description": "beta_testing_before_public",
+                "timeupdated": "1733660651"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
