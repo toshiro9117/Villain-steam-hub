@@ -1,0 +1,116 @@
+{
+    "appid": "2140100",
+    "type": "Game",
+    "name": "Whisker Squadron: Survivor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27497070",
+    "update_time": "2025-02-16 03:48:23",
+    "depot": {
+        "baselanguages": "english",
+        "2140101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2088238297332030490",
+                    "size": "1320021480",
+                    "download": "360165824"
+                },
+                "beta": {
+                    "gid": "2088238297332030490",
+                    "size": "1320021480",
+                    "download": "360165824"
+                },
+                "feb_2024": {
+                    "gid": "4891381898088357770",
+                    "size": "1082117809",
+                    "download": "282110848"
+                }
+            },
+            "decryptionkey": "df2b2bf36213c7f69ec5bc5f61c2924d563359db12b69c2f061a2cd2e61b3c97"
+        },
+        "2140102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7372379852445129014",
+                    "size": "1312835940",
+                    "download": "357285760"
+                },
+                "beta": {
+                    "gid": "7372379852445129014",
+                    "size": "1312835940",
+                    "download": "357285760"
+                },
+                "feb_2024": {
+                    "gid": "4231752411286362644",
+                    "size": "1080807505",
+                    "download": "282630896"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2140103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9077517153645059182",
+                    "size": "1424487252",
+                    "download": "372852288"
+                },
+                "beta": {
+                    "gid": "9077517153645059182",
+                    "size": "1424487252",
+                    "download": "372852288"
+                },
+                "feb_2024": {
+                    "gid": "5237535478786836125",
+                    "size": "1209333937",
+                    "download": "315366016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2666630": {
+            "dlcappid": "2666630",
+            "manifests": {
+                "public": {
+                    "gid": "5161405275882937760",
+                    "size": "23263617",
+                    "download": "22288512"
+                },
+                "feb_2024": {
+                    "gid": "5161405275882937760",
+                    "size": "23263617",
+                    "download": "22288512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17457613",
+                "timeupdated": "1740153791"
+            },
+            "beta": {
+                "buildid": "17282648",
+                "description": "Early look at new features. Join the Discord for feedback!",
+                "timeupdated": "1738947581"
+            },
+            "feb_2024": {
+                "buildid": "13521278",
+                "description": "Final public release piior to Campaign update. Use at your own risk!",
+                "timeupdated": "1718305464"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
