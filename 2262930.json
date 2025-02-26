@@ -1,0 +1,83 @@
+{
+    "appid": "2262930",
+    "type": "Game",
+    "name": "Bombe",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27181775",
+    "update_time": "2025-01-27 19:27:28",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2262932": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2322545749579031610",
+                    "size": "89144443",
+                    "download": "59256816"
+                },
+                "testing": {
+                    "gid": "2322545749579031610",
+                    "size": "89144443",
+                    "download": "59256816"
+                }
+            },
+            "decryptionkey": "a4988f49f480c7124865b393dbd99b5d8ee316574f6d4168ee3fb0d5063bcff4"
+        },
+        "2262933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4359391525153650387",
+                    "size": "107813323",
+                    "download": "65027312"
+                },
+                "testing": {
+                    "gid": "4359391525153650387",
+                    "size": "107813323",
+                    "download": "65027312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2262934": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3226118855154412564",
+                    "size": "105687251",
+                    "download": "63364784"
+                },
+                "testing": {
+                    "gid": "3226118855154412564",
+                    "size": "105687251",
+                    "download": "63364784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16823685",
+                "timeupdated": "1736693128"
+            },
+            "testing": {
+                "buildid": "16823685",
+                "description": " Testing branch for unstable and experimental",
+                "timeupdated": "1734784355"
+            }
+        }
+    }
+}
