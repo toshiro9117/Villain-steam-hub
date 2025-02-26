@@ -1,0 +1,41 @@
+{
+    "appid": "1981570",
+    "type": "Game",
+    "name": "Land of the Vikings",
+    "schinese_name": "维京人之地",
+    "isfreeapp": "0",
+    "change_number": "27349612",
+    "update_time": "2025-02-07 01:26:59",
+    "depot": {
+        "1981571": {
+            "manifests": {
+                "public": {
+                    "gid": "118451388612961920",
+                    "size": "10685214984",
+                    "download": "4182685344"
+                },
+                "v8.1": {
+                    "gid": "8105617138282253350",
+                    "size": "7892152986",
+                    "download": "3188110448"
+                }
+            },
+            "decryptionkey": "a1b41c1b70dfae9a260b2dd2641088e54a61bce753248a76e247ae96f7537f68"
+        },
+        "workshopdepot": "1981570",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "14905527",
+                "timeupdated": "1719927783"
+            },
+            "v8.1": {
+                "buildid": "10954167",
+                "description": "LOTV 0.8.1v",
+                "timeupdated": "1693481638"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "deda2919d13e947d72d5a79a817850224f56848c617298f50e08ba1ae3997ecb"
+    }
+}
