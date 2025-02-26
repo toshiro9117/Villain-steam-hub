@@ -1,0 +1,57 @@
+{
+    "appid": "3325130",
+    "type": "Game",
+    "name": "Year of the Ladybug: Season 1",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26966369",
+    "update_time": "2025-01-13 09:33:11",
+    "depot": {
+        "baselanguages": "english",
+        "3325131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "451868539283867487",
+                    "size": "1676370877",
+                    "download": "247314752"
+                }
+            },
+            "decryptionkey": "478e761f8465e0041b4d9b67268325471c70652740fa08f7f1796bd18e259c39"
+        },
+        "3325132": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5054731507976061394",
+                    "size": "1669868696",
+                    "download": "246005216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3366610": {
+            "dlcappid": "3366610",
+            "manifests": {
+                "public": {
+                    "gid": "2339804412503042988",
+                    "size": "41562530",
+                    "download": "41155968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16750067",
+                "timeupdated": "1734295908"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
