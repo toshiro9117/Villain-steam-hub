@@ -1,0 +1,58 @@
+{
+    "appid": "2183900",
+    "type": "Game",
+    "name": "Warhammer 40,000: Space Marine 2",
+    "schinese_name": "战锤40K：星际战士2",
+    "isfreeapp": "0",
+    "change_number": "27532754",
+    "update_time": "2025-02-18 19:07:49",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,czech,turkish,brazilian,ukrainian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2183901": {
+            "manifests": {
+                "public": {
+                    "gid": "148342115333315195",
+                    "size": "75539506231",
+                    "download": "60440068576"
+                }
+            },
+            "decryptionkey": "8df236a6a5084039477362b31157e7e0eb66554a744762d6782c544ab64d0c4e"
+        },
+        "3202690": {
+            "dlcappid": "3202690",
+            "manifests": {
+                "public": {
+                    "gid": "4674547487371266871",
+                    "size": "101477755118",
+                    "download": "102003181696"
+                }
+            },
+            "decryptionkey": "00c47f82b08192958b11307abb87c755003eb8dfae75063373e379c296b26083"
+        },
+        "3212040": {
+            "dlcappid": "3212040",
+            "manifests": {
+                "public": {
+                    "gid": "7457655780363166458",
+                    "size": "192137587",
+                    "download": "112129136"
+                }
+            },
+            "decryptionkey": "e3818ce0f203d78eed2647e6364bd19a702fd8d7a01230f77a038e0fd26b0ffb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17363885",
+                "timeupdated": "1739523211"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
