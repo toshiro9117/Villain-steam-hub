@@ -1,0 +1,27 @@
+{
+    "appid": "2791650",
+    "type": "Game",
+    "name": "100 Cats Berlin",
+    "schinese_name": "100 只猫 柏林",
+    "isfreeapp": "0",
+    "change_number": "27509054",
+    "update_time": "2025-02-17 11:14:42",
+    "depot": {
+        "2791651": {
+            "manifests": {
+                "public": {
+                    "gid": "6721624753952181060",
+                    "size": "72634712",
+                    "download": "28057760"
+                }
+            },
+            "decryptionkey": "6f5992c7a4d88956561927c1186e7d4797b397848d0c3d75c5082d112f965313"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15503464",
+                "timeupdated": "1724750898"
+            }
+        }
+    }
+}
