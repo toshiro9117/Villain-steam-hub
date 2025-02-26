@@ -1,0 +1,36 @@
+{
+    "appid": "1909840",
+    "type": "Game",
+    "name": "JIANGHU CHRONICLES",
+    "schinese_name": "江湖录",
+    "isfreeapp": "0",
+    "change_number": "26836787",
+    "update_time": "2025-01-02 11:59:19",
+    "depot": {
+        "baselanguages": "schinese",
+        "1909841": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7189122062071165414",
+                    "size": "3587420900",
+                    "download": "941935712"
+                }
+            },
+            "decryptionkey": "e5d50367b0e533f638f41c3d0c53ba62d3e6f5832ba684c2a0720932e5b2a63e"
+        },
+        "workshopdepot": "1909840",
+        "branches": {
+            "public": {
+                "buildid": "16882307",
+                "timeupdated": "1735658384"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8c8d49aaf769b747885a38bcac7ab969446e71ef8a73612a6bc2eb35aaf78c01"
+    }
+}
