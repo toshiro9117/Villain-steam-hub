@@ -1,0 +1,42 @@
+{
+    "appid": "3256480",
+    "type": "Demo",
+    "name": "As We Descend Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27470692",
+    "update_time": "2025-02-14 09:28:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3256481": {
+            "manifests": {
+                "public": {
+                    "gid": "1573891329829746103",
+                    "size": "3098112137",
+                    "download": "2852221696"
+                }
+            },
+            "decryptionkey": "bbc7ab2dc24107947dd3e7c36886ebcd1cad12f48e9b0aa02a041bf1d330fcb8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16289776",
+                "timeupdated": "1730738498"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
