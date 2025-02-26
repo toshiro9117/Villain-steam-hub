@@ -1,0 +1,27 @@
+{
+    "appid": "3373960",
+    "type": "Game",
+    "name": "holo8",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27535807",
+    "update_time": "2025-02-18 22:17:13",
+    "depot": {
+        "3373961": {
+            "manifests": {
+                "public": {
+                    "gid": "2631296661135885373",
+                    "size": "7268602104",
+                    "download": "2676257056"
+                }
+            },
+            "decryptionkey": "aa6daa4d1016dae3379b6832a8b9bcf0b6590d3bfbb43bc966caa7e34f99b703"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17477588",
+                "timeupdated": "1740359977"
+            }
+        }
+    }
+}
