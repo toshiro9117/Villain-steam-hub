@@ -1,0 +1,51 @@
+{
+    "appid": "1843730",
+    "type": "Game",
+    "name": "Last Group Out",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27523276",
+    "update_time": "2025-02-18 05:14:18",
+    "depot": {
+        "1843731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5798613623084905233",
+                    "size": "167243861",
+                    "download": "101032880"
+                },
+                "beta": {
+                    "gid": "6206888931286081565",
+                    "size": "167238129",
+                    "download": "101031888"
+                },
+                "classicmode": {
+                    "gid": "5806447311636740743",
+                    "size": "160674326",
+                    "download": "95429920"
+                }
+            },
+            "decryptionkey": "edace4e80a96403ed87e2391a6f48c9e68b908913aa40a820be8cdda93d0c3ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17346030",
+                "timeupdated": "1739417587"
+            },
+            "beta": {
+                "buildid": "17331081",
+                "description": "Faction Test",
+                "timeupdated": "1739335572"
+            },
+            "classicmode": {
+                "buildid": "15310745",
+                "description": "Classic Mode",
+                "timeupdated": "1723155677"
+            }
+        }
+    }
+}
