@@ -1,0 +1,51 @@
+{
+    "appid": "3183350",
+    "type": "Game",
+    "name": "幻想鱼箱",
+    "schinese_name": "幻想鱼箱",
+    "isfreeapp": "0",
+    "change_number": "27538837",
+    "update_time": "2025-02-19 01:15:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3183351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3381528310426203193",
+                    "size": "361676662",
+                    "download": "166113792"
+                }
+            },
+            "decryptionkey": "658f12f618cc354328ece7cbc378435292727f63bc08756757aed7b797fba884"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17390878",
+                "timeupdated": "1739785147"
+            }
+        }
+    }
+}
