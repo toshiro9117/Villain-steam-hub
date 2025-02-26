@@ -1,0 +1,44 @@
+{
+    "appid": "3408620",
+    "type": "Demo",
+    "name": "Cafemart Simulator Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27539848",
+    "update_time": "2025-02-19 02:15:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3408621": {
+            "manifests": {
+                "public": {
+                    "gid": "8146641820540425499",
+                    "size": "7809091748",
+                    "download": "2829672720"
+                },
+                "developers": {
+                    "gid": "8146641820540425499",
+                    "size": "7809091748",
+                    "download": "2829672720"
+                }
+            },
+            "decryptionkey": "b9779ae1d1cf8f10545b37fe8f5c3399595ee0fb8295bc183922bc354b8f7b73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17460946",
+                "timeupdated": "1740178384"
+            },
+            "developers": {
+                "buildid": "17460946",
+                "description": "Dev branch",
+                "timeupdated": "1740171868"
+            }
+        }
+    }
+}
