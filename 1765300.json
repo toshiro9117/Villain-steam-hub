@@ -1,0 +1,71 @@
+{
+    "appid": "1765300",
+    "type": "Game",
+    "name": "Ultimate Zombie Defense 2",
+    "schinese_name": "终极僵尸防御2",
+    "isfreeapp": "0",
+    "change_number": "27534322",
+    "update_time": "2025-02-18 20:47:22",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1765301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3899887103061201969",
+                    "size": "14724309833",
+                    "download": "12777252816"
+                },
+                "public-beta": {
+                    "gid": "3899887103061201969",
+                    "size": "14724309833",
+                    "download": "12777252816"
+                }
+            },
+            "decryptionkey": "91d5ee6c2df3c69ec5ee6adb1ccd74bf45f8a311ffccfad5bdaa35aa0907bf5d"
+        },
+        "1765302": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6637087227677793419",
+                    "size": "15432841320",
+                    "download": "13223111312"
+                },
+                "public-beta": {
+                    "gid": "6637087227677793419",
+                    "size": "15432841320",
+                    "download": "13223111312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1765300",
+        "branches": {
+            "public": {
+                "buildid": "17442832",
+                "timeupdated": "1740128856"
+            },
+            "public-beta": {
+                "buildid": "17442832",
+                "description": "Public beta with the latest version of the game",
+                "timeupdated": "1740127583"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
