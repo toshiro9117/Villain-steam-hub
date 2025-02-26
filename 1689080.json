@@ -1,0 +1,45 @@
+{
+    "appid": "1689080",
+    "type": "Game",
+    "name": "水银疗养院",
+    "schinese_name": "水银疗养院",
+    "isfreeapp": "0",
+    "change_number": "27494224",
+    "update_time": "2025-02-15 21:16:40",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1689081": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5458507590845374345",
+                    "size": "4954425510",
+                    "download": "1070078240"
+                }
+            },
+            "decryptionkey": "1f766a4d0a185c7227f5cf3b9045c69a8a13d6143e95f7dca6fd96acf8c276d1"
+        },
+        "1689082": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8713691498767536992",
+                    "size": "4955463894",
+                    "download": "1073494048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17102641",
+                "timeupdated": "1737686600"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
