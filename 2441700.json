@@ -1,0 +1,52 @@
+{
+    "appid": "2441700",
+    "type": "Game",
+    "name": "UNDERDOGS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27543220",
+    "update_time": "2025-02-19 06:17:02",
+    "depot": {
+        "2441701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8622157913986101557",
+                    "size": "2390999581",
+                    "download": "1617934896"
+                },
+                "laststable": {
+                    "gid": "9676397173486883",
+                    "size": "2387624071",
+                    "download": "1616610816"
+                },
+                "sandboxxer": {
+                    "gid": "5708719601418505649",
+                    "size": "2344619560",
+                    "download": "1585256560"
+                }
+            },
+            "decryptionkey": "0d9c8c4dd6db3f468e5e8dde720c2d0842f7daf071cba1a5ad84a8ef3b78b701"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17434396",
+                "timeupdated": "1740075753"
+            },
+            "laststable": {
+                "buildid": "17120275",
+                "description": "Last stable build",
+                "timeupdated": "1740075718"
+            },
+            "sandboxxer": {
+                "buildid": "15511445",
+                "description": "Sandboxxer Beta",
+                "timeupdated": "1724841436"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
