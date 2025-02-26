@@ -1,0 +1,30 @@
+{
+    "appid": "500190",
+    "type": "Game",
+    "name": "Firefight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27297530",
+    "update_time": "2025-02-04 06:38:29",
+    "depot": {
+        "500191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1440414679027693069",
+                    "size": "431446990",
+                    "download": "352079424"
+                }
+            },
+            "decryptionkey": "8b95e697d05fe7d25c1c6b1bbe7e5dc87aa4b4a52da72fc60a4c1cc9f77def49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17439787",
+                "timeupdated": "1740058209"
+            }
+        }
+    }
+}
