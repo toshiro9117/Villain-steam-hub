@@ -1,0 +1,79 @@
+{
+    "appid": "2835510",
+    "type": "Demo",
+    "name": "SysAdmin Odyssey. Back to the office Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27496402",
+    "update_time": "2025-02-16 02:14:26",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2835513": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1655330890740042204",
+                    "size": "1007005558",
+                    "download": "361340496"
+                }
+            },
+            "decryptionkey": "7e57387aed03ff44945d75ef33d3c6e272fdbe0976d7d317ffd23fe5cab47389"
+        },
+        "2835512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1165678962568621071",
+                    "size": "990301530",
+                    "download": "358267168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2835511": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6873739446709435265",
+                    "size": "1005518916",
+                    "download": "362181056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17083755",
+                "timeupdated": "1740227114"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
