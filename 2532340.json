@@ -1,0 +1,114 @@
+{
+    "appid": "2532340",
+    "type": "Game",
+    "name": "Unaware in The City",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27468589",
+    "update_time": "2025-02-14 06:33:17",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2532341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7610089580825769428",
+                    "size": "484662800",
+                    "download": "366557744"
+                }
+            },
+            "decryptionkey": "44781234023af7d32ac61583c9b9b3be400b89530e2a73bc1e6162ebf79a82cd"
+        },
+        "2532342": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3906242109842086274",
+                    "size": "485335403",
+                    "download": "367029680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2532343": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8632779053329850402",
+                    "size": "494865733",
+                    "download": "368165904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3312450": {
+            "dlcappid": "3312450",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3813916108076077970",
+                    "size": "484662802",
+                    "download": "366570176"
+                }
+            },
+            "decryptionkey": "e8c80dbbd711db602977b32a384c9fd3b33b8e3dd8c2a593ba5c0f186af63976"
+        },
+        "3312451": {
+            "dlcappid": "3312450",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6795643627023303662",
+                    "size": "485335404",
+                    "download": "367027024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3312452": {
+            "dlcappid": "3312450",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6426007620094244713",
+                    "size": "494865733",
+                    "download": "368163632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17358563",
+                "timeupdated": "1739485991"
+            }
+        }
+    }
+}
