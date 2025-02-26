@@ -1,0 +1,44 @@
+{
+    "appid": "1904160",
+    "type": "Game",
+    "name": "Trainz Plus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27506804",
+    "update_time": "2025-02-17 06:14:38",
+    "depot": {
+        "1904162": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6858410657613132405",
+                    "size": "14675520039",
+                    "download": "14153503808"
+                }
+            },
+            "decryptionkey": "ea625171be4081cd1e629fb7e00e4b74125b070815dbeb501171fa7443d91a41"
+        },
+        "1904163": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2964128185146673257",
+                    "size": "14587357051",
+                    "download": "14114623008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16924462",
+                "timeupdated": "1737087121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
