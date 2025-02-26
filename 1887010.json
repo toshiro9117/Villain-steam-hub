@@ -1,0 +1,34 @@
+{
+    "appid": "1887010",
+    "type": "Game",
+    "name": "Tiny Football",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27467588",
+    "update_time": "2025-02-14 05:14:24",
+    "depot": {
+        "1887011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1578779218965079235",
+                    "size": "140215695",
+                    "download": "70609936"
+                }
+            },
+            "decryptionkey": "d3397a602387302442226d20e158b18ec8f0c58c76a13dda14afe9860477bfa7"
+        },
+        "workshopdepot": "1887010",
+        "branches": {
+            "public": {
+                "buildid": "16603979",
+                "timeupdated": "1734086393"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "741106fe04decc08203a6cafbe97b356a44bc5503b5baa59a791695b85c24f9f"
+    }
+}
