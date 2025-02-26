@@ -1,0 +1,44 @@
+{
+    "appid": "3167550",
+    "type": "Game",
+    "name": "Tiny Pasture",
+    "schinese_name": "动物栏：桌面牧场",
+    "isfreeapp": "0",
+    "change_number": "27537802",
+    "update_time": "2025-02-19 00:15:04",
+    "depot": {
+        "3167552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1366663253568115110",
+                    "size": "208196002",
+                    "download": "81609776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3167551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4452615644920263097",
+                    "size": "136251656",
+                    "download": "65769264"
+                }
+            },
+            "decryptionkey": "2eb36141e330220bd89c47de8cca1c780182686771b6f5e9251eeef811774d14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17465477",
+                "timeupdated": "1740211423"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
