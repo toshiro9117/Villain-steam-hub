@@ -1,0 +1,169 @@
+{
+    "appid": "17480",
+    "type": "Game",
+    "name": "Command & Conquer™ Red Alert™ 3",
+    "schinese_name": "《命令与征服™：红色警戒 3》",
+    "isfreeapp": "0",
+    "change_number": "27389370",
+    "update_time": "2025-02-10 01:52:33",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,thai,polish,hungarian,czech",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "17481": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "653672268483414842",
+                    "size": "8676160377",
+                    "download": "6934196192"
+                }
+            },
+            "decryptionkey": "b13a658a73dc214dd4c12fd62a81428ab5e925cc66549b1cc224dd0a393c9ae8"
+        },
+        "17482": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7641386508001202904",
+                    "size": "2278382397",
+                    "download": "1887701328"
+                }
+            },
+            "decryptionkey": "4ab4dc0bbb1fc053e3e48fa3d1d4e48806771853f5cd43631d3da56cc0c0bf47"
+        },
+        "17484": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "103913089125215938",
+                    "size": "298951134",
+                    "download": "146483040"
+                }
+            },
+            "decryptionkey": "cf2b01f2a74ae4e5e8f711580a5ed6d19935d5b7214fbb9c891d9f758c19f563"
+        },
+        "17485": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6677461725964279354",
+                    "size": "2323859214",
+                    "download": "1880607376"
+                }
+            },
+            "decryptionkey": "de1605528ba55a7b330b589a250717f5b9dfcba21cb50afdb7c763c729c756f2"
+        },
+        "17486": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9063166583739198350",
+                    "size": "2336743232",
+                    "download": "1893126416"
+                }
+            },
+            "decryptionkey": "cd91de02d5457477a2c9254d4ebfa0c1b8853576b15c309bc92c79d7dc50f14c"
+        },
+        "17487": {
+            "config": {
+                "language": "hungarian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1144206454096772966",
+                    "size": "298831428",
+                    "download": "146376992"
+                }
+            },
+            "decryptionkey": "46311b08e8fef5e899ea043424faa884a9f8ffb7d8986ce457774baf12773b82"
+        },
+        "17488": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6156928887569032857",
+                    "size": "2237958710",
+                    "download": "1838925184"
+                }
+            },
+            "decryptionkey": "bdd4807f56d6525ddeba3570d44a23d511d80f880ec912db1ddacfb2895f3826"
+        },
+        "17490": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2396992433358461684",
+                    "size": "298919113",
+                    "download": "146450560"
+                }
+            },
+            "decryptionkey": "af3865859ef3abda7e34c8c859bf5bbf3e3eda22b20bdca9cf2412826633d230"
+        },
+        "17491": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5204438489548255125",
+                    "size": "2316873124",
+                    "download": "1916835392"
+                }
+            },
+            "decryptionkey": "30b51adab9bd5b4367a3afc73392db52a8d6912b7ce21e3004462507612a88cd"
+        },
+        "17483": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {}
+        },
+        "17489": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {}
+        },
+        "3314380": {
+            "config": {
+                "language": "thai"
+            },
+            "manifests": {}
+        },
+        "workshopdepot": "17480",
+        "branches": {
+            "public": {
+                "buildid": "13686239",
+                "timeupdated": "1709986455"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "de8be15c66d36a88392a76c9067536d470d61a61d464edbb0cc51860e7a5d6a9"
+    }
+}
