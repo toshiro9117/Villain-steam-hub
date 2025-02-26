@@ -1,0 +1,68 @@
+{
+    "appid": "2394070",
+    "type": "Game",
+    "name": "Melody Mania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27504685",
+    "update_time": "2025-02-17 01:38:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2394071": {
+            "manifests": {
+                "public": {
+                    "gid": "5197712800416221164",
+                    "size": "3089377233",
+                    "download": "1402951376"
+                },
+                "public-beta": {
+                    "gid": "480181330874468255",
+                    "size": "3002509604",
+                    "download": "1375055408"
+                },
+                "v1.2.x": {
+                    "gid": "8118771999278310562",
+                    "size": "2489595095",
+                    "download": "937758800"
+                },
+                "v1.3.x": {
+                    "gid": "1771468724475229418",
+                    "size": "2503169294",
+                    "download": "940108672"
+                }
+            },
+            "decryptionkey": "1fdf45dcfd05ab8bb2dbe8a5a4523600137e4914eb130a034f05845fa8d2320f"
+        },
+        "baselanguages": "",
+        "workshopdepot": "2394070",
+        "branches": {
+            "public": {
+                "buildid": "16790520",
+                "timeupdated": "1734547576"
+            },
+            "public-beta": {
+                "buildid": "17384976",
+                "description": "Public beta version",
+                "timeupdated": "1739727494"
+            },
+            "v1.2.x": {
+                "buildid": "12980306",
+                "description": "Legacy version for tests",
+                "timeupdated": "1716666129"
+            },
+            "v1.3.x": {
+                "buildid": "13831985",
+                "description": "Legacy version for tests",
+                "timeupdated": "1720381715"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8b182eb88a56ad4de63bb7912f6acc06749d33e3b43543c55455205561be850c"
+    }
+}
