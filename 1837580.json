@@ -1,0 +1,69 @@
+{
+    "appid": "1837580",
+    "type": "Game",
+    "name": "Mia and the Dragon Princess",
+    "schinese_name": "米娅与龙公主",
+    "isfreeapp": "0",
+    "change_number": "26399665",
+    "update_time": "2024-12-05 06:12:15",
+    "depot": {
+        "1837581": {
+            "manifests": {
+                "public": {
+                    "gid": "8609922655164101385",
+                    "size": "9033232142",
+                    "download": "8885805472"
+                }
+            },
+            "decryptionkey": "699ec561dddceea3ff20c1df94a97cf7dc37fd3d5b3b224af8c05bc20807e465"
+        },
+        "1837582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4483885823498704108",
+                    "size": "206200261",
+                    "download": "85444992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1837583": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5823611485088470187",
+                    "size": "221336061",
+                    "download": "89751520"
+                }
+            },
+            "decryptionkey": "de0727f8183733a7cb27bc3493e629132a0dd2f8d15535e18c22f2428d50209b"
+        },
+        "1837584": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7216047595785482317",
+                    "size": "236505084",
+                    "download": "96202352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14386851",
+                "timeupdated": "1715941736"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
