@@ -1,0 +1,32 @@
+{
+    "appid": "2492330",
+    "type": "Game",
+    "name": "Bronana",
+    "schinese_name": "香蕉兄弟",
+    "isfreeapp": "0",
+    "change_number": "27504014",
+    "update_time": "2025-02-17 00:14:35",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2492331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "120285389688261613",
+                    "size": "233112664",
+                    "download": "175922528"
+                }
+            },
+            "decryptionkey": "74a0b3f60816f0275810f1ddfcd7e0785ffff0355420876a43d30a64cd756a61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17362133",
+                "timeupdated": "1739511179"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
