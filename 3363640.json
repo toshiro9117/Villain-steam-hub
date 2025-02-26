@@ -1,0 +1,30 @@
+{
+    "appid": "3363640",
+    "type": "Game",
+    "name": "Puyo! Sokoban",
+    "schinese_name": "噗哟！推箱子",
+    "isfreeapp": "0",
+    "change_number": "27035527",
+    "update_time": "2025-01-17 10:52:41",
+    "depot": {
+        "3363641": {
+            "manifests": {
+                "public": {
+                    "gid": "7907279319119074289",
+                    "size": "28040751",
+                    "download": "11121184"
+                }
+            },
+            "decryptionkey": "e025e9803e86e0109e9c1765f7512c6344cf4bd2eff5c2f729804686455671f8"
+        },
+        "workshopdepot": "3363640",
+        "branches": {
+            "public": {
+                "buildid": "17433187",
+                "timeupdated": "1740062082"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
