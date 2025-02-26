@@ -1,0 +1,28 @@
+{
+    "appid": "1677310",
+    "type": "Game",
+    "name": "In Stars And Time",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27509542",
+    "update_time": "2025-02-17 12:16:34",
+    "depot": {
+        "1677311": {
+            "manifests": {
+                "public": {
+                    "gid": "6844753075205927627",
+                    "size": "566734678",
+                    "download": "294658864"
+                }
+            },
+            "decryptionkey": "5c168975657d2ce4b6970aabbee571b7c0a4d43d48184092896c8fbbb4bd8d4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14921227",
+                "timeupdated": "1720023424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
