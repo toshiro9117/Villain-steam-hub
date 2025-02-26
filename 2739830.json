@@ -1,0 +1,38 @@
+{
+    "appid": "2739830",
+    "type": "Game",
+    "name": "King Arthur: Legion IX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27496399",
+    "update_time": "2025-02-16 02:14:22",
+    "depot": {
+        "2739831": {
+            "manifests": {
+                "public": {
+                    "gid": "498437669174217271",
+                    "size": "39402587743",
+                    "download": "32898069584"
+                }
+            },
+            "decryptionkey": "e5bb22f9404da6ca0cbbb97b0c42f204e792a64816516db59e4c46158ef95a76"
+        },
+        "2739832": {
+            "manifests": {
+                "public": {
+                    "gid": "4348270673140128178",
+                    "size": "210844654",
+                    "download": "40293792"
+                }
+            },
+            "decryptionkey": "490e05d04eaad11e552d29396b233999dc79f3cd9373a50c2defbd3645e4c195"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14363953",
+                "timeupdated": "1715769335"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
