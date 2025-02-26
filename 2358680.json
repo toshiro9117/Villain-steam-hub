@@ -1,0 +1,41 @@
+{
+    "appid": "2358680",
+    "type": "Demo",
+    "name": "HAELE 3D - Feet Poser Pro - Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23634434",
+    "update_time": "2024-07-16 02:46:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2358681": {
+            "manifests": {
+                "public": {
+                    "gid": "1663150012291607803",
+                    "size": "484292471",
+                    "download": "354212016"
+                }
+            },
+            "decryptionkey": "9920cff668e58bc093ca5b0bedf0c7135e3e765bcd4e1088a5826f4c9893bdee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12893089",
+                "timeupdated": "1701891101"
+            }
+        }
+    }
+}
