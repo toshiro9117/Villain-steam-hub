@@ -1,0 +1,103 @@
+{
+    "appid": "2731300",
+    "type": "Game",
+    "name": "Witch 4 Hotel",
+    "schinese_name": "女巫4·酒店",
+    "isfreeapp": "0",
+    "change_number": "27466523",
+    "update_time": "2025-02-14 03:55:26",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2731301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3675087929670875672",
+                    "size": "4384426491",
+                    "download": "4115814496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3205510": {
+            "dlcappid": "3205510",
+            "manifests": {
+                "public": {
+                    "gid": "1128244103757434485",
+                    "size": "3804641054",
+                    "download": "3713998512"
+                }
+            },
+            "decryptionkey": "5396ab773e862d880084dcdfed8a3d1d57b17160c7cac393ab730f8c59420ba3"
+        },
+        "2731302": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5976076764839560628",
+                    "size": "4586592677",
+                    "download": "4139751248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2731303": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4457492997209538507",
+                    "size": "4586609442",
+                    "download": "4139751248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3407440": {
+            "dlcappid": "3407440",
+            "manifests": {
+                "public": {
+                    "gid": "7439628913016331717",
+                    "size": "405044618",
+                    "download": "395177568"
+                }
+            },
+            "decryptionkey": "fa8394823c723eae10e3f9315d0001421b65fb0bca62ba935aa8adcc69cc6659"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16860043",
+                "timeupdated": "1735296095"
+            }
+        }
+    }
+}
