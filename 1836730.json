@@ -1,0 +1,64 @@
+{
+    "appid": "1836730",
+    "type": "Game",
+    "name": "Echo Point Nova",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27530043",
+    "update_time": "2025-02-18 16:15:37",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1836731": {
+            "manifests": {
+                "public": {
+                    "gid": "8200306891366164144",
+                    "size": "3059893725",
+                    "download": "2832512880"
+                },
+                "decktest": {
+                    "gid": "2906241634807194491",
+                    "size": "3063271620",
+                    "download": "2835799248"
+                },
+                "roguebeta": {
+                    "gid": "3274074654622434168",
+                    "size": "3063570797",
+                    "download": "2835905248"
+                }
+            },
+            "decryptionkey": "3cb8d34f2b9a803179612fabdc6ea345bcbc6486081c8620e8263944ba2d7824"
+        },
+        "workshopdepot": "1836730",
+        "branches": {
+            "public": {
+                "buildid": "17183155",
+                "timeupdated": "1738234337"
+            },
+            "decktest": {
+                "buildid": "17444246",
+                "description": "testing Deck UI",
+                "timeupdated": "1740079098"
+            },
+            "roguebeta": {
+                "buildid": "17463796",
+                "description": "Testing new rogue mode",
+                "timeupdated": "1740193296"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d1559abbe55902780b20e69e97aa8817a6460347770169365920236c76348a1b"
+    }
+}
