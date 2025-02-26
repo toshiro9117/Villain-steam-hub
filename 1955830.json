@@ -1,0 +1,40 @@
+{
+    "appid": "1955830",
+    "type": "Game",
+    "name": "Touhou Hero of Ice Fairy",
+    "schinese_name": "东方冰之勇者记",
+    "isfreeapp": "0",
+    "change_number": "27514186",
+    "update_time": "2025-02-17 19:14:36",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1955831": {
+            "manifests": {
+                "public": {
+                    "gid": "7853870276512995643",
+                    "size": "2764680189",
+                    "download": "2686710448"
+                },
+                "test": {
+                    "gid": "7853870276512995643",
+                    "size": "2764680189",
+                    "download": "2686710448"
+                }
+            },
+            "decryptionkey": "7c520a8442f3537e7006593708adc76ceb19a2a0bdb9ad6a1158ad9d5c570dad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17391990",
+                "timeupdated": "1740372966"
+            },
+            "test": {
+                "buildid": "17391990",
+                "description": "October Update",
+                "timeupdated": "1739790870"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
