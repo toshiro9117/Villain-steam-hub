@@ -1,0 +1,43 @@
+{
+    "appid": "3244220",
+    "type": "Game",
+    "name": "A Game About Digging A Hole",
+    "schinese_name": "掘地求财",
+    "isfreeapp": "0",
+    "change_number": "27537802",
+    "update_time": "2025-02-19 00:15:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3244221": {
+            "manifests": {
+                "public": {
+                    "gid": "3324681923632172269",
+                    "size": "934483340",
+                    "download": "673835488"
+                }
+            },
+            "decryptionkey": "4f1dcf1c8754ebe535efcdce9a662fc39701588510124052947612f1f24a795c"
+        },
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "17390618",
+                "timeupdated": "1739784477"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
