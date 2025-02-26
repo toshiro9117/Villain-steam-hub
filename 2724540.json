@@ -1,0 +1,43 @@
+{
+    "appid": "2724540",
+    "type": "Game",
+    "name": "Cybernetic Seduction - Season 1",
+    "schinese_name": "Cybernetic Seduction - 第一季",
+    "isfreeapp": "0",
+    "change_number": "27106899",
+    "update_time": "2025-01-22 14:28:17",
+    "depot": {
+        "2724541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5360555094064701020",
+                    "size": "5463140419",
+                    "download": "4427405360"
+                }
+            },
+            "decryptionkey": "8bfbe2f498c3ee6cebff6291775682d570d9cdf7baf413ea24710cbc2cdfd1a6"
+        },
+        "2724542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7601254946646334074",
+                    "size": "5462053862",
+                    "download": "4426772256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15831537",
+                "timeupdated": "1727323852"
+            }
+        }
+    }
+}
