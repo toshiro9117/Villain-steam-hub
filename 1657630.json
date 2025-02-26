@@ -1,0 +1,31 @@
+{
+    "appid": "1657630",
+    "type": "Game",
+    "name": "Slime Rancher 2",
+    "schinese_name": "史莱姆牧场2",
+    "isfreeapp": "0",
+    "change_number": "27542743",
+    "update_time": "2025-02-19 05:40:01",
+    "depot": {
+        "1657631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6069982423152242796",
+                    "size": "3282348403",
+                    "download": "2053872896"
+                }
+            },
+            "decryptionkey": "a37c1409dc2c7880fc988d25d9fa333438bab756f17f7d0fc27015c8ef2faed3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17032561",
+                "timeupdated": "1738087429"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
