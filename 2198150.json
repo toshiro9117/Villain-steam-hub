@@ -1,0 +1,99 @@
+{
+    "appid": "2198150",
+    "type": "Game",
+    "name": "Tiny Glade",
+    "schinese_name": "林间小世界",
+    "isfreeapp": "0",
+    "change_number": "27537803",
+    "update_time": "2025-02-19 00:15:48",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,norwegian,swedish,turkish,brazilian,ukrainian",
+        "2198151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7079390824449153980",
+                    "size": "2448520086",
+                    "download": "1340281808"
+                },
+                "beta-1_12_0": {
+                    "gid": "7003309066043444021",
+                    "size": "2448465860",
+                    "download": "1340225872"
+                },
+                "old-1_11_2": {
+                    "gid": "6680652945508120270",
+                    "size": "2444777561",
+                    "download": "1339768672"
+                },
+                "testing": {
+                    "gid": "7079390824449153980",
+                    "size": "2448520086",
+                    "download": "1340281808"
+                }
+            },
+            "decryptionkey": "a64cc2160b07e8fd86f1a2f001987b46e6760e59b3e0ac07915743a4eb695bac"
+        },
+        "2198152": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4334730462854064876",
+                    "size": "2536105605",
+                    "download": "1344933360"
+                },
+                "beta-1_12_0": {
+                    "gid": "5844987923765484836",
+                    "size": "2537598782",
+                    "download": "1344929440"
+                },
+                "old-1_11_2": {
+                    "gid": "2994460045324701164",
+                    "size": "2532855832",
+                    "download": "1344487184"
+                },
+                "testing": {
+                    "gid": "4334730462854064876",
+                    "size": "2536105605",
+                    "download": "1344933360"
+                }
+            },
+            "decryptionkey": "ef668181df894c351bdd06264513360aebd32539049befc1f36deae429957b8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17377887",
+                "timeupdated": "1739630506"
+            },
+            "beta-1_12_0": {
+                "buildid": "17366426",
+                "description": "Controller support PREVIEW",
+                "timeupdated": "1739535792"
+            },
+            "old-1_11_2": {
+                "buildid": "17012194",
+                "description": "Previous build",
+                "timeupdated": "1739630462"
+            },
+            "testing": {
+                "buildid": "17377887",
+                "description": "Pre-release testing (unstable)",
+                "timeupdated": "1739626618"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
