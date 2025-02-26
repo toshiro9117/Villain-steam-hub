@@ -1,0 +1,27 @@
+{
+    "appid": "2518630",
+    "type": "Game",
+    "name": "None Shall Intrude",
+    "schinese_name": "不容进犯",
+    "isfreeapp": "0",
+    "change_number": "27539844",
+    "update_time": "2025-02-19 02:14:51",
+    "depot": {
+        "2518631": {
+            "manifests": {
+                "public": {
+                    "gid": "751330057466283708",
+                    "size": "4043922094",
+                    "download": "3294236960"
+                }
+            },
+            "decryptionkey": "68a9f666ac92ff0487c6382f0c4b1b0cb344b44c790e268c9cd8b2a4867177dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17350400",
+                "timeupdated": "1739444061"
+            }
+        }
+    }
+}
