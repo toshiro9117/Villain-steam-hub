@@ -4,8 +4,8 @@
     "name": "Low Magic Age",
     "schinese_name": "低魔时代",
     "isfreeapp": "0",
-    "change_number": "27263985",
-    "update_time": "2025-02-01 09:29:42",
+    "change_number": "27728715",
+    "update_time": "2025-03-01 10:01:42",
     "depot": {
         "228985": {
             "config": {
@@ -24,9 +24,9 @@
         "576771": {
             "manifests": {
                 "public": {
-                    "gid": "3465743847900087685",
-                    "size": "271989933",
-                    "download": "200135824"
+                    "gid": "8235903342163321579",
+                    "size": "272047445",
+                    "download": "200159600"
                 },
                 "0.90.11": {
                     "gid": "2131522076516396352",
@@ -69,8 +69,8 @@
         "workshopdepot": "576770",
         "branches": {
             "public": {
-                "buildid": "17206569",
-                "timeupdated": "1738373377"
+                "buildid": "17555054",
+                "timeupdated": "1740794495"
             },
             "0.90.11": {
                 "buildid": "3252537",
