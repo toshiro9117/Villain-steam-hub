@@ -4,8 +4,8 @@
     "name": "Pixel Game Engine",
     "schinese_name": "像素游戏引擎",
     "isfreeapp": "0",
-    "change_number": "27168727",
-    "update_time": "2025-01-26 11:12:58",
+    "change_number": "27711847",
+    "update_time": "2025-02-28 16:44:33",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,swedish,arabic",
         "2109341": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3232904943680513163",
-                    "size": "717345157",
-                    "download": "668427968"
+                    "gid": "1058127103720609229",
+                    "size": "723693531",
+                    "download": "674686064"
                 }
             },
             "decryptionkey": "aacc45fc5857358445ba12066bd74d2cc28c9a31e23a82b9c69a492f3ca5adbe"
         },
         "branches": {
             "public": {
-                "buildid": "17134114",
-                "timeupdated": "1737861174"
+                "buildid": "17542661",
+                "timeupdated": "1740725682"
             }
         }
     }
