@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Rogue Trader",
     "schinese_name": "战锤40K：行商浪人",
     "isfreeapp": "0",
-    "change_number": "27536338",
-    "update_time": "2025-02-18 22:50:39",
+    "change_number": "27721075",
+    "update_time": "2025-03-01 00:22:27",
     "depot": {
         "workshopdepot": "2186680",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5881841906621384795",
-                    "size": "37898075309",
-                    "download": "27303836864"
+                    "gid": "394607770213404363",
+                    "size": "37898003186",
+                    "download": "27303882800"
                 }
             },
             "decryptionkey": "28fb2e6880c18c5a8f226e85577726ff170ba4d056a169247856dc1ad15c45a9"
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17391740",
-                "timeupdated": "1739789294"
+                "buildid": "17498427",
+                "timeupdated": "1740481390"
             }
         },
         "privatebranches": "1",
