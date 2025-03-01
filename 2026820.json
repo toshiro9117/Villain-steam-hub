@@ -1,0 +1,55 @@
+{
+    "appid": "2026820",
+    "type": "Game",
+    "name": "Die in the Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27695851",
+    "update_time": "2025-02-28 12:59:16",
+    "depot": {
+        "2026821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4739194015943802017",
+                    "size": "637329297",
+                    "download": "136764512"
+                }
+            },
+            "decryptionkey": "891341488c8e6e96d7c8551a5d56799ea66ea333322887007d3b892cd866d249"
+        },
+        "2026822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2917516113715197537",
+                    "size": "706983004",
+                    "download": "153376112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3450700": {
+            "dlcappid": "3450700",
+            "manifests": {
+                "public": {
+                    "gid": "4511172551054146965",
+                    "size": "727890016",
+                    "download": "676259376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17516282",
+                "timeupdated": "1740586298"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
