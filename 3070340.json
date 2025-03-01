@@ -4,23 +4,23 @@
     "name": "Escape From Clive",
     "schinese_name": "逃离克里夫",
     "isfreeapp": "0",
-    "change_number": "26910507",
-    "update_time": "2025-01-09 00:19:55",
+    "change_number": "27711750",
+    "update_time": "2025-02-28 16:44:00",
     "depot": {
         "3070341": {
             "manifests": {
                 "public": {
-                    "gid": "3212169490409999237",
-                    "size": "3096003811",
-                    "download": "882872304"
+                    "gid": "7290821715969805067",
+                    "size": "2024358787",
+                    "download": "611970640"
                 }
             },
             "decryptionkey": "d83aeb12a136b90744f0e9f9e18425dda2a5c8501f32899f74daf5dc3d4ee5eb"
         },
         "branches": {
             "public": {
-                "buildid": "16941467",
-                "timeupdated": "1736353179"
+                "buildid": "17542568",
+                "timeupdated": "1740725191"
             }
         }
     }
