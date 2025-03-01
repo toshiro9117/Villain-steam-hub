@@ -1,11 +1,11 @@
 {
     "appid": "271590",
     "type": "Game",
-    "name": "Grand Theft Auto V",
-    "schinese_name": "侠盗猎车手5",
+    "name": "Grand Theft Auto V Legacy",
+    "schinese_name": "Grand Theft Auto V 传承版",
     "isfreeapp": "0",
-    "change_number": "27542660",
-    "update_time": "2025-02-19 05:31:53",
+    "change_number": "27725242",
+    "update_time": "2025-03-01 04:35:30",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -79,9 +79,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3602175371596669143",
-                    "size": "225713420",
-                    "download": "182514384"
+                    "gid": "6920980794360204616",
+                    "size": "228262668",
+                    "download": "184801072"
                 }
             },
             "depotfromapp": "1899670",
