@@ -4,8 +4,8 @@
     "name": "NEBULOUS: Fleet Command",
     "schinese_name": "星云：战舰指挥官 NEBULOUS: Fleet Command",
     "isfreeapp": "0",
-    "change_number": "27527249",
-    "update_time": "2025-02-18 11:32:32",
+    "change_number": "27725839",
+    "update_time": "2025-03-01 05:22:52",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7065708878699566938",
-                    "size": "2513281173",
-                    "download": "1973736800"
+                    "gid": "1839419886481665076",
+                    "size": "2513280767",
+                    "download": "1973736672"
                 },
                 "conquest-unfinished-build": {
                     "gid": "2224373734496984127",
@@ -30,9 +30,9 @@
                     "download": "1880676448"
                 },
                 "testing": {
-                    "gid": "5084405974633966751",
-                    "size": "2513281591",
-                    "download": "1973738976"
+                    "gid": "1839419886481665076",
+                    "size": "2513280767",
+                    "download": "1973736672"
                 }
             },
             "decryptionkey": "75252a8e668a49c99a8f56a9b77550209a9965e9a93b26c882c9706b973f5054"
@@ -40,8 +40,8 @@
         "workshopdepot": "887570",
         "branches": {
             "public": {
-                "buildid": "17401376",
-                "timeupdated": "1739849547"
+                "buildid": "17503662",
+                "timeupdated": "1740508951"
             },
             "conquest-unfinished-build": {
                 "buildid": "14802179",
@@ -49,9 +49,9 @@
                 "timeupdated": "1719034534"
             },
             "testing": {
-                "buildid": "17475485",
+                "buildid": "17503662",
                 "description": "For test builds only",
-                "timeupdated": "1740338476"
+                "timeupdated": "1740506871"
             }
         },
         "privatebranches": "1",
