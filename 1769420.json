@@ -4,8 +4,8 @@
     "name": "Noble Fates",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27543047",
-    "update_time": "2025-02-19 06:04:07",
+    "change_number": "27723809",
+    "update_time": "2025-03-01 02:57:13",
     "depot": {
         "1769421": {
             "manifests": {
@@ -80,14 +80,14 @@
                     "download": "515898208"
                 },
                 "experimental": {
-                    "gid": "3872852275796288776",
-                    "size": "1143802223",
-                    "download": "516048304"
+                    "gid": "3430630888956893319",
+                    "size": "1145396662",
+                    "download": "517504688"
                 },
                 "experimental_development": {
-                    "gid": "7941327010279285444",
-                    "size": "1175063798",
-                    "download": "522972752"
+                    "gid": "1983247390816917140",
+                    "size": "1176662953",
+                    "download": "524425568"
                 }
             },
             "decryptionkey": "40032980f886ca48cbe7393f3c1214d5bd9c49322e47ae8c9d124ed0b38dd7be"
@@ -164,14 +164,14 @@
                 "timeupdated": "1733351215"
             },
             "experimental": {
-                "buildid": "17470436",
+                "buildid": "17551674",
                 "description": "Experimental - Try out the next update",
-                "timeupdated": "1740271341"
+                "timeupdated": "1740769029"
             },
             "experimental_development": {
-                "buildid": "17470412",
+                "buildid": "17551378",
                 "description": "Experimental Development - Mod Development, Unstable",
-                "timeupdated": "1740271016"
+                "timeupdated": "1740767842"
             }
         },
         "privatebranches": "1",
