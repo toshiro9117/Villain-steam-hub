@@ -4,8 +4,8 @@
     "name": "Echoes of Elysium Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27533906",
-    "update_time": "2025-02-18 20:23:01",
+    "change_number": "27726007",
+    "update_time": "2025-03-01 05:35:12",
     "depot": {
         "1004": {
             "config": {
@@ -62,9 +62,9 @@
                     "download": "605600"
                 },
                 "internal": {
-                    "gid": "6019365083272764999",
-                    "size": "1403257556",
-                    "download": "396167056"
+                    "gid": "2602317754660353346",
+                    "size": "1404969037",
+                    "download": "396585168"
                 },
                 "v0.6.0": {
                     "gid": "175875687661122607",
@@ -91,9 +91,9 @@
                 "timeupdated": "1712765583"
             },
             "internal": {
-                "buildid": "17438869",
+                "buildid": "17553257",
                 "description": "Internal Build",
-                "timeupdated": "1740054215"
+                "timeupdated": "1740778508"
             },
             "v0.6.0": {
                 "buildid": "17002466",
