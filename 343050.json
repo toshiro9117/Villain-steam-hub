@@ -4,8 +4,8 @@
     "name": "Don't Starve Together Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27533626",
-    "update_time": "2025-02-18 20:05:22",
+    "change_number": "27716551",
+    "update_time": "2025-02-28 20:00:03",
     "depot": {
         "1004": {
             "config": {
@@ -69,9 +69,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "363804643771822992",
-                    "size": "3920364681",
-                    "download": "2720926816"
+                    "gid": "2097455227931866378",
+                    "size": "4064035380",
+                    "download": "2810420816"
                 },
                 "beforemacoschanges": {
                     "gid": "4534454870854554447",
@@ -79,9 +79,9 @@
                     "download": "2380486432"
                 },
                 "updatebeta": {
-                    "gid": "3090748299121927000",
-                    "size": "4025251505",
-                    "download": "2788068176"
+                    "gid": "8209280916116020246",
+                    "size": "4026745477",
+                    "download": "2789155616"
                 }
             },
             "decryptionkey": "2c52e5002a767247ff7bb75add632763dc0afe52acc5769f5d5eb6209544b7f8"
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3429261826777429470",
-                    "size": "3825753669",
-                    "download": "2615390928"
+                    "gid": "3193822168442097123",
+                    "size": "3979195657",
+                    "download": "2707886848"
                 },
                 "beforemacoschanges": {
                     "gid": "4555268090536644559",
@@ -102,9 +102,9 @@
                     "download": "2274945136"
                 },
                 "updatebeta": {
-                    "gid": "6199612709419100847",
-                    "size": "3940412354",
-                    "download": "2685526352"
+                    "gid": "8024403350440060055",
+                    "size": "3941906293",
+                    "download": "2686629200"
                 }
             },
             "decryptionkey": "fcec5bd16dfbc7de765d0a1a7af7e175878d153d572012b3381b9b9cfcff3476"
@@ -115,9 +115,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1097013934988538141",
-                    "size": "3744721188",
-                    "download": "2594554768"
+                    "gid": "2911870977112421252",
+                    "size": "3884517157",
+                    "download": "2683132368"
                 },
                 "beforemacoschanges": {
                     "gid": "2845679795893720385",
@@ -125,17 +125,17 @@
                     "download": "2257541728"
                 },
                 "updatebeta": {
-                    "gid": "7486038212672709015",
-                    "size": "3845720198",
-                    "download": "2660764416"
+                    "gid": "7788586192910354087",
+                    "size": "3847214291",
+                    "download": "2661870688"
                 }
             },
             "decryptionkey": "4af842c155c770e5b6ac26a64aa4869f7515d7c6ffa0b812e3798290d3b17c0e"
         },
         "branches": {
             "public": {
-                "buildid": "17330271",
-                "timeupdated": "1739383408"
+                "buildid": "17538929",
+                "timeupdated": "1740703205"
             },
             "beforemacoschanges": {
                 "buildid": "12576213",
@@ -143,9 +143,9 @@
                 "timeupdated": "1698883395"
             },
             "updatebeta": {
-                "buildid": "17447514",
+                "buildid": "17523436",
                 "description": "Public Beta",
-                "timeupdated": "1740101479"
+                "timeupdated": "1740620277"
             }
         },
         "privatebranches": "1"
