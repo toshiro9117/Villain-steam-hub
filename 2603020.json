@@ -4,8 +4,8 @@
     "name": "Citadelum",
     "schinese_name": "万神之城 Citadelum",
     "isfreeapp": "0",
-    "change_number": "27436584",
-    "update_time": "2025-02-12 17:50:30",
+    "change_number": "27729970",
+    "update_time": "2025-03-01 13:00:02",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2603021": {
             "manifests": {
                 "public": {
-                    "gid": "8340371719809113761",
-                    "size": "6365021143",
-                    "download": "2056405872"
+                    "gid": "8555550255609979621",
+                    "size": "6574547480",
+                    "download": "2091168256"
                 }
             },
             "decryptionkey": "7524dec83e20cc12831a547d7fec9d1b84f8541f334acf468d7e044f132d6e09"
@@ -34,8 +34,8 @@
         "workshopdepot": "2603020",
         "branches": {
             "public": {
-                "buildid": "16692841",
-                "timeupdated": "1734446869"
+                "buildid": "17305684",
+                "timeupdated": "1740739214"
             }
         },
         "privatebranches": "1",
