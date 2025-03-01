@@ -1,11 +1,11 @@
 {
     "appid": "2959620",
     "type": "Demo",
-    "name": "Unyielder Demo",
+    "name": "UNYIELDER: PROLOGUE DEMO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27515343",
-    "update_time": "2025-02-17 20:31:29",
+    "change_number": "27729863",
+    "update_time": "2025-03-01 12:44:50",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2959621": {
             "manifests": {
                 "public": {
-                    "gid": "6597614602077428464",
-                    "size": "11403482073",
-                    "download": "11280003392"
+                    "gid": "105449894453251427",
+                    "size": "7532866171",
+                    "download": "6849924976"
                 }
             },
             "decryptionkey": "027ee09e6b463550f397955c7f4390100a34f67ec458fd9ea06f0ee53331cc61"
         },
         "branches": {
             "public": {
-                "buildid": "17455493",
-                "timeupdated": "1740149170"
+                "buildid": "17504569",
+                "timeupdated": "1740574318"
             }
         },
         "privatebranches": "1"
