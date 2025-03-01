@@ -4,9 +4,10 @@
     "name": "Empires of the Undergrowth",
     "schinese_name": "地下蚁国 Empires of the Undergrowth",
     "isfreeapp": "0",
-    "change_number": "27468197",
-    "update_time": "2025-02-14 06:03:03",
+    "change_number": "27724662",
+    "update_time": "2025-03-01 03:53:02",
     "depot": {
+        "baselanguages": "english",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -77,7 +78,10 @@
             },
             "decryptionkey": ""
         },
-        "baselanguages": "english",
+        "3402630": {
+            "dlcappid": "3402630",
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "16828767",
