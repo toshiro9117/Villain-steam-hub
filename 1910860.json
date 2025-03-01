@@ -4,8 +4,8 @@
     "name": "Grimlord",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27130056",
-    "update_time": "2025-01-23 20:15:34",
+    "change_number": "27715856",
+    "update_time": "2025-02-28 19:19:13",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4406723738945262231",
-                    "size": "21739013673",
-                    "download": "21339193536"
+                    "gid": "308303092155783801",
+                    "size": "21740117795",
+                    "download": "21343036336"
                 },
                 "grimlord_beta": {
                     "gid": "2037026729020961243",
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17456903",
-                "timeupdated": "1740154108"
+                "buildid": "17545588",
+                "timeupdated": "1740741549"
             },
             "grimlord_beta": {
                 "buildid": "17104845",
