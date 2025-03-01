@@ -4,8 +4,8 @@
     "name": "Recharge Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27526692",
-    "update_time": "2025-02-18 10:35:31",
+    "change_number": "27730252",
+    "update_time": "2025-03-01 13:46:41",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3447591": {
             "manifests": {
                 "public": {
-                    "gid": "3414915999266561810",
-                    "size": "6022138487",
-                    "download": "4872501936"
+                    "gid": "1264205897413192698",
+                    "size": "6357647618",
+                    "download": "5207934784"
                 }
             },
             "decryptionkey": "ee32f648efea6c39c0b7bf2b464b066f47e12cd04ecff83403c4a3bd76a56797"
@@ -34,8 +34,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17468426",
-                "timeupdated": "1740246894"
+                "buildid": "17556561",
+                "timeupdated": "1740806775"
             }
         },
         "privatebranches": "1"
