@@ -4,8 +4,8 @@
     "name": "Meme Mayhem",
     "schinese_name": "超级键盘侠",
     "isfreeapp": "0",
-    "change_number": "27540891",
-    "update_time": "2025-02-19 03:20:59",
+    "change_number": "27729467",
+    "update_time": "2025-03-01 11:42:59",
     "depot": {
         "2719031": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2950049987547386454",
-                    "size": "340625971",
-                    "download": "147348592"
+                    "gid": "8274907493560691391",
+                    "size": "337359366",
+                    "download": "148082688"
                 }
             },
             "decryptionkey": "1f950d77bd89fc305dd52b04e86601519a05bc655a1f5015277443b3c7e52636"
@@ -25,8 +25,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "17330735",
-                "timeupdated": "1739333260"
+                "buildid": "17519062",
+                "timeupdated": "1740604369"
             }
         },
         "privatebranches": "1",
