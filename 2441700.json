@@ -4,8 +4,8 @@
     "name": "UNDERDOGS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27543220",
-    "update_time": "2025-02-19 06:17:02",
+    "change_number": "27730098",
+    "update_time": "2025-03-01 13:23:09",
     "depot": {
         "2441701": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "2191743359808459980",
+                    "size": "2390982734",
+                    "download": "1618037824"
+                },
+                "laststable": {
                     "gid": "8622157913986101557",
                     "size": "2390999581",
                     "download": "1617934896"
-                },
-                "laststable": {
-                    "gid": "9676397173486883",
-                    "size": "2387624071",
-                    "download": "1616610816"
                 },
                 "sandboxxer": {
                     "gid": "5708719601418505649",
@@ -33,13 +33,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17434396",
-                "timeupdated": "1740075753"
+                "buildid": "17502932",
+                "timeupdated": "1740649019"
             },
             "laststable": {
-                "buildid": "17120275",
+                "buildid": "17434396",
                 "description": "Last stable build",
-                "timeupdated": "1740075718"
+                "timeupdated": "1740648982"
             },
             "sandboxxer": {
                 "buildid": "15511445",
