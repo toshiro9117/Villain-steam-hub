@@ -4,8 +4,8 @@
     "name": "Plan B: Terraform",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27041733",
-    "update_time": "2025-01-17 19:52:43",
+    "change_number": "27722413",
+    "update_time": "2025-03-01 01:34:13",
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "431940832"
                 },
                 "beta": {
-                    "gid": "1104052044742710988",
-                    "size": "901298528",
-                    "download": "442256192"
+                    "gid": "4093860592714360478",
+                    "size": "901428974",
+                    "download": "442282528"
                 },
                 "safe": {
                     "gid": "292069836472568639",
@@ -59,9 +59,9 @@
                 "timeupdated": "1727173460"
             },
             "beta": {
-                "buildid": "17458848",
+                "buildid": "17550712",
                 "description": "beta branch",
-                "timeupdated": "1740159640"
+                "timeupdated": "1740764049"
             },
             "safe": {
                 "buildid": "15806816",
