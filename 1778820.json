@@ -4,8 +4,8 @@
     "name": "TEKKEN 8",
     "schinese_name": "铁拳8",
     "isfreeapp": "0",
-    "change_number": "27540613",
-    "update_time": "2025-02-19 03:02:14",
+    "change_number": "27729170",
+    "update_time": "2025-03-01 11:00:14",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -74,6 +74,10 @@
                 }
             },
             "decryptionkey": "8587b0c4c63e914df99aedf5179181d680a74c88324d4e86a80cb08baff28efb"
+        },
+        "3564550": {
+            "dlcappid": "3564550",
+            "manifests": {}
         },
         "branches": {
             "public": {
