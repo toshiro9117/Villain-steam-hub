@@ -4,8 +4,8 @@
     "name": "Avowed",
     "schinese_name": "宣誓",
     "isfreeapp": "0",
-    "change_number": "27539623",
-    "update_time": "2025-02-19 02:01:36",
+    "change_number": "27731565",
+    "update_time": "2025-03-01 17:23:13",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7588706190852188326",
-                    "size": "76699340605",
-                    "download": "73129073744"
+                    "gid": "5138952774298047312",
+                    "size": "76696822550",
+                    "download": "73125629200"
                 }
             },
             "decryptionkey": "b40bcd07f6b9e45f12bcdbec383ea1bc0957e15e51c2963f60f779ab7330d1a0"
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17432078",
-                "timeupdated": "1740160796"
+                "buildid": "17507453",
+                "timeupdated": "1740679082"
             }
         },
         "privatebranches": "1"
