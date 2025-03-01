@@ -1,0 +1,61 @@
+{
+    "appid": "2498570",
+    "type": "Game",
+    "name": "Canvas of Kings",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27716953",
+    "update_time": "2025-02-28 20:22:31",
+    "depot": {
+        "2498571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4196932461559669757",
+                    "size": "2147418536",
+                    "download": "153091952"
+                }
+            },
+            "decryptionkey": "b95d7418891b98794ab983f736cc64f95fec58eba0df86b971cfc802bce7721b"
+        },
+        "2498572": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "24963489308655148",
+                    "size": "1938435504",
+                    "download": "123661120"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2498573": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5577560314639460905",
+                    "size": "2037644456",
+                    "download": "114374288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2498570",
+        "branches": {
+            "public": {
+                "buildid": "17475436",
+                "timeupdated": "1740337960"
+            }
+        },
+        "workshopdepotdecryptionkey": "823a90df24af34f068be6d768db0de185d61e5b6dd4c86c81f6db2ca2377952a"
+    }
+}
