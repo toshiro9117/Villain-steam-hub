@@ -4,9 +4,10 @@
     "name": "Only Climb: Better Together",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540881",
-    "update_time": "2025-02-19 03:20:21",
+    "change_number": "27727414",
+    "update_time": "2025-03-01 07:46:51",
     "depot": {
+        "baselanguages": "english",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -41,7 +42,15 @@
             },
             "decryptionkey": "c82e047e2c2bbce9406fdf9320df389fec982147d49a445fbc8be31f10217ceb"
         },
-        "baselanguages": "english",
+        "2542540": {
+            "dlcappid": "2542540",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            }
+        },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "14956799",
