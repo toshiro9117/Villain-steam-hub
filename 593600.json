@@ -4,8 +4,8 @@
     "name": "PixARK",
     "schinese_name": "方块方舟（PixARK）",
     "isfreeapp": "0",
-    "change_number": "27455072",
-    "update_time": "2025-02-13 16:28:35",
+    "change_number": "27715502",
+    "update_time": "2025-02-28 18:54:48",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,swedish,turkish,brazilian",
         "workshopdepot": "593600",
@@ -61,9 +61,9 @@
         "593601": {
             "manifests": {
                 "public": {
-                    "gid": "5447231959641374975",
-                    "size": "19518051456",
-                    "download": "2802443168"
+                    "gid": "9067590102268638781",
+                    "size": "19518226182",
+                    "download": "2802609984"
                 }
             },
             "decryptionkey": "30052f6dbd5c875ccf3833ebf47a3fec63df141df7fd13a36af93eeb3a2e28e2"
@@ -71,9 +71,9 @@
         "883840": {
             "manifests": {
                 "public": {
-                    "gid": "1726857671725768522",
-                    "size": "19917426089",
-                    "download": "2842873328"
+                    "gid": "6030363948906843122",
+                    "size": "19917596239",
+                    "download": "2843048736"
                 }
             },
             "dlcappid": "883840",
@@ -81,8 +81,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17332082",
-                "timeupdated": "1739435311"
+                "buildid": "17542232",
+                "timeupdated": "1740740083"
             }
         },
         "privatebranches": "1",
