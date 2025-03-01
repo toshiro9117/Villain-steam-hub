@@ -4,8 +4,8 @@
     "name": "ASTRONEER",
     "schinese_name": "异星探险家",
     "isfreeapp": "0",
-    "change_number": "27541691",
-    "update_time": "2025-02-19 04:15:45",
+    "change_number": "27732096",
+    "update_time": "2025-03-01 18:46:19",
     "depot": {
         "228986": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7986929111716228622",
-                    "size": "3044500356",
-                    "download": "2917851440"
+                    "gid": "5007636700454023326",
+                    "size": "3051845816",
+                    "download": "2925284928"
                 },
                 "astro_1_14_dx10": {
                     "gid": "3708448730461505702",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16778122",
-                "timeupdated": "1734471537"
+                "buildid": "17343179",
+                "timeupdated": "1740600745"
             },
             "astro_1_14_dx10": {
                 "buildid": "5429613",
