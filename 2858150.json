@@ -4,8 +4,8 @@
     "name": "Airships: Lost Flotilla",
     "schinese_name": "失落舰队",
     "isfreeapp": "0",
-    "change_number": "27543045",
-    "update_time": "2025-02-19 06:03:45",
+    "change_number": "27719819",
+    "update_time": "2025-02-28 23:13:27",
     "depot": {
         "2858151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3074597638957282550",
-                    "size": "824584586",
-                    "download": "255056576"
+                    "gid": "1953825748387316554",
+                    "size": "824340472",
+                    "download": "254995856"
                 },
                 "demo": {
                     "gid": "5295220605388472202",
@@ -23,14 +23,9 @@
                     "download": "171054736"
                 },
                 "donotuse": {
-                    "gid": "3686325814995022724",
-                    "size": "824338146",
-                    "download": "254995024"
-                },
-                "modding-beta": {
-                    "gid": "3686325814995022724",
-                    "size": "824338146",
-                    "download": "254995024"
+                    "gid": "1953825748387316554",
+                    "size": "824340472",
+                    "download": "254995856"
                 },
                 "test": {
                     "gid": "3074597638957282550",
@@ -46,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3621256096229094230",
-                    "size": "824850584",
-                    "download": "254457984"
+                    "gid": "2293141630029650568",
+                    "size": "824596750",
+                    "download": "254395152"
                 },
                 "demo": {
                     "gid": "1392310005245266990",
@@ -56,14 +51,9 @@
                     "download": "170459616"
                 },
                 "donotuse": {
-                    "gid": "2479811317562361519",
-                    "size": "824594420",
-                    "download": "254394256"
-                },
-                "modding-beta": {
-                    "gid": "2479811317562361519",
-                    "size": "824594420",
-                    "download": "254394256"
+                    "gid": "2293141630029650568",
+                    "size": "824596750",
+                    "download": "254395152"
                 },
                 "test": {
                     "gid": "3621256096229094230",
@@ -76,8 +66,8 @@
         "workshopdepot": "2858150",
         "branches": {
             "public": {
-                "buildid": "17376556",
-                "timeupdated": "1739643080"
+                "buildid": "17548188",
+                "timeupdated": "1740755435"
             },
             "demo": {
                 "buildid": "16421199",
@@ -85,14 +75,9 @@
                 "timeupdated": "1737818845"
             },
             "donotuse": {
-                "buildid": "17421815",
+                "buildid": "17548188",
                 "description": "Dead dove do not execute",
-                "timeupdated": "1739964883"
-            },
-            "modding-beta": {
-                "buildid": "17421815",
-                "description": "Beta version of modding support",
-                "timeupdated": "1739968779"
+                "timeupdated": "1740752642"
             },
             "test": {
                 "buildid": "17376556",
