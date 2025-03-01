@@ -4,8 +4,8 @@
     "name": "Garry's Mod Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540408",
-    "update_time": "2025-02-19 02:52:26",
+    "change_number": "27727672",
+    "update_time": "2025-03-01 08:09:34",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "2175306960"
                 },
                 "dev": {
-                    "gid": "6390441411026311497",
-                    "size": "3790739475",
-                    "download": "2171367536"
+                    "gid": "5579029082388909420",
+                    "size": "3792366686",
+                    "download": "2171769616"
                 },
                 "prerelease": {
                     "gid": "7875986024096193408",
@@ -70,9 +70,9 @@
                     "download": "2175306960"
                 },
                 "x86-64": {
-                    "gid": "3184876185247660883",
-                    "size": "3789981845",
-                    "download": "2171427568"
+                    "gid": "4701355220470859158",
+                    "size": "3790174607",
+                    "download": "2171499280"
                 }
             },
             "decryptionkey": "16d05ffea072743595f0264ffa4debedeae6ff79d199986fdae9c7231aa8fbc3"
@@ -89,9 +89,9 @@
                     "download": "20451408"
                 },
                 "dev": {
-                    "gid": "2071664919857467324",
-                    "size": "58713376",
-                    "download": "20512992"
+                    "gid": "4406719080376891025",
+                    "size": "58752288",
+                    "download": "20508496"
                 },
                 "prerelease": {
                     "gid": "8547922790199332392",
@@ -99,9 +99,9 @@
                     "download": "20451408"
                 },
                 "x86-64": {
-                    "gid": "5405350870764161159",
-                    "size": "442637009",
-                    "download": "152357088"
+                    "gid": "3146047798349581448",
+                    "size": "442696913",
+                    "download": "152376768"
                 }
             },
             "decryptionkey": "c107efebc279afee4ff826ad0696947deab9b98bbf6621645cbdcecace01d9e0"
@@ -118,9 +118,9 @@
                     "download": "33547488"
                 },
                 "dev": {
-                    "gid": "4148973510267461651",
-                    "size": "120175515",
-                    "download": "33591888"
+                    "gid": "916009734571942179",
+                    "size": "120246757",
+                    "download": "33605664"
                 },
                 "prerelease": {
                     "gid": "6222789010703016116",
@@ -128,9 +128,9 @@
                     "download": "33547488"
                 },
                 "x86-64": {
-                    "gid": "6690801719988636283",
-                    "size": "227757647",
-                    "download": "65991296"
+                    "gid": "8488988681244758954",
+                    "size": "227863759",
+                    "download": "65982944"
                 }
             },
             "decryptionkey": ""
@@ -142,9 +142,9 @@
                 "timeupdated": "1733760316"
             },
             "dev": {
-                "buildid": "17442352",
+                "buildid": "17547519",
                 "description": "Development Branch",
-                "timeupdated": "1740069371"
+                "timeupdated": "1740749586"
             },
             "prerelease": {
                 "buildid": "16682005",
@@ -152,9 +152,9 @@
                 "timeupdated": "1733757433"
             },
             "x86-64": {
-                "buildid": "17462000",
+                "buildid": "17554589",
                 "description": "Testing 64-bit builds",
-                "timeupdated": "1740178667"
+                "timeupdated": "1740787771"
             }
         },
         "workshopdepotdecryptionkey": ""
