@@ -4,8 +4,8 @@
     "name": "Enshrouded Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27535925",
-    "update_time": "2025-02-18 22:23:51",
+    "change_number": "27718226",
+    "update_time": "2025-02-28 21:42:20",
     "depot": {
         "1004": {
             "config": {
@@ -62,17 +62,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8195459358239779733",
-                    "size": "5617424572",
-                    "download": "1618899728"
+                    "gid": "1540500871521327787",
+                    "size": "5617425596",
+                    "download": "1618901040"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17335321",
-                "timeupdated": "1739440842"
+                "buildid": "17528347",
+                "timeupdated": "1740660819"
             }
         },
         "privatebranches": "1"
