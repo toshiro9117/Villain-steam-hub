@@ -4,8 +4,8 @@
     "name": "Darkest Dungeon®",
     "schinese_name": "暗黑地牢",
     "isfreeapp": "0",
-    "change_number": "27541949",
-    "update_time": "2025-02-19 04:35:19",
+    "change_number": "27721074",
+    "update_time": "2025-03-01 00:22:45",
     "depot": {
         "228985": {
             "config": {
@@ -38,9 +38,9 @@
                     "download": "1612845888"
                 },
                 "coming_in_hot": {
-                    "gid": "6842308595278070218",
-                    "size": "2258491513",
-                    "download": "1613050624"
+                    "gid": "4634735682857893604",
+                    "size": "2258491389",
+                    "download": "1613048704"
                 }
             },
             "decryptionkey": "80ffcb74d1590f74ea3d6bf442f54d2a0d21327bae63d6e0cfdad768c7c7b7c2"
@@ -57,9 +57,9 @@
                     "download": "18491184"
                 },
                 "coming_in_hot": {
-                    "gid": "3897521684529718447",
-                    "size": "133381520",
-                    "download": "25934848"
+                    "gid": "4807124680430705926",
+                    "size": "122659768",
+                    "download": "24978832"
                 }
             },
             "decryptionkey": "c573ff0fbec6f00c8ff86aafc2085945c6a0b934b6396b0c135574e1326f7470"
@@ -76,9 +76,9 @@
                     "download": "21159840"
                 },
                 "coming_in_hot": {
-                    "gid": "745786012896253624",
-                    "size": "166250155",
-                    "download": "21159840"
+                    "gid": "4956340326465624000",
+                    "size": "173027067",
+                    "download": "19166400"
                 }
             },
             "decryptionkey": "29e00db53e36359014c7975e1991156a35c28410f92643c66fcab5a98239f741"
@@ -95,9 +95,9 @@
                     "download": "1612789712"
                 },
                 "coming_in_hot": {
-                    "gid": "3070764910115374949",
-                    "size": "2257137012",
-                    "download": "1612789712"
+                    "gid": "6214394805377118670",
+                    "size": "2267200426",
+                    "download": "1618521376"
                 }
             },
             "decryptionkey": "2658baced519789ef83fa5c378667f2d6fa3e62c1c1901b3bc5d357cee4ecb78"
@@ -114,9 +114,9 @@
                     "download": "34755904"
                 },
                 "coming_in_hot": {
-                    "gid": "5367126151802721517",
-                    "size": "196102366",
-                    "download": "34755904"
+                    "gid": "6707655112816120085",
+                    "size": "176287828",
+                    "download": "29898912"
                 }
             },
             "decryptionkey": "1ed93be3fc9b6d8911781b16ee38ea20b01a601089cc8ea554a0acb19ef80a1e"
@@ -133,9 +133,9 @@
                     "download": "1612983424"
                 },
                 "coming_in_hot": {
-                    "gid": "6507332537529280139",
-                    "size": "2258472691",
-                    "download": "1612983424"
+                    "gid": "2780779887000175382",
+                    "size": "2258491389",
+                    "download": "1612984208"
                 }
             },
             "decryptionkey": "5ac9e3783153c138b4fbe2ca2fad3c3fde61883c56b8a4a6945fd186c3503e1c"
@@ -446,9 +446,9 @@
                 "timeupdated": "1665073496"
             },
             "coming_in_hot": {
-                "buildid": "17338441",
+                "buildid": "17517129",
                 "description": "Pre public release branch",
-                "timeupdated": "1739992892"
+                "timeupdated": "1740593849"
             }
         },
         "privatebranches": "1",
