@@ -4,8 +4,8 @@
     "name": "The Classrooms Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27543555",
-    "update_time": "2025-02-19 06:43:08",
+    "change_number": "27725107",
+    "update_time": "2025-03-01 04:24:15",
     "depot": {
         "hasdepotsindlc": "0",
         "2099111": {
@@ -20,8 +20,7 @@
                     "download": "4308015008"
                 }
             },
-            "depotfromapp": "2099110",
-            "decryptionkey": "f72beb8416791f32f5214aeca544d8e2b30321b3310de239f9ae824182d2a5a7"
+            "depotfromapp": "2099110"
         },
         "2174051": {
             "config": {
@@ -34,8 +33,7 @@
                     "size": "4375762690",
                     "download": "2094845632"
                 }
-            },
-            "decryptionkey": "e50a3f9eb9b8c25bcb18b10cd90d661a91a9486aa2a8ffdabdc739eb2d9a72e9"
+            }
         },
         "branches": {
             "public": {
