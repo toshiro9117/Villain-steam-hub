@@ -4,8 +4,8 @@
     "name": "Hero of the Kingdom",
     "schinese_name": "王国英雄",
     "isfreeapp": "0",
-    "change_number": "27344930",
-    "update_time": "2025-02-06 20:55:18",
+    "change_number": "27719897",
+    "update_time": "2025-02-28 23:17:39",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -18,8 +18,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7671067784150906301",
-                    "size": "340330558",
+                    "gid": "8934690533475673066",
+                    "size": "340330649",
                     "download": "203789712"
                 },
                 "legacy": {
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2688015704109852845",
-                    "size": "2662288",
-                    "download": "760144"
+                    "gid": "1520459277225542207",
+                    "size": "2667408",
+                    "download": "762032"
                 },
                 "legacy": {
                     "gid": "7002421986854516785",
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "693074934419299408",
-                    "size": "359260078",
-                    "download": "200991440"
+                    "gid": "4939275580704006786",
+                    "size": "359276782",
+                    "download": "200995024"
                 },
                 "legacy": {
                     "gid": "7771276110293802681",
@@ -89,8 +89,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17130423",
-                "timeupdated": "1737812686"
+                "buildid": "17548854",
+                "timeupdated": "1740755855"
             },
             "legacy": {
                 "buildid": "5448023",
