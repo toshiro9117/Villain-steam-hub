@@ -4,8 +4,8 @@
     "name": "Saleblazers Dedicated Server (Beta)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27489086",
-    "update_time": "2025-02-15 08:06:50",
+    "change_number": "27728449",
+    "update_time": "2025-03-01 09:28:04",
     "depot": {
         "1004": {
             "config": {
@@ -71,7 +71,7 @@
                     "download": "1606692208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f770bbb0462c051987e8f43ae57019e28a5352b3b8a6fc046912fdf5ccd79318"
         },
         "branches": {
             "public": {
