@@ -4,8 +4,8 @@
     "name": "Unity of Command II",
     "schinese_name": "统一指挥2",
     "isfreeapp": "0",
-    "change_number": "27521213",
-    "update_time": "2025-02-18 02:35:29",
+    "change_number": "27720324",
+    "update_time": "2025-02-28 23:41:46",
     "depot": {
         "workshopdepot": "809230",
         "228986": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "960785657945400861",
-                    "size": "3320200680",
-                    "download": "1801693280"
+                    "gid": "1626040024790204162",
+                    "size": "3320213230",
+                    "download": "1801743760"
                 },
                 "legacy_windows_7": {
                     "gid": "833964633599145497",
@@ -31,9 +31,9 @@
                     "download": "1292487792"
                 },
                 "beta": {
-                    "gid": "960785657945400861",
-                    "size": "3320200680",
-                    "download": "1801693280"
+                    "gid": "1626040024790204162",
+                    "size": "3320213230",
+                    "download": "1801743760"
                 }
             },
             "decryptionkey": "edd49b32d223ee901f9019726cccc21668c065c3197b087d638ba3d0a8356477"
@@ -66,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6055618411456424951",
-                    "size": "570784553",
-                    "download": "134548944"
+                    "gid": "674982527168096262",
+                    "size": "570786593",
+                    "download": "134550560"
                 },
                 "legacy_windows_7": {
                     "gid": "7990812613295161174",
@@ -76,9 +76,9 @@
                     "download": "134492288"
                 },
                 "beta": {
-                    "gid": "6055618411456424951",
-                    "size": "570784553",
-                    "download": "134548944"
+                    "gid": "674982527168096262",
+                    "size": "570786593",
+                    "download": "134550560"
                 }
             },
             "decryptionkey": ""
@@ -261,8 +261,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17121604",
-                "timeupdated": "1737733800"
+                "buildid": "17504138",
+                "timeupdated": "1740757302"
             },
             "legacy_windows_7": {
                 "buildid": "8195091",
@@ -270,9 +270,9 @@
                 "timeupdated": "1657641430"
             },
             "beta": {
-                "buildid": "17121604",
+                "buildid": "17504138",
                 "description": "Branch with untested beta features",
-                "timeupdated": "1737733764"
+                "timeupdated": "1740509209"
             }
         },
         "privatebranches": "1",
