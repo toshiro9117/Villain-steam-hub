@@ -4,15 +4,15 @@
     "name": "Too Tired To Die",
     "schinese_name": "极累冥途",
     "isfreeapp": "0",
-    "change_number": "27535807",
-    "update_time": "2025-02-18 22:16:57",
+    "change_number": "27715345",
+    "update_time": "2025-02-28 18:46:10",
     "depot": {
         "3078921": {
             "manifests": {
                 "public": {
-                    "gid": "6654173700557060342",
-                    "size": "2964681829",
-                    "download": "1832388032"
+                    "gid": "5731452124630873041",
+                    "size": "2969026902",
+                    "download": "1835991968"
                 }
             },
             "decryptionkey": "7d79c56c8fb5bccb260a2307e96f1eb6b2f65f1402c53a83b95f9c05b095ceb1"
@@ -20,8 +20,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17275659",
-                "timeupdated": "1738909180"
+                "buildid": "17512809",
+                "timeupdated": "1740653504"
             }
         },
         "privatebranches": "1"
