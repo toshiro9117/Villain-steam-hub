@@ -4,8 +4,8 @@
     "name": "Barotrauma",
     "schinese_name": "Barotrauma 潜渊症",
     "isfreeapp": "0",
-    "change_number": "27537809",
-    "update_time": "2025-02-19 00:16:51",
+    "change_number": "27712369",
+    "update_time": "2025-02-28 16:47:01",
     "depot": {
         "workshopdepot": "602960",
         "hasdepotsindlc": "1",
@@ -26,9 +26,9 @@
                     "download": "748868944"
                 },
                 "unstable": {
-                    "gid": "839338241150514971",
-                    "size": "1183236267",
-                    "download": "1024571296"
+                    "gid": "3234082136668849305",
+                    "size": "1213480573",
+                    "download": "1053962080"
                 }
             },
             "decryptionkey": "9548ba939f90ad1341ef0ea0125642dabf42d425fed0a4a5b2ad3d40a88af1d2"
@@ -50,9 +50,9 @@
                     "download": "748641200"
                 },
                 "unstable": {
-                    "gid": "3107574230306447339",
-                    "size": "1202678029",
-                    "download": "1027651808"
+                    "gid": "1304866244849521437",
+                    "size": "1233229539",
+                    "download": "1057066880"
                 }
             },
             "decryptionkey": "aa05725821345dfdedd93eaef1f0f4fb6e399b95cffc47dbabf9134a7eeca1d9"
@@ -74,9 +74,9 @@
                     "download": "781608144"
                 },
                 "unstable": {
-                    "gid": "33519497682048803",
-                    "size": "1191230250",
-                    "download": "1029051536"
+                    "gid": "6884100802302117189",
+                    "size": "1221781764",
+                    "download": "1058461856"
                 }
             },
             "decryptionkey": "9420d15bdd3429b9391b475f1d1c59499535e408b59dcc0053cfa369cdbb8609"
@@ -116,9 +116,9 @@
                 "timeupdated": "1664982730"
             },
             "unstable": {
-                "buildid": "17393735",
+                "buildid": "17543093",
                 "description": "Public unstable version",
-                "timeupdated": "1739799620"
+                "timeupdated": "1740728335"
             }
         },
         "privatebranches": "1",
