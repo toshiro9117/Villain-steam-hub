@@ -4,8 +4,8 @@
     "name": "Industrial Annihilation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27487745",
-    "update_time": "2025-02-15 05:59:32",
+    "change_number": "27728588",
+    "update_time": "2025-03-01 09:47:49",
     "depot": {
         "228988": {
             "config": {
@@ -38,17 +38,17 @@
         "1796721": {
             "manifests": {
                 "public": {
-                    "gid": "6565914062462402675",
-                    "size": "4660579183",
-                    "download": "2304112688"
+                    "gid": "5926830247394830491",
+                    "size": "4666667547",
+                    "download": "2309896192"
                 }
             },
             "decryptionkey": "051a5366d88b1b6518bb689eaa149e076eef9d750a602e22d5821bb9a0c405b1"
         },
         "branches": {
             "public": {
-                "buildid": "16967981",
-                "timeupdated": "1736540855"
+                "buildid": "17443543",
+                "timeupdated": "1740423539"
             }
         },
         "privatebranches": "1"
