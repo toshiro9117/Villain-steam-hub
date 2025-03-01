@@ -4,8 +4,8 @@
     "name": "Deadside",
     "schinese_name": "生死相依",
     "isfreeapp": "0",
-    "change_number": "27538446",
-    "update_time": "2025-02-19 00:52:07",
+    "change_number": "27718220",
+    "update_time": "2025-02-28 21:41:57",
     "depot": {
         "228988": {
             "config": {
@@ -33,9 +33,9 @@
                     "download": "18485382992"
                 },
                 "public_test_server": {
-                    "gid": "8443002540533111351",
-                    "size": "35780234795",
-                    "download": "18485382992"
+                    "gid": "7324150099135069194",
+                    "size": "35468429333",
+                    "download": "18596639424"
                 }
             },
             "decryptionkey": "10e8c6628cb78fe20e8190863a7ce05f1b450c52f48a5820f8f172faf68c65a6"
@@ -47,9 +47,9 @@
                 "timeupdated": "1740150008"
             },
             "public_test_server": {
-                "buildid": "17456157",
+                "buildid": "17547378",
                 "description": "PTS",
-                "timeupdated": "1740147136"
+                "timeupdated": "1740749026"
             }
         },
         "privatebranches": "1",
