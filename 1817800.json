@@ -4,8 +4,8 @@
     "name": "Oddsparks: An Automation Adventure",
     "schinese_name": "火花奇遇记：自动化冒险",
     "isfreeapp": "0",
-    "change_number": "27543212",
-    "update_time": "2025-02-19 06:15:45",
+    "change_number": "27725100",
+    "update_time": "2025-03-01 04:23:44",
     "depot": {
         "228989": {
             "config": {
@@ -32,9 +32,9 @@
         "1817801": {
             "manifests": {
                 "public": {
-                    "gid": "6947549423787116567",
-                    "size": "4384000322",
-                    "download": "1800907632"
+                    "gid": "4965422966113239493",
+                    "size": "4436555505",
+                    "download": "1816155968"
                 }
             },
             "decryptionkey": "b59ebe145d953e10adb462fd930cbf0da37483e64c0896babf1861638f87b6a5"
@@ -42,8 +42,8 @@
         "workshopdepot": "1817800",
         "branches": {
             "public": {
-                "buildid": "16772286",
-                "timeupdated": "1734442949"
+                "buildid": "17447539",
+                "timeupdated": "1740664860"
             }
         },
         "privatebranches": "1",
