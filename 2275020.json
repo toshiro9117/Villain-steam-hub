@@ -4,8 +4,8 @@
     "name": "Backrooms Rec.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536445",
-    "update_time": "2025-02-18 22:56:28",
+    "change_number": "27725566",
+    "update_time": "2025-03-01 05:00:28",
     "depot": {
         "228983": {
             "config": {
@@ -52,9 +52,14 @@
         "2275021": {
             "manifests": {
                 "public": {
-                    "gid": "6831538435973704796",
-                    "size": "5922654673",
-                    "download": "5608703440"
+                    "gid": "1438833828319798051",
+                    "size": "5550444290",
+                    "download": "5239404528"
+                },
+                "public_testing": {
+                    "gid": "3792586258973545927",
+                    "size": "5896756855",
+                    "download": "5587057920"
                 }
             },
             "decryptionkey": "b329217cf9acf1faa28049bc399d5209cb8fd1c89f43c06c88bed59e19e3ca4e"
@@ -62,8 +67,13 @@
         "workshopdepot": "2275020",
         "branches": {
             "public": {
-                "buildid": "17408915",
-                "timeupdated": "1739890580"
+                "buildid": "17511588",
+                "timeupdated": "1740558766"
+            },
+            "public_testing": {
+                "buildid": "17516175",
+                "description": "This branch is for players who want to try features in development and or testing state This might contain a lot of bugs",
+                "timeupdated": "1740730010"
             }
         },
         "privatebranches": "1",
