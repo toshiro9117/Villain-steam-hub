@@ -4,16 +4,16 @@
     "name": "Alaskan Road Truckers",
     "schinese_name": "阿拉斯加卡车司机",
     "isfreeapp": "0",
-    "change_number": "27239332",
-    "update_time": "2025-01-31 01:17:27",
+    "change_number": "27731139",
+    "update_time": "2025-03-01 16:23:11",
     "depot": {
         "hasdepotsindlc": "0",
         "849101": {
             "manifests": {
                 "public": {
-                    "gid": "1119985243074242239",
-                    "size": "45103887029",
-                    "download": "25747439344"
+                    "gid": "6803391940210210370",
+                    "size": "45103743177",
+                    "download": "25746916128"
                 }
             },
             "decryptionkey": "18d06e538da60410ecea175ee8198f8239f0de8d7fa253863ce308029d9135ae"
@@ -21,8 +21,8 @@
         "849102": {},
         "branches": {
             "public": {
-                "buildid": "16697772",
-                "timeupdated": "1734620409"
+                "buildid": "17545121",
+                "timeupdated": "1740817387"
             }
         },
         "privatebranches": "1"
