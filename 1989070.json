@@ -4,8 +4,8 @@
     "name": "Synergy",
     "schinese_name": "奇星协力 (Synergy)",
     "isfreeapp": "0",
-    "change_number": "27539159",
-    "update_time": "2025-02-19 01:34:31",
+    "change_number": "27711291",
+    "update_time": "2025-02-28 16:39:46",
     "depot": {
         "1989071": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8474862138496605871",
-                    "size": "4123397671",
-                    "download": "825606128"
+                    "gid": "7661005028401971809",
+                    "size": "4123399455",
+                    "download": "825614544"
                 },
                 "release_0.4": {
                     "gid": "7466377835444119342",
@@ -47,9 +47,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7050018474988357006",
-                    "size": "4173086534",
-                    "download": "836748224"
+                    "gid": "1946000491241216685",
+                    "size": "4173088318",
+                    "download": "836760288"
                 },
                 "release_0.4": {
                     "gid": "613889579733853346",
@@ -107,8 +107,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17331631",
-                "timeupdated": "1739376098"
+                "buildid": "17514109",
+                "timeupdated": "1740585745"
             },
             "release_0.4": {
                 "buildid": "16698853",
