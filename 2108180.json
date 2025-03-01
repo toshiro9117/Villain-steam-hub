@@ -4,8 +4,8 @@
     "name": "SWORDHAVEN",
     "schinese_name": "剑湾奇旅",
     "isfreeapp": "0",
-    "change_number": "27542480",
-    "update_time": "2025-02-19 05:17:24",
+    "change_number": "27727825",
+    "update_time": "2025-03-01 08:24:15",
     "depot": {
         "2108181": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "2162187504"
                 },
                 "beta": {
-                    "gid": "7672428626533802647",
-                    "size": "5151473214",
-                    "download": "2163502160"
+                    "gid": "454713501181217052",
+                    "size": "6942074252",
+                    "download": "2882559216"
                 }
             },
             "decryptionkey": "a37535e60a7271c54be954c0153730a979fc027cad187830c9bd0490f3e53710"
@@ -68,9 +68,9 @@
                 "timeupdated": "1735076085"
             },
             "beta": {
-                "buildid": "16877276",
+                "buildid": "17554698",
                 "description": "Beta builds",
-                "timeupdated": "1735589971"
+                "timeupdated": "1740788651"
             }
         },
         "privatebranches": "1",
