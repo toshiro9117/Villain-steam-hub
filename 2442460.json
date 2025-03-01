@@ -4,8 +4,8 @@
     "name": "Citizen Sleeper 2: Starward Vector",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27507689",
-    "update_time": "2025-02-17 08:14:41",
+    "change_number": "27711102",
+    "update_time": "2025-02-28 16:40:10",
     "depot": {
         "2442462": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6816991484721901540",
-                    "size": "1645036064",
-                    "download": "416957392"
+                    "gid": "6501330816933632329",
+                    "size": "1646464600",
+                    "download": "417112240"
                 }
             },
             "decryptionkey": "d7edcb7820b1b5c1dd8d0e432df52666f204fd961ee1df803cc12ec644b176c0"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5636025883972599093",
-                    "size": "1669965373",
-                    "download": "424418320"
+                    "gid": "5975349324176127416",
+                    "size": "1671393909",
+                    "download": "424573984"
                 }
             },
             "decryptionkey": ""
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17306254",
-                "timeupdated": "1739189116"
+                "buildid": "17484966",
+                "timeupdated": "1740408667"
             }
         },
         "privatebranches": "1"
