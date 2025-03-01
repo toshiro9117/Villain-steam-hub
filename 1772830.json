@@ -4,8 +4,8 @@
     "name": "Rusted Moss",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27508293",
-    "update_time": "2025-02-17 09:27:42",
+    "change_number": "27719130",
+    "update_time": "2025-02-28 22:35:59",
     "depot": {
         "workshopdepot": "1772830",
         "baselanguages": "english,koreana,schinese,japanese,brazilian,latam",
@@ -13,17 +13,17 @@
         "1772831": {
             "manifests": {
                 "public": {
-                    "gid": "3230615799234906279",
-                    "size": "479618534",
-                    "download": "384248304"
+                    "gid": "7802222129325957603",
+                    "size": "536248364",
+                    "download": "436092576"
                 }
             },
             "decryptionkey": "0eca4940a773462af16f1859c38bc3fdb2845fe0a4d71f58d52a9067e932a2dc"
         },
         "branches": {
             "public": {
-                "buildid": "16380672",
-                "timeupdated": "1731426867"
+                "buildid": "17548316",
+                "timeupdated": "1740753355"
             }
         },
         "privatebranches": "1",
