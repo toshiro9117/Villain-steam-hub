@@ -4,8 +4,8 @@
     "name": "封神传God pass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27538734",
-    "update_time": "2025-02-19 01:09:21",
+    "change_number": "27713893",
+    "update_time": "2025-02-28 17:20:58",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese",
         "3241111": {
@@ -25,9 +25,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5315635441641871272",
-                    "size": "381721828",
-                    "download": "278122544"
+                    "gid": "2214815181793314948",
+                    "size": "381745631",
+                    "download": "278133216"
                 }
             },
             "decryptionkey": ""
@@ -69,9 +69,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4345470746162200251",
-                    "size": "402864001",
-                    "download": "292373968"
+                    "gid": "5554260478595834641",
+                    "size": "407097518",
+                    "download": "292782160"
                 }
             },
             "decryptionkey": ""
@@ -79,8 +79,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17438953",
-                "timeupdated": "1740054537"
+                "buildid": "17544203",
+                "timeupdated": "1740734453"
             }
         },
         "appmanagesdlc": "1"
