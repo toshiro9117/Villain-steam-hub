@@ -4,8 +4,8 @@
     "name": "Mechabellum",
     "schinese_name": "钢铁指挥官",
     "isfreeapp": "0",
-    "change_number": "27530581",
-    "update_time": "2025-02-18 16:51:33",
+    "change_number": "27718358",
+    "update_time": "2025-02-28 21:50:21",
     "depot": {
         "baselanguages": "",
         "669331": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8736613633777584058",
-                    "size": "11679134709",
-                    "download": "4517304800"
+                    "gid": "603221753113302861",
+                    "size": "11679168877",
+                    "download": "4517290176"
                 }
             },
             "decryptionkey": "cce2dbb82d8bf772c353fd8b749df375dd3679858007e05fecc5f398c9a266e1"
@@ -46,17 +46,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9104571031251431113",
-                    "size": "11679134709",
-                    "download": "4519332768"
+                    "gid": "517836220699160885",
+                    "size": "11679168877",
+                    "download": "4519317616"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17452943",
-                "timeupdated": "1740139257"
+                "buildid": "17546407",
+                "timeupdated": "1740750615"
             }
         },
         "privatebranches": "1"
