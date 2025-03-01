@@ -4,8 +4,8 @@
     "name": "Doll Impostor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27407601",
-    "update_time": "2025-02-11 03:50:49",
+    "change_number": "27722702",
+    "update_time": "2025-03-01 01:52:39",
     "depot": {
         "228989": {
             "config": {
@@ -28,6 +28,11 @@
                     "size": "10855898659",
                     "download": "10083909648"
                 },
+                "beta": {
+                    "gid": "6786469766245648195",
+                    "size": "11303039795",
+                    "download": "10524308144"
+                },
                 "original": {
                     "gid": "1379108789512295956",
                     "size": "934355812",
@@ -40,6 +45,11 @@
             "public": {
                 "buildid": "17311682",
                 "timeupdated": "1739217042"
+            },
+            "beta": {
+                "buildid": "17550421",
+                "description": "beta",
+                "timeupdated": "1740765145"
             },
             "original": {
                 "buildid": "14196241",
