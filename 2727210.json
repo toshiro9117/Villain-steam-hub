@@ -4,8 +4,8 @@
     "name": "Deathless. Tales of Old Rus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541687",
-    "update_time": "2025-02-19 04:14:39",
+    "change_number": "27720723",
+    "update_time": "2025-03-01 00:00:32",
     "depot": {
         "hasdepotsindlc": "0",
         "2727219": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6388520768529273580",
-                    "size": "3645540838",
-                    "download": "1958002304"
+                    "gid": "6365803387652619475",
+                    "size": "1742174087",
+                    "download": "1040079088"
                 },
                 "public_beta": {
-                    "gid": "6439503989450834586",
+                    "gid": "6731354072649108685",
                     "size": "1742174103",
-                    "download": "1040073776"
+                    "download": "1040063680"
                 }
             },
             "decryptionkey": "fdc685bfd5a49337839862f15748e566817c9b9995e117164e0851187772cc8f"
@@ -45,13 +45,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17183230",
-                "timeupdated": "1738234752"
+                "buildid": "17527992",
+                "timeupdated": "1740646849"
             },
             "public_beta": {
-                "buildid": "17440310",
+                "buildid": "17512406",
                 "description": "Branch for public tests",
-                "timeupdated": "1740060536"
+                "timeupdated": "1740562383"
             }
         },
         "privatebranches": "1"
