@@ -4,24 +4,24 @@
     "name": "Discolored 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27179011",
-    "update_time": "2025-01-27 15:27:17",
+    "change_number": "27731272",
+    "update_time": "2025-03-01 16:46:06",
     "depot": {
         "baselanguages": "english",
         "1859721": {
             "manifests": {
                 "public": {
-                    "gid": "4434575024649748438",
-                    "size": "6254425430",
-                    "download": "1931127424"
+                    "gid": "663731550068591188",
+                    "size": "6252272086",
+                    "download": "1930407376"
                 }
             },
             "decryptionkey": "c9f02eed19495e86d65c39c6c79711e5ad756ae700b25d7e5eb673784316e782"
         },
         "branches": {
             "public": {
-                "buildid": "17138750",
-                "timeupdated": "1737928436"
+                "buildid": "17474903",
+                "timeupdated": "1740444982"
             }
         },
         "privatebranches": "1"
