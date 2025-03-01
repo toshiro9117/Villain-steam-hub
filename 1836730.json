@@ -4,8 +4,8 @@
     "name": "Echo Point Nova",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27530043",
-    "update_time": "2025-02-18 16:15:37",
+    "change_number": "27726923",
+    "update_time": "2025-03-01 06:57:43",
     "depot": {
         "228988": {
             "config": {
@@ -29,14 +29,14 @@
                     "download": "2832512880"
                 },
                 "decktest": {
-                    "gid": "2906241634807194491",
-                    "size": "3063271620",
-                    "download": "2835799248"
+                    "gid": "8933942441984265905",
+                    "size": "3064120134",
+                    "download": "2836390544"
                 },
                 "roguebeta": {
-                    "gid": "3274074654622434168",
-                    "size": "3063570797",
-                    "download": "2835905248"
+                    "gid": "6169874241679683889",
+                    "size": "3064381454",
+                    "download": "2836515712"
                 }
             },
             "decryptionkey": "3cb8d34f2b9a803179612fabdc6ea345bcbc6486081c8620e8263944ba2d7824"
@@ -48,14 +48,14 @@
                 "timeupdated": "1738234337"
             },
             "decktest": {
-                "buildid": "17444246",
+                "buildid": "17524726",
                 "description": "testing Deck UI",
-                "timeupdated": "1740079098"
+                "timeupdated": "1740626098"
             },
             "roguebeta": {
-                "buildid": "17463796",
+                "buildid": "17554019",
                 "description": "Testing new rogue mode",
-                "timeupdated": "1740193296"
+                "timeupdated": "1740783459"
             }
         },
         "privatebranches": "1",
