@@ -4,8 +4,8 @@
     "name": "Vellum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27529280",
-    "update_time": "2025-02-18 15:10:28",
+    "change_number": "27730686",
+    "update_time": "2025-03-01 15:05:51",
     "depot": {
         "917951": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7705563848143770335",
-                    "size": "3072822903",
-                    "download": "1413123632"
+                    "gid": "6432775823821442828",
+                    "size": "3274171799",
+                    "download": "1500011552"
                 },
                 "crashtester": {
                     "gid": "7215888268680806236",
@@ -23,9 +23,9 @@
                     "download": "724523520"
                 },
                 "testing": {
-                    "gid": "7066961667027302024",
-                    "size": "3248361567",
-                    "download": "1494209504"
+                    "gid": "7097314387704810240",
+                    "size": "3370043635",
+                    "download": "1538427168"
                 }
             },
             "decryptionkey": "782dc04cd840b972d5f38b24f8e6190b7935018e7dfee5516cbe431927c12af0"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17345335",
-                "timeupdated": "1739415371"
+                "buildid": "17522155",
+                "timeupdated": "1740617665"
             },
             "crashtester": {
                 "buildid": "14017917",
@@ -46,9 +46,9 @@
                 "timeupdated": "1712808607"
             },
             "testing": {
-                "buildid": "17479825",
+                "buildid": "17557205",
                 "description": "Current testing branch",
-                "timeupdated": "1740380721"
+                "timeupdated": "1740812748"
             }
         },
         "privatebranches": "1"
