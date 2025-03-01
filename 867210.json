@@ -4,8 +4,8 @@
     "name": "Songs of Conquest",
     "schinese_name": "征服之歌",
     "isfreeapp": "0",
-    "change_number": "27540588",
-    "update_time": "2025-02-19 03:01:22",
+    "change_number": "27724153",
+    "update_time": "2025-03-01 03:21:13",
     "depot": {
         "867211": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "1418286352"
                 },
                 "public-test-realm": {
-                    "gid": "5644867465666701562",
-                    "size": "2283065256",
-                    "download": "1585002672"
+                    "gid": "4694074933745902008",
+                    "size": "2283065755",
+                    "download": "1585002464"
                 }
             },
             "decryptionkey": "ea2be0c817a8f6f2e694b3318c5560c41ff4eb9d1a16f9ce3490dc2bf58fe78c"
@@ -46,9 +46,9 @@
                     "download": "1435315232"
                 },
                 "public-test-realm": {
-                    "gid": "8284789628540005552",
-                    "size": "2367874666",
-                    "download": "1604051696"
+                    "gid": "2274602098088414910",
+                    "size": "2367875686",
+                    "download": "1604052288"
                 }
             },
             "decryptionkey": "3546a5c46d083b5474f272b188d063e43fcf017ad720f78d3d8d655f4e5190f8"
@@ -88,9 +88,9 @@
                 "timeupdated": "1733220427"
             },
             "public-test-realm": {
-                "buildid": "17397688",
+                "buildid": "17537293",
                 "description": "Experimental branch where you can test the next version or patch before it goes live",
-                "timeupdated": "1739883115"
+                "timeupdated": "1740728683"
             }
         },
         "privatebranches": "1"
