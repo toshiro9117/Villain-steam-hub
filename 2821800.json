@@ -4,8 +4,8 @@
     "name": "Drill Core",
     "schinese_name": "钻核公司 (Drill Core)",
     "isfreeapp": "0",
-    "change_number": "27539135",
-    "update_time": "2025-02-19 01:32:33",
+    "change_number": "27715289",
+    "update_time": "2025-02-28 18:42:09",
     "depot": {
         "228989": {
             "config": {
@@ -47,7 +47,7 @@
             "testing": {
                 "buildid": "17466610",
                 "description": "Public testing of a new version",
-                "timeupdated": "1740223225"
+                "timeupdated": "1740739307"
             }
         },
         "privatebranches": "1"
