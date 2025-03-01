@@ -4,11 +4,11 @@
     "name": "Turok",
     "schinese_name": "恐龙猎人",
     "isfreeapp": "0",
-    "change_number": "27532979",
-    "update_time": "2025-02-18 19:21:12",
+    "change_number": "27725444",
+    "update_time": "2025-03-01 04:51:34",
     "depot": {
         "workshopdepot": "405820",
-        "228986": {
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -30,101 +30,69 @@
             "sharedinstall": "1"
         },
         "405821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
             "manifests": {
                 "public": {
-                    "gid": "4080823477449817263",
-                    "size": "255351719",
-                    "download": "252630000"
+                    "gid": "2784263431339822377",
+                    "size": "394779349",
+                    "download": "348316208"
                 },
-                "beta": {
-                    "gid": "4080823477449817263",
-                    "size": "255351719",
-                    "download": "252630000"
+                "kex3": {
+                    "gid": "1838993315027208041",
+                    "size": "346168963",
+                    "download": "309565840"
                 }
             },
             "decryptionkey": "de91936b56f62ac1d0024bb432568e28865b657cfe6eacd1626430f516b01cbb"
         },
         "405822": {
             "config": {
-                "oslist": "windows"
+                "oslist": "macos"
             },
             "manifests": {
                 "public": {
-                    "gid": "1206134855762662216",
-                    "size": "47088783",
-                    "download": "17769536"
+                    "gid": "7760385175575901899",
+                    "size": "266927043",
+                    "download": "257691712"
                 },
-                "beta": {
-                    "gid": "1206134855762662216",
-                    "size": "47088783",
-                    "download": "17769536"
+                "kex3": {
+                    "gid": "7760385175575901899",
+                    "size": "266927043",
+                    "download": "257691712"
                 }
             },
             "decryptionkey": "eb7606a23f80255909a0b05a3c8f71932b097c7bfe3c05b77b2ec32bd6476498"
         },
         "405823": {
             "config": {
-                "oslist": "macos"
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
-                    "gid": "4651988819491725174",
-                    "size": "11575324",
-                    "download": "5061776"
+                    "gid": "478163089711204514",
+                    "size": "262495515",
+                    "download": "255344768"
                 },
-                "beta": {
-                    "gid": "4651988819491725174",
-                    "size": "11575324",
-                    "download": "5061776"
+                "kex3": {
+                    "gid": "478163089711204514",
+                    "size": "262495515",
+                    "download": "255344768"
                 }
             },
             "decryptionkey": "d980041d22de4be97b20d31396109720c6f3f445f3bdd457629c09847e2aee6b"
         },
-        "405824": {
-            "config": {
-                "oslist": "linux",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "3856305976979122741",
-                    "size": "7143796",
-                    "download": "2714832"
-                },
-                "beta": {
-                    "gid": "3856305976979122741",
-                    "size": "7143796",
-                    "download": "2714832"
-                }
-            },
-            "decryptionkey": "7ed4c95f5573c4bc17f820067c037f9f3a788ee86368a64731b6d4a3f1e37132"
-        },
-        "405825": {
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "8011537891701083483",
-                    "size": "43420889",
-                    "download": "38884352"
-                },
-                "beta": {
-                    "gid": "8011537891701083483",
-                    "size": "43420889",
-                    "download": "38884352"
-                }
-            },
-            "decryptionkey": "c27514a9e5e8a74a6fbba78c1f5b1d79808fcfc74b617e9045317a973ae4b98b"
-        },
         "branches": {
             "public": {
-                "buildid": "2984637",
-                "timeupdated": "1532737412"
+                "buildid": "17552826",
+                "timeupdated": "1740775891"
             },
-            "beta": {
-                "buildid": "2984637",
-                "timeupdated": "1542849654"
+            "kex3": {
+                "buildid": "17552056",
+                "description": "Legacy Release",
+                "timeupdated": "1740771053"
             }
         },
         "privatebranches": "1",
