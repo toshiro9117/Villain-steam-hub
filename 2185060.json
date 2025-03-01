@@ -1,0 +1,151 @@
+{
+    "appid": "2185060",
+    "type": "Game",
+    "name": "Two Point Museum",
+    "schinese_name": "双点博物馆",
+    "isfreeapp": "0",
+    "change_number": "27731599",
+    "update_time": "2025-03-01 17:26:38",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,turkish,brazilian",
+        "workshopdepot": "2185060",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2185061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5339936816987738195",
+                    "size": "4258978805",
+                    "download": "3495448640"
+                }
+            },
+            "decryptionkey": "a98101165ba3b99b3d98c5866360aa7cb08eeffd31ec95a9d024a824ff57c792"
+        },
+        "2185062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3957640398164226305",
+                    "size": "4222340218",
+                    "download": "3399302208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2185063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4268393147994429547",
+                    "size": "4368754799",
+                    "download": "3464215488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2999841": {
+            "dlcappid": "2999840",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8952061984612760399",
+                    "size": "54060980",
+                    "download": "47485536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2999842": {
+            "dlcappid": "2999840",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2065425210641068295",
+                    "size": "54061924",
+                    "download": "47492784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2999843": {
+            "dlcappid": "2999840",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3218987112291880693",
+                    "size": "53604621",
+                    "download": "46881936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2999851": {
+            "dlcappid": "2999850",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "281183666991761437",
+                    "size": "26289690",
+                    "download": "23080080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2999852": {
+            "dlcappid": "2999850",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2451058228585949136",
+                    "size": "26290172",
+                    "download": "23078272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2999853": {
+            "dlcappid": "2999850",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5115121791738906413",
+                    "size": "25562158",
+                    "download": "22438064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17507429",
+                "timeupdated": "1740650753"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
