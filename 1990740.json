@@ -4,25 +4,20 @@
     "name": "Barro GT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27165899",
-    "update_time": "2025-01-26 02:55:05",
+    "change_number": "27722913",
+    "update_time": "2025-03-01 02:01:24",
     "depot": {
         "1990741": {
             "manifests": {
                 "public": {
-                    "gid": "7146497386757231113",
-                    "size": "2558203086",
-                    "download": "661853280"
-                },
-                "old_version": {
-                    "gid": "3998836953721961896",
-                    "size": "1417395270",
-                    "download": "345821872"
+                    "gid": "4736981778120324497",
+                    "size": "2563390694",
+                    "download": "661950960"
                 },
                 "pre_release": {
-                    "gid": "7146497386757231113",
-                    "size": "2558203086",
-                    "download": "661853280"
+                    "gid": "4736981778120324497",
+                    "size": "2563390694",
+                    "download": "661950960"
                 }
             },
             "decryptionkey": "84fa5dd4ee0cd89e37c3ed1f89656a8a614bbcc1ec42668205e2f8c638c458fb"
@@ -30,32 +25,27 @@
         "1990742": {
             "manifests": {
                 "public": {
-                    "gid": "4916135379258421114",
-                    "size": "146851848",
-                    "download": "45408768"
+                    "gid": "8212410763274449816",
+                    "size": "146853032",
+                    "download": "45409584"
                 },
                 "pre_release": {
-                    "gid": "4916135379258421114",
-                    "size": "146851848",
-                    "download": "45408768"
+                    "gid": "8212410763274449816",
+                    "size": "146853032",
+                    "download": "45409584"
                 }
             },
             "decryptionkey": "7c9348fb0b5cf30e34a9a97391808acaa85f358598676e977eaa89cdd5a733d5"
         },
         "branches": {
             "public": {
-                "buildid": "14993745",
-                "timeupdated": "1720648139"
-            },
-            "old_version": {
-                "buildid": "10042415",
-                "description": "old_version",
-                "timeupdated": "1669985261"
+                "buildid": "17551026",
+                "timeupdated": "1740765679"
             },
             "pre_release": {
-                "buildid": "14993745",
+                "buildid": "17551026",
                 "description": "pre_release",
-                "timeupdated": "1720645577"
+                "timeupdated": "1740765664"
             }
         }
     }
