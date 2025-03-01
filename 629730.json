@@ -4,8 +4,8 @@
     "name": "Blade & Sorcery",
     "schinese_name": "刀剑与魔法",
     "isfreeapp": "0",
-    "change_number": "27525996",
-    "update_time": "2025-02-18 09:27:19",
+    "change_number": "27728873",
+    "update_time": "2025-03-01 10:21:57",
     "depot": {
         "629731": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2917376200220379541",
-                    "size": "15540448369",
-                    "download": "13407975248"
+                    "gid": "361377523484471309",
+                    "size": "15683573535",
+                    "download": "13540532608"
                 },
                 "steamvrbug_test": {
                     "gid": "8345298112427557375",
@@ -23,9 +23,9 @@
                     "download": "13394251152"
                 },
                 "il2cpp": {
-                    "gid": "3054245941400205461",
-                    "size": "9817068488",
-                    "download": "8423805616"
+                    "gid": "2475539525906500987",
+                    "size": "16191058096",
+                    "download": "13920967200"
                 },
                 "previousversion_u10": {
                     "gid": "3186407359680173248",
@@ -72,8 +72,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16447219",
-                "timeupdated": "1732198541"
+                "buildid": "17357568",
+                "timeupdated": "1740568168"
             },
             "steamvrbug_test": {
                 "buildid": "15916696",
@@ -81,9 +81,9 @@
                 "timeupdated": "1727973333"
             },
             "il2cpp": {
-                "buildid": "12713528",
+                "buildid": "17514096",
                 "description": "Il2CPP build (Nomad scripting)",
-                "timeupdated": "1700149643"
+                "timeupdated": "1740575852"
             },
             "previousversion_u10": {
                 "buildid": "7692597",
