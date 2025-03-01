@@ -4,23 +4,23 @@
     "name": "holo8",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27535807",
-    "update_time": "2025-02-18 22:17:13",
+    "change_number": "27714039",
+    "update_time": "2025-02-28 17:30:01",
     "depot": {
         "3373961": {
             "manifests": {
                 "public": {
-                    "gid": "2631296661135885373",
-                    "size": "7268602104",
-                    "download": "2676257056"
+                    "gid": "1608872625810321639",
+                    "size": "7245360215",
+                    "download": "2675960464"
                 }
             },
             "decryptionkey": "aa6daa4d1016dae3379b6832a8b9bcf0b6590d3bfbb43bc966caa7e34f99b703"
         },
         "branches": {
             "public": {
-                "buildid": "17477588",
-                "timeupdated": "1740359977"
+                "buildid": "17543947",
+                "timeupdated": "1740734995"
             }
         }
     }
