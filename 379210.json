@@ -4,8 +4,8 @@
     "name": "Wayward",
     "schinese_name": "固执",
     "isfreeapp": "0",
-    "change_number": "27535680",
-    "update_time": "2025-02-18 22:08:57",
+    "change_number": "27718612",
+    "update_time": "2025-02-28 22:04:55",
     "depot": {
         "workshopdepot": "379210",
         "hasdepotsindlc": "1",
@@ -20,9 +20,9 @@
                     "download": "161471328"
                 },
                 "development": {
-                    "gid": "224214005602916198",
-                    "size": "206079384",
-                    "download": "157570256"
+                    "gid": "7925200117220544793",
+                    "size": "206082223",
+                    "download": "157570064"
                 },
                 "beta2.14.3": {
                     "gid": "6388060376625195363",
@@ -153,9 +153,9 @@
                     "download": "301010752"
                 },
                 "development": {
-                    "gid": "4195551161029009934",
-                    "size": "654349779",
-                    "download": "297110112"
+                    "gid": "6930927042640492159",
+                    "size": "654352618",
+                    "download": "297108192"
                 },
                 "beta2.14.3": {
                     "gid": "8385852668542925683",
@@ -286,9 +286,9 @@
                     "download": "161471328"
                 },
                 "development": {
-                    "gid": "8403341255868413528",
-                    "size": "206079384",
-                    "download": "157570256"
+                    "gid": "3420689243515087534",
+                    "size": "206082223",
+                    "download": "157570064"
                 },
                 "beta2.14.3": {
                     "gid": "7012582942163395287",
@@ -1084,9 +1084,9 @@
                 "timeupdated": "1735350501"
             },
             "development": {
-                "buildid": "17456124",
+                "buildid": "17547921",
                 "description": "Development Branch (Updated Nightly)",
-                "timeupdated": "1740146972"
+                "timeupdated": "1740751491"
             },
             "beta2.14.3": {
                 "buildid": "16863576",
