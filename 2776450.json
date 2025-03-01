@@ -4,8 +4,8 @@
     "name": "诸天刷宝录",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27532648",
-    "update_time": "2025-02-18 19:00:32",
+    "change_number": "27731274",
+    "update_time": "2025-03-01 16:46:28",
     "depot": {
         "2776451": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1146196132760463894",
-                    "size": "523966732",
-                    "download": "348850352"
+                    "gid": "333847930922941104",
+                    "size": "524208035",
+                    "download": "349069968"
                 },
                 "compatibility": {
-                    "gid": "2957151283451490014",
-                    "size": "488852464",
-                    "download": "337381280"
+                    "gid": "77838533930910650",
+                    "size": "489244580",
+                    "download": "337768880"
                 }
             },
             "decryptionkey": "d344b9a8eb3356663a0ad386889d0a675acdf4e1b2e41aa43d220e0ef38e65a8"
@@ -49,13 +49,13 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "17437966",
-                "timeupdated": "1740049950"
+                "buildid": "17555043",
+                "timeupdated": "1740791199"
             },
             "compatibility": {
-                "buildid": "17405949",
+                "buildid": "17531890",
                 "description": "无法进入游戏专用",
-                "timeupdated": "1739876402"
+                "timeupdated": "1740663896"
             }
         },
         "privatebranches": "1"
