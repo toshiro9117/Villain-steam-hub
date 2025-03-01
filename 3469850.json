@@ -4,44 +4,44 @@
     "name": "噩梦摇篮：献花于你",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537802",
-    "update_time": "2025-02-19 00:15:29",
+    "change_number": "27732046",
+    "update_time": "2025-03-01 18:37:19",
     "depot": {
         "baselanguages": "english",
         "3469851": {
             "manifests": {
                 "public": {
-                    "gid": "1930888249272468089",
-                    "size": "1851189674",
-                    "download": "1486052352"
+                    "gid": "8276988122644747372",
+                    "size": "1851396952",
+                    "download": "1486166096"
                 },
                 "default2": {
-                    "gid": "7656809383605229191",
-                    "size": "1851097944",
-                    "download": "1486030416"
+                    "gid": "480346151390778903",
+                    "size": "1851304051",
+                    "download": "1486058192"
                 },
                 "default3": {
-                    "gid": "7656809383605229191",
-                    "size": "1851097944",
-                    "download": "1486030416"
+                    "gid": "480346151390778903",
+                    "size": "1851304051",
+                    "download": "1486058192"
                 }
             },
             "decryptionkey": "a3451796b5c0e4b38400eef7ad7daef654ee98f673de976c56bee65637b7b9f8"
         },
         "branches": {
             "public": {
-                "buildid": "17481597",
-                "timeupdated": "1740392191"
+                "buildid": "17558283",
+                "timeupdated": "1740825435"
             },
             "default2": {
-                "buildid": "17471154",
+                "buildid": "17507551",
                 "description": "特殊处理用版本【优化脚本去除】",
-                "timeupdated": "1740281291"
+                "timeupdated": "1740530600"
             },
             "default3": {
-                "buildid": "17471154",
+                "buildid": "17507551",
                 "description": "测试版【勿选】",
-                "timeupdated": "1740281300"
+                "timeupdated": "1740530608"
             }
         }
     }
