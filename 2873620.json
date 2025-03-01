@@ -4,8 +4,8 @@
     "name": "Rasvyat Nuclear Power Station",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27504017",
-    "update_time": "2025-02-17 00:15:07",
+    "change_number": "27712430",
+    "update_time": "2025-02-28 16:47:43",
     "depot": {
         "228989": {
             "config": {
@@ -31,6 +31,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "928738175371340513",
+                    "size": "575017044",
+                    "download": "462998256"
+                },
+                "1.0.0": {
                     "gid": "879694864040468934",
                     "size": "545208122",
                     "download": "443410352"
@@ -49,14 +54,24 @@
                     "gid": "6368222990296709848",
                     "size": "476897115",
                     "download": "353345328"
+                },
+                "1.0.0": {
+                    "gid": "6368222990296709848",
+                    "size": "476897115",
+                    "download": "353345328"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15064920",
-                "timeupdated": "1721234816"
+                "buildid": "17494511",
+                "timeupdated": "1740458699"
+            },
+            "1.0.0": {
+                "buildid": "17508251",
+                "description": "RNPS legacy build",
+                "timeupdated": "1740535034"
             }
         },
         "privatebranches": "1"
