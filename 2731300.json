@@ -4,8 +4,8 @@
     "name": "Witch 4 Hotel",
     "schinese_name": "女巫4·酒店",
     "isfreeapp": "0",
-    "change_number": "27466523",
-    "update_time": "2025-02-14 03:55:26",
+    "change_number": "27720746",
+    "update_time": "2025-03-01 00:01:31",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,japanese",
         "228989": {
@@ -92,6 +92,9 @@
                 }
             },
             "decryptionkey": "fa8394823c723eae10e3f9315d0001421b65fb0bca62ba935aa8adcc69cc6659"
+        },
+        "3534180": {
+            "dlcappid": "3534180"
         },
         "branches": {
             "public": {
