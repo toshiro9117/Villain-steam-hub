@@ -1,0 +1,78 @@
+{
+    "appid": "736590",
+    "type": "Game",
+    "name": "Operation: Harsh Doorstop",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "27725640",
+    "update_time": "2025-03-01 05:07:35",
+    "depot": {
+        "workshopdepot": "736590",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "736591": {
+            "manifests": {
+                "public": {
+                    "gid": "5108498672347645152",
+                    "size": "53090161095",
+                    "download": "20420503312"
+                }
+            },
+            "decryptionkey": "d824bdacf3a6af9ddc2d2074f44ca51e60066c2f0586a1d054e3589d7996adb3"
+        },
+        "1517201": {
+            "dlcappid": "1517201",
+            "manifests": {
+                "public": {
+                    "gid": "5335970183447285345",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4c62f0674b59505da3bf27bdf1895bac2a63b47d4e1e6f0b5a9de5a581d4270e"
+        },
+        "1517202": {
+            "dlcappid": "1517202",
+            "manifests": {
+                "public": {
+                    "gid": "6782848898182039225",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fd0e309f4589015efd8bb47a47754ad46f7cd58806a6fbbdc6a76cf9dcd45a25"
+        },
+        "1517203": {
+            "dlcappid": "1517203",
+            "manifests": {
+                "public": {
+                    "gid": "304337244008965661",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17546704",
+                "timeupdated": "1740776852"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d164c72ab5ce8a064166e5b09eadff32df96b2a0020fb9abd271e0cb6c1b5ff4"
+    }
+}
