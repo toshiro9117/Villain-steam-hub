@@ -4,8 +4,8 @@
     "name": "Age of Mythology: Retold",
     "schinese_name": "神话时代：重述版",
     "isfreeapp": "0",
-    "change_number": "27532505",
-    "update_time": "2025-02-18 18:51:07",
+    "change_number": "27729481",
+    "update_time": "2025-03-01 11:44:45",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4882235693730441266",
-                    "size": "23474143263",
-                    "download": "11758747120"
+                    "gid": "7723325922535565286",
+                    "size": "29586796931",
+                    "download": "15049308528"
                 }
             },
             "decryptionkey": "802af330b3164b4c3b78d2f3b015e1017979ec6738f5d952aeb72eb14a138f19"
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1727544744578845467",
-                    "size": "344818033",
-                    "download": "309689792"
+                    "gid": "7841894146688263769",
+                    "size": "377593885",
+                    "download": "341878064"
                 }
             },
             "decryptionkey": "fae9ece6176586c7ad4c1d4d07e75e8a242d36d65d0402f3d20b5e86a58a6235"
@@ -66,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7983489892887658221",
-                    "size": "335702268",
-                    "download": "298164432"
+                    "gid": "598774348368579443",
+                    "size": "368421203",
+                    "download": "327167696"
                 }
             },
             "decryptionkey": "bb3cd97225c4980fef59f25e876b5532339ff29dbceb7d4fc12190fde94bd372"
@@ -79,9 +79,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1486531235345903063",
-                    "size": "321358997",
-                    "download": "269805328"
+                    "gid": "1189472356502059041",
+                    "size": "354142140",
+                    "download": "298161584"
                 }
             },
             "decryptionkey": "c47645f8442a72793113ab28d3206eb7841e9eed83e1817307859ac900a973f3"
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7538903471985691723",
-                    "size": "329134471",
-                    "download": "281739360"
+                    "gid": "925394211217706984",
+                    "size": "361919129",
+                    "download": "309337184"
                 }
             },
             "decryptionkey": "8e17cff7c72b2eb5c1f2a5c16e5088810e0b5a33678f0d62455aabdab9ba2b1e"
@@ -105,9 +105,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "665044372886880038",
-                    "size": "341708011",
-                    "download": "299030208"
+                    "gid": "2286136965574695227",
+                    "size": "374558732",
+                    "download": "328947728"
                 }
             },
             "decryptionkey": "27aacd4bd5627dd1a4743bba1773d24b4a05993f10bff71faeb3f492d619366f"
@@ -118,9 +118,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6044948802358458546",
-                    "size": "335325709",
-                    "download": "292639696"
+                    "gid": "4921767365350312209",
+                    "size": "368100854",
+                    "download": "324664176"
                 }
             },
             "decryptionkey": "3a5ba82ffea3a7063fe196e3bb0af72a423c2dc227c4d80b7798161fe655c684"
@@ -131,9 +131,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "268173069944236371",
-                    "size": "322241320",
-                    "download": "293837632"
+                    "gid": "2460050998358494893",
+                    "size": "355024379",
+                    "download": "324362688"
                 }
             },
             "decryptionkey": "cbac32577b886bb30bfeb6c606edb883e882c3fc1105f56f3a3fc0d4c8e2ed90"
@@ -144,9 +144,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5825953821063559232",
-                    "size": "343610785",
-                    "download": "290283744"
+                    "gid": "8251433519422151292",
+                    "size": "376393848",
+                    "download": "320209568"
                 }
             },
             "decryptionkey": "71854c8d94abca5cbeebd6ac1eb8edad6fd674437d935f99b70cff19034bbaec"
@@ -157,9 +157,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2174098553009538114",
-                    "size": "350713197",
-                    "download": "283282080"
+                    "gid": "7408446790083819453",
+                    "size": "383494468",
+                    "download": "311663728"
                 }
             },
             "decryptionkey": "c2504a8202da8fed8ef95c22f3528335c285257173876e4ff0ad1f351f4dd1a9"
@@ -170,17 +170,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3053947617032021679",
-                    "size": "354664120",
-                    "download": "304808576"
+                    "gid": "3329582431198545592",
+                    "size": "387336996",
+                    "download": "333567728"
                 }
             },
             "decryptionkey": "495e93c32f00d9f9ca59ada943e22fd8a423448c4e512b0903b92ae40730f01b"
         },
         "branches": {
             "public": {
-                "buildid": "17139432",
-                "timeupdated": "1738101699"
+                "buildid": "17461278",
+                "timeupdated": "1740679227"
             }
         },
         "privatebranches": "1"
