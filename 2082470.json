@@ -4,8 +4,8 @@
     "name": "VEIN Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537491",
-    "update_time": "2025-02-18 23:53:22",
+    "change_number": "27731646",
+    "update_time": "2025-03-01 17:32:44",
     "depot": {
         "228989": {
             "config": {
@@ -32,9 +32,9 @@
                     "download": "11820212800"
                 },
                 "experimental": {
-                    "gid": "4014914667744018642",
-                    "size": "50651404299",
-                    "download": "16810548384"
+                    "gid": "4306191142180050928",
+                    "size": "52582486685",
+                    "download": "17332451664"
                 }
             },
             "decryptionkey": "5d097b779608575432c12250d9083fc83be9e37fd4a4e0cf9b8c1bd68b23636e"
@@ -50,9 +50,9 @@
                     "download": "11146418464"
                 },
                 "experimental": {
-                    "gid": "4187706643325424835",
-                    "size": "46570521129",
-                    "download": "16096419360"
+                    "gid": "1953106041098895845",
+                    "size": "49521242690",
+                    "download": "16733750256"
                 }
             },
             "decryptionkey": "7623c6d28c2ef1a099e590e96c14a902a70a7d54c0249804b4e2f00c84778278"
@@ -64,9 +64,9 @@
                 "timeupdated": "1737482025"
             },
             "experimental": {
-                "buildid": "17474955",
+                "buildid": "17557477",
                 "description": "Bleeding-edge updates, unstable",
-                "timeupdated": "1740333141"
+                "timeupdated": "1740815638"
             }
         },
         "privatebranches": "1",
