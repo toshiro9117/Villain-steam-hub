@@ -4,23 +4,23 @@
     "name": "Atomic Picnic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542787",
-    "update_time": "2025-02-19 05:45:42",
+    "change_number": "27728031",
+    "update_time": "2025-03-01 08:45:28",
     "depot": {
         "1903561": {
             "manifests": {
                 "public": {
-                    "gid": "1898011316065038839",
-                    "size": "7540479885",
-                    "download": "2445614752"
+                    "gid": "3454214906389568440",
+                    "size": "7546822939",
+                    "download": "2551885312"
                 }
             },
             "decryptionkey": "101090ea8a8c59cbcf29efee18361bfa5058a83a4a1a237659147e10c0d19108"
         },
         "branches": {
             "public": {
-                "buildid": "17229981",
-                "timeupdated": "1738875219"
+                "buildid": "17535602",
+                "timeupdated": "1740684924"
             }
         },
         "privatebranches": "1"
