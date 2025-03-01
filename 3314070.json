@@ -4,8 +4,8 @@
     "name": "The Sims™ 2 Legacy Collection",
     "schinese_name": "《The Sims™ 2》经典合集",
     "isfreeapp": "0",
-    "change_number": "27543609",
-    "update_time": "2025-02-19 06:47:39",
+    "change_number": "27728250",
+    "update_time": "2025-03-01 09:06:24",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3314071": {
             "manifests": {
                 "public": {
-                    "gid": "7722664341637688510",
-                    "size": "13049151513",
-                    "download": "8007973712"
+                    "gid": "3509213267849449128",
+                    "size": "13059836006",
+                    "download": "8017462160"
                 }
             },
             "decryptionkey": "c23a39e45d9412b1dd04e0051e20bbb18e8155211fb746406373bd16d6409c50"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,brazilian",
         "branches": {
             "public": {
-                "buildid": "17375371",
-                "timeupdated": "1740074360"
+                "buildid": "17463176",
+                "timeupdated": "1740679336"
             }
         },
         "privatebranches": "1"
