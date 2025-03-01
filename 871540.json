@@ -4,8 +4,8 @@
     "name": "BMX Streets",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27538879",
-    "update_time": "2025-02-19 01:17:28",
+    "change_number": "27730088",
+    "update_time": "2025-03-01 13:21:25",
     "depot": {
         "228989": {
             "config": {
@@ -49,9 +49,9 @@
                     "download": "4889440816"
                 },
                 "2.0prealpha": {
-                    "gid": "6516618921860572959",
-                    "size": "1677245387",
-                    "download": "274494128"
+                    "gid": "4061853714382757761",
+                    "size": "1783753722",
+                    "download": "260929344"
                 },
                 "developer": {
                     "gid": "2505700546001734324",
@@ -59,9 +59,9 @@
                     "download": "3476864896"
                 },
                 "dont": {
-                    "gid": "8181962554074583027",
-                    "size": "1782858987",
-                    "download": "260443776"
+                    "gid": "4061853714382757761",
+                    "size": "1783753722",
+                    "download": "260929344"
                 },
                 "experimental": {
                     "gid": "2644275486910898954",
@@ -82,9 +82,9 @@
                 "timeupdated": "1712859659"
             },
             "2.0prealpha": {
-                "buildid": "17417752",
+                "buildid": "17556662",
                 "description": "Streets 2.0 Pre-Alpha",
-                "timeupdated": "1739943372"
+                "timeupdated": "1740806473"
             },
             "developer": {
                 "buildid": "15175986",
@@ -92,9 +92,9 @@
                 "timeupdated": "1722144088"
             },
             "dont": {
-                "buildid": "17477833",
+                "buildid": "17556662",
                 "description": "Pre-Pre-Alpha",
-                "timeupdated": "1740361669"
+                "timeupdated": "1740806479"
             },
             "experimental": {
                 "buildid": "14632959",
