@@ -4,8 +4,8 @@
     "name": "Last Oasis - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540329",
-    "update_time": "2025-02-19 02:46:52",
+    "change_number": "27723449",
+    "update_time": "2025-03-01 02:32:47",
     "depot": {
         "1004": {
             "config": {
@@ -80,9 +80,9 @@
                     "download": "1024879328"
                 },
                 "sdktest": {
-                    "gid": "4167304233549322746",
-                    "size": "7173136503",
-                    "download": "1296401376"
+                    "gid": "4503316735853031736",
+                    "size": "7176902162",
+                    "download": "1296993680"
                 }
             },
             "decryptionkey": "dbb7ce6c6eef269cd9b5c64dea8f4b37f5ed5993d173b8aaa88a98e8c23b4777"
@@ -104,9 +104,9 @@
                     "download": "1043690416"
                 },
                 "sdktest": {
-                    "gid": "5960487917752082786",
-                    "size": "7383363964",
-                    "download": "1275498832"
+                    "gid": "9170387019188615849",
+                    "size": "7387568535",
+                    "download": "1276101712"
                 }
             },
             "decryptionkey": ""
@@ -122,9 +122,9 @@
                 "timeupdated": "1658846235"
             },
             "sdktest": {
-                "buildid": "17054238",
+                "buildid": "17536250",
                 "description": "SDK Test Server",
-                "timeupdated": "1737263029"
+                "timeupdated": "1740684701"
             }
         },
         "privatebranches": "1"
