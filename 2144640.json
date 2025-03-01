@@ -4,8 +4,8 @@
     "name": "Endzone 2",
     "schinese_name": "末日地带2",
     "isfreeapp": "0",
-    "change_number": "27533316",
-    "update_time": "2025-02-18 19:43:44",
+    "change_number": "27730098",
+    "update_time": "2025-03-01 13:23:07",
     "depot": {
         "baselanguages": "english,german",
         "workshopdepot": "2144640",
@@ -17,17 +17,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6981036556207575560",
-                    "size": "6011950953",
-                    "download": "4272910336"
+                    "gid": "7937682607927582498",
+                    "size": "6286349442",
+                    "download": "4380967168"
                 }
             },
             "decryptionkey": "0a49695ed1feda3f6ad84629f01e5139b5793585af34810d1dbd600c5236c9bf"
         },
         "branches": {
             "public": {
-                "buildid": "17249224",
-                "timeupdated": "1738768369"
+                "buildid": "17548939",
+                "timeupdated": "1740757077"
             }
         },
         "privatebranches": "1",
