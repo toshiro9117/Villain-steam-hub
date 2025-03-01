@@ -4,8 +4,8 @@
     "name": "ASTRONEER Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531856",
-    "update_time": "2025-02-18 18:15:14",
+    "change_number": "27732118",
+    "update_time": "2025-03-01 18:49:18",
     "depot": {
         "1004": {
             "config": {
@@ -69,17 +69,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1580075807502748521",
-                    "size": "2403280938",
-                    "download": "2282525568"
+                    "gid": "244906839069121212",
+                    "size": "2404061178",
+                    "download": "2283047488"
                 }
             },
             "decryptionkey": "3f3333026546371f042320023bc3bc2534ddc21f5a74cce0e7471aca33815f63"
         },
         "branches": {
             "public": {
-                "buildid": "16778151",
-                "timeupdated": "1734471631"
+                "buildid": "17343214",
+                "timeupdated": "1740600836"
             }
         },
         "privatebranches": "1"
