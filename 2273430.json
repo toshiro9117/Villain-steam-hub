@@ -4,8 +4,8 @@
     "name": "BlazBlue Entropy Effect",
     "schinese_name": "苍翼：混沌效应",
     "isfreeapp": "0",
-    "change_number": "27478861",
-    "update_time": "2025-02-14 20:15:24",
+    "change_number": "27721082",
+    "update_time": "2025-03-01 00:23:00",
     "depot": {
         "228989": {
             "config": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8578057482693210107",
-                    "size": "9715167788",
-                    "download": "8430776192"
+                    "gid": "2176713419216199097",
+                    "size": "9751732325",
+                    "download": "8436308304"
                 },
                 "bbee-ea": {
                     "gid": "1181538358703119718",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6804213267284357603",
-                    "size": "9753986397",
-                    "download": "8423088400"
+                    "gid": "2522808253179858166",
+                    "size": "9758078544",
+                    "download": "8425361872"
                 },
                 "bbee-ea": {
                     "gid": "8289491013708764854",
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17129589",
-                "timeupdated": "1737801075"
+                "buildid": "17497028",
+                "timeupdated": "1740540534"
             },
             "bbee-ea": {
                 "sc_schinese": "Early Access",
