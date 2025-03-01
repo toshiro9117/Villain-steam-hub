@@ -4,8 +4,8 @@
     "name": "DAVE THE DIVER",
     "schinese_name": "潜水员戴夫 DAVE THE DIVER",
     "isfreeapp": "0",
-    "change_number": "27531658",
-    "update_time": "2025-02-18 18:02:29",
+    "change_number": "27730921",
+    "update_time": "2025-03-01 15:45:21",
     "depot": {
         "baselanguages": "english",
         "1868141": {
@@ -115,7 +115,8 @@
             "dlcappid": "3543180",
             "config": {
                 "oslist": "macos"
-            }
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
