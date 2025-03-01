@@ -4,8 +4,8 @@
     "name": "Indiana Jones and the Great Circle",
     "schinese_name": "夺宝奇兵：古老之圈 ",
     "isfreeapp": "0",
-    "change_number": "27529767",
-    "update_time": "2025-02-18 15:53:46",
+    "change_number": "27719564",
+    "update_time": "2025-02-28 23:00:33",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9032006303530402644",
-                    "size": "120339396058",
-                    "download": "112048675216"
+                    "gid": "5649618929513161339",
+                    "size": "120339387855",
+                    "download": "112048670832"
                 }
             },
             "decryptionkey": "0abf0860b7a1d53e5ae7b3ed8d7e97e668fa5619be6a6ad74c140c53871868bd"
@@ -32,9 +32,9 @@
         "2677662": {
             "manifests": {
                 "public": {
-                    "gid": "2365404286680074335",
-                    "size": "408346527",
-                    "download": "185650528"
+                    "gid": "4053064344217040171",
+                    "size": "408335967",
+                    "download": "185642352"
                 }
             },
             "decryptionkey": "b4089fc44110008f2b07bc97f30e298c1ae457fa69964cdb239f480259baec84"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6978708168901091420",
-                    "size": "559033344",
-                    "download": "107201760"
+                    "gid": "2740193442623755960",
+                    "size": "558959616",
+                    "download": "105922912"
                 }
             },
             "decryptionkey": ""
@@ -169,8 +169,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17397380",
-                "timeupdated": "1740068547"
+                "buildid": "17512516",
+                "timeupdated": "1740754826"
             }
         },
         "privatebranches": "1"
