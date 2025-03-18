@@ -4,8 +4,8 @@
     "name": "Thronefall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27288440",
-    "update_time": "2025-02-03 20:18:29",
+    "change_number": "27740539",
+    "update_time": "2025-03-02 17:23:34",
     "depot": {
         "228990": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "273638208"
                 }
             },
-            "decryptionkey": "505a16dd8c80b12c26bfa9c7780547cf33fff50602e31744cd4d7e582df2870c"
+            "decryptionkey": ""
         },
         "2239152": {
             "config": {
@@ -60,7 +60,7 @@
                     "download": "280675552"
                 }
             },
-            "decryptionkey": "455a0cb3bb7f77acddf7a891cf8ab8151cb44a5edd2298b022b205cc88fdef63"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
