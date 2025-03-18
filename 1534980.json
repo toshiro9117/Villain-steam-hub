@@ -4,8 +4,8 @@
     "name": "Terminus: Zombie Survivors",
     "schinese_name": "终点站：僵尸幸存者",
     "isfreeapp": "0",
-    "change_number": "27529958",
-    "update_time": "2025-02-18 16:08:26",
+    "change_number": "27988172",
+    "update_time": "2025-03-17 14:02:48",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,latam",
         "1534981": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5286518980204717990",
-                    "size": "666414045",
-                    "download": "345087584"
+                    "gid": "3197971848348130243",
+                    "size": "666418973",
+                    "download": "345089248"
                 },
                 "v1.0": {
                     "gid": "6223228141365906701",
@@ -24,9 +24,9 @@
                     "download": "342816112"
                 },
                 "v1.1": {
-                    "gid": "5286518980204717990",
-                    "size": "666414045",
-                    "download": "345087584"
+                    "gid": "3197971848348130243",
+                    "size": "666418973",
+                    "download": "345089248"
                 }
             },
             "decryptionkey": "9f940a36197a584e7fcc6806bad77514d91f7fae2df88396688351ddfedc2108"
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2779692544476021930",
-                    "size": "738037149",
-                    "download": "357285008"
+                    "gid": "337745226357898204",
+                    "size": "738042161",
+                    "download": "357286560"
                 },
                 "v1.0": {
                     "gid": "4481846101266548160",
@@ -47,17 +47,17 @@
                     "download": "354950736"
                 },
                 "v1.1": {
-                    "gid": "2779692544476021930",
-                    "size": "738037149",
-                    "download": "357285008"
+                    "gid": "337745226357898204",
+                    "size": "738042161",
+                    "download": "357286560"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17478270",
-                "timeupdated": "1740365702"
+                "buildid": "17583488",
+                "timeupdated": "1741060714"
             },
             "v1.0": {
                 "buildid": "15781126",
@@ -65,9 +65,9 @@
                 "timeupdated": "1726924783"
             },
             "v1.1": {
-                "buildid": "17478270",
+                "buildid": "17583488",
                 "description": "Public release v1.1",
-                "timeupdated": "1740365684"
+                "timeupdated": "1741060697"
             }
         },
         "privatebranches": "1"
