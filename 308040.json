@@ -4,8 +4,8 @@
     "name": "Back to Bed",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27122093",
-    "update_time": "2025-01-23 09:26:45",
+    "change_number": "27812118",
+    "update_time": "2025-03-06 18:05:48",
     "depot": {
         "228990": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "253007008"
                 }
             },
-            "decryptionkey": "78f6c4a5a78ec140925404aead896a89ceee94848f70f74f7d86c2409585bcb6"
+            "decryptionkey": ""
         },
         "308042": {
             "config": {
@@ -59,7 +59,7 @@
                     "download": "13762117120"
                 }
             },
-            "decryptionkey": "ee420bb58d06645a20292a78ee7b72a0361df687613859094b25923609d789bd"
+            "decryptionkey": ""
         },
         "308044": {
             "config": {
@@ -83,7 +83,7 @@
                     "download": "31412016496"
                 }
             },
-            "decryptionkey": "4a5b3b71fc15ef42adce73ac0221e6db645c8a043830639c05f32203b48f6ba9"
+            "decryptionkey": ""
         },
         "308043": {
             "config": {
@@ -107,7 +107,7 @@
                     "download": "245910592"
                 }
             },
-            "decryptionkey": "d7cfa81fa1de48053f1d0a79653df58a94298c5b860a8b8372618629b39dce81"
+            "decryptionkey": ""
         },
         "308046": {
             "config": {
@@ -131,7 +131,7 @@
                     "download": "246666464"
                 }
             },
-            "decryptionkey": "f30e5e7d0dfa5f7e69f25e553eecb37f5acac19f841af7b5a6a06d2f812f76d0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
