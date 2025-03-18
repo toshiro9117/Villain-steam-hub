@@ -4,8 +4,8 @@
     "name": "Trine 3: The Artifacts of Power",
     "schinese_name": "三位一体3：权力圣器",
     "isfreeapp": "0",
-    "change_number": "27107574",
-    "update_time": "2025-01-22 15:26:16",
+    "change_number": "27971746",
+    "update_time": "2025-03-15 19:21:24",
     "depot": {
         "228990": {
             "config": {
@@ -100,7 +100,7 @@
                     "download": "3908796000"
                 }
             },
-            "decryptionkey": "cca12574c309b85162a4ac9c0ebb1de487fd564dec12d29b5cac30f0cc9c0428"
+            "decryptionkey": ""
         },
         "319912": {
             "config": {
@@ -188,7 +188,7 @@
                     "download": "3390001728"
                 }
             },
-            "decryptionkey": "71ae9bf5ad57237b662930bdcb1753cc68e93bd59c5973448446a2b0392c6cd6"
+            "decryptionkey": ""
         },
         "319913": {
             "config": {
@@ -276,7 +276,7 @@
                     "download": "3386722816"
                 }
             },
-            "decryptionkey": "2bbdfdd8c7e9805276dcc2f721cf8cbf400da02dc8be7e666d6272c8fea6b3dc"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
