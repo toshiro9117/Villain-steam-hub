@@ -4,8 +4,8 @@
     "name": "Kuroinu 2 Redux",
     "schinese_name": "黑兽2‧改",
     "isfreeapp": "0",
-    "change_number": "27731742",
-    "update_time": "2025-03-01 17:46:09",
+    "change_number": "28008769",
+    "update_time": "2025-03-18 15:56:31",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "630064320"
                 }
             },
-            "decryptionkey": "682c7601460a705d5841320d68100eb63eb6f0d4eb0259069fafbbad144ca4fb"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
