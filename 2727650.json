@@ -4,8 +4,8 @@
     "name": "WHAT THE CAR?",
     "schinese_name": "WHAT THE CAR? 万物皆可赛车",
     "isfreeapp": "0",
-    "change_number": "27534772",
-    "update_time": "2025-02-18 21:15:27",
+    "change_number": "27946715",
+    "update_time": "2025-03-14 09:31:27",
     "depot": {
         "hasdepotsindlc": "0",
         "2727652": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3937658488833949237",
-                    "size": "2959148579",
-                    "download": "466752768"
+                    "gid": "8022799865025142899",
+                    "size": "2988294851",
+                    "download": "468360336"
                 }
             },
             "decryptionkey": ""
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7099274126935413319",
-                    "size": "2644116735",
-                    "download": "405718448"
+                    "gid": "4319324764885208036",
+                    "size": "2672987653",
+                    "download": "407425984"
                 }
             },
             "decryptionkey": "38b9b13f02f1364f6559e2e54c1ed8bf72c0022dba9dc433df0a351779500a28"
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17143315",
-                "timeupdated": "1738878235"
+                "buildid": "17407601",
+                "timeupdated": "1741337174"
             }
         },
         "privatebranches": "1"
