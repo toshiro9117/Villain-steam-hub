@@ -4,8 +4,8 @@
     "name": "Quilts and Cats of Calico",
     "schinese_name": "Quilts and Cats of Calico (猫与花毯)",
     "isfreeapp": "0",
-    "change_number": "27726348",
-    "update_time": "2025-03-01 06:05:17",
+    "change_number": "28002653",
+    "update_time": "2025-03-18 06:03:59",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "765543168"
                 }
             },
-            "decryptionkey": "48ad17bb37e37e71de758e5b9ee0d7d47226b35fdf3683d749b1318901577ed4"
+            "decryptionkey": ""
         },
         "1993182": {
             "config": {
@@ -45,7 +45,7 @@
                     "download": "794818912"
                 }
             },
-            "decryptionkey": "e8611329122cc87a03b0fe2d9f26f302e46a9df22115ece8c01c41467c0f218e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
