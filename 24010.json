@@ -2,10 +2,10 @@
     "appid": "24010",
     "type": "Game",
     "name": "Train Simulator Classic 2024",
-    "schinese_name": "模拟列车2022",
+    "schinese_name": "经典模拟列车 2024",
     "isfreeapp": "0",
-    "change_number": "27532916",
-    "update_time": "2025-02-18 19:16:56",
+    "change_number": "27963664",
+    "update_time": "2025-03-15 03:23:04",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish",
@@ -140,7 +140,7 @@
                     "download": "624162432"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "075850bf5694192c6520a7b02d2ba9157e33eeb7759603b7c3f85401da2660b2"
         },
         "325958": {
             "dlcappid": "325958",
@@ -380,7 +380,7 @@
                     "download": "56589040"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "382b048f682d76a61f533b152faaecc10e0d57a6acec8334e190b4b5093ced0f"
         },
         "277775": {
             "dlcappid": "277775",
@@ -492,7 +492,7 @@
                     "download": "19535216"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3ca24ef9894be4e781a34550ed35fe582622f5dee444ce1641c52f76b9c5bc70"
         },
         "275139": {
             "dlcappid": "275139",
@@ -1712,7 +1712,7 @@
                     "download": "15564819048"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "24d77fecd4e65b407a96264caacd1e7fe672a63d3c3903d1363966b899b693dd"
         },
         "258671": {
             "dlcappid": "258671",
@@ -1872,7 +1872,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a4fe9ec0d0466b94659328c8b93e21d0ed692f95a670b257d472e8a66df91287"
         },
         "275142": {
             "dlcappid": "275142",
@@ -8248,7 +8248,7 @@
                     "download": "69638384"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "be089e652bc4823cf1c735543eb0f90adc7df33fd888c875d3f6047bb598b3fb"
         },
         "295192": {
             "dlcappid": "295192",
@@ -9072,7 +9072,7 @@
                     "download": "28707104"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ec28cff407be3602762d2db664e47b87d9306498e7ea99ec0656e97fbb66e4d4"
         },
         "326012": {
             "dlcappid": "326012",
@@ -9088,7 +9088,7 @@
                     "download": "4363056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "334f1d1de54a751e04138160adb3dfd917e337b2460d34784fb9cbabd714e149"
         },
         "326013": {
             "dlcappid": "326013",
@@ -11219,7 +11219,7 @@
                     "download": "52822576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fed0f951a28d46b11423fb4306e19c46bf627715341ecb8dbd15905d8b51332d"
         },
         "500244": {
             "dlcappid": "500244",
@@ -11619,7 +11619,7 @@
                     "download": "142377056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f0bad709bff50c088d9dfac4e51f73f7dc9c9745d68bc8e6cdb32522a58cb431"
         },
         "513095": {
             "dlcappid": "513095",
@@ -13190,7 +13190,7 @@
                     "download": "646429296"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "25390eafbbaa467981ad52800e3173280099fe3d7652e2b794690b05933d7873"
         },
         "678160": {
             "dlcappid": "678160",
@@ -16121,7 +16121,7 @@
                     "download": "942202032"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7e83ff48b5eafdbdd72369142af141f7a5b8fb81869c8b645a4a46cf430f1b67"
         },
         "1267506": {
             "dlcappid": "1267506",
@@ -16185,7 +16185,7 @@
                     "download": "704265280"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a7443e80bce2af263679d12de13989f071b980b928b54ea2cc1c48c59ed94bd2"
         },
         "24084": {
             "optional": "1",
@@ -18986,14 +18986,14 @@
             "dlcappid": "2956110",
             "manifests": {
                 "public": {
-                    "gid": "7931180375146122885",
-                    "size": "587545109",
-                    "download": "90531296"
+                    "gid": "8023079482561796653",
+                    "size": "582525411",
+                    "download": "89667024"
                 },
                 "public_beta": {
-                    "gid": "7931180375146122885",
-                    "size": "587545109",
-                    "download": "90531296"
+                    "gid": "8023079482561796653",
+                    "size": "582525411",
+                    "download": "89667024"
                 }
             },
             "decryptionkey": ""
@@ -19018,14 +19018,14 @@
             "dlcappid": "2956140",
             "manifests": {
                 "public": {
-                    "gid": "2942907188177323594",
-                    "size": "636693015",
-                    "download": "300697216"
+                    "gid": "8038932593767127859",
+                    "size": "636583561",
+                    "download": "300707280"
                 },
                 "public_beta": {
-                    "gid": "2942907188177323594",
-                    "size": "636693015",
-                    "download": "300697216"
+                    "gid": "8038932593767127859",
+                    "size": "636583561",
+                    "download": "300707280"
                 }
             },
             "decryptionkey": ""
@@ -19050,13 +19050,52 @@
             "dlcappid": "3402740"
         },
         "3402750": {
-            "dlcappid": "3402750"
+            "dlcappid": "3402750",
+            "manifests": {
+                "public": {
+                    "gid": "2347577335010072762",
+                    "size": "1465209817",
+                    "download": "475255744"
+                },
+                "public_beta": {
+                    "gid": "2347577335010072762",
+                    "size": "1465209817",
+                    "download": "475255744"
+                }
+            },
+            "decryptionkey": ""
         },
         "3402760": {
-            "dlcappid": "3402760"
+            "dlcappid": "3402760",
+            "manifests": {
+                "public": {
+                    "gid": "8247892770030704055",
+                    "size": "13574831",
+                    "download": "8983968"
+                },
+                "public_beta": {
+                    "gid": "8247892770030704055",
+                    "size": "13574831",
+                    "download": "8983968"
+                }
+            },
+            "decryptionkey": ""
         },
         "3402790": {
-            "dlcappid": "3402790"
+            "dlcappid": "3402790",
+            "manifests": {
+                "public": {
+                    "gid": "1604271551296583565",
+                    "size": "9723039799",
+                    "download": "1803878384"
+                },
+                "public_beta": {
+                    "gid": "1604271551296583565",
+                    "size": "9723039799",
+                    "download": "1803878384"
+                }
+            },
+            "decryptionkey": ""
         },
         "3402800": {
             "dlcappid": "3402800"
@@ -19139,13 +19178,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17458175",
-                "timeupdated": "1740156192"
+                "buildid": "17690779",
+                "timeupdated": "1741773786"
             },
             "public_beta": {
-                "buildid": "17458152",
+                "buildid": "17690767",
                 "description": "Public Beta branch",
-                "timeupdated": "1740156091"
+                "timeupdated": "1741773752"
             }
         },
         "privatebranches": "1",
