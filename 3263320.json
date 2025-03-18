@@ -4,8 +4,8 @@
     "name": "Carry The Glass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27530891",
-    "update_time": "2025-02-18 17:14:15",
+    "change_number": "28010684",
+    "update_time": "2025-03-18 17:56:29",
     "depot": {
         "228989": {
             "config": {
@@ -27,27 +27,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7609701599864110790",
-                    "size": "827249084",
-                    "download": "652768240"
+                    "gid": "4056087566810920814",
+                    "size": "1232871073",
+                    "download": "1057600848"
                 },
                 "beta": {
                     "gid": "7050911059434209289",
                     "size": "775660977",
                     "download": "601638496"
+                },
+                "debugging": {
+                    "gid": "4313940429514935766",
+                    "size": "1954430440",
+                    "download": "621009056"
                 }
             },
-            "decryptionkey": "c37aea5aa76e0d105869e5a7b3134002ffb8d512a43b5c5abbd2f4007f11a627"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17437417",
-                "timeupdated": "1740049190"
+                "buildid": "17732749",
+                "timeupdated": "1741996189"
             },
             "beta": {
                 "buildid": "16672264",
                 "description": "beta_testing_before_public",
                 "timeupdated": "1733660651"
+            },
+            "debugging": {
+                "buildid": "17496991",
+                "description": "For Debug Game",
+                "timeupdated": "1740475009"
             }
         },
         "privatebranches": "1"
