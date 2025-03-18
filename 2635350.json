@@ -4,8 +4,8 @@
     "name": "United Penguin Kingdom",
     "schinese_name": "企鹅联合王国",
     "isfreeapp": "0",
-    "change_number": "27730250",
-    "update_time": "2025-03-01 13:46:23",
+    "change_number": "27967988",
+    "update_time": "2025-03-15 09:23:05",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1006552976"
                 }
             },
-            "decryptionkey": "f2daf32eb00314d34d9c47c1be8c9f983c39a5b5b74782a1e30f0884600e529f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
