@@ -4,8 +4,8 @@
     "name": "Crystal Project",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27370685",
-    "update_time": "2025-02-08 04:37:41",
+    "change_number": "27983510",
+    "update_time": "2025-03-17 03:31:57",
     "depot": {
         "228990": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "628007521841152550",
-                    "size": "561704128",
-                    "download": "519041776"
+                    "gid": "8509842114059693171",
+                    "size": "561705724",
+                    "download": "519040992"
                 },
                 "beta": {
-                    "gid": "628007521841152550",
-                    "size": "561704128",
-                    "download": "519041776"
+                    "gid": "8509842114059693171",
+                    "size": "561705724",
+                    "download": "519040992"
                 },
                 "console": {
                     "gid": "700812043765417117",
@@ -55,14 +55,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8214221379218363845",
-                    "size": "583881584",
-                    "download": "525692432"
+                    "gid": "5246885696040514977",
+                    "size": "583883180",
+                    "download": "525691536"
                 },
                 "beta": {
-                    "gid": "8214221379218363845",
-                    "size": "583881584",
-                    "download": "525692432"
+                    "gid": "5246885696040514977",
+                    "size": "583883180",
+                    "download": "525691536"
                 },
                 "console": {
                     "gid": "5682269808696338950",
@@ -83,14 +83,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7789340199161510619",
-                    "size": "598309969",
-                    "download": "528885216"
+                    "gid": "7945854265323944880",
+                    "size": "598311565",
+                    "download": "528884320"
                 },
                 "beta": {
-                    "gid": "7789340199161510619",
-                    "size": "598309969",
-                    "download": "528885216"
+                    "gid": "7945854265323944880",
+                    "size": "598311565",
+                    "download": "528884320"
                 },
                 "console": {
                     "gid": "4540953591792289880",
@@ -108,13 +108,13 @@
         "workshopdepot": "1637730",
         "branches": {
             "public": {
-                "buildid": "17274610",
-                "timeupdated": "1738960658"
+                "buildid": "17744482",
+                "timeupdated": "1742153512"
             },
             "beta": {
-                "buildid": "17274610",
+                "buildid": "17744482",
                 "description": "For testing the latest build before it goes live.",
-                "timeupdated": "1738960622"
+                "timeupdated": "1742153480"
             },
             "console": {
                 "buildid": "13861345",
