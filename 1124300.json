@@ -4,8 +4,8 @@
     "name": "HUMANKIND™",
     "schinese_name": "人类",
     "isfreeapp": "0",
-    "change_number": "27515089",
-    "update_time": "2025-02-17 20:15:47",
+    "change_number": "28003232",
+    "update_time": "2025-03-18 06:55:19",
     "depot": {
         "228984": {
             "config": {
@@ -72,7 +72,7 @@
                     "download": "14885965824"
                 }
             },
-            "decryptionkey": "31824a528b21cc0a39767df59e54f348eea747f224c7df02c059dceeb02d744a"
+            "decryptionkey": ""
         },
         "1124302": {
             "config": {
@@ -96,7 +96,7 @@
                     "download": "14896842624"
                 }
             },
-            "decryptionkey": "a69d865390db19a0c3c7a5a141b33fbbb1b732aff23e1b9cc0f5b7bc706aa623"
+            "decryptionkey": ""
         },
         "1124303": {
             "dlcappid": "1633650",
@@ -117,7 +117,7 @@
                     "download": "188456944"
                 }
             },
-            "decryptionkey": "5193634fe68221a87011d503d6041e6f94ecd34252547c4e9a7bd2dfd3d9cdc7"
+            "decryptionkey": ""
         },
         "workshopdepot": "1124300",
         "branches": {
@@ -137,6 +137,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4d092aea0cdc3bc272cb80eb0511617bc474b5cdafcebae2408b700eadf9ce84"
+        "workshopdepotdecryptionkey": ""
     }
 }
