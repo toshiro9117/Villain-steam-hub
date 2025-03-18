@@ -2,10 +2,10 @@
     "appid": "2109270",
     "type": "Game",
     "name": "Preserve",
-    "schinese_name": "",
+    "schinese_name": "东篱之下",
     "isfreeapp": "0",
-    "change_number": "27730468",
-    "update_time": "2025-03-01 14:23:45",
+    "change_number": "28004230",
+    "update_time": "2025-03-18 08:28:23",
     "depot": {
         "baselanguages": "english",
         "2109271": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7890117986028175319",
-                    "size": "1103331178",
-                    "download": "674049200"
+                    "gid": "4216272422890807488",
+                    "size": "1113757239",
+                    "download": "682716624"
                 }
             },
             "decryptionkey": "159b87c9592c3fcd889e37b4bb9ad67aa87361e8e6f1dc80f56e7013ce994bc0"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8978717313300555061",
-                    "size": "934368806",
-                    "download": "742349920"
+                    "gid": "1886085547035993030",
+                    "size": "942953352",
+                    "download": "749501488"
                 }
             },
             "decryptionkey": ""
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17454140",
-                "timeupdated": "1740137344"
+                "buildid": "17620909",
+                "timeupdated": "1741271214"
             }
         },
         "privatebranches": "1"
