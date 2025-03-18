@@ -4,8 +4,8 @@
     "name": "TRAILCAM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27317492",
-    "update_time": "2025-02-05 09:15:57",
+    "change_number": "27917049",
+    "update_time": "2025-03-13 02:10:09",
     "depot": {
         "228989": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "2420595840"
                 }
             },
-            "decryptionkey": "30e1e62ad0ece1aa5d1eeb5465d40d604d393724581c9a43a9c4b1a341cd1691"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
