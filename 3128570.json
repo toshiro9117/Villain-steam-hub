@@ -4,8 +4,8 @@
     "name": "法医探案团之碎嘴小诗",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27721498",
-    "update_time": "2025-03-01 00:45:44",
+    "change_number": "28012245",
+    "update_time": "2025-03-18 19:40:17",
     "depot": {
         "hasdepotsindlc": "0",
         "3128571": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5709924100785469318",
-                    "size": "3177716822",
-                    "download": "3025900256"
+                    "gid": "53413912034526320",
+                    "size": "3169771169",
+                    "download": "3026610528"
                 }
             },
             "decryptionkey": "f9570382bc6e398c8c6a6871d3672a14212c5391c71d5438e6c3396364404cae"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3709817029117972591",
-                    "size": "3172663588",
-                    "download": "3021578128"
+                    "gid": "7633868787327839107",
+                    "size": "3164714714",
+                    "download": "3022440944"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17347351",
-                "timeupdated": "1739435829"
+                "buildid": "17632033",
+                "timeupdated": "1741337763"
             }
         },
         "privatebranches": "1"
