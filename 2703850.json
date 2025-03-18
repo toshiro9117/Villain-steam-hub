@@ -4,8 +4,8 @@
     "name": "Rooftops & Alleys: The Parkour Game",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27724163",
-    "update_time": "2025-03-01 03:22:23",
+    "change_number": "28004110",
+    "update_time": "2025-03-18 08:19:17",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1058820008733922914",
-                    "size": "1279748767",
-                    "download": "1077209584"
+                    "gid": "5551489055012161443",
+                    "size": "1329140972",
+                    "download": "1125900368"
                 }
             },
-            "decryptionkey": "e64721646710451cc632805df1472e27540a29c83d26bb7a225f91eb38d8e828"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17282259",
-                "timeupdated": "1738947811"
+                "buildid": "17568474",
+                "timeupdated": "1741028450"
             }
         },
         "privatebranches": "1"
