@@ -4,8 +4,8 @@
     "name": "Dark Hours",
     "schinese_name": "劫盗惊魂夜",
     "isfreeapp": "0",
-    "change_number": "27722105",
-    "update_time": "2025-03-01 01:18:12",
+    "change_number": "27993614",
+    "update_time": "2025-03-17 21:00:55",
     "depot": {
         "228989": {
             "config": {
@@ -28,18 +28,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6423174413206784987",
-                    "size": "3924884105",
-                    "download": "3757937264"
+                    "gid": "824550832088821077",
+                    "size": "3749301245",
+                    "download": "3588908064"
                 }
             },
-            "decryptionkey": "0712fda8075e570ec33f25a8e1d2f12b0027b76e2d415ee0433e2099eafe4c03"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian",
         "branches": {
             "public": {
-                "buildid": "17550321",
-                "timeupdated": "1740763089"
+                "buildid": "17607512",
+                "timeupdated": "1741857350"
             }
         },
         "privatebranches": "1"
