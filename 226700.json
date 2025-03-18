@@ -4,8 +4,8 @@
     "name": "Infestation: The New Beginning",
     "schinese_name": "感染：生存故事",
     "isfreeapp": "1",
-    "change_number": "27447009",
-    "update_time": "2025-02-13 04:56:51",
+    "change_number": "27762107",
+    "update_time": "2025-03-04 05:43:37",
     "depot": {
         "overridescddb": "1",
         "228985": {
@@ -19,8 +19,7 @@
                     "download": "13244128"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c"
+            "depotfromapp": "228980"
         },
         "228988": {
             "config": {
@@ -33,8 +32,7 @@
                     "download": "22411856"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358"
+            "depotfromapp": "228980"
         },
         "228990": {
             "config": {
@@ -47,8 +45,7 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+            "depotfromapp": "228980"
         },
         "226701": {
             "systemdefined": "1",
@@ -58,17 +55,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3396063496284708116",
-                    "size": "18662297866",
-                    "download": "15444953120"
+                    "gid": "300259845097965117",
+                    "size": "18682149455",
+                    "download": "15459474976"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17342447",
-                "timeupdated": "1739393806"
+                "buildid": "17580133",
+                "timeupdated": "1741038213"
             }
         }
     }
