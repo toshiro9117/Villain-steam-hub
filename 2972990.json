@@ -4,8 +4,8 @@
     "name": "ホロライブお宝マウンテン",
     "schinese_name": "hololive 宝藏山",
     "isfreeapp": "0",
-    "change_number": "27711249",
-    "update_time": "2025-02-28 16:38:13",
+    "change_number": "28010464",
+    "update_time": "2025-03-18 17:44:56",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "japanese",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7643571431197624204",
-                    "size": "1172547100",
-                    "download": "869118080"
+                    "gid": "39500282801201164",
+                    "size": "1256407740",
+                    "download": "939408528"
                 }
             },
             "decryptionkey": "ea1cd8602a13532c0c96f3cb78272bc4215facf80bbc9ebe3c9fb822fba7aba7"
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5783801527251081156",
-                    "size": "1347301040",
-                    "download": "904834912"
+                    "gid": "3407603890391224478",
+                    "size": "1431301348",
+                    "download": "972033472"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17389221",
-                "timeupdated": "1740022316"
+                "buildid": "17570951",
+                "timeupdated": "1741231968"
             }
         },
         "privatebranches": "1"
