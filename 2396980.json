@@ -4,8 +4,8 @@
     "name": "Fate/stay night REMASTERED",
     "schinese_name": "命运之夜重制版",
     "isfreeapp": "0",
-    "change_number": "27729623",
-    "update_time": "2025-03-01 12:05:15",
+    "change_number": "28004130",
+    "update_time": "2025-03-18 08:22:08",
     "depot": {
         "228989": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "8723372848"
                 }
             },
-            "decryptionkey": "62bc96ae2b5b2f680456b0ec8a425ab43d8a57725810e3c3efe590cf7e31f6fc"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
