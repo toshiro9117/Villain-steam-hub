@@ -4,8 +4,8 @@
     "name": "诸天刷宝录",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731274",
-    "update_time": "2025-03-01 16:46:28",
+    "change_number": "28013356",
+    "update_time": "2025-03-18 20:56:23",
     "depot": {
         "2776451": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "333847930922941104",
-                    "size": "524208035",
-                    "download": "349069968"
+                    "gid": "368450692898149815",
+                    "size": "529083981",
+                    "download": "354011840"
                 },
                 "compatibility": {
-                    "gid": "77838533930910650",
-                    "size": "489244580",
-                    "download": "337768880"
+                    "gid": "9144472902485852509",
+                    "size": "493943664",
+                    "download": "342519248"
                 }
             },
             "decryptionkey": "d344b9a8eb3356663a0ad386889d0a675acdf4e1b2e41aa43d220e0ef38e65a8"
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7049153464654453717",
-                    "size": "459686816",
-                    "download": "332886304"
+                    "gid": "3962024657813819235",
+                    "size": "464774334",
+                    "download": "338025712"
                 },
                 "compatibility": {
-                    "gid": "7049153464654453717",
-                    "size": "459686816",
-                    "download": "332886304"
+                    "gid": "3962024657813819235",
+                    "size": "464774334",
+                    "download": "338025712"
                 }
             },
             "decryptionkey": ""
@@ -49,13 +49,13 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "17555043",
-                "timeupdated": "1740791199"
+                "buildid": "17763233",
+                "timeupdated": "1742290104"
             },
             "compatibility": {
-                "buildid": "17531890",
+                "buildid": "17763276",
                 "description": "无法进入游戏专用",
-                "timeupdated": "1740663896"
+                "timeupdated": "1742290376"
             }
         },
         "privatebranches": "1"
