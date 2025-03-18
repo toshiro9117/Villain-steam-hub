@@ -4,8 +4,8 @@
     "name": "巴哈姆特2-龍之新娘(Bahamut2-dragon's bride)",
     "schinese_name": "巴哈姆特2-龙之新娘",
     "isfreeapp": "0",
-    "change_number": "25605085",
-    "update_time": "2024-10-09 04:18:17",
+    "change_number": "27994674",
+    "update_time": "2025-03-17 21:42:46",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6216807176309458089",
-                    "size": "962845950",
-                    "download": "717269440"
+                    "gid": "5394248202261506312",
+                    "size": "962816303",
+                    "download": "717268816"
                 },
                 "alphatest": {
-                    "gid": "6216807176309458089",
-                    "size": "962845950",
-                    "download": "717269440"
+                    "gid": "5394248202261506312",
+                    "size": "962816303",
+                    "download": "717268816"
                 }
             },
             "decryptionkey": "75c6d5f7828956c11fa41dbb3c0f5c53eb5622154bbaf623766aee436c7292f3"
@@ -35,14 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7066804550604499730",
-                    "size": "914830050",
-                    "download": "667950816"
+                    "gid": "8590296487353770035",
+                    "size": "914799606",
+                    "download": "667949632"
                 },
                 "alphatest": {
-                    "gid": "7066804550604499730",
-                    "size": "914830050",
-                    "download": "667950816"
+                    "gid": "8590296487353770035",
+                    "size": "914799606",
+                    "download": "667949632"
                 }
             },
             "decryptionkey": "048158686aa59345e50a63b01de625e02430e59d533a9491a88dca5fa4236a82"
@@ -92,14 +92,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5141557064329913545",
-                    "size": "1245444885",
-                    "download": "805659200"
+                    "gid": "7505843826821806136",
+                    "size": "1245444907",
+                    "download": "805659280"
                 },
                 "alphatest": {
-                    "gid": "5141557064329913545",
-                    "size": "1245444885",
-                    "download": "805659200"
+                    "gid": "7505843826821806136",
+                    "size": "1245444907",
+                    "download": "805659280"
                 }
             },
             "decryptionkey": ""
@@ -163,13 +163,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "14889838",
-                "timeupdated": "1719799356"
+                "buildid": "17752211",
+                "timeupdated": "1742218962"
             },
             "alphatest": {
-                "buildid": "14889803",
+                "buildid": "17751962",
                 "description": "Steam Deck Test Branch",
-                "timeupdated": "1719799242"
+                "timeupdated": "1742217642"
             }
         }
     }
