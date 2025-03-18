@@ -4,8 +4,8 @@
     "name": "SILENT BREATH",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27469766",
-    "update_time": "2025-02-14 08:15:29",
+    "change_number": "27806896",
+    "update_time": "2025-03-06 11:01:23",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2796181": {
             "manifests": {
                 "public": {
-                    "gid": "8008426595655309722",
-                    "size": "13841771382",
-                    "download": "13530533088"
+                    "gid": "6322375134805563797",
+                    "size": "6883328535",
+                    "download": "6600484304"
                 },
                 "public_beta": {
                     "gid": "7160071858301256625",
@@ -34,13 +34,13 @@
                     "download": "11404265680"
                 }
             },
-            "decryptionkey": "0bc95c642ade277747008c7f43a7903ef23726feaa4dce9411f15cf287aebd16"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17324581",
-                "timeupdated": "1739293485"
+                "buildid": "17613258",
+                "timeupdated": "1741230078"
             },
             "public_beta": {
                 "buildid": "14118960",
