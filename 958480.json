@@ -4,8 +4,8 @@
     "name": "Seed of the Dead",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725846",
-    "update_time": "2025-03-01 05:23:24",
+    "change_number": "27901127",
+    "update_time": "2025-03-12 08:08:21",
     "depot": {
         "228986": {
             "config": {
@@ -37,7 +37,7 @@
                     "download": "2592290368"
                 }
             },
-            "decryptionkey": "c8d02a3f078c34721d045d369fb9c3885645666b815e0e9e957b73cfe9d9ef82"
+            "decryptionkey": ""
         },
         "baselanguages": "english,spanish,schinese,tchinese,japanese",
         "branches": {
