@@ -4,8 +4,8 @@
     "name": "Coin Pusher Casino",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27332667",
-    "update_time": "2025-02-06 04:08:25",
+    "change_number": "28010800",
+    "update_time": "2025-03-18 18:04:11",
     "depot": {
         "2178591": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4724336067252545663",
-                    "size": "841670701",
-                    "download": "484381360"
+                    "gid": "3951253117237438884",
+                    "size": "909065662",
+                    "download": "546119920"
                 },
                 "experimental": {
-                    "gid": "2972542970138823917",
-                    "size": "872362341",
-                    "download": "513520640"
+                    "gid": "3951253117237438884",
+                    "size": "909065662",
+                    "download": "546119920"
                 }
             },
             "decryptionkey": "c699d843398fb056d9d3e5ae5012aa328ba50fedacba89ed51fac3020baf1473"
@@ -33,27 +33,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "192494245458998460",
-                    "size": "916901266",
-                    "download": "506027872"
+                    "gid": "5900559267982016190",
+                    "size": "983613274",
+                    "download": "567017616"
                 },
                 "experimental": {
-                    "gid": "192494245458998460",
-                    "size": "916901266",
-                    "download": "506027872"
+                    "gid": "5900559267982016190",
+                    "size": "983613274",
+                    "download": "567017616"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16605271",
-                "timeupdated": "1733168575"
+                "buildid": "17698790",
+                "timeupdated": "1741878358"
             },
             "experimental": {
-                "buildid": "17442677",
+                "buildid": "17698790",
                 "description": "Experimental updates",
-                "timeupdated": "1740072468"
+                "timeupdated": "1741861604"
             }
         },
         "privatebranches": "1"
