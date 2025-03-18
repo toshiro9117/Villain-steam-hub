@@ -4,8 +4,8 @@
     "name": "LIMSCAPE DEMO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26802895",
-    "update_time": "2024-12-28 15:58:54",
+    "change_number": "27981609",
+    "update_time": "2025-03-16 22:55:25",
     "depot": {
         "228989": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "1282357264",
                     "download": "902424496"
                 }
-            },
-            "decryptionkey": "ea6448f77bd6e7cdab3d51211b1143e515176ce34f9fe3f7dff992acc70f21da"
+            }
         },
         "branches": {
             "public": {
