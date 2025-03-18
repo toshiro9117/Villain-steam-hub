@@ -4,8 +4,8 @@
     "name": "Panzer Corps 2",
     "schinese_name": "装甲军团2",
     "isfreeapp": "0",
-    "change_number": "27718970",
-    "update_time": "2025-02-28 22:25:30",
+    "change_number": "27916947",
+    "update_time": "2025-03-13 02:03:30",
     "depot": {
         "228988": {
             "config": {
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8736305454370146968",
-                    "size": "17589759747",
-                    "download": "4920026768"
+                    "gid": "1912819675102497582",
+                    "size": "18207759087",
+                    "download": "5094449472"
                 },
                 "1.01.14": {
                     "gid": "8976500155800556478",
@@ -54,7 +54,7 @@
                     "download": "4141648256"
                 }
             },
-            "decryptionkey": "de3fa40c340b3cb190b613e2b7a7bca726ddf02e1f4bae16c791690ee024b6d1"
+            "decryptionkey": ""
         },
         "1072042": {
             "config": {
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2441619212758140351",
-                    "size": "14412261",
-                    "download": "9959840"
+                    "gid": "1022119184409908778",
+                    "size": "14407170",
+                    "download": "9976256"
                 },
                 "1.01.14": {
                     "gid": "3958767834342413220",
@@ -82,7 +82,7 @@
                     "download": "7934736"
                 }
             },
-            "decryptionkey": "e27db59a9366a37f00f6ce0299a1a410c1d76dd9853d3237ffb91d4868c66b61"
+            "decryptionkey": ""
         },
         "1072043": {
             "config": {
@@ -111,13 +111,13 @@
                     "download": "1359145712"
                 }
             },
-            "decryptionkey": "522b0f0ead27b98349b6d52271b3842f2a97b8ee361186054d2191d8400657a9"
+            "decryptionkey": ""
         },
         "workshopdepot": "1072040",
         "branches": {
             "public": {
-                "buildid": "16568301",
-                "timeupdated": "1733234343"
+                "buildid": "17548206",
+                "timeupdated": "1741705129"
             },
             "1.01.14": {
                 "buildid": "5945917",
@@ -136,6 +136,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "099127c0769b81e60bda0a6a17bd4c507de3012e4d1e917a244402a509475dcf"
+        "workshopdepotdecryptionkey": ""
     }
 }
