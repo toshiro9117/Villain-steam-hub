@@ -4,16 +4,16 @@
     "name": "Dustland Delivery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27510677",
-    "update_time": "2025-02-17 14:47:29",
+    "change_number": "28010164",
+    "update_time": "2025-03-18 17:24:58",
     "depot": {
         "workshopdepot": "2943280",
         "2943281": {
             "manifests": {
                 "public": {
-                    "gid": "460423115420010042",
-                    "size": "2071299695",
-                    "download": "220895440"
+                    "gid": "5989435222622054014",
+                    "size": "2078174195",
+                    "download": "221423744"
                 }
             },
             "decryptionkey": "21e8caf4a1bbff8f83e2f1d46bdf17045d0466e7c9a319a99094e0bcd945b6d6"
@@ -22,17 +22,21 @@
             "dlcappid": "3404490",
             "manifests": {
                 "public": {
-                    "gid": "6749212909342799513",
-                    "size": "2071299695",
-                    "download": "220960128"
+                    "gid": "5303274178447187119",
+                    "size": "2078174195",
+                    "download": "221493520"
                 }
             },
             "decryptionkey": ""
         },
+        "3559340": {
+            "dlcappid": "3559340",
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "17362934",
-                "timeupdated": "1739523573"
+                "buildid": "17722653",
+                "timeupdated": "1741944633"
             }
         },
         "privatebranches": "1",
