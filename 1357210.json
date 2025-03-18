@@ -4,8 +4,8 @@
     "name": "Galactic Civilizations IV",
     "schinese_name": "银河文明IV",
     "isfreeapp": "0",
-    "change_number": "27536076",
-    "update_time": "2025-02-18 22:33:01",
+    "change_number": "27939623",
+    "update_time": "2025-03-14 01:50:13",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,brazilian,greek,latam",
         "workshopdepot": "1357210",
@@ -27,9 +27,9 @@
         "1357211": {
             "manifests": {
                 "public": {
-                    "gid": "6788707008605482005",
-                    "size": "22054041803",
-                    "download": "17925051136"
+                    "gid": "5128568344910695336",
+                    "size": "22520070072",
+                    "download": "18384212960"
                 },
                 "version_1.51": {
                     "gid": "5431806142850171811",
@@ -37,12 +37,12 @@
                     "download": "19562369008"
                 },
                 "insiders": {
-                    "gid": "2576387917593422428",
-                    "size": "22516430043",
-                    "download": "18380645776"
+                    "gid": "5128568344910695336",
+                    "size": "22520070072",
+                    "download": "18384212960"
                 }
             },
-            "decryptionkey": "e1b28e464e8a1b73bce264c89ada3f3c39d55f32e584807487f8696e927901ff"
+            "decryptionkey": ""
         },
         "1357212": {
             "manifests": {
@@ -62,12 +62,12 @@
                     "download": "36712048"
                 }
             },
-            "decryptionkey": "c867831f9324890e385929266c8b0ebba69267e6432a5d1ebfb372c32a8ab652"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17150636",
-                "timeupdated": "1738091968"
+                "buildid": "17594387",
+                "timeupdated": "1741197865"
             },
             "version_1.51": {
                 "buildid": "11218835",
@@ -75,12 +75,12 @@
                 "timeupdated": "1685545333"
             },
             "insiders": {
-                "buildid": "17455973",
+                "buildid": "17594387",
                 "description": "Explore experimental features and fixes",
-                "timeupdated": "1740151133"
+                "timeupdated": "1741197824"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "01193d7aaa8aeb8688d5493c22d5d3fdfc2ae46fb544414e8d47a316c67146c8"
+        "workshopdepotdecryptionkey": ""
     }
 }
