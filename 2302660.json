@@ -4,8 +4,8 @@
     "name": "Homicipher",
     "schinese_name": "文字化化",
     "isfreeapp": "0",
-    "change_number": "27518963",
-    "update_time": "2025-02-18 00:15:36",
+    "change_number": "27982178",
+    "update_time": "2025-03-17 00:20:59",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2302661": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4480085457130579746",
-                    "size": "331962438",
-                    "download": "200212720"
+                    "gid": "3195545419749960305",
+                    "size": "331942657",
+                    "download": "200198736"
                 }
             },
             "decryptionkey": "2af13d0401290a5bc53126249ba4d1d553d7d890d56c8f228916568fa3b2358a"
@@ -27,19 +27,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3441813694919585660",
-                    "size": "341056844",
-                    "download": "199738848"
+                    "gid": "7592804467415797855",
+                    "size": "341037063",
+                    "download": "199730880"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17127823",
-                "timeupdated": "1737776666"
+                "buildid": "17564251",
+                "timeupdated": "1740907366"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
