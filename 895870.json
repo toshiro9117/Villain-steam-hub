@@ -4,8 +4,8 @@
     "name": "Project Wingman",
     "schinese_name": "僚机计划",
     "isfreeapp": "0",
-    "change_number": "27000963",
-    "update_time": "2025-01-15 12:15:56",
+    "change_number": "27971746",
+    "update_time": "2025-03-15 19:21:26",
     "depot": {
         "baselanguages": "english",
         "228984": {
@@ -58,7 +58,7 @@
                     "download": "5104761920"
                 }
             },
-            "decryptionkey": "baec9f1a727613a15b8f270c022c13daaf28f3558205a542970c8f8cb3ee7569"
+            "decryptionkey": ""
         },
         "2536180": {
             "dlcappid": "2536180",
@@ -78,7 +78,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": "5288aed61347456ecab313d510bea0e96f2cef2694172a9bc427278a45e518b6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
