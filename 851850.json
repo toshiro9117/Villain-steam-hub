@@ -4,8 +4,8 @@
     "name": "DRAGON BALL Z: KAKAROT",
     "schinese_name": "七龙珠Z 卡卡洛特",
     "isfreeapp": "0",
-    "change_number": "27475502",
-    "update_time": "2025-02-14 16:41:08",
+    "change_number": "28004120",
+    "update_time": "2025-03-18 08:21:12",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "hasdepotsindlc": "0",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "608966480966809774",
-                    "size": "54759215232",
-                    "download": "50770502928"
+                    "gid": "2095765607886336701",
+                    "size": "54759374656",
+                    "download": "50770634704"
                 }
             },
             "decryptionkey": "fb1907fb7175034840a9685765e865e3f9c8b0aef43ba1cd125faca7a7e6e5ce"
@@ -208,8 +208,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14609043",
-                "timeupdated": "1719961339"
+                "buildid": "17009782",
+                "timeupdated": "1740609944"
             }
         },
         "privatebranches": "1"
