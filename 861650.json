@@ -4,8 +4,8 @@
     "name": "Session: Skate Sim",
     "schinese_name": "滑板模拟",
     "isfreeapp": "0",
-    "change_number": "27455369",
-    "update_time": "2025-02-13 16:49:46",
+    "change_number": "27997804",
+    "update_time": "2025-03-18 00:20:48",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "5999933232"
                 }
             },
-            "decryptionkey": "68c4836650ec6ae4232194aa81a3025fa622c15ed614cdaf9c76fe67819fbf22"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
