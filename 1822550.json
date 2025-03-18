@@ -4,8 +4,8 @@
     "name": "Microcivilization",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27732139",
-    "update_time": "2025-03-01 18:52:16",
+    "change_number": "27973558",
+    "update_time": "2025-03-15 23:45:56",
     "depot": {
         "1822551": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1215573508219009671",
-                    "size": "1076569058",
-                    "download": "460220336"
+                    "gid": "1990436067575096171",
+                    "size": "1079813633",
+                    "download": "463411008"
                 }
             },
             "decryptionkey": "5421787f055413ef0f211e428a21df76c11bc65dac24967e5d50375c786b9044"
         },
         "branches": {
             "public": {
-                "buildid": "17175779",
-                "timeupdated": "1738319547"
+                "buildid": "17610211",
+                "timeupdated": "1741210322"
             }
         },
         "privatebranches": "1"
