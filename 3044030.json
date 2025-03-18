@@ -4,8 +4,8 @@
     "name": "The Ten Bells",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27069709",
-    "update_time": "2025-01-20 12:08:39",
+    "change_number": "27973373",
+    "update_time": "2025-03-15 23:20:45",
     "depot": {
         "baselanguages": "english,japanese,latam",
         "3044031": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2154990712820160265",
-                    "size": "3331035801",
-                    "download": "1309002240"
+                    "gid": "1196269003135627263",
+                    "size": "3331459665",
+                    "download": "1309468688"
                 }
             },
             "decryptionkey": "3983990c9248f607f99e2cd1b9390f9c29164e797a395d80bfd89549dd750d23"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16991423",
-                "timeupdated": "1736800890"
+                "buildid": "17575397",
+                "timeupdated": "1741013069"
             }
         },
         "privatebranches": "1"
