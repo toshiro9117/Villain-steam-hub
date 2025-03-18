@@ -4,8 +4,8 @@
     "name": "Ashes of the Singularity: Escalation",
     "schinese_name": "奇点灰烬：拓展版",
     "isfreeapp": "0",
-    "change_number": "27347195",
-    "update_time": "2025-02-06 23:11:06",
+    "change_number": "27821843",
+    "update_time": "2025-03-07 03:37:55",
     "depot": {
         "hasdepotsindlc": "1",
         "228984": {
@@ -47,9 +47,9 @@
                     "download": "12353598224"
                 },
                 "opt-in": {
-                    "gid": "3285053398607211532",
-                    "size": "32385986384",
-                    "download": "19639640640"
+                    "gid": "5690730583711739533",
+                    "size": "32405113827",
+                    "download": "19642046832"
                 }
             },
             "decryptionkey": "2d4891a603b81948daf5e0bf2f82ff04d01f76012df2e51cb3a7751dbf976cdc"
@@ -1510,9 +1510,9 @@
                 "timeupdated": "1682618125"
             },
             "opt-in": {
-                "buildid": "17199972",
-                "description": "v3.2 Release",
-                "timeupdated": "1738854007"
+                "buildid": "17517031",
+                "description": "v3.3 Release",
+                "timeupdated": "1741284113"
             }
         },
         "privatebranches": "1"
