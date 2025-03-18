@@ -4,8 +4,8 @@
     "name": "Core Devourer",
     "schinese_name": "机核吞噬者",
     "isfreeapp": "0",
-    "change_number": "27487198",
-    "update_time": "2025-02-15 05:14:00",
+    "change_number": "27832898",
+    "update_time": "2025-03-07 18:09:12",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "478361728"
                 }
             },
-            "decryptionkey": "b2459837790f98bea01c8f2c1cba2965910ac886ca0910330e61e8789f19689f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
