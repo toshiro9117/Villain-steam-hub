@@ -1,0 +1,33 @@
+{
+    "appid": "2315400",
+    "type": "Game",
+    "name": "Knights in Tight Spaces",
+    "schinese_name": "狭间骑士",
+    "isfreeapp": "0",
+    "change_number": "28001201",
+    "update_time": "2025-03-18 04:01:50",
+    "depot": {
+        "2315401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1552784888891391247",
+                    "size": "1967312065",
+                    "download": "1586767248"
+                }
+            },
+            "decryptionkey": "7bc82ef006cc54f59a83a8a8d5b497c94a4c4e17908a1bacc40e26b351ccdf2c"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17666353",
+                "timeupdated": "1741773324"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
