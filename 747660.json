@@ -4,8 +4,8 @@
     "name": "Five Nights at Freddy's: Security Breach",
     "schinese_name": "玩具熊的五夜后宫：安全漏洞 ",
     "isfreeapp": "0",
-    "change_number": "27725846",
-    "update_time": "2025-03-01 05:23:23",
+    "change_number": "28004130",
+    "update_time": "2025-03-18 08:21:54",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "41971573824"
                 }
             },
-            "decryptionkey": "2be8f0b84ce1709f94c1e3f51780dc5d9b578dee06c6e2a01bfa8062612b39d7"
+            "decryptionkey": ""
         },
         "1924720": {
             "dlcappid": "1924720",
@@ -46,7 +46,7 @@
                     "download": "17727222544"
                 }
             },
-            "decryptionkey": "0082af8a55cb6a77b1d8de8fc5264b5ec9899864bd449a859cffbf97f0125859"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,ukrainian,latam",
         "branches": {
