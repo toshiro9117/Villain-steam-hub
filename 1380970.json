@@ -4,8 +4,8 @@
     "name": "Sklime",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27391752",
-    "update_time": "2025-02-10 07:14:37",
+    "change_number": "27935441",
+    "update_time": "2025-03-13 22:54:34",
     "depot": {
         "1380972": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6873632847481251724",
-                    "size": "384868080",
-                    "download": "100778208"
+                    "gid": "7732915684652461028",
+                    "size": "391202896",
+                    "download": "103826496"
                 },
                 "beta": {
-                    "gid": "6873632847481251724",
-                    "size": "384868080",
-                    "download": "100778208"
+                    "gid": "7732915684652461028",
+                    "size": "391202896",
+                    "download": "103826496"
                 }
             },
             "decryptionkey": "e2838fcb0e86b775aebc7f00dff9969e8b90c47851fad19972d497e7a7e34a62"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4589610652494327755",
-                    "size": "433138159",
-                    "download": "104555760"
+                    "gid": "7938160264351204422",
+                    "size": "439668841",
+                    "download": "107607984"
                 },
                 "beta": {
-                    "gid": "4589610652494327755",
-                    "size": "433138159",
-                    "download": "104555760"
+                    "gid": "7938160264351204422",
+                    "size": "439668841",
+                    "download": "107607984"
                 }
             },
             "decryptionkey": ""
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3084892921140777895",
-                    "size": "359418614",
-                    "download": "99023200"
+                    "gid": "2871559710780273601",
+                    "size": "365672373",
+                    "download": "102040352"
                 },
                 "beta": {
-                    "gid": "3084892921140777895",
-                    "size": "359418614",
-                    "download": "99023200"
+                    "gid": "2871559710780273601",
+                    "size": "365672373",
+                    "download": "102040352"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17300195",
-                "timeupdated": "1739142870"
+                "buildid": "17569353",
+                "timeupdated": "1741024254"
             },
             "beta": {
-                "buildid": "17300195",
+                "buildid": "17569353",
                 "description": "beta branch",
-                "timeupdated": "1739137132"
+                "timeupdated": "1741006378"
             }
         },
         "privatebranches": "1"
