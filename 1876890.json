@@ -4,8 +4,8 @@
     "name": "Wandering Sword",
     "schinese_name": "逸剑风云决",
     "isfreeapp": "0",
-    "change_number": "27515089",
-    "update_time": "2025-02-17 20:15:59",
+    "change_number": "27986674",
+    "update_time": "2025-03-17 10:48:29",
     "depot": {
         "228988": {
             "config": {
@@ -52,7 +52,7 @@
                     "download": "3834058176"
                 }
             },
-            "decryptionkey": "40985dfc0fbcd23c2b692a036c22fad2ad18d03794b58ea33fd079acbfb53c5d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
