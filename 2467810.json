@@ -4,8 +4,8 @@
     "name": "Orebound",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725231",
-    "update_time": "2025-03-01 04:34:23",
+    "change_number": "27998915",
+    "update_time": "2025-03-18 01:27:56",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "2467811": {
             "manifests": {
                 "public": {
-                    "gid": "1786024645696159613",
-                    "size": "4954700382",
-                    "download": "4690547904"
+                    "gid": "4192906884342775754",
+                    "size": "5040172756",
+                    "download": "4770532144"
                 }
             },
-            "decryptionkey": "f58c8a69c8e18d048f04a68cdd49976bf5972ab6d4d04daa344735edbbafbf13"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "16963262",
-                "timeupdated": "1736785732"
+                "buildid": "17588059",
+                "timeupdated": "1741087797"
             }
         },
         "privatebranches": "1"
