@@ -4,8 +4,8 @@
     "name": "ΔV: Rings of Saturn",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27532355",
-    "update_time": "2025-02-18 18:44:33",
+    "change_number": "28008291",
+    "update_time": "2025-03-18 15:16:59",
     "depot": {
         "baselanguages": "english,polish",
         "hasdepotsindlc": "1",
@@ -15,19 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1355018879670423438",
-                    "size": "1514659880",
-                    "download": "789094496"
+                    "gid": "5885183173454723458",
+                    "size": "1515129080",
+                    "download": "789170288"
                 },
                 "beta": {
-                    "gid": "1355018879670423438",
-                    "size": "1514659880",
-                    "download": "789094496"
+                    "gid": "5885183173454723458",
+                    "size": "1515129080",
+                    "download": "789170288"
                 },
                 "experimental": {
-                    "gid": "6191789044566214299",
-                    "size": "1514893592",
-                    "download": "789144080"
+                    "gid": "2446941266458650297",
+                    "size": "1515135720",
+                    "download": "789173744"
                 }
             },
             "decryptionkey": "095ebd18370da2b2974902cfd88ddb05ebc4e930027d37328ebccce55ad1438b"
@@ -38,19 +38,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3107151868130032851",
-                    "size": "1524720768",
-                    "download": "791645232"
+                    "gid": "8333974040354076463",
+                    "size": "1525189968",
+                    "download": "791729600"
                 },
                 "beta": {
-                    "gid": "3107151868130032851",
-                    "size": "1524720768",
-                    "download": "791645232"
+                    "gid": "8333974040354076463",
+                    "size": "1525189968",
+                    "download": "791729600"
                 },
                 "experimental": {
-                    "gid": "2656819276338502105",
-                    "size": "1524954480",
-                    "download": "791693392"
+                    "gid": "1512266591926359268",
+                    "size": "1525196608",
+                    "download": "791731632"
                 }
             },
             "decryptionkey": ""
@@ -61,19 +61,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6412158015589530928",
-                    "size": "1573155083",
-                    "download": "802141888"
+                    "gid": "6561233357420052709",
+                    "size": "1573624281",
+                    "download": "802226256"
                 },
                 "beta": {
-                    "gid": "6412158015589530928",
-                    "size": "1573155083",
-                    "download": "802141888"
+                    "gid": "6561233357420052709",
+                    "size": "1573624281",
+                    "download": "802226256"
                 },
                 "experimental": {
-                    "gid": "7538754252843198793",
-                    "size": "1573388793",
-                    "download": "802190048"
+                    "gid": "6643879808078528517",
+                    "size": "1573630923",
+                    "download": "802228288"
                 }
             },
             "decryptionkey": ""
@@ -81,18 +81,18 @@
         "846033": {},
         "branches": {
             "public": {
-                "buildid": "17163061",
-                "timeupdated": "1738097822"
+                "buildid": "17652172",
+                "timeupdated": "1741542944"
             },
             "beta": {
-                "buildid": "17163061",
+                "buildid": "17652172",
                 "description": "ironing out any remaining bugs from experimental",
-                "timeupdated": "1738097785"
+                "timeupdated": "1741542909"
             },
             "experimental": {
-                "buildid": "17440208",
+                "buildid": "17761833",
                 "description": "bleeding edge - latest features",
-                "timeupdated": "1740060017"
+                "timeupdated": "1742282212"
             }
         },
         "privatebranches": "1"
