@@ -4,8 +4,8 @@
     "name": "PANICORE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27520217",
-    "update_time": "2025-02-18 01:35:31",
+    "change_number": "27935477",
+    "update_time": "2025-03-13 22:56:04",
     "depot": {
         "228989": {
             "config": {
@@ -33,12 +33,12 @@
                     "download": "11895833104"
                 },
                 "beta": {
-                    "gid": "4097022921973064513",
-                    "size": "12327925028",
-                    "download": "11979638208"
+                    "gid": "3653433166175913255",
+                    "size": "12335483352",
+                    "download": "11996595008"
                 }
             },
-            "decryptionkey": "362cab8fdee84b3302e120698fd3affff7563547d750f12594d1e5c5843f2758"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -46,9 +46,9 @@
                 "timeupdated": "1730034261"
             },
             "beta": {
-                "buildid": "17396508",
+                "buildid": "17710649",
                 "description": "Testing new stuff",
-                "timeupdated": "1739813726"
+                "timeupdated": "1741877756"
             }
         },
         "privatebranches": "1"
