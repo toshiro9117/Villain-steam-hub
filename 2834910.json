@@ -4,8 +4,8 @@
     "name": "Rocksmith+",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27527638",
-    "update_time": "2025-02-18 12:15:40",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:58",
     "depot": {
         "228989": {
             "config": {
@@ -27,19 +27,17 @@
                     "size": "1760347754",
                     "download": "1641514656"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
-            "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "depotfromapp": "1716750"
         },
         "branches": {
             "public": {
