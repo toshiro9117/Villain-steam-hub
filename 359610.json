@@ -4,8 +4,8 @@
     "name": "Assassin’s Creed® Chronicles: India",
     "schinese_name": "刺客信条编年史：印度",
     "isfreeapp": "0",
-    "change_number": "27122887",
-    "update_time": "2025-01-23 10:27:32",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:21",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,dutch,czech,brazilian",
         "228983": {
@@ -44,14 +44,14 @@
                     "download": "3313912032"
                 }
             },
-            "decryptionkey": "f88360f363227aeb88a346fdda243cf1d979fb91896616172483ae05d7296d8b"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
