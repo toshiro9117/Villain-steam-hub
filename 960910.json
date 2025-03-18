@@ -4,8 +4,8 @@
     "name": "Heavy Rain",
     "schinese_name": "暴雨",
     "isfreeapp": "0",
-    "change_number": "27324027",
-    "update_time": "2025-02-05 18:57:21",
+    "change_number": "28004130",
+    "update_time": "2025-03-18 08:21:55",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "21815095360"
                 }
             },
-            "decryptionkey": "57fe2fc09eab86ac6d503e89fc037645053df15f387ab695fcb04411d8ea5593"
+            "decryptionkey": ""
         },
         "960912": {
             "config": {
@@ -51,7 +51,7 @@
                     "download": "8039697920"
                 }
             },
-            "decryptionkey": "98995c508adefd7850bd76950fb941e5eacdf0075eef458659aaf622542a778b"
+            "decryptionkey": ""
         },
         "960913": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "1635048096"
                 }
             },
-            "decryptionkey": "81af1bd341d0823d04d9f818fcc3816ee5c3bfaede466e9d451ff467d4426598"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
