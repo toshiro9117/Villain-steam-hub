@@ -4,8 +4,8 @@
     "name": "Dollar",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497289",
-    "update_time": "2025-02-16 04:26:13",
+    "change_number": "27737242",
+    "update_time": "2025-03-02 07:07:24",
     "depot": {
         "3069471": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1024415849983195624",
-                    "size": "281735035",
-                    "download": "33965504"
+                    "gid": "4207619385377876742",
+                    "size": "282144475",
+                    "download": "33987152"
                 }
             },
             "decryptionkey": "e23b873a4dbb3bd4618c5984f6f51ec2cdda00e10d60c8971ba0429a97527f16"
@@ -23,8 +23,8 @@
         "workshopdepot": "3069470",
         "branches": {
             "public": {
-                "buildid": "17379817",
-                "timeupdated": "1739651169"
+                "buildid": "17561721",
+                "timeupdated": "1740870440"
             }
         },
         "workshopdepotdecryptionkey": ""
