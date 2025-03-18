@@ -4,8 +4,8 @@
     "name": "Gas Guzzlers Extreme",
     "schinese_name": "燃油机车：极限版",
     "isfreeapp": "0",
-    "change_number": "26834172",
-    "update_time": "2025-01-02 03:53:02",
+    "change_number": "27977126",
+    "update_time": "2025-03-16 08:55:05",
     "depot": {
         "228985": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "9121205744"
                 }
             },
-            "decryptionkey": "cae65bfd3eb6c2c8cdaeb9746efedf2f915b951ac62d2e1f17053126225e6362"
+            "decryptionkey": ""
         },
         "277820": {
             "config": {
@@ -94,7 +94,7 @@
                 }
             },
             "dlcappid": "277820",
-            "decryptionkey": "8f62d5c6ac18d71b98858d8a96eea0ad9f3d8e9c59d08157fcba2c1794e8b5e7"
+            "decryptionkey": ""
         },
         "277821": {
             "config": {
@@ -123,7 +123,7 @@
                 }
             },
             "dlcappid": "277821",
-            "decryptionkey": "3a0e30e08d85189a92912c33944c1b8f1c96ebb36d324bfde38434c2787601cb"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
