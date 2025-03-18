@@ -4,11 +4,12 @@
     "name": "Myth of Empires",
     "schinese_name": "帝国神话",
     "isfreeapp": "0",
-    "change_number": "27246307",
-    "update_time": "2025-01-31 10:50:10",
+    "change_number": "28006437",
+    "update_time": "2025-03-18 11:56:19",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1371580",
+        "hasdepotsindlc": "0",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -41,7 +42,7 @@
                     "download": "73845272256"
                 }
             },
-            "decryptionkey": "3dae7b26b55fcd654d6502a0c22fbea47703ffe9e46511d71053bfb5cc434800"
+            "decryptionkey": ""
         },
         "2817410": {
             "dlcappid": "2817410",
@@ -56,7 +57,15 @@
                     "download": "3462326272"
                 }
             },
-            "decryptionkey": "03ec0ad89e68879fa58390403c7482866c5342872b0b6655224e2f3e0068c498"
+            "decryptionkey": ""
+        },
+        "3502710": {
+            "dlcappid": "3502710",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
@@ -65,6 +74,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "37df88095dbdf6071812af8a18e62706825949dac659db0fe9f229d1d3bba7ee"
+        "workshopdepotdecryptionkey": ""
     }
 }
