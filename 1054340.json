@@ -4,8 +4,8 @@
     "name": "Logic World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497153",
-    "update_time": "2025-02-16 04:03:38",
+    "change_number": "27976148",
+    "update_time": "2025-03-16 06:08:31",
     "depot": {
         "hasdepotsindlc": "0",
         "1054342": {
@@ -56,9 +56,9 @@
                     "download": "383433184"
                 },
                 "public-previews": {
-                    "gid": "5625058475615434088",
-                    "size": "1541240657",
-                    "download": "378739648"
+                    "gid": "1011233393270876123",
+                    "size": "1541245287",
+                    "download": "378832144"
                 }
             },
             "decryptionkey": ""
@@ -111,9 +111,9 @@
                     "download": "370476128"
                 },
                 "public-previews": {
-                    "gid": "1071088331173496905",
-                    "size": "1483733577",
-                    "download": "366897680"
+                    "gid": "3845927949986055418",
+                    "size": "1483738207",
+                    "download": "367053152"
                 }
             },
             "decryptionkey": "4efe0bffdf844c23fbf60061afa69547439662ff4d4a8de6e9be0542202f9b90"
@@ -166,9 +166,9 @@
                     "download": "353787040"
                 },
                 "public-previews": {
-                    "gid": "3439058503370343517",
-                    "size": "1500012494",
-                    "download": "370995232"
+                    "gid": "6157927545969713707",
+                    "size": "1500017124",
+                    "download": "371408400"
                 }
             },
             "decryptionkey": ""
@@ -214,9 +214,9 @@
                 "timeupdated": "1703102694"
             },
             "public-previews": {
-                "buildid": "17429249",
+                "buildid": "17696363",
                 "description": "Public previews of upcoming LW updates",
-                "timeupdated": "1740003695"
+                "timeupdated": "1741799642"
             }
         },
         "privatebranches": "1"
