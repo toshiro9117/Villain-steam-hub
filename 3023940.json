@@ -4,8 +4,8 @@
     "name": "Drill Core Demo",
     "schinese_name": "钻核公司 (Drill Core) 试玩版",
     "isfreeapp": "0",
-    "change_number": "27542420",
-    "update_time": "2025-02-19 05:14:13",
+    "change_number": "27970286",
+    "update_time": "2025-03-15 15:23:30",
     "depot": {
         "228989": {
             "config": {
@@ -31,8 +31,7 @@
                     "size": "530838819",
                     "download": "382030256"
                 }
-            },
-            "decryptionkey": "ced5f4563b2417eed94dcd8f33beb8a4571aa048b52502e30671723913576eff"
+            }
         },
         "branches": {
             "public": {
