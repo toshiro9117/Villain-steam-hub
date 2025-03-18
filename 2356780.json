@@ -4,8 +4,8 @@
     "name": "Dungeon Clawler",
     "schinese_name": "抓抓地牢",
     "isfreeapp": "0",
-    "change_number": "27534449",
-    "update_time": "2025-02-18 20:55:30",
+    "change_number": "27954781",
+    "update_time": "2025-03-14 19:21:51",
     "depot": {
         "baselanguages": "english",
         "2356782": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2116304208824783279",
-                    "size": "908785633",
-                    "download": "160474112"
+                    "gid": "8714117686925300376",
+                    "size": "1290432005",
+                    "download": "174831920"
                 },
                 "testing": {
-                    "gid": "4712996545468759920",
-                    "size": "1193659553",
-                    "download": "169275776"
+                    "gid": "8714117686925300376",
+                    "size": "1290432005",
+                    "download": "174831920"
                 }
             },
             "decryptionkey": "7b6a14efc42db13c57345a4d149afca6f1a16389dc609a5a3c3ad4a85cc61c73"
@@ -34,14 +34,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2334199950693210227",
-                    "size": "901704424",
-                    "download": "158468352"
+                    "gid": "6537639123938657402",
+                    "size": "1313774812",
+                    "download": "181941072"
                 },
                 "testing": {
-                    "gid": "5791844473328868722",
-                    "size": "1186578344",
-                    "download": "167256752"
+                    "gid": "6537639123938657402",
+                    "size": "1313774812",
+                    "download": "181941072"
                 }
             },
             "decryptionkey": ""
@@ -53,27 +53,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1574201375728463808",
-                    "size": "947762479",
-                    "download": "159917104"
+                    "gid": "3273723830761545866",
+                    "size": "1329408851",
+                    "download": "174241648"
                 },
                 "testing": {
-                    "gid": "8250814678694819980",
-                    "size": "1232636399",
-                    "download": "168707696"
+                    "gid": "3273723830761545866",
+                    "size": "1329408851",
+                    "download": "174241648"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16797331",
-                "timeupdated": "1734594817"
+                "buildid": "17690168",
+                "timeupdated": "1741858894"
             },
             "testing": {
-                "buildid": "17455122",
+                "buildid": "17690168",
                 "description": "Test upcoming updates",
-                "timeupdated": "1740142392"
+                "timeupdated": "1741798377"
             }
         },
         "privatebranches": "1"
