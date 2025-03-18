@@ -4,8 +4,8 @@
     "name": "World of Outlaws: Dirt Racing 24 Gold Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27506348",
-    "update_time": "2025-02-17 05:14:38",
+    "change_number": "27977781",
+    "update_time": "2025-03-16 10:58:12",
     "depot": {
         "228990": {
             "config": {
@@ -17,17 +17,17 @@
         "3281131": {
             "manifests": {
                 "public": {
-                    "gid": "5292355708710948528",
-                    "size": "37226878851",
-                    "download": "33008560880"
+                    "gid": "2973203049034993358",
+                    "size": "37579375461",
+                    "download": "33042509376"
                 }
             },
-            "decryptionkey": "c7a7f8fbb7ff5ad33e4af9d4b0ca2543bc4e3d4f095ba15937fb45d75569f353"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17271273",
-                "timeupdated": "1738874556"
+                "buildid": "17357607",
+                "timeupdated": "1740493429"
             }
         },
         "privatebranches": "1"
