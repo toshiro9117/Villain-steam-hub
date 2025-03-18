@@ -4,8 +4,8 @@
     "name": "Hotel 188 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27175568",
-    "update_time": "2025-01-27 06:28:12",
+    "change_number": "28004523",
+    "update_time": "2025-03-18 08:57:43",
     "depot": {
         "228989": {
             "config": {
@@ -33,8 +33,7 @@
                     "size": "1074091307",
                     "download": "904696960"
                 }
-            },
-            "decryptionkey": "e5e4ebed45f90789d726b7feeb0fa5d0c812ec15788e71d01508f12a2e8b3444"
+            }
         },
         "branches": {
             "public": {
