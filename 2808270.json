@@ -4,8 +4,8 @@
     "name": "Buckshot With Friends",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731562",
-    "update_time": "2025-03-01 17:22:30",
+    "change_number": "27734897",
+    "update_time": "2025-03-02 01:23:03",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1056717616"
                 }
             },
-            "decryptionkey": "4687dd7a897df0e74c17fe1563448fae92d9673774b39a089ef01c19c7d09cd9"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese",
         "branches": {
