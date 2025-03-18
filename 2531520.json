@@ -4,8 +4,8 @@
     "name": "Dreamcore Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27272714",
-    "update_time": "2025-02-02 07:31:42",
+    "change_number": "27956146",
+    "update_time": "2025-03-14 20:34:20",
     "depot": {
         "228989": {
             "config": {
@@ -24,12 +24,11 @@
         "2531521": {
             "manifests": {
                 "public": {
-                    "gid": "4375890824552332450",
-                    "size": "2193530464",
-                    "download": "1994875280"
+                    "gid": "6277925068136019712",
+                    "size": "2898696579",
+                    "download": "2663333680"
                 }
-            },
-            "decryptionkey": "8977efdedefb671b09939b8fe0faa51c065ebe038740bbff543495dfb66c5430"
+            }
         },
         "2531522": {
             "config": {
@@ -40,8 +39,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16695797",
-                "timeupdated": "1733851252"
+                "buildid": "17666538",
+                "timeupdated": "1741638404"
             }
         },
         "privatebranches": "1"
