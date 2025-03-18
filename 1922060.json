@@ -4,8 +4,8 @@
     "name": "BrVR Backrooms Virtual Reality",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27482981",
-    "update_time": "2025-02-15 00:20:10",
+    "change_number": "27838100",
+    "update_time": "2025-03-07 23:34:01",
     "depot": {
         "228988": {
             "config": {
@@ -38,9 +38,9 @@
         "1922061": {
             "manifests": {
                 "public": {
-                    "gid": "4182639796491066694",
-                    "size": "60648240571",
-                    "download": "60154567728"
+                    "gid": "4177077992581949547",
+                    "size": "61748850155",
+                    "download": "61264666688"
                 },
                 "veryold": {
                     "gid": "8506925940766265393",
@@ -53,17 +53,17 @@
                     "download": "14446090128"
                 },
                 "beta": {
-                    "gid": "1253817746876265198",
-                    "size": "60735938451",
-                    "download": "60242950768"
+                    "gid": "4114497574111470226",
+                    "size": "63049688299",
+                    "download": "62431259840"
                 }
             },
-            "decryptionkey": "c2178484cc234e2a5d06369a3b59ccbc23eb78ffb79ed31c4808e3931cb7f37e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17204134",
-                "timeupdated": "1738360333"
+                "buildid": "17551419",
+                "timeupdated": "1740769125"
             },
             "veryold": {
                 "buildid": "9208137",
@@ -76,9 +76,9 @@
                 "timeupdated": "1691788112"
             },
             "beta": {
-                "buildid": "17462158",
+                "buildid": "17637246",
                 "description": "Beta updates",
-                "timeupdated": "1740182731"
+                "timeupdated": "1741361601"
             }
         },
         "privatebranches": "1"
