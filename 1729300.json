@@ -4,8 +4,8 @@
     "name": "PlayForm: Human Dynamics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26817859",
-    "update_time": "2024-12-30 22:40:19",
+    "change_number": "27925269",
+    "update_time": "2025-03-13 11:40:39",
     "depot": {
         "228989": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "9965074736"
                 }
             },
-            "decryptionkey": "9910834e9b5f1d3bac390d7781903791165596aa7e0b0d20136afc95b4d2b862"
+            "decryptionkey": ""
         },
         "workshopdepot": "1729300",
         "branches": {
@@ -53,6 +53,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "32d3bdfde72197f5f30a5968866f11bfea003657648f8c146dbb1fd45cad2801"
+        "workshopdepotdecryptionkey": ""
     }
 }
