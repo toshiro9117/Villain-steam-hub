@@ -4,8 +4,8 @@
     "name": "Batora: Lost Haven",
     "schinese_name": "巴特拉：家在何方",
     "isfreeapp": "0",
-    "change_number": "27383935",
-    "update_time": "2025-02-09 10:26:08",
+    "change_number": "27934798",
+    "update_time": "2025-03-13 22:22:35",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -33,7 +33,7 @@
                     "download": "17085962896"
                 }
             },
-            "decryptionkey": "ca547e8b33bcb542e248a6c8d7dfd1c0a321de6d83c2514153c4ab413f4544b8"
+            "decryptionkey": ""
         },
         "2190550": {
             "dlcappid": "2190550",
@@ -47,7 +47,7 @@
                     "download": "105678704"
                 }
             },
-            "decryptionkey": "eac11c81e65af970011b7cd011c49bd74eaa948b5b88725766d738f7ca41910f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
