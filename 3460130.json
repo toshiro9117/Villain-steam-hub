@@ -4,8 +4,8 @@
     "name": "LockYourDoor Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27503736",
-    "update_time": "2025-02-16 23:32:38",
+    "change_number": "27774965",
+    "update_time": "2025-03-04 21:36:11",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8498395046852686040",
-                    "size": "3076481392",
-                    "download": "2868386592"
+                    "gid": "8052271579326916780",
+                    "size": "2785340526",
+                    "download": "2580568288"
                 }
-            },
-            "decryptionkey": "7c1a606ac8019410432d66301516fc9b51879c5f3eb70e9471cfaacf7194ac9b"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17467276",
-                "timeupdated": "1740231338"
+                "buildid": "17589608",
+                "timeupdated": "1741095092"
             }
         }
     }
