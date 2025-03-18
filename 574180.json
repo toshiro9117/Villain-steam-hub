@@ -4,8 +4,8 @@
     "name": "Rem Survival",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711592",
-    "update_time": "2025-02-28 16:42:49",
+    "change_number": "28012563",
+    "update_time": "2025-03-18 20:02:08",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "574180",
@@ -43,9 +43,9 @@
                     "download": "54914526560"
                 },
                 "public-test-branch": {
-                    "gid": "806746606057798007",
-                    "size": "47759788518",
-                    "download": "42959053760"
+                    "gid": "2775706222233838986",
+                    "size": "47931382422",
+                    "download": "43102760912"
                 }
             },
             "decryptionkey": "cdd2f55806ecb15fd268dd047093038f31b1b3ed4d8f16b5700650b97a026adb"
@@ -61,9 +61,9 @@
                     "download": "36694072128"
                 },
                 "public-test-branch": {
-                    "gid": "8803200546038705158",
-                    "size": "36808131962",
-                    "download": "36694072128"
+                    "gid": "5958657227722553461",
+                    "size": "37894128440",
+                    "download": "37046611504"
                 }
             },
             "decryptionkey": ""
@@ -80,9 +80,9 @@
                 "timeupdated": "1736578487"
             },
             "public-test-branch": {
-                "buildid": "17542465",
+                "buildid": "17766289",
                 "description": "Public testing on upcoming features and updates",
-                "timeupdated": "1740724475"
+                "timeupdated": "1742305314"
             }
         },
         "privatebranches": "1",
