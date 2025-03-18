@@ -4,8 +4,8 @@
     "name": "HighFleet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27373150",
-    "update_time": "2025-02-08 08:18:35",
+    "change_number": "28007168",
+    "update_time": "2025-03-18 13:21:46",
     "depot": {
         "228988": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "1241220416"
                 }
             },
-            "decryptionkey": "5602e4149942bb213b837b8f08d1af96485d9452f9f7854ccf686c16748c8c31"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
