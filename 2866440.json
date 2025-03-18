@@ -4,8 +4,8 @@
     "name": "Lily’s Labyrinth of Lust",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27720470",
-    "update_time": "2025-02-28 23:48:21",
+    "change_number": "27981608",
+    "update_time": "2025-03-16 22:55:14",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1327620354981303024",
-                    "size": "3456174999",
-                    "download": "3020467872"
+                    "gid": "2854642550549260981",
+                    "size": "2818392153",
+                    "download": "2431864320"
                 }
             },
-            "decryptionkey": "72efb7fe79c1a54168b510a4895ad5b3326dd92d86846cb6b7a1c45fdfa6ab27"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17082943",
-                "timeupdated": "1737494940"
+                "buildid": "17738570",
+                "timeupdated": "1742064660"
             }
         }
     }
