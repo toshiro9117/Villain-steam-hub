@@ -4,8 +4,8 @@
     "name": "Ostalgie: The Berlin Wall",
     "schinese_name": "东德情结：柏林墙",
     "isfreeapp": "0",
-    "change_number": "27720937",
-    "update_time": "2025-03-01 00:12:20",
+    "change_number": "27989724",
+    "update_time": "2025-03-17 16:35:38",
     "depot": {
         "228985": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3106026295416686032",
-                    "size": "3354438667",
-                    "download": "1304740128"
+                    "gid": "8506526001552332670",
+                    "size": "3354448395",
+                    "download": "1304741680"
                 }
             },
             "decryptionkey": "eba58582ab0dbc0d16691378ef2a05090b6b8568d9cd652ee7cf2048714e830a"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6518369810937549024",
-                    "size": "1391898360",
-                    "download": "1037515696"
+                    "gid": "8106912266303489482",
+                    "size": "1391908088",
+                    "download": "1037517248"
                 }
             },
             "decryptionkey": ""
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3239614940779003307",
-                    "size": "1396513289",
-                    "download": "1038900544"
+                    "gid": "8608461557095702164",
+                    "size": "1396523017",
+                    "download": "1038902096"
                 }
             },
             "decryptionkey": ""
@@ -128,8 +128,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17543451",
-                "timeupdated": "1740730718"
+                "buildid": "17748950",
+                "timeupdated": "1742200532"
             }
         }
     }
