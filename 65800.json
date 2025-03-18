@@ -4,8 +4,8 @@
     "name": "Dungeon Defenders",
     "schinese_name": "地牢守护者",
     "isfreeapp": "0",
-    "change_number": "27522981",
-    "update_time": "2025-02-18 04:50:18",
+    "change_number": "27971597",
+    "update_time": "2025-03-15 18:57:42",
     "depot": {
         "228982": {
             "config": {
@@ -65,6 +65,11 @@
                     "gid": "5582431921275940842",
                     "size": "10867832885",
                     "download": "8001650352"
+                },
+                "returnia_beta": {
+                    "gid": "6958190077409485818",
+                    "size": "13363382243",
+                    "download": "9824517984"
                 }
             },
             "decryptionkey": "13809c38aaacd4fc6cebccac1c55be5c391a624cedfbf8fc69d43bf78c542938"
@@ -81,6 +86,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "9070844342175698237",
+                    "size": "6319847478",
+                    "download": "0"
+                },
+                "returnia_beta": {
                     "gid": "9070844342175698237",
                     "size": "6319847478",
                     "download": "0"
@@ -103,6 +113,11 @@
                     "gid": "5064099269139857800",
                     "size": "7729458213",
                     "download": "0"
+                },
+                "returnia_beta": {
+                    "gid": "5064099269139857800",
+                    "size": "7729458213",
+                    "download": "0"
                 }
             },
             "decryptionkey": ""
@@ -122,6 +137,11 @@
                     "gid": "2707513762208494929",
                     "size": "222514566",
                     "download": "189775040"
+                },
+                "returnia_beta": {
+                    "gid": "9057595281385368023",
+                    "size": "222966409",
+                    "download": "190131392"
                 }
             },
             "dlcappid": "204381",
@@ -142,6 +162,11 @@
                     "gid": "5847514419531968124",
                     "size": "215084080",
                     "download": "195352112"
+                },
+                "returnia_beta": {
+                    "gid": "6767698425044174360",
+                    "size": "214287435",
+                    "download": "194668848"
                 }
             },
             "dlcappid": "204382",
@@ -162,6 +187,11 @@
                     "gid": "5949592193327736140",
                     "size": "253798137",
                     "download": "235045536"
+                },
+                "returnia_beta": {
+                    "gid": "576028099833858544",
+                    "size": "253987587",
+                    "download": "235222016"
                 }
             },
             "dlcappid": "204383",
@@ -179,6 +209,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "733678327698030634",
+                    "size": "46",
+                    "download": "0"
+                },
+                "returnia_beta": {
                     "gid": "733678327698030634",
                     "size": "46",
                     "download": "0"
@@ -202,6 +237,11 @@
                     "gid": "3348906717373628147",
                     "size": "44",
                     "download": "0"
+                },
+                "returnia_beta": {
+                    "gid": "3348906717373628147",
+                    "size": "44",
+                    "download": "0"
                 }
             },
             "dlcappid": "202030",
@@ -219,6 +259,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "3169769732489683326",
+                    "size": "41",
+                    "download": "0"
+                },
+                "returnia_beta": {
                     "gid": "3169769732489683326",
                     "size": "41",
                     "download": "0"
@@ -242,6 +287,11 @@
                     "gid": "1447659790929140628",
                     "size": "40",
                     "download": "0"
+                },
+                "returnia_beta": {
+                    "gid": "1447659790929140628",
+                    "size": "40",
+                    "download": "0"
                 }
             },
             "dlcappid": "202010",
@@ -259,6 +309,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "7100477968665683839",
+                    "size": "43",
+                    "download": "0"
+                },
+                "returnia_beta": {
                     "gid": "7100477968665683839",
                     "size": "43",
                     "download": "0"
@@ -282,6 +337,11 @@
                     "gid": "9039071945796297350",
                     "size": "40",
                     "download": "0"
+                },
+                "returnia_beta": {
+                    "gid": "9039071945796297350",
+                    "size": "40",
+                    "download": "0"
                 }
             },
             "dlcappid": "65810",
@@ -299,6 +359,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "8185307045877308030",
+                    "size": "1",
+                    "download": "0"
+                },
+                "returnia_beta": {
                     "gid": "8185307045877308030",
                     "size": "1",
                     "download": "0"
@@ -321,6 +386,11 @@
                     "gid": "1692674904196575998",
                     "size": "0",
                     "download": "0"
+                },
+                "returnia_beta": {
+                    "gid": "1692674904196575998",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "dlcappid": "214120",
@@ -340,6 +410,11 @@
                     "gid": "1439805651157582566",
                     "size": "278747412",
                     "download": "257940176"
+                },
+                "returnia_beta": {
+                    "gid": "5945531639788237582",
+                    "size": "280607633",
+                    "download": "259024832"
                 }
             },
             "dlcappid": "204384",
@@ -354,6 +429,11 @@
                 "buildid": "17367987",
                 "description": "DD1 Redux Official",
                 "timeupdated": "1739543538"
+            },
+            "returnia_beta": {
+                "buildid": "17736474",
+                "description": "Beta for Returnia DLC",
+                "timeupdated": "1742036246"
             }
         },
         "privatebranches": "1"
