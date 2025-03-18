@@ -4,24 +4,40 @@
     "name": "Galactic Simulator",
     "schinese_name": "银河模拟器",
     "isfreeapp": "0",
-    "change_number": "27516004",
-    "update_time": "2025-02-17 21:15:05",
+    "change_number": "27925534",
+    "update_time": "2025-03-13 12:04:30",
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "3313931": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
-                    "gid": "6641396212309591294",
-                    "size": "8824345914",
-                    "download": "4361279232"
+                    "gid": "6520543422131382225",
+                    "size": "8824437062",
+                    "download": "4361334896"
                 }
             },
             "decryptionkey": "077a42431cae38d8a3183231cc33b6a95e9705edaae950d11928baabb6beb0cd"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "3313932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8960151580093428028",
+                    "size": "8966874020",
+                    "download": "4390464112"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17250721",
-                "timeupdated": "1738754179"
+                "buildid": "17703196",
+                "timeupdated": "1741838579"
             }
         }
     }
