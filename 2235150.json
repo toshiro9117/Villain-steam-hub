@@ -4,8 +4,8 @@
     "name": "Brain Show",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27529449",
-    "update_time": "2025-02-18 15:27:12",
+    "change_number": "27950761",
+    "update_time": "2025-03-14 15:23:25",
     "depot": {
         "2235151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "151800078518938206",
-                    "size": "1922488532",
-                    "download": "1188146160"
+                    "gid": "2968697601353361928",
+                    "size": "1922489244",
+                    "download": "1188131728"
                 },
                 "local": {
                     "gid": "3710329035356144636",
@@ -32,17 +32,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2517076723746372241",
-                    "size": "1995113890",
-                    "download": "1200289392"
+                    "gid": "2158354619113869440",
+                    "size": "1993904433",
+                    "download": "1200246112"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17307078",
-                "timeupdated": "1739276154"
+                "buildid": "17496330",
+                "timeupdated": "1740992085"
             },
             "local": {
                 "buildid": "10114332",
