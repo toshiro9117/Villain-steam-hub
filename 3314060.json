@@ -4,8 +4,8 @@
     "name": "The Sims™ Legacy Collection",
     "schinese_name": "《The Sims™》经典合集",
     "isfreeapp": "0",
-    "change_number": "27727978",
-    "update_time": "2025-03-01 08:40:57",
+    "change_number": "27999142",
+    "update_time": "2025-03-18 01:43:39",
     "depot": {
         "228989": {
             "config": {
@@ -17,18 +17,18 @@
         "3314061": {
             "manifests": {
                 "public": {
-                    "gid": "980816708117263413",
-                    "size": "3680429775",
-                    "download": "1824707888"
+                    "gid": "4065985351464711689",
+                    "size": "3668956702",
+                    "download": "1815234880"
                 }
             },
-            "decryptionkey": "702f1538eec82128d56b61de25ef41583c24e6993df1245fee4174583cd6dda6"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,polish,danish,dutch,finnish,norwegian,swedish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17462883",
-                "timeupdated": "1740679205"
+                "buildid": "17640809",
+                "timeupdated": "1741975364"
             }
         },
         "privatebranches": "1"
