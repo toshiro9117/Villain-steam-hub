@@ -4,8 +4,8 @@
     "name": "StarMade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27103756",
-    "update_time": "2025-01-22 09:26:27",
+    "change_number": "27768337",
+    "update_time": "2025-03-04 14:28:45",
     "depot": {
         "overridescddb": "1",
         "244771": {
@@ -138,9 +138,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7882491837185282925",
-                    "size": "228476025",
-                    "download": "83872608"
+                    "gid": "2405524312869055321",
+                    "size": "295727816",
+                    "download": "96900720"
                 },
                 "launcherbeta": {
                     "gid": "9102901634983342693",
@@ -156,9 +156,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8825609644995805452",
-                    "size": "242192358",
-                    "download": "85472800"
+                    "gid": "6777661849626722870",
+                    "size": "311000419",
+                    "download": "98635744"
                 },
                 "launcherbeta": {
                     "gid": "5018712332539170498",
@@ -174,9 +174,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4103621469861068700",
-                    "size": "430726227",
-                    "download": "83986112"
+                    "gid": "2099018185918396795",
+                    "size": "67631251",
+                    "download": "42207056"
                 },
                 "launcherbeta": {
                     "gid": "1331759125743264447",
@@ -188,8 +188,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16109723",
-                "timeupdated": "1729376184"
+                "buildid": "17584641",
+                "timeupdated": "1741069722"
             },
             "launcherbeta": {
                 "buildid": "15524513",
