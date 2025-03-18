@@ -4,8 +4,8 @@
     "name": "Ara: History Untold",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27313830",
-    "update_time": "2025-02-05 04:04:17",
+    "change_number": "28001270",
+    "update_time": "2025-03-18 04:06:13",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -30,28 +30,28 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7419298516390499466",
-                    "size": "34435430996",
-                    "download": "17757923488"
+                    "gid": "5955206726572448259",
+                    "size": "34105579975",
+                    "download": "17523803424"
                 }
             },
-            "decryptionkey": "2ee32023245e16a98b624134e65f2cb58176b2ec23c8cccf202cc305d57d864e"
+            "decryptionkey": ""
         },
         "3144830": {
             "dlcappid": "3144830",
             "manifests": {
                 "public": {
-                    "gid": "6618703071617398019",
-                    "size": "58127181",
-                    "download": "52386032"
+                    "gid": "1036188934286123835",
+                    "size": "57215599",
+                    "download": "51147104"
                 }
             },
-            "decryptionkey": "46ec9fab404dcd3a5e0b2862b1f9c1a0410157b5071f35a086bd4f57f6b79beb"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17095429",
-                "timeupdated": "1738094028"
+                "buildid": "17489311",
+                "timeupdated": "1741806026"
             }
         },
         "privatebranches": "1"
