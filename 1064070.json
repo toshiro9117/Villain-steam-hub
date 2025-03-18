@@ -4,8 +4,8 @@
     "name": "OddBallers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26428293",
-    "update_time": "2024-12-05 05:53:49",
+    "change_number": "27947468",
+    "update_time": "2025-03-14 10:28:50",
     "depot": {
         "228985": {
             "config": {
@@ -40,18 +40,18 @@
                     "download": "1381181792"
                 }
             },
-            "decryptionkey": "971cd1fcaac107fa34ba3c516489d893499c90c9936b56782985787d3b1f4e59"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
