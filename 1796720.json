@@ -4,8 +4,8 @@
     "name": "Industrial Annihilation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728588",
-    "update_time": "2025-03-01 09:47:49",
+    "change_number": "27963479",
+    "update_time": "2025-03-15 03:10:13",
     "depot": {
         "228988": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "2309896192"
                 }
             },
-            "decryptionkey": "051a5366d88b1b6518bb689eaa149e076eef9d750a602e22d5821bb9a0c405b1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
