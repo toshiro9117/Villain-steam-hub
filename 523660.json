@@ -4,8 +4,8 @@
     "name": "HYPERCHARGE: Unboxed",
     "schinese_name": "超荷：开箱",
     "isfreeapp": "0",
-    "change_number": "27467391",
-    "update_time": "2025-02-14 05:00:44",
+    "change_number": "27889810",
+    "update_time": "2025-03-11 19:49:15",
     "depot": {
         "228988": {
             "config": {
@@ -37,12 +37,12 @@
                     "download": "6066035760"
                 },
                 "testing": {
-                    "gid": "8625728865564293698",
-                    "size": "14883048962",
-                    "download": "6140642464"
+                    "gid": "1161722839022213010",
+                    "size": "14970956983",
+                    "download": "6164665600"
                 }
             },
-            "decryptionkey": "c8a3b54e1f35fb7e32a597392ebe1ae6d117c3a3b1f5d014c0564a1c05a1deb1"
+            "decryptionkey": ""
         },
         "523662": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "6687409472"
                 }
             },
-            "decryptionkey": "3d9d5f24d2b3ea5de2ea8521213e28242a000c2f682a97e3c27d87181e19a51f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -78,8 +78,8 @@
                 "timeupdated": "1699642153"
             },
             "testing": {
-                "buildid": "14443355",
-                "timeupdated": "1716403625"
+                "buildid": "17578347",
+                "timeupdated": "1741195710"
             }
         },
         "privatebranches": "1"
