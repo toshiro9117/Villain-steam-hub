@@ -4,8 +4,8 @@
     "name": "Shadow Corridor 2 雨ノ四葩",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27064654",
-    "update_time": "2025-01-19 23:53:35",
+    "change_number": "28006975",
+    "update_time": "2025-03-18 13:01:24",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "193314755454878299",
-                    "size": "7575238557",
-                    "download": "7113547808"
+                    "gid": "7743138202556972531",
+                    "size": "9015490495",
+                    "download": "8523584496"
                 }
             },
-            "decryptionkey": "755facd04814a99ed35cddbe95fdf47e317d63159ef24b7ffdbab96b2f7925df"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16461869",
-                "timeupdated": "1732037976"
+                "buildid": "17760728",
+                "timeupdated": "1742274080"
             }
         }
     }
