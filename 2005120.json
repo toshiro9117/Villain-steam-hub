@@ -4,8 +4,8 @@
     "name": "Clover Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27720120",
-    "update_time": "2025-02-28 23:29:19",
+    "change_number": "27991800",
+    "update_time": "2025-03-17 18:56:52",
     "depot": {
         "228983": {
             "config": {
@@ -257,9 +257,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7717326305582676318",
-                    "size": "205572511",
-                    "download": "57651424"
+                    "gid": "7581221650368596294",
+                    "size": "204335475",
+                    "download": "57456496"
                 }
             },
             "depotfromapp": "372530",
