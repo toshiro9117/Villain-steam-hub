@@ -4,8 +4,8 @@
     "name": "Gothic 1 Remake - Demo (Nyras Prologue)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728084",
-    "update_time": "2025-03-01 08:49:31",
+    "change_number": "27918737",
+    "update_time": "2025-03-13 03:58:33",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "10987878648",
                     "download": "8908500944"
                 }
-            },
-            "decryptionkey": "613993f0b8166b3e2aa1306217ad55fac964a30e0f505be7239d11829a3390a6"
+            }
         },
         "branches": {
             "public": {
