@@ -3,9 +3,9 @@
     "type": "Game",
     "name": "Demon Of The Dark",
     "schinese_name": "",
-    "isfreeapp": "0",
-    "change_number": "26457171",
-    "update_time": "2024-12-05 10:00:18",
+    "isfreeapp": "1",
+    "change_number": "27996341",
+    "update_time": "2025-03-17 22:56:49",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "1931324087",
                     "download": "1813674192"
                 }
-            },
-            "decryptionkey": "8375f8e305c3bb08983dc49446f07f8692144535ae6573284293adacd6c032f4"
+            }
         },
         "branches": {
             "public": {
