@@ -4,8 +4,8 @@
     "name": "Deliver Us Mars",
     "schinese_name": "火星孤征",
     "isfreeapp": "0",
-    "change_number": "27251603",
-    "update_time": "2025-01-31 19:00:14",
+    "change_number": "27934784",
+    "update_time": "2025-03-13 22:22:03",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228988": {
@@ -41,7 +41,7 @@
                     "download": "12364985104"
                 }
             },
-            "decryptionkey": "e8721d7cb8e56ca213f6a2a69837eeb828b32ef6774db196ad533cb1848f7664"
+            "decryptionkey": ""
         },
         "1345893": {
             "config": {
@@ -55,7 +55,7 @@
                     "download": "12368004192"
                 }
             },
-            "decryptionkey": "a5365410612b20b498fe2f99d9b957e677857771ac58d140853372dc59bb5a2c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
