@@ -4,8 +4,8 @@
     "name": "The Talos Principle 2",
     "schinese_name": "塔罗斯的法则2",
     "isfreeapp": "0",
-    "change_number": "27373566",
-    "update_time": "2025-02-08 08:56:43",
+    "change_number": "27924298",
+    "update_time": "2025-03-13 10:22:06",
     "depot": {
         "228989": {
             "config": {
@@ -64,7 +64,7 @@
                     "download": "78809101008"
                 }
             },
-            "decryptionkey": "fb50a63e9de1e5f24f3cfb6de54ba276dff93be8dd3e80dc9f293a0aa862db6d"
+            "decryptionkey": ""
         },
         "2676320": {
             "dlcappid": "2676320",
@@ -110,7 +110,7 @@
                     "download": "305759696"
                 }
             },
-            "decryptionkey": "a2e9fade3fffaf4f08be587748517b1d81b5cbab0e27814d7f37f557fb9e9188"
+            "decryptionkey": ""
         },
         "2981410": {
             "dlcappid": "2981410",
@@ -131,7 +131,7 @@
                     "download": "26185895680"
                 }
             },
-            "decryptionkey": "e28c73f6c229e2401c0bcea6f209e428b92cb674b2cc662ed5a226ea07b8f3c8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
