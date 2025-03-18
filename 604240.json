@@ -4,8 +4,8 @@
     "name": "Shotgun Farmers",
     "schinese_name": "枪火农夫",
     "isfreeapp": "0",
-    "change_number": "27370826",
-    "update_time": "2025-02-08 04:48:15",
+    "change_number": "27898478",
+    "update_time": "2025-03-12 04:24:18",
     "depot": {
         "workshopdepot": "604240",
         "604244": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1051226249695127288",
-                    "size": "5342686519",
-                    "download": "2367421712"
+                    "gid": "5525382600768877458",
+                    "size": "5239627876",
+                    "download": "2316659696"
                 }
             },
             "decryptionkey": "3daa3a70b724d2b6904b3c18f2386b31a204bd6d8fe73005683411ec3291d3fa"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4384283979730539040",
-                    "size": "5524784707",
-                    "download": "2506666752"
+                    "gid": "6440302910457966512",
+                    "size": "5302121812",
+                    "download": "2386298944"
                 }
             },
             "decryptionkey": ""
@@ -61,17 +61,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5821593334892119506",
-                    "size": "5778031014",
-                    "download": "2678448000"
+                    "gid": "2110675969891979654",
+                    "size": "5422872898",
+                    "download": "2464914016"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17284566",
-                "timeupdated": "1738961218"
+                "buildid": "17679302",
+                "timeupdated": "1741722537"
             }
         },
         "privatebranches": "1",
