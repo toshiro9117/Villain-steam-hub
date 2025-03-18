@@ -4,8 +4,8 @@
     "name": "Paranormal Night Shift",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27499607",
-    "update_time": "2025-02-16 10:15:06",
+    "change_number": "27894687",
+    "update_time": "2025-03-12 00:22:21",
     "depot": {
         "hasdepotsindlc": "1",
         "3320931": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6593188172944988532",
-                    "size": "2418155402",
-                    "download": "923126752"
+                    "gid": "7224699376907087862",
+                    "size": "2422515018",
+                    "download": "923687328"
                 }
             },
             "decryptionkey": "d7f818bd1a88df25164b18ff2dfb5209fa3b3c454342ba5b22973106bac3764a"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4697029974469133046",
-                    "size": "2418155402",
-                    "download": "923126752"
+                    "gid": "4717059272362066479",
+                    "size": "2422515018",
+                    "download": "923687328"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5485685431573136162",
-                    "size": "2418155402",
-                    "download": "923126752"
+                    "gid": "4519552318551663714",
+                    "size": "2422515018",
+                    "download": "923687328"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17322325",
-                "timeupdated": "1739283052"
+                "buildid": "17592761",
+                "timeupdated": "1741110605"
             }
         }
     }
