@@ -4,8 +4,8 @@
     "name": "FireAlpaca SE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27393046",
-    "update_time": "2025-02-10 10:13:57",
+    "change_number": "28011032",
+    "update_time": "2025-03-18 18:18:47",
     "depot": {
         "458751": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6515002182516052709",
-                    "size": "148321446",
-                    "download": "67994416"
+                    "gid": "4752914199822678212",
+                    "size": "148298918",
+                    "download": "67978800"
                 }
             },
             "decryptionkey": ""
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8593298783211710551",
-                    "size": "131954255",
-                    "download": "65115104"
+                    "gid": "9019803384714289640",
+                    "size": "132026959",
+                    "download": "65131776"
                 }
             },
             "decryptionkey": "1722e1ea688d999f0ca032f5cd9bf41c77528acafcb7269809ed8db4bb2888d6"
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4156224567133080707",
-                    "size": "123604434",
-                    "download": "58889168"
+                    "gid": "7241938251024383200",
+                    "size": "123683306",
+                    "download": "58911744"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17300935",
-                "timeupdated": "1739153633"
+                "buildid": "17763382",
+                "timeupdated": "1742293106"
             }
         }
     }
