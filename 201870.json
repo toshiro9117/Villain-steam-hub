@@ -4,8 +4,8 @@
     "name": "Assassin's Creed Revelations",
     "schinese_name": "刺客信条：启示录",
     "isfreeapp": "0",
-    "change_number": "27396432",
-    "update_time": "2025-02-10 16:31:42",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:02",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,danish,dutch,norwegian,swedish,czech",
@@ -41,7 +41,7 @@
                     "download": "693013936"
                 }
             },
-            "decryptionkey": "9da8a3de98388a48fca6702689b9b4bbbf67af576b632ee04e08b98f303efdd2"
+            "decryptionkey": ""
         },
         "201871": {
             "systemdefined": "1",
@@ -52,7 +52,7 @@
                     "download": "6765522384"
                 }
             },
-            "decryptionkey": "8174e101496f03e7544b945add7c99908e744b0c0b2b7182f69e5c408692f082"
+            "decryptionkey": ""
         },
         "201872": {
             "config": {
@@ -65,7 +65,7 @@
                     "download": "366088048"
                 }
             },
-            "decryptionkey": "9ef78f51c49e94cee4c9aea09dabfc753646cd124809429590a467b53cd232e5"
+            "decryptionkey": ""
         },
         "201873": {
             "config": {
@@ -78,14 +78,14 @@
                     "download": "1173520"
                 }
             },
-            "decryptionkey": "e340422eaaff220ae2823c05e9a039d9ba4f8fa68b8e32eff7219def9b6a941a"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
