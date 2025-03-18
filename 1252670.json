@@ -4,8 +4,8 @@
     "name": "Logic World Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497156",
-    "update_time": "2025-02-16 04:03:45",
+    "change_number": "27976494",
+    "update_time": "2025-03-16 07:00:02",
     "depot": {
         "1004": {
             "config": {
@@ -19,7 +19,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+            "decryptionkey": ""
         },
         "1005": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+            "decryptionkey": ""
         },
         "1006": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+            "decryptionkey": ""
         },
         "1252671": {
             "config": {
@@ -97,9 +97,9 @@
                     "download": "60965968"
                 },
                 "public-previews": {
-                    "gid": "1825289403142210515",
-                    "size": "108710205",
-                    "download": "35471856"
+                    "gid": "5381091132737739124",
+                    "size": "108710400",
+                    "download": "35472000"
                 }
             },
             "decryptionkey": "b610d96dcb376f9d3270d3ea7ebf55dfd1d383b238b20410c9ae759d5fa4fb4c"
@@ -152,9 +152,9 @@
                     "download": "61764192"
                 },
                 "public-previews": {
-                    "gid": "8326702450329451681",
-                    "size": "108505022",
-                    "download": "35727200"
+                    "gid": "722963738946073075",
+                    "size": "108505217",
+                    "download": "35727360"
                 }
             },
             "decryptionkey": ""
@@ -207,9 +207,9 @@
                     "download": "60818592"
                 },
                 "public-previews": {
-                    "gid": "3337299474688967908",
-                    "size": "108090599",
-                    "download": "35185696"
+                    "gid": "5823825730278315683",
+                    "size": "108090794",
+                    "download": "35185824"
                 }
             },
             "decryptionkey": ""
@@ -255,9 +255,9 @@
                 "timeupdated": "1703102693"
             },
             "public-previews": {
-                "buildid": "17429255",
+                "buildid": "17696375",
                 "description": "Public previews of upcoming LW updates",
-                "timeupdated": "1740003724"
+                "timeupdated": "1741799645"
             }
         },
         "privatebranches": "1"
