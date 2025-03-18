@@ -4,8 +4,8 @@
     "name": "Rogue Waters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27441177",
-    "update_time": "2025-02-12 22:52:23",
+    "change_number": "27994453",
+    "update_time": "2025-03-17 21:30:04",
     "depot": {
         "228988": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "4765229376"
                 }
             },
-            "decryptionkey": "76f9add990b1becf8fea2ff19733ccb4bfda9e41437de3163903cc515d8d109d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
