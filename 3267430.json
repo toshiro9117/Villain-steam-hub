@@ -4,8 +4,8 @@
     "name": "Last Remains",
     "schinese_name": "遗骸",
     "isfreeapp": "0",
-    "change_number": "27543159",
-    "update_time": "2025-02-19 06:11:40",
+    "change_number": "27951404",
+    "update_time": "2025-03-14 16:06:19",
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -36,27 +36,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5968539148756118654",
-                    "size": "26427158682",
-                    "download": "22979422368"
+                    "gid": "3209188699381555109",
+                    "size": "26427235277",
+                    "download": "22979554672"
                 },
                 "development": {
-                    "gid": "5968539148756118654",
-                    "size": "26427158682",
-                    "download": "22979422368"
+                    "gid": "2378503080192749329",
+                    "size": "26427238153",
+                    "download": "22979553568"
                 }
             },
-            "decryptionkey": "7f4f1fa469c4bc63de14ff6f56c50c25a958287221d8029fd049c8b653da24d4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17456858",
-                "timeupdated": "1740180539"
+                "buildid": "17656702",
+                "timeupdated": "1741582198"
             },
             "development": {
-                "buildid": "17456858",
+                "buildid": "17514309",
                 "description": "Development version for internal testing",
-                "timeupdated": "1740150384"
+                "timeupdated": "1740571467"
             }
         }
     }
