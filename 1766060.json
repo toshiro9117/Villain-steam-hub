@@ -4,8 +4,8 @@
     "name": "HumanitZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27527216",
-    "update_time": "2025-02-18 11:30:17",
+    "change_number": "28007162",
+    "update_time": "2025-03-18 13:21:02",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1766061": {
             "manifests": {
                 "public": {
-                    "gid": "5473901563776325355",
-                    "size": "22794096121",
-                    "download": "21240644496"
+                    "gid": "5084157217815529564",
+                    "size": "23001266393",
+                    "download": "21435928224"
                 },
                 ".911": {
                     "gid": "8091995319916460044",
@@ -54,17 +54,17 @@
                     "download": "22027511248"
                 },
                 "experimental": {
-                    "gid": "5473901563776325355",
-                    "size": "22794096121",
-                    "download": "21240644496"
+                    "gid": "5084157217815529564",
+                    "size": "23001266393",
+                    "download": "21435928224"
                 }
             },
-            "decryptionkey": "33229ac4689c705f913fd8f448d3f896fe128255629ad018dca089578dbf85c3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17400888",
-                "timeupdated": "1739847023"
+                "buildid": "17529661",
+                "timeupdated": "1740655837"
             },
             ".911": {
                 "buildid": "14995981",
@@ -92,9 +92,9 @@
                 "timeupdated": "1739835071"
             },
             "experimental": {
-                "buildid": "17400888",
+                "buildid": "17529661",
                 "description": "Experimental [WIP]",
-                "timeupdated": "1739846992"
+                "timeupdated": "1740655779"
             }
         },
         "privatebranches": "1"
