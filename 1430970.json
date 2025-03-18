@@ -4,8 +4,8 @@
     "name": "Astatos",
     "schinese_name": "阿斯塔托斯",
     "isfreeapp": "0",
-    "change_number": "27727673",
-    "update_time": "2025-03-01 08:09:37",
+    "change_number": "27979995",
+    "update_time": "2025-03-16 18:28:04",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "229002": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5872690431323165537",
-                    "size": "717831091",
-                    "download": "565379520"
+                    "gid": "995526957560600157",
+                    "size": "719619419",
+                    "download": "567153520"
                 }
             },
             "decryptionkey": "d18950209e9fa12a0be8b1ec2279be601080a944d175e26db9c9a80954434ef0"
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "576537684041214311",
-                    "size": "716617068",
-                    "download": "564648096"
+                    "gid": "4303760562880866626",
+                    "size": "718316445",
+                    "download": "566387504"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17547542",
-                "timeupdated": "1740787773"
+                "buildid": "17737998",
+                "timeupdated": "1742079236"
             }
         },
         "privatebranches": "1"
