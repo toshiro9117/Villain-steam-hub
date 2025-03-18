@@ -4,8 +4,8 @@
     "name": "FPV Kamikaze Drone",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27501124",
-    "update_time": "2025-02-16 16:00:45",
+    "change_number": "27933325",
+    "update_time": "2025-03-13 21:01:57",
     "depot": {
         "228989": {
             "config": {
@@ -36,6 +36,7 @@
             },
             "decryptionkey": "6660644ddd76643cb6e2fed1f8da977636b5677060ef6338cf9d2e8d3ecc0c07"
         },
+        "workshopdepot": "2707940",
         "branches": {
             "public": {
                 "buildid": "17382617",
@@ -47,6 +48,7 @@
                 "timeupdated": "1739692537"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
