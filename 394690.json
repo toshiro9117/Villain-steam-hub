@@ -4,8 +4,8 @@
     "name": "Tower Unite",
     "schinese_name": "塔楼",
     "isfreeapp": "0",
-    "change_number": "27729657",
-    "update_time": "2025-03-01 12:12:06",
+    "change_number": "28013818",
+    "update_time": "2025-03-18 21:24:21",
     "depot": {
         "228989": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "77565668760b81bec885715428a57f31c3f5e1a131ddcb8c105a83fec6401d97"
+            "decryptionkey": ""
         },
         "394692": {
             "config": {
@@ -39,21 +39,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "171212913567858175",
-                    "size": "29023128916",
-                    "download": "27837254576"
+                    "gid": "419020369097748366",
+                    "size": "29046671843",
+                    "download": "27855254064"
                 }
             },
-            "decryptionkey": "be1149768a298865cf712fe8c1bb9ca533b6a528f7fb6c7fca4a3bd92b835223"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17547765",
-                "timeupdated": "1740781119"
+                "buildid": "17733087",
+                "timeupdated": "1742004938"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "455de1bb0ae3349f6f2ded0b040fab9e1af70d42dab7576d05a944a3daf51349"
+        "workshopdepotdecryptionkey": ""
     }
 }
