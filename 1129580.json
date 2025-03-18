@@ -4,8 +4,8 @@
     "name": "Medieval Dynasty",
     "schinese_name": "中世纪王朝",
     "isfreeapp": "0",
-    "change_number": "27519129",
-    "update_time": "2025-02-18 00:23:59",
+    "change_number": "27919941",
+    "update_time": "2025-03-13 05:52:37",
     "depot": {
         "228988": {
             "config": {
@@ -25,9 +25,9 @@
         "1129581": {
             "manifests": {
                 "public": {
-                    "gid": "6541359627599461592",
-                    "size": "19460337099",
-                    "download": "12994043472"
+                    "gid": "3302708926522863600",
+                    "size": "19467267923",
+                    "download": "12997674432"
                 },
                 "pre_co-op": {
                     "gid": "1173791062572629702",
@@ -35,12 +35,12 @@
                     "download": "3413916528"
                 },
                 "public_testing": {
-                    "gid": "5253308103529090176",
-                    "size": "19463874515",
-                    "download": "12995305360"
+                    "gid": "3302708926522863600",
+                    "size": "19467267923",
+                    "download": "12997674432"
                 }
             },
-            "decryptionkey": "1046c854c37b8fbffc2463ed255b11644eb113572b68ab4d509a5e09a9f47098"
+            "decryptionkey": ""
         },
         "1418980": {
             "dlcappid": "1418980",
@@ -61,7 +61,7 @@
                     "download": "5338064000"
                 }
             },
-            "decryptionkey": "4725ba16d1f74610293041fa477eedfb35cad844c9c064efb54a7ff031a89e3d"
+            "decryptionkey": ""
         },
         "1766020": {
             "dlcappid": "1766020",
@@ -82,7 +82,7 @@
                     "download": "246575408"
                 }
             },
-            "decryptionkey": "ca76a7535ac3f0665611290b40894720e2d8ddcfbae6330301f0bf49cef0c64b"
+            "decryptionkey": ""
         },
         "1766021": {
             "dlcappid": "1766021",
@@ -103,7 +103,7 @@
                     "download": "49754768"
                 }
             },
-            "decryptionkey": "e63723c50d9ecdb7093d2f318c5ce1418817e4fc2148706bba820c94f83de162"
+            "decryptionkey": ""
         },
         "1766022": {
             "dlcappid": "1766022",
@@ -124,12 +124,12 @@
                     "download": "130719200"
                 }
             },
-            "decryptionkey": "42d607c1515fec47b5c19b04778c4c52bbfe10cac2d0acb459d0f61a02eebacf"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17336837",
-                "timeupdated": "1739809433"
+                "buildid": "17622060",
+                "timeupdated": "1741605281"
             },
             "pre_co-op": {
                 "buildid": "11595403",
@@ -137,9 +137,9 @@
                 "timeupdated": "1702385380"
             },
             "public_testing": {
-                "buildid": "17455882",
+                "buildid": "17622060",
                 "description": "Public testing branch before public release",
-                "timeupdated": "1740146054"
+                "timeupdated": "1741605254"
             }
         },
         "privatebranches": "1"
