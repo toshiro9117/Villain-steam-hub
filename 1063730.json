@@ -4,38 +4,9 @@
     "name": "New World: Aeternum",
     "schinese_name": "新世界",
     "isfreeapp": "0",
-    "change_number": "27428420",
-    "update_time": "2025-02-12 06:03:57",
+    "change_number": "27885037",
+    "update_time": "2025-03-11 14:10:41",
     "depot": {
-        "hasdepotsindlc": "0",
-        "228985": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228986": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228987": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228988": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -50,15 +21,16 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "hasdepotsindlc": "0",
         "1063731": {
             "manifests": {
                 "public": {
-                    "gid": "50738220139994653",
-                    "size": "81602379142",
-                    "download": "71402272048"
+                    "gid": "1318581506929832319",
+                    "size": "82048552803",
+                    "download": "71668323904"
                 }
             },
-            "decryptionkey": "3d40a764fce79086fca5d6ec9b71ab93a9b539b43510269327bcf68dc420081a"
+            "decryptionkey": ""
         },
         "1200566": {
             "dlcappid": "1200566",
@@ -75,9 +47,9 @@
             "dlcappid": "1716920",
             "manifests": {
                 "public": {
-                    "gid": "1015025769657266460",
-                    "size": "523388557",
-                    "download": "127484400"
+                    "gid": "2109413005350653828",
+                    "size": "526762981",
+                    "download": "127738864"
                 }
             },
             "decryptionkey": ""
@@ -86,9 +58,9 @@
             "dlcappid": "1210560",
             "manifests": {
                 "public": {
-                    "gid": "4378262242035636494",
-                    "size": "226612920",
-                    "download": "59071632"
+                    "gid": "2127842386699638889",
+                    "size": "226725560",
+                    "download": "58978032"
                 }
             },
             "decryptionkey": ""
@@ -199,8 +171,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17418890",
-                "timeupdated": "1739950511"
+                "buildid": "17626125",
+                "timeupdated": "1741673413"
             }
         },
         "privatebranches": "1"
