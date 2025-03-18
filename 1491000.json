@@ -3,9 +3,9 @@
     "type": "Game",
     "name": "War Robots: Frontiers",
     "schinese_name": "",
-    "isfreeapp": "0",
-    "change_number": "27725138",
-    "update_time": "2025-03-01 04:27:15",
+    "isfreeapp": "1",
+    "change_number": "28011108",
+    "update_time": "2025-03-18 18:24:01",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1088726495407671620",
-                    "size": "9098525530",
-                    "download": "8598138768"
+                    "gid": "4398910429986366963",
+                    "size": "9740152372",
+                    "download": "9250179360"
                 }
-            },
-            "decryptionkey": "2be9488b3154af861533f4c4e8257f5ceaa80f32d7244bc091d10daa6927b51a"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17347796",
-                "timeupdated": "1739440978"
+                "buildid": "17721884",
+                "timeupdated": "1741957364"
             }
         },
         "privatebranches": "1"
