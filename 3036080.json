@@ -4,8 +4,8 @@
     "name": "Shawarma Legend",
     "schinese_name": "沙威玛传奇 - Shawarma Legend",
     "isfreeapp": "0",
-    "change_number": "27716960",
-    "update_time": "2025-02-28 20:23:17",
+    "change_number": "28010080",
+    "update_time": "2025-03-18 17:22:10",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "80473760"
                 }
             },
-            "decryptionkey": "43c6cbc48dd25cd831e560ab88eaec5ec6ea5759d28d66933d6ae1a4badb30db"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,turkish,arabic,brazilian,latam,indonesian",
         "branches": {
