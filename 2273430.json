@@ -4,8 +4,8 @@
     "name": "BlazBlue Entropy Effect",
     "schinese_name": "苍翼：混沌效应",
     "isfreeapp": "0",
-    "change_number": "27721082",
-    "update_time": "2025-03-01 00:23:00",
+    "change_number": "27947047",
+    "update_time": "2025-03-14 09:55:14",
     "depot": {
         "228989": {
             "config": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2176713419216199097",
-                    "size": "9751732325",
-                    "download": "8436308304"
+                    "gid": "2810795564766884593",
+                    "size": "9768069787",
+                    "download": "8452823536"
                 },
                 "bbee-ea": {
                     "gid": "1181538358703119718",
@@ -33,7 +33,7 @@
                     "download": "4686327248"
                 }
             },
-            "decryptionkey": "8208c2f3da1d2334a1bdfdce064948df43608a9dce229fd006defc11ec0bb5ff"
+            "decryptionkey": ""
         },
         "2273432": {
             "config": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2522808253179858166",
-                    "size": "9758078544",
-                    "download": "8425361872"
+                    "gid": "3572785184898626836",
+                    "size": "9772852800",
+                    "download": "8441733920"
                 },
                 "bbee-ea": {
                     "gid": "8289491013708764854",
@@ -52,7 +52,7 @@
                     "download": "4739167264"
                 }
             },
-            "decryptionkey": "61cf08549f627caaf2793f6324710aa2bc1e9ce5b15ddd5f91a07fe323c89cef"
+            "decryptionkey": ""
         },
         "2771130": {
             "dlcappid": "2771130",
@@ -63,12 +63,12 @@
                     "download": "132753472"
                 }
             },
-            "decryptionkey": "9252ee34ddef99b9842cf9b953a265b23f119aac46977475999deac055a2aa24"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17497028",
-                "timeupdated": "1740540534"
+                "buildid": "17708159",
+                "timeupdated": "1741917309"
             },
             "bbee-ea": {
                 "sc_schinese": "Early Access",
