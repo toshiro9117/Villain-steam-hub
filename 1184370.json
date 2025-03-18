@@ -4,8 +4,8 @@
     "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
     "schinese_name": "开拓者：正义之怒",
     "isfreeapp": "0",
-    "change_number": "27728947",
-    "update_time": "2025-03-01 10:30:12",
+    "change_number": "28013172",
+    "update_time": "2025-03-18 20:45:01",
     "depot": {
         "workshopdepot": "1184370",
         "hasdepotsindlc": "1",
@@ -121,9 +121,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7095923674630040577",
-                    "size": "34207542156",
-                    "download": "27300940576"
+                    "gid": "8524018297566205283",
+                    "size": "34197452576",
+                    "download": "27305959584"
                 },
                 "1.3.7d": {
                     "gid": "7527851383142730328",
@@ -225,9 +225,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "95259318092133932",
-                    "size": "34230879644",
-                    "download": "27302169152"
+                    "gid": "1576833175119611477",
+                    "size": "34220777643",
+                    "download": "27312357264"
                 },
                 "1.3.7d": {
                     "gid": "3742404312161394127",
@@ -332,8 +332,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17424995",
-                "timeupdated": "1739980858"
+                "buildid": "17677240",
+                "timeupdated": "1741697307"
             },
             "1.3.7d": {
                 "buildid": "9126755",
