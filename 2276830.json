@@ -4,8 +4,8 @@
     "name": "Kingsvein",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27139449",
-    "update_time": "2025-01-24 07:07:53",
+    "change_number": "27936829",
+    "update_time": "2025-03-13 23:58:44",
     "depot": {
         "228990": {
             "config": {
@@ -31,19 +31,19 @@
         "2276831": {
             "manifests": {
                 "public": {
-                    "gid": "2171996417698978298",
-                    "size": "738425595",
-                    "download": "640125936"
+                    "gid": "8268429495805955624",
+                    "size": "738434144",
+                    "download": "640127968"
                 },
                 "beta": {
-                    "gid": "2171996417698978298",
-                    "size": "738425595",
-                    "download": "640125936"
+                    "gid": "8268429495805955624",
+                    "size": "738434144",
+                    "download": "640127968"
                 },
                 "test": {
-                    "gid": "2171996417698978298",
-                    "size": "738425595",
-                    "download": "640125936"
+                    "gid": "8268429495805955624",
+                    "size": "738434144",
+                    "download": "640127968"
                 }
             },
             "decryptionkey": "bda9c7c9b1d1095a717cbf1dcf309e51145df9162efd362dc83f5a157cb7413e"
@@ -51,18 +51,18 @@
         "workshopdepot": "2276830",
         "branches": {
             "public": {
-                "buildid": "17111669",
-                "timeupdated": "1737673667"
+                "buildid": "17581872",
+                "timeupdated": "1741881520"
             },
             "beta": {
-                "buildid": "17111669",
+                "buildid": "17581872",
                 "description": "beta testing branch",
-                "timeupdated": "1737673581"
+                "timeupdated": "1741060228"
             },
             "test": {
-                "buildid": "17111669",
+                "buildid": "17581872",
                 "description": "private testing branch",
-                "timeupdated": "1737673538"
+                "timeupdated": "1741049575"
             }
         },
         "workshopdepotdecryptionkey": ""
