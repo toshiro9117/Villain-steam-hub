@@ -4,8 +4,8 @@
     "name": "Entropy Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27392673",
-    "update_time": "2025-02-10 09:27:00",
+    "change_number": "27993072",
+    "update_time": "2025-03-17 20:20:57",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2602031": {
             "manifests": {
                 "public": {
-                    "gid": "8743000523692945915",
-                    "size": "4356834992",
-                    "download": "3799895536"
+                    "gid": "5057690963906900734",
+                    "size": "4367194046",
+                    "download": "3809591456"
                 }
             },
-            "decryptionkey": "04c21a6801b86c72abdb8b5b9f276cbddee6ecc7e900f98e55b2d1bdd1fc6b2c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17176430",
-                "timeupdated": "1738186824"
+                "buildid": "17697592",
+                "timeupdated": "1741810340"
             }
         },
         "privatebranches": "1"
