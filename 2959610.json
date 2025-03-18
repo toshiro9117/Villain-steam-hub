@@ -1,0 +1,32 @@
+{
+    "appid": "2959610",
+    "type": "Game",
+    "name": "Cabin Crew Life Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28008869",
+    "update_time": "2025-03-18 16:02:56",
+    "depot": {
+        "2959611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2450182142467703692",
+                    "size": "2478082334",
+                    "download": "1651080096"
+                }
+            },
+            "decryptionkey": "a8a8ab2bb84a026b16b49e2cd4b28c2a6c2b59fa7840ad3e88fc04cc5f6e9c0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17653452",
+                "timeupdated": "1741537897"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
