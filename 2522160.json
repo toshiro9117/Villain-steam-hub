@@ -4,8 +4,8 @@
     "name": "Letter Lancers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27469157",
-    "update_time": "2025-02-14 07:23:56",
+    "change_number": "27827353",
+    "update_time": "2025-03-07 10:21:11",
     "depot": {
         "2522161": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3803429883433965932",
-                    "size": "676321416",
-                    "download": "121099104"
+                    "gid": "4989307285996576797",
+                    "size": "677961209",
+                    "download": "122806128"
                 }
             },
             "decryptionkey": ""
@@ -37,8 +37,8 @@
         "baselanguages": "english,italian,koreana,schinese,russian,brazilian,latam,indonesian",
         "branches": {
             "public": {
-                "buildid": "17432403",
-                "timeupdated": "1740016918"
+                "buildid": "17628926",
+                "timeupdated": "1741314066"
             }
         }
     }
