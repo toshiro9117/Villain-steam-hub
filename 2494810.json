@@ -4,8 +4,8 @@
     "name": "Dark Hunting Ground",
     "schinese_name": "漆黑猎场",
     "isfreeapp": "0",
-    "change_number": "27716407",
-    "update_time": "2025-02-28 19:50:11",
+    "change_number": "27951538",
+    "update_time": "2025-03-14 16:14:40",
     "depot": {
         "baselanguages": "english,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "2494811": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3030497323721255355",
-                    "size": "1808238046",
-                    "download": "164877904"
+                    "gid": "8882058052288241407",
+                    "size": "1808252875",
+                    "download": "164865296"
                 }
             },
             "decryptionkey": "c9271a6ce186c8fc02dead2d0dd037292ac29ec10f10246b1e617431d52e2537"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5179398849144573190",
-                    "size": "898727231",
-                    "download": "159188816"
+                    "gid": "5836733896614065770",
+                    "size": "898742044",
+                    "download": "159172528"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17546109",
-                "timeupdated": "1740743404"
+                "buildid": "17721528",
+                "timeupdated": "1741940076"
             }
         }
     }
