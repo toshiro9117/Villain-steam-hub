@@ -4,8 +4,8 @@
     "name": "Saleblazers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726971",
-    "update_time": "2025-03-01 07:02:18",
+    "change_number": "28007490",
+    "update_time": "2025-03-18 13:59:17",
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4281430284384730843",
-                    "size": "6902730565",
-                    "download": "2235430160"
+                    "gid": "3203929875996728914",
+                    "size": "6896258138",
+                    "download": "2230735888"
+                },
+                "experimental": {
+                    "gid": "3203929875996728914",
+                    "size": "6896258138",
+                    "download": "2230735888"
                 }
             },
             "decryptionkey": "0a55957bc94d9449b32b00478cc33206b02bea57467d367badd10e05b4108a44"
@@ -40,9 +45,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3194307889789431652",
-                    "size": "7064516531",
-                    "download": "2249836624"
+                    "gid": "5937204615098878112",
+                    "size": "7067428626",
+                    "download": "2251105760"
+                },
+                "experimental": {
+                    "gid": "5937204615098878112",
+                    "size": "7067428626",
+                    "download": "2251105760"
                 }
             },
             "decryptionkey": ""
@@ -50,8 +60,13 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,turkish,brazilian,greek,vietnamese",
         "branches": {
             "public": {
-                "buildid": "17373094",
-                "timeupdated": "1739577810"
+                "buildid": "17642861",
+                "timeupdated": "1741395972"
+            },
+            "experimental": {
+                "buildid": "17642861",
+                "description": "Access an experimental build for testing.",
+                "timeupdated": "1741395866"
             }
         },
         "privatebranches": "1"
