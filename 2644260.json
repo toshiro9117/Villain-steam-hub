@@ -4,9 +4,11 @@
     "name": "恐惧之影",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27324320",
-    "update_time": "2025-02-05 19:17:20",
+    "change_number": "27981170",
+    "update_time": "2025-03-16 21:52:24",
     "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -29,10 +31,15 @@
                     "download": "10081477376"
                 }
             },
-            "decryptionkey": "d1e7856b96b6963dca7a42328c056d632fa504324234e6d6d7b856005423a10a"
+            "decryptionkey": ""
         },
-        "baselanguages": "schinese",
-        "hasdepotsindlc": "0",
+        "2644262": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "14444388",
