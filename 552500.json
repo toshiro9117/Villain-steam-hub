@@ -4,8 +4,8 @@
     "name": "Warhammer: Vermintide 2",
     "schinese_name": "战锤：末世鼠疫2",
     "isfreeapp": "0",
-    "change_number": "27724378",
-    "update_time": "2025-03-01 03:32:40",
+    "change_number": "28012895",
+    "update_time": "2025-03-18 20:26:12",
     "depot": {
         "228983": {
             "config": {
@@ -35,6 +35,13 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "228990": {
             "config": {
                 "oslist": "windows"
@@ -55,14 +62,14 @@
         "552501": {
             "manifests": {
                 "public": {
-                    "gid": "3056199108142590028",
-                    "size": "65499308896",
-                    "download": "41860190384"
+                    "gid": "5978237621149313171",
+                    "size": "65912056961",
+                    "download": "42099683824"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "3056199108142590028",
-                    "size": "65499308896",
-                    "download": "41860190384"
+                    "gid": "5978237621149313171",
+                    "size": "65912056961",
+                    "download": "42099683824"
                 }
             },
             "decryptionkey": "a7a75811b296249cb955e09881a66f2d253d083995ab0a749c6448e5ee6beee2"
@@ -70,14 +77,14 @@
         "552502": {
             "manifests": {
                 "public": {
-                    "gid": "5424450513997223391",
-                    "size": "118125284",
-                    "download": "64211536"
+                    "gid": "4642656104001527764",
+                    "size": "114460552",
+                    "download": "62529040"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "5424450513997223391",
-                    "size": "118125284",
-                    "download": "64211536"
+                    "gid": "4642656104001527764",
+                    "size": "114460552",
+                    "download": "62529040"
                 }
             },
             "decryptionkey": "dda8511217a15f192cf48148ee19fc6176fd0d432342131bcb39a6187d16bc22"
@@ -85,14 +92,14 @@
         "552503": {
             "manifests": {
                 "public": {
-                    "gid": "1576412205051431427",
-                    "size": "243918802",
-                    "download": "62930880"
+                    "gid": "2718232977451358708",
+                    "size": "284742854",
+                    "download": "70528784"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "1576412205051431427",
-                    "size": "243918802",
-                    "download": "62930880"
+                    "gid": "2718232977451358708",
+                    "size": "284742854",
+                    "download": "70528784"
                 }
             },
             "decryptionkey": "dedd3fd14201a662940967a122b5f016d671e484a6b5e916669062f82007426a"
@@ -100,14 +107,14 @@
         "552504": {
             "manifests": {
                 "public": {
-                    "gid": "2364685194504972606",
-                    "size": "294795268",
-                    "download": "72218720"
+                    "gid": "5661186120705998781",
+                    "size": "331311571",
+                    "download": "78855424"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "2364685194504972606",
-                    "size": "294795268",
-                    "download": "72218720"
+                    "gid": "5661186120705998781",
+                    "size": "331311571",
+                    "download": "78855424"
                 }
             },
             "decryptionkey": ""
@@ -137,13 +144,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17319361",
-                "timeupdated": "1739267845"
+                "buildid": "17765404",
+                "timeupdated": "1742300764"
             },
             "temporary_launcher_workaround": {
-                "buildid": "17319346",
+                "buildid": "17765398",
                 "description": "Bypass Launcher",
-                "timeupdated": "1739267755"
+                "timeupdated": "1742300695"
             }
         },
         "privatebranches": "1",
