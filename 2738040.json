@@ -4,8 +4,8 @@
     "name": "Silica Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27265939",
-    "update_time": "2025-02-01 14:16:47",
+    "change_number": "28007570",
+    "update_time": "2025-03-18 14:07:15",
     "depot": {
         "1004": {
             "config": {
@@ -74,9 +74,9 @@
                     "download": "3236896400"
                 },
                 "beta": {
-                    "gid": "8557223730052612845",
-                    "size": "7807111541",
-                    "download": "3048395216"
+                    "gid": "6465252650426174029",
+                    "size": "7888566476",
+                    "download": "3078888432"
                 }
             },
             "decryptionkey": "a7df626c379d1ae106f0dcbb99b08f574a628a4b2b8b04cf5cc726164a5ba219"
@@ -92,9 +92,9 @@
                     "download": "3241976768"
                 },
                 "beta": {
-                    "gid": "2159574106390498191",
-                    "size": "7774221806",
-                    "download": "3026242480"
+                    "gid": "5571938159480554137",
+                    "size": "7855676805",
+                    "download": "3056717904"
                 }
             },
             "decryptionkey": ""
@@ -105,9 +105,9 @@
                 "timeupdated": "1734619647"
             },
             "beta": {
-                "buildid": "17207018",
+                "buildid": "17759302",
                 "description": "Branch for Beta playtesting",
-                "timeupdated": "1738390602"
+                "timeupdated": "1742278028"
             }
         },
         "privatebranches": "1"
