@@ -4,8 +4,8 @@
     "name": "DinoSystem",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27063421",
-    "update_time": "2025-01-19 20:24:42",
+    "change_number": "27900452",
+    "update_time": "2025-03-12 07:10:33",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "373751": {
             "manifests": {
                 "public": {
-                    "gid": "2344855640283864073",
-                    "size": "424776765",
-                    "download": "215170928"
+                    "gid": "2716977953282098659",
+                    "size": "424757305",
+                    "download": "215157824"
                 },
                 "v0.95.1": {
                     "gid": "7864592394558225062",
@@ -37,12 +37,12 @@
                     "download": "173384432"
                 }
             },
-            "decryptionkey": "da220cc1aae8b1db4bef88e5fde09c555b9b9fd11a4e9f16c3509f4f1300cb7b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17053463",
-                "timeupdated": "1737289473"
+                "buildid": "17653820",
+                "timeupdated": "1741543060"
             },
             "v0.95.1": {
                 "buildid": "7379707",
