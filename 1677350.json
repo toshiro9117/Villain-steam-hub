@@ -4,8 +4,8 @@
     "name": "EA SPORTS™ PGA TOUR™",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26963428",
-    "update_time": "2025-01-13 01:09:35",
+    "change_number": "27753127",
+    "update_time": "2025-03-03 20:01:29",
     "depot": {
         "228988": {
             "config": {
@@ -25,12 +25,12 @@
         "1677351": {
             "manifests": {
                 "public": {
-                    "gid": "2267482455914419786",
-                    "size": "60174320933",
-                    "download": "45946701168"
+                    "gid": "157226213483788557",
+                    "size": "60135562204",
+                    "download": "45907058192"
                 }
             },
-            "decryptionkey": "35926dbbb1966047e99f70059b05fc88298e874d0e6ca2b90bd37d5bf6e9028d"
+            "decryptionkey": ""
         },
         "1677352": {
             "config": {
@@ -38,17 +38,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2042677035402151969",
-                    "size": "291054",
-                    "download": "158256"
+                    "gid": "8503148688625600573",
+                    "size": "296090",
+                    "download": "162656"
                 }
             },
-            "decryptionkey": "36d9ae111d606396ade5b1ab43997daca111cf50de39988b97177baf9c13fc4b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13800972",
-                "timeupdated": "1712048403"
+                "buildid": "17459576",
+                "timeupdated": "1741003281"
             }
         },
         "privatebranches": "1"
