@@ -4,8 +4,8 @@
     "name": "Recycling Center Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537180",
-    "update_time": "2025-02-18 23:35:37",
+    "change_number": "27989534",
+    "update_time": "2025-03-17 16:21:33",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,hungarian,turkish,brazilian",
         "228989": {
@@ -35,17 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4156510518789289605",
-                    "size": "4468896632",
-                    "download": "1808829616"
+                    "gid": "2644856066217630590",
+                    "size": "4468400012",
+                    "download": "1808660752"
                 }
             },
-            "decryptionkey": "f3fb7b155bce959749003944da502d37f6173818bd73c9f372a32bafbea24f02"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17439087",
-                "timeupdated": "1740065768"
+                "buildid": "17483108",
+                "timeupdated": "1740409411"
             }
         },
         "privatebranches": "1"
