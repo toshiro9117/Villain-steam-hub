@@ -4,8 +4,8 @@
     "name": "Workers & Resources: Soviet Republic",
     "schinese_name": "工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic",
     "isfreeapp": "0",
-    "change_number": "27469766",
-    "update_time": "2025-02-14 08:15:20",
+    "change_number": "27972373",
+    "update_time": "2025-03-15 20:59:01",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,hungarian,turkish,brazilian,bulgarian,ukrainian",
         "workshopdepot": "784150",
@@ -74,9 +74,9 @@
                     "download": "2411825760"
                 },
                 "test": {
-                    "gid": "8854485311109230993",
-                    "size": "9295804702",
-                    "download": "2977388704"
+                    "gid": "1662689201619080677",
+                    "size": "9288079517",
+                    "download": "2976487584"
                 }
             },
             "decryptionkey": "3cbf0aae21e6bfca8d67af48b8f449d1ab056ef999590f4f3eb4c487badc6a19"
@@ -137,9 +137,9 @@
                     "download": "418551392"
                 },
                 "test": {
-                    "gid": "5495483771184710474",
-                    "size": "1226702295",
-                    "download": "418551392"
+                    "gid": "8519440810606657128",
+                    "size": "1622205086",
+                    "download": "553468800"
                 }
             },
             "decryptionkey": ""
@@ -153,9 +153,9 @@
                     "download": "522115776"
                 },
                 "test": {
-                    "gid": "693038925383804593",
-                    "size": "3961603299",
-                    "download": "522115776"
+                    "gid": "2959927583852084431",
+                    "size": "3961600139",
+                    "download": "522109520"
                 }
             },
             "decryptionkey": "4b5e8038aff5bb90f428d2a559cc99e36a0d1f0be5e5180df163807db5c0a37c"
@@ -201,9 +201,9 @@
                 "timeupdated": "1706268562"
             },
             "test": {
-                "buildid": "16882722",
+                "buildid": "17466698",
                 "description": "beta branch - public testing of new features",
-                "timeupdated": "1735665654"
+                "timeupdated": "1740502440"
             }
         },
         "privatebranches": "1",
