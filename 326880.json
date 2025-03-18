@@ -4,8 +4,8 @@
     "name": "Space Engineers - Mod SDK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27721482",
-    "update_time": "2025-03-01 00:44:58",
+    "change_number": "27960973",
+    "update_time": "2025-03-15 00:45:38",
     "depot": {
         "228985": {
             "config": {
@@ -128,7 +128,7 @@
                     "download": "2271689792"
                 }
             },
-            "decryptionkey": "fc8179872bc6ad23b8fa4d7bd96316b7d9acabca2f3b641af0f49d92a45aa91a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
