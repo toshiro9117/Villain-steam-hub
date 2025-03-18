@@ -4,8 +4,8 @@
     "name": "Commander Quest Demo",
     "schinese_name": "牌兵布阵 Demo (Commander Quest Demo)",
     "isfreeapp": "0",
-    "change_number": "27510232",
-    "update_time": "2025-02-17 13:48:30",
+    "change_number": "27954502",
+    "update_time": "2025-03-14 19:05:03",
     "depot": {
         "baselanguages": "english,koreana",
         "228989": {
@@ -22,27 +22,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5811709912386813208",
-                    "size": "3002719239",
-                    "download": "2451819456"
+                    "gid": "6028140563262628611",
+                    "size": "3051363293",
+                    "download": "2494306752"
                 },
                 "beta": {
-                    "gid": "5811709912386813208",
-                    "size": "3002719239",
-                    "download": "2451819456"
+                    "gid": "6028140563262628611",
+                    "size": "3051363293",
+                    "download": "2494306752"
                 }
-            },
-            "decryptionkey": "c444b10780747e9fd5b6b9614b0216d7f17ada50d6748a09ba41b4483bc0efe5"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17388870",
-                "timeupdated": "1739771304"
+                "buildid": "17723785",
+                "timeupdated": "1741950300"
             },
             "beta": {
-                "buildid": "17388870",
+                "buildid": "17723785",
                 "description": "beta testing branch",
-                "timeupdated": "1739770321"
+                "timeupdated": "1741949645"
             }
         }
     }
