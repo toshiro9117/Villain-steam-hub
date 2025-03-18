@@ -4,8 +4,8 @@
     "name": "VGDD2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27723113",
-    "update_time": "2025-03-01 02:11:02",
+    "change_number": "27999758",
+    "update_time": "2025-03-18 02:17:51",
     "depot": {
         "228989": {
             "config": {
@@ -28,18 +28,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5948625000716284380",
-                    "size": "26568473144",
-                    "download": "15490905712"
+                    "gid": "7189717633893200",
+                    "size": "26568482209",
+                    "download": "15490904976"
                 }
             },
-            "decryptionkey": "5195261e7ca5f37ebc06fd9599b9b8cbc1b172ea54cec4096d3e60b8f176643e"
+            "decryptionkey": ""
         },
         "baselanguages": "english,japanese",
         "branches": {
             "public": {
-                "buildid": "17530092",
-                "timeupdated": "1740734171"
+                "buildid": "17689540",
+                "timeupdated": "1741769677"
             }
         },
         "privatebranches": "1"
