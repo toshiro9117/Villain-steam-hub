@@ -4,8 +4,8 @@
     "name": "DvDrum, Ultimate Drum Simulator!",
     "schinese_name": "DvDrum超级鼓模拟",
     "isfreeapp": "0",
-    "change_number": "27062040",
-    "update_time": "2025-01-19 15:52:49",
+    "change_number": "27960676",
+    "update_time": "2025-03-15 00:28:57",
     "depot": {
         "workshopdepot": "385130",
         "228989": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2834420438176905",
-                    "size": "784368897",
-                    "download": "713537296"
+                    "gid": "1465815051423604278",
+                    "size": "784463787",
+                    "download": "713628016"
                 },
                 "local": {
                     "gid": "3561704249507855208",
@@ -46,12 +46,12 @@
                     "download": "697197440"
                 }
             },
-            "decryptionkey": "ab96518f47952d574a3a62e4013b23981d03bb9f10c761b41d6d81207ef9da74"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17039954",
-                "timeupdated": "1737197609"
+                "buildid": "17724478",
+                "timeupdated": "1741969729"
             },
             "local": {
                 "buildid": "12315950",
@@ -60,6 +60,6 @@
                 "timeupdated": "1695983296"
             }
         },
-        "workshopdepotdecryptionkey": "27c1b7acb92c874cc0dd20c5b0abb24adcf05c8e63e922ed0742d6a8b441c7df"
+        "workshopdepotdecryptionkey": ""
     }
 }
