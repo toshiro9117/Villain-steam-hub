@@ -4,8 +4,8 @@
     "name": "F1® Manager 2024",
     "schinese_name": "F1®车队经理2024",
     "isfreeapp": "0",
-    "change_number": "27475676",
-    "update_time": "2025-02-14 16:54:01",
+    "change_number": "27973375",
+    "update_time": "2025-03-15 23:21:11",
     "depot": {
         "228989": {
             "config": {
@@ -17,18 +17,18 @@
         "2591281": {
             "manifests": {
                 "public": {
-                    "gid": "7248803439530206750",
-                    "size": "18769291025",
-                    "download": "16655536032"
+                    "gid": "5180313629266358202",
+                    "size": "18776311184",
+                    "download": "16665395904"
                 }
             },
-            "decryptionkey": "e371e0b7a49da6cdcd910edd1f1f9f7eaa93de33884db50e3778ec73f34800b2"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "16528074",
-                "timeupdated": "1733324431"
+                "buildid": "17356935",
+                "timeupdated": "1740481179"
             }
         },
         "privatebranches": "1"
