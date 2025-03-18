@@ -4,8 +4,8 @@
     "name": "The Crew",
     "schinese_name": "飙酷车神",
     "isfreeapp": "0",
-    "change_number": "27117121",
-    "update_time": "2025-01-23 02:26:02",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:07",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "",
@@ -27,7 +27,7 @@
                     "download": "14878233584"
                 }
             },
-            "decryptionkey": "8aadd8a2edf897c35e27b15ad03ef8b4eab7b060324519e59988e290391dcafc"
+            "decryptionkey": ""
         },
         "241561": {
             "systemdefined": "1",
@@ -46,7 +46,7 @@
                     "download": "15384635808"
                 }
             },
-            "decryptionkey": "1be1e7dac5110de350ec4e8bef5adeb9f3462a7b97b0816158c163a30a634e8b"
+            "decryptionkey": ""
         },
         "241565": {
             "config": {
@@ -135,9 +135,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
