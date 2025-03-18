@@ -4,8 +4,8 @@
     "name": "Sprocket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537758",
-    "update_time": "2025-02-19 00:11:25",
+    "change_number": "27919817",
+    "update_time": "2025-03-13 05:11:40",
     "depot": {
         "228990": {
             "config": {
@@ -37,12 +37,12 @@
                     "download": "1457466496"
                 },
                 "0.2-alpha": {
-                    "gid": "3050361268023362021",
-                    "size": "1715439632",
-                    "download": "1024091424"
+                    "gid": "5578152286184124247",
+                    "size": "1722775195",
+                    "download": "1029783712"
                 }
             },
-            "decryptionkey": "499f4c7f29d6fce3e91d26828c4520d13d5dfc7a4b88ba43d5fe01959baaec54"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
@@ -61,9 +61,9 @@
                 "timeupdated": "1673014525"
             },
             "0.2-alpha": {
-                "buildid": "17424926",
+                "buildid": "17698694",
                 "description": "Early testing for 0.2, introducing a new fully geometric approach to tank design.",
-                "timeupdated": "1739980498"
+                "timeupdated": "1741813895"
             }
         },
         "privatebranches": "1"
