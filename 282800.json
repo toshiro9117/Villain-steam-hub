@@ -4,8 +4,8 @@
     "name": "100% Orange Juice",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27439758",
-    "update_time": "2025-02-12 21:23:14",
+    "change_number": "27873768",
+    "update_time": "2025-03-10 23:17:42",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
@@ -86,17 +86,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2161933292017687632",
-                    "size": "1748796322",
-                    "download": "1660317568"
+                    "gid": "3904806867296528893",
+                    "size": "1803187568",
+                    "download": "1626853184"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17428016",
-                "timeupdated": "1740072993"
+                "buildid": "17504774",
+                "timeupdated": "1740512769"
             },
             "legacy_3.23.1": {
                 "buildid": "16098648",
