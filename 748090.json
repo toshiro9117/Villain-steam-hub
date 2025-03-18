@@ -4,8 +4,8 @@
     "name": "Colony Survival Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26791636",
-    "update_time": "2024-12-27 05:50:39",
+    "change_number": "27980450",
+    "update_time": "2025-03-16 19:49:46",
     "depot": {
         "1004": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1721471710065697399",
-                    "size": "119049397",
-                    "download": "59042768"
+                    "gid": "9085962395370077289",
+                    "size": "119049582",
+                    "download": "59042688"
                 },
                 "0.4.2": {
                     "gid": "6008734851328796072",
@@ -171,9 +171,9 @@
                     "download": "59097712"
                 },
                 "0.12.1": {
-                    "gid": "1721471710065697399",
-                    "size": "119049397",
-                    "download": "59042768"
+                    "gid": "9085962395370077289",
+                    "size": "119049582",
+                    "download": "59042688"
                 }
             },
             "decryptionkey": ""
@@ -314,9 +314,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4188327036586449739",
-                    "size": "118073406",
-                    "download": "56795072"
+                    "gid": "6386460522286132460",
+                    "size": "118073591",
+                    "download": "56796640"
                 },
                 "0.4.2": {
                     "gid": "2923904075307157761",
@@ -429,9 +429,9 @@
                     "download": "56849904"
                 },
                 "0.12.1": {
-                    "gid": "4188327036586449739",
-                    "size": "118073406",
-                    "download": "56795072"
+                    "gid": "6386460522286132460",
+                    "size": "118073591",
+                    "download": "56796640"
                 }
             },
             "decryptionkey": ""
@@ -567,8 +567,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16856510",
-                "timeupdated": "1735249834"
+                "buildid": "17742599",
+                "timeupdated": "1742125781"
             },
             "0.4.2": {
                 "buildid": "2293750",
@@ -669,9 +669,9 @@
                 "timeupdated": "1733494784"
             },
             "0.12.1": {
-                "buildid": "16856510",
+                "buildid": "17742598",
                 "description": "Localization Update",
-                "timeupdated": "1735249374"
+                "timeupdated": "1742125759"
             }
         },
         "privatebranches": "1"
