@@ -4,8 +4,8 @@
     "name": "IL-2 Sturmovik: Battle of Stalingrad",
     "schinese_name": "IL-2捍卫雄鹰：斯大林格勒战役",
     "isfreeapp": "0",
-    "change_number": "27731729",
-    "update_time": "2025-03-01 17:44:49",
+    "change_number": "27983840",
+    "update_time": "2025-03-17 04:20:36",
     "depot": {
         "228987": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "42218109072"
                 }
             },
-            "decryptionkey": "23b7d427a0663be8f3d3540b80b7a0bb9d98b7f4e6d17ddc7a7224ac5d20e947"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
