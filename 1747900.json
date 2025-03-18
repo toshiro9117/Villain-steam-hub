@@ -4,8 +4,8 @@
     "name": "Enchanted Blacksmith",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27505527",
-    "update_time": "2025-02-17 03:22:47",
+    "change_number": "27945483",
+    "update_time": "2025-03-14 07:57:48",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1747901": {
             "manifests": {
                 "public": {
-                    "gid": "6128012517941854026",
-                    "size": "1221206979",
-                    "download": "451154704"
+                    "gid": "5463068403891029695",
+                    "size": "1301403995",
+                    "download": "457671792"
                 },
                 "beta": {
                     "gid": "5463068403891029695",
@@ -39,12 +39,12 @@
                     "download": "288712432"
                 }
             },
-            "decryptionkey": "e480c5808bfe60c0a64a898af95659eabab40c2b8c86cb05fed87747b6d3036b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15919272",
-                "timeupdated": "1727976184"
+                "buildid": "17384839",
+                "timeupdated": "1741368723"
             },
             "beta": {
                 "buildid": "17384839",
