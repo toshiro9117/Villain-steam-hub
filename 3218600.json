@@ -4,8 +4,8 @@
     "name": "命运游戏2：百年之约",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27471515",
-    "update_time": "2025-02-14 10:33:53",
+    "change_number": "28010951",
+    "update_time": "2025-03-18 18:12:53",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese,tchinese",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4751066434090484656",
-                    "size": "67351824909",
-                    "download": "67926888480"
+                    "gid": "3293679710579429388",
+                    "size": "67363218292",
+                    "download": "67936653856"
                 }
             },
             "decryptionkey": "a9056353de36f2ccfb10c1b66ad52bba28d64db535fb19c5540bbf759b0a6ec7"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2055927374493243860",
-                    "size": "66252220830",
-                    "download": "66774051888"
+                    "gid": "3083211751001376576",
+                    "size": "67412981869",
+                    "download": "67947708640"
                 }
             },
             "decryptionkey": ""
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1496480879471018632",
-                    "size": "66871982397",
-                    "download": "67512647872"
+                    "gid": "498855732822696670",
+                    "size": "66883406512",
+                    "download": "67522557200"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17345931",
-                "timeupdated": "1739416885"
+                "buildid": "17763762",
+                "timeupdated": "1742292768"
             }
         }
     }
