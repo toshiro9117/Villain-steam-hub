@@ -4,8 +4,8 @@
     "name": "EXOME",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26821025",
-    "update_time": "2024-12-31 06:39:23",
+    "change_number": "27798203",
+    "update_time": "2025-03-06 00:14:24",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "5228330176"
                 }
             },
-            "decryptionkey": "17ec3b9151ef23edec5f4c7fb10f689944aa5e5418363eeb78ccda7d5ab0ba3f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
