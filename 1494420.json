@@ -4,8 +4,8 @@
     "name": "Silica",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27533883",
-    "update_time": "2025-02-18 20:21:27",
+    "change_number": "28007569",
+    "update_time": "2025-03-18 14:07:16",
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "18676564896"
                 },
                 "beta": {
-                    "gid": "6470338282286123771",
-                    "size": "35237980934",
-                    "download": "18465547536"
+                    "gid": "1105203292666498980",
+                    "size": "35416362569",
+                    "download": "18528764416"
                 }
             },
             "decryptionkey": "235884e86240f9c2ed0e91f1a9f3f909896e04df14f6fdc82f5e7b5139f2e347"
@@ -42,9 +42,9 @@
                 "timeupdated": "1734619658"
             },
             "beta": {
-                "buildid": "17207056",
+                "buildid": "17759327",
                 "description": "Branch for Beta playtesting",
-                "timeupdated": "1738390601"
+                "timeupdated": "1742278026"
             }
         },
         "privatebranches": "1"
