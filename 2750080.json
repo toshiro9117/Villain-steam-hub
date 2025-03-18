@@ -4,8 +4,8 @@
     "name": "The Settlers: New Allies",
     "schinese_name": "工人物语：新兴同盟",
     "isfreeapp": "0",
-    "change_number": "27460803",
-    "update_time": "2025-02-13 22:16:43",
+    "change_number": "27936056",
+    "update_time": "2025-03-13 23:21:59",
     "depot": {
         "228988": {
             "config": {
@@ -33,18 +33,18 @@
                     "download": "15261586432"
                 }
             },
-            "decryptionkey": "33ee22467ac12ac1254685a95378f2f831405511a55fff1054a6b8e0bfb0165e"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian",
         "branches": {
