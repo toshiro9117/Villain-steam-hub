@@ -4,8 +4,8 @@
     "name": "The Jackbox Party Starter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711737",
-    "update_time": "2025-02-28 16:42:09",
+    "change_number": "28007748",
+    "update_time": "2025-03-18 14:26:40",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,latam",
         "228985": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2498330376969091723",
-                    "size": "5068290101",
-                    "download": "4709573808"
+                    "gid": "7880183477691697003",
+                    "size": "5068352192",
+                    "download": "4709710736"
                 }
             },
             "decryptionkey": "aeeb74b74b94bec0bfddd61e1a9f6c17aae14be679970d8eb0030394ead303a2"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5337096692379644688",
-                    "size": "22090304",
-                    "download": "6327696"
+                    "gid": "4917792092608084793",
+                    "size": "22090816",
+                    "download": "6327552"
                 }
             },
             "decryptionkey": "8e2ca6c76f3a664d9cc158d646418970f48ef904993c9be26cf4f807f0223bfe"
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4836054818831015340",
-                    "size": "5115079063",
-                    "download": "4720603584"
+                    "gid": "9223290320683024299",
+                    "size": "5115155101",
+                    "download": "4720746592"
                 }
             },
             "decryptionkey": ""
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4155681932151669214",
-                    "size": "46132900",
-                    "download": "12870752"
+                    "gid": "5003951010257854254",
+                    "size": "48318028",
+                    "download": "13520704"
                 }
             },
             "decryptionkey": ""
@@ -91,8 +91,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16032382",
-                "timeupdated": "1728931016"
+                "buildid": "17579801",
+                "timeupdated": "1741964471"
             }
         },
         "privatebranches": "1"
