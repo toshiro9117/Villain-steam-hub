@@ -4,9 +4,10 @@
     "name": "SpellForce: Conquest of Eo",
     "schinese_name": "咒语力量：征服埃欧大陆",
     "isfreeapp": "0",
-    "change_number": "27540850",
-    "update_time": "2025-02-19 03:18:08",
+    "change_number": "28012282",
+    "update_time": "2025-03-18 19:43:22",
     "depot": {
+        "workshopdepot": "1581770",
         "1581771": {
             "manifests": {
                 "public": {
@@ -55,7 +56,10 @@
         "1581774": {
             "manifests": {}
         },
-        "workshopdepot": "1581770",
+        "3540990": {
+            "dlcappid": "3540990",
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "17158883",
