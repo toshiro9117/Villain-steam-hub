@@ -4,8 +4,8 @@
     "name": "Beer Factory",
     "schinese_name": "啤酒工厂",
     "isfreeapp": "0",
-    "change_number": "26893889",
-    "update_time": "2025-01-07 23:06:06",
+    "change_number": "27752451",
+    "update_time": "2025-03-03 19:13:26",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
         "228988": {
@@ -45,7 +45,7 @@
                     "download": "1762495824"
                 }
             },
-            "decryptionkey": "928a51fe69d7cbcda7c24322219e8a0b7bd9174e28b20acb40eeb0815a3f63d7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
