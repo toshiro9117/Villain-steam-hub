@@ -4,8 +4,8 @@
     "name": "Six Days in Fallujah",
     "schinese_name": "Six Days in Fallujah 费卢杰六日",
     "isfreeapp": "0",
-    "change_number": "27543391",
-    "update_time": "2025-02-19 06:29:11",
+    "change_number": "28011740",
+    "update_time": "2025-03-18 19:07:23",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "12112270608"
                 }
             },
-            "decryptionkey": "5ddd294e2b084b4ae33865370c91bf4f1f505788577332bd9542a4cf4d01835c"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,latam",
         "branches": {
