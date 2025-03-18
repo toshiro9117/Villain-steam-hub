@@ -4,8 +4,8 @@
     "name": "Hi-Fi RUSH",
     "schinese_name": "完美音浪",
     "isfreeapp": "0",
-    "change_number": "26870309",
-    "update_time": "2025-01-06 05:08:37",
+    "change_number": "27948074",
+    "update_time": "2025-03-14 11:21:41",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "16378834080"
                 }
             },
-            "decryptionkey": "0b72efdcb9381949af6d0260210821349bfd5047d33c3ed7e6a62e5fbbc9c816"
+            "decryptionkey": ""
         },
         "1817232": {
             "manifests": {
@@ -39,7 +39,7 @@
                     "download": "340874016"
                 }
             },
-            "decryptionkey": "1fd310294fa59e457d3df62891cb2a4b9285b3e6a7d97adad3bdbf70106d4e4f"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "branches": {
