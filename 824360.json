@@ -4,8 +4,8 @@
     "name": "PixARK Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27715160",
-    "update_time": "2025-02-28 18:34:23",
+    "change_number": "27950510",
+    "update_time": "2025-03-14 15:04:30",
     "depot": {
         "1004": {
             "config": {
@@ -19,7 +19,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+            "decryptionkey": ""
         },
         "1005": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+            "decryptionkey": ""
         },
         "1006": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+            "decryptionkey": ""
         },
         "824361": {
             "config": {
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4400286606447124861",
-                    "size": "2703473933",
-                    "download": "943477824"
+                    "gid": "84045704365282717",
+                    "size": "2703322096",
+                    "download": "943419264"
                 }
             },
-            "decryptionkey": "4a07063f5021a72df1b577dc36a46314222e3a8ff8b6c5df9d9eff3fda91423b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17542385",
-                "timeupdated": "1740729335"
+                "buildid": "17705783",
+                "timeupdated": "1741935866"
             }
         },
         "privatebranches": "1"
