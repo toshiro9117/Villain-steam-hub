@@ -4,8 +4,8 @@
     "name": "Altarium",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27718849",
-    "update_time": "2025-02-28 22:18:50",
+    "change_number": "27994997",
+    "update_time": "2025-03-17 22:03:18",
     "depot": {
         "228989": {
             "config": {
@@ -31,18 +31,18 @@
         "2524701": {
             "manifests": {
                 "public": {
-                    "gid": "880116347658114562",
-                    "size": "32395863604",
-                    "download": "29257734784"
+                    "gid": "120700018506166868",
+                    "size": "13504903353",
+                    "download": "10039018320"
                 }
             },
-            "decryptionkey": "c88e2327ad35279cdfb64c7bc12777dd70bce87b30d350140da67097c0302bfd"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,dutch,hungarian,czech,turkish,bulgarian,greek,indonesian",
         "branches": {
             "public": {
-                "buildid": "16262508",
-                "timeupdated": "1730460508"
+                "buildid": "17752447",
+                "timeupdated": "1742220191"
             }
         },
         "privatebranches": "1"
