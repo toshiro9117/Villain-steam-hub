@@ -4,8 +4,8 @@
     "name": "Sea of Stars",
     "schinese_name": "Sea of Stars 星之海",
     "isfreeapp": "0",
-    "change_number": "27730444",
-    "update_time": "2025-03-01 14:19:07",
+    "change_number": "28006210",
+    "update_time": "2025-03-18 11:30:38",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3229659024"
                 }
             },
-            "decryptionkey": "1549d20da14b7d148867bd5c7ae9353bf17b61ca4b5babd432a332beb9ca8b92"
+            "decryptionkey": ""
         },
         "2550501": {
             "dlcappid": "2550500",
@@ -40,7 +40,7 @@
                     "download": "719731120"
                 }
             },
-            "decryptionkey": "8b97c6e0dfb7c12208ed1fd619275b1c92564b93971477f777880be9887198ef"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
