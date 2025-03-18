@@ -4,8 +4,8 @@
     "name": "SCP: 5K - Community Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27486819",
-    "update_time": "2025-02-15 04:42:45",
+    "change_number": "27983931",
+    "update_time": "2025-03-17 04:35:01",
     "depot": {
         "1004": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6544323200593317338",
-                    "size": "3271167710",
-                    "download": "1096987824"
+                    "gid": "4651926526271577212",
+                    "size": "3593444062",
+                    "download": "1260151040"
                 }
             },
             "decryptionkey": "9c36294a3a94161aa9c8614f01bd5d03c256c546c607531ca1a877b71e753b52"
@@ -68,17 +68,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5186489750870797601",
-                    "size": "4273577311",
-                    "download": "1182781648"
+                    "gid": "7438793506727392170",
+                    "size": "4602451036",
+                    "download": "1347750432"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16551168",
-                "timeupdated": "1733792862"
+                "buildid": "17502914",
+                "timeupdated": "1741161716"
             }
         },
         "privatebranches": "1"
