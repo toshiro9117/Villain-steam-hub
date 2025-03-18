@@ -4,8 +4,8 @@
     "name": "The Riftbreaker",
     "schinese_name": "The Riftbreaker 银河破裂者",
     "isfreeapp": "0",
-    "change_number": "27720153",
-    "update_time": "2025-02-28 23:30:45",
+    "change_number": "28012841",
+    "update_time": "2025-03-18 20:21:15",
     "depot": {
         "workshopdepot": "780310",
         "228989": {
@@ -25,12 +25,12 @@
         "780311": {
             "manifests": {
                 "public": {
-                    "gid": "815547366610553889",
-                    "size": "10500433449",
-                    "download": "9976927216"
+                    "gid": "4724141416777116110",
+                    "size": "10511541675",
+                    "download": "9980118128"
                 }
             },
-            "decryptionkey": "623a98fe4783fbd1075071352beb0f614db19e74f7b053d39b8114cec14a62ec"
+            "decryptionkey": ""
         },
         "1945600": {
             "dlcappid": "1945600",
@@ -41,7 +41,7 @@
                     "download": "859281648"
                 }
             },
-            "decryptionkey": "9abbbaeddef36c0236dbe53d811a7a012bc98e038c97671c14ec33cbebb91c8e"
+            "decryptionkey": ""
         },
         "2108630": {
             "dlcappid": "2108630",
@@ -52,7 +52,7 @@
                     "download": "1285254048"
                 }
             },
-            "decryptionkey": "373f648aa286e886aa41f7e597a375905872e3b9a6c38b678b9360aacad9d7e8"
+            "decryptionkey": ""
         },
         "2506610": {
             "dlcappid": "2506610",
@@ -63,15 +63,15 @@
                     "download": "941654704"
                 }
             },
-            "decryptionkey": "8a9a814543e835601c5e99b6227a5e73bf353036874b2d8e659526bc738cc5fe"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17028879",
-                "timeupdated": "1737121099"
+                "buildid": "17574852",
+                "timeupdated": "1741013379"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "67233d4c2a046cd722f13d296c17651635aa0c7646a4e3d2338604067afb60c9"
+        "workshopdepotdecryptionkey": ""
     }
 }
