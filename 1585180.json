@@ -4,8 +4,8 @@
     "name": "Drova - Forsaken Kin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729171",
-    "update_time": "2025-03-01 11:00:25",
+    "change_number": "28011931",
+    "update_time": "2025-03-18 19:20:08",
     "depot": {
         "229006": {
             "config": {
@@ -25,6 +25,11 @@
                     "gid": "2326484331647117437",
                     "size": "3427286482",
                     "download": "1069939664"
+                },
+                "beta_patch_1_3": {
+                    "gid": "6390298171342524956",
+                    "size": "3611081307",
+                    "download": "1156082928"
                 }
             },
             "decryptionkey": "e3f3f5b9271ecc5008846fdb91f891cfec142053bee010982ef6927466254c52"
@@ -38,6 +43,11 @@
                     "gid": "3254218437251317945",
                     "size": "3324025823",
                     "download": "1052868976"
+                },
+                "beta_patch_1_3": {
+                    "gid": "4044459165201730214",
+                    "size": "3507641591",
+                    "download": "1139433520"
                 }
             },
             "decryptionkey": ""
@@ -51,6 +61,11 @@
                     "gid": "8334082083750430795",
                     "size": "3617466656",
                     "download": "1102048816"
+                },
+                "beta_patch_1_3": {
+                    "gid": "204966324525690676",
+                    "size": "3801372254",
+                    "download": "1188546720"
                 }
             },
             "decryptionkey": ""
@@ -59,6 +74,11 @@
             "public": {
                 "buildid": "17343607",
                 "timeupdated": "1739401990"
+            },
+            "beta_patch_1_3": {
+                "buildid": "17764507",
+                "description": "Beta Patch 1.3",
+                "timeupdated": "1742296789"
             }
         },
         "privatebranches": "1",
