@@ -4,8 +4,8 @@
     "name": "Glitch Busters",
     "schinese_name": "病毒特攻队",
     "isfreeapp": "0",
-    "change_number": "26808592",
-    "update_time": "2024-12-29 13:40:11",
+    "change_number": "27945952",
+    "update_time": "2025-03-14 08:35:28",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "4715901376"
                 }
             },
-            "decryptionkey": "ded45656e281eb26147fd93767ccf77eb0bd359f1f613a9607e814df49d0e474"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,spanish,schinese,japanese",
         "branches": {
