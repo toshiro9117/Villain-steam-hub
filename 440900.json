@@ -4,8 +4,8 @@
     "name": "Conan Exiles",
     "schinese_name": "流放者柯南",
     "isfreeapp": "0",
-    "change_number": "27730077",
-    "update_time": "2025-03-01 13:19:19",
+    "change_number": "28003842",
+    "update_time": "2025-03-18 07:53:46",
     "depot": {
         "depotdeltapatches": "1",
         "workshopdepot": "440900",
@@ -38,7 +38,7 @@
                     "download": "70143586288"
                 }
             },
-            "decryptionkey": "57ff2e2d0f7c2740c0c36426359060ef90b3367394dae24b861efff0752010fd"
+            "decryptionkey": ""
         },
         "440902": {
             "config": {
@@ -53,7 +53,7 @@
                     "download": "40630304"
                 }
             },
-            "decryptionkey": "c4039510426aa98899efbe92e3777309401d95e2b341f6605db10afee7e2f7a9"
+            "decryptionkey": ""
         },
         "577840": {
             "dlcappid": "577840",
@@ -67,7 +67,7 @@
                     "download": "541488448"
                 }
             },
-            "decryptionkey": "5de478d01266d514b190336ec2af425bffc9016ca5c27869a17d38b216294fdc"
+            "decryptionkey": ""
         },
         "440903": {
             "config": {
@@ -77,20 +77,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "417251119503699835",
-                    "size": "231205518",
-                    "download": "98218288"
+                    "gid": "1936029041535433365",
+                    "size": "230500897",
+                    "download": "98213600"
                 }
             },
-            "decryptionkey": "55bc314377497f1dc799ba2accf9643afc380ad197155bca6dfb5326e8760270"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17441046",
-                "timeupdated": "1740063808"
+                "buildid": "17586195",
+                "timeupdated": "1741079189"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "aab1dec96efdfe1f4aa13e2f009151c55e5f45df529f0b52a05d541e9d48bc64"
+        "workshopdepotdecryptionkey": ""
     }
 }
