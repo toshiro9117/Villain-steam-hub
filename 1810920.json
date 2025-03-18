@@ -4,8 +4,8 @@
     "name": "Operation Lovecraft: Fallen Doll Closed Beta",
     "schinese_name": "洛夫克拉夫特行动：堕落玩偶 封闭测试",
     "isfreeapp": "0",
-    "change_number": "27711583",
-    "update_time": "2025-02-28 16:41:00",
+    "change_number": "27787163",
+    "update_time": "2025-03-05 11:20:11",
     "depot": {
         "228988": {
             "config": {
@@ -31,18 +31,18 @@
         "1810921": {
             "manifests": {
                 "public": {
-                    "gid": "1125327163290042811",
-                    "size": "29306041874",
-                    "download": "26420636912"
+                    "gid": "306893855666695259",
+                    "size": "29323061501",
+                    "download": "26436809072"
                 }
             },
-            "decryptionkey": "d71c539b125522b912b11034cfd7cccf8a30f3f8269e22a652740504ebf805df"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17542271",
-                "timeupdated": "1740724318"
+                "buildid": "17598230",
+                "timeupdated": "1741144796"
             }
         },
         "privatebranches": "1"
