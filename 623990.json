@@ -4,8 +4,8 @@
     "name": "Tom Clancy's Rainbow Six Siege - Test Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27535041",
-    "update_time": "2025-02-18 21:31:35",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:33",
     "depot": {
         "228983": {
             "config": {
@@ -57,14 +57,14 @@
                     "download": "53544504576"
                 }
             },
-            "decryptionkey": "c9290ef0e824c6840c23c93f292ae77dff8ddb55d768609a9a5bddb38f99ab22"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
