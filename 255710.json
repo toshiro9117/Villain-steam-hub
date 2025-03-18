@@ -4,8 +4,8 @@
     "name": "Cities: Skylines",
     "schinese_name": "城市：天际线",
     "isfreeapp": "0",
-    "change_number": "27721075",
-    "update_time": "2025-03-01 00:22:14",
+    "change_number": "27951718",
+    "update_time": "2025-03-14 16:24:42",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "255710",
@@ -35,7 +35,7 @@
                     "download": "6034257056"
                 }
             },
-            "decryptionkey": "125653faaac1bad58ea92c82059dcbe10705c04cd5c97e847c4f68b535fe24a6"
+            "decryptionkey": ""
         },
         "255712": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "6139299776"
                 }
             },
-            "decryptionkey": "8b92cc0e5effe6aae01b10e49408f561ebd6a8b4f72c8d9534758e123eba3464"
+            "decryptionkey": ""
         },
         "255713": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "5863096160"
                 }
             },
-            "decryptionkey": "7a309e01d09daf057aee177d1645ffb3233b7199a24da2fe28fbf4cb87ac5c91"
+            "decryptionkey": ""
         },
         "340160": {
             "dlcappid": "340160"
