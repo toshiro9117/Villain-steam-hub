@@ -4,8 +4,8 @@
     "name": "Churn Vector",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27508444",
-    "update_time": "2025-02-17 09:53:45",
+    "change_number": "27975113",
+    "update_time": "2025-03-16 03:21:40",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2350132882629112940",
-                    "size": "1002080484",
-                    "download": "792686240"
+                    "gid": "8181763838291393271",
+                    "size": "1004727819",
+                    "download": "795041040"
                 }
             },
             "decryptionkey": "5345442adf6ca691d40d1d4e255b572a60f0bd3c5eed1365dcb9ce1daf27d926"
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7150168723446953766",
-                    "size": "1049993632",
-                    "download": "808555472"
+                    "gid": "2087556465803475548",
+                    "size": "1052514825",
+                    "download": "810841664"
                 }
             },
             "decryptionkey": ""
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7540055524746928301",
-                    "size": "1047134282",
-                    "download": "803143984"
+                    "gid": "5196876978817524828",
+                    "size": "1049987070",
+                    "download": "805594688"
                 }
             },
             "decryptionkey": ""
@@ -66,8 +66,8 @@
         "workshopdepot": "2686900",
         "branches": {
             "public": {
-                "buildid": "16904774",
-                "timeupdated": "1736033132"
+                "buildid": "17644210",
+                "timeupdated": "1741422725"
             }
         },
         "privatebranches": "1",
