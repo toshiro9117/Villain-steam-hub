@@ -4,8 +4,8 @@
     "name": "Selaco",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722483",
-    "update_time": "2025-03-01 01:37:56",
+    "change_number": "27986042",
+    "update_time": "2025-03-17 09:37:57",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1592280",
@@ -62,6 +62,11 @@
                     "download": "1165978544"
                 },
                 "version_086": {
+                    "gid": "1805225147038797455",
+                    "size": "119",
+                    "download": "160"
+                },
+                "version_087": {
                     "gid": "1805225147038797455",
                     "size": "119",
                     "download": "160"
@@ -124,6 +129,11 @@
                     "size": "119",
                     "download": "160"
                 },
+                "version_087": {
+                    "gid": "7016553806942110915",
+                    "size": "119",
+                    "download": "160"
+                },
                 "version_v084": {
                     "gid": "2927818386359333071",
                     "size": "1198313006",
@@ -153,6 +163,11 @@
                     "gid": "3360254732315248983",
                     "size": "119",
                     "download": "160"
+                },
+                "version_087": {
+                    "gid": "3360254732315248983",
+                    "size": "119",
+                    "download": "160"
                 }
             },
             "decryptionkey": "5cf662d0aa870184d6c4daacab13cdac55ea53f84ca3efbd8e71fe3d8c560cd4"
@@ -164,9 +179,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2490335438662096214",
-                    "size": "47121280",
-                    "download": "24792080"
+                    "gid": "4463610628230077984",
+                    "size": "48935375",
+                    "download": "25759872"
                 },
                 "nextfest_demo": {
                     "gid": "1534352288286114523",
@@ -174,9 +189,9 @@
                     "download": "255039552"
                 },
                 "publicbetabranch": {
-                    "gid": "7865686757356124785",
-                    "size": "65986297",
-                    "download": "31090528"
+                    "gid": "4463610628230077984",
+                    "size": "48935375",
+                    "download": "25759872"
                 },
                 "publicbetabranch_oldengine": {
                     "gid": "2490335438662096214",
@@ -198,6 +213,11 @@
                     "size": "47119744",
                     "download": "24790528"
                 },
+                "version_087": {
+                    "gid": "2490335438662096214",
+                    "size": "47121280",
+                    "download": "24792080"
+                },
                 "version_v084": {
                     "gid": "5703177533980517171",
                     "size": "73743501",
@@ -213,9 +233,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2140102627086693842",
-                    "size": "38719763",
-                    "download": "14839792"
+                    "gid": "7315607498132254290",
+                    "size": "39659066",
+                    "download": "15520432"
                 },
                 "nextfest_demo": {
                     "gid": "8397470572228090950",
@@ -223,9 +243,9 @@
                     "download": "52869152"
                 },
                 "publicbetabranch": {
-                    "gid": "486488233619344463",
-                    "size": "39654829",
-                    "download": "15517280"
+                    "gid": "7315607498132254290",
+                    "size": "39659066",
+                    "download": "15520432"
                 },
                 "publicbetabranch_oldengine": {
                     "gid": "2140102627086693842",
@@ -247,6 +267,11 @@
                     "size": "51558363",
                     "download": "27439024"
                 },
+                "version_087": {
+                    "gid": "2140102627086693842",
+                    "size": "38719763",
+                    "download": "14839792"
+                },
                 "version_v084": {
                     "gid": "6274677098040936996",
                     "size": "65857524",
@@ -258,9 +283,9 @@
         "1592286": {
             "manifests": {
                 "public": {
-                    "gid": "2021142174116148561",
-                    "size": "1245625360",
-                    "download": "1232901408"
+                    "gid": "4509018295709280779",
+                    "size": "1245617240",
+                    "download": "1232946688"
                 },
                 "nextfest_demo": {
                     "gid": "5404565758744658604",
@@ -268,9 +293,9 @@
                     "download": "0"
                 },
                 "publicbetabranch": {
-                    "gid": "6676611647883379382",
-                    "size": "1249296946",
-                    "download": "1236718752"
+                    "gid": "7329223535475395730",
+                    "size": "1245735644",
+                    "download": "1233066928"
                 },
                 "publicbetabranch_oldengine": {
                     "gid": "2021142174116148561",
@@ -292,6 +317,11 @@
                     "size": "1270289051",
                     "download": "1254415696"
                 },
+                "version_087": {
+                    "gid": "2021142174116148561",
+                    "size": "1245625360",
+                    "download": "1232901408"
+                },
                 "version_v084": {
                     "gid": "946534964490497901",
                     "size": "1167617864",
@@ -302,8 +332,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17084893",
-                "timeupdated": "1737508422"
+                "buildid": "17700590",
+                "timeupdated": "1741876015"
             },
             "early_access_launch_version": {
                 "buildid": "14555398",
@@ -316,9 +346,9 @@
                 "timeupdated": "1731423086"
             },
             "publicbetabranch": {
-                "buildid": "17550764",
+                "buildid": "17746331",
                 "description": "Engine Test [Unstable]",
-                "timeupdated": "1740764270"
+                "timeupdated": "1742175472"
             },
             "publicbetabranch_oldengine": {
                 "buildid": "17084091",
@@ -344,6 +374,11 @@
                 "buildid": "16878325",
                 "description": "[Outdated build]",
                 "timeupdated": "1737396471"
+            },
+            "version_087": {
+                "buildid": "17084893",
+                "description": "[Outdated]",
+                "timeupdated": "1741875295"
             },
             "version_v084": {
                 "buildid": "15253052",
