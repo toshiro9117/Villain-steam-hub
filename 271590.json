@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto V Legacy",
     "schinese_name": "Grand Theft Auto V 传承版",
     "isfreeapp": "0",
-    "change_number": "27725242",
-    "update_time": "2025-03-01 04:35:30",
+    "change_number": "28003233",
+    "update_time": "2025-03-18 06:55:16",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -34,7 +34,7 @@
                     "download": "50323840"
                 }
             },
-            "decryptionkey": "baebeedec48b33c68a322fea0cbaa8d023d1dab4d2870aa909b82c33caa53941"
+            "decryptionkey": ""
         },
         "271592": {
             "manifests": {
@@ -44,7 +44,7 @@
                     "download": "28643488"
                 }
             },
-            "decryptionkey": "e34313f0ec133a608e636cf04fd879d3ac1e8e10af38542436940be1b6834bee"
+            "decryptionkey": ""
         },
         "271593": {
             "manifests": {
@@ -54,7 +54,7 @@
                     "download": "16813724816"
                 }
             },
-            "decryptionkey": "71b57be5c50e5fbc819068a5bf31db42b653f1c75d88307da682ff0d5cae9457"
+            "decryptionkey": ""
         },
         "271594": {
             "manifests": {
@@ -64,7 +64,7 @@
                     "download": "62990280320"
                 }
             },
-            "decryptionkey": "ae7ed6931a136d41d3aae146563368eb3b3e4e60963344f3f426c0abc74bbdab"
+            "decryptionkey": ""
         },
         "271595": {
             "manifests": {
@@ -74,18 +74,18 @@
                     "download": "39063563072"
                 }
             },
-            "decryptionkey": "6dc0d2ce6b9dc96469ff792f6a607f759f0abd851d496cac73d71cd145c70b4d"
+            "decryptionkey": ""
         },
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "6920980794360204616",
-                    "size": "228262668",
-                    "download": "184801072"
+                    "gid": "3069743124386259608",
+                    "size": "229581068",
+                    "download": "186115536"
                 }
             },
             "depotfromapp": "1899670",
-            "decryptionkey": "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
