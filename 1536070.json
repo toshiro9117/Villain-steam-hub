@@ -4,8 +4,8 @@
     "name": "Sword and Fairy 3",
     "schinese_name": "仙剑奇侠传三",
     "isfreeapp": "0",
-    "change_number": "25601963",
-    "update_time": "2024-10-09 03:20:37",
+    "change_number": "28012467",
+    "update_time": "2025-03-18 19:56:31",
     "depot": {
         "228981": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "39150672"
                 }
             },
-            "decryptionkey": "d6a2c59ffe5243d02fbc55ef55217326f18f564b24dd632e350e6f4a59807a09"
+            "decryptionkey": ""
         },
         "1536072": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "1418706864"
                 }
             },
-            "decryptionkey": "588c27050d63460ef9d7025133c2158a2eb7845d17a11af23dce0f3e8f0e076a"
+            "decryptionkey": ""
         },
         "1536073": {
             "config": {
@@ -68,7 +68,7 @@
                     "download": "1403553936"
                 }
             },
-            "decryptionkey": "166136fe87d653f76a3d9c01ba93850089347dfe0aeefc76389aaeceaa353254"
+            "decryptionkey": ""
         },
         "workshopdepot": "1536070",
         "branches": {
@@ -77,6 +77,6 @@
                 "timeupdated": "1618883471"
             }
         },
-        "workshopdepotdecryptionkey": "9c6132d7eab0407a73407e470acb78435c75981e6371a9b754396f2f1e82086a"
+        "workshopdepotdecryptionkey": ""
     }
 }
