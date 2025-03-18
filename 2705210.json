@@ -4,8 +4,8 @@
     "name": "Good Kill!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725373",
-    "update_time": "2025-03-01 04:45:50",
+    "change_number": "28007462",
+    "update_time": "2025-03-18 13:56:25",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2705211": {
             "manifests": {
                 "public": {
-                    "gid": "2824079825099639400",
-                    "size": "5548201906",
-                    "download": "5240431584"
+                    "gid": "5453312935785013178",
+                    "size": "5526699609",
+                    "download": "5221613952"
                 }
             },
-            "decryptionkey": "cd5dff7b8ed88730a8513ec1b773d101ea477e6c637b0d5644ca19afa32f3c45"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17200993",
-                "timeupdated": "1738338363"
+                "buildid": "17636308",
+                "timeupdated": "1741356938"
             }
         }
     }
