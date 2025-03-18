@@ -4,8 +4,8 @@
     "name": "The Rise of the Golden Idol",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27720315",
-    "update_time": "2025-02-28 23:41:12",
+    "change_number": "27991422",
+    "update_time": "2025-03-17 18:29:09",
     "depot": {
         "baselanguages": "english",
         "2716401": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2309943161383130062",
-                    "size": "2698208227",
-                    "download": "2570216288"
+                    "gid": "5592167571167991222",
+                    "size": "2751152150",
+                    "download": "2623124656"
                 }
             },
             "decryptionkey": "369c88aa7a34e596ee6cf0e3eb93af0259fe3ef7de70e1e285e73557f365188f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4940660890209260966",
-                    "size": "2774377199",
-                    "download": "2587522704"
+                    "gid": "5646308007288136889",
+                    "size": "2791725879",
+                    "download": "2603293456"
                 }
             },
             "decryptionkey": ""
@@ -40,12 +40,30 @@
             "config": {
                 "oslist": "windows,macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2955620359222756537",
+                    "size": "500572304",
+                    "download": "485511072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3333860": {
+            "dlcappid": "3333860",
+            "manifests": {
+                "public": {
+                    "gid": "1667851229082974430",
+                    "size": "500572304",
+                    "download": "485511072"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16802291",
-                "timeupdated": "1734620524"
+                "buildid": "17750151",
+                "timeupdated": "1742207343"
             }
         },
         "privatebranches": "1"
