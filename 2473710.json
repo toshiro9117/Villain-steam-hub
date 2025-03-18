@@ -4,8 +4,8 @@
     "name": "Abyss School",
     "schinese_name": "深渊学校",
     "isfreeapp": "0",
-    "change_number": "27731418",
-    "update_time": "2025-03-01 17:07:57",
+    "change_number": "27971210",
+    "update_time": "2025-03-15 17:49:37",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "2473711": {
             "manifests": {
                 "public": {
-                    "gid": "983557067170554849",
-                    "size": "4185751893",
-                    "download": "3964753680"
+                    "gid": "3969611363817724931",
+                    "size": "4422109243",
+                    "download": "4198662576"
                 }
             },
-            "decryptionkey": "6fd98a3d18e40a628a3f7fa0419499d35cb31f86e6d45d1e881b91659184024d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,koreana",
         "branches": {
             "public": {
-                "buildid": "16736638",
-                "timeupdated": "1734100615"
+                "buildid": "17735690",
+                "timeupdated": "1742032173"
             }
         },
         "privatebranches": "1"
