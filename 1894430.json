@@ -4,8 +4,8 @@
     "name": "Plan B: Terraform",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722413",
-    "update_time": "2025-03-01 01:34:13",
+    "change_number": "28013703",
+    "update_time": "2025-03-18 21:16:24",
     "depot": {
         "228988": {
             "config": {
@@ -24,14 +24,14 @@
         "1894431": {
             "manifests": {
                 "public": {
-                    "gid": "292069836472568639",
-                    "size": "855106235",
-                    "download": "431940832"
+                    "gid": "838975065025208276",
+                    "size": "909797808",
+                    "download": "444786800"
                 },
                 "beta": {
-                    "gid": "4093860592714360478",
-                    "size": "901428974",
-                    "download": "442282528"
+                    "gid": "838975065025208276",
+                    "size": "909797808",
+                    "download": "444786800"
                 },
                 "safe": {
                     "gid": "292069836472568639",
@@ -49,19 +49,19 @@
                     "download": "431940832"
                 }
             },
-            "decryptionkey": "9439661726bb617284dcc689e41986b97eb13d5b461523e300cc1a4a36ed3967"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,czech,turkish,brazilian,ukrainian",
         "workshopdepot": "1894430",
         "branches": {
             "public": {
-                "buildid": "15806816",
-                "timeupdated": "1727173460"
+                "buildid": "17724685",
+                "timeupdated": "1741968434"
             },
             "beta": {
-                "buildid": "17550712",
+                "buildid": "17724685",
                 "description": "beta branch",
-                "timeupdated": "1740764049"
+                "timeupdated": "1741953618"
             },
             "safe": {
                 "buildid": "15806816",
@@ -79,6 +79,6 @@
                 "timeupdated": "1727173270"
             }
         },
-        "workshopdepotdecryptionkey": "9a08903b3c968b0479549a2a5e110047a7455b84e3cf01707658acae883ff7b4"
+        "workshopdepotdecryptionkey": ""
     }
 }
