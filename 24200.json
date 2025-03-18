@@ -4,8 +4,8 @@
     "name": "DC Universe Online",
     "schinese_name": "DC漫画英雄OL",
     "isfreeapp": "1",
-    "change_number": "27231237",
-    "update_time": "2025-01-30 16:11:25",
+    "change_number": "27903161",
+    "update_time": "2025-03-12 11:02:12",
     "depot": {
         "228984": {
             "config": {
@@ -18,8 +18,7 @@
                     "download": "13436144"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": ""
+            "depotfromapp": "228980"
         },
         "228990": {
             "config": {
@@ -32,8 +31,7 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980",
-            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+            "depotfromapp": "228980"
         },
         "24209": {
             "optional": "1",
@@ -45,8 +43,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "24209",
-            "decryptionkey": ""
+            "dlcappid": "24209"
         },
         "24208": {
             "optional": "1",
@@ -58,8 +55,7 @@
                     "download": "0"
                 }
             },
-            "dlcappid": "24208",
-            "decryptionkey": ""
+            "dlcappid": "24208"
         },
         "24201": {
             "systemdefined": "1",
@@ -69,8 +65,7 @@
                     "size": "47118421058",
                     "download": "37017767696"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "24202": {
             "config": {
@@ -82,8 +77,7 @@
                     "size": "9979778253",
                     "download": "9652567248"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "24203": {
             "config": {
@@ -95,8 +89,7 @@
                     "size": "9894928319",
                     "download": "9642942624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "24204": {
             "config": {
@@ -108,8 +101,7 @@
                     "size": "9719594604",
                     "download": "9456664464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "24205": {
             "config": {
@@ -121,8 +113,7 @@
                     "size": "9919442024",
                     "download": "9675345600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "overridescddb": "1",
         "branches": {
