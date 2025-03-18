@@ -4,8 +4,8 @@
     "name": "eXpanSIM (Playtest)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27724583",
-    "update_time": "2025-03-01 03:47:07",
+    "change_number": "28012673",
+    "update_time": "2025-03-18 20:09:41",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "9580066272"
                 },
                 "next": {
-                    "gid": "3485985706754467628",
-                    "size": "27096025893",
-                    "download": "8894962064"
+                    "gid": "1689732598621694575",
+                    "size": "27065905669",
+                    "download": "8897995552"
                 },
                 "previous": {
                     "gid": "6013983682031578073",
@@ -32,7 +32,7 @@
                     "download": "9342453456"
                 }
             },
-            "decryptionkey": "29f330cdba1b817386bdf00566e7fcc4e1dcb4cee55f8cf812b2ac57a9c0985b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -40,9 +40,9 @@
                 "timeupdated": "1731682194"
             },
             "next": {
-                "buildid": "17551521",
+                "buildid": "17730777",
                 "description": "Public next update branch (unstable for testing)",
-                "timeupdated": "1740772004"
+                "timeupdated": "1741984117"
             },
             "previous": {
                 "buildid": "15474297",
