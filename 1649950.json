@@ -4,8 +4,8 @@
     "name": "News Tower",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536627",
-    "update_time": "2025-02-18 23:07:10",
+    "change_number": "28010079",
+    "update_time": "2025-03-18 17:22:51",
     "depot": {
         "hasdepotsindlc": "0",
         "1649952": {
@@ -16,14 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7731656776753139614",
-                    "size": "2201326424",
-                    "download": "448840864"
-                },
-                "community_test": {
-                    "gid": "7731656776753139614",
-                    "size": "2201326424",
-                    "download": "448840864"
+                    "gid": "4032987581085716112",
+                    "size": "2201487397",
+                    "download": "448804000"
                 },
                 "legacy": {
                     "gid": "1945965351411080448",
@@ -41,14 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8302492644624399235",
-                    "size": "2626989802",
-                    "download": "492089088"
-                },
-                "community_test": {
-                    "gid": "8302492644624399235",
-                    "size": "2626989802",
-                    "download": "492089088"
+                    "gid": "566491766627293333",
+                    "size": "2626823037",
+                    "download": "491994928"
                 },
                 "legacy": {
                     "gid": "5560347169810507217",
@@ -60,13 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17350167",
-                "timeupdated": "1739799573"
-            },
-            "community_test": {
-                "buildid": "17350167",
-                "description": "Community test branch",
-                "timeupdated": "1739458285"
+                "buildid": "17690712",
+                "timeupdated": "1741773755"
             },
             "legacy": {
                 "buildid": "15900284",
