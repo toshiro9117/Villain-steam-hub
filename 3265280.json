@@ -4,8 +4,8 @@
     "name": "Pic-Me!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726138",
-    "update_time": "2025-03-01 05:46:19",
+    "change_number": "27976773",
+    "update_time": "2025-03-16 07:54:38",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "213731888"
                 }
             },
-            "decryptionkey": "c493caa2dc1caab54d2c3175e98e8967a73ef8b572aa3b9446c768fb9a0d9cee"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian,ukrainian",
         "workshopdepot": "3265280",
@@ -33,6 +33,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "19cad51ff7b4923bb589ebb01130e7ef46404d0d0e2a396910205e25e2ab8bb2"
+        "workshopdepotdecryptionkey": ""
     }
 }
