@@ -4,8 +4,8 @@
     "name": "DRAGON BALL: Sparking! ZERO",
     "schinese_name": "七龙珠 电光炸裂！ZERO",
     "isfreeapp": "0",
-    "change_number": "27525980",
-    "update_time": "2025-02-18 09:26:27",
+    "change_number": "28003505",
+    "update_time": "2025-03-18 07:21:55",
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "1790601": {
             "manifests": {
                 "public": {
-                    "gid": "8385078211335268282",
-                    "size": "30283103591",
-                    "download": "28854529744"
+                    "gid": "452064129172263456",
+                    "size": "30283430018",
+                    "download": "28854654224"
                 }
             },
             "decryptionkey": "0721a07eb97ba7b4e59e31606ae9f0d67c66309cc467c5da1aa79a924c34e7d8"
@@ -59,8 +59,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16942351",
-                "timeupdated": "1737410401"
+                "buildid": "17490507",
+                "timeupdated": "1741068005"
             }
         },
         "privatebranches": "1"
