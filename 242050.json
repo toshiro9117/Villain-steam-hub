@@ -4,8 +4,8 @@
     "name": "Assassin's Creed IV Black Flag",
     "schinese_name": "刺客信条4：黑旗",
     "isfreeapp": "0",
-    "change_number": "27237410",
-    "update_time": "2025-01-30 23:27:53",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:07",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -50,7 +50,7 @@
                     "download": "23185804256"
                 }
             },
-            "decryptionkey": "6b4004c38a5c8c1a869d90c381726c7d5651f578753c316c2dcd372fa13ef609"
+            "decryptionkey": ""
         },
         "260476": {
             "dlcappid": "260476",
@@ -61,7 +61,7 @@
                     "download": "4877131646102"
                 }
             },
-            "decryptionkey": "c6245eb9d4c77c2f2204ab40754a0d50402bb78f9de10b495e2f9df94d0c051d"
+            "decryptionkey": ""
         },
         "264803": {
             "dlcappid": "264803",
@@ -72,14 +72,14 @@
                     "download": "2494320141224"
                 }
             },
-            "decryptionkey": "28fe23f7e6ef14d6190c4b1646a87d9d7aa6d22d7a0f89936abfe3ebd293fd80"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
