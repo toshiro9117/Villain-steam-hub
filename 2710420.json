@@ -4,8 +4,8 @@
     "name": "BUMS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730827",
-    "update_time": "2025-03-01 15:30:46",
+    "change_number": "27945487",
+    "update_time": "2025-03-14 07:58:15",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "7164991280"
                 }
             },
-            "decryptionkey": "fa13904b76319626e8c3861de721cec7347157b033a57dd71cda7a49a6abc2a6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
