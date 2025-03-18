@@ -4,8 +4,8 @@
     "name": "Blackwell Unbound",
     "schinese_name": "布莱克威尔之谜",
     "isfreeapp": "0",
-    "change_number": "27156010",
-    "update_time": "2025-01-25 04:26:03",
+    "change_number": "27805155",
+    "update_time": "2025-03-06 08:31:00",
     "depot": {
         "overridescddb": "1",
         "80341": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "991313512598448612",
-                    "size": "203323257",
-                    "download": "164719680"
+                    "gid": "2292866475548600357",
+                    "size": "203336105",
+                    "download": "164719728"
                 }
             },
             "decryptionkey": "64f171f47951a667883d1ae0b739e2db4ad25dd666e093e168fa6097cb5be900"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7754872093123713020",
-                    "size": "270160842",
-                    "download": "181834624"
+                    "gid": "362724177430152676",
+                    "size": "270173690",
+                    "download": "181832128"
                 }
             },
             "decryptionkey": ""
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6436484539496910143",
-                    "size": "211142605",
-                    "download": "167911392"
+                    "gid": "1463144835810938234",
+                    "size": "211155453",
+                    "download": "167908944"
                 }
             },
             "decryptionkey": ""
@@ -55,17 +55,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1884011829050315889",
-                    "size": "271138162",
-                    "download": "180167536"
+                    "gid": "3388152180349710322",
+                    "size": "271150994",
+                    "download": "180163760"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17468091",
-                "timeupdated": "1740242393"
+                "buildid": "17611886",
+                "timeupdated": "1741221055"
             }
         },
         "privatebranches": "1"
