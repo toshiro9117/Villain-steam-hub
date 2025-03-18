@@ -4,8 +4,8 @@
     "name": "Afterinfection",
     "schinese_name": "感染之后",
     "isfreeapp": "0",
-    "change_number": "26117917",
-    "update_time": "2024-11-09 10:17:01",
+    "change_number": "27741002",
+    "update_time": "2025-03-02 18:46:11",
     "depot": {
         "228988": {
             "config": {
@@ -40,7 +40,7 @@
                     "download": "8446509920"
                 }
             },
-            "decryptionkey": "9faa5b542e1d0e1e97c4b238ac21c0d7338ffacd44ced417ffab3e0a774e7961"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
