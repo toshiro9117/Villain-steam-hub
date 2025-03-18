@@ -4,8 +4,8 @@
     "name": "Computer Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27457693",
-    "update_time": "2025-02-13 19:12:23",
+    "change_number": "27878566",
+    "update_time": "2025-03-11 04:10:52",
     "depot": {
         "686682": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "303186928"
                 },
                 "opentestbranch": {
-                    "gid": "6221798838999863756",
-                    "size": "679387192",
-                    "download": "492038496"
+                    "gid": "2784594741346378382",
+                    "size": "679463221",
+                    "download": "492058992"
                 }
             },
             "decryptionkey": ""
@@ -36,9 +36,9 @@
                     "download": "307403776"
                 },
                 "opentestbranch": {
-                    "gid": "3879076371544425395",
-                    "size": "712542342",
-                    "download": "491245792"
+                    "gid": "8530031713629541045",
+                    "size": "712891192",
+                    "download": "491261680"
                 }
             },
             "decryptionkey": "ed8a1f580bd9710ec365ad9ff92980f51a2289ac89c9958c352d9bcdd060b1dd"
@@ -49,9 +49,9 @@
                 "timeupdated": "1738873229"
             },
             "opentestbranch": {
-                "buildid": "17350641",
+                "buildid": "17667076",
                 "description": "This is the Open Beta Branch. The Community Tests here the next version - bugs are expected!",
-                "timeupdated": "1739445126"
+                "timeupdated": "1741637375"
             }
         },
         "privatebranches": "1"
