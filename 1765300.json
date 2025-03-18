@@ -4,8 +4,8 @@
     "name": "Ultimate Zombie Defense 2",
     "schinese_name": "终极僵尸防御2",
     "isfreeapp": "0",
-    "change_number": "27724269",
-    "update_time": "2025-03-01 03:26:12",
+    "change_number": "27998422",
+    "update_time": "2025-03-18 00:56:28",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam",
         "228988": {
@@ -22,14 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3899887103061201969",
-                    "size": "14724309833",
-                    "download": "12777252816"
-                },
-                "public-beta": {
-                    "gid": "3899887103061201969",
-                    "size": "14724309833",
-                    "download": "12777252816"
+                    "gid": "5358521840929606821",
+                    "size": "14716118650",
+                    "download": "12770432624"
                 }
             },
             "decryptionkey": "91d5ee6c2df3c69ec5ee6adb1ccd74bf45f8a311ffccfad5bdaa35aa0907bf5d"
@@ -41,14 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6637087227677793419",
-                    "size": "15432841320",
-                    "download": "13223111312"
-                },
-                "public-beta": {
-                    "gid": "6637087227677793419",
-                    "size": "15432841320",
-                    "download": "13223111312"
+                    "gid": "3241748526771337430",
+                    "size": "15061314952",
+                    "download": "12970911280"
                 }
             },
             "decryptionkey": ""
@@ -56,13 +46,8 @@
         "workshopdepot": "1765300",
         "branches": {
             "public": {
-                "buildid": "17442832",
-                "timeupdated": "1740128856"
-            },
-            "public-beta": {
-                "buildid": "17442832",
-                "description": "Public beta with the latest version of the game",
-                "timeupdated": "1740127583"
+                "buildid": "17683211",
+                "timeupdated": "1741769372"
             }
         },
         "privatebranches": "1",
