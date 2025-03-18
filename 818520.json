@@ -4,8 +4,8 @@
     "name": "Builders Of Egypt",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27493053",
-    "update_time": "2025-02-15 18:11:40",
+    "change_number": "27855903",
+    "update_time": "2025-03-09 11:08:14",
     "depot": {
         "228988": {
             "config": {
@@ -48,38 +48,38 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7340372777229545706",
-                    "size": "15951462143",
-                    "download": "15239913168"
+                    "gid": "6507086336905146924",
+                    "size": "15951468287",
+                    "download": "15239918096"
                 },
                 "patch_test": {
+                    "gid": "6507086336905146924",
+                    "size": "15951468287",
+                    "download": "15239918096"
+                },
+                "previous_version": {
                     "gid": "7340372777229545706",
                     "size": "15951462143",
                     "download": "15239913168"
-                },
-                "previous_version": {
-                    "gid": "1023063969842824206",
-                    "size": "15951464207",
-                    "download": "15239922608"
                 }
             },
-            "decryptionkey": "149a50ad89bd36bfa5c15cdd859336466689abaecc6ce54f3c8ec6cb0ff6bbd1"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17457264",
-                "timeupdated": "1740160242"
+                "buildid": "17549922",
+                "timeupdated": "1740765031"
             },
             "patch_test": {
-                "buildid": "17457264",
+                "buildid": "17549922",
                 "description": "The latest patch is being tested here. Warning, there may be bugs!",
-                "timeupdated": "1740152529"
+                "timeupdated": "1740760834"
             },
             "previous_version": {
-                "buildid": "17376871",
+                "buildid": "17457264",
                 "description": "Did something go wrong? Do you want to go back to a previous version? Here you will find it",
-                "timeupdated": "1740160217"
+                "timeupdated": "1740765105"
             }
         },
         "privatebranches": "1"
