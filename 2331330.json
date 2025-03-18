@@ -4,8 +4,8 @@
     "name": "The Bridge Curse 2: The Extrication",
     "schinese_name": "女鬼桥二  释魂路",
     "isfreeapp": "0",
-    "change_number": "26740371",
-    "update_time": "2024-12-21 05:59:36",
+    "change_number": "27914214",
+    "update_time": "2025-03-12 23:33:59",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "5775287072"
                 }
             },
-            "decryptionkey": "eb2fadb9b6ec0e6369a6cdc4d441e912bc8b31a0477d2bc3395efcaf83bb9b0a"
+            "decryptionkey": ""
         },
         "2915350": {
             "dlcappid": "2915350",
@@ -50,7 +50,7 @@
                     "download": "360756240"
                 }
             },
-            "decryptionkey": "3fd91fa1147d67e1d3d767cafccd9f3dcc1f36b1501629175a64b022cf5509c5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
