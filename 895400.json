@@ -4,8 +4,8 @@
     "name": "Deadside",
     "schinese_name": "生死相依",
     "isfreeapp": "0",
-    "change_number": "27718220",
-    "update_time": "2025-02-28 21:41:57",
+    "change_number": "28011005",
+    "update_time": "2025-03-18 18:16:03",
     "depot": {
         "228988": {
             "config": {
@@ -28,14 +28,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8443002540533111351",
-                    "size": "35780234795",
-                    "download": "18485382992"
+                    "gid": "1464625802792171012",
+                    "size": "35468421141",
+                    "download": "18596647760"
                 },
                 "public_test_server": {
-                    "gid": "7324150099135069194",
-                    "size": "35468429333",
-                    "download": "18596639424"
+                    "gid": "1464625802792171012",
+                    "size": "35468421141",
+                    "download": "18596647760"
                 }
             },
             "decryptionkey": "10e8c6628cb78fe20e8190863a7ce05f1b450c52f48a5820f8f172faf68c65a6"
@@ -43,13 +43,13 @@
         "workshopdepot": "895400",
         "branches": {
             "public": {
-                "buildid": "17456157",
-                "timeupdated": "1740150008"
+                "buildid": "17620905",
+                "timeupdated": "1741273378"
             },
             "public_test_server": {
-                "buildid": "17547378",
+                "buildid": "17620905",
                 "description": "PTS",
-                "timeupdated": "1740749026"
+                "timeupdated": "1741271194"
             }
         },
         "privatebranches": "1",
