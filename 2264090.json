@@ -4,8 +4,8 @@
     "name": "Desktop Garage Kit",
     "schinese_name": "桌面手办",
     "isfreeapp": "0",
-    "change_number": "27722488",
-    "update_time": "2025-03-01 01:38:22",
+    "change_number": "27962617",
+    "update_time": "2025-03-15 02:14:35",
     "depot": {
         "hasdepotsindlc": "0",
         "2264091": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1596997217523096056",
-                    "size": "24251609215",
-                    "download": "6836220752"
+                    "gid": "6062336372499525134",
+                    "size": "24285814165",
+                    "download": "6867338944"
                 }
             },
             "decryptionkey": "09fe8b6d4e4e72ffcc2c1a7c5350e441eb9792badeed8568f1891cd7f5b60f14"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17550748",
-                "timeupdated": "1740764293"
+                "buildid": "17729600",
+                "timeupdated": "1741976067"
             }
         }
     }
