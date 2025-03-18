@@ -4,8 +4,8 @@
     "name": "Metro 2033 Redux",
     "schinese_name": "地铁：2033 重制版",
     "isfreeapp": "0",
-    "change_number": "27103756",
-    "update_time": "2025-01-22 09:26:48",
+    "change_number": "27779500",
+    "update_time": "2025-03-05 01:41:21",
     "depot": {
         "overridescddb": "1",
         "228984": {
@@ -42,7 +42,7 @@
                     "download": "6501453344"
                 }
             },
-            "decryptionkey": "9f2bfaf0ab2396150e63cd8b6b38d236d0920a9f71c1a985229eaa30e1cd8236"
+            "decryptionkey": ""
         },
         "286692": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "23534608"
                 }
             },
-            "decryptionkey": "fcc52f00eb59255ae34e6033cab93c08fd90afa73ca1e540aa945f7d80c5cda9"
+            "decryptionkey": ""
         },
         "286693": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "6523447040"
                 }
             },
-            "decryptionkey": "a717bf4f94b493ea0a156cf0499828cd3846cb1e2ad512ce0b14a9ff63367c5c"
+            "decryptionkey": ""
         },
         "286694": {
             "config": {
@@ -84,7 +84,7 @@
                     "download": "6223272432"
                 }
             },
-            "decryptionkey": "3ebbefa9c070b65308bb5b94c5817ed0d74faa04b1d147f778b12012699b749c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
