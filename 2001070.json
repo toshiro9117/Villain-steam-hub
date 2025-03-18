@@ -4,20 +4,20 @@
     "name": "Heart of the Machine",
     "schinese_name": "人工智能的选择 Heart of the Machine",
     "isfreeapp": "0",
-    "change_number": "27491293",
-    "update_time": "2025-02-15 13:05:40",
+    "change_number": "28007161",
+    "update_time": "2025-03-18 13:20:33",
     "depot": {
         "2001071": {
             "manifests": {
                 "public": {
-                    "gid": "8461763938274961425",
-                    "size": "144053178",
-                    "download": "78446928"
+                    "gid": "6907028799086029030",
+                    "size": "145038709",
+                    "download": "79149760"
                 },
                 "older_but_stable": {
-                    "gid": "7184511287062422746",
-                    "size": "143947263",
-                    "download": "78418288"
+                    "gid": "8299157959389115755",
+                    "size": "145090722",
+                    "download": "79297968"
                 }
             },
             "decryptionkey": "1a1bb30e75dac9319e59c05cd2cf671bd58d69622641a320a63a2bd9665ce7a4"
@@ -25,14 +25,14 @@
         "2001072": {
             "manifests": {
                 "public": {
-                    "gid": "338116312442766708",
+                    "gid": "7118673697444141651",
                     "size": "315513312",
-                    "download": "81758464"
+                    "download": "81758624"
                 },
                 "older_but_stable": {
-                    "gid": "338116312442766708",
+                    "gid": "6256515117209191997",
                     "size": "315513312",
-                    "download": "81758464"
+                    "download": "81758800"
                 }
             },
             "decryptionkey": "d99c074ccbebc30d9fd3c7e65ee1025c781f28985577c017a291b232cd65f927"
@@ -43,14 +43,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "175918145285353867",
-                    "size": "3556971787",
-                    "download": "1715445728"
+                    "gid": "4142638272152076647",
+                    "size": "3557686076",
+                    "download": "1715861104"
                 },
                 "older_but_stable": {
-                    "gid": "4453738661208258995",
-                    "size": "3556967691",
-                    "download": "1715444224"
+                    "gid": "6048826296552263034",
+                    "size": "3557657404",
+                    "download": "1715858496"
                 }
             },
             "decryptionkey": "dfdd7b00971120c31672747d712438f1195956496423bc46bf525178e8924d34"
@@ -61,27 +61,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3132327680970163104",
-                    "size": "3752230610",
-                    "download": "1742888752"
+                    "gid": "8614624964782940863",
+                    "size": "3752944916",
+                    "download": "1743304848"
                 },
                 "older_but_stable": {
-                    "gid": "5717546612568467118",
-                    "size": "3752226514",
-                    "download": "1742887248"
+                    "gid": "2012609546068345997",
+                    "size": "3752916244",
+                    "download": "1743302240"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17471639",
-                "timeupdated": "1740290060"
+                "buildid": "17679689",
+                "timeupdated": "1741709159"
             },
             "older_but_stable": {
-                "buildid": "17443159",
+                "buildid": "17606819",
                 "description": "The most recent known-good build prior to the actual build",
-                "timeupdated": "1740290082"
+                "timeupdated": "1741709138"
             }
         },
         "privatebranches": "1"
