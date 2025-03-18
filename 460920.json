@@ -4,8 +4,8 @@
     "name": "Steep",
     "schinese_name": "极限巅峰",
     "isfreeapp": "0",
-    "change_number": "27427765",
-    "update_time": "2025-02-12 05:19:08",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:28",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,brazilian",
         "228990": {
@@ -23,14 +23,14 @@
                     "download": "29794636768"
                 }
             },
-            "decryptionkey": "ad7a201700dc69ef545a3ff1a412d171e7b914226451c05bf95162f98f6de430"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
