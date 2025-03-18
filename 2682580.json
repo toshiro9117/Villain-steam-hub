@@ -4,8 +4,8 @@
     "name": "DUCKSIDE",
     "schinese_name": "鸭界争锋",
     "isfreeapp": "0",
-    "change_number": "27458741",
-    "update_time": "2025-02-13 20:17:31",
+    "change_number": "28012404",
+    "update_time": "2025-03-18 19:52:33",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4084379925622398450",
-                    "size": "14015903695",
-                    "download": "6342574128"
+                    "gid": "249204885609769928",
+                    "size": "14042344293",
+                    "download": "6369868256"
                 }
             },
             "decryptionkey": "83bf933e89fe0beed0565f603bcd6ce3d6b6491081677ef77c8d694fe0186f33"
         },
         "branches": {
             "public": {
-                "buildid": "17167491",
-                "timeupdated": "1738148294"
+                "buildid": "17763995",
+                "timeupdated": "1742298744"
             }
         },
         "privatebranches": "1"
