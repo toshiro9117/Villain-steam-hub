@@ -4,8 +4,8 @@
     "name": "Flintlock: The Siege of Dawn",
     "schinese_name": "燧石枪：黎明之围 Flintlock: The Siege of Dawn",
     "isfreeapp": "0",
-    "change_number": "27338062",
-    "update_time": "2025-02-06 11:26:37",
+    "change_number": "28011559",
+    "update_time": "2025-03-18 18:56:06",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "15853025392"
                 }
             },
-            "decryptionkey": "c1c5cdc2dfdfd7c552d99cd75df6df269211866648a1602567d62350e7fd4145"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
