@@ -4,8 +4,8 @@
     "name": "Holdfast: Nations At War - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27717896",
-    "update_time": "2025-02-28 21:22:04",
+    "change_number": "28012343",
+    "update_time": "2025-03-18 19:48:01",
     "depot": {
         "1004": {
             "config": {
@@ -62,7 +62,7 @@
                     "download": "1740367040"
                 }
             },
-            "decryptionkey": "eb4909032cd917aaaf94448da374ca711a01f784817bb93dcfb84af7be77e87d"
+            "decryptionkey": ""
         },
         "1424232": {
             "config": {
@@ -77,7 +77,7 @@
                     "download": "1862521504"
                 }
             },
-            "decryptionkey": "51fb0a69919307daf391d19b53617a43f8a7fb773356486b503a3e06c3f93346"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
