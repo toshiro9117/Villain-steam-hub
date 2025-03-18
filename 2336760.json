@@ -4,8 +4,8 @@
     "name": "Immortal Hunters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27519723",
-    "update_time": "2025-02-18 01:00:50",
+    "change_number": "28010990",
+    "update_time": "2025-03-18 18:15:08",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8186123509526155724",
-                    "size": "4153408710",
-                    "download": "1857811072"
+                    "gid": "3514350058081800799",
+                    "size": "4218482970",
+                    "download": "1867067184"
                 }
             },
             "decryptionkey": "f12cdd3b0632534870272d3050cd48f2305fd57adb3875cad06d29eaed9f723a"
@@ -51,8 +51,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16434838",
-                "timeupdated": "1739811293"
+                "buildid": "17751727",
+                "timeupdated": "1742292902"
             }
         },
         "privatebranches": "1"
