@@ -4,8 +4,8 @@
     "name": "Counter-Strike 2",
     "schinese_name": "反恐精英2",
     "isfreeapp": "1",
-    "change_number": "27728459",
-    "update_time": "2025-03-01 09:29:39",
+    "change_number": "27966774",
+    "update_time": "2025-03-15 07:22:30",
     "depot": {
         "depotdeltapatches": "0",
         "overridescddb": "1",
@@ -32,7 +32,7 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "6405025048507067212",
+                    "gid": "3633831754551060143",
                     "size": "7",
                     "download": "64"
                 },
@@ -71,8 +71,7 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "733": {
             "config": {
@@ -81,7 +80,7 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "7395060316223831388",
+                    "gid": "7652530819364936204",
                     "size": "7",
                     "download": "64"
                 },
@@ -120,14 +119,13 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "731": {
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5329378066673211361",
+                    "gid": "1940517275393603617",
                     "size": "7",
                     "download": "64"
                 },
@@ -166,8 +164,7 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": "bca9a9cde94bb4dff61849c6a87230ee45867a590fdd28826366e35e7d62c08e"
+            }
         },
         "734": {
             "config": {
@@ -175,7 +172,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7184901799064440099",
+                    "gid": "4439313052196512024",
                     "size": "7",
                     "download": "64"
                 },
@@ -209,13 +206,12 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "735": {
             "manifests": {
                 "public": {
-                    "gid": "3176553926082970809",
+                    "gid": "7347860216146644263",
                     "size": "7",
                     "download": "64"
                 },
@@ -249,13 +245,12 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "736": {
             "manifests": {
                 "public": {
-                    "gid": "538546446689186938",
+                    "gid": "626439787455472074",
                     "size": "7",
                     "download": "64"
                 },
@@ -289,13 +284,12 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "737": {
             "manifests": {
                 "public": {
-                    "gid": "5887629536427101311",
+                    "gid": "1437454634327287527",
                     "size": "7",
                     "download": "64"
                 },
@@ -329,13 +323,12 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "738": {
             "manifests": {
                 "public": {
-                    "gid": "1751324036680275920",
+                    "gid": "2094373547181598065",
                     "size": "7",
                     "download": "64"
                 },
@@ -369,8 +362,7 @@
                     "size": "7",
                     "download": "64"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2347770": {
             "config": {
@@ -378,9 +370,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2524791237178189289",
-                    "size": "47576460213",
-                    "download": "38173341840"
+                    "gid": "8515985829461527149",
+                    "size": "47538157429",
+                    "download": "38135541728"
                 },
                 "1.40.5.9": {
                     "gid": "9008436475370323816",
@@ -407,8 +399,7 @@
                     "size": "47634965158",
                     "download": "38187717680"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2347771": {
             "config": {
@@ -416,9 +407,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6684890745458522814",
-                    "size": "821094797",
-                    "download": "475041008"
+                    "gid": "395683043051521679",
+                    "size": "821730072",
+                    "download": "475635648"
                 },
                 "1.40.5.9": {
                     "gid": "4615480674484923598",
@@ -445,8 +436,7 @@
                     "size": "820770189",
                     "download": "475028688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2347772": {
             "config": {
@@ -483,8 +473,7 @@
                     "size": "9276",
                     "download": "1696"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2347773": {
             "config": {
@@ -493,9 +482,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7531789592240361490",
+                    "gid": "3027137142276679926",
                     "size": "272528269",
-                    "download": "75739184"
+                    "download": "75753200"
                 },
                 "1.40.5.9": {
                     "gid": "7895991697645030978",
@@ -522,8 +511,7 @@
                     "size": "272507757",
                     "download": "75726528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2347774": {
             "config": {
@@ -560,8 +548,7 @@
                     "size": "1018065131",
                     "download": "833784944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2347775": {},
         "2347776": {},
@@ -575,9 +562,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3488248212519307009",
-                    "size": "771751393",
-                    "download": "205571296"
+                    "gid": "3267440679884678782",
+                    "size": "771755854",
+                    "download": "205566944"
                 },
                 "1.40.5.9": {
                     "gid": "1362565474287919390",
@@ -604,14 +591,13 @@
                     "size": "771257313",
                     "download": "205502448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17538224",
-                "timeupdated": "1740700793"
+                "buildid": "17732524",
+                "timeupdated": "1741994524"
             },
             "csgo_legacy": {
                 "buildid": "12426195",
@@ -650,7 +636,6 @@
             }
         },
         "privatebranches": "1",
-        "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": ""
+        "appmanagesdlc": "1"
     }
 }
