@@ -4,8 +4,8 @@
     "name": "Pyrene",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522124",
-    "update_time": "2025-02-18 03:41:06",
+    "change_number": "27859527",
+    "update_time": "2025-03-09 22:54:51",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6277425478328003133",
-                    "size": "475741995",
-                    "download": "260962224"
+                    "gid": "1190695890696288424",
+                    "size": "475742133",
+                    "download": "260958160"
                 }
             },
             "decryptionkey": "a21cf0e528c3491a8bd1137b7677c952289e6bae9151840615a2d53e4db3295b"
@@ -33,17 +33,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3022966308932236150",
-                    "size": "441263726",
-                    "download": "244658672"
+                    "gid": "5247313564472887149",
+                    "size": "441263882",
+                    "download": "244659280"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17394998",
-                "timeupdated": "1739805732"
+                "buildid": "17576368",
+                "timeupdated": "1741017122"
             }
         }
     }
