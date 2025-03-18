@@ -4,8 +4,8 @@
     "name": "Assassin's Creed Valhalla",
     "schinese_name": "刺客信条：英灵殿",
     "isfreeapp": "0",
-    "change_number": "27501174",
-    "update_time": "2025-02-16 16:16:02",
+    "change_number": "27920903",
+    "update_time": "2025-03-13 06:22:35",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,arabic,brazilian",
         "228988": {
@@ -219,7 +219,7 @@
                     "download": "11962464880"
                 }
             },
-            "decryptionkey": "c0c5f510b0fc245b42abe2178d14c78dcb832353ac2b26a2e6158c656ddd2471"
+            "decryptionkey": ""
         },
         "2210144": {
             "config": {
@@ -233,7 +233,7 @@
                     "download": "10218252096"
                 }
             },
-            "decryptionkey": "5b4d7f7cf88e57952d1fd1622b39c4655b20f21d3c3f7382a6cb4bf3bfc1cead"
+            "decryptionkey": ""
         },
         "2210145": {
             "config": {
@@ -247,7 +247,7 @@
                     "download": "15028217536"
                 }
             },
-            "decryptionkey": "7a47174cc2e1deac0c6e920f778139b00568388bacd9fcd70802fedb611fa355"
+            "decryptionkey": ""
         },
         "2210736": {
             "dlcappid": "2210736",
@@ -273,13 +273,13 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
