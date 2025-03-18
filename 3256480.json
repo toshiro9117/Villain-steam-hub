@@ -4,8 +4,8 @@
     "name": "As We Descend Demo",
     "schinese_name": "永夜之围 Demo",
     "isfreeapp": "0",
-    "change_number": "27728037",
-    "update_time": "2025-03-01 08:45:58",
+    "change_number": "27921936",
+    "update_time": "2025-03-13 07:24:18",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "3319051417",
                     "download": "3082563392"
                 }
-            },
-            "decryptionkey": "bbc7ab2dc24107947dd3e7c36886ebcd1cad12f48e9b0aa02a041bf1d330fcb8"
+            }
         },
         "branches": {
             "public": {
