@@ -4,8 +4,8 @@
     "name": "Black One Blood Brothers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536731",
-    "update_time": "2025-02-18 23:13:37",
+    "change_number": "28012467",
+    "update_time": "2025-03-18 19:56:36",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1621560",
@@ -35,7 +35,7 @@
                     "download": "17260270656"
                 }
             },
-            "decryptionkey": "28de5a653d01514649d6e16ec7b28d6ee5ac2897abc4609b507964835bfab62d"
+            "decryptionkey": ""
         },
         "2975810": {
             "dlcappid": "2975810",
@@ -51,6 +51,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "260c2a76e98dab65de625846b00395dec5601324a426235accb781cb081c8b1e"
+        "workshopdepotdecryptionkey": ""
     }
 }
