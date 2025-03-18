@@ -4,8 +4,8 @@
     "name": "Soulstone Survivors",
     "schinese_name": "灵魂石幸存者",
     "isfreeapp": "0",
-    "change_number": "27465410",
-    "update_time": "2025-02-14 02:35:25",
+    "change_number": "28009382",
+    "update_time": "2025-03-18 16:43:47",
     "depot": {
         "2066021": {
             "config": {
@@ -13,19 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4082426771866309870",
-                    "size": "1671044512",
-                    "download": "485229424"
+                    "gid": "2147518497396057408",
+                    "size": "2671546609",
+                    "download": "608221776"
                 },
                 "alpha": {
-                    "gid": "4082426771866309870",
-                    "size": "1671044512",
-                    "download": "485229424"
-                },
-                "communityskins": {
-                    "gid": "5291701762618836035",
-                    "size": "2645181394",
-                    "download": "603241440"
+                    "gid": "5311638512753479137",
+                    "size": "2687616026",
+                    "download": "610658464"
                 }
             },
             "decryptionkey": "77548840219e976662662089b95dff8d5aebb105e927a5a9e4ae5a7e1dcc20b3"
@@ -36,19 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8118134331916634816",
-                    "size": "1778670041",
-                    "download": "525692912"
+                    "gid": "1844496121225683186",
+                    "size": "2763837265",
+                    "download": "636246608"
                 },
                 "alpha": {
-                    "gid": "8118134331916634816",
-                    "size": "1778670041",
-                    "download": "525692912"
-                },
-                "communityskins": {
-                    "gid": "4373054057031094745",
-                    "size": "2747112269",
-                    "download": "633619824"
+                    "gid": "4022836882058025403",
+                    "size": "2792024774",
+                    "download": "641525856"
                 }
             },
             "decryptionkey": "fbf81679edbc1631bbdab249108645437b827556e0caf38758aef81283945689"
@@ -59,19 +49,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3620009059495293973",
-                    "size": "1665044965",
-                    "download": "486681680"
+                    "gid": "4098685420320089788",
+                    "size": "2682665853",
+                    "download": "612425824"
                 },
                 "alpha": {
-                    "gid": "3620009059495293973",
-                    "size": "1665044965",
-                    "download": "486681680"
-                },
-                "communityskins": {
-                    "gid": "3995394519779891391",
-                    "size": "2658308005",
-                    "download": "607797968"
+                    "gid": "7815563007120677738",
+                    "size": "2685486252",
+                    "download": "613045712"
                 }
             },
             "decryptionkey": "ebf46700a15e9cfe604b9259944a1a232b677b5a294933df6c266cffdad5147f"
@@ -80,18 +65,13 @@
         "workshopdepot": "2066020",
         "branches": {
             "public": {
-                "buildid": "16800993",
-                "timeupdated": "1734615929"
+                "buildid": "17730522",
+                "timeupdated": "1741981656"
             },
             "alpha": {
-                "buildid": "16800993",
+                "buildid": "17692888",
                 "description": "Alpha testing",
-                "timeupdated": "1734613995"
-            },
-            "communityskins": {
-                "buildid": "17351169",
-                "description": "Creation and testing of community skins.",
-                "timeupdated": "1739447722"
+                "timeupdated": "1741784528"
             }
         },
         "privatebranches": "1",
