@@ -4,8 +4,8 @@
     "name": "GUNDAM BREAKER 4",
     "schinese_name": "高达破坏者4",
     "isfreeapp": "0",
-    "change_number": "27525776",
-    "update_time": "2025-02-18 09:06:24",
+    "change_number": "27923236",
+    "update_time": "2025-03-13 09:00:06",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1672501": {
             "manifests": {
                 "public": {
-                    "gid": "6190249151076635767",
-                    "size": "11663136229",
-                    "download": "11533802416"
+                    "gid": "4065812194408039653",
+                    "size": "11788890837",
+                    "download": "11660102256"
                 }
             },
             "decryptionkey": "9f2f74d11338105456bfb27b568e86d4db1b13ce938fcc6272f334a7d042be53"
@@ -34,9 +34,9 @@
         "1672502": {
             "manifests": {
                 "public": {
-                    "gid": "5798723466342164145",
-                    "size": "1195814912",
-                    "download": "178868800"
+                    "gid": "3933406523473290636",
+                    "size": "1199624192",
+                    "download": "179398432"
                 }
             },
             "decryptionkey": ""
@@ -44,8 +44,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,brazilian,latam,indonesian",
         "branches": {
             "public": {
-                "buildid": "16958882",
-                "timeupdated": "1738198839"
+                "buildid": "17507191",
+                "timeupdated": "1741827601"
             }
         },
         "privatebranches": "1"
