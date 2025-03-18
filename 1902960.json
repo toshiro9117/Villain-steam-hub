@@ -4,8 +4,8 @@
     "name": "Lost Records: Bloom & Rage",
     "schinese_name": "奇异人生",
     "isfreeapp": "0",
-    "change_number": "27730748",
-    "update_time": "2025-03-01 15:18:28",
+    "change_number": "28009386",
+    "update_time": "2025-03-18 16:43:59",
     "depot": {
         "228989": {
             "config": {
@@ -24,20 +24,20 @@
         "1902961": {
             "manifests": {
                 "public": {
-                    "gid": "3859862536567523014",
-                    "size": "46301859859",
-                    "download": "42319419840"
+                    "gid": "2421175954576313073",
+                    "size": "46299758829",
+                    "download": "42324712560"
                 }
             },
-            "decryptionkey": "abad4c4c537119525145d83f5b7fe9761125627d17fc04758be2de4d40de12ed"
+            "decryptionkey": ""
         },
         "1977350": {
             "dlcappid": "1977350"
         },
         "branches": {
             "public": {
-                "buildid": "17518988",
-                "timeupdated": "1740612387"
+                "buildid": "17583620",
+                "timeupdated": "1741283010"
             }
         },
         "privatebranches": "1"
