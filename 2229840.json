@@ -4,8 +4,8 @@
     "name": "Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™",
     "schinese_name": "《命令与征服：红色警戒, 反击战及灾后》",
     "isfreeapp": "0",
-    "change_number": "27426517",
-    "update_time": "2025-02-12 03:38:12",
+    "change_number": "27760974",
+    "update_time": "2025-03-04 04:16:14",
     "depot": {
         "228990": {
             "config": {
@@ -18,9 +18,9 @@
         "2229841": {
             "manifests": {
                 "public": {
-                    "gid": "5131086198590275031",
-                    "size": "1477854591",
-                    "download": "638724640"
+                    "gid": "1354337765142999844",
+                    "size": "1477879686",
+                    "download": "638727008"
                 }
             },
             "decryptionkey": "26ec78cd68550fe930fb06bc779f42b58a6b52e5defa7a918f2e17aaf178f8b0"
@@ -67,8 +67,8 @@
         "workshopdepot": "2229840",
         "branches": {
             "public": {
-                "buildid": "15165001",
-                "timeupdated": "1722545873"
+                "buildid": "15918010",
+                "timeupdated": "1740672397"
             }
         },
         "privatebranches": "1",
