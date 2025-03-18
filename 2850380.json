@@ -4,8 +4,8 @@
     "name": "Device Doctor Simulator 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27713259",
-    "update_time": "2025-02-28 16:52:08",
+    "change_number": "27918920",
+    "update_time": "2025-03-13 04:08:59",
     "depot": {
         "228990": {
             "config": {
@@ -21,18 +21,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8222712914243617914",
-                    "size": "5027423411",
-                    "download": "1618250416"
+                    "gid": "1077246713219001324",
+                    "size": "5027884846",
+                    "download": "1617852576"
                 }
             },
-            "decryptionkey": "91aae8a0fb823eae6a08f0a579e3e6f3c04bededbf8bcb4a257bf2ca37d146f8"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "branches": {
             "public": {
-                "buildid": "17543704",
-                "timeupdated": "1740732263"
+                "buildid": "17663212",
+                "timeupdated": "1741620548"
             }
         }
     }
