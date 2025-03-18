@@ -4,8 +4,8 @@
     "name": "Castlevania: Lords of Shadow - Ultimate Edition",
     "schinese_name": "恶魔城：暗影之王终极版",
     "isfreeapp": "0",
-    "change_number": "27348355",
-    "update_time": "2025-02-07 00:17:28",
+    "change_number": "27761777",
+    "update_time": "2025-03-04 05:22:17",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,brazilian",
@@ -26,7 +26,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "ab40bf1e8f8f4e355c8bae5308935e25aab33dfa288481d8daa4a10db80794e1"
+            "decryptionkey": ""
         },
         "234083": {
             "systemdefined": "1",
@@ -37,7 +37,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "b87b6f66b1adb93c834b430768ddf9b1cf1457edf63f2a6235366c28cbcc711f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
