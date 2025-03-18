@@ -4,8 +4,8 @@
     "name": "Trials Evolution Gold Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:49:19",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:04",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,brazilian",
@@ -21,7 +21,7 @@
                     "download": "2908371440"
                 }
             },
-            "decryptionkey": "bf3ef520db5b927ba0b7855a1ed169c397efcc212b0a7e00afec78b7bab5a0fd"
+            "decryptionkey": ""
         },
         "220162": {
             "config": {
@@ -38,9 +38,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
