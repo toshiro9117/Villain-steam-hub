@@ -4,8 +4,8 @@
     "name": "Arctico",
     "schinese_name": "北极",
     "isfreeapp": "0",
-    "change_number": "27541702",
-    "update_time": "2025-02-19 04:17:24",
+    "change_number": "27950711",
+    "update_time": "2025-03-14 15:20:36",
     "depot": {
         "baselanguages": "english",
         "325212": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8892285985916203349",
-                    "size": "913524278",
-                    "download": "174927968"
+                    "gid": "6483513650895422877",
+                    "size": "913534110",
+                    "download": "174974224"
                 }
             },
             "decryptionkey": "0953c1747a6e94fc628fc42581c03d14d7870946418fd8ec5beb907e8e42820c"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1874443825526817352",
-                    "size": "934653919",
-                    "download": "183039904"
+                    "gid": "8578092371893214749",
+                    "size": "934663751",
+                    "download": "183076048"
                 }
             },
             "decryptionkey": ""
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17043993",
-                "timeupdated": "1737140386"
+                "buildid": "17662071",
+                "timeupdated": "1741615435"
             }
         }
     }
