@@ -4,8 +4,8 @@
     "name": "Mobmania",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25866032",
-    "update_time": "2024-10-24 06:19:16",
+    "change_number": "27974614",
+    "update_time": "2025-03-16 02:08:36",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "2099221": {
             "manifests": {
                 "public": {
-                    "gid": "1681442196959176309",
-                    "size": "180833507",
-                    "download": "139102720"
+                    "gid": "3874812435882770755",
+                    "size": "181235979",
+                    "download": "139339472"
                 },
                 "local": {
                     "gid": "3602999359183414423",
@@ -27,12 +27,12 @@
                     "download": "9979712"
                 }
             },
-            "decryptionkey": "cab7f4469883fe50112471f6474f015bbd9e629ecae651999d01c75d07868a9d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16157375",
-                "timeupdated": "1729721951"
+                "buildid": "17738399",
+                "timeupdated": "1742062111"
             },
             "local": {
                 "buildid": "9364193",
