@@ -4,8 +4,8 @@
     "name": "Disgaea 4 Complete+",
     "schinese_name": "魔界战记DISGAEA４Return",
     "isfreeapp": "0",
-    "change_number": "26265756",
-    "update_time": "2024-11-20 01:25:56",
+    "change_number": "27879369",
+    "update_time": "2025-03-11 05:10:53",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "3390457936"
                 }
             },
-            "decryptionkey": "61c99a12f757f3bd4d8e69503c05e32e1184b97a184c79eec397860b1fdb578f"
+            "decryptionkey": ""
         },
         "1342160": {
             "dlcappid": "1342160",
@@ -46,7 +46,7 @@
                     "download": "108906768"
                 }
             },
-            "decryptionkey": "62982db0fc7f2531b1d0de0ae7dc139e94500fcfbaf74c68e0b61d11a04824d2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
