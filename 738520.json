@@ -4,8 +4,8 @@
     "name": "Breathedge",
     "schinese_name": "呼吸边缘",
     "isfreeapp": "0",
-    "change_number": "27048712",
-    "update_time": "2025-01-18 04:09:26",
+    "change_number": "27734897",
+    "update_time": "2025-03-02 01:22:53",
     "depot": {
         "228985": {
             "config": {
@@ -53,7 +53,7 @@
                     "download": "6837667648"
                 }
             },
-            "decryptionkey": "4c18853b78cacf0c4cba33d0c37b2d60aa1833ad25fb7604f9b517607d994e63"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
