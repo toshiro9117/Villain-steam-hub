@@ -4,8 +4,8 @@
     "name": "Alien: Rogue Incursion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726871",
-    "update_time": "2025-03-01 06:51:21",
+    "change_number": "28002784",
+    "update_time": "2025-03-18 06:16:15",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "hasdepotsindlc": "1",
@@ -31,7 +31,7 @@
                     "download": "40205441536"
                 }
             },
-            "decryptionkey": "fe58595e434c24887790366689f0296feecad748727c976457fa5720bbe4276d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
