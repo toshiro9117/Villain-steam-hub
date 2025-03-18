@@ -4,8 +4,8 @@
     "name": "Metaphor: ReFantazio - Prologue Demo",
     "schinese_name": "暗喻幻想：ReFantazio～序章试玩版～",
     "isfreeapp": "0",
-    "change_number": "26981834",
-    "update_time": "2025-01-14 10:01:01",
+    "change_number": "27908324",
+    "update_time": "2025-03-12 18:02:30",
     "depot": {
         "228989": {
             "config": {
@@ -21,8 +21,7 @@
                     "size": "57756086432",
                     "download": "24445344480"
                 }
-            },
-            "decryptionkey": "c14735f2116debc71117f6e4bd96a9e89734623b28a15563762ee7054608b801"
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
