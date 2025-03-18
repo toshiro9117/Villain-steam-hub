@@ -4,8 +4,8 @@
     "name": "Witch 4 Hotel",
     "schinese_name": "女巫4·酒店",
     "isfreeapp": "0",
-    "change_number": "27720746",
-    "update_time": "2025-03-01 00:01:31",
+    "change_number": "27976085",
+    "update_time": "2025-03-16 05:55:48",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,japanese",
         "228989": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3675087929670875672",
-                    "size": "4384426491",
-                    "download": "4115814496"
+                    "gid": "3095255777742157991",
+                    "size": "4670827898",
+                    "download": "4392585360"
                 }
             },
             "decryptionkey": ""
@@ -61,9 +61,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5976076764839560628",
-                    "size": "4586592677",
-                    "download": "4139751248"
+                    "gid": "2684923864353582926",
+                    "size": "4872994084",
+                    "download": "4416522960"
                 }
             },
             "decryptionkey": ""
@@ -75,9 +75,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4457492997209538507",
-                    "size": "4586609442",
-                    "download": "4139751248"
+                    "gid": "8947718885629495726",
+                    "size": "4873010849",
+                    "download": "4416522960"
                 }
             },
             "decryptionkey": ""
@@ -86,20 +86,28 @@
             "dlcappid": "3407440",
             "manifests": {
                 "public": {
-                    "gid": "7439628913016331717",
-                    "size": "405044618",
-                    "download": "395177568"
+                    "gid": "2935031244512859120",
+                    "size": "405171356",
+                    "download": "395210464"
                 }
             },
             "decryptionkey": "fa8394823c723eae10e3f9315d0001421b65fb0bca62ba935aa8adcc69cc6659"
         },
         "3534180": {
-            "dlcappid": "3534180"
+            "dlcappid": "3534180",
+            "manifests": {
+                "public": {
+                    "gid": "2142084950272027927",
+                    "size": "967301134",
+                    "download": "935983760"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16860043",
-                "timeupdated": "1735296095"
+                "buildid": "17674883",
+                "timeupdated": "1741685967"
             }
         }
     }
