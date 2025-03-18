@@ -4,8 +4,8 @@
     "name": "DayZ",
     "schinese_name": "僵尸末日",
     "isfreeapp": "0",
-    "change_number": "27532516",
-    "update_time": "2025-02-18 18:52:08",
+    "change_number": "28013439",
+    "update_time": "2025-03-18 20:59:55",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -49,12 +49,12 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "1735881272268747274",
-                    "size": "24602967700",
-                    "download": "19665492064"
+                    "gid": "7607750697306013269",
+                    "size": "24850312112",
+                    "download": "19872114784"
                 }
             },
-            "decryptionkey": "9d9c5d3d77309bbe701a3f018cea877d22d07160b4ea2b65bdf261d0dc399c15"
+            "decryptionkey": ""
         },
         "1151700": {
             "dlcappid": "1151700",
@@ -65,7 +65,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "ed6fa275132bd015ad355b4058b0e4af4a79d000c2f912d1e28a19185ef3c1eb"
+            "decryptionkey": ""
         },
         "221102": {
             "config": {
@@ -79,15 +79,15 @@
                     "download": "74525584"
                 }
             },
-            "decryptionkey": "fe6ef04ad5778ee58766d4c8b7057fa84feb52c2cc0155d808fb40ca1bd42789"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16458736",
-                "timeupdated": "1732021278"
+                "buildid": "17765798",
+                "timeupdated": "1742302788"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "1166f7815221fcc3afac8682ba307d6496101848e6483b6bb838551f2923ae64"
+        "workshopdepotdecryptionkey": ""
     }
 }
