@@ -4,8 +4,8 @@
     "name": "Shell Runner",
     "schinese_name": "Shell Runner 攻壳行者",
     "isfreeapp": "0",
-    "change_number": "27479880",
-    "update_time": "2025-02-14 21:18:53",
+    "change_number": "28011126",
+    "update_time": "2025-03-18 18:25:05",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "1881417760"
                 }
             },
-            "decryptionkey": "d57abfcd9dbd63893836c880df4c1d9d83d03840c29dd2e9066928f234529a7b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
