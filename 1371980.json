@@ -4,8 +4,8 @@
     "name": "No Rest for the Wicked",
     "schinese_name": "《恶意不息》",
     "isfreeapp": "0",
-    "change_number": "27726608",
-    "update_time": "2025-03-01 06:29:29",
+    "change_number": "28013437",
+    "update_time": "2025-03-18 20:59:51",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "1371981": {
             "manifests": {
                 "public": {
-                    "gid": "8002246959586799062",
-                    "size": "30678629239",
-                    "download": "11020771344"
+                    "gid": "7827876886364409416",
+                    "size": "30678628941",
+                    "download": "11020774256"
                 }
             },
             "decryptionkey": "9598cfe06b948f9eca5cbd915b40bec41730f61f6349bbd41d5ee6e86c47a3f6"
@@ -48,8 +48,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17514619",
-                "timeupdated": "1740572574"
+                "buildid": "17579569",
+                "timeupdated": "1741034572"
             }
         },
         "privatebranches": "1"
