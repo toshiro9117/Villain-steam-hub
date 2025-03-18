@@ -4,8 +4,8 @@
     "name": "Drug Dealer Simulator 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27717946",
-    "update_time": "2025-02-28 21:24:49",
+    "change_number": "28010448",
+    "update_time": "2025-03-18 17:43:53",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "1708851": {
             "manifests": {
                 "public": {
-                    "gid": "5623054423867832382",
-                    "size": "25897073597",
-                    "download": "24756612560"
+                    "gid": "1923116423872316994",
+                    "size": "25896461451",
+                    "download": "24756334832"
                 }
             },
-            "decryptionkey": "9da58ce930b5409698dfdd9945f19efdbe1e0b7acead98d61080b5b7058f9890"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17538910",
-                "timeupdated": "1740745169"
+                "buildid": "17665247",
+                "timeupdated": "1741695726"
             }
         },
         "privatebranches": "1"
