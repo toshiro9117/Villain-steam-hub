@@ -4,8 +4,8 @@
     "name": "Stationeers",
     "schinese_name": "空间站工程师",
     "isfreeapp": "0",
-    "change_number": "27540046",
-    "update_time": "2025-02-19 02:28:11",
+    "change_number": "27999917",
+    "update_time": "2025-03-18 02:28:37",
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "675553564911597286",
-                    "size": "3352808307",
-                    "download": "1363676160"
+                    "gid": "7482982221869664025",
+                    "size": "3776300856",
+                    "download": "1462182752"
                 },
                 "devbranch": {
                     "gid": "4652771184080619332",
@@ -44,9 +44,9 @@
                     "download": "2812867792"
                 },
                 "beta": {
-                    "gid": "3793217507088900122",
-                    "size": "3562021213",
-                    "download": "1446101552"
+                    "gid": "1830612565245920431",
+                    "size": "3776510312",
+                    "download": "1462235920"
                 },
                 "preterrain": {
                     "gid": "6273536449893847180",
@@ -63,8 +63,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16715482",
-                "timeupdated": "1733971417"
+                "buildid": "17747366",
+                "timeupdated": "1742197682"
             },
             "devbranch": {
                 "buildid": "11423058",
@@ -77,9 +77,9 @@
                 "timeupdated": "1702360900"
             },
             "beta": {
-                "buildid": "17475151",
+                "buildid": "17755550",
                 "description": "beta branch",
-                "timeupdated": "1740335262"
+                "timeupdated": "1742236111"
             },
             "preterrain": {
                 "buildid": "15643425",
