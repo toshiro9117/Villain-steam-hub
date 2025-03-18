@@ -4,8 +4,8 @@
     "name": "The Rogue Prince of Persia",
     "schinese_name": "波斯王子：Rogue",
     "isfreeapp": "0",
-    "change_number": "27290193",
-    "update_time": "2025-02-03 22:28:51",
+    "change_number": "27915745",
+    "update_time": "2025-03-13 00:56:15",
     "depot": {
         "baselanguages": "english",
         "2717881": {
@@ -24,7 +24,7 @@
                     "download": "768689344"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4f68e98dcd0e02d77029d74ec41d2bb82ac62a486db69b9a034683ae1bddbf41"
         },
         "2717882": {
             "config": {
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9165227971531384824",
-                    "size": "1772288760",
-                    "download": "1313046656"
+                    "gid": "2839820551302317627",
+                    "size": "1772304141",
+                    "download": "1313059936"
                 },
                 "publictestversion": {
                     "gid": "2650619038531371301",
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17443357",
-                "timeupdated": "1740075841"
+                "buildid": "17530050",
+                "timeupdated": "1740669784"
             },
             "publictestversion": {
                 "buildid": "17222775",
