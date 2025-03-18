@@ -4,10 +4,9 @@
     "name": "Goeland Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27353582",
-    "update_time": "2025-02-07 05:56:38",
+    "change_number": "27997493",
+    "update_time": "2025-03-18 00:03:30",
     "depot": {
-        "baselanguages": "english,german,french,schinese,russian,japanese,portuguese,brazilian",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -22,6 +21,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "english,german,french,schinese,russian,japanese,portuguese,brazilian",
         "3122961": {},
         "3122962": {
             "config": {
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6761102965055630844",
-                    "size": "640122677",
-                    "download": "349356176"
+                    "gid": "7214640245973001114",
+                    "size": "636702401",
+                    "download": "346048560"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3122963": {
             "config": {
@@ -42,17 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5387233423623546568",
-                    "size": "564767878",
-                    "download": "371899600"
+                    "gid": "7742516343908669727",
+                    "size": "561541561",
+                    "download": "368468832"
                 }
-            },
-            "decryptionkey": "647e27c9968b09109f1c3f4b9dc6c7f1b08b6ac8812581a1b820c2e56663b4e2"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17272734",
-                "timeupdated": "1738878991"
+                "buildid": "17753891",
+                "timeupdated": "1742227300"
             }
         }
     }
