@@ -4,8 +4,8 @@
     "name": "Riders Republic",
     "schinese_name": "极限国度",
     "isfreeapp": "0",
-    "change_number": "27724556",
-    "update_time": "2025-03-01 03:46:34",
+    "change_number": "28009735",
+    "update_time": "2025-03-18 17:04:25",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228988": {
@@ -25,28 +25,28 @@
         "2290181": {
             "manifests": {
                 "public": {
-                    "gid": "3648917569702865508",
-                    "size": "27983439490",
-                    "download": "26699401136"
+                    "gid": "721401508756139489",
+                    "size": "30766038901",
+                    "download": "29304946880"
                 }
             },
-            "decryptionkey": "87bb928cf12682614e38b33c1fdbcfe71c6473b5bad0c278583e2478ccf34f36"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16491924",
-                "timeupdated": "1733821367"
+                "buildid": "17497547",
+                "timeupdated": "1742288661"
             }
         },
         "privatebranches": "1"
