@@ -4,8 +4,8 @@
     "name": "Empire of the Ants",
     "schinese_name": "蚂蚁帝国（Empire of the Ants）",
     "isfreeapp": "0",
-    "change_number": "27538272",
-    "update_time": "2025-02-19 00:40:46",
+    "change_number": "27937799",
+    "update_time": "2025-03-14 00:40:03",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "37683745824"
                 }
             },
-            "decryptionkey": "3c0468cad17b6444999a764db47c1c60ac7729f89cfd4f3d51ebf028093ea4f2"
+            "decryptionkey": ""
         },
         "3126630": {
             "dlcappid": "3126630",
@@ -40,7 +40,7 @@
                     "download": "1204180400"
                 }
             },
-            "decryptionkey": "b5f73d6ef197c146069da44a9b909f0501439fd2f1a9f62d18b47108fa32cd51"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
