@@ -4,8 +4,8 @@
     "name": "Trans-Siberian Railway Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27482141",
-    "update_time": "2025-02-14 23:31:32",
+    "change_number": "27759146",
+    "update_time": "2025-03-04 02:01:59",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2561159087718161047",
-                    "size": "35174335010",
-                    "download": "34190248544"
+                    "gid": "1525732969875617409",
+                    "size": "40969456291",
+                    "download": "39924980960"
                 }
             },
-            "decryptionkey": "edea4a78e56567e965ed901d64d5b248e8b90195edbb0500ffd8c56a8aa9c95d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16645718",
-                "timeupdated": "1733679892"
+                "buildid": "17516909",
+                "timeupdated": "1741024913"
             }
         },
         "privatebranches": "1"
