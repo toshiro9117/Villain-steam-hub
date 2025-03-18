@@ -4,8 +4,8 @@
     "name": "Metro Awakening",
     "schinese_name": "地铁：觉醒",
     "isfreeapp": "0",
-    "change_number": "27006867",
-    "update_time": "2025-01-15 20:15:14",
+    "change_number": "27872601",
+    "update_time": "2025-03-10 22:12:47",
     "depot": {
         "228989": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "27176025744"
                 }
             },
-            "decryptionkey": "e66acc7d1c34d04e8258937dc45248f754652968f377d3bb4447273880f07363"
+            "decryptionkey": ""
         },
         "2841900": {
             "dlcappid": "2841900"
