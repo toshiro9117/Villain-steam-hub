@@ -4,8 +4,8 @@
     "name": "Dune: Imperium",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726610",
-    "update_time": "2025-03-01 06:29:56",
+    "change_number": "28010753",
+    "update_time": "2025-03-18 18:01:27",
     "depot": {
         "1689501": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4685017678265555958",
-                    "size": "664956068",
-                    "download": "400626560"
+                    "gid": "4795831592775124092",
+                    "size": "667859570",
+                    "download": "401251520"
                 }
             },
             "decryptionkey": "3e373de600fd15359e36cc7c92050dce9e8395fc94d981e27f4d8ad79f168737"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1070014593344856152",
-                    "size": "836634807",
-                    "download": "415367248"
+                    "gid": "5590947743058398559",
+                    "size": "836727143",
+                    "download": "415486368"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17552668",
-                "timeupdated": "1740781066"
+                "buildid": "17711994",
+                "timeupdated": "1741900119"
             }
         },
         "privatebranches": "1"
