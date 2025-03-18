@@ -4,8 +4,8 @@
     "name": "Stealth Inc 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26963426",
-    "update_time": "2025-01-13 01:08:41",
+    "change_number": "27818629",
+    "update_time": "2025-03-07 00:30:28",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian",
         "228990": {
@@ -35,7 +35,7 @@
                     "download": "315166496"
                 }
             },
-            "decryptionkey": "a3c07fd2ece3487a64ab625aefc5048a4582a987ac7a38998f99ee97512cef92"
+            "decryptionkey": ""
         },
         "390760": {
             "manifests": {
@@ -51,7 +51,7 @@
                 }
             },
             "dlcappid": "390760",
-            "decryptionkey": "3b8f768c57110fd0dfa08f8c57167eb62dfc5433a386e13223ea4d1b344a5f26"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
