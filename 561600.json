@@ -4,8 +4,8 @@
     "name": "MXGP3 - The Official Motocross Videogame",
     "schinese_name": "越野摩托3：官方越野赛",
     "isfreeapp": "0",
-    "change_number": "27003430",
-    "update_time": "2025-01-15 16:07:54",
+    "change_number": "27826335",
+    "update_time": "2025-03-07 09:05:46",
     "depot": {
         "228986": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "12406496752"
                 }
             },
-            "decryptionkey": "ffa3d193e935a6f2bc3fc2bbbc5780bb3f16f71ebc82b5469731d0c80b0a6137"
+            "decryptionkey": ""
         },
         "605560": {
             "dlcappid": "605560",
@@ -57,7 +57,7 @@
                     "download": "11699851104"
                 }
             },
-            "decryptionkey": "e0006db03d63c3c8d81a0c769626653f5391602acdb9ef450a8d3d388d89b4a0"
+            "decryptionkey": ""
         },
         "561603": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "33941792"
                 }
             },
-            "decryptionkey": "52fc13b183256f9711a70228f52d82c3805d5ae15982e2fc3aaba105a6965267"
+            "decryptionkey": ""
         },
         "561604": {
             "config": {
@@ -83,7 +83,7 @@
                     "download": "30049808"
                 }
             },
-            "decryptionkey": "8520e5e1f45232ea28749822c3845ebe1152bb2d5685121f4e8f5064e417251f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
