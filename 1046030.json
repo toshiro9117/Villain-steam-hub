@@ -4,8 +4,8 @@
     "name": "ISLANDERS",
     "schinese_name": "岛上居民",
     "isfreeapp": "0",
-    "change_number": "27727346",
-    "update_time": "2025-03-01 07:39:52",
+    "change_number": "27774242",
+    "update_time": "2025-03-04 21:02:45",
     "depot": {
         "228990": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "44478144"
                 }
             },
-            "decryptionkey": "33c4649d448f898a1faa5d0e7a66071e5346618ddb5a4e1b92f58ad6ed6dcd2a"
+            "decryptionkey": ""
         },
         "1046032": {
             "config": {
@@ -50,7 +50,7 @@
                     "download": "42116544"
                 }
             },
-            "decryptionkey": "d433fcce48745cb3039159d83eab31ff390f1c10eb4282563ca6ea6f7361514b"
+            "decryptionkey": ""
         },
         "1046033": {
             "config": {
@@ -69,7 +69,7 @@
                     "download": "47085008"
                 }
             },
-            "decryptionkey": "0efc1f99591ae0d0caa7e51fb74e78a63cfb5e362dfadaad35b20ca34d38007b"
+            "decryptionkey": ""
         },
         "1046034": {
             "config": {
@@ -88,7 +88,7 @@
                     "download": "43375712"
                 }
             },
-            "decryptionkey": "790a354ca8d16ce8e7df524e7e4ed74647a03bc7ebe5d537732a2a7ad67a3c35"
+            "decryptionkey": ""
         },
         "1046035": {
             "config": {
@@ -106,7 +106,7 @@
                     "download": "46562528"
                 }
             },
-            "decryptionkey": "a5b56c8af584d3060abf18de9ffde1822acc411f6e542e1de83cf3904bbe9750"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
