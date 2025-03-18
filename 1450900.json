@@ -4,8 +4,8 @@
     "name": "Desynced",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27490812",
-    "update_time": "2025-02-15 11:45:13",
+    "change_number": "27806928",
+    "update_time": "2025-03-06 11:04:24",
     "depot": {
         "228988": {
             "config": {
@@ -104,7 +104,7 @@
                     "download": "1166288224"
                 }
             },
-            "decryptionkey": "d9a1fcf1a5247619a996fda01bbd2cf2143fa24e234d4cbf0973f8eebf062d03"
+            "decryptionkey": ""
         },
         "workshopdepot": "1450900",
         "branches": {
@@ -184,6 +184,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "08b05055bcd40b9ce8acb4cb95fc7cd00aad31f51e45ad7dce5723f07ba91a6e"
+        "workshopdepotdecryptionkey": ""
     }
 }
