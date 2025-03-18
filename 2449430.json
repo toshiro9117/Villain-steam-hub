@@ -4,8 +4,8 @@
     "name": "Incremental Factory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27525132",
-    "update_time": "2025-02-18 08:13:49",
+    "change_number": "27841072",
+    "update_time": "2025-03-08 02:08:38",
     "depot": {
         "2449433": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8318800105959602022",
-                    "size": "748614431",
-                    "download": "366441520"
+                    "gid": "4669902359607361207",
+                    "size": "755738119",
+                    "download": "373609344"
                 },
                 "0.5.7": {
                     "gid": "2836338546342591682",
@@ -24,9 +24,9 @@
                     "download": "140732672"
                 },
                 "experimental": {
-                    "gid": "5534900629655565929",
-                    "size": "755738166",
-                    "download": "373611760"
+                    "gid": "2599811004681476661",
+                    "size": "755738907",
+                    "download": "373611552"
                 },
                 "test": {
                     "gid": "5088100513510002195",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1068547598645441241",
-                    "size": "588302741",
-                    "download": "316138928"
+                    "gid": "8685974759475302111",
+                    "size": "595331211",
+                    "download": "323256176"
                 },
                 "local": {
                     "gid": "1435217258797490924",
@@ -57,9 +57,9 @@
                     "download": "93985872"
                 },
                 "experimental": {
-                    "gid": "1714141492257297251",
-                    "size": "595331227",
-                    "download": "323256192"
+                    "gid": "6342531193444368164",
+                    "size": "595332000",
+                    "download": "323256496"
                 },
                 "test": {
                     "gid": "8101647752578398566",
@@ -72,8 +72,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16865321",
-                "timeupdated": "1736177361"
+                "buildid": "17588266",
+                "timeupdated": "1741101562"
             },
             "local": {
                 "buildid": "12858365",
@@ -87,9 +87,9 @@
                 "timeupdated": "1724650907"
             },
             "experimental": {
-                "buildid": "17423219",
+                "buildid": "17603829",
                 "description": "New experimental features and improvements. Backup before!",
-                "timeupdated": "1739972000"
+                "timeupdated": "1741176710"
             },
             "test": {
                 "buildid": "15584431",
