@@ -4,8 +4,8 @@
     "name": "GuGu Pizza : Delivering Pizza to the Space Station? Boss, this is just not right!",
     "schinese_name": "咕咕披萨：送披萨到空间站？老板，这不对啊！",
     "isfreeapp": "0",
-    "change_number": "27725373",
-    "update_time": "2025-03-01 04:46:03",
+    "change_number": "27979521",
+    "update_time": "2025-03-16 16:56:18",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "969747840"
                 }
             },
-            "decryptionkey": "dbd1ca2b61866dce87a1e2c2afe20bd237ec0fc74fc3536bc30182042be46bcd"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese",
         "branches": {
