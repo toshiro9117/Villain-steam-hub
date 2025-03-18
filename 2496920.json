@@ -4,8 +4,8 @@
     "name": "开局一只蛋",
     "schinese_name": "开局一只蛋",
     "isfreeapp": "0",
-    "change_number": "27505007",
-    "update_time": "2025-02-17 02:13:54",
+    "change_number": "27788319",
+    "update_time": "2025-03-05 13:09:06",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -52,6 +52,7 @@
                 "buildid": "17104851",
                 "timeupdated": "1737633925"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
