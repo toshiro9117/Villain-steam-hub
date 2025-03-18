@@ -4,8 +4,8 @@
     "name": "New Gundam Breaker",
     "schinese_name": "新高达破坏者",
     "isfreeapp": "0",
-    "change_number": "27724539",
-    "update_time": "2025-03-01 03:45:32",
+    "change_number": "27774710",
+    "update_time": "2025-03-04 21:15:56",
     "depot": {
         "228986": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "8228745392"
                 }
             },
-            "decryptionkey": "280c135e5a7484d58e9ae159cd748af9e5d1e858346bf15a0b968d0a7a3b58a5"
+            "decryptionkey": ""
         },
         "738532": {},
         "874321": {
@@ -57,7 +57,7 @@
                     "download": "48"
                 }
             },
-            "decryptionkey": "dcc4dce00d21f701c8a02b487c43d770473d0631e1a96294ce740d04a0f2b370"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
