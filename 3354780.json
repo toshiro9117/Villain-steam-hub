@@ -4,8 +4,8 @@
     "name": "The Scouring Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27514039",
-    "update_time": "2025-02-17 19:04:46",
+    "change_number": "28011564",
+    "update_time": "2025-03-18 18:56:39",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,17 @@
         "3354781": {
             "manifests": {
                 "public": {
-                    "gid": "8899020798826902145",
-                    "size": "585395944",
-                    "download": "558692944"
+                    "gid": "727649441346991936",
+                    "size": "587182847",
+                    "download": "561022624"
                 }
-            },
-            "decryptionkey": "f4a218054a7933e68b0379db3453de71d75d431d41c73e98e1cc122caba944d4"
+            }
         },
         "baselanguages": "english,schinese,russian",
         "branches": {
             "public": {
-                "buildid": "17391754",
-                "timeupdated": "1739790281"
+                "buildid": "17660311",
+                "timeupdated": "1741604113"
             }
         },
         "privatebranches": "1"
