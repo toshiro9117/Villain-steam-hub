@@ -4,8 +4,8 @@
     "name": "Darksiders III",
     "schinese_name": "暗黑血统3",
     "isfreeapp": "0",
-    "change_number": "27413961",
-    "update_time": "2025-02-11 13:17:32",
+    "change_number": "27918789",
+    "update_time": "2025-03-13 04:02:12",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,arabic,brazilian",
         "228986": {
@@ -35,7 +35,7 @@
                     "download": "21678198240"
                 }
             },
-            "decryptionkey": "1006fea4a0c69e799b0e76c8ac156521a2e813579a945a71ff8810b9880d3d0b"
+            "decryptionkey": ""
         },
         "889900": {
             "dlcappid": "889900",
@@ -51,7 +51,7 @@
                     "download": "2056598368"
                 }
             },
-            "decryptionkey": "b7145397071d1789e33b19bbb06dd94f643f3a2fb1b2aa62be3925e2c49e2828"
+            "decryptionkey": ""
         },
         "workshopdepot": "606280",
         "branches": {
@@ -65,6 +65,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "8d7796a4ff91e32d76436b2db523e0dab1cec7b91f36effea02d73d37369de7b"
+        "workshopdepotdecryptionkey": ""
     }
 }
