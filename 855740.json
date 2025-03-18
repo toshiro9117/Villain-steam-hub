@@ -4,8 +4,8 @@
     "name": "Bum Simulator",
     "schinese_name": "流浪汉模拟器",
     "isfreeapp": "0",
-    "change_number": "27149723",
-    "update_time": "2025-01-24 21:20:10",
+    "change_number": "27954800",
+    "update_time": "2025-03-14 19:22:54",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "4977383456"
                 }
             },
-            "decryptionkey": "c222ca48e9d91a8eb57730fe857aea866bc41a79efa320b2130b903b9c22d45d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
