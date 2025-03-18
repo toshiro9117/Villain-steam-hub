@@ -1,0 +1,32 @@
+{
+    "appid": "1476360",
+    "type": "Game",
+    "name": "挂机一条街",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28012467",
+    "update_time": "2025-03-18 19:56:30",
+    "depot": {
+        "baselanguages": "schinese",
+        "1476361": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4059557267931276023",
+                    "size": "1578543697",
+                    "download": "409681024"
+                }
+            },
+            "decryptionkey": "fd00f5c63622d0db5c0abaa26568650b701b81bfe759af9dd3c4eddd779e99f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17740785",
+                "timeupdated": "1742097510"
+            }
+        }
+    }
+}
