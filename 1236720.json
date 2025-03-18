@@ -4,8 +4,8 @@
     "name": "Spirit Island",
     "schinese_name": "精灵岛",
     "isfreeapp": "0",
-    "change_number": "27350599",
-    "update_time": "2025-02-07 02:22:07",
+    "change_number": "28007197",
+    "update_time": "2025-03-18 13:24:30",
     "depot": {
         "1236721": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7216967332425332924",
-                    "size": "675324292",
-                    "download": "588783568"
+                    "gid": "1071572655984031488",
+                    "size": "702714148",
+                    "download": "612471792"
                 }
             },
             "decryptionkey": "e73e6f677962152de16c2dafad17cc4d399a3a160a97935b7cd013b9175c6884"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2043606386987987638",
-                    "size": "701087243",
-                    "download": "597130240"
+                    "gid": "5486016091188662791",
+                    "size": "728459522",
+                    "download": "620819616"
                 }
             },
             "decryptionkey": ""
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8395555969906899902",
-                    "size": "720079502",
-                    "download": "589740912"
+                    "gid": "1919513511742619430",
+                    "size": "747502744",
+                    "download": "613421616"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17084245",
-                "timeupdated": "1737581448"
+                "buildid": "17704409",
+                "timeupdated": "1741885703"
             }
         },
         "privatebranches": "1"
