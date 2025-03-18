@@ -4,8 +4,8 @@
     "name": "Kapellmeister",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27324635",
-    "update_time": "2025-02-05 19:51:14",
+    "change_number": "27789772",
+    "update_time": "2025-03-05 15:21:42",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "1230871392"
                 }
             },
-            "decryptionkey": "b827e06509a32a12638a75a9f68c9dd422dd5c796d3dc1d5cabc1974c78255cd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
