@@ -4,8 +4,8 @@
     "name": "Starbase",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27534899",
-    "update_time": "2025-02-18 21:22:38",
+    "change_number": "27996277",
+    "update_time": "2025-03-17 22:52:35",
     "depot": {
         "228990": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "24213937600"
                 }
             },
-            "decryptionkey": "b02cfdfdf74398f9c880cc72d63e6d5c95d65f812eeb016e822a3b915d38200e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
