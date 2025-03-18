@@ -4,8 +4,8 @@
     "name": "The First Berserker: Khazan Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27285308",
-    "update_time": "2025-02-03 15:53:19",
+    "change_number": "27966786",
+    "update_time": "2025-03-15 07:23:48",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "32362436410",
                     "download": "13469136000"
                 }
-            },
-            "decryptionkey": "4d103072af215b3899eefc8c55fcce6a0a4903f96a2ebe0ece9e8d09f91c2eb3"
+            }
         },
         "branches": {
             "public": {
