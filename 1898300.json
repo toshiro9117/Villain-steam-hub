@@ -4,8 +4,8 @@
     "name": "ASKA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27724652",
-    "update_time": "2025-03-01 03:52:07",
+    "change_number": "27963315",
+    "update_time": "2025-03-15 03:00:42",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,romanian,brazilian,ukrainian",
         "1898301": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4505608416178432384",
-                    "size": "6330750957",
-                    "download": "3255250336"
+                    "gid": "7045270482965158962",
+                    "size": "6278905021",
+                    "download": "3314099840"
                 }
             },
             "decryptionkey": "32c13d15c0ef56699f2d009163b995a3a06463310ea381191d1d19e332af2f6c"
@@ -26,12 +26,19 @@
                 "oslist": "windows,linux",
                 "steamdeck": "1"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1495884544669813634",
+                    "size": "6279306709",
+                    "download": "3310919232"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17340695",
-                "timeupdated": "1739384904"
+                "buildid": "17730054",
+                "timeupdated": "1741978834"
             }
         },
         "privatebranches": "1"
