@@ -4,8 +4,8 @@
     "name": "Deceit 2",
     "schinese_name": "黑暗逃生2",
     "isfreeapp": "1",
-    "change_number": "27722354",
-    "update_time": "2025-03-01 01:30:45",
+    "change_number": "28012291",
+    "update_time": "2025-03-18 19:43:45",
     "depot": {
         "228989": {
             "config": {
@@ -24,28 +24,27 @@
         "2064871": {
             "manifests": {
                 "public": {
-                    "gid": "1938023502569397749",
-                    "size": "21508070798",
-                    "download": "17968332432"
+                    "gid": "7518170521442742635",
+                    "size": "22942629093",
+                    "download": "19188275600"
                 },
                 "external-public": {
-                    "gid": "1844684226435762494",
-                    "size": "21702086055",
-                    "download": "18016961760"
+                    "gid": "7518170521442742635",
+                    "size": "22942629093",
+                    "download": "19188275600"
                 }
-            },
-            "decryptionkey": "b0f8bc90f762c42a1f9272a155af3c7fd5ec0c0d2b08572bda4353fd8450c827"
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "17458909",
-                "timeupdated": "1740171697"
+                "buildid": "17643079",
+                "timeupdated": "1741436219"
             },
             "external-public": {
-                "buildid": "17105030",
+                "buildid": "17643079",
                 "description": "External public",
-                "timeupdated": "1739195562"
+                "timeupdated": "1741792081"
             }
         },
         "privatebranches": "1"
