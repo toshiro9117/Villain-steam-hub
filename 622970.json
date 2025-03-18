@@ -4,8 +4,8 @@
     "name": "Pavlov VR Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541261",
-    "update_time": "2025-02-19 03:46:32",
+    "change_number": "27945001",
+    "update_time": "2025-03-14 07:22:03",
     "depot": {
         "1004": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3616169932537484192",
-                    "size": "8579853092",
-                    "download": "1779723392"
+                    "gid": "4471217575148230891",
+                    "size": "8708181025",
+                    "download": "1829282528"
                 },
                 "beta_server": {
                     "gid": "2574992561859345758",
@@ -71,9 +71,9 @@
                     "download": "769319520"
                 },
                 "shack": {
-                    "gid": "2199085877868594893",
-                    "size": "3285257322",
-                    "download": "864720912"
+                    "gid": "641529823629300712",
+                    "size": "3401582166",
+                    "download": "907737504"
                 },
                 "shack_beta": {
                     "gid": "510778677660452160",
@@ -86,8 +86,8 @@
         "workshopdepot": "622970",
         "branches": {
             "public": {
-                "buildid": "16661289",
-                "timeupdated": "1733524799"
+                "buildid": "17506499",
+                "timeupdated": "1740526630"
             },
             "beta_server": {
                 "buildid": "11886699",
@@ -99,8 +99,8 @@
                 "timeupdated": "1686261512"
             },
             "shack": {
-                "buildid": "16650859",
-                "timeupdated": "1733449237"
+                "buildid": "17506900",
+                "timeupdated": "1740526855"
             },
             "shack_beta": {
                 "buildid": "12137074",
