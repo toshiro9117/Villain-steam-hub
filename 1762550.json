@@ -4,8 +4,8 @@
     "name": "PixelOver",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27406000",
-    "update_time": "2025-02-11 02:07:38",
+    "change_number": "27821252",
+    "update_time": "2025-03-07 02:59:16",
     "depot": {
         "1762552": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "32399264"
                 },
                 "pre-release": {
-                    "gid": "2958023249001155400",
-                    "size": "122729975",
-                    "download": "48255488"
+                    "gid": "8530652449633838439",
+                    "size": "124249379",
+                    "download": "48558048"
                 }
             },
             "decryptionkey": "f6f224340f980d87f3e055310adcbbc359e20547df68167480f17acf759cc929"
@@ -36,9 +36,9 @@
                     "download": "36291616"
                 },
                 "pre-release": {
-                    "gid": "739206443105854800",
-                    "size": "136746247",
-                    "download": "52263424"
+                    "gid": "229728104058702629",
+                    "size": "139447635",
+                    "download": "52861984"
                 }
             },
             "decryptionkey": ""
@@ -54,9 +54,9 @@
                     "download": "34194800"
                 },
                 "pre-release": {
-                    "gid": "3917016997942954432",
-                    "size": "233850331",
-                    "download": "68160992"
+                    "gid": "5309064159607115264",
+                    "size": "240543751",
+                    "download": "69435232"
                 }
             },
             "decryptionkey": ""
@@ -122,9 +122,9 @@
                 "timeupdated": "1732739978"
             },
             "pre-release": {
-                "buildid": "17310611",
+                "buildid": "17624474",
                 "description": "Unstable version",
-                "timeupdated": "1739210854"
+                "timeupdated": "1741287551"
             }
         }
     }
