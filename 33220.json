@@ -4,8 +4,8 @@
     "name": "Tom Clancy's Splinter Cell: Conviction",
     "schinese_name": "细胞分裂：断罪 豪华版",
     "isfreeapp": "0",
-    "change_number": "26663098",
-    "update_time": "2024-12-16 23:41:28",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:00:56",
     "depot": {
         "overridescddb": "1",
         "33241": {
@@ -319,9 +319,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
