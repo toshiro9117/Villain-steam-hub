@@ -4,8 +4,8 @@
     "name": "汉武大帝传",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27495077",
-    "update_time": "2025-02-15 23:13:00",
+    "change_number": "28003339",
+    "update_time": "2025-03-18 07:05:10",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -47,9 +47,9 @@
         "1311701": {
             "manifests": {
                 "public": {
-                    "gid": "5026545888716076236",
-                    "size": "266844535",
-                    "download": "200198976"
+                    "gid": "6319245239324030673",
+                    "size": "267620454",
+                    "download": "200902704"
                 }
             },
             "decryptionkey": "26e1b002b8fa347b38c1e63240641b748d755290a8208c14a9b4cc012dd275bc"
@@ -58,9 +58,9 @@
             "dlcappid": "1414540",
             "manifests": {
                 "public": {
-                    "gid": "1473077152859389354",
-                    "size": "330155690",
-                    "download": "259906208"
+                    "gid": "6278352142910283234",
+                    "size": "330929937",
+                    "download": "260611584"
                 }
             },
             "decryptionkey": "e5e127e2a851a0be5184502cbc6c8193ef1aa37f9de8e60ce895da07c6b15dc4"
@@ -175,10 +175,32 @@
             },
             "decryptionkey": ""
         },
+        "3594630": {
+            "dlcappid": "3594630",
+            "manifests": {
+                "public": {
+                    "gid": "4242407779223261489",
+                    "size": "934381",
+                    "download": "946592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3594640": {
+            "dlcappid": "3594640",
+            "manifests": {
+                "public": {
+                    "gid": "5683441413387033505",
+                    "size": "934381",
+                    "download": "946592"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "15256160",
-                "timeupdated": "1722781536"
+                "buildid": "17758103",
+                "timeupdated": "1742252700"
             }
         },
         "privatebranches": "1"
