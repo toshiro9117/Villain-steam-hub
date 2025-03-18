@@ -4,8 +4,8 @@
     "name": "Acts of Blood Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27474702",
-    "update_time": "2025-02-14 15:41:55",
+    "change_number": "28008213",
+    "update_time": "2025-03-18 15:08:41",
     "depot": {
         "228989": {
             "config": {
@@ -28,18 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6139276614809402103",
-                    "size": "3259882941",
-                    "download": "2870590304"
+                    "gid": "1643521470984305223",
+                    "size": "3266192063",
+                    "download": "2874795792"
                 }
-            },
-            "decryptionkey": "cb8a83fb811482e2f22587127a28ad0ae92032aff274e645513d87ae8336debe"
+            }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17442522",
-                "timeupdated": "1740070110"
+                "buildid": "17761728",
+                "timeupdated": "1742281708"
             }
         },
         "privatebranches": "1"
