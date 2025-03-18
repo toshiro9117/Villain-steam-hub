@@ -4,8 +4,8 @@
     "name": "Heroes of Hammerwatch II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729631",
-    "update_time": "2025-03-01 12:07:13",
+    "change_number": "28005439",
+    "update_time": "2025-03-18 10:13:13",
     "depot": {
         "228989": {
             "config": {
@@ -17,22 +17,22 @@
         "619821": {
             "manifests": {
                 "public": {
-                    "gid": "4429481424186131532",
-                    "size": "252514813",
-                    "download": "215734208"
+                    "gid": "5140357330378218247",
+                    "size": "252602454",
+                    "download": "215779056"
                 },
                 "net_testing": {
-                    "gid": "4429481424186131532",
-                    "size": "252514813",
-                    "download": "215734208"
+                    "gid": "5140357330378218247",
+                    "size": "252602454",
+                    "download": "215779056"
                 },
                 "public_testing": {
-                    "gid": "4429481424186131532",
-                    "size": "252514813",
-                    "download": "215734208"
+                    "gid": "5140357330378218247",
+                    "size": "252602454",
+                    "download": "215779056"
                 }
             },
-            "decryptionkey": "3266293cec2a56c2754e577f3f533ba7e681e97da2db3fa591f092a028da1872"
+            "decryptionkey": ""
         },
         "619822": {
             "config": {
@@ -41,41 +41,41 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "625826277519153534",
-                    "size": "39761128",
-                    "download": "13262256"
+                    "gid": "4481988416104388773",
+                    "size": "39765736",
+                    "download": "13260576"
                 },
                 "net_testing": {
-                    "gid": "625826277519153534",
-                    "size": "39761128",
-                    "download": "13262256"
+                    "gid": "4481988416104388773",
+                    "size": "39765736",
+                    "download": "13260576"
                 },
                 "public_testing": {
-                    "gid": "625826277519153534",
-                    "size": "39761128",
-                    "download": "13262256"
+                    "gid": "4481988416104388773",
+                    "size": "39765736",
+                    "download": "13260576"
                 }
             },
-            "decryptionkey": "ee2be5a06add482c4b080f444406417e33dd3a711c9685e84bc6c387dbc02e25"
+            "decryptionkey": ""
         },
         "workshopdepot": "619820",
         "branches": {
             "public": {
-                "buildid": "17414688",
-                "timeupdated": "1739926486"
+                "buildid": "17567106",
+                "timeupdated": "1740963750"
             },
             "net_testing": {
-                "buildid": "17414688",
+                "buildid": "17567106",
                 "description": "Public testing of network errors",
-                "timeupdated": "1739926544"
+                "timeupdated": "1740963846"
             },
             "public_testing": {
-                "buildid": "17414688",
+                "buildid": "17567106",
                 "description": "Testing for future patch",
-                "timeupdated": "1739926555"
+                "timeupdated": "1740963859"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ca8d880b5a91567f31e69f77d6dcf6b28bfe87f755e07b54bdbaa301937e972a"
+        "workshopdepotdecryptionkey": ""
     }
 }
