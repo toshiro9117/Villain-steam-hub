@@ -4,25 +4,25 @@
     "name": "Cabernet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731272",
-    "update_time": "2025-03-01 16:46:15",
+    "change_number": "27945893",
+    "update_time": "2025-03-14 08:28:23",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
         "2401411": {
             "manifests": {
                 "public": {
-                    "gid": "536527905886469029",
-                    "size": "5884864386",
-                    "download": "2887145664"
+                    "gid": "6687376082939573721",
+                    "size": "5465893713",
+                    "download": "2885667440"
                 }
             },
             "decryptionkey": "ba64b17b262dc35843778325fd5addd6428044e2f4da4f1c5e7e72274b2ea150"
         },
         "branches": {
             "public": {
-                "buildid": "17505893",
-                "timeupdated": "1740523793"
+                "buildid": "17700632",
+                "timeupdated": "1741822347"
             }
         },
         "privatebranches": "1"
