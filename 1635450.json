@@ -4,8 +4,8 @@
     "name": "Longvinter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27713118",
-    "update_time": "2025-02-28 16:44:40",
+    "change_number": "28013189",
+    "update_time": "2025-03-18 20:45:53",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7365195064672255402",
-                    "size": "7775721747",
-                    "download": "1473487776"
+                    "gid": "6153876977708445135",
+                    "size": "7793671307",
+                    "download": "1476061280"
                 },
                 "1.10b": {
                     "gid": "3739550028934972874",
@@ -65,12 +65,12 @@
                     "download": "1288400720"
                 },
                 "experimental-public": {
-                    "gid": "7410968070261001709",
-                    "size": "7773509899",
-                    "download": "1472998448"
+                    "gid": "1939454436465335874",
+                    "size": "7778890191",
+                    "download": "1474025328"
                 }
             },
-            "decryptionkey": "c2ee929e91b9cd2a8c5fbeacc241aa350dd3d69ef9b816e088ca7f13d8a1bb7c"
+            "decryptionkey": ""
         },
         "1635452": {
             "config": {
@@ -80,9 +80,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3685476164474414242",
-                    "size": "969387121",
-                    "download": "272595200"
+                    "gid": "8333057392484900500",
+                    "size": "1756262551",
+                    "download": "421059840"
                 },
                 "1.10b": {
                     "gid": "8615346765062420916",
@@ -110,18 +110,18 @@
                     "download": "265496544"
                 },
                 "experimental-public": {
-                    "gid": "3421730605472742333",
-                    "size": "967996017",
-                    "download": "272298816"
+                    "gid": "6282848333066713413",
+                    "size": "973279533",
+                    "download": "273291968"
                 }
             },
-            "decryptionkey": "e8ba636ef56364d7b8ac0a117aaf34b9218b34c51597690c910afeb6f34f3f47"
+            "decryptionkey": ""
         },
         "workshopdepot": "1635450",
         "branches": {
             "public": {
-                "buildid": "17543600",
-                "timeupdated": "1740731697"
+                "buildid": "17765560",
+                "timeupdated": "1742301946"
             },
             "1.10b": {
                 "buildid": "11347715",
@@ -149,12 +149,12 @@
                 "timeupdated": "1740125863"
             },
             "experimental-public": {
-                "buildid": "17441128",
+                "buildid": "17604978",
                 "description": "public testing",
-                "timeupdated": "1740137353"
+                "timeupdated": "1741184813"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "480b59a11113f4654a894b3067e67168c7c4544dcdf044a548677543abc914d0"
+        "workshopdepotdecryptionkey": ""
     }
 }
