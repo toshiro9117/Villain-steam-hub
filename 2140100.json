@@ -4,8 +4,8 @@
     "name": "Whisker Squadron: Survivor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497070",
-    "update_time": "2025-02-16 03:48:23",
+    "change_number": "27742018",
+    "update_time": "2025-03-02 21:45:56",
     "depot": {
         "baselanguages": "english",
         "2140101": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2088238297332030490",
-                    "size": "1320021480",
-                    "download": "360165824"
+                    "gid": "3841789479222517921",
+                    "size": "1322825315",
+                    "download": "360306128"
                 },
                 "beta": {
-                    "gid": "2088238297332030490",
-                    "size": "1320021480",
-                    "download": "360165824"
+                    "gid": "3841789479222517921",
+                    "size": "1322825315",
+                    "download": "360306128"
                 },
                 "feb_2024": {
                     "gid": "4891381898088357770",
@@ -39,14 +39,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7372379852445129014",
-                    "size": "1312835940",
-                    "download": "357285760"
+                    "gid": "6419274158336258847",
+                    "size": "1315726216",
+                    "download": "357481456"
                 },
                 "beta": {
-                    "gid": "7372379852445129014",
-                    "size": "1312835940",
-                    "download": "357285760"
+                    "gid": "6419274158336258847",
+                    "size": "1315726216",
+                    "download": "357481456"
                 },
                 "feb_2024": {
                     "gid": "4231752411286362644",
@@ -62,14 +62,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9077517153645059182",
-                    "size": "1424487252",
-                    "download": "372852288"
+                    "gid": "2499445580772388060",
+                    "size": "1427379180",
+                    "download": "373056512"
                 },
                 "beta": {
-                    "gid": "9077517153645059182",
-                    "size": "1424487252",
-                    "download": "372852288"
+                    "gid": "2499445580772388060",
+                    "size": "1427379180",
+                    "download": "373056512"
                 },
                 "feb_2024": {
                     "gid": "5237535478786836125",
@@ -97,13 +97,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17457613",
-                "timeupdated": "1740153791"
+                "buildid": "17488265",
+                "timeupdated": "1740421569"
             },
             "beta": {
-                "buildid": "17282648",
+                "buildid": "17488165",
                 "description": "Early look at new features. Join the Discord for feedback!",
-                "timeupdated": "1738947581"
+                "timeupdated": "1740421079"
             },
             "feb_2024": {
                 "buildid": "13521278",
