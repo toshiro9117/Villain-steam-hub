@@ -4,8 +4,8 @@
     "name": "Timberborn",
     "schinese_name": "海狸浮生记 Timberborn",
     "isfreeapp": "0",
-    "change_number": "27435590",
-    "update_time": "2025-02-12 16:54:50",
+    "change_number": "27985455",
+    "update_time": "2025-03-17 08:21:39",
     "depot": {
         "228988": {
             "config": {
@@ -34,9 +34,9 @@
                     "download": "924975312"
                 },
                 "experimental": {
-                    "gid": "7463038959205576615",
-                    "size": "2034515558",
-                    "download": "964444608"
+                    "gid": "677822986645735818",
+                    "size": "2054320975",
+                    "download": "985132704"
                 },
                 "old-0.0": {
                     "gid": "3617753957323826031",
@@ -69,7 +69,7 @@
                     "download": "1075774512"
                 }
             },
-            "decryptionkey": "e6291a6d488f1366425014f5742483a513e8771437644a531111ffc9e9674be4"
+            "decryptionkey": ""
         },
         "1062092": {
             "config": {
@@ -83,9 +83,9 @@
                     "download": "933509472"
                 },
                 "experimental": {
-                    "gid": "4051665979653573076",
-                    "size": "2053708491",
-                    "download": "973240800"
+                    "gid": "1623546143698885787",
+                    "size": "2063985512",
+                    "download": "990002752"
                 },
                 "old-0.0": {
                     "gid": "2167248415237250361",
@@ -118,7 +118,7 @@
                     "download": "1084351968"
                 }
             },
-            "decryptionkey": "07decf196b134aeb2362a7dcdf1ebce51004f759e44961e838189f59f9943267"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,ukrainian",
         "workshopdepot": "1062090",
@@ -128,9 +128,9 @@
                 "timeupdated": "1738928165"
             },
             "experimental": {
-                "buildid": "17332837",
+                "buildid": "17585298",
                 "description": "Experimental branch",
-                "timeupdated": "1739350484"
+                "timeupdated": "1741076933"
             },
             "old-0.0": {
                 "buildid": "7817926",
@@ -164,6 +164,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ae26e4878b346db42adc3555b618ae1bc88ccd1cca9758d27b4e7c6e41ea64df"
+        "workshopdepotdecryptionkey": ""
     }
 }
