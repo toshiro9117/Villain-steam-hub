@@ -4,8 +4,8 @@
     "name": "Draw & Guess",
     "schinese_name": "Draw & Guess - 你画我猜",
     "isfreeapp": "0",
-    "change_number": "27540385",
-    "update_time": "2025-02-19 02:50:37",
+    "change_number": "27771685",
+    "update_time": "2025-03-04 18:12:37",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
         "1483871": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1358406791642864669",
-                    "size": "696947732",
-                    "download": "467152080"
+                    "gid": "2438359968945846753",
+                    "size": "696949461",
+                    "download": "467176176"
                 }
             },
             "decryptionkey": "3e39df44a18dd1013bc7a6a9fcb645852308303acb9901fca0686753cd371508"
@@ -27,12 +27,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2234132815410325081",
-                    "size": "788881540",
-                    "download": "468984384"
+                    "gid": "1428475024865971207",
+                    "size": "788884470",
+                    "download": "468988560"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6b21827b939f59ad3d9eda1d3059d61b71712e7d456d0d3a97fbb37956ee87c6"
         },
         "1483873": {
             "config": {
@@ -40,18 +40,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4725959835905506499",
-                    "size": "727122766",
-                    "download": "472290432"
+                    "gid": "8432809236460246791",
+                    "size": "727124593",
+                    "download": "472278736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "42b18e61776276b0d3cd1bbb0ddde9c35284f6cdc57a88fd55c8f20cd3d78660"
         },
         "workshopdepot": "1483870",
         "branches": {
             "public": {
-                "buildid": "17411730",
-                "timeupdated": "1739904632"
+                "buildid": "17587084",
+                "timeupdated": "1741083154"
             }
         },
         "privatebranches": "1",
