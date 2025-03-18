@@ -4,8 +4,8 @@
     "name": "Patch Quest",
     "schinese_name": "拼贴冒险传 / Patch Quest",
     "isfreeapp": "0",
-    "change_number": "27069709",
-    "update_time": "2025-01-20 12:08:07",
+    "change_number": "27817692",
+    "update_time": "2025-03-06 23:43:16",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -32,7 +32,7 @@
                     "download": "408618464"
                 }
             },
-            "decryptionkey": "16b30d6e1a5efac95b1bbef8ba62ccb8d5adb88708f3b78d767186bfe526b462"
+            "decryptionkey": ""
         },
         "2333170": {
             "dlcappid": "2333170",
@@ -43,7 +43,7 @@
                     "download": "221013968"
                 }
             },
-            "decryptionkey": "93d21540aa70eeaf25a19ca9acac7f6bde6888732a502b77728039fd042c6571"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
