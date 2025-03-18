@@ -4,8 +4,8 @@
     "name": "Only Up: LIZARDS MUST FALL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728037",
-    "update_time": "2025-03-01 08:45:59",
+    "change_number": "27986753",
+    "update_time": "2025-03-17 10:56:46",
     "depot": {
         "228989": {
             "config": {
@@ -29,12 +29,12 @@
                     "download": "5838172896"
                 }
             },
-            "decryptionkey": "3443a7884ebbf202c83e8c5a96086500513b05c04a502bdb3f1d091cbfeed513"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
                 "buildid": "17039790",
-                "timeupdated": "1737116450"
+                "timeupdated": "1741037311"
             }
         }
     }
