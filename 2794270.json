@@ -4,8 +4,8 @@
     "name": "Evercore Heroes Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523913",
-    "update_time": "2025-02-18 06:12:21",
+    "change_number": "27854565",
+    "update_time": "2025-03-09 07:09:09",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1682536062296151345",
-                    "size": "6157378204",
-                    "download": "4535849920"
+                    "gid": "3652875656876865736",
+                    "size": "6156379293",
+                    "download": "4536308768"
                 }
-            },
-            "decryptionkey": "510bb3c302721ed0803b4d671e5b8a51671b3275f33616368f28e1f53e440a11"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17473994",
-                "timeupdated": "1740321274"
+                "buildid": "17532480",
+                "timeupdated": "1740666614"
             }
         }
     }
