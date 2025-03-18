@@ -4,8 +4,8 @@
     "name": "SCUM",
     "schinese_name": "人渣",
     "isfreeapp": "0",
-    "change_number": "27715110",
-    "update_time": "2025-02-28 18:31:18",
+    "change_number": "28011685",
+    "update_time": "2025-03-18 19:04:55",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam",
         "depotdeltapatches": "1",
@@ -30,12 +30,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2375672516653307792",
-                    "size": "79363326529",
-                    "download": "27872872384"
+                    "gid": "4040251816188458391",
+                    "size": "79456944016",
+                    "download": "27906801088"
                 }
             },
-            "decryptionkey": "a4217026617fd23bbc1b544c3160c7c7e5157bc3cfcd825b8dbd1c6d0513c3b4"
+            "decryptionkey": ""
         },
         "919680": {
             "config": {
@@ -50,7 +50,7 @@
                     "download": "25373104"
                 }
             },
-            "decryptionkey": "903d006bb149ccbe1ab4f9dbbad34150079380811c9c78b3cfa5c1505ad889ae"
+            "decryptionkey": ""
         },
         "1643210": {
             "dlcappid": "1643210",
@@ -65,13 +65,13 @@
                     "download": "94680896"
                 }
             },
-            "decryptionkey": "9e747e8f5cf60151ff0c48ce9eb2bb1977b88052fbb610f1a0ae88d28d001194"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17170226",
-                "timeupdated": "1738242017"
+                "buildid": "17705668",
+                "timeupdated": "1741878056"
             }
         },
         "privatebranches": "1"
