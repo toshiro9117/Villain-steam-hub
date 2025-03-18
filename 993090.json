@@ -4,8 +4,8 @@
     "name": "Lossless Scaling",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27717206",
-    "update_time": "2025-02-28 20:37:55",
+    "change_number": "27978207",
+    "update_time": "2025-03-16 12:21:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,24 @@
         "993091": {
             "manifests": {
                 "public": {
+                    "gid": "9191341654061558981",
+                    "size": "181296520",
+                    "download": "56445712"
+                },
+                "beta": {
+                    "gid": "9191341654061558981",
+                    "size": "181296520",
+                    "download": "56445712"
+                },
+                "legacy_3.0": {
+                    "gid": "3028840966602169698",
+                    "size": "179901839",
+                    "download": "56168560"
+                },
+                "legacy_2.13": {
                     "gid": "5746454646351584498",
                     "size": "6774058",
                     "download": "1972304"
-                },
-                "beta": {
-                    "gid": "3032591445215994467",
-                    "size": "180093994",
-                    "download": "56179200"
                 },
                 "legacy_2.12": {
                     "gid": "1464889532802595216",
@@ -64,18 +74,28 @@
                     "download": "103472"
                 }
             },
-            "decryptionkey": "3a02317ffe8c475c236c603a9fcd31c7cd8e4a109240f4c3d9fa28081bdc02bd"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17002899",
-                "timeupdated": "1736876145"
+                "buildid": "17646233",
+                "timeupdated": "1741436425"
             },
             "beta": {
-                "buildid": "17002893",
+                "buildid": "17646233",
                 "description": "beta",
-                "timeupdated": "1736876077"
+                "timeupdated": "1741432779"
+            },
+            "legacy_3.0": {
+                "buildid": "16976854",
+                "description": "3.0.0.1",
+                "timeupdated": "1741435274"
+            },
+            "legacy_2.13": {
+                "buildid": "17002899",
+                "description": "2.13.2",
+                "timeupdated": "1741435259"
             },
             "legacy_2.12": {
                 "buildid": "16522883",
