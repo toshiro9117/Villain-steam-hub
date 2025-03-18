@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY XVI The Rising Tide",
     "schinese_name": "FINAL FANTASY XVI The Rising Tide《沧海恸哭》",
     "isfreeapp": "0",
-    "change_number": "27517954",
-    "update_time": "2025-02-17 23:15:29",
+    "change_number": "27766384",
+    "update_time": "2025-03-04 11:11:26",
     "depot": {
         "2744060": {
             "config": {
@@ -14,9 +14,9 @@
             "dlcappid": "2744060",
             "manifests": {
                 "public": {
-                    "gid": "409502577277493232",
-                    "size": "15896905463",
-                    "download": "15076706192"
+                    "gid": "8940147577278755183",
+                    "size": "15897371067",
+                    "download": "15077195216"
                 }
             },
             "decryptionkey": "e57aab17d957ce339fc8bfa53c929fdaa17fa91f3355b40c9bd25e8ba1f1ff83"
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16072437",
-                "timeupdated": "1729162341"
+                "buildid": "17372537",
+                "timeupdated": "1741057878"
             }
         },
         "privatebranches": "1"
