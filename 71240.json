@@ -4,8 +4,8 @@
     "name": "SEGA Bass Fishing",
     "schinese_name": "世嘉钓鱼高手",
     "isfreeapp": "0",
-    "change_number": "27132057",
-    "update_time": "2025-01-23 22:25:49",
+    "change_number": "27915965",
+    "update_time": "2025-03-13 01:08:06",
     "depot": {
         "228983": {
             "config": {
@@ -30,7 +30,7 @@
                     "download": "76610718240"
                 }
             },
-            "decryptionkey": "8c1a377e674ff017230bc0eb0c4d972e91c638b00a995c368a17f70d5a33f964"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish",
