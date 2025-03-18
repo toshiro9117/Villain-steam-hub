@@ -4,8 +4,8 @@
     "name": "Section 13",
     "schinese_name": "断电协议",
     "isfreeapp": "0",
-    "change_number": "27356870",
-    "update_time": "2025-02-07 10:32:13",
+    "change_number": "27967694",
+    "update_time": "2025-03-15 08:52:35",
     "depot": {
         "228988": {
             "config": {
@@ -31,17 +31,17 @@
         "2111871": {
             "manifests": {
                 "public": {
-                    "gid": "2934901994565614188",
-                    "size": "3530849099",
-                    "download": "3009881344"
+                    "gid": "5437056239633787692",
+                    "size": "5888251171",
+                    "download": "5496485808"
                 }
             },
-            "decryptionkey": "d34401529ac856c033c5910de719c8b7cf01c5aa2d54f5c5ea943d6c744f31d5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16708556",
-                "timeupdated": "1734401860"
+                "buildid": "17720846",
+                "timeupdated": "1741994826"
             }
         },
         "privatebranches": "1"
