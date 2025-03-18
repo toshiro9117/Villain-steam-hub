@@ -4,8 +4,8 @@
     "name": "Burger Shop 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540623",
-    "update_time": "2025-02-19 03:03:00",
+    "change_number": "28001559",
+    "update_time": "2025-03-18 04:27:47",
     "depot": {
         "2505571": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "70960752"
                 },
                 "beta": {
-                    "gid": "4890139142445207957",
-                    "size": "78104494",
-                    "download": "70960752"
+                    "gid": "5626361202524178451",
+                    "size": "77991899",
+                    "download": "70845888"
                 }
             },
             "decryptionkey": "37130c3d1cef8499046837217b86c1be5fc653ca4a8065c063b9e22f32bd15cc"
@@ -49,9 +49,9 @@
                 "timeupdated": "1739989142"
             },
             "beta": {
-                "buildid": "17426639",
+                "buildid": "17756181",
                 "description": "Early Early Access (for testing new Early Access builds)",
-                "timeupdated": "1739989110"
+                "timeupdated": "1742243259"
             }
         },
         "privatebranches": "1"
