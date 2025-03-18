@@ -4,8 +4,8 @@
     "name": "Trine 5: A Clockwork Conspiracy",
     "schinese_name": "三位一体5: 发条阴谋",
     "isfreeapp": "0",
-    "change_number": "27718741",
-    "update_time": "2025-02-28 22:13:41",
+    "change_number": "27995671",
+    "update_time": "2025-03-17 22:32:17",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "16149603024"
                 }
             },
-            "decryptionkey": "bf5544a80247bd7318697c3a40ec6f81af90fd50855922b5fc7ebfc8bd320044"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
