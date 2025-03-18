@@ -4,8 +4,8 @@
     "name": "Nightingale",
     "schinese_name": "夜莺传说",
     "isfreeapp": "0",
-    "change_number": "27483813",
-    "update_time": "2025-02-15 01:13:29",
+    "change_number": "27959956",
+    "update_time": "2025-03-14 23:52:35",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -25,9 +25,9 @@
         "1928981": {
             "manifests": {
                 "public": {
-                    "gid": "7198053895516081394",
-                    "size": "55244634002",
-                    "download": "54102173488"
+                    "gid": "3730637838450396969",
+                    "size": "58464952714",
+                    "download": "57311866240"
                 },
                 "nightingale-0.3.2": {
                     "gid": "2657529975709839503",
@@ -35,17 +35,17 @@
                     "download": "52323012096"
                 },
                 "public-test-realm": {
-                    "gid": "1640601053742529652",
-                    "size": "55245728052",
-                    "download": "54102789200"
+                    "gid": "5021493842118486017",
+                    "size": "58457897609",
+                    "download": "57304503536"
                 }
             },
-            "decryptionkey": "9e9e27b584625ef587f734aed79c2eb91a692a977394c7b37b2198d5fb40122c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17431054",
-                "timeupdated": "1740086850"
+                "buildid": "17721186",
+                "timeupdated": "1741967549"
             },
             "nightingale-0.3.2": {
                 "buildid": "14837574",
@@ -53,9 +53,9 @@
                 "timeupdated": "1724963313"
             },
             "public-test-realm": {
-                "buildid": "17369904",
+                "buildid": "17642886",
                 "description": "Test branch for upcoming releases",
-                "timeupdated": "1739553176"
+                "timeupdated": "1741395328"
             }
         },
         "privatebranches": "1"
