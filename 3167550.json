@@ -4,8 +4,8 @@
     "name": "Tiny Pasture",
     "schinese_name": "动物栏：桌面牧场",
     "isfreeapp": "0",
-    "change_number": "27730589",
-    "update_time": "2025-03-01 14:46:06",
+    "change_number": "28007380",
+    "update_time": "2025-03-18 13:47:28",
     "depot": {
         "3167552": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7131069045840553587",
-                    "size": "208203315",
-                    "download": "81613152"
+                    "gid": "1914898953504760309",
+                    "size": "208471907",
+                    "download": "81815808"
                 }
             },
             "decryptionkey": ""
@@ -26,17 +26,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4815056573661765985",
-                    "size": "136263000",
-                    "download": "65771632"
+                    "gid": "1525326518637620030",
+                    "size": "136963096",
+                    "download": "65874896"
                 }
             },
             "decryptionkey": "2eb36141e330220bd89c47de8cca1c780182686771b6f5e9251eeef811774d14"
         },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17544245",
-                "timeupdated": "1740734799"
+                "buildid": "17571896",
+                "timeupdated": "1741089732"
             }
         },
         "privatebranches": "1"
