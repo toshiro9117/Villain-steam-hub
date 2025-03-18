@@ -4,8 +4,8 @@
     "name": "Dummynation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27723157",
-    "update_time": "2025-03-01 02:14:00",
+    "change_number": "27901240",
+    "update_time": "2025-03-12 08:18:04",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,dutch,norwegian,swedish,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "workshopdepot": "1892030",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6224727753525729895",
-                    "size": "132991633",
-                    "download": "105657792"
+                    "gid": "5386513774171467241",
+                    "size": "133097055",
+                    "download": "105705856"
                 },
                 "prev-1": {
                     "gid": "5369823635912701704",
@@ -65,9 +65,9 @@
                     "download": "185559920"
                 },
                 "beta": {
-                    "gid": "6224727753525729895",
-                    "size": "132991633",
-                    "download": "105657792"
+                    "gid": "5386513774171467241",
+                    "size": "133097055",
+                    "download": "105705856"
                 },
                 "prev-10": {
                     "gid": "566254989929782619",
@@ -85,9 +85,9 @@
                     "download": "105440224"
                 },
                 "test": {
-                    "gid": "6224727753525729895",
-                    "size": "132991633",
-                    "download": "105657792"
+                    "gid": "5386513774171467241",
+                    "size": "133097055",
+                    "download": "105705856"
                 }
             },
             "decryptionkey": "f774aa35fdbc213a9300e376b44bc1fd144fdffc72af66355380a7c612dab59c"
@@ -99,9 +99,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4049727989564500463",
-                    "size": "30058229",
-                    "download": "17727008"
+                    "gid": "2447417287389137725",
+                    "size": "30076251",
+                    "download": "17742512"
                 },
                 "prev-1": {
                     "gid": "2784921590874054670",
@@ -149,9 +149,9 @@
                     "download": "16329824"
                 },
                 "beta": {
-                    "gid": "4049727989564500463",
-                    "size": "30058229",
-                    "download": "17727008"
+                    "gid": "2447417287389137725",
+                    "size": "30076251",
+                    "download": "17742512"
                 },
                 "prev-10": {
                     "gid": "8439729746755224263",
@@ -169,9 +169,9 @@
                     "download": "17494096"
                 },
                 "test": {
-                    "gid": "4049727989564500463",
-                    "size": "30058229",
-                    "download": "17727008"
+                    "gid": "2447417287389137725",
+                    "size": "30076251",
+                    "download": "17742512"
                 }
             },
             "decryptionkey": "d46ed4c39aa08f5663b55146ce5dcb320f8180b002526c5a043848aec3d75a74"
@@ -183,9 +183,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2061648317966140517",
-                    "size": "25469520",
-                    "download": "22811936"
+                    "gid": "1416806809502343917",
+                    "size": "25487542",
+                    "download": "22828256"
                 },
                 "prev-1": {
                     "gid": "5033762796572567936",
@@ -233,9 +233,9 @@
                     "download": "21457360"
                 },
                 "beta": {
-                    "gid": "2061648317966140517",
-                    "size": "25469520",
-                    "download": "22811936"
+                    "gid": "1416806809502343917",
+                    "size": "25487542",
+                    "download": "22828256"
                 },
                 "prev-10": {
                     "gid": "5545422255651737663",
@@ -253,9 +253,9 @@
                     "download": "22579216"
                 },
                 "test": {
-                    "gid": "2061648317966140517",
-                    "size": "25469520",
-                    "download": "22811936"
+                    "gid": "1416806809502343917",
+                    "size": "25487542",
+                    "download": "22828256"
                 }
             },
             "decryptionkey": ""
@@ -434,9 +434,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6245543432191508301",
-                    "size": "321031888",
-                    "download": "166730016"
+                    "gid": "2254798112542119415",
+                    "size": "321155450",
+                    "download": "166791600"
                 },
                 "prev-1": {
                     "gid": "7467480248197081126",
@@ -464,9 +464,9 @@
                     "download": "54860816"
                 },
                 "beta": {
-                    "gid": "6245543432191508301",
-                    "size": "321031888",
-                    "download": "166730016"
+                    "gid": "2254798112542119415",
+                    "size": "321155450",
+                    "download": "166791600"
                 },
                 "prev-10": {
                     "gid": "8685571550779857997",
@@ -484,17 +484,17 @@
                     "download": "166269888"
                 },
                 "test": {
-                    "gid": "6245543432191508301",
-                    "size": "321031888",
-                    "download": "166730016"
+                    "gid": "2254798112542119415",
+                    "size": "321155450",
+                    "download": "166791600"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17541780",
-                "timeupdated": "1740766433"
+                "buildid": "17684878",
+                "timeupdated": "1741738678"
             },
             "prev-1": {
                 "buildid": "12074294",
@@ -542,9 +542,9 @@
                 "timeupdated": "1706685718"
             },
             "beta": {
-                "buildid": "17541780",
+                "buildid": "17684878",
                 "description": "Beta",
-                "timeupdated": "1740720627"
+                "timeupdated": "1741738494"
             },
             "prev-10": {
                 "buildid": "13377532",
@@ -562,9 +562,9 @@
                 "timeupdated": "1739422867"
             },
             "test": {
-                "buildid": "17541780",
+                "buildid": "17684878",
                 "description": "Test branch",
-                "timeupdated": "1740720597"
+                "timeupdated": "1741738481"
             }
         },
         "privatebranches": "1",
