@@ -4,8 +4,8 @@
     "name": "EDENGATE: The Edge of Life",
     "schinese_name": "伊甸门：生命边界 / EDENGATE: The Edge of Life",
     "isfreeapp": "0",
-    "change_number": "27465951",
-    "update_time": "2025-02-14 03:12:42",
+    "change_number": "27984087",
+    "update_time": "2025-03-17 04:56:21",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "12630666912"
                 }
             },
-            "decryptionkey": "53b7962b90a24b6e2eda8aa64b04502419eccbd98a19b50219d41e9320f99e6c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
