@@ -4,8 +4,8 @@
     "name": "Trials Rising",
     "schinese_name": "特技摩托：崛起",
     "isfreeapp": "0",
-    "change_number": "27011958",
-    "update_time": "2025-01-16 02:14:24",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:34",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,dutch,arabic,brazilian",
         "641081": {
@@ -36,9 +36,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
