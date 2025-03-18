@@ -4,8 +4,8 @@
     "name": "Universe Sandbox",
     "schinese_name": "宇宙沙盘²",
     "isfreeapp": "0",
-    "change_number": "27730524",
-    "update_time": "2025-03-01 14:33:03",
+    "change_number": "28007761",
+    "update_time": "2025-03-18 14:27:42",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "230290",
@@ -44,16 +44,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8403049013177121841",
-                    "size": "2621855620",
-                    "download": "1383654016"
+                    "gid": "2185685193094643583",
+                    "size": "2868683565",
+                    "download": "1457507072"
                 },
-                "!preview-version": {
-                    "gid": "5953536248704941085",
-                    "size": "2838414242",
-                    "download": "1440773600"
-                },
-                "update-34.1.1-vr": {
+                "update-34.1.1": {
                     "gid": "8403049013177121841",
                     "size": "2621855620",
                     "download": "1383654016"
@@ -149,7 +144,7 @@
                     "download": "235255136"
                 }
             },
-            "decryptionkey": "d4032e706d2ed817e94dbf0ee8e96854deacf119261215d15a4f11b481673e64"
+            "decryptionkey": ""
         },
         "230292": {
             "config": {
@@ -158,16 +153,11 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5440130934594855393",
-                    "size": "2616825617",
-                    "download": "1378410704"
+                    "gid": "2978920959202054268",
+                    "size": "2846814300",
+                    "download": "1446164224"
                 },
-                "!preview-version": {
-                    "gid": "8952351409285800894",
-                    "size": "2832750229",
-                    "download": "1434555328"
-                },
-                "update-34.1.1-vr": {
+                "update-34.1.1": {
                     "gid": "5440130934594855393",
                     "size": "2616825617",
                     "download": "1378410704"
@@ -263,22 +253,17 @@
                     "download": "235655280"
                 }
             },
-            "decryptionkey": "7a549608cadcf13742cccc734cbca6b6080db136ac34e96993fbf0cc8da7db8c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13730482",
-                "timeupdated": "1710365689"
+                "buildid": "17715145",
+                "timeupdated": "1741902100"
             },
-            "!preview-version": {
-                "buildid": "17538742",
-                "description": "Test new features still in active development. May contain bugs or errors.",
-                "timeupdated": "1740705696"
-            },
-            "update-34.1.1-vr": {
+            "update-34.1.1": {
                 "buildid": "13730482",
-                "description": "Update 34.1.1 | VR, Windows 7 SP1+, 8, older versions of Windows 10, & Intel Macs",
-                "timeupdated": "1740006264"
+                "description": "Update 34.1.1 | Old Graphics Engine, Windows 7 SP1+, 8, older versions of Windows 10, Intel Macs, & VR Supported",
+                "timeupdated": "1741635277"
             },
             "*update-24.1.2-directx10": {
                 "buildid": "4581149",
@@ -361,6 +346,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "646f1ae2391838142b4ec9c82016313256b8c31e31b39bf343e1f82002443441"
+        "workshopdepotdecryptionkey": ""
     }
 }
