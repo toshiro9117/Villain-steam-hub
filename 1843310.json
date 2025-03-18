@@ -4,8 +4,8 @@
     "name": "FUNKO FUSION",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730942",
-    "update_time": "2025-03-01 15:48:07",
+    "change_number": "28006267",
+    "update_time": "2025-03-18 11:38:10",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2329520382711099125",
-                    "size": "51021271930",
-                    "download": "48905763888"
+                    "gid": "8394898094359578133",
+                    "size": "51167390677",
+                    "download": "49053261152"
                 }
             },
-            "decryptionkey": "b727ec45805174cdf8fc7ec522fec599a44a5131fe329f2aa39437d7013ec4bb"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17342782",
-                "timeupdated": "1739797352"
+                "buildid": "17551529",
+                "timeupdated": "1741093273"
             }
         },
         "privatebranches": "1"
