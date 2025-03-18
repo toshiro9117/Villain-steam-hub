@@ -4,8 +4,8 @@
     "name": "Squirreled Away Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27530891",
-    "update_time": "2025-02-18 17:14:25",
+    "change_number": "27894694",
+    "update_time": "2025-03-12 00:22:33",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7100768996156289557",
-                    "size": "1191596385",
-                    "download": "1046637472"
+                    "gid": "7677840069095681311",
+                    "size": "1222932841",
+                    "download": "1077809040"
                 }
-            },
-            "decryptionkey": "2bd955dccbe493602075a0d8911294761671bf09438845f4a2d9ea65d0174d6b"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17254387",
-                "timeupdated": "1738772987"
+                "buildid": "17497995",
+                "timeupdated": "1740485243"
             }
         }
     }
