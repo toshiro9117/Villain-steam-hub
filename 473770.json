@@ -4,8 +4,8 @@
     "name": "BallisticNG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27516337",
-    "update_time": "2025-02-17 21:35:04",
+    "change_number": "27838824",
+    "update_time": "2025-03-08 00:13:13",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "473770",
@@ -41,9 +41,9 @@
                     "download": "1516213504"
                 },
                 "development": {
-                    "gid": "3992310198730314180",
-                    "size": "3111903379",
-                    "download": "1706014240"
+                    "gid": "1845432342975110774",
+                    "size": "3117428046",
+                    "download": "1707262624"
                 }
             },
             "decryptionkey": "71af2036c0ca4d22db4835aa09ab4c787c858a885a575eb47aa8a252f49287d0"
@@ -95,9 +95,9 @@
                     "download": "1492082464"
                 },
                 "development": {
-                    "gid": "2428856551080445670",
-                    "size": "3086094076",
-                    "download": "1683733984"
+                    "gid": "2788360653645092297",
+                    "size": "3090459382",
+                    "download": "1681559488"
                 }
             },
             "decryptionkey": ""
@@ -133,9 +133,9 @@
                     "download": "1495905216"
                 },
                 "development": {
-                    "gid": "4312647222967713474",
-                    "size": "3075106222",
-                    "download": "1688831392"
+                    "gid": "7685171713604788544",
+                    "size": "3079471528",
+                    "download": "1687819536"
                 }
             },
             "decryptionkey": ""
@@ -234,9 +234,9 @@
                 "timeupdated": "1701826954"
             },
             "development": {
-                "buildid": "17393683",
+                "buildid": "17501217",
                 "description": "In-development builds of the game.",
-                "timeupdated": "1739799299"
+                "timeupdated": "1740504536"
             }
         },
         "privatebranches": "1",
