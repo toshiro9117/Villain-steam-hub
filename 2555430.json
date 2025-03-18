@@ -4,8 +4,8 @@
     "name": "TRADESMAN: Deal to Dealer",
     "schinese_name": "天涯跑商记：好商人志在四方",
     "isfreeapp": "0",
-    "change_number": "27721498",
-    "update_time": "2025-03-01 00:45:34",
+    "change_number": "27982458",
+    "update_time": "2025-03-17 00:57:18",
     "depot": {
         "228990": {
             "config": {
@@ -20,27 +20,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "295750581791764630",
-                    "size": "106670708",
-                    "download": "63227120"
+                    "gid": "4824634115518366201",
+                    "size": "113410712",
+                    "download": "64007696"
                 },
                 "betaexperimentsru": {
-                    "gid": "4027081832535341955",
-                    "size": "106083744",
-                    "download": "63080096"
+                    "gid": "4180640869057562351",
+                    "size": "107781011",
+                    "download": "63560496"
                 }
             },
-            "decryptionkey": "18aecd28f1a2e9ac4ba577111bd5c963487b23b817f4b2210363f1bd00b08064"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17404317",
-                "timeupdated": "1739868836"
+                "buildid": "17693692",
+                "timeupdated": "1741787689"
             },
             "betaexperimentsru": {
-                "buildid": "17332796",
+                "buildid": "17609074",
                 "description": "(dangerous and not localized)",
-                "timeupdated": "1739347395"
+                "timeupdated": "1741202977"
             }
         }
     }
