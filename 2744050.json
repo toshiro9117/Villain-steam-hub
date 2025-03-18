@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY XVI Echoes of the Fallen",
     "schinese_name": "FINAL FANTASY XVI Echoes of the Fallen《天空余音》",
     "isfreeapp": "0",
-    "change_number": "27487401",
-    "update_time": "2025-02-15 05:30:13",
+    "change_number": "27849337",
+    "update_time": "2025-03-08 17:08:55",
     "depot": {
         "2744050": {
             "config": {
@@ -14,9 +14,9 @@
             "dlcappid": "2744050",
             "manifests": {
                 "public": {
-                    "gid": "742352311588218508",
-                    "size": "11285263101",
-                    "download": "10888242432"
+                    "gid": "4732525787723924801",
+                    "size": "11285282033",
+                    "download": "10888258032"
                 }
             },
             "decryptionkey": "bc72920eacff6d82dae14ecb5d72a42f4ecbba95f5aab7db874e4cea87e8801e"
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16072263",
-                "timeupdated": "1729162307"
+                "buildid": "17372388",
+                "timeupdated": "1741057948"
             }
         },
         "privatebranches": "1"
