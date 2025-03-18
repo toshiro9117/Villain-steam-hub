@@ -4,8 +4,8 @@
     "name": "SCP: Secret Laboratory",
     "schinese_name": "SCP秘密实验室 / SCP: Secret Laboratory",
     "isfreeapp": "1",
-    "change_number": "27527385",
-    "update_time": "2025-02-18 11:47:13",
+    "change_number": "28011501",
+    "update_time": "2025-03-18 18:51:02",
     "depot": {
         "228989": {
             "config": {
@@ -50,8 +50,7 @@
                     "size": "809784354",
                     "download": "351900304"
                 }
-            },
-            "decryptionkey": "3d5c02fae29037cd244fb3cd9fc0c41a75f3a6c62bcb306fb39e79d0d5f6f2bd"
+            }
         },
         "700332": {
             "config": {
