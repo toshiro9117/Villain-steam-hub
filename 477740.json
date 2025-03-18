@@ -4,8 +4,8 @@
     "name": "Zero Escape: The Nonary Games",
     "schinese_name": "极限脱出：九人游戏",
     "isfreeapp": "0",
-    "change_number": "27103127",
-    "update_time": "2025-01-22 08:53:36",
+    "change_number": "27904200",
+    "update_time": "2025-03-12 12:44:07",
     "depot": {
         "baselanguages": "english,japanese",
         "228990": {
@@ -42,7 +42,7 @@
                     "download": "4209622160"
                 }
             },
-            "decryptionkey": "f29858bab667e03a44a8deb846c10caf95f426dde541a66555d9580f3c2338f9"
+            "decryptionkey": ""
         },
         "477742": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "2587920"
                 }
             },
-            "decryptionkey": "668fb4977adf6589261df9f0d1ee9154138efd46664f0a4d3943e0b04be00732"
+            "decryptionkey": ""
         },
         "477743": {
             "config": {
@@ -80,7 +80,7 @@
                     "download": "2588256"
                 }
             },
-            "decryptionkey": "e1e5b71ce861fbf74a603ae86fbf8b63aba653c6b4c513d8aba00db8c38f4f2d"
+            "decryptionkey": ""
         },
         "586870": {
             "manifests": {
@@ -96,7 +96,7 @@
                 }
             },
             "dlcappid": "586870",
-            "decryptionkey": "13fb1fb285ab80b506a78fd5b986f14d1334564779bfaff4dfdde3d38c8911ea"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
