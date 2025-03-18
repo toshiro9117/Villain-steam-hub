@@ -4,8 +4,8 @@
     "name": "PANELKA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730200",
-    "update_time": "2025-03-01 13:36:12",
+    "change_number": "27984540",
+    "update_time": "2025-03-17 05:56:26",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3376761": {
             "manifests": {
                 "public": {
-                    "gid": "835933447632275863",
-                    "size": "2606302767",
-                    "download": "2392271232"
+                    "gid": "1022818628205860896",
+                    "size": "2690191464",
+                    "download": "2475211984"
                 }
             },
             "decryptionkey": "6312e77faa59685d239a3811eff6c2732f6996bf83dd4bc26f9aa057884d3cff"
         },
         "branches": {
             "public": {
-                "buildid": "17556677",
-                "timeupdated": "1740807367"
+                "buildid": "17673029",
+                "timeupdated": "1741676365"
             }
         }
     }
