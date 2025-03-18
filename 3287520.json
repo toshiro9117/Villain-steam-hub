@@ -2,10 +2,10 @@
     "appid": "3287520",
     "type": "Game",
     "name": "NINJA GAIDEN 2 Black",
-    "schinese_name": "",
+    "schinese_name": "忍者龙剑传2：黑之章",
     "isfreeapp": "0",
-    "change_number": "27732098",
-    "update_time": "2025-03-01 18:47:15",
+    "change_number": "27976583",
+    "update_time": "2025-03-16 07:21:14",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "81042521856"
                 }
             },
-            "decryptionkey": "d026ecb27a03a6ca26771e7352214eed11c1b9d1553cc0b47aaf6cb6e7f4f371"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
