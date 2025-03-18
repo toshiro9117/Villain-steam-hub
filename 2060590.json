@@ -4,8 +4,8 @@
     "name": "Wilmot Works It Out",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27434976",
-    "update_time": "2025-02-12 16:16:37",
+    "change_number": "27800193",
+    "update_time": "2025-03-06 02:08:11",
     "depot": {
         "2060591": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8858502443742403050",
-                    "size": "464839137",
-                    "download": "375347744"
+                    "gid": "5069023983875324412",
+                    "size": "496844000",
+                    "download": "389615632"
                 }
             },
             "decryptionkey": "18a0a833e24ee4b4cf0441b97fc2d84f3901ab6db4509c12a6a495a619396acf"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1874725071883857999",
-                    "size": "488912854",
-                    "download": "382658864"
+                    "gid": "1491318271239624265",
+                    "size": "545013028",
+                    "download": "402112224"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16735677",
-                "timeupdated": "1734652663"
+                "buildid": "17325168",
+                "timeupdated": "1741198052"
             }
         },
         "privatebranches": "1"
