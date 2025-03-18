@@ -4,8 +4,8 @@
     "name": "Mortal Shell",
     "schinese_name": "致命躯壳",
     "isfreeapp": "0",
-    "change_number": "26909701",
-    "update_time": "2025-01-08 23:18:07",
+    "change_number": "27997804",
+    "update_time": "2025-03-18 00:20:50",
     "depot": {
         "228988": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "15874881600"
                 }
             },
-            "decryptionkey": "c6a18b263aa9a616ceb8bd5abf647a4c2190ed55748548225a1a44cc4d4c117e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
