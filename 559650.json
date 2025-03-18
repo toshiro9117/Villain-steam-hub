@@ -4,8 +4,8 @@
     "name": "Witch It",
     "schinese_name": "女巫来了",
     "isfreeapp": "0",
-    "change_number": "27477536",
-    "update_time": "2025-02-14 18:49:39",
+    "change_number": "27992712",
+    "update_time": "2025-03-17 19:53:50",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "7210439808"
                 }
             },
-            "decryptionkey": "a7187005733a13b0010375c98d113e6ad44bb945f73e3f9d582dc81f88a520ec"
+            "decryptionkey": ""
         },
         "workshopdepot": "559650",
         "branches": {
@@ -43,6 +43,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "b03393b3fdf852a3dfd1f309e8bc810168e2c426670178bbb307603a642f4c81"
+        "workshopdepotdecryptionkey": ""
     }
 }
