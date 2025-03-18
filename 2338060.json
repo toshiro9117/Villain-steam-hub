@@ -4,8 +4,8 @@
     "name": "Ascendant Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27516535",
-    "update_time": "2025-02-17 21:46:28",
+    "change_number": "27759407",
+    "update_time": "2025-03-04 02:16:37",
     "depot": {
         "228989": {
             "config": {
@@ -27,12 +27,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8406235570613901893",
-                    "size": "47668265217",
-                    "download": "28860653600"
+                    "gid": "2501022937300954179",
+                    "size": "49527562937",
+                    "download": "29910696752"
                 }
             },
-            "decryptionkey": "30456dc1aee9e7208e7bdb81e963412044270110e74bb6f7725031a718f64609"
+            "decryptionkey": ""
         },
         "2338062": {
             "config": {
@@ -41,8 +41,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16492564",
-                "timeupdated": "1732282731"
+                "buildid": "17552767",
+                "timeupdated": "1740782673"
             }
         },
         "privatebranches": "1"
