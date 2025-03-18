@@ -4,8 +4,8 @@
     "name": "Wingspan",
     "schinese_name": "WINGSPAN (展翅翱翔)",
     "isfreeapp": "0",
-    "change_number": "27720148",
-    "update_time": "2025-02-28 23:30:16",
+    "change_number": "28013581",
+    "update_time": "2025-03-18 21:08:40",
     "depot": {
         "228990": {
             "config": {
@@ -26,7 +26,7 @@
                     "download": "1427196528"
                 }
             },
-            "decryptionkey": "347a8b113d88977a6ec7e417992bfd7cfbf382b1d9714b52aa70e230797321b0"
+            "decryptionkey": ""
         },
         "1054492": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "1451737872"
                 }
             },
-            "decryptionkey": "9119cbd5d0bd0c15a1ffd03638a0c9d265e8156f2d30736abd0741a41df186bf"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian",
         "branches": {
