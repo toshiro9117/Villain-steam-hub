@@ -4,8 +4,8 @@
     "name": "BMX Streets",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730088",
-    "update_time": "2025-03-01 13:21:25",
+    "change_number": "27923127",
+    "update_time": "2025-03-13 08:52:26",
     "depot": {
         "228989": {
             "config": {
@@ -49,9 +49,9 @@
                     "download": "4889440816"
                 },
                 "2.0prealpha": {
-                    "gid": "4061853714382757761",
-                    "size": "1783753722",
-                    "download": "260929344"
+                    "gid": "7395714138498052200",
+                    "size": "1808325775",
+                    "download": "268747120"
                 },
                 "developer": {
                     "gid": "2505700546001734324",
@@ -59,9 +59,9 @@
                     "download": "3476864896"
                 },
                 "dont": {
-                    "gid": "4061853714382757761",
-                    "size": "1783753722",
-                    "download": "260929344"
+                    "gid": "7395714138498052200",
+                    "size": "1808325775",
+                    "download": "268747120"
                 },
                 "experimental": {
                     "gid": "2644275486910898954",
@@ -69,7 +69,7 @@
                     "download": "2457617152"
                 }
             },
-            "decryptionkey": "0158c064648ac4e2ebeaaac25704874b8ad9e392f695b2675ada1266720ee67e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -82,9 +82,9 @@
                 "timeupdated": "1712859659"
             },
             "2.0prealpha": {
-                "buildid": "17556662",
+                "buildid": "17701403",
                 "description": "Streets 2.0 Pre-Alpha",
-                "timeupdated": "1740806473"
+                "timeupdated": "1741827134"
             },
             "developer": {
                 "buildid": "15175986",
@@ -92,9 +92,9 @@
                 "timeupdated": "1722144088"
             },
             "dont": {
-                "buildid": "17556662",
+                "buildid": "17701403",
                 "description": "Pre-Pre-Alpha",
-                "timeupdated": "1740806479"
+                "timeupdated": "1741827139"
             },
             "experimental": {
                 "buildid": "14632959",
