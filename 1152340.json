@@ -4,8 +4,8 @@
     "name": "Book of Travels",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27217619",
-    "update_time": "2025-01-29 21:05:55",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:22:03",
     "depot": {
         "hasdepotsindlc": "1",
         "1152341": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8817607653541633107",
-                    "size": "8174908426",
-                    "download": "2048267840"
+                    "gid": "1253749574891476357",
+                    "size": "8174989874",
+                    "download": "2048642336"
                 }
             },
             "decryptionkey": ""
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3794022062328892011",
-                    "size": "8277007511",
-                    "download": "2080524976"
+                    "gid": "8449748105330717694",
+                    "size": "8277092235",
+                    "download": "2080890512"
                 }
             },
             "decryptionkey": ""
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8904181532977071826",
-                    "size": "8221865882",
-                    "download": "2084129904"
+                    "gid": "2257794658778477802",
+                    "size": "8221947330",
+                    "download": "2084517952"
                 }
             },
             "decryptionkey": "7a6aeff4e41bfc67af65cf6073c1c4d0ba3d7d130f628b82a99144fcb27c3454"
@@ -55,17 +55,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2120628461478289648",
-                    "size": "8329872123",
-                    "download": "2090535648"
+                    "gid": "5849703977534165944",
+                    "size": "8329955674",
+                    "download": "2091092112"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15266061",
-                "timeupdated": "1723019046"
+                "buildid": "17586801",
+                "timeupdated": "1741251714"
             }
         },
         "privatebranches": "1"
