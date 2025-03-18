@@ -4,8 +4,8 @@
     "name": "Ranch Simulator",
     "schinese_name": "牧场模拟器",
     "isfreeapp": "0",
-    "change_number": "27717442",
-    "update_time": "2025-02-28 20:53:35",
+    "change_number": "27985450",
+    "update_time": "2025-03-17 08:21:14",
     "depot": {
         "228989": {
             "config": {
@@ -63,7 +63,7 @@
                     "download": "9213828608"
                 }
             },
-            "decryptionkey": "5ba0690900411cc3e2378222e0e437425d26e3b81707810123555cf0c5606a77"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
