@@ -4,8 +4,8 @@
     "name": "Perfect Heist 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27504963",
-    "update_time": "2025-02-17 02:09:06",
+    "change_number": "27940296",
+    "update_time": "2025-03-14 02:23:48",
     "depot": {
         "228988": {
             "config": {
@@ -37,9 +37,9 @@
                     "download": "312851360"
                 },
                 "beta": {
-                    "gid": "5699313543082342056",
-                    "size": "9681354233",
-                    "download": "1564437648"
+                    "gid": "212024182391120460",
+                    "size": "9682078395",
+                    "download": "1563316496"
                 },
                 "debug": {
                     "gid": "3887763586450822472",
@@ -89,9 +89,9 @@
                 "timeupdated": "1629983385"
             },
             "beta": {
-                "buildid": "17468582",
+                "buildid": "17713377",
                 "description": "beta",
-                "timeupdated": "1740247774"
+                "timeupdated": "1741890207"
             },
             "debug": {
                 "buildid": "16646163",
