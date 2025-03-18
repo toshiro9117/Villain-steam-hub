@@ -4,8 +4,8 @@
     "name": "Alien Shooter TD",
     "schinese_name": "孤胆枪手塔防",
     "isfreeapp": "0",
-    "change_number": "25333347",
-    "update_time": "2024-09-22 03:15:12",
+    "change_number": "27838737",
+    "update_time": "2025-03-08 00:07:17",
     "depot": {
         "228986": {
             "config": {
@@ -37,7 +37,7 @@
                     "download": "216476112"
                 }
             },
-            "decryptionkey": "e43c1d3b525340705f07a0fc949231bc9053437e3088805ccdeb992bc260ed63"
+            "decryptionkey": ""
         },
         "541232": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "2179440"
                 }
             },
-            "decryptionkey": "4433e98adfe23f7323de63ab59d89d659d7a70974b2d3473c53baf6d3764b522"
+            "decryptionkey": ""
         },
         "541233": {
             "config": {
@@ -75,7 +75,7 @@
                     "download": "2862960"
                 }
             },
-            "decryptionkey": "fb51caa177b06864c251c7f818ad41ef31020215236e6abedeece80f3ac45f0f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
