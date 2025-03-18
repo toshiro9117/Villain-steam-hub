@@ -4,8 +4,8 @@
     "name": "Border Pioneer",
     "schinese_name": "边境开拓者",
     "isfreeapp": "0",
-    "change_number": "27535801",
-    "update_time": "2025-02-18 22:16:19",
+    "change_number": "27994394",
+    "update_time": "2025-03-17 21:28:29",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "2346410",
@@ -15,9 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6421589946829858609",
-                    "size": "487001870",
-                    "download": "259737552"
+                    "gid": "6151233756242890305",
+                    "size": "488299765",
+                    "download": "260605040"
+                },
+                "linux-unpacked": {
+                    "gid": "5585335695669701217",
+                    "size": "498202093",
+                    "download": "258210352"
                 },
                 "macos-universal-test": {
                     "gid": "8516521781901950876",
@@ -25,14 +30,14 @@
                     "download": "258693104"
                 },
                 "windows7compatibility": {
-                    "gid": "7150112764602800862",
-                    "size": "432376923",
-                    "download": "245891712"
+                    "gid": "1971630184991954489",
+                    "size": "434926301",
+                    "download": "247817648"
                 },
                 "windows11test": {
-                    "gid": "916680574747726139",
-                    "size": "496549676",
-                    "download": "263096528"
+                    "gid": "8080120554156593740",
+                    "size": "497813394",
+                    "download": "263967456"
                 },
                 "macos-arm64": {
                     "gid": "1806980543329621642",
@@ -49,14 +54,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "637425593192252913",
-                    "size": "467968858",
-                    "download": "254547072"
+                    "gid": "8060734636291112740",
+                    "size": "469266298",
+                    "download": "255414048"
+                },
+                "linux-unpacked": {
+                    "gid": "9201468418668892232",
+                    "size": "467987010",
+                    "download": "254549600"
                 },
                 "macos-universal-test": {
-                    "gid": "1135742651887042736",
-                    "size": "659518786",
-                    "download": "309440096"
+                    "gid": "8229113213880425378",
+                    "size": "660816226",
+                    "download": "310307072"
                 },
                 "windows7compatibility": {
                     "gid": "5015957073761543182",
@@ -69,37 +79,42 @@
                     "download": "307374864"
                 },
                 "macos-arm64": {
-                    "gid": "8118178001860933029",
-                    "size": "463649562",
-                    "download": "246571904"
+                    "gid": "6271128615888055062",
+                    "size": "464947002",
+                    "download": "247438880"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17451641",
-                "timeupdated": "1740132143"
+                "buildid": "17696409",
+                "timeupdated": "1741800398"
+            },
+            "linux-unpacked": {
+                "buildid": "17571809",
+                "description": "linux-steamDeck",
+                "timeupdated": "1740992855"
             },
             "macos-universal-test": {
-                "buildid": "17452978",
+                "buildid": "17696543",
                 "description": "MacOS-universal-TEST",
-                "timeupdated": "1740132526"
+                "timeupdated": "1741800215"
             },
             "windows7compatibility": {
-                "buildid": "17453911",
+                "buildid": "17696542",
                 "description": "WIN7旧版本",
-                "timeupdated": "1740136396"
+                "timeupdated": "1741800205"
             },
             "windows11test": {
-                "buildid": "17473031",
+                "buildid": "17696547",
                 "description": "WIN11测试版",
-                "timeupdated": "1740308329"
+                "timeupdated": "1741800227"
             },
             "macos-arm64": {
-                "buildid": "17452989",
+                "buildid": "17696550",
                 "description": "MacOS-arm64",
-                "timeupdated": "1740132551"
+                "timeupdated": "1741800241"
             }
         },
         "privatebranches": "1",
