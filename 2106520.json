@@ -4,8 +4,8 @@
     "name": "私のリアルは充実しすぎている フルボイス版",
     "schinese_name": "我的超级现充生活 全语音版",
     "isfreeapp": "0",
-    "change_number": "26657161",
-    "update_time": "2024-12-16 16:05:23",
+    "change_number": "27864275",
+    "update_time": "2025-03-10 10:46:27",
     "depot": {
         "baselanguages": "schinese,japanese",
         "2106521": {
@@ -47,6 +47,13 @@
                 }
             },
             "decryptionkey": "8d76607c38c78894a8b2c107d2caa42ece76065bd62b0f81f86194f452fef59a"
+        },
+        "2106529": {
+            "config": {
+                "language": "schinese",
+                "oslist": "macos"
+            },
+            "manifests": {}
         },
         "2106524": {
             "config": {
