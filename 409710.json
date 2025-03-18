@@ -4,8 +4,8 @@
     "name": "BioShock Remastered",
     "schinese_name": "生化奇兵 重制版",
     "isfreeapp": "0",
-    "change_number": "27394420",
-    "update_time": "2025-02-10 13:17:23",
+    "change_number": "27733057",
+    "update_time": "2025-03-01 21:22:49",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese",
         "228983": {
@@ -47,7 +47,7 @@
                     "download": "13089972160"
                 }
             },
-            "decryptionkey": "bd65f2941dcca212b3647a1ef093d35794fba9e1874789af52296830e5753e74"
+            "decryptionkey": ""
         },
         "409719": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "75286496"
                 }
             },
-            "decryptionkey": "861974161720d0447dbcaf161218365bb3dade2b264871a9dd9b8a3fb10377e4"
+            "decryptionkey": ""
         },
         "409713": {
             "config": {
@@ -79,7 +79,7 @@
                     "download": "17726350336"
                 }
             },
-            "decryptionkey": "5726f9ecc0a96c7591d3bcadf845fa8dcfcc84a94b22740f7029a46a64297544"
+            "decryptionkey": ""
         },
         "1523211": {
             "config": {
@@ -93,7 +93,7 @@
                 }
             },
             "depotfromapp": "1523210",
-            "decryptionkey": "6111b2e3d21efa5e5b26a91f75ff32d12aa8c5bb547c4d0215eda184a7f4c49b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
