@@ -4,8 +4,8 @@
     "name": "Nuclear Throne",
     "schinese_name": "废土之王",
     "isfreeapp": "0",
-    "change_number": "27355306",
-    "update_time": "2025-02-07 08:24:49",
+    "change_number": "27967537",
+    "update_time": "2025-03-15 08:37:24",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -54,6 +54,11 @@
                     "gid": "2084779942015079966",
                     "size": "202326974",
                     "download": "139865152"
+                },
+                "win7_temp_branch": {
+                    "gid": "4845024124299810862",
+                    "size": "202697615",
+                    "download": "139874320"
                 }
             },
             "decryptionkey": "45ef15e9cac41baef495ec7c6c4d8092b20ef7b914afa66f1b4c3b064088eec6"
@@ -99,6 +104,11 @@
                     "download": "121593088"
                 },
                 "openbeta_win64": {
+                    "gid": "6371559828020193131",
+                    "size": "156692199",
+                    "download": "121593088"
+                },
+                "win7_temp_branch": {
                     "gid": "6371559828020193131",
                     "size": "156692199",
                     "download": "121593088"
@@ -150,6 +160,11 @@
                     "gid": "1972149697962479575",
                     "size": "151554155",
                     "download": "119824032"
+                },
+                "win7_temp_branch": {
+                    "gid": "1972149697962479575",
+                    "size": "151554155",
+                    "download": "119824032"
                 }
             },
             "decryptionkey": ""
@@ -190,6 +205,11 @@
                 "buildid": "17274106",
                 "description": "Open Beta for 2023 Testing (quicker builds, Windows only)",
                 "timeupdated": "1738887885"
+            },
+            "win7_temp_branch": {
+                "buildid": "17733192",
+                "description": "v99r2b18, if you get a MFPlat error on start",
+                "timeupdated": "1741999037"
             }
         },
         "privatebranches": "1"
