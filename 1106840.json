@@ -4,8 +4,8 @@
     "name": "Hydroneer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26920187",
-    "update_time": "2025-01-09 16:08:40",
+    "change_number": "27870105",
+    "update_time": "2025-03-10 19:29:50",
     "depot": {
         "workshopdepot": "1106840",
         "228988": {
@@ -25,9 +25,9 @@
         "1106841": {
             "manifests": {
                 "public": {
-                    "gid": "5734271348429548282",
-                    "size": "13208365528",
-                    "download": "3253867168"
+                    "gid": "3101245554309201351",
+                    "size": "13478683242",
+                    "download": "3321665648"
                 },
                 "early_development_version_0.8": {
                     "gid": "972307823443412518",
@@ -45,23 +45,23 @@
                     "download": "2231905408"
                 }
             },
-            "decryptionkey": "114df5212d170463951d552d5a36142d36654afbb6117152ad0cc34fee155477"
+            "decryptionkey": ""
         },
         "2659380": {
             "dlcappid": "2659380",
             "manifests": {
                 "public": {
-                    "gid": "1870936844434479803",
+                    "gid": "7434043180377171509",
                     "size": "1629678268",
-                    "download": "326513120"
+                    "download": "326507008"
                 }
             },
-            "decryptionkey": "a4dbcd198ebee0417d9d38e429a3089d950b236f5834f4b33c552f8c58df9ed2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14588238",
-                "timeupdated": "1717436644"
+                "buildid": "17592952",
+                "timeupdated": "1741605878"
             },
             "early_development_version_0.8": {
                 "buildid": "5557756",
@@ -79,6 +79,6 @@
                 "timeupdated": "1650911194"
             }
         },
-        "workshopdepotdecryptionkey": "e0dfbcb5b6a7c5b5b9a6da8c2263f5dc1d35d2ea0aeabab7b6965788e2a57e47"
+        "workshopdepotdecryptionkey": ""
     }
 }
