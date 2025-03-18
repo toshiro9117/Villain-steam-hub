@@ -4,8 +4,8 @@
     "name": "BPM: BULLETS PER MINUTE",
     "schinese_name": "BPM: 枪林弹雨",
     "isfreeapp": "0",
-    "change_number": "26989907",
-    "update_time": "2025-01-14 21:08:48",
+    "change_number": "28007162",
+    "update_time": "2025-03-18 13:20:59",
     "depot": {
         "228985": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "6418658928"
                 }
             },
-            "decryptionkey": "2a7a7ad9c894a1677dc5b9841b915ffe4eeadbed7981da220993c6f463b077d4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
