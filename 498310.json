@@ -4,8 +4,8 @@
     "name": "RPG in a Box",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27453650",
-    "update_time": "2025-02-13 14:30:51",
+    "change_number": "27828234",
+    "update_time": "2025-03-07 11:36:19",
     "depot": {
         "498311": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2777790028566896520",
-                    "size": "210597930",
-                    "download": "145167952"
+                    "gid": "2589901911177278882",
+                    "size": "223594196",
+                    "download": "157316032"
                 }
             },
             "decryptionkey": "7a7cef133a9018c2d9044e059fb39c240d4cf4c15fb531ec899168c02ad869b8"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4593462134717070855",
-                    "size": "476461389",
-                    "download": "260809616"
+                    "gid": "4738721852679634531",
+                    "size": "477691883",
+                    "download": "261114672"
                 }
             },
             "decryptionkey": "e3f1c82e8c8760b393df1ab50bf63c91e7bac75e719816d845a491cd3cfa8784"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2812851688708226662",
-                    "size": "63773472",
-                    "download": "19427840"
+                    "gid": "2500014138019489113",
+                    "size": "66092904",
+                    "download": "19951520"
                 }
             },
             "decryptionkey": "3dd7a81f2859a50ae65e192a7d1867d6b23a9914154a3e85600cd5548534812a"
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4319130088728375751",
-                    "size": "97133706",
-                    "download": "25078864"
+                    "gid": "2864747909423339712",
+                    "size": "102522429",
+                    "download": "26331104"
                 }
             },
             "decryptionkey": ""
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4649499117948927458",
-                    "size": "778491415",
-                    "download": "429089488"
+                    "gid": "5849640854552131647",
+                    "size": "796060093",
+                    "download": "442137568"
                 }
             },
             "decryptionkey": ""
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8812203041516288443",
-                    "size": "52794656",
-                    "download": "16799872"
+                    "gid": "3625935886511432344",
+                    "size": "54453096",
+                    "download": "17233264"
                 }
             },
             "decryptionkey": ""
@@ -96,9 +96,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "153709754107887662",
-                    "size": "94429092",
-                    "download": "24614336"
+                    "gid": "2956501494945818371",
+                    "size": "99657391",
+                    "download": "25898768"
                 }
             },
             "decryptionkey": ""
@@ -106,8 +106,8 @@
         "workshopdepot": "498310",
         "branches": {
             "public": {
-                "buildid": "16669253",
-                "timeupdated": "1733611109"
+                "buildid": "17561710",
+                "timeupdated": "1740870393"
             }
         },
         "privatebranches": "1",
