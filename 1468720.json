@@ -4,8 +4,8 @@
     "name": "Ultimate Epic Battle Simulator 2",
     "schinese_name": "史诗战争模拟2",
     "isfreeapp": "0",
-    "change_number": "27730098",
-    "update_time": "2025-03-01 13:23:01",
+    "change_number": "27966780",
+    "update_time": "2025-03-15 07:23:03",
     "depot": {
         "228988": {
             "config": {
@@ -24,21 +24,21 @@
         "1468721": {
             "manifests": {
                 "public": {
-                    "gid": "1386118081131008995",
-                    "size": "41457202112",
-                    "download": "13774794992"
+                    "gid": "4718792453129053613",
+                    "size": "41457501817",
+                    "download": "13774844656"
                 }
             },
-            "decryptionkey": "c0d10ec1395dc0ba8f71593641ac527d1770463e9788a1f0e4a2b27f14dda7f6"
+            "decryptionkey": ""
         },
         "workshopdepot": "1468720",
         "branches": {
             "public": {
-                "buildid": "17551777",
-                "timeupdated": "1740771352"
+                "buildid": "17640858",
+                "timeupdated": "1741381457"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e3d692fff3d469ed527f9f3075cee042c0159185255f3c1635c1bc052872ba03"
+        "workshopdepotdecryptionkey": ""
     }
 }
