@@ -4,44 +4,50 @@
     "name": "Extremely Realistic Siege Warfare Simulator",
     "schinese_name": "超逼真的攻城模拟器",
     "isfreeapp": "0",
-    "change_number": "27727946",
-    "update_time": "2025-03-01 08:36:57",
+    "change_number": "28005255",
+    "update_time": "2025-03-18 09:57:48",
     "depot": {
+        "workshopdepot": "1222210",
         "1222211": {
+            "config": {
+                "realm": "steamglobal"
+            },
             "manifests": {
                 "public": {
                     "gid": "6025472847124028773",
                     "size": "2763643429",
                     "download": "864791840"
                 },
-                "alpha_version": {
-                    "gid": "7315582175822738992",
-                    "size": "2132549880",
-                    "download": "736993040"
-                },
                 "daily_build": {
-                    "gid": "8477549889873548207",
-                    "size": "2133868930",
-                    "download": "741665888"
+                    "gid": "5429626609508979464",
+                    "size": "2110205910",
+                    "download": "750191904"
                 }
             },
             "decryptionkey": "27572203026f59c1b4f19745987f1f1358d36c7da909806d65d0d2b1dcc7b9d5"
         },
-        "workshopdepot": "1222210",
+        "1222212": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "daily_build": {
+                    "gid": "4360514575125029786",
+                    "size": "2110205910",
+                    "download": "750095616"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
                 "buildid": "14621864",
                 "timeupdated": "1717745156"
             },
-            "alpha_version": {
-                "buildid": "17134578",
-                "description": "This branch includes the latest features, but is unstable.",
-                "timeupdated": "1737872095"
-            },
             "daily_build": {
-                "buildid": "17554493",
+                "buildid": "17721445",
                 "description": "New features in testing. This version is compatible with mobile players.",
-                "timeupdated": "1740789410"
+                "timeupdated": "1741938198"
             }
         },
         "privatebranches": "1",
