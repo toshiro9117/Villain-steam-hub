@@ -4,8 +4,8 @@
     "name": "Virtua Fighter 5 R.E.V.O.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27525718",
-    "update_time": "2025-02-18 09:02:56",
+    "change_number": "28006930",
+    "update_time": "2025-03-18 12:56:35",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "228988": {
@@ -25,12 +25,12 @@
         "3112261": {
             "manifests": {
                 "public": {
-                    "gid": "458315324348140584",
-                    "size": "22909195120",
-                    "download": "13025480560"
+                    "gid": "1315765495667658990",
+                    "size": "22935474746",
+                    "download": "13027080880"
                 }
             },
-            "decryptionkey": "e6f1715a5b59614a89b1dd93f5b2f9c4078e5365b885651d49acfbfc4df8ad89"
+            "decryptionkey": ""
         },
         "3353790": {
             "dlcappid": "3353790"
@@ -38,8 +38,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17196362",
-                "timeupdated": "1738634450"
+                "buildid": "17438105",
+                "timeupdated": "1740535235"
             }
         },
         "privatebranches": "1"
