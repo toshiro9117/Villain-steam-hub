@@ -4,8 +4,8 @@
     "name": "Blockbuster Inc.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27375173",
-    "update_time": "2025-02-08 12:26:56",
+    "change_number": "28003833",
+    "update_time": "2025-03-18 07:53:00",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3805807968"
                 }
             },
-            "decryptionkey": "49553c6546a5ec670653a6f705375145360c247e137d8037cb32d36f0f124d63"
+            "decryptionkey": ""
         },
         "workshopdepot": "1793090",
         "branches": {
@@ -39,6 +39,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "022fb73084d63a0d67c2a914913893abb9f84184bb1514fc106b9e5a1348355b"
+        "workshopdepotdecryptionkey": ""
     }
 }
