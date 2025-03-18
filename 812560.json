@@ -4,8 +4,8 @@
     "name": "CROSS†CHANNEL: Steam Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27230690",
-    "update_time": "2025-01-30 15:18:23",
+    "change_number": "27736602",
+    "update_time": "2025-03-02 05:22:59",
     "depot": {
         "228986": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "1357704672"
                 }
             },
-            "decryptionkey": "d5ada08c37a6f887929e0d44d4a32eff3442cecae698230adf80865c1b4ddd71"
+            "decryptionkey": ""
         },
         "812562": {
             "manifests": {
@@ -46,7 +46,7 @@
                     "download": "47818192"
                 }
             },
-            "decryptionkey": "234c6e346719e3d8ca26f7e65db7e71cdf09bfa669a4c0a12fd2c49b66ac8c0f"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
