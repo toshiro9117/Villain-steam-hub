@@ -4,17 +4,17 @@
     "name": "Song Of The Prairie",
     "schinese_name": "牧野之歌",
     "isfreeapp": "0",
-    "change_number": "27528087",
-    "update_time": "2025-02-18 13:08:43",
+    "change_number": "27836196",
+    "update_time": "2025-03-07 21:45:08",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
         "1350841": {
             "manifests": {
                 "public": {
-                    "gid": "4894801384485671472",
-                    "size": "3014713311",
-                    "download": "2543196304"
+                    "gid": "801444817121537226",
+                    "size": "3014434011",
+                    "download": "2542800528"
                 }
             },
             "decryptionkey": "e9d078024c3e02c79b8a6f7548eff51b462cbd1d3dd55d5a7aabf59e46989a7b"
@@ -25,9 +25,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2403408638817557481",
-                    "size": "3014713311",
-                    "download": "2543192336"
+                    "gid": "2360607145598923580",
+                    "size": "3014434011",
+                    "download": "2542800256"
                 }
             },
             "decryptionkey": "0a2c59886252f78fc63bc69e789d52902ab1fc601f558652ab499d44a105aef6"
@@ -111,8 +111,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17402122",
-                "timeupdated": "1739855319"
+                "buildid": "17634658",
+                "timeupdated": "1741355104"
             }
         },
         "privatebranches": "1"
