@@ -4,8 +4,8 @@
     "name": "深空七号 Deep Space 7",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27716106",
-    "update_time": "2025-02-28 19:34:08",
+    "change_number": "27931702",
+    "update_time": "2025-03-13 19:15:44",
     "depot": {
         "228989": {
             "config": {
@@ -31,18 +31,18 @@
         "3037181": {
             "manifests": {
                 "public": {
-                    "gid": "2030487404503131373",
-                    "size": "8033129335",
-                    "download": "7128941920"
+                    "gid": "6131256418595197334",
+                    "size": "8485136582",
+                    "download": "7936520160"
                 }
             },
-            "decryptionkey": "9bf67fe08ee40e301fee63f14a8b0723ff36d0a02ba9bc02bfd29ee270f68b9c"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17545875",
-                "timeupdated": "1740742445"
+                "buildid": "17707853",
+                "timeupdated": "1741864541"
             }
         }
     }
