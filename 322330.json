@@ -4,8 +4,8 @@
     "name": "Don't Starve Together",
     "schinese_name": "饥荒联机版",
     "isfreeapp": "0",
-    "change_number": "27716455",
-    "update_time": "2025-02-28 19:53:15",
+    "change_number": "28011887",
+    "update_time": "2025-03-18 19:16:47",
     "depot": {
         "workshopdepot": "322330",
         "228982": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7869022277470321122",
-                    "size": "4032868029",
-                    "download": "2804064112"
+                    "gid": "4899027852955581609",
+                    "size": "4033680945",
+                    "download": "2804775472"
                 },
                 "beforemacoschanges": {
                     "gid": "5978996668591746072",
@@ -50,7 +50,7 @@
                     "download": "2782797840"
                 }
             },
-            "decryptionkey": "3ee94d4c47554fc580de37cdeb4bb41020ece2d5ab195d51d8b87f5e438e9f23"
+            "decryptionkey": ""
         },
         "322332": {
             "config": {
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3936565974385709915",
-                    "size": "3913235527",
-                    "download": "2690806624"
+                    "gid": "74065966885416665",
+                    "size": "3914049479",
+                    "download": "2691527456"
                 },
                 "beforemacoschanges": {
                     "gid": "8093978131067739771",
@@ -73,7 +73,7 @@
                     "download": "2669543264"
                 }
             },
-            "decryptionkey": "8f36286253d1b2e61f2e7bfec57510d6ec34da84a9d126dc4adf19f6cff117be"
+            "decryptionkey": ""
         },
         "322333": {
             "config": {
@@ -81,9 +81,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4244299435883215158",
-                    "size": "3891791402",
-                    "download": "2685563776"
+                    "gid": "5318592406799809406",
+                    "size": "3892605354",
+                    "download": "2686285488"
                 },
                 "beforemacoschanges": {
                     "gid": "824314026433670095",
@@ -96,13 +96,13 @@
                     "download": "2664303760"
                 }
             },
-            "decryptionkey": "065e9fc3141e45c895786254045560d2af8860c513d0a6077fceaca5fda4c32f"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "17538860",
-                "timeupdated": "1740703170"
+                "buildid": "17612164",
+                "timeupdated": "1741224220"
             },
             "beforemacoschanges": {
                 "buildid": "12576249",
@@ -116,6 +116,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c947e0b06f2977593e083d4a0b02bac9de29ab99d49478d07dabef37265f2bf8"
+        "workshopdepotdecryptionkey": ""
     }
 }
