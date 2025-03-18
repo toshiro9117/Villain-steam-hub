@@ -4,9 +4,23 @@
     "name": "Myst: Masterpiece Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27501179",
-    "update_time": "2025-02-16 16:16:12",
+    "change_number": "27900139",
+    "update_time": "2025-03-12 06:43:17",
     "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "overridescddb": "1",
         "63661": {
             "systemdefined": "1",
@@ -20,7 +34,7 @@
                     "download": "1016813232"
                 }
             },
-            "decryptionkey": "890c562cc0714297319a92b81a0d8541b811b5b8d6387dc49e8ef700701721ac"
+            "decryptionkey": ""
         },
         "63662": {
             "config": {
@@ -33,7 +47,7 @@
                     "download": "968519712"
                 }
             },
-            "decryptionkey": "79085083070bb83d7221035f84c1286be1c4c8c66a56d91c46ff1c4b4fa83475"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
