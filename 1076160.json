@@ -4,8 +4,8 @@
     "name": "Command: Modern Operations",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27719264",
-    "update_time": "2025-02-28 22:44:35",
+    "change_number": "27918430",
+    "update_time": "2025-03-13 03:37:11",
     "depot": {
         "228989": {
             "config": {
@@ -39,9 +39,9 @@
         "1076161": {
             "manifests": {
                 "public": {
-                    "gid": "5884899814379463103",
-                    "size": "28061394553",
-                    "download": "15473497808"
+                    "gid": "6357109347403495907",
+                    "size": "28119147755",
+                    "download": "15481803456"
                 },
                 "32-bitlegacy": {
                     "gid": "2661544588576315632",
@@ -49,14 +49,14 @@
                     "download": "15222103104"
                 }
             },
-            "decryptionkey": "7382251e4b0b939ed609909546aa5b1f2eba470796291b9b7a586fc7be38612d"
+            "decryptionkey": ""
         },
         "1076162": {
             "manifests": {
                 "public": {
-                    "gid": "6326655013750223885",
-                    "size": "191791002",
-                    "download": "191208832"
+                    "gid": "650631900831656841",
+                    "size": "191821636",
+                    "download": "191237792"
                 },
                 "32-bitlegacy": {
                     "gid": "1675218491816951014",
@@ -64,12 +64,12 @@
                     "download": "7261216"
                 }
             },
-            "decryptionkey": "180fe6de8201be6c1ab969105660e0ecd48339b08119cbf85b0dd48096faee67"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17514580",
-                "timeupdated": "1740583753"
+                "buildid": "17622897",
+                "timeupdated": "1741627213"
             },
             "32-bitlegacy": {
                 "buildid": "11782180",
@@ -78,6 +78,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "6776ff97399d0a2139ca691c4d9e166e010135a8daa679b1847c2d76781148b1"
+        "workshopdepotdecryptionkey": ""
     }
 }
