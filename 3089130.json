@@ -4,8 +4,8 @@
     "name": "Retail Company Simulator",
     "schinese_name": "时尚梦想家",
     "isfreeapp": "0",
-    "change_number": "27719289",
-    "update_time": "2025-02-28 22:46:12",
+    "change_number": "27980273",
+    "update_time": "2025-03-16 19:19:40",
     "depot": {
         "228988": {
             "config": {
@@ -31,17 +31,17 @@
         "3089131": {
             "manifests": {
                 "public": {
-                    "gid": "7850407589726351410",
-                    "size": "1481738930",
-                    "download": "1382964976"
+                    "gid": "3629053536226378631",
+                    "size": "3404601619",
+                    "download": "2343481888"
                 }
             },
-            "decryptionkey": "5786ccb1d1879ab3e1ea79533b18f26a2738a511b8085872aef7a6a38e8a19bd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17051521",
-                "timeupdated": "1737223373"
+                "buildid": "17662902",
+                "timeupdated": "1741617124"
             }
         },
         "privatebranches": "1"
