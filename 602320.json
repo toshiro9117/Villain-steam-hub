@@ -4,8 +4,8 @@
     "name": "Train Valley 2",
     "schinese_name": "火车山谷2",
     "isfreeapp": "0",
-    "change_number": "27006854",
-    "update_time": "2025-01-15 20:13:56",
+    "change_number": "27955169",
+    "update_time": "2025-03-14 19:46:05",
     "depot": {
         "workshopdepot": "602320",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5005270053504974372",
-                    "size": "1112270885",
-                    "download": "333312608"
+                    "gid": "5279169133280309778",
+                    "size": "1112582543",
+                    "download": "335121712"
                 },
                 "previous_stable": {
                     "gid": "480807314277614580",
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6029305675939811333",
-                    "size": "1114868912",
-                    "download": "335136912"
+                    "gid": "1166492853505116526",
+                    "size": "1115204133",
+                    "download": "337002672"
                 },
                 "previous_stable": {
                     "gid": "8963566612980937169",
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5816608946232047492",
-                    "size": "1090511900",
-                    "download": "329871744"
+                    "gid": "2946076225719378940",
+                    "size": "1090670562",
+                    "download": "331632368"
                 },
                 "previous_stable": {
                     "gid": "8638701487050715042",
@@ -432,8 +432,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14505910",
-                "timeupdated": "1716991402"
+                "buildid": "17723690",
+                "timeupdated": "1741952761"
             },
             "previous_stable": {
                 "buildid": "5692323",
