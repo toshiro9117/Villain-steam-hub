@@ -4,8 +4,8 @@
     "name": "Transference",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730913",
-    "update_time": "2025-03-01 15:44:50",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:35",
     "depot": {
         "647571": {},
         "647572": {
@@ -20,14 +20,14 @@
                     "download": "6703183712"
                 }
             },
-            "decryptionkey": "ae264ce91bce90f00fac619013f3ba0097ba2b4fbccef725098f0eaf98d6e6c3"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
