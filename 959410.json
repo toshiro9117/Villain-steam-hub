@@ -4,8 +4,8 @@
     "name": "The Endless Empty",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27301910",
-    "update_time": "2025-02-04 14:11:31",
+    "change_number": "27742658",
+    "update_time": "2025-03-02 23:22:30",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,italian,schinese,russian",
@@ -137,22 +137,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8014241489980464824",
-                    "size": "906287053",
-                    "download": "847766992"
+                    "gid": "8009166056998104266",
+                    "size": "906287270",
+                    "download": "847767840"
                 },
                 "spanishtranslation": {
-                    "gid": "3848961153612243031",
-                    "size": "906287295",
-                    "download": "847767200"
+                    "gid": "8009166056998104266",
+                    "size": "906287270",
+                    "download": "847767840"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14459913",
-                "timeupdated": "1716409404"
+                "buildid": "17565715",
+                "timeupdated": "1740928944"
             },
             "chinesetranslation": {
                 "buildid": "9071497",
@@ -170,9 +170,9 @@
                 "timeupdated": "1631803614"
             },
             "spanishtranslation": {
-                "buildid": "16601240",
+                "buildid": "17565715",
                 "description": "spanish translation of The Endless Empty",
-                "timeupdated": "1733146416"
+                "timeupdated": "1740928354"
             }
         }
     }
