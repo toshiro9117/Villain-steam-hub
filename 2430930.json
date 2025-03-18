@@ -4,8 +4,8 @@
     "name": "ARK: Survival Ascended Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726996",
-    "update_time": "2025-03-01 07:04:32",
+    "change_number": "28008895",
+    "update_time": "2025-03-18 16:05:16",
     "depot": {
         "1004": {
             "config": {
@@ -52,9 +52,9 @@
         "2430931": {
             "manifests": {
                 "public": {
-                    "gid": "1723881853994469801",
-                    "size": "32178838304",
-                    "download": "29029787744"
+                    "gid": "847895476228997019",
+                    "size": "32178325554",
+                    "download": "29023411584"
                 },
                 "public_test_realm": {
                     "gid": "3524248560130241701",
@@ -62,12 +62,12 @@
                     "download": "7603026672"
                 }
             },
-            "decryptionkey": "167990c9090224e269e4239efcec5810b0bbd3972ad9310b8d3b2c48cc88221d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17522343",
-                "timeupdated": "1740679357"
+                "buildid": "17716792",
+                "timeupdated": "1741971871"
             },
             "public_test_realm": {
                 "buildid": "13353108",
