@@ -4,8 +4,8 @@
     "name": "Slipgate Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27427466",
-    "update_time": "2025-02-12 04:53:35",
+    "change_number": "27974835",
+    "update_time": "2025-03-16 02:41:46",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -27,8 +27,7 @@
                     "size": "2871085990",
                     "download": "895804528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2640352": {
             "config": {
@@ -41,8 +40,7 @@
                     "size": "2871085990",
                     "download": "895804528"
                 }
-            },
-            "decryptionkey": "db556642f4e4a23d6da93e5c0a859fe15aa38819fff39d97c58bf1a3707a4aca"
+            }
         },
         "branches": {
             "public": {
