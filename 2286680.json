@@ -4,8 +4,8 @@
     "name": "PinBuilder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27491179",
-    "update_time": "2025-02-15 12:46:32",
+    "change_number": "27884553",
+    "update_time": "2025-03-11 13:17:06",
     "depot": {
         "228989": {
             "config": {
@@ -38,19 +38,19 @@
         "2286681": {
             "manifests": {
                 "public": {
-                    "gid": "6834062311980212786",
-                    "size": "1637498426",
-                    "download": "1342061936"
+                    "gid": "8012395466312314002",
+                    "size": "1543775001",
+                    "download": "1375534272"
                 }
             },
-            "decryptionkey": "3bfa7e16bdc1ddc029485347dfab88cf8c2b144aa1b03b20c1761c30646bfdd0"
+            "decryptionkey": ""
         },
         "2286682": {},
         "workshopdepot": "2286680",
         "branches": {
             "public": {
-                "buildid": "14991884",
-                "timeupdated": "1720632203"
+                "buildid": "17672333",
+                "timeupdated": "1741670221"
             }
         },
         "workshopdepotdecryptionkey": ""
