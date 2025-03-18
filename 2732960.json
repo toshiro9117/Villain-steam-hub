@@ -4,8 +4,8 @@
     "name": "Command & Conquer™ Generals Zero Hour",
     "schinese_name": "《命令与征服：将军零点》",
     "isfreeapp": "0",
-    "change_number": "27406992",
-    "update_time": "2025-02-11 03:12:59",
+    "change_number": "27896502",
+    "update_time": "2025-03-12 02:03:17",
     "depot": {
         "228990": {
             "config": {
@@ -18,9 +18,9 @@
         "2732961": {
             "manifests": {
                 "public": {
-                    "gid": "9035675963097143509",
-                    "size": "1859639959",
-                    "download": "993693840"
+                    "gid": "3344439144923484111",
+                    "size": "1870239158",
+                    "download": "995491680"
                 }
             },
             "decryptionkey": "8ebb9b8ffcb8e692942c5e4ba563457b6dc99a50fed551271476b11191abb698"
@@ -145,8 +145,8 @@
         "workshopdepot": "2732960",
         "branches": {
             "public": {
-                "buildid": "13685995",
-                "timeupdated": "1709986187"
+                "buildid": "17435311",
+                "timeupdated": "1740672280"
             }
         },
         "privatebranches": "1",
