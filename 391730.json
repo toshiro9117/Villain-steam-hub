@@ -4,8 +4,8 @@
     "name": "Crashlands",
     "schinese_name": "崩溃大陆",
     "isfreeapp": "0",
-    "change_number": "27139636",
-    "update_time": "2025-01-24 07:23:09",
+    "change_number": "27837556",
+    "update_time": "2025-03-07 23:02:52",
     "depot": {
         "228990": {
             "config": {
@@ -16,7 +16,7 @@
         },
         "391731": {
             "config": {
-                "oslist": "windows"
+                "oslist": "windows,linux"
             },
             "manifests": {
                 "public": {
@@ -30,7 +30,7 @@
                     "download": "93115520"
                 }
             },
-            "decryptionkey": "31db48045139ccd5e4b431c76c2d9831552e9b3877879501bac6b0ea8130551a"
+            "decryptionkey": ""
         },
         "391732": {
             "config": {
@@ -48,25 +48,7 @@
                     "download": "76010288"
                 }
             },
-            "decryptionkey": "42943e1707294ffbb6e5e87b3e3627a37d39edb7b10039a4781119eab9716f96"
-        },
-        "391733": {
-            "config": {
-                "oslist": "linux"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "3651336909143255242",
-                    "size": "181385331",
-                    "download": "137898880"
-                },
-                "beta": {
-                    "gid": "3651336909143255242",
-                    "size": "181385331",
-                    "download": "137898880"
-                }
-            },
-            "decryptionkey": "e52eb7bae24fd420c5fdd24263e55cf1029e74cc18a9fef19b8d62288c5a91a5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
