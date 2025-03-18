@@ -4,8 +4,8 @@
     "name": "VOIN",
     "schinese_name": "雷霆孤影 (VOIN)",
     "isfreeapp": "0",
-    "change_number": "27718318",
-    "update_time": "2025-02-28 21:47:46",
+    "change_number": "27962729",
+    "update_time": "2025-03-15 02:22:30",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2464531": {
             "manifests": {
                 "public": {
-                    "gid": "7439193865751274664",
-                    "size": "1676759589",
-                    "download": "1485762464"
+                    "gid": "3447226272263131231",
+                    "size": "1796845900",
+                    "download": "1604413712"
                 }
             },
-            "decryptionkey": "97e330a8fab2c3c5b986850ae289c9fb852bad4b6a15f04d0695d62cb23a218d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17243849",
-                "timeupdated": "1738709803"
+                "buildid": "17727735",
+                "timeupdated": "1741967454"
             }
         },
         "privatebranches": "1"
