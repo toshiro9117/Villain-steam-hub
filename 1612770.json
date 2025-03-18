@@ -4,8 +4,8 @@
     "name": "Sweet Transit",
     "schinese_name": "铁路先驱",
     "isfreeapp": "0",
-    "change_number": "26040935",
-    "update_time": "2024-11-05 01:10:06",
+    "change_number": "27997423",
+    "update_time": "2025-03-17 23:59:54",
     "depot": {
         "workshopdepot": "1612770",
         "228988": {
@@ -59,7 +59,7 @@
                     "download": "2287458960"
                 }
             },
-            "decryptionkey": "e52667e4be892f84d8f6daff2f0e49027e2c3b961a28c725d450d2ade426810d"
+            "decryptionkey": ""
         },
         "1612772": {
             "config": {
@@ -80,7 +80,7 @@
                     "download": "487518992"
                 }
             },
-            "decryptionkey": "ff834bf9a291298907517e08837ffff5433a8e774035d4af9ad6b8f7da6d026e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -114,6 +114,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "2df07c2d30daf11866a16251150cbf56be2b4a4aa9a73e332ee5c4ef6f0680f9"
+        "workshopdepotdecryptionkey": ""
     }
 }
