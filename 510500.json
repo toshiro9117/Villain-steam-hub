@@ -4,8 +4,8 @@
     "name": "Executive Assault 2",
     "schinese_name": "可执行突击2",
     "isfreeapp": "0",
-    "change_number": "27543584",
-    "update_time": "2025-02-19 06:45:28",
+    "change_number": "27982229",
+    "update_time": "2025-03-17 00:26:41",
     "depot": {
         "baselanguages": "english",
         "510501": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4270181586144777102",
-                    "size": "8223185978",
-                    "download": "2488529040"
+                    "gid": "632076976123059488",
+                    "size": "8225839878",
+                    "download": "2489066112"
                 }
             },
             "decryptionkey": "3aac7a66b99817ad61bcb317cc5e6ff131c0e759194a8c1f9b44e82b303bc0c8"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5734041316569243153",
-                    "size": "8231180213",
-                    "download": "2491777296"
+                    "gid": "5899135493602203211",
+                    "size": "8233785717",
+                    "download": "2492298128"
                 }
             },
             "decryptionkey": ""
@@ -37,8 +37,8 @@
         "workshopdepot": "510500",
         "branches": {
             "public": {
-                "buildid": "15796158",
-                "timeupdated": "1727102723"
+                "buildid": "17358124",
+                "timeupdated": "1741779796"
             }
         },
         "privatebranches": "1",
