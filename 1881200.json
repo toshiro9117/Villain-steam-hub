@@ -4,8 +4,8 @@
     "name": "TRYP FPV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27721780",
-    "update_time": "2025-03-01 00:59:31",
+    "change_number": "28011014",
+    "update_time": "2025-03-18 18:17:13",
     "depot": {
         "228989": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "12782801392"
                 }
             },
-            "decryptionkey": "f0c72e73e6514305f518e6fbdee9ccf74bfe9ad8325ad36eaf5d204c76ebfda7"
+            "decryptionkey": ""
         },
         "1881202": {
             "config": {
@@ -62,7 +62,7 @@
                     "download": "19379053280"
                 }
             },
-            "decryptionkey": "e1f89aa4493b8fb4423cc580b54981e7f78de184b5f9274a4e856c479889754d"
+            "decryptionkey": ""
         },
         "1881203": {
             "config": {
@@ -81,7 +81,7 @@
                     "download": "7330713008"
                 }
             },
-            "decryptionkey": "ba9a331ba045d2c952f8941982c260c7144462375b666d6cf80b7604b7112355"
+            "decryptionkey": ""
         },
         "workshopdepot": "1881200",
         "branches": {
@@ -102,6 +102,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5604928acd37b25aa69d51e601d849afa1d4172149dcfcd5820ff1bc7db4d15a"
+        "workshopdepotdecryptionkey": ""
     }
 }
