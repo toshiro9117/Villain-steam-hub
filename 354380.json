@@ -4,8 +4,8 @@
     "name": "Assassin’s Creed® Chronicles: China",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27103127",
-    "update_time": "2025-01-22 08:52:31",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:17",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,dutch,czech,brazilian",
         "228983": {
@@ -47,14 +47,14 @@
                     "download": "3246159120"
                 }
             },
-            "decryptionkey": "9a2ae13d088e814a231658502dae71461411224685169af364e7c2cd9c816d3b"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
