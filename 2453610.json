@@ -4,20 +4,20 @@
     "name": "Towerful Defense: A Rogue TD",
     "schinese_name": "球球大塔防",
     "isfreeapp": "0",
-    "change_number": "27723302",
-    "update_time": "2025-03-01 02:23:10",
+    "change_number": "27973843",
+    "update_time": "2025-03-16 00:24:19",
     "depot": {
         "2453611": {
             "manifests": {
                 "public": {
-                    "gid": "310962178334225408",
-                    "size": "342371925",
-                    "download": "82965872"
+                    "gid": "2188232851043378219",
+                    "size": "356050624",
+                    "download": "94872416"
                 },
                 "public_beta_no_password": {
-                    "gid": "4328669613618045800",
-                    "size": "356052582",
-                    "download": "94878352"
+                    "gid": "2188232851043378219",
+                    "size": "356050624",
+                    "download": "94872416"
                 }
             },
             "decryptionkey": "1d9ef26f27e93e0c8d38abf685a9c354625f81fc6bcae79d9383b35b2346c7cb"
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7851306770848148482",
-                    "size": "374578227",
-                    "download": "84269184"
+                    "gid": "4208622997881349206",
+                    "size": "388257832",
+                    "download": "96172608"
                 },
                 "public_beta_no_password": {
-                    "gid": "7851306770848148482",
-                    "size": "374578227",
-                    "download": "84269184"
+                    "gid": "4208622997881349206",
+                    "size": "388257832",
+                    "download": "96172608"
                 }
             },
             "decryptionkey": ""
@@ -47,27 +47,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2152051618478038393",
-                    "size": "311291704",
-                    "download": "76190384"
+                    "gid": "7382628764709956466",
+                    "size": "316572658",
+                    "download": "87878320"
                 },
                 "public_beta_no_password": {
-                    "gid": "2152051618478038393",
-                    "size": "311291704",
-                    "download": "76190384"
+                    "gid": "7382628764709956466",
+                    "size": "316572658",
+                    "download": "87878320"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16353227",
-                "timeupdated": "1731171422"
+                "buildid": "17720563",
+                "timeupdated": "1742055809"
             },
             "public_beta_no_password": {
-                "buildid": "17551254",
+                "buildid": "17720563",
                 "description": "Get the latest untested builds",
-                "timeupdated": "1740766986"
+                "timeupdated": "1742055854"
             }
         },
         "privatebranches": "1"
