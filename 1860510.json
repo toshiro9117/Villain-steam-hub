@@ -4,8 +4,8 @@
     "name": "Total Conflict: Resistance",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27311516",
-    "update_time": "2025-02-05 01:36:28",
+    "change_number": "28001530",
+    "update_time": "2025-03-18 04:25:07",
     "depot": {
         "228988": {
             "config": {
@@ -31,31 +31,31 @@
         "1860511": {
             "manifests": {
                 "public": {
-                    "gid": "7077139961020824620",
-                    "size": "18010264001",
-                    "download": "17551603232"
+                    "gid": "6772844290001150347",
+                    "size": "34068364831",
+                    "download": "32895953808"
                 },
                 "beta_test": {
-                    "gid": "138238539022800369",
-                    "size": "33599250024",
-                    "download": "32428858096"
+                    "gid": "6772844290001150347",
+                    "size": "34068364831",
+                    "download": "32895953808"
                 }
             },
-            "decryptionkey": "6da400d94115d37c6474b287e5f8e41e78ec2083d54ff7dffd6d1b3b2dc8dc0d"
+            "decryptionkey": ""
         },
         "workshopdepot": "1860510",
         "branches": {
             "public": {
-                "buildid": "17229497",
-                "timeupdated": "1738617310"
+                "buildid": "17755383",
+                "timeupdated": "1742243101"
             },
             "beta_test": {
-                "buildid": "17229541",
+                "buildid": "17755383",
                 "description": "0.85 SDK",
-                "timeupdated": "1738617526"
+                "timeupdated": "1742235261"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a815a935bf6125fec3ff1d1609f551efc617a90f2176a90beac941e21f432469"
+        "workshopdepotdecryptionkey": ""
     }
 }
