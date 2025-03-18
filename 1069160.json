@@ -4,8 +4,8 @@
     "name": "SKALD: Against the Black Priory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27459459",
-    "update_time": "2025-02-13 20:58:47",
+    "change_number": "27856420",
+    "update_time": "2025-03-09 13:02:03",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3961889977293533758",
-                    "size": "506560095",
-                    "download": "228559616"
+                    "gid": "4024816514648269928",
+                    "size": "731628578",
+                    "download": "345418224"
                 },
                 "experimental-public-test": {
                     "gid": "5571651389086422425",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4852737439063822952",
-                    "size": "537215285",
-                    "download": "239245584"
+                    "gid": "7574834699726070717",
+                    "size": "568490380",
+                    "download": "246240848"
                 },
                 "experimental-public-test": {
                     "gid": "362331759211505348",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15964485",
-                "timeupdated": "1728377348"
+                "buildid": "17422151",
+                "timeupdated": "1740398370"
             },
             "experimental-public-test": {
                 "buildid": "17064742",
