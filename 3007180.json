@@ -4,8 +4,8 @@
     "name": "Riven Demo (non-VR)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26183469",
-    "update_time": "2024-11-14 07:25:18",
+    "change_number": "28000143",
+    "update_time": "2025-03-18 02:43:26",
     "depot": {
         "228989": {
             "config": {
@@ -39,8 +39,7 @@
                     "size": "9163714406",
                     "download": "8545147024"
                 }
-            },
-            "decryptionkey": "d857cff0a48e803e55baaf71b06dc61b1289c2911a1136852b7960c6a6106897"
+            }
         },
         "3007182": {
             "config": {
@@ -53,8 +52,7 @@
                     "size": "9388366025",
                     "download": "8522744704"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
