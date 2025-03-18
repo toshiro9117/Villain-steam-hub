@@ -4,8 +4,8 @@
     "name": "Supermoves: World of Parkour",
     "schinese_name": "Supermoves 跑酷世界",
     "isfreeapp": "0",
-    "change_number": "27109519",
-    "update_time": "2025-01-22 17:56:51",
+    "change_number": "28013051",
+    "update_time": "2025-03-18 20:39:03",
     "depot": {
         "baselanguages": "",
         "228989": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8288622464416881754",
-                    "size": "16195400479",
-                    "download": "5206398592"
+                    "gid": "2742619149147968373",
+                    "size": "16199025274",
+                    "download": "5216070848"
                 }
             },
-            "decryptionkey": "a67bb8576275fc93a82dbaf32462239021ca2f3388a06fb96d65d4b81f4fa75d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17089096",
-                "timeupdated": "1737539805"
+                "buildid": "17710824",
+                "timeupdated": "1741884207"
             }
         },
         "privatebranches": "1"
