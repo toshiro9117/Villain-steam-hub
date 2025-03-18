@@ -4,8 +4,8 @@
     "name": "Neon White",
     "schinese_name": "霓虹白客",
     "isfreeapp": "0",
-    "change_number": "27432413",
-    "update_time": "2025-02-12 12:14:43",
+    "change_number": "27736602",
+    "update_time": "2025-03-02 05:23:02",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2242259760"
                 }
             },
-            "decryptionkey": "e362c1777b3cf17e41f84b830ad1d0c5b96de7ed16ef08b6488101c1c4cbf33d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
         "branches": {
