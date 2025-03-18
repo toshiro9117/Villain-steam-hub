@@ -4,8 +4,8 @@
     "name": "Pavlov VR",
     "schinese_name": "反恐精英VR",
     "isfreeapp": "0",
-    "change_number": "27540982",
-    "update_time": "2025-02-19 03:27:56",
+    "change_number": "27944106",
+    "update_time": "2025-03-14 06:14:53",
     "depot": {
         "228988": {
             "config": {
@@ -31,12 +31,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3144452493743686323",
-                    "size": "70968429081",
-                    "download": "31947079680"
+                    "gid": "5595024099885182722",
+                    "size": "72684686419",
+                    "download": "32531015216"
                 }
             },
-            "decryptionkey": "a735c234a21b56c19d12783ed863a989479bace230efa2b8dc0c7098c99706eb"
+            "decryptionkey": ""
         },
         "555162": {
             "config": {
@@ -47,11 +47,11 @@
         },
         "branches": {
             "public": {
-                "buildid": "16661189",
-                "timeupdated": "1733524756"
+                "buildid": "17506385",
+                "timeupdated": "1740526663"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "cce0685da5b14e488d26c085dc59e195e83269fad985ea8a046e6f874483de39"
+        "workshopdepotdecryptionkey": ""
     }
 }
