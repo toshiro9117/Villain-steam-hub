@@ -4,8 +4,8 @@
     "name": "TerraTech Worlds",
     "schinese_name": "泰拉科技世界",
     "isfreeapp": "0",
-    "change_number": "27718909",
-    "update_time": "2025-02-28 22:22:08",
+    "change_number": "28013673",
+    "update_time": "2025-03-18 21:15:34",
     "depot": {
         "228989": {
             "config": {
@@ -39,7 +39,7 @@
                     "download": "2788546320"
                 }
             },
-            "decryptionkey": "8ee1a4fafbd70d88f090b0ea5334848b76fc0833f64012b442b92183465bddc1"
+            "decryptionkey": ""
         },
         "2851250": {
             "dlcappid": "2851250"
@@ -62,6 +62,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d8d02fdbe062671b0aa65e24831b89d2baae8f3adf7d8a18742c55543bf009ce"
+        "workshopdepotdecryptionkey": ""
     }
 }
