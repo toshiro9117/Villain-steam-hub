@@ -4,8 +4,8 @@
     "name": "The Thaumaturge",
     "schinese_name": "奇唤士",
     "isfreeapp": "0",
-    "change_number": "27524964",
-    "update_time": "2025-02-18 07:55:40",
+    "change_number": "27940215",
+    "update_time": "2025-03-14 02:20:46",
     "depot": {
         "baselanguages": "polish",
         "228988": {
@@ -41,7 +41,7 @@
                     "download": "21588346432"
                 }
             },
-            "decryptionkey": "ee43cc0e393840ecaac611a0073adbc587d24dddbadc78b4f9eaa4c734e05db8"
+            "decryptionkey": ""
         },
         "2777010": {
             "dlcappid": "2777010",
@@ -56,7 +56,7 @@
                     "download": "361590000"
                 }
             },
-            "decryptionkey": "50a8ec9ef2bd894138ee8b3ec55a17c94786242be5d687bf93c6464ee7d0ba6a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
