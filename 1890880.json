@@ -4,8 +4,8 @@
     "name": "Arma Reforger Experimental Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27727590",
-    "update_time": "2025-03-01 08:03:27",
+    "change_number": "28008913",
+    "update_time": "2025-03-18 16:06:58",
     "depot": {
         "228989": {
             "config": {
@@ -21,17 +21,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8689672966584449068",
-                    "size": "272803752",
-                    "download": "188411200"
+                    "gid": "1200594539591672192",
+                    "size": "272892253",
+                    "download": "188498400"
                 }
             },
             "decryptionkey": "ebe972d6c61c49fc3dc3e46677a94bb268ddc62aaffd6204edd0f6b746096755"
         },
         "branches": {
             "public": {
-                "buildid": "17419109",
-                "timeupdated": "1740052813"
+                "buildid": "17566611",
+                "timeupdated": "1741266561"
             }
         },
         "privatebranches": "1"
