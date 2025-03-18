@@ -4,8 +4,8 @@
     "name": "The Settlers 7 : History Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26258877",
-    "update_time": "2024-11-19 17:43:25",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:38",
     "depot": {
         "baselanguages": "english,german,french,russian,polish",
         "228986": {
@@ -28,14 +28,14 @@
                     "download": "6206835200"
                 }
             },
-            "decryptionkey": "0dd62aea7506ba33975159efebf8ba324bc0c4526bcf21d797735755e0e82d93"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
