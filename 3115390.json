@@ -4,8 +4,8 @@
     "name": "SuperImage Pro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27456796",
-    "update_time": "2025-02-13 18:14:44",
+    "change_number": "27973719",
+    "update_time": "2025-03-16 00:08:05",
     "depot": {
         "228989": {
             "config": {
@@ -21,27 +21,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1091563217738276762",
-                    "size": "329421262",
-                    "download": "137152608"
-                },
-                "alpha": {
                     "gid": "2950584093168339000",
                     "size": "329913617",
                     "download": "137622320"
+                },
+                "alpha": {
+                    "gid": "4906928638082601490",
+                    "size": "329298215",
+                    "download": "137126160"
+                },
+                "image-specs-decoding": {
+                    "gid": "650059515946318470",
+                    "size": "329307638",
+                    "download": "137136032"
                 }
             },
-            "decryptionkey": "48f204e64a70b0c425f7e812fa17cea89cc9e0c6cd75f7b35ba19584e5cd02e2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17244530",
-                "timeupdated": "1738713021"
+                "buildid": "17476834",
+                "timeupdated": "1740512598"
             },
             "alpha": {
-                "buildid": "17476834",
+                "buildid": "17566983",
                 "description": "Alpha builds, MIGHT BE UNSTABLE!!!",
-                "timeupdated": "1740351475"
+                "timeupdated": "1740945216"
+            },
+            "image-specs-decoding": {
+                "buildid": "17737849",
+                "description": "A",
+                "timeupdated": "1742054878"
             }
         }
     }
