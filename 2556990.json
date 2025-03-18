@@ -4,8 +4,8 @@
     "name": "Beyond Good and Evil - 20th Anniversary Edition",
     "schinese_name": "《超越善恶》- 20 周年纪念版",
     "isfreeapp": "0",
-    "change_number": "27279166",
-    "update_time": "2025-02-03 02:35:53",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:51",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian",
@@ -35,14 +35,14 @@
                     "download": "13332334368"
                 }
             },
-            "decryptionkey": "fcfb5884860aaf7a15a1a823f60814216d3bb2fdcac130608793ae365b774ac6"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
