@@ -4,8 +4,8 @@
     "name": "Monopoly Madness Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26258877",
-    "update_time": "2024-11-19 17:43:40",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:50",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian,latam",
         "228989": {
@@ -33,19 +33,17 @@
                     "size": "2552003943",
                     "download": "1773775552"
                 }
-            },
-            "decryptionkey": "da3ad5219b383520a5064d2bc09cd91d052b166d7fcdcf1ac1f8c0052ee66a20"
+            }
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
-            "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "depotfromapp": "1716750"
         },
         "branches": {
             "public": {
