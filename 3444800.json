@@ -4,8 +4,8 @@
     "name": "Dragonkin: The Banished Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540733",
-    "update_time": "2025-02-19 03:10:53",
+    "change_number": "28013824",
+    "update_time": "2025-03-18 21:24:29",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "27975438844",
                     "download": "23564123760"
                 }
-            },
-            "decryptionkey": "86f3c1a5ee32c5e9255fe23fe767ba19429842c856b75a41504e422d87f85e03"
+            }
         },
         "baselanguages": "english,french",
         "branches": {
