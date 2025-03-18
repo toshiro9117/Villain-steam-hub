@@ -4,8 +4,8 @@
     "name": "Slither Link",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26126248",
-    "update_time": "2024-11-10 11:11:21",
+    "change_number": "27965066",
+    "update_time": "2025-03-15 05:04:22",
     "depot": {
         "228990": {
             "config": {
@@ -20,18 +20,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "43294137162050617",
-                    "size": "67884022",
-                    "download": "45211744"
+                    "gid": "5430627145959972529",
+                    "size": "67885046",
+                    "download": "45211264"
                 }
             },
-            "decryptionkey": "c2d5a531b5305bb897951e9de2bb9bc88a4fce70dace3cb4dc0d15b94e896fb0"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian",
         "branches": {
             "public": {
-                "buildid": "16280091",
-                "timeupdated": "1730651100"
+                "buildid": "17731299",
+                "timeupdated": "1741986258"
             }
         },
         "privatebranches": "1"
