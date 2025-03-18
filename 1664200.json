@@ -4,8 +4,8 @@
     "name": "Duelists of Eden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27381756",
-    "update_time": "2025-02-09 04:30:55",
+    "change_number": "27918336",
+    "update_time": "2025-03-13 03:30:25",
     "depot": {
         "baselanguages": "english,japanese",
         "228988": {
@@ -32,9 +32,14 @@
                     "download": "271916288"
                 },
                 "previous-build": {
-                    "gid": "1720622996648129819",
-                    "size": "534804096",
-                    "download": "272000160"
+                    "gid": "7004129057733235252",
+                    "size": "534834816",
+                    "download": "272025904"
+                },
+                "public-beta": {
+                    "gid": "4895657014056361555",
+                    "size": "534884493",
+                    "download": "272049296"
                 },
                 "tournament": {
                     "gid": "2930075534550615505",
@@ -60,9 +65,14 @@
                     "download": "255485344"
                 },
                 "previous-build": {
-                    "gid": "8015596954430259418",
-                    "size": "562876120",
-                    "download": "279424608"
+                    "gid": "2361711818871823592",
+                    "size": "562909377",
+                    "download": "279442784"
+                },
+                "public-beta": {
+                    "gid": "6311952292155711418",
+                    "size": "562957756",
+                    "download": "279479520"
                 },
                 "tournament": {
                     "gid": "1119782164681603182",
@@ -88,9 +98,14 @@
                     "download": "247228416"
                 },
                 "previous-build": {
-                    "gid": "8098930015021772865",
-                    "size": "575234925",
-                    "download": "271171008"
+                    "gid": "102181222614917414",
+                    "size": "575265522",
+                    "download": "271195008"
+                },
+                "public-beta": {
+                    "gid": "7307068594382165472",
+                    "size": "575315457",
+                    "download": "271224400"
                 },
                 "tournament": {
                     "gid": "9068722317427514534",
@@ -111,9 +126,14 @@
                 "timeupdated": "1728348795"
             },
             "previous-build": {
-                "buildid": "16668922",
+                "buildid": "16837001",
                 "description": "previous build for watching old replays",
-                "timeupdated": "1739046650"
+                "timeupdated": "1740432771"
+            },
+            "public-beta": {
+                "buildid": "17698113",
+                "description": "Public beta",
+                "timeupdated": "1741807818"
             },
             "tournament": {
                 "buildid": "14991281",
