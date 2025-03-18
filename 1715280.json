@@ -4,8 +4,8 @@
     "name": "AirportSim",
     "schinese_name": "机场：模拟地勤",
     "isfreeapp": "0",
-    "change_number": "27498956",
-    "update_time": "2025-02-16 08:16:29",
+    "change_number": "27970610",
+    "update_time": "2025-03-15 16:24:02",
     "depot": {
         "228983": {
             "config": {
@@ -63,22 +63,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1224754714420639660",
-                    "size": "9173411652",
-                    "download": "4161849696"
+                    "gid": "3009997467954888084",
+                    "size": "5420810286",
+                    "download": "3773737056"
                 }
             },
-            "decryptionkey": "bae7ffcb078e65e62cc598e17e77d8490179058f9e3cb23a6d4950ce392d1476"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16121222",
-                "timeupdated": "1729519722"
+                "buildid": "17693412",
+                "timeupdated": "1741875016"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "3c702a85e6db06ab77dbbde4a3e548371fe67effd98c92a9bc415f64d36a54ae"
+        "workshopdepotdecryptionkey": ""
     }
 }
