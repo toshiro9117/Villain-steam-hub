@@ -4,8 +4,8 @@
     "name": "Scheming Through The Zombie Apocalypse Ep2: Caged",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26803070",
-    "update_time": "2024-12-28 16:39:25",
+    "change_number": "27921925",
+    "update_time": "2025-03-13 07:23:44",
     "depot": {
         "946771": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5746195092770972375",
-                    "size": "1438169327",
-                    "download": "305995168"
+                    "gid": "8457496819902256772",
+                    "size": "1488255676",
+                    "download": "354201360"
                 }
             },
             "decryptionkey": "a59876f41082585993533644a4488a09906de8bec7d619409ab3bd4f4a20ef2c"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2470898566958759136",
-                    "size": "1480811976",
-                    "download": "318276880"
+                    "gid": "4875142068898982219",
+                    "size": "1530898269",
+                    "download": "366478688"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15773751",
-                "timeupdated": "1726854748"
+                "buildid": "17700423",
+                "timeupdated": "1741821793"
             }
         }
     }
