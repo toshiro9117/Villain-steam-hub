@@ -4,8 +4,8 @@
     "name": "KovaaK's",
     "schinese_name": "FPS枪法模拟器",
     "isfreeapp": "0",
-    "change_number": "27728765",
-    "update_time": "2025-03-01 10:07:49",
+    "change_number": "27939480",
+    "update_time": "2025-03-14 01:41:47",
     "depot": {
         "workshopdepot": "824270",
         "baselanguages": "english",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7613136797505638194",
-                    "size": "7626896717",
-                    "download": "2397516976"
+                    "gid": "6505541369217727758",
+                    "size": "7170499551",
+                    "download": "2314451472"
                 },
                 "3.0.4": {
                     "gid": "302923237395014793",
@@ -60,12 +60,12 @@
                     "download": "2396771168"
                 },
                 "beta": {
-                    "gid": "7613136797505638194",
-                    "size": "7626896717",
-                    "download": "2397516976"
+                    "gid": "6505541369217727758",
+                    "size": "7170499551",
+                    "download": "2314451472"
                 }
             },
-            "decryptionkey": "eb3bfa996ec2fa95ac46deb12cac451a680c017946edfb52209740273157dd1c"
+            "decryptionkey": ""
         },
         "1438210": {
             "dlcappid": "1438210",
@@ -84,8 +84,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17242846",
-                "timeupdated": "1738707581"
+                "buildid": "17712878",
+                "timeupdated": "1741887702"
             },
             "3.0.4": {
                 "buildid": "8802228",
@@ -113,12 +113,12 @@
                 "timeupdated": "1734115219"
             },
             "beta": {
-                "buildid": "17242846",
+                "buildid": "17712878",
                 "description": "Public Beta Branch",
-                "timeupdated": "1738707540"
+                "timeupdated": "1741887673"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "49f5ce3089885145cd2eef4b41d146158774bff9b58de2bc1bf75c2dff97ece6"
+        "workshopdepotdecryptionkey": ""
     }
 }
