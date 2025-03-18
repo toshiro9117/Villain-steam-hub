@@ -4,8 +4,8 @@
     "name": "PlayStatus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27498100",
-    "update_time": "2025-02-16 06:07:33",
+    "change_number": "27975263",
+    "update_time": "2025-03-16 03:38:26",
     "depot": {
         "228984": {
             "config": {
@@ -42,18 +42,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1023000097340192039",
-                    "size": "257589264",
-                    "download": "126952992"
+                    "gid": "4419250580282246736",
+                    "size": "366962046",
+                    "download": "161016272"
                 }
             },
-            "decryptionkey": "8950bc893424c4dc580126c9450e075aa4b5b4097b016536636d0193e497d3a1"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "15970947",
-                "timeupdated": "1728413717"
+                "buildid": "17738803",
+                "timeupdated": "1742067502"
             }
         },
         "privatebranches": "1"
