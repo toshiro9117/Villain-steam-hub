@@ -4,8 +4,8 @@
     "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
     "schinese_name": "火影忍者博人传：新忍出击",
     "isfreeapp": "0",
-    "change_number": "27525906",
-    "update_time": "2025-02-18 09:20:00",
+    "change_number": "27991121",
+    "update_time": "2025-03-17 18:09:17",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,polish,brazilian",
         "hasdepotsindlc": "1",
@@ -26,12 +26,12 @@
         "633231": {
             "manifests": {
                 "public": {
-                    "gid": "310338786403466531",
-                    "size": "44645561948",
-                    "download": "15444012512"
+                    "gid": "2494263789803132928",
+                    "size": "44880577757",
+                    "download": "15520641488"
                 }
             },
-            "decryptionkey": "94df9bad960ed6e04e89edf50a1b7a953c09cd7be9027ee380e41ba0a22e142b"
+            "decryptionkey": ""
         },
         "633232": {
             "dlcappid": "887640",
@@ -41,8 +41,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16731220",
-                "timeupdated": "1737007203"
+                "buildid": "17400675",
+                "timeupdated": "1740636003"
             }
         },
         "privatebranches": "1"
