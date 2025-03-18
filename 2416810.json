@@ -4,8 +4,8 @@
     "name": "Tyrant's Realm Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27485753",
-    "update_time": "2025-02-15 03:16:20",
+    "change_number": "27914455",
+    "update_time": "2025-03-12 23:47:18",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "758518059",
                     "download": "616510064"
                 }
-            },
-            "decryptionkey": "9f2fbd6506e7a7f2e50f71436270489245caae28c40054f0229407447d17a2b5"
+            }
         },
         "branches": {
             "public": {
