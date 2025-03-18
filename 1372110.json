@@ -4,8 +4,8 @@
     "name": "JoJo's Bizarre Adventure: All-Star Battle R",
     "schinese_name": "JOJO的奇妙冒险 群星之战 重制版",
     "isfreeapp": "0",
-    "change_number": "27522529",
-    "update_time": "2025-02-18 04:17:16",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:22:09",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "228988": {
@@ -30,7 +30,7 @@
                     "download": "5083809456"
                 }
             },
-            "decryptionkey": "219ba7ad894442207719fbcc8f5108ead1e6a7990e9570faff49adedcb1a0673"
+            "decryptionkey": ""
         },
         "1372112": {
             "manifests": {}
