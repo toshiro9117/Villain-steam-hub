@@ -4,8 +4,8 @@
     "name": "Heartbound",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27454082",
-    "update_time": "2025-02-13 15:14:35",
+    "change_number": "27741286",
+    "update_time": "2025-03-02 19:31:40",
     "depot": {
         "228989": {
             "config": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7414393517929190055",
-                    "size": "406389252",
-                    "download": "319538672"
+                    "gid": "3003684577389915562",
+                    "size": "407862010",
+                    "download": "322134880"
                 }
             },
             "decryptionkey": "dc4a2ce8d7bf9c0300e2af4f041e35e33a9aa897758ee1317192e8e4d6915c3b"
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2078576068925577491",
-                    "size": "403355741",
-                    "download": "318476432"
+                    "gid": "7815360142470029476",
+                    "size": "404720725",
+                    "download": "321131008"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13044497",
-                "timeupdated": "1703537904"
+                "buildid": "17564831",
+                "timeupdated": "1740915093"
             }
         },
         "privatebranches": "1"
