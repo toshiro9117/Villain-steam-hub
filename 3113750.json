@@ -4,8 +4,8 @@
     "name": "Drunk Builder Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27520514",
-    "update_time": "2025-02-18 01:54:15",
+    "change_number": "28006930",
+    "update_time": "2025-03-18 12:56:36",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3113751": {
             "manifests": {
                 "public": {
-                    "gid": "3918550719510322744",
-                    "size": "1039772603",
-                    "download": "880408672"
+                    "gid": "684281025561625768",
+                    "size": "1190008918",
+                    "download": "1030500816"
                 }
             },
-            "decryptionkey": "1f4f2edd4b1c18c4a776008fc5c10e9cf5b67810889058252c80ab8f0c229ae0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17396735",
-                "timeupdated": "1739814850"
+                "buildid": "17758016",
+                "timeupdated": "1742252062"
             }
         },
         "privatebranches": "1"
