@@ -4,8 +4,8 @@
     "name": "Roboquest",
     "schinese_name": "Roboquest (机械守护者)",
     "isfreeapp": "0",
-    "change_number": "27728393",
-    "update_time": "2025-03-01 09:22:46",
+    "change_number": "28011176",
+    "update_time": "2025-03-18 18:28:16",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -33,7 +33,7 @@
                     "download": "5170229840"
                 }
             },
-            "decryptionkey": "6de29760974d9a062f71a50a766e6560959934a90bd6c43849e4b5c2c3040c66"
+            "decryptionkey": ""
         },
         "1410960": {
             "dlcappid": "1410960",
@@ -53,7 +53,7 @@
                     "download": "153358928"
                 }
             },
-            "decryptionkey": "7147a52fbc37206a8101897f11ccce51c3fe1fd5cb493899bfa7bc357f1b5d8c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
