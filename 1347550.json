@@ -4,8 +4,8 @@
     "name": "Tiny Combat Arena",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26900824",
-    "update_time": "2025-01-08 09:19:12",
+    "change_number": "27965695",
+    "update_time": "2025-03-15 05:47:55",
     "depot": {
         "228990": {
             "config": {
@@ -20,14 +20,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4841551626106011033",
-                    "size": "272678046",
-                    "download": "96590640"
+                    "gid": "7642380065950779090",
+                    "size": "279090297",
+                    "download": "99615856"
                 },
                 "testers": {
-                    "gid": "1956818203561416275",
-                    "size": "288074551",
-                    "download": "100154256"
+                    "gid": "6329291811270255370",
+                    "size": "298783627",
+                    "download": "104069632"
                 }
             },
             "decryptionkey": "1e3ccdbe24790bab10b3168dc06989e1c4cda5ef70c031f1def7d7762f2eb74a"
@@ -35,13 +35,13 @@
         "workshopdepot": "1347550",
         "branches": {
             "public": {
-                "buildid": "16355796",
-                "timeupdated": "1731213505"
+                "buildid": "17713032",
+                "timeupdated": "1741888610"
             },
             "testers": {
-                "buildid": "16432926",
+                "buildid": "17712923",
                 "description": "Test builds before they go live",
-                "timeupdated": "1731796392"
+                "timeupdated": "1741887867"
             }
         },
         "privatebranches": "1",
