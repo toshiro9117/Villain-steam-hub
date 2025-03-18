@@ -4,8 +4,8 @@
     "name": "Satisfactory Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728695",
-    "update_time": "2025-03-01 09:59:01",
+    "change_number": "28005284",
+    "update_time": "2025-03-18 09:59:51",
     "depot": {
         "1004": {
             "config": {
@@ -19,7 +19,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+            "decryptionkey": ""
         },
         "1005": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+            "decryptionkey": ""
         },
         "1006": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+            "decryptionkey": ""
         },
         "1690801": {
             "config": {
@@ -60,12 +60,12 @@
                     "download": "2654820800"
                 },
                 "experimental": {
-                    "gid": "4365295921881966788",
-                    "size": "13146263099",
-                    "download": "2667498256"
+                    "gid": "6532689015814846961",
+                    "size": "13235542849",
+                    "download": "2682294736"
                 }
             },
-            "decryptionkey": "3ced83d42c2942b25490dfd60bfb055b506c6a23c24651d19db8bc90c005adff"
+            "decryptionkey": ""
         },
         "1690802": {
             "config": {
@@ -78,12 +78,12 @@
                     "download": "1189969616"
                 },
                 "experimental": {
-                    "gid": "4368997029488394567",
-                    "size": "4218063954",
-                    "download": "1187561424"
+                    "gid": "3988927638335940677",
+                    "size": "4222280147",
+                    "download": "1188360320"
                 }
             },
-            "decryptionkey": "a294c2888bd47bdfff6d5c3b004542c13949bfd54879e9f41836195f840fbfa0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -91,8 +91,8 @@
                 "timeupdated": "1734694759"
             },
             "experimental": {
-                "buildid": "17396237",
-                "timeupdated": "1739898493"
+                "buildid": "17680986",
+                "timeupdated": "1741715799"
             }
         },
         "privatebranches": "1"
