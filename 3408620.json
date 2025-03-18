@@ -4,8 +4,8 @@
     "name": "Cafemart Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27727594",
-    "update_time": "2025-03-01 08:04:18",
+    "change_number": "27977137",
+    "update_time": "2025-03-16 08:56:37",
     "depot": {
         "228989": {
             "config": {
@@ -17,27 +17,26 @@
         "3408621": {
             "manifests": {
                 "public": {
-                    "gid": "8671287238383930813",
-                    "size": "7843745781",
-                    "download": "2839156144"
+                    "gid": "2765211336086711575",
+                    "size": "8043557117",
+                    "download": "2931509392"
                 },
                 "developers": {
-                    "gid": "1832804103732654176",
-                    "size": "7843759771",
-                    "download": "2839159872"
+                    "gid": "2765211336086711575",
+                    "size": "8043557117",
+                    "download": "2931509392"
                 }
-            },
-            "decryptionkey": "b9779ae1d1cf8f10545b37fe8f5c3399595ee0fb8295bc183922bc354b8f7b73"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17492030",
-                "timeupdated": "1740442850"
+                "buildid": "17696285",
+                "timeupdated": "1741801018"
             },
             "developers": {
-                "buildid": "17554543",
+                "buildid": "17696285",
                 "description": "Dev branch",
-                "timeupdated": "1740787454"
+                "timeupdated": "1741799110"
             }
         }
     }
