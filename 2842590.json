@@ -4,8 +4,8 @@
     "name": "Only Up !",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27529322",
-    "update_time": "2025-02-18 15:14:47",
+    "change_number": "27872274",
+    "update_time": "2025-03-10 21:52:12",
     "depot": {
         "228989": {
             "config": {
@@ -28,18 +28,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4623758129070527790",
-                    "size": "5016223722",
-                    "download": "4820788912"
+                    "gid": "843909785934667714",
+                    "size": "5087519355",
+                    "download": "4892074528"
                 }
             },
-            "decryptionkey": "e469650c8f4d077de08e2a218951bbcb3fc2f6f7c727bb4ab684816c214905ee"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17452584",
-                "timeupdated": "1740130953"
+                "buildid": "17501685",
+                "timeupdated": "1740497165"
             }
         }
     }
