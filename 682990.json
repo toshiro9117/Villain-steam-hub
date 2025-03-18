@@ -4,8 +4,8 @@
     "name": "Drug Dealer Simulator",
     "schinese_name": "毒枭模拟器",
     "isfreeapp": "0",
-    "change_number": "27261361",
-    "update_time": "2025-02-01 05:11:29",
+    "change_number": "28011953",
+    "update_time": "2025-03-18 19:22:16",
     "depot": {
         "228988": {
             "config": {
@@ -37,7 +37,7 @@
                     "download": "11072739888"
                 }
             },
-            "decryptionkey": "52b59e88229b597e044a71ea1391a8bb52efc9f17b744820600007b650b2188c"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
