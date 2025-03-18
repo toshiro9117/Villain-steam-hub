@@ -4,10 +4,11 @@
     "name": "Sunset Hills",
     "schinese_name": "落日山丘",
     "isfreeapp": "0",
-    "change_number": "27416227",
-    "update_time": "2025-02-11 16:39:32",
+    "change_number": "27954295",
+    "update_time": "2025-03-14 18:53:47",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "1",
         "1791591": {
             "config": {
                 "oslist": "windows",
@@ -65,6 +66,9 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "3399560": {
+            "dlcappid": "3399560"
         },
         "branches": {
             "public": {
