@@ -4,9 +4,10 @@
     "name": "The Bus - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729993",
-    "update_time": "2025-03-01 13:03:11",
+    "change_number": "28012311",
+    "update_time": "2025-03-18 19:45:16",
     "depot": {
+        "hasdepotsindlc": "0",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -64,6 +65,9 @@
             "sharedinstall": "1"
         },
         "507321": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "2869270367415710218",
@@ -72,6 +76,11 @@
                 }
             },
             "decryptionkey": "5f8ae7bd3b67e38ea4a91a534d23c447ccb0bdf2b735d37cb231dd033376f698"
+        },
+        "507322": {
+            "config": {
+                "oslist": "linux"
+            }
         },
         "branches": {
             "public": {
