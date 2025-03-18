@@ -4,8 +4,8 @@
     "name": "Gal Guardians: Demon Purge",
     "schinese_name": "少女魔净",
     "isfreeapp": "0",
-    "change_number": "27261367",
-    "update_time": "2025-02-01 05:13:28",
+    "change_number": "27787593",
+    "update_time": "2025-03-05 12:02:17",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "1642706352"
                 }
             },
-            "decryptionkey": "79b35e615d959aae37d92d346543d8f5f5a0a50168b912d0b4ebbf06f5826c4c"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,japanese,brazilian",
         "branches": {
