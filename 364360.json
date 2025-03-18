@@ -4,8 +4,8 @@
     "name": "Total War: WARHAMMER",
     "schinese_name": "全面战争：战锤",
     "isfreeapp": "0",
-    "change_number": "27512061",
-    "update_time": "2025-02-17 16:47:37",
+    "change_number": "27991800",
+    "update_time": "2025-03-17 18:56:38",
     "depot": {
         "workshopdepot": "364360",
         "228983": {
@@ -253,9 +253,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7717326305582676318",
-                    "size": "205572511",
-                    "download": "57651424"
+                    "gid": "7581221650368596294",
+                    "size": "204335475",
+                    "download": "57456496"
                 }
             },
             "depotfromapp": "372530",
@@ -1187,7 +1187,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "173872326071473959",
+                    "gid": "8058135659253913348",
                     "size": "0",
                     "download": "0"
                 }
