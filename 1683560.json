@@ -4,8 +4,8 @@
     "name": "Ravager",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27715323",
-    "update_time": "2025-02-28 18:44:14",
+    "change_number": "27846608",
+    "update_time": "2025-03-08 10:14:27",
     "depot": {
         "baselanguages": "english",
         "1683561": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4241960757213773133",
-                    "size": "6362697171",
-                    "download": "6094221648"
+                    "gid": "1030048127694755880",
+                    "size": "6387028580",
+                    "download": "6133112144"
                 }
             },
             "decryptionkey": "e4dfb83b7827c5851b83586e05311dc5f700ae4ac4ceb62641898671bb6f90da"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4416934339217099978",
-                    "size": "6362697171",
-                    "download": "6094648288"
+                    "gid": "8203319820155110049",
+                    "size": "6387028580",
+                    "download": "6133474464"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "925987930090124528",
-                    "size": "6362697171",
-                    "download": "6094648288"
+                    "gid": "6512366052526353059",
+                    "size": "6387028580",
+                    "download": "6133474464"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17466201",
-                "timeupdated": "1740218972"
+                "buildid": "17633489",
+                "timeupdated": "1741343133"
             }
         },
         "privatebranches": "1"
