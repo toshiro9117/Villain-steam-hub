@@ -4,8 +4,8 @@
     "name": "Metaphor: ReFantazio",
     "schinese_name": "暗喻幻想：ReFantazio",
     "isfreeapp": "0",
-    "change_number": "27529898",
-    "update_time": "2025-02-18 16:03:49",
+    "change_number": "28010224",
+    "update_time": "2025-03-18 17:28:20",
     "depot": {
         "228989": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "36926182816"
                 }
             },
-            "decryptionkey": "0a945c91ddfaaca28d19da03981f783f8eb23a6dcc1121fb8c0936bb17fe0adb"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "hasdepotsindlc": "1",
