@@ -4,15 +4,15 @@
     "name": "Fight School Simulator",
     "schinese_name": "武馆模拟器",
     "isfreeapp": "0",
-    "change_number": "27535642",
-    "update_time": "2025-02-18 22:06:48",
+    "change_number": "28011259",
+    "update_time": "2025-03-18 18:34:07",
     "depot": {
         "2884191": {
             "manifests": {
                 "public": {
-                    "gid": "7593580894992539231",
-                    "size": "4813520682",
-                    "download": "3976634016"
+                    "gid": "8534385223471371112",
+                    "size": "4813418216",
+                    "download": "3976644800"
                 }
             },
             "decryptionkey": "8e1f1e373e6f08062fe37eec26ef0bf7ce25b0adfb9e0c7b8ad023698b6aabe7"
@@ -33,8 +33,8 @@
         "baselanguages": "english,german,italian,spanish,schinese,russian,japanese,portuguese,turkish",
         "branches": {
             "public": {
-                "buildid": "17408091",
-                "timeupdated": "1739886517"
+                "buildid": "17764002",
+                "timeupdated": "1742294030"
             }
         },
         "privatebranches": "1"
