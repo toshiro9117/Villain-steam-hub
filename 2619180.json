@@ -4,17 +4,17 @@
     "name": "小夜怪奇物语",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27721166",
-    "update_time": "2025-03-01 00:26:42",
+    "change_number": "27973370",
+    "update_time": "2025-03-15 23:19:50",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
         "2619181": {
             "manifests": {
                 "public": {
-                    "gid": "2319522608638259217",
-                    "size": "1424119669",
-                    "download": "1160243664"
+                    "gid": "332928328977716774",
+                    "size": "1495006484",
+                    "download": "1230682144"
                 }
             },
             "decryptionkey": "3a27c4ac995d44c53917c0bcc808316e1a718356640dc6f612b5245b95431f5b"
@@ -102,8 +102,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17549866",
-                "timeupdated": "1740759997"
+                "buildid": "17737605",
+                "timeupdated": "1742051985"
             }
         }
     }
