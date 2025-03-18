@@ -4,8 +4,8 @@
     "name": "Brutal Orchestra",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542434",
-    "update_time": "2025-02-19 05:14:53",
+    "change_number": "27856208",
+    "update_time": "2025-03-09 12:08:12",
     "depot": {
         "1734321": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2850918757968732018",
-                    "size": "888972005",
-                    "download": "190408368"
+                    "gid": "1973057449139062362",
+                    "size": "889070941",
+                    "download": "190416368"
                 },
                 "legacy": {
                     "gid": "630742951997817484",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1849188710465267176",
-                    "size": "882556353",
-                    "download": "187151872"
+                    "gid": "8685755315753141654",
+                    "size": "882629057",
+                    "download": "187142160"
                 },
                 "legacy": {
                     "gid": "6950063963494995568",
@@ -48,8 +48,8 @@
         "workshopdepot": "1734320",
         "branches": {
             "public": {
-                "buildid": "16772540",
-                "timeupdated": "1734441103"
+                "buildid": "17488124",
+                "timeupdated": "1740424161"
             },
             "legacy": {
                 "buildid": "12299084",
