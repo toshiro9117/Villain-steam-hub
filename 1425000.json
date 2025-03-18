@@ -4,11 +4,9 @@
     "name": "Endless Alice",
     "schinese_name": "无尽爱丽丝",
     "isfreeapp": "0",
-    "change_number": "27716900",
-    "update_time": "2025-02-28 20:18:39",
+    "change_number": "28012871",
+    "update_time": "2025-03-18 20:24:00",
     "depot": {
-        "baselanguages": "tchinese",
-        "hasdepotsindlc": "0",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -23,12 +21,14 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "tchinese",
+        "hasdepotsindlc": "0",
         "1425001": {
             "manifests": {
                 "public": {
-                    "gid": "5064882650746665835",
-                    "size": "5785046954",
-                    "download": "5437203440"
+                    "gid": "476209018999845493",
+                    "size": "6084028460",
+                    "download": "5727892544"
                 },
                 "alice_beta": {
                     "gid": "1509578080623625923",
@@ -36,12 +36,12 @@
                     "download": "5436734336"
                 }
             },
-            "decryptionkey": "538a019189be9b823a8c7ff25c61d33657551e295cfe7a4d4abde120d7eb0eb7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17401612",
-                "timeupdated": "1739850288"
+                "buildid": "17721090",
+                "timeupdated": "1741936270"
             },
             "alice_beta": {
                 "buildid": "17321833",
