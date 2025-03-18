@@ -4,8 +4,8 @@
     "name": "SMITE 2 - Public Test",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729213",
-    "update_time": "2025-03-01 11:07:49",
+    "change_number": "28011356",
+    "update_time": "2025-03-18 18:40:31",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "2781321": {
             "manifests": {
                 "public": {
-                    "gid": "8928362278029487128",
-                    "size": "18955826258",
-                    "download": "16944130944"
+                    "gid": "6265108974628406210",
+                    "size": "19439549395",
+                    "download": "17416234016"
                 }
             },
-            "decryptionkey": "cf2c5add2f73e54d521a1f094722ef5bbd84ef6a22cec5ea265e96bc7bd22f8b"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,schinese,russian,japanese,polish,turkish,brazilian,ukrainian,latam",
         "branches": {
             "public": {
-                "buildid": "17421925",
-                "timeupdated": "1739987347"
+                "buildid": "17598471",
+                "timeupdated": "1741198088"
             }
         },
         "privatebranches": "1"
