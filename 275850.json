@@ -4,8 +4,8 @@
     "name": "No Man's Sky",
     "schinese_name": "No Man's Sky 无人深空",
     "isfreeapp": "0",
-    "change_number": "27720289",
-    "update_time": "2025-02-28 23:38:59",
+    "change_number": "27968882",
+    "update_time": "2025-03-15 11:20:34",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -39,12 +39,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2894338696985740810",
-                    "size": "23342425879",
-                    "download": "22185163792"
+                    "gid": "7253617562963782987",
+                    "size": "23347957799",
+                    "download": "22190625216"
                 }
             },
-            "decryptionkey": "a5ce5217e5d5d20115ea81209764d4e89f37bed55b84690951d5df23e73852a6"
+            "decryptionkey": ""
         },
         "275852": {
             "config": {
@@ -53,20 +53,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "374689719622078753",
-                    "size": "25399679691",
-                    "download": "20423899584"
+                    "gid": "7737140013143808427",
+                    "size": "25434738875",
+                    "download": "20436465008"
                 }
             },
-            "decryptionkey": "1f8fb10eb2401484d32af8e6c0d3b7e4148e78e4cf8f632afe1ab6600fb7e57d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17371496",
-                "timeupdated": "1739562994"
+                "buildid": "17591082",
+                "timeupdated": "1741102235"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bb6b75fde9bed39524f38b15f4421448e580935048bc0105a7943f893e20974a"
+        "workshopdepotdecryptionkey": ""
     }
 }
