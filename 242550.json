@@ -4,8 +4,8 @@
     "name": "Rayman Legends",
     "schinese_name": "雷曼：传奇",
     "isfreeapp": "0",
-    "change_number": "27131003",
-    "update_time": "2025-01-23 21:20:18",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:08",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "0",
@@ -36,14 +36,14 @@
                     "download": "4838974640"
                 }
             },
-            "decryptionkey": "686bb8789459e4e3030ad32b9375d784ae80215a36f25a6e2f7d9ca04a37adcd"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
