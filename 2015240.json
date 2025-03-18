@@ -4,8 +4,8 @@
     "name": "Dwarven Realms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522652",
-    "update_time": "2025-02-18 04:27:02",
+    "change_number": "28000045",
+    "update_time": "2025-03-18 02:37:42",
     "depot": {
         "228989": {
             "config": {
@@ -28,12 +28,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "159607944819074686",
-                    "size": "16566455336",
-                    "download": "16195720160"
+                    "gid": "3648857095143037866",
+                    "size": "16040462080",
+                    "download": "15496171424"
                 }
             },
-            "decryptionkey": "af9571cc8c6e975247efca0a6cda92a974e384ce0ad7420bcfd110a941ee981f"
+            "decryptionkey": ""
         },
         "2015242": {
             "config": {
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17397632",
-                "timeupdated": "1739824014"
+                "buildid": "17755315",
+                "timeupdated": "1742236658"
             }
         },
         "privatebranches": "1"
