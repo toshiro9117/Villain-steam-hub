@@ -4,8 +4,8 @@
     "name": "Farming Simulator 25",
     "schinese_name": "模拟农场25",
     "isfreeapp": "0",
-    "change_number": "27523736",
-    "update_time": "2025-02-18 05:54:58",
+    "change_number": "27908655",
+    "update_time": "2025-03-12 18:22:35",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,ukrainian,latam,vietnamese,indonesian",
         "2300321": {
@@ -899,17 +899,17 @@
             "dlcappid": "3450870",
             "manifests": {
                 "public": {
-                    "gid": "2391583085006113537",
+                    "gid": "7011955897369457351",
                     "size": "635096032",
-                    "download": "477900768"
+                    "download": "477900624"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17366944",
-                "timeupdated": "1740056854"
+                "buildid": "17677273",
+                "timeupdated": "1741697445"
             },
             "downgrade1.2.1.0": {
                 "buildid": "16359579",
