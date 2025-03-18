@@ -4,8 +4,8 @@
     "name": "Idle Trillionaire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541687",
-    "update_time": "2025-02-19 04:14:41",
+    "change_number": "27945112",
+    "update_time": "2025-03-14 07:29:32",
     "depot": {
         "baselanguages": "english",
         "2753101": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2237245453662374769",
-                    "size": "372187524",
-                    "download": "108949696"
+                    "gid": "2710930172321288122",
+                    "size": "381818761",
+                    "download": "111861472"
                 },
                 "buildtest": {
                     "gid": "8969806313240227596",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1586641608715501895",
-                    "size": "519605043",
-                    "download": "155392784"
+                    "gid": "2810479107539877078",
+                    "size": "539312008",
+                    "download": "164689744"
                 },
                 "buildtest": {
                     "gid": "3143370241102457424",
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17475194",
-                "timeupdated": "1740335551"
+                "buildid": "17716682",
+                "timeupdated": "1741908568"
             },
             "buildtest": {
                 "buildid": "14566821",
