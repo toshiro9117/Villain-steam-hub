@@ -4,8 +4,8 @@
     "name": "灵拳 Spirit X Strike Demo",
     "schinese_name": "灵拳 Spirit X Strike Demo",
     "isfreeapp": "0",
-    "change_number": "27730250",
-    "update_time": "2025-03-01 13:46:22",
+    "change_number": "27771717",
+    "update_time": "2025-03-04 18:15:03",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "2718356331",
                     "download": "2518646704"
                 }
-            },
-            "decryptionkey": "bf52cdeb5cb5806caa2ca34942767f7cf5bdcb001018e75a3f5009626c35825a"
+            }
         },
         "baselanguages": "english,schinese",
         "branches": {
