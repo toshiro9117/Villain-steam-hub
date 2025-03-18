@@ -4,20 +4,36 @@
     "name": "Wings of Seduction : Bust 'em out!",
     "schinese_name": "魅惑之翼：少女的爆衣攻略",
     "isfreeapp": "0",
-    "change_number": "27537642",
-    "update_time": "2025-02-19 00:02:53",
+    "change_number": "28006556",
+    "update_time": "2025-03-18 12:07:33",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
         "hasdepotsindlc": "1",
         "2455141": {
+            "config": {
+                "oslist": "windows,linux"
+            },
             "manifests": {
                 "public": {
-                    "gid": "5374192841298171127",
-                    "size": "2094970747",
-                    "download": "300049328"
+                    "gid": "4637931900242481675",
+                    "size": "2094925493",
+                    "download": "300524624"
                 }
             },
             "decryptionkey": "e56d527feb9f291762063d087cf3b8d957180349512aeb778ae05f1a13234d4b"
+        },
+        "2455142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9167776941301379226",
+                    "size": "2191126693",
+                    "download": "321749984"
+                }
+            },
+            "decryptionkey": ""
         },
         "2927450": {
             "dlcappid": "2927450",
@@ -32,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17468432",
-                "timeupdated": "1740248286"
+                "buildid": "17752824",
+                "timeupdated": "1742267812"
             }
         },
         "privatebranches": "1"
