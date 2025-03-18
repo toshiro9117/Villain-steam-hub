@@ -4,8 +4,8 @@
     "name": "Urban Strife",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27378196",
-    "update_time": "2025-02-08 20:28:00",
+    "change_number": "28002566",
+    "update_time": "2025-03-18 05:54:51",
     "depot": {
         "228989": {
             "config": {
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4799841991988266658",
-                    "size": "6942508821",
-                    "download": "6597417536"
+                    "gid": "44291521419844627",
+                    "size": "6989187092",
+                    "download": "6641038160"
                 }
             },
-            "decryptionkey": "29cc40f22a6ee8ac5b670831c28e2b65b6a26460fcd3b53a7adafbd50f15adea"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16919553",
-                "timeupdated": "1736188304"
+                "buildid": "17697283",
+                "timeupdated": "1741804700"
             }
         },
         "privatebranches": "1"
