@@ -4,8 +4,8 @@
     "name": "Dungeon Looter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27161986",
-    "update_time": "2025-01-25 17:05:32",
+    "change_number": "27774929",
+    "update_time": "2025-03-04 21:34:47",
     "depot": {
         "228985": {
             "config": {
@@ -35,17 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8001309306291664446",
-                    "size": "689074702",
-                    "download": "247426064"
+                    "gid": "7721025917794831468",
+                    "size": "689226757",
+                    "download": "247435808"
                 }
             },
-            "decryptionkey": "a0c6221db82d65b5e494caf461748b9720a3237ef798fdcf13e6ce2b9e00bab8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17129193",
-                "timeupdated": "1737795927"
+                "buildid": "17589423",
+                "timeupdated": "1741094990"
             }
         },
         "privatebranches": "1"
