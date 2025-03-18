@@ -4,8 +4,8 @@
     "name": "American Truck Simulator Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26493794",
-    "update_time": "2024-12-05 03:21:31",
+    "change_number": "27964615",
+    "update_time": "2025-03-15 04:30:35",
     "depot": {
         "1004": {
             "config": {
@@ -56,15 +56,20 @@
                     "size": "636543859",
                     "download": "632471248"
                 },
-                "temporary_1_51": {
-                    "gid": "3498572372331851855",
-                    "size": "525526351",
-                    "download": "521128512"
+                "temporary_1_53": {
+                    "gid": "2014922246175107914",
+                    "size": "636543859",
+                    "download": "632471248"
                 },
                 "temporary_1_52": {
                     "gid": "3909907576949174812",
                     "size": "532128140",
                     "download": "527743328"
+                },
+                "temporary_1_51": {
+                    "gid": "3498572372331851855",
+                    "size": "525526351",
+                    "download": "521128512"
                 },
                 "temporary_1_50": {
                     "gid": "6326549656978591153",
@@ -110,15 +115,20 @@
                     "size": "36581488",
                     "download": "9397136"
                 },
-                "temporary_1_51": {
-                    "gid": "1306681000881183637",
-                    "size": "36175992",
-                    "download": "9278416"
+                "temporary_1_53": {
+                    "gid": "8254690454556310395",
+                    "size": "36581488",
+                    "download": "9397136"
                 },
                 "temporary_1_52": {
                     "gid": "4903824189048020089",
                     "size": "36290672",
                     "download": "9311472"
+                },
+                "temporary_1_51": {
+                    "gid": "1306681000881183637",
+                    "size": "36175992",
+                    "download": "9278416"
                 },
                 "temporary_1_50": {
                     "gid": "2077368787628174445",
@@ -164,15 +174,20 @@
                     "size": "45089085",
                     "download": "13049504"
                 },
-                "temporary_1_51": {
-                    "gid": "5644367328327842774",
-                    "size": "45058205",
-                    "download": "13247200"
+                "temporary_1_53": {
+                    "gid": "4416989294000259399",
+                    "size": "45089085",
+                    "download": "13049504"
                 },
                 "temporary_1_52": {
                     "gid": "9210101128148719846",
                     "size": "44751261",
                     "download": "12957344"
+                },
+                "temporary_1_51": {
+                    "gid": "5644367328327842774",
+                    "size": "45058205",
+                    "download": "13247200"
                 },
                 "temporary_1_50": {
                     "gid": "8581509751726254528",
@@ -218,15 +233,20 @@
                     "size": "41112459",
                     "download": "12665936"
                 },
-                "temporary_1_51": {
-                    "gid": "6045219016363975797",
-                    "size": "40626555",
-                    "download": "12536112"
+                "temporary_1_53": {
+                    "gid": "1577505488193423201",
+                    "size": "41112459",
+                    "download": "12665936"
                 },
                 "temporary_1_52": {
                     "gid": "5625957668752320710",
                     "size": "40742667",
                     "download": "12580704"
+                },
+                "temporary_1_51": {
+                    "gid": "6045219016363975797",
+                    "size": "40626555",
+                    "download": "12536112"
                 },
                 "temporary_1_50": {
                     "gid": "7886257100193347395",
@@ -266,15 +286,20 @@
                 "buildid": "16551283",
                 "timeupdated": "1733335969"
             },
-            "temporary_1_51": {
-                "buildid": "15665645",
-                "description": "1.51.x",
-                "timeupdated": "1729267708"
+            "temporary_1_53": {
+                "buildid": "16551283",
+                "description": "1.53.x",
+                "timeupdated": "1741879722"
             },
             "temporary_1_52": {
                 "buildid": "16076807",
                 "description": "1.52",
                 "timeupdated": "1733336005"
+            },
+            "temporary_1_51": {
+                "buildid": "15665645",
+                "description": "1.51.x",
+                "timeupdated": "1729267708"
             },
             "temporary_1_50": {
                 "buildid": "14525805",
