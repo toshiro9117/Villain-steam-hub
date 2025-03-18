@@ -4,8 +4,8 @@
     "name": "RAID: World War II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542669",
-    "update_time": "2025-02-19 05:32:37",
+    "change_number": "28002183",
+    "update_time": "2025-03-18 05:17:53",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian",
         "228989": {
@@ -29,12 +29,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3603389259345290572",
-                    "size": "12363217452",
-                    "download": "11299539952"
+                    "gid": "3216452498099670946",
+                    "size": "12366518009",
+                    "download": "11290785008"
                 }
             },
-            "decryptionkey": "ff8f400443edb658fefc39c3014ae7265c3fb432677ae79e767f11c98afbef6c"
+            "decryptionkey": ""
         },
         "707081": {
             "config": {
@@ -49,12 +49,12 @@
                     "download": "199114752"
                 }
             },
-            "decryptionkey": "f50e65e650663e1e56a87ae26e05a1d7d59d477a85329af1711ec3317c6707c3"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17447259",
-                "timeupdated": "1740097859"
+                "buildid": "17699295",
+                "timeupdated": "1741882510"
             }
         },
         "privatebranches": "1"
