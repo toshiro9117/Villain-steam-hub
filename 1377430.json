@@ -4,8 +4,8 @@
     "name": "Sword Reverie",
     "schinese_name": "剑之梦语",
     "isfreeapp": "0",
-    "change_number": "27730443",
-    "update_time": "2025-03-01 14:19:08",
+    "change_number": "27832680",
+    "update_time": "2025-03-07 17:56:14",
     "depot": {
         "1377431": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "59019314341044957",
-                    "size": "2501498192",
-                    "download": "761980752"
+                    "gid": "4221469903285521027",
+                    "size": "2782449329",
+                    "download": "881136288"
                 },
                 "earlyaccess0.8.9": {
                     "gid": "8213516783435339479",
@@ -24,9 +24,9 @@
                     "download": "1533825216"
                 },
                 "beta": {
-                    "gid": "7072864510270184097",
-                    "size": "2827198145",
-                    "download": "903707296"
+                    "gid": "4221469903285521027",
+                    "size": "2782449329",
+                    "download": "881136288"
                 }
             },
             "decryptionkey": "b750dacad153c92884070d730c6aa7c318f390c48dc658e2bdabb5f72000a211"
@@ -82,8 +82,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16572190",
-                "timeupdated": "1732837298"
+                "buildid": "17627372",
+                "timeupdated": "1741340069"
             },
             "earlyaccess0.8.9": {
                 "buildid": "8387366",
@@ -91,9 +91,9 @@
                 "timeupdated": "1701592206"
             },
             "beta": {
-                "buildid": "17542365",
+                "buildid": "17627372",
                 "description": "Public Beta",
-                "timeupdated": "1740730500"
+                "timeupdated": "1741304264"
             }
         },
         "privatebranches": "1"
