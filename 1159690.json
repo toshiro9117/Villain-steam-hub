@@ -4,8 +4,8 @@
     "name": "Voidtrain",
     "schinese_name": "虚空列车",
     "isfreeapp": "0",
-    "change_number": "27531661",
-    "update_time": "2025-02-18 18:02:31",
+    "change_number": "27990164",
+    "update_time": "2025-03-17 17:02:40",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "12583957920"
                 }
             },
-            "decryptionkey": "399feb028d40b4631439972a222c8dfcfc7f5fc3672f5671782a08a75614af78"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
         "branches": {
