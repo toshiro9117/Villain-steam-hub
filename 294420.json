@@ -4,8 +4,8 @@
     "name": "7 Days to Die Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27727879",
-    "update_time": "2025-03-01 08:30:56",
+    "change_number": "28001674",
+    "update_time": "2025-03-18 04:36:02",
     "depot": {
         "228983": {
             "config": {
@@ -136,7 +136,7 @@
                     "download": "101865792144"
                 }
             },
-            "decryptionkey": "5f6d9fe1f2124d091a635d95d98c3915543a29726783b4052296caac50e1b2d9"
+            "decryptionkey": ""
         },
         "294422": {
             "config": {
@@ -239,7 +239,7 @@
                     "download": "231425075915"
                 }
             },
-            "decryptionkey": "a8769f630d7b03541e046a829369773818aaa30fc70fdfc0b43117078040a311"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
