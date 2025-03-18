@@ -4,8 +4,8 @@
     "name": "PCE Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27446487",
-    "update_time": "2025-02-13 04:19:03",
+    "change_number": "27996540",
+    "update_time": "2025-03-17 23:07:38",
     "depot": {
         "1004": {
             "config": {
@@ -73,27 +73,27 @@
         "336401": {
             "manifests": {
                 "public": {
-                    "gid": "3094852716532103251",
-                    "size": "1398277963",
-                    "download": "989283968"
+                    "gid": "7294598492867096055",
+                    "size": "1403232386",
+                    "download": "993375504"
                 },
                 "opentesting": {
-                    "gid": "9001662742746173032",
-                    "size": "1402157682",
-                    "download": "992626768"
+                    "gid": "1837345765781385169",
+                    "size": "1401862721",
+                    "download": "992466592"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17341702",
-                "timeupdated": "1739391537"
+                "buildid": "17751377",
+                "timeupdated": "1742224054"
             },
             "opentesting": {
-                "buildid": "17474320",
+                "buildid": "17738542",
                 "description": "Open Testing Branch",
-                "timeupdated": "1740328915"
+                "timeupdated": "1742066708"
             }
         }
     }
