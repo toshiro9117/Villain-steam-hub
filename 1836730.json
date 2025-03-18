@@ -4,8 +4,8 @@
     "name": "Echo Point Nova",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726923",
-    "update_time": "2025-03-01 06:57:43",
+    "change_number": "27986750",
+    "update_time": "2025-03-17 10:56:15",
     "depot": {
         "228988": {
             "config": {
@@ -24,41 +24,31 @@
         "1836731": {
             "manifests": {
                 "public": {
-                    "gid": "8200306891366164144",
-                    "size": "3059893725",
-                    "download": "2832512880"
+                    "gid": "3153932709340195914",
+                    "size": "3335699852",
+                    "download": "2902815216"
                 },
                 "decktest": {
-                    "gid": "8933942441984265905",
-                    "size": "3064120134",
-                    "download": "2836390544"
-                },
-                "roguebeta": {
-                    "gid": "6169874241679683889",
-                    "size": "3064381454",
-                    "download": "2836515712"
+                    "gid": "372220488810528734",
+                    "size": "3648540403",
+                    "download": "2956316656"
                 }
             },
-            "decryptionkey": "3cb8d34f2b9a803179612fabdc6ea345bcbc6486081c8620e8263944ba2d7824"
+            "decryptionkey": ""
         },
         "workshopdepot": "1836730",
         "branches": {
             "public": {
-                "buildid": "17183155",
-                "timeupdated": "1738234337"
+                "buildid": "17711230",
+                "timeupdated": "1741880372"
             },
             "decktest": {
-                "buildid": "17524726",
+                "buildid": "17642498",
                 "description": "testing Deck UI",
-                "timeupdated": "1740626098"
-            },
-            "roguebeta": {
-                "buildid": "17554019",
-                "description": "Testing new rogue mode",
-                "timeupdated": "1740783459"
+                "timeupdated": "1741391967"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d1559abbe55902780b20e69e97aa8817a6460347770169365920236c76348a1b"
+        "workshopdepotdecryptionkey": ""
     }
 }
