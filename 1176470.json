@@ -4,8 +4,8 @@
     "name": "Terra Invicta",
     "schinese_name": "地球不屈 Terra Invicta",
     "isfreeapp": "0",
-    "change_number": "27488890",
-    "update_time": "2025-02-15 07:46:02",
+    "change_number": "28000357",
+    "update_time": "2025-03-18 02:57:41",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -29,19 +29,19 @@
                     "download": "21291163280"
                 },
                 "beta-release": {
-                    "gid": "2935969424290141759",
-                    "size": "26057242125",
-                    "download": "21382044096"
+                    "gid": "7596723235766781656",
+                    "size": "26087054113",
+                    "download": "21405469968"
                 },
                 "validation-release": {
-                    "gid": "7441997022808018464",
-                    "size": "26057314177",
-                    "download": "21382086080"
+                    "gid": "7596723235766781656",
+                    "size": "26087054113",
+                    "download": "21405469968"
                 },
                 "experimental": {
-                    "gid": "5061173430644027233",
-                    "size": "26086219833",
-                    "download": "21405214752"
+                    "gid": "2441054786576567198",
+                    "size": "26087079706",
+                    "download": "21405479088"
                 },
                 "rollback-0-3-107": {
                     "gid": "4660062986234302257",
@@ -184,19 +184,19 @@
                 "timeupdated": "1726689582"
             },
             "beta-release": {
-                "buildid": "16954996",
-                "description": "0.4.49",
-                "timeupdated": "1738699673"
+                "buildid": "17696962",
+                "description": "0.4.69",
+                "timeupdated": "1742066372"
             },
             "validation-release": {
-                "buildid": "17098650",
-                "description": "0.4.52",
-                "timeupdated": "1738699707"
+                "buildid": "17696962",
+                "description": "0.4.69",
+                "timeupdated": "1741805907"
             },
             "experimental": {
-                "buildid": "17372615",
-                "description": "0.4.58",
-                "timeupdated": "1739576742"
+                "buildid": "17753328",
+                "description": "0.4.71",
+                "timeupdated": "1742237734"
             },
             "rollback-0-3-107": {
                 "buildid": "15747238",
