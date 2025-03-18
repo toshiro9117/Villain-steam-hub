@@ -4,8 +4,8 @@
     "name": "JR EAST Train Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711968",
-    "update_time": "2025-02-28 16:44:13",
+    "change_number": "28008935",
+    "update_time": "2025-03-18 16:09:19",
     "depot": {
         "228989": {
             "config": {
@@ -23,7 +23,7 @@
                     "download": "5949289184"
                 }
             },
-            "decryptionkey": "560843c4356cc57dba2fefb072f32f56e21217fb7fa03e3c21625e195bc9de7d"
+            "decryptionkey": ""
         },
         "2111632": {
             "manifests": {
@@ -33,7 +33,7 @@
                     "download": "38292076384"
                 }
             },
-            "decryptionkey": "f720bf041063477e203355bc887e84ac7f0fb76ebc26755bda6ffe21cfb76dda"
+            "decryptionkey": ""
         },
         "2111633": {
             "manifests": {
@@ -43,7 +43,7 @@
                     "download": "391941280"
                 }
             },
-            "decryptionkey": "17a52417f2821a4843121052b9bcb954f9f32f0947a7b05b5fe08439575b272e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
