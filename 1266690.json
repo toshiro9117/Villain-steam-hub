@@ -4,8 +4,8 @@
     "name": "Dark Deception: Monsters & Mortals",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731873",
-    "update_time": "2025-03-01 18:10:44",
+    "change_number": "27952689",
+    "update_time": "2025-03-14 17:20:48",
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5800695139321061",
-                    "size": "7034223634",
-                    "download": "6802674960"
+                    "gid": "6290467537440623817",
+                    "size": "8179667238",
+                    "download": "7684418400"
                 },
                 "local": {
                     "gid": "2412171868322980221",
@@ -39,12 +39,12 @@
                     "download": "4688614000"
                 }
             },
-            "decryptionkey": "a75098ec064c590cb31c5612219a75678d3696789d4889429ec7de680e824c01"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13832508",
-                "timeupdated": "1711205642"
+                "buildid": "17620569",
+                "timeupdated": "1741272376"
             },
             "local": {
                 "buildid": "9274525",
