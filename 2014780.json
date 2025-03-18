@@ -4,8 +4,8 @@
     "name": "X-Plane 12",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536549",
-    "update_time": "2025-02-18 23:02:49",
+    "change_number": "27963426",
+    "update_time": "2025-03-15 03:07:04",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -18,17 +18,17 @@
         "2014781": {
             "manifests": {
                 "public": {
-                    "gid": "7526832936757088516",
-                    "size": "31137911068",
-                    "download": "15979801984"
+                    "gid": "6815210506278944166",
+                    "size": "32114864119",
+                    "download": "16568342928"
                 },
                 "public_beta": {
-                    "gid": "828103886230402954",
-                    "size": "32114717126",
-                    "download": "16568309216"
+                    "gid": "6815210506278944166",
+                    "size": "32114864119",
+                    "download": "16568342928"
                 }
             },
-            "decryptionkey": "d434a3a2f8e493e4e5aba69d96015b4148060f784373d7a0d366377d79fa109d"
+            "decryptionkey": ""
         },
         "2014782": {
             "config": {
@@ -37,17 +37,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4527997465361088884",
-                    "size": "88997752",
-                    "download": "20103808"
+                    "gid": "8489613588082383822",
+                    "size": "92355960",
+                    "download": "21271280"
                 },
                 "public_beta": {
-                    "gid": "5352948316802067999",
+                    "gid": "8489613588082383822",
                     "size": "92355960",
-                    "download": "21272352"
+                    "download": "21271280"
                 }
             },
-            "decryptionkey": "a2bf3327753266ca2e73e7e6c5dfe46a5ba12b3fba4ee1a856e20c13eb878c17"
+            "decryptionkey": ""
         },
         "2014783": {
             "config": {
@@ -55,17 +55,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1717106676295720453",
-                    "size": "640581087",
-                    "download": "194580416"
+                    "gid": "2704654723793810627",
+                    "size": "647263679",
+                    "download": "196926416"
                 },
                 "public_beta": {
-                    "gid": "3033785121837284118",
-                    "size": "647243248",
-                    "download": "196926960"
+                    "gid": "2704654723793810627",
+                    "size": "647263679",
+                    "download": "196926416"
                 }
             },
-            "decryptionkey": "8604e88b7e76537580a5a3f7c67b914394a68a621a270b800ee64951069a7559"
+            "decryptionkey": ""
         },
         "2014784": {
             "config": {
@@ -74,27 +74,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7800524430294817253",
-                    "size": "118274995",
-                    "download": "48219344"
+                    "gid": "2010952111010555589",
+                    "size": "123340766",
+                    "download": "50301232"
                 },
                 "public_beta": {
-                    "gid": "1100059725674036395",
-                    "size": "123338087",
-                    "download": "50304192"
+                    "gid": "2010952111010555589",
+                    "size": "123340766",
+                    "download": "50301232"
                 }
             },
-            "decryptionkey": "858fa2504e8bf5101dd680378e1c7a6333239030f84b6a4446cab9b48791c0a9"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16837170",
-                "timeupdated": "1735579456"
+                "buildid": "17490231",
+                "timeupdated": "1740676071"
             },
             "public_beta": {
-                "buildid": "17402978",
+                "buildid": "17490231",
                 "description": "public beta",
-                "timeupdated": "1739890956"
+                "timeupdated": "1740435309"
             }
         },
         "privatebranches": "1"
