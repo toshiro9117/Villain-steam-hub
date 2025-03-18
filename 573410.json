@@ -4,16 +4,16 @@
     "name": "AI War 2",
     "schinese_name": "智能战争2",
     "isfreeapp": "0",
-    "change_number": "27273841",
-    "update_time": "2025-02-02 10:44:36",
+    "change_number": "27854825",
+    "update_time": "2025-03-09 07:56:40",
     "depot": {
         "workshopdepot": "573410",
         "573411": {
             "manifests": {
                 "public": {
-                    "gid": "4392177991642364089",
-                    "size": "1124646988",
-                    "download": "807398992"
+                    "gid": "8679132579167503282",
+                    "size": "1125032371",
+                    "download": "807553584"
                 },
                 "y_historical_3_309": {
                     "gid": "283284742055739693",
@@ -56,9 +56,9 @@
                     "download": "772144496"
                 },
                 "most_recent_stable": {
-                    "gid": "4462263210029464951",
-                    "size": "1124565160",
-                    "download": "807384176"
+                    "gid": "4392177991642364089",
+                    "size": "1124646988",
+                    "download": "807398992"
                 }
             },
             "decryptionkey": "ed5c3875a50d29c16592f8aee1ee65adb28f28e8a24bab1ed06999277fe99899"
@@ -69,9 +69,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9162294668696219449",
+                    "gid": "5902407134485527336",
                     "size": "1940206905",
-                    "download": "523781520"
+                    "download": "523781456"
                 },
                 "y_historical_3_309": {
                     "gid": "3366026097751617737",
@@ -114,9 +114,9 @@
                     "download": "783950400"
                 },
                 "most_recent_stable": {
-                    "gid": "4486517698956634750",
-                    "size": "1940205881",
-                    "download": "523780768"
+                    "gid": "9162294668696219449",
+                    "size": "1940206905",
+                    "download": "523781520"
                 }
             },
             "decryptionkey": "0faf076963d20bed068804977f69553ece2984b5b6f00cb82640307af7ecbfa0"
@@ -127,9 +127,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "699105845694180056",
+                    "gid": "7060613222556769720",
                     "size": "2028315522",
-                    "download": "546612000"
+                    "download": "546611936"
                 },
                 "y_historical_3_309": {
                     "gid": "2543118072742687295",
@@ -172,9 +172,9 @@
                     "download": "810661968"
                 },
                 "most_recent_stable": {
-                    "gid": "6454383694544107649",
-                    "size": "2028314498",
-                    "download": "546611248"
+                    "gid": "699105845694180056",
+                    "size": "2028315522",
+                    "download": "546612000"
                 }
             },
             "decryptionkey": "b294ce1037959ec893f7ab4cc13e306c555d935c688afb40d2a158cccd452beb"
@@ -185,9 +185,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8083304999971011943",
+                    "gid": "1155011870561484464",
                     "size": "1944413931",
-                    "download": "523093936"
+                    "download": "523093872"
                 },
                 "y_historical_3_309": {
                     "gid": "3579357659134901963",
@@ -230,9 +230,9 @@
                     "download": "795687632"
                 },
                 "most_recent_stable": {
-                    "gid": "3571648503187372912",
-                    "size": "1944412907",
-                    "download": "523093184"
+                    "gid": "8083304999971011943",
+                    "size": "1944413931",
+                    "download": "523093936"
                 }
             },
             "decryptionkey": "8da3de5605aeb7b5494c31837fa238ce03efbdf6bb2afa3168506cf0001deec6"
@@ -240,9 +240,9 @@
         "573415": {
             "manifests": {
                 "public": {
-                    "gid": "5346714576724038166",
-                    "size": "677601522",
-                    "download": "269559568"
+                    "gid": "6533068870788981619",
+                    "size": "677604594",
+                    "download": "269560656"
                 },
                 "y_historical_3_309": {
                     "gid": "401194312136011404",
@@ -285,9 +285,9 @@
                     "download": "213762816"
                 },
                 "most_recent_stable": {
-                    "gid": "8121801519247472394",
-                    "size": "677587698",
-                    "download": "269556240"
+                    "gid": "5346714576724038166",
+                    "size": "677601522",
+                    "download": "269559568"
                 }
             },
             "decryptionkey": "2c43578e0926b35d4c66ff0127ab088ef18fe7daa7a5d5df3f969cd4526f1f35"
@@ -408,9 +408,9 @@
             "dlcappid": "1466780",
             "manifests": {
                 "public": {
-                    "gid": "1834860845961875438",
-                    "size": "2261824899",
-                    "download": "250034912"
+                    "gid": "1276004475322534989",
+                    "size": "2261825150",
+                    "download": "250035088"
                 },
                 "y_historical_3_309": {
                     "gid": "1543773710425727408",
@@ -453,17 +453,17 @@
                     "download": "11488"
                 },
                 "most_recent_stable": {
-                    "gid": "3629196398314555543",
-                    "size": "2261824740",
-                    "download": "250034848"
+                    "gid": "1834860845961875438",
+                    "size": "2261824899",
+                    "download": "250034912"
                 }
             },
             "decryptionkey": "c273db866835bc41495270ccd6e287313070ac950e80c8b9d58e3e23d7355a39"
         },
         "branches": {
             "public": {
-                "buildid": "17462364",
-                "timeupdated": "1740182005"
+                "buildid": "17649486",
+                "timeupdated": "1741478016"
             },
             "y_historical_3_309": {
                 "buildid": "7018913",
@@ -506,9 +506,9 @@
                 "timeupdated": "1616438297"
             },
             "most_recent_stable": {
-                "buildid": "17213545",
+                "buildid": "17462364",
                 "description": "A 'safe recent' version of the game that we know is good.  If you have problems with the default build, you can always drop back to this.",
-                "timeupdated": "1740181985"
+                "timeupdated": "1741478196"
             }
         },
         "workshopdepotdecryptionkey": ""
