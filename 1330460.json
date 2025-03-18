@@ -4,8 +4,8 @@
     "name": "Becastled",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542191",
-    "update_time": "2025-02-19 04:55:32",
+    "change_number": "28013773",
+    "update_time": "2025-03-18 21:23:17",
     "depot": {
         "1330461": {
             "config": {
@@ -19,14 +19,14 @@
                     "download": "262868896"
                 },
                 "beta": {
+                    "gid": "3278799096305236524",
+                    "size": "948821617",
+                    "download": "316357456"
+                },
+                "old_saves_version": {
                     "gid": "3670036890248594296",
                     "size": "789942960",
                     "download": "262868896"
-                },
-                "0.5_version": {
-                    "gid": "6051395792909512758",
-                    "size": "662525831",
-                    "download": "231427568"
                 }
             },
             "decryptionkey": "2f315404e0292ce573c52729ebbfa7921f02ec79592f67bb9a761a9a63c97c76"
@@ -39,14 +39,14 @@
                 "timeupdated": "1706892708"
             },
             "beta": {
-                "buildid": "13349793",
+                "buildid": "17766024",
                 "description": "beta testing of latest update",
-                "timeupdated": "1706892694"
+                "timeupdated": "1742304066"
             },
-            "0.5_version": {
-                "buildid": "12049561",
-                "description": "0.5_version",
-                "timeupdated": "1728488150"
+            "old_saves_version": {
+                "buildid": "13349793",
+                "description": "verson to play your old saves",
+                "timeupdated": "1740649231"
             }
         },
         "privatebranches": "1",
