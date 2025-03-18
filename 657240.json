@@ -4,8 +4,8 @@
     "name": "Tracks - The Train Set Game",
     "schinese_name": "轨道：模型游戏",
     "isfreeapp": "0",
-    "change_number": "27173932",
-    "update_time": "2025-01-27 02:20:14",
+    "change_number": "27936842",
+    "update_time": "2025-03-13 23:59:45",
     "depot": {
         "workshopdepot": "657240",
         "baselanguages": "english",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1181239660893139053",
-                    "size": "2141807564",
-                    "download": "633307232"
+                    "gid": "525784439297935512",
+                    "size": "2119900654",
+                    "download": "630962624"
                 },
                 "hungtesting": {
                     "gid": "1888266819220587011",
@@ -41,9 +41,9 @@
                     "download": "373847344"
                 },
                 "public_beta": {
-                    "gid": "1181239660893139053",
-                    "size": "2141807564",
-                    "download": "633307232"
+                    "gid": "525784439297935512",
+                    "size": "2119900654",
+                    "download": "630962624"
                 }
             },
             "decryptionkey": ""
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5299481445201901435",
-                    "size": "2176003087",
-                    "download": "654902016"
+                    "gid": "5747319913785559958",
+                    "size": "2154097713",
+                    "download": "652570464"
                 },
                 "hungtesting": {
                     "gid": "8059678525441757791",
@@ -66,9 +66,9 @@
                     "download": "399050256"
                 },
                 "public_beta": {
-                    "gid": "5299481445201901435",
-                    "size": "2176003087",
-                    "download": "654902016"
+                    "gid": "5747319913785559958",
+                    "size": "2154097713",
+                    "download": "652570464"
                 }
             },
             "decryptionkey": "61b88f22c008f7862db3a8e00ecb94ee3e96d07a597dd6d96623055a78d9fbe7"
@@ -80,14 +80,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3495772614826578649",
-                    "size": "109282588",
-                    "download": "30675824"
+                    "gid": "1469132969525202354",
+                    "size": "108748060",
+                    "download": "30650272"
                 },
                 "public_beta": {
-                    "gid": "3495772614826578649",
-                    "size": "109282588",
-                    "download": "30675824"
+                    "gid": "1469132969525202354",
+                    "size": "108748060",
+                    "download": "30650272"
                 }
             },
             "decryptionkey": "bc7476b9f9885bc3deb85579dc00c11645b4901fe5282dd0cde79e46de1930ba"
@@ -99,22 +99,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2580277553796253238",
-                    "size": "206547593",
-                    "download": "37771232"
+                    "gid": "6018650092893496142",
+                    "size": "208733257",
+                    "download": "38325856"
                 },
                 "public_beta": {
-                    "gid": "2580277553796253238",
-                    "size": "206547593",
-                    "download": "37771232"
+                    "gid": "6018650092893496142",
+                    "size": "208733257",
+                    "download": "38325856"
                 }
             },
             "decryptionkey": "9e981dc28c7c62e2b7e192a5074a5f981d9b7afcd3845af3769abea84e29998c"
         },
         "branches": {
             "public": {
-                "buildid": "15889633",
-                "timeupdated": "1727791346"
+                "buildid": "17530920",
+                "timeupdated": "1741881579"
             },
             "hungtesting": {
                 "buildid": "3321934",
@@ -122,9 +122,9 @@
                 "timeupdated": "1542730908"
             },
             "public_beta": {
-                "buildid": "15889633",
+                "buildid": "17530920",
                 "description": "A preview of the next update",
-                "timeupdated": "1727791289"
+                "timeupdated": "1741277129"
             }
         },
         "privatebranches": "1",
