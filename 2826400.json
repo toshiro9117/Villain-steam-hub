@@ -4,8 +4,8 @@
     "name": "CASE RECORDS: Fear of Abduction",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27485753",
-    "update_time": "2025-02-15 03:16:29",
+    "change_number": "27864324",
+    "update_time": "2025-03-10 10:52:39",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2826401": {
             "manifests": {
                 "public": {
-                    "gid": "6797773240906713039",
-                    "size": "3433788347",
-                    "download": "3287660224"
+                    "gid": "3399797435391679956",
+                    "size": "2001003136",
+                    "download": "1879167568"
                 }
             },
-            "decryptionkey": "e56e3248a19c365e23aa8eaa1f00e703ed57725d877c40945441f6b8d364a1a5"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16849465",
-                "timeupdated": "1735213624"
+                "buildid": "17588839",
+                "timeupdated": "1741091838"
             }
         },
         "privatebranches": "1"
