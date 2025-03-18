@@ -4,8 +4,8 @@
     "name": "Echoes of Elysium Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726007",
-    "update_time": "2025-03-01 05:35:12",
+    "change_number": "28011904",
+    "update_time": "2025-03-18 19:18:12",
     "depot": {
         "1004": {
             "config": {
@@ -62,9 +62,9 @@
                     "download": "605600"
                 },
                 "internal": {
-                    "gid": "2602317754660353346",
-                    "size": "1404969037",
-                    "download": "396585168"
+                    "gid": "5886012813996032528",
+                    "size": "1420350405",
+                    "download": "407404240"
                 },
                 "v0.6.0": {
                     "gid": "175875687661122607",
@@ -75,6 +75,11 @@
                     "gid": "5446802998674452210",
                     "size": "1400782346",
                     "download": "395586912"
+                },
+                "v0.8.0": {
+                    "gid": "6988032492321648678",
+                    "size": "1420350405",
+                    "download": "407403472"
                 }
             },
             "decryptionkey": ""
@@ -91,9 +96,9 @@
                 "timeupdated": "1712765583"
             },
             "internal": {
-                "buildid": "17553257",
+                "buildid": "17764551",
                 "description": "Internal Build",
-                "timeupdated": "1740778508"
+                "timeupdated": "1742296685"
             },
             "v0.6.0": {
                 "buildid": "17002466",
@@ -104,6 +109,11 @@
                 "buildid": "17191230",
                 "description": "v0.7.0 Alpha",
                 "timeupdated": "1738278734"
+            },
+            "v0.8.0": {
+                "buildid": "17759384",
+                "description": "v0.8.0 Alpha",
+                "timeupdated": "1742261860"
             }
         }
     }
