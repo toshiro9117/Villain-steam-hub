@@ -4,8 +4,8 @@
     "name": "Ice Station Z",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25757115",
-    "update_time": "2024-10-17 08:04:37",
+    "change_number": "28006427",
+    "update_time": "2025-03-18 11:55:54",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "621821568"
                 }
             },
-            "decryptionkey": "67ca3570e4cc9e9744a64d31eeebd974ee13adfda506bf127b308dd65a15afa8"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,spanish,schinese,japanese,latam",
         "branches": {
