@@ -4,8 +4,8 @@
     "name": "Trials Fusion",
     "schinese_name": "特技摩托：聚变",
     "isfreeapp": "0",
-    "change_number": "26258877",
-    "update_time": "2024-11-19 17:43:06",
+    "change_number": "27954761",
+    "update_time": "2025-03-14 19:20:46",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,dutch,brazilian",
@@ -25,14 +25,14 @@
                     "download": "10652373168"
                 }
             },
-            "decryptionkey": "e44218247bc22153f73511eb618b0364fb6007571dbba9879087eaef3b6b8cfe"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
