@@ -4,8 +4,8 @@
     "name": "Crashday Redline Edition",
     "schinese_name": "碰撞之日：红线版",
     "isfreeapp": "0",
-    "change_number": "27493098",
-    "update_time": "2025-02-15 18:17:21",
+    "change_number": "27985700",
+    "update_time": "2025-03-17 08:56:41",
     "depot": {
         "baselanguages": "english,german,italian,spanish,russian,polish,hungarian,turkish,brazilian",
         "workshopdepot": "508980",
@@ -41,7 +41,7 @@
                     "download": "452416640"
                 }
             },
-            "decryptionkey": "35f3e692ec8a8e51a54914195618118c13d797c5d38dfc7af6605af533a47f14"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -55,6 +55,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e7bf3f4033ed89f160672995860be2027f4dcd47b836a22c64a5eed007783e94"
+        "workshopdepotdecryptionkey": ""
     }
 }
