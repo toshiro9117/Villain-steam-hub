@@ -4,8 +4,8 @@
     "name": "Drakkar Crew",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27392198",
-    "update_time": "2025-02-10 08:26:01",
+    "change_number": "27929126",
+    "update_time": "2025-03-13 16:59:44",
     "depot": {
         "hasdepotsindlc": "0",
         "879051": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8764416917522271731",
-                    "size": "1563430096",
-                    "download": "1085081184"
+                    "gid": "1522148153120450766",
+                    "size": "1563743915",
+                    "download": "1085171680"
                 },
                 "ver_1_1_0": {
                     "gid": "9033287907986618044",
@@ -65,8 +65,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17144370",
-                "timeupdated": "1737980116"
+                "buildid": "17615457",
+                "timeupdated": "1741245158"
             },
             "ver_1_1_0": {
                 "buildid": "15491977",
