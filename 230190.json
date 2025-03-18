@@ -4,8 +4,8 @@
     "name": "War for the Overworld",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27721075",
-    "update_time": "2025-03-01 00:22:13",
+    "change_number": "27997832",
+    "update_time": "2025-03-18 00:23:05",
     "depot": {
         "228983": {
             "config": {
@@ -78,7 +78,7 @@
                     "download": "3128613856"
                 }
             },
-            "decryptionkey": "b34ef0d97fd6f23c54c12dbd08e27ab0f6894a0e41d2495654c041fb4baf440e"
+            "decryptionkey": ""
         },
         "230193": {
             "config": {
@@ -107,7 +107,7 @@
                     "download": "3123789680"
                 }
             },
-            "decryptionkey": "ed9a800119d4a7b97a868c441c984f7ff75a59feb5889f084e57e8693f7b4d75"
+            "decryptionkey": ""
         },
         "230194": {
             "config": {
@@ -135,7 +135,7 @@
                     "download": "3148207616"
                 }
             },
-            "decryptionkey": "6daadfbe8cc7b4aa43e2fc8067d71d65cc5cf2d942a7f590bd993814e634f531"
+            "decryptionkey": ""
         },
         "230195": {
             "config": {
@@ -164,7 +164,7 @@
                     "download": "3125220480"
                 }
             },
-            "decryptionkey": "d690a16150e6f3f2bf5151dea3aea419582e7e68f816c4c192e2b06a4fe10391"
+            "decryptionkey": ""
         },
         "239391": {
             "dlcappid": "239391",
@@ -190,7 +190,7 @@
                     "download": "284232784"
                 }
             },
-            "decryptionkey": "f99ceb06a254e7c96e656c9777db82e826bf3628ff713708f5d991e32f487079"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -214,6 +214,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ee79f52a837bf55b085cfafc78f977b299e905ff1d44a73db624d4603deac588"
+        "workshopdepotdecryptionkey": ""
     }
 }
