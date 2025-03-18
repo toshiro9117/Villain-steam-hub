@@ -4,8 +4,8 @@
     "name": "Zort",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27490999",
-    "update_time": "2025-02-15 12:15:36",
+    "change_number": "27917501",
+    "update_time": "2025-03-13 02:35:16",
     "depot": {
         "228983": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "1392296720"
                 }
             },
-            "decryptionkey": "806aeaed5d4ad4428cd6c1eba28ff88c387605abe45508700508db278de71391"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,arabic",
         "branches": {
