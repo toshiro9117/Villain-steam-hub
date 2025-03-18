@@ -4,8 +4,8 @@
     "name": "Recharge Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730252",
-    "update_time": "2025-03-01 13:46:41",
+    "change_number": "27933772",
+    "update_time": "2025-03-13 21:26:02",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "6357647618",
                     "download": "5207934784"
                 }
-            },
-            "decryptionkey": "ee32f648efea6c39c0b7bf2b464b066f47e12cd04ecff83403c4a3bd76a56797"
+            }
         },
         "hasdepotsindlc": "0",
         "branches": {
