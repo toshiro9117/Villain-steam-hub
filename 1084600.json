@@ -4,8 +4,8 @@
     "name": "My Time at Sandrock",
     "schinese_name": "沙石镇时光",
     "isfreeapp": "0",
-    "change_number": "27238173",
-    "update_time": "2025-01-31 00:13:48",
+    "change_number": "27814845",
+    "update_time": "2025-03-06 21:02:17",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -27,7 +27,7 @@
                     "download": "8055044272"
                 }
             },
-            "decryptionkey": "262b20ffd5fbd41eb4e6993b44dba982695731cf82c7f787236a1bc1b82109aa"
+            "decryptionkey": ""
         },
         "2090470": {
             "dlcappid": "2090470",
@@ -55,7 +55,7 @@
                     "download": "11292391152"
                 }
             },
-            "decryptionkey": "7af65c0378d727ff872dcf1bfc511faa6bda56ddb31f4d891ba88a15e5540d17"
+            "decryptionkey": ""
         },
         "2182080": {
             "dlcappid": "2182080",
@@ -66,7 +66,7 @@
                     "download": "272255552"
                 }
             },
-            "decryptionkey": "8052cc32bd4cd71ff86ef8c4db68c2dc5ab50884feea0cc90db814a73eb3dcf7"
+            "decryptionkey": ""
         },
         "1084603": {
             "config": {
@@ -80,7 +80,7 @@
                     "download": "12875032064"
                 }
             },
-            "decryptionkey": "5298981b009169e714731cbf957866f073237c264807e27cc5ddc061d41efb5d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
