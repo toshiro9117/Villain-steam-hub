@@ -4,8 +4,8 @@
     "name": "Settlements Rising",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27455193",
-    "update_time": "2025-02-13 16:37:42",
+    "change_number": "28006432",
+    "update_time": "2025-03-18 11:56:03",
     "depot": {
         "228988": {
             "config": {
@@ -34,15 +34,25 @@
                     "gid": "7843187764908169976",
                     "size": "953248063",
                     "download": "772036832"
+                },
+                "bridge_update_beta": {
+                    "gid": "4957333779543049405",
+                    "size": "954863384",
+                    "download": "773585552"
                 }
             },
-            "decryptionkey": "e200731f8afd2f8137351361a3c2d1b87138c52e0a42435c6a7555eab7a78be6"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
         "branches": {
             "public": {
                 "buildid": "17348128",
                 "timeupdated": "1739435855"
+            },
+            "bridge_update_beta": {
+                "buildid": "17742124",
+                "description": "Bridges update preview.",
+                "timeupdated": "1742118555"
             }
         },
         "privatebranches": "1"
