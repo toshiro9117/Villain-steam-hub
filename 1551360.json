@@ -4,8 +4,8 @@
     "name": "Forza Horizon 5",
     "schinese_name": "极限竞速：地平线 5",
     "isfreeapp": "0",
-    "change_number": "27730526",
-    "update_time": "2025-03-01 14:33:24",
+    "change_number": "27998772",
+    "update_time": "2025-03-18 01:18:41",
     "depot": {
         "228988": {
             "config": {
@@ -24,12 +24,12 @@
         "1551361": {
             "manifests": {
                 "public": {
-                    "gid": "505991857863566386",
-                    "size": "158381292019",
-                    "download": "147547281392"
+                    "gid": "6303380406761968937",
+                    "size": "158381590886",
+                    "download": "147547390848"
                 }
             },
-            "decryptionkey": "13b42353469d4bb26905e2c12e73d4cd63ad89c21f438b3cf5b4b9a9bb659227"
+            "decryptionkey": ""
         },
         "1613280": {
             "dlcappid": "1613280",
@@ -40,7 +40,7 @@
                     "download": "10380391104"
                 }
             },
-            "decryptionkey": "1cc274dec87bdc5651311f72c4c162f4067eafba2d8fb98cac6e3be307f5948a"
+            "decryptionkey": ""
         },
         "1613281": {
             "dlcappid": "1613281",
@@ -51,13 +51,13 @@
                     "download": "16021991408"
                 }
             },
-            "decryptionkey": "d371f628205489a48d2888a29f596b335963d189f3e822ec32978292e989483a"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17304530",
-                "timeupdated": "1739382927"
+                "buildid": "17696169",
+                "timeupdated": "1741798656"
             }
         },
         "privatebranches": "1"
