@@ -4,8 +4,8 @@
     "name": "Marvel's Spider-Man 2",
     "schinese_name": "漫威蜘蛛侠2",
     "isfreeapp": "0",
-    "change_number": "27729315",
-    "update_time": "2025-03-01 11:24:03",
+    "change_number": "28012509",
+    "update_time": "2025-03-18 19:58:30",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,arabic,brazilian,greek,latam,vietnamese,indonesian",
         "228989": {
@@ -22,14 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "832542514145333199",
-                    "size": "111678687109",
-                    "download": "93114582768"
+                    "gid": "6697536669279375496",
+                    "size": "111681530913",
+                    "download": "93116250016"
                 },
                 "previous_version": {
-                    "gid": "3780665540826089818",
-                    "size": "110979871533",
-                    "download": "92532877456"
+                    "gid": "2908769840177589770",
+                    "size": "111681474150",
+                    "download": "93115168096"
                 }
             },
             "decryptionkey": "9874571b52ba0c01cbdfd32c5d81920d1093f42fbcf76d02a1e4589746a3b497"
@@ -41,14 +41,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5409754820457903994",
-                    "size": "844092991",
-                    "download": "524504928"
+                    "gid": "3022655019025353177",
+                    "size": "845425263",
+                    "download": "525649152"
                 },
                 "previous_version": {
-                    "gid": "3962363058397394711",
-                    "size": "839827159",
-                    "download": "522430160"
+                    "gid": "8048985448653596100",
+                    "size": "845350871",
+                    "download": "525374272"
                 }
             },
             "decryptionkey": "ab459f096f7d0fd0720dd711f19036f532f2678314af4155ed197882c260b539"
@@ -61,14 +61,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8866571373942651824",
-                    "size": "6478754745",
-                    "download": "1309323360"
+                    "gid": "6226989705365633187",
+                    "size": "6483938786",
+                    "download": "1310215712"
                 },
                 "previous_version": {
-                    "gid": "2894804731148974424",
-                    "size": "6474506169",
-                    "download": "1307801760"
+                    "gid": "1133646975062065791",
+                    "size": "6481438690",
+                    "download": "1310496608"
                 }
             },
             "decryptionkey": ""
@@ -85,9 +85,9 @@
                     "download": "3277269952"
                 },
                 "previous_version": {
-                    "gid": "6167306532236320170",
-                    "size": "3682443264",
-                    "download": "3350751856"
+                    "gid": "3140959264389958880",
+                    "size": "3593261056",
+                    "download": "3277269952"
                 }
             },
             "decryptionkey": "e342794b2586f10e0a3273560bda0fb524b448519ff20b6ec938d03e5b949104"
@@ -125,9 +125,9 @@
                     "download": "2780377776"
                 },
                 "previous_version": {
-                    "gid": "5343475842783999848",
-                    "size": "2900099072",
-                    "download": "2857545904"
+                    "gid": "4328447403863919771",
+                    "size": "2808504320",
+                    "download": "2780377776"
                 }
             },
             "decryptionkey": "14ad0c77584264070ad5cbedf200f8747660475645d0527c93425de942df6d1b"
@@ -145,9 +145,9 @@
                     "download": "2877615984"
                 },
                 "previous_version": {
-                    "gid": "8182477173156340597",
-                    "size": "3012661248",
-                    "download": "2970080112"
+                    "gid": "3948777963018938239",
+                    "size": "2904121344",
+                    "download": "2877615984"
                 }
             },
             "decryptionkey": "f33f54c66e41670774919e410838c06145826bfabe00def0753399b0ffe58b4a"
@@ -165,9 +165,9 @@
                     "download": "2800283248"
                 },
                 "previous_version": {
-                    "gid": "9013585335165354223",
-                    "size": "2936279040",
-                    "download": "2886213552"
+                    "gid": "2606619191523762582",
+                    "size": "2832175104",
+                    "download": "2800283248"
                 }
             },
             "decryptionkey": "4ab098c2d61d6bc168fb4067cfc2377f9865275310e1e86c960a12de83a39ee9"
@@ -185,9 +185,9 @@
                     "download": "2834234992"
                 },
                 "previous_version": {
-                    "gid": "5096952681562321018",
-                    "size": "2963841024",
-                    "download": "2919890752"
+                    "gid": "1855407133619078595",
+                    "size": "2865455104",
+                    "download": "2834234992"
                 }
             },
             "decryptionkey": "0a0e8a531cc2d2483435dcc5d3d0969712b646c0718c39991b0e64d2e0b9a1fd"
@@ -285,9 +285,9 @@
                     "download": "2857450480"
                 },
                 "previous_version": {
-                    "gid": "6453664605720166924",
-                    "size": "2992099328",
-                    "download": "2946332912"
+                    "gid": "2989068998349913273",
+                    "size": "2886979584",
+                    "download": "2857450480"
                 }
             },
             "decryptionkey": "319c6ed61f3fd2d4571eed5b5132ba16c780d70712db62109e2aa814a912e803"
@@ -305,9 +305,9 @@
                     "download": "2938834400"
                 },
                 "previous_version": {
-                    "gid": "9210707328245009319",
-                    "size": "3065921536",
-                    "download": "3021431264"
+                    "gid": "8497632270659961146",
+                    "size": "2967093248",
+                    "download": "2938834400"
                 }
             },
             "decryptionkey": "49480a4027a30684386dc0f2b32494b7424bbbe67234983c07644a0211ccb61c"
@@ -333,13 +333,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17406458",
-                "timeupdated": "1740050852"
+                "buildid": "17695354",
+                "timeupdated": "1741882111"
             },
             "previous_version": {
-                "buildid": "17341672",
+                "buildid": "17636916",
                 "description": "Rollback to previous version",
-                "timeupdated": "1740050916"
+                "timeupdated": "1741881995"
             }
         },
         "privatebranches": "1"
