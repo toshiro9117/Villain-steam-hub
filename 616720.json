@@ -4,8 +4,8 @@
     "name": "Live2DViewerEX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27231110",
-    "update_time": "2025-01-30 16:01:33",
+    "change_number": "27862704",
+    "update_time": "2025-03-10 07:10:19",
     "depot": {
         "workshopdepot": "616720",
         "hasdepotsindlc": "0",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3158422835065955825",
-                    "size": "1974123349",
-                    "download": "334144832"
+                    "gid": "652191753480006462",
+                    "size": "1974207749",
+                    "download": "333838128"
                 },
                 "legacy_version": {
                     "gid": "7911698314792274347",
@@ -53,7 +53,7 @@
                     "download": "193017776"
                 }
             },
-            "decryptionkey": "34f7b93e924c5d236bba8833fd04d9489e5a55fc76bda6992d5e65eb4cfce6c3"
+            "decryptionkey": ""
         },
         "616722": {
             "config": {
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "218526797953370812",
-                    "size": "1056209021",
-                    "download": "224057616"
+                    "gid": "1804784660641629920",
+                    "size": "1056447826",
+                    "download": "224112640"
                 },
                 "legacy_version": {
                     "gid": "1498672270706767204",
@@ -72,15 +72,15 @@
                     "download": "172493920"
                 }
             },
-            "decryptionkey": "9e382fdb223d32adfcb889f34734eb3e9d6097b029872159427c233d04928ff3"
+            "decryptionkey": ""
         },
         "1350680": {
             "dlcappid": "1350680"
         },
         "branches": {
             "public": {
-                "buildid": "17181510",
-                "timeupdated": "1738224088"
+                "buildid": "17655203",
+                "timeupdated": "1741561813"
             },
             "legacy_version": {
                 "buildid": "6741992",
@@ -89,6 +89,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "99529225ccd19a436d52b19894a9a5d24f0559ec79e9384570a58f11d9871727"
+        "workshopdepotdecryptionkey": ""
     }
 }
