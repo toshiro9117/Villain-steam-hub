@@ -4,8 +4,8 @@
     "name": "Otherskin Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27424445",
-    "update_time": "2025-02-12 01:13:46",
+    "change_number": "27804885",
+    "update_time": "2025-03-06 08:11:01",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "11137075646",
                     "download": "9091840464"
                 }
-            },
-            "decryptionkey": "02da996e886eb84957d8d0c1b7dfd99162e6d013e41b91dae61a4ec294a9839b"
+            }
         },
         "branches": {
             "public": {
