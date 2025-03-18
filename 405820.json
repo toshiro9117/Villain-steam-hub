@@ -4,8 +4,8 @@
     "name": "Turok",
     "schinese_name": "恐龙猎人",
     "isfreeapp": "0",
-    "change_number": "27725444",
-    "update_time": "2025-03-01 04:51:34",
+    "change_number": "28011298",
+    "update_time": "2025-03-18 18:36:53",
     "depot": {
         "workshopdepot": "405820",
         "228989": {
@@ -40,13 +40,18 @@
                     "size": "394779349",
                     "download": "348316208"
                 },
+                "beta": {
+                    "gid": "3906953481484246331",
+                    "size": "394928033",
+                    "download": "348347984"
+                },
                 "kex3": {
-                    "gid": "1838993315027208041",
-                    "size": "346168963",
-                    "download": "309565840"
+                    "gid": "1213146553431068036",
+                    "size": "345864056",
+                    "download": "309284896"
                 }
             },
-            "decryptionkey": "de91936b56f62ac1d0024bb432568e28865b657cfe6eacd1626430f516b01cbb"
+            "decryptionkey": ""
         },
         "405822": {
             "config": {
@@ -58,13 +63,18 @@
                     "size": "266927043",
                     "download": "257691712"
                 },
+                "beta": {
+                    "gid": "7760385175575901899",
+                    "size": "266927043",
+                    "download": "257691712"
+                },
                 "kex3": {
                     "gid": "7760385175575901899",
                     "size": "266927043",
                     "download": "257691712"
                 }
             },
-            "decryptionkey": "eb7606a23f80255909a0b05a3c8f71932b097c7bfe3c05b77b2ec32bd6476498"
+            "decryptionkey": ""
         },
         "405823": {
             "config": {
@@ -76,26 +86,36 @@
                     "size": "262495515",
                     "download": "255344768"
                 },
+                "beta": {
+                    "gid": "478163089711204514",
+                    "size": "262495515",
+                    "download": "255344768"
+                },
                 "kex3": {
                     "gid": "478163089711204514",
                     "size": "262495515",
                     "download": "255344768"
                 }
             },
-            "decryptionkey": "d980041d22de4be97b20d31396109720c6f3f445f3bdd457629c09847e2aee6b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
                 "buildid": "17552826",
                 "timeupdated": "1740775891"
             },
+            "beta": {
+                "buildid": "17729617",
+                "description": "Public Beta",
+                "timeupdated": "1741979540"
+            },
             "kex3": {
-                "buildid": "17552056",
+                "buildid": "17730046",
                 "description": "Legacy Release",
-                "timeupdated": "1740771053"
+                "timeupdated": "1741978604"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "27a7b691713eabc4e9360da30f5ebbe972f98ab65b2c073ad99499059973752c"
+        "workshopdepotdecryptionkey": ""
     }
 }
