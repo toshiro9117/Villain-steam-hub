@@ -4,8 +4,8 @@
     "name": "Kaal Yoddha Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27479037",
-    "update_time": "2025-02-14 20:26:03",
+    "change_number": "27932958",
+    "update_time": "2025-03-13 20:39:52",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -30,17 +30,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "571442743902787559",
-                    "size": "12938968272",
-                    "download": "11774418016"
+                    "gid": "4851875383132154801",
+                    "size": "7427675963",
+                    "download": "7073431888"
                 }
-            },
-            "decryptionkey": "cfe8422e038a99927f3b4f2681765a3570ff80aa3afada905a2c960e40cdb548"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17366054",
-                "timeupdated": "1739535959"
+                "buildid": "17584572",
+                "timeupdated": "1741069532"
             }
         }
     }
