@@ -4,8 +4,8 @@
     "name": "OVRLRD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27491251",
-    "update_time": "2025-02-15 12:59:54",
+    "change_number": "28002576",
+    "update_time": "2025-03-18 05:55:45",
     "depot": {
         "2163161": {
             "manifests": {
@@ -36,7 +36,7 @@
         "branches": {
             "public": {
                 "buildid": "17083787",
-                "timeupdated": "1737500561"
+                "timeupdated": "1741924247"
             },
             "old-version": {
                 "buildid": "16441499",
@@ -54,6 +54,7 @@
                 "timeupdated": "1729813753"
             }
         },
+        "privatebranches": "1",
         "workshopdepotdecryptionkey": ""
     }
 }
