@@ -4,8 +4,8 @@
     "name": "Cartier 06",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726797",
-    "update_time": "2025-03-01 06:45:51",
+    "change_number": "27984972",
+    "update_time": "2025-03-17 06:57:50",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7103738647219843478",
-                    "size": "8871881057",
-                    "download": "8600058640"
+                    "gid": "7770473724403757912",
+                    "size": "8768347387",
+                    "download": "8507558400"
                 }
             },
-            "decryptionkey": "c7c158277a4221a34e8a77b79badc1dda2ec27f727fa035a9e8ff11ebc8e7ff2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16928581",
-                "timeupdated": "1736259788"
+                "buildid": "17648462",
+                "timeupdated": "1741463696"
             }
         }
     }
