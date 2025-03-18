@@ -4,8 +4,8 @@
     "name": "DATE A LIVE: Rio Reincarnation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27244570",
-    "update_time": "2025-01-31 09:32:34",
+    "change_number": "27849289",
+    "update_time": "2025-03-08 17:01:23",
     "depot": {
         "228987": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "7317799520"
                 }
             },
-            "decryptionkey": "42c300ed85d7618f3fa71ad5ba690b96a67971de91e986d9e920527d400ec700"
+            "decryptionkey": ""
         },
         "1055670": {
             "manifests": {
@@ -45,7 +45,7 @@
                 }
             },
             "dlcappid": "1055670",
-            "decryptionkey": "8fc5e53493b08c7ffb83539a743a7c012b87566802eb320fc37fc43c7dae751a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
