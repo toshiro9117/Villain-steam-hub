@@ -4,8 +4,8 @@
     "name": "Bot Maker For Discord",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27543317",
-    "update_time": "2025-02-19 06:23:38",
+    "change_number": "27976480",
+    "update_time": "2025-03-16 06:57:57",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2592171": {
             "manifests": {
                 "public": {
-                    "gid": "6479671419308299436",
-                    "size": "2493306250",
-                    "download": "517784128"
+                    "gid": "6570012785019894268",
+                    "size": "2586259463",
+                    "download": "545382688"
                 },
                 "legacy": {
                     "gid": "880820317030094670",
@@ -27,13 +27,13 @@
                     "download": "110292016"
                 }
             },
-            "decryptionkey": "502ac6f41102a44486a938565251b4cfec23c49c691a0a6a34d25d1b38af47ca"
+            "decryptionkey": ""
         },
         "workshopdepot": "2592170",
         "branches": {
             "public": {
-                "buildid": "17414006",
-                "timeupdated": "1739917414"
+                "buildid": "17739158",
+                "timeupdated": "1742079472"
             },
             "legacy": {
                 "buildid": "12473211",
@@ -42,6 +42,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e00b46865ab132daf3d6878374e92a21ba0cdebdb04445f9439e73160c67463f"
+        "workshopdepotdecryptionkey": ""
     }
 }
