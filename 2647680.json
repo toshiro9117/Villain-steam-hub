@@ -4,8 +4,8 @@
     "name": "ICBM: Escalation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542635",
-    "update_time": "2025-02-19 05:30:31",
+    "change_number": "27976471",
+    "update_time": "2025-03-16 06:57:18",
     "depot": {
         "228990": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "5074376800"
                 }
             },
-            "decryptionkey": "b1bf03cc4418c9b103c1d3e63e121d3b36137b3a70cd03b7662c3b155a365a91"
+            "decryptionkey": ""
         },
         "2647682": {
             "manifests": {
@@ -49,7 +49,7 @@
                     "download": "1266768"
                 }
             },
-            "decryptionkey": "89cba265964e76f3b0c5986e82b514b75d3292ad19c6e554cde5d67a57906e4e"
+            "decryptionkey": ""
         },
         "workshopdepot": "2647680",
         "branches": {
@@ -64,6 +64,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c242cf1fa20dc1df63043f2aa9695af3c54b72aac4f1962b3cb873f3f40a224d"
+        "workshopdepotdecryptionkey": ""
     }
 }
