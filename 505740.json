@@ -4,8 +4,8 @@
     "name": "Eximius: Seize the Frontline",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27512358",
-    "update_time": "2025-02-17 17:09:05",
+    "change_number": "27869739",
+    "update_time": "2025-03-10 19:04:12",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -30,12 +30,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8054934393686384863",
-                    "size": "39725895527",
-                    "download": "16322643456"
+                    "gid": "3896650908674957943",
+                    "size": "39726982612",
+                    "download": "16322729328"
                 }
             },
-            "decryptionkey": "ae216fe11797106d35ecfb02882c3c9c1c7b1d435c7816b8bf5741bfe15962cd"
+            "decryptionkey": ""
         },
         "505742": {},
         "948140": {
@@ -52,8 +52,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17457565",
-                "timeupdated": "1740154555"
+                "buildid": "17658756",
+                "timeupdated": "1741604647"
             }
         },
         "privatebranches": "1"
