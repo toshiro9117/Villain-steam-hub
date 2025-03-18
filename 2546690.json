@@ -4,8 +4,8 @@
     "name": "Tram Simulator Urban Transit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27378606",
-    "update_time": "2025-02-08 21:29:19",
+    "change_number": "27984970",
+    "update_time": "2025-03-17 06:57:26",
     "depot": {
         "228988": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "4667425104"
                 }
             },
-            "decryptionkey": "3c1a0f11f287aa5e650e4ba6a09559d978698c143e8f8119238ac4f564bccc84"
+            "decryptionkey": ""
         },
         "2546692": {},
         "branches": {
