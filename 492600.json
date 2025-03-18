@@ -4,8 +4,8 @@
     "name": "Ridge",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27130163",
-    "update_time": "2025-01-23 20:25:44",
+    "change_number": "27984960",
+    "update_time": "2025-03-17 06:56:11",
     "depot": {
         "228984": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "1032086640"
                 }
             },
-            "decryptionkey": "c19e6b2dd9ffdd2db18fa2a04cdf7acc6a340e8a3b9df17fb95deb693035479d"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,spanish,russian",
         "branches": {
