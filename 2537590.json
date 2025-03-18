@@ -4,8 +4,8 @@
     "name": "Microsoft Flight Simulator 2024",
     "schinese_name": "微软模拟飞行 2024",
     "isfreeapp": "0",
-    "change_number": "27723404",
-    "update_time": "2025-03-01 02:29:45",
+    "change_number": "28011359",
+    "update_time": "2025-03-18 18:40:51",
     "depot": {
         "228989": {
             "config": {
@@ -17,28 +17,28 @@
         "2537591": {
             "manifests": {
                 "public": {
-                    "gid": "7541466308946046594",
-                    "size": "11424323722",
-                    "download": "8196097040"
+                    "gid": "4088258797570334063",
+                    "size": "9056582306",
+                    "download": "6526426816"
                 },
                 "flight_sim_2024_beta": {
-                    "gid": "7029103363515388649",
-                    "size": "9058708348",
-                    "download": "6528548512"
+                    "gid": "4088258797570334063",
+                    "size": "9056582306",
+                    "download": "6526426816"
                 }
             },
-            "decryptionkey": "a149759cc259406fd0f2255297e089d9deb63fb59c263b7f2d1b7fcd7aded1a4"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "16834574",
-                "timeupdated": "1736445723"
+                "buildid": "17515664",
+                "timeupdated": "1741287789"
             },
             "flight_sim_2024_beta": {
-                "buildid": "17530552",
+                "buildid": "17515664",
                 "description": "Sim Update 1",
-                "timeupdated": "1740767382"
+                "timeupdated": "1741288035"
             }
         },
         "privatebranches": "1"
