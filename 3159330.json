@@ -1,0 +1,126 @@
+{
+    "appid": "3159330",
+    "type": "Game",
+    "name": "Assassin's Creed Shadows",
+    "schinese_name": "刺客信条：影",
+    "isfreeapp": "0",
+    "change_number": "28001462",
+    "update_time": "2025-03-18 04:22:04",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3159331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2907421985025207780",
+                    "size": "117298429841",
+                    "download": "96464218176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "3159332": {
+            "config": {
+                "language": "english"
+            }
+        },
+        "3159333": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8041983861327903517",
+                    "size": "1551990784",
+                    "download": "1529582496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3159334": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4533174732948070200",
+                    "size": "1799094272",
+                    "download": "1787592864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3159335": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6453011599598903786",
+                    "size": "1666744320",
+                    "download": "1658706816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3159336": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8321413135156695971",
+                    "size": "1713963008",
+                    "download": "1690277376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3159337": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1858226764110355005",
+                    "size": "1620312064",
+                    "download": "1597287472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3159338": {
+            "config": {
+                "language": "japanese"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17632144",
+                "timeupdated": "1742219620"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
