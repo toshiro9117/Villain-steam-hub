@@ -4,8 +4,8 @@
     "name": "Taiko no Tatsujin: Rhythm Festival",
     "schinese_name": "太鼓之达人 咚咚雷音祭",
     "isfreeapp": "0",
-    "change_number": "27715292",
-    "update_time": "2025-02-28 18:42:19",
+    "change_number": "28002163",
+    "update_time": "2025-03-18 05:16:29",
     "depot": {
         "228989": {
             "config": {
@@ -27,12 +27,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8707645838894895097",
-                    "size": "3387575138",
-                    "download": "2916441952"
+                    "gid": "1561401012088080776",
+                    "size": "3493046289",
+                    "download": "3003823136"
                 }
             },
-            "decryptionkey": "6247e146b14ff88aa5a155f90b42e263de32e1c0b1f6d0a681454ef040c60530"
+            "decryptionkey": ""
         },
         "2288632": {
             "config": {
@@ -43,8 +43,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16613002",
-                "timeupdated": "1733972404"
+                "buildid": "17413255",
+                "timeupdated": "1741834803"
             }
         },
         "privatebranches": "1"
