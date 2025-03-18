@@ -4,8 +4,8 @@
     "name": "Arms Trade Tycoon Tanks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27515806",
-    "update_time": "2025-02-17 21:01:29",
+    "change_number": "28013353",
+    "update_time": "2025-03-18 20:56:52",
     "depot": {
         "1662211": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6415770711458388983",
-                    "size": "5241414905",
-                    "download": "4589921696"
+                    "gid": "4241869846401529328",
+                    "size": "5241426697",
+                    "download": "4589928160"
                 }
             },
             "decryptionkey": "2f4260f71eb14c440ae0308f39bc10b34f9e54d522307a318c23ae5d2e03419f"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6057695270446316931",
-                    "size": "5221245094",
-                    "download": "4588024528"
+                    "gid": "6444369384347906818",
+                    "size": "5221283692",
+                    "download": "4588022928"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17455307",
-                "timeupdated": "1740145579"
+                "buildid": "17526986",
+                "timeupdated": "1740650161"
             }
         },
         "privatebranches": "1"
