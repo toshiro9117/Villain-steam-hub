@@ -4,8 +4,8 @@
     "name": "The Operator",
     "schinese_name": "接线疑云 The Operator",
     "isfreeapp": "0",
-    "change_number": "27721082",
-    "update_time": "2025-03-01 00:22:55",
+    "change_number": "27995704",
+    "update_time": "2025-03-17 22:34:47",
     "depot": {
         "baselanguages": "english,french",
         "1771981": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1521055226008888090",
-                    "size": "2062626580",
-                    "download": "700346528"
+                    "gid": "3249070521840919154",
+                    "size": "2425100824",
+                    "download": "1224823248"
                 },
                 "beta": {
-                    "gid": "1521055226008888090",
-                    "size": "2062626580",
-                    "download": "700346528"
+                    "gid": "3249070521840919154",
+                    "size": "2425100824",
+                    "download": "1224823248"
                 }
             },
             "decryptionkey": "a132c1c3d884ac55a44f68c500d37d3562afab6e6642d3051469f09a097274c3"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1308903935495870256",
-                    "size": "2112034861",
-                    "download": "711584032"
+                    "gid": "1752176067246835015",
+                    "size": "2465294049",
+                    "download": "1235305280"
                 },
                 "beta": {
-                    "gid": "1308903935495870256",
-                    "size": "2112034861",
-                    "download": "711584032"
+                    "gid": "1752176067246835015",
+                    "size": "2465294049",
+                    "download": "1235305280"
                 }
             },
             "decryptionkey": ""
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1056633337870240217",
-                    "size": "2046201452",
-                    "download": "695225952"
+                    "gid": "4833014472917027421",
+                    "size": "1813606510",
+                    "download": "624722256"
                 },
                 "beta": {
-                    "gid": "1056633337870240217",
-                    "size": "2046201452",
-                    "download": "695225952"
+                    "gid": "4833014472917027421",
+                    "size": "1813606510",
+                    "download": "624722256"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15593303",
-                "timeupdated": "1725470530"
+                "buildid": "17747709",
+                "timeupdated": "1742220893"
             },
             "beta": {
-                "buildid": "15593303",
+                "buildid": "17747709",
                 "description": "beta branch to test the latest version",
-                "timeupdated": "1725470500"
+                "timeupdated": "1742190408"
             }
         },
         "privatebranches": "1"
