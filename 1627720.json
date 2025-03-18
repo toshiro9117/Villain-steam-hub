@@ -4,8 +4,8 @@
     "name": "Lies of P",
     "schinese_name": "匹诺曹的谎言",
     "isfreeapp": "0",
-    "change_number": "27448579",
-    "update_time": "2025-02-13 06:56:47",
+    "change_number": "27940222",
+    "update_time": "2025-03-14 02:21:27",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "36870542448"
                 }
             },
-            "decryptionkey": "d847ff3494ad5b72d69b7b38c52474fdb22d437421b569013dd1508d8879f7c1"
+            "decryptionkey": ""
         },
         "1627722": {
             "config": {
@@ -45,7 +45,7 @@
                     "download": "36999436032"
                 }
             },
-            "decryptionkey": "b2550c254da0b229ff5f5bb765b809d2fac5bd74a98ff3611b8cb8870e02aa6a"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "0",
         "branches": {
