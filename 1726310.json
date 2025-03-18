@@ -4,8 +4,8 @@
     "name": "Underground Garage Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523935",
-    "update_time": "2025-02-18 06:14:38",
+    "change_number": "27933146",
+    "update_time": "2025-03-13 20:52:34",
     "depot": {
         "228985": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "7437766367",
                     "download": "6922928880"
                 }
-            },
-            "decryptionkey": "6e7fd95ead116c6d5ca7aec5c27fe5c49e08c2199f8af0aed6dfd8604f9950c8"
+            }
         },
         "branches": {
             "public": {
