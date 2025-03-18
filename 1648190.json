@@ -4,8 +4,8 @@
     "name": "QANGA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27727446",
-    "update_time": "2025-03-01 07:48:37",
+    "change_number": "28000462",
+    "update_time": "2025-03-18 03:04:04",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8638657947065508229",
-                    "size": "30605865597",
-                    "download": "29277709680"
+                    "gid": "8547176152837232995",
+                    "size": "28744309139",
+                    "download": "27447209216"
                 }
             },
-            "decryptionkey": "1677f7efc59df6ff08c335fc08fc015d725ede40b360c1c5770a122e5aafead4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17201686",
-                "timeupdated": "1738422541"
+                "buildid": "17747322",
+                "timeupdated": "1742238240"
             }
         },
         "privatebranches": "1"
