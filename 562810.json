@@ -4,8 +4,8 @@
     "name": "Monopoly Plus",
     "schinese_name": "强手棋：加强版",
     "isfreeapp": "0",
-    "change_number": "27014867",
-    "update_time": "2025-01-16 06:14:18",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:32",
     "depot": {
         "hasdepotsindlc": "0",
         "228983": {
@@ -50,14 +50,14 @@
                     "download": "1097428608"
                 }
             },
-            "decryptionkey": "2167d0c08caf4089421eb05ba77a5ec0c869f51a58cc0090827aed949dafb59c"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
