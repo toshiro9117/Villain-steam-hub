@@ -4,8 +4,8 @@
     "name": "Grisaia Phantom Trigger Vol.1",
     "schinese_name": "灰色幻影扳机第1卷",
     "isfreeapp": "0",
-    "change_number": "27036016",
-    "update_time": "2025-01-17 11:32:12",
+    "change_number": "27857512",
+    "update_time": "2025-03-09 17:01:51",
     "depot": {
         "228990": {
             "config": {
@@ -22,7 +22,7 @@
                     "download": "2039348592"
                 }
             },
-            "decryptionkey": "8f4bfd5225b7704c251d41801ab159469ddd81eafca56c302b044fd71c23b037"
+            "decryptionkey": ""
         },
         "606512": {
             "manifests": {
@@ -32,7 +32,7 @@
                     "download": "329855392"
                 }
             },
-            "decryptionkey": "282d79ed834cbf679e92aab21652e698e45566427b9a3f5ee7e3d3cb0b523e0a"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
