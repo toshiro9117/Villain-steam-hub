@@ -4,8 +4,8 @@
     "name": "Avorion Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27327328",
-    "update_time": "2025-02-05 22:30:33",
+    "change_number": "27909632",
+    "update_time": "2025-03-12 19:25:23",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "565060",
@@ -54,9 +54,9 @@
         "565061": {
             "manifests": {
                 "public": {
-                    "gid": "8705892664501364648",
-                    "size": "36839881",
-                    "download": "5180576"
+                    "gid": "3833750020247348385",
+                    "size": "36844099",
+                    "download": "5182416"
                 },
                 "0.28.1": {
                     "gid": "230481021285753536",
@@ -134,14 +134,14 @@
                     "download": "5176528"
                 },
                 "beta": {
-                    "gid": "478179891094850204",
-                    "size": "36843328",
-                    "download": "5181888"
+                    "gid": "3833750020247348385",
+                    "size": "36844099",
+                    "download": "5182416"
                 },
                 "previous": {
-                    "gid": "1026989228517093101",
-                    "size": "36830679",
-                    "download": "5176528"
+                    "gid": "8705892664501364648",
+                    "size": "36839881",
+                    "download": "5180576"
                 }
             },
             "decryptionkey": ""
@@ -153,9 +153,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7648603293945689437",
-                    "size": "40727039",
-                    "download": "11791264"
+                    "gid": "7428680280577982213",
+                    "size": "40750591",
+                    "download": "11796944"
                 },
                 "0.28.1": {
                     "gid": "303978621383279334",
@@ -233,14 +233,14 @@
                     "download": "11531424"
                 },
                 "beta": {
-                    "gid": "272164977830357955",
-                    "size": "40742911",
-                    "download": "11796800"
+                    "gid": "7428680280577982213",
+                    "size": "40750591",
+                    "download": "11796944"
                 },
                 "previous": {
-                    "gid": "4449930068786716846",
-                    "size": "39974173",
-                    "download": "11531424"
+                    "gid": "7648603293945689437",
+                    "size": "40727039",
+                    "download": "11791264"
                 }
             },
             "decryptionkey": ""
@@ -252,9 +252,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8397604810632011696",
-                    "size": "35296337",
-                    "download": "9540880"
+                    "gid": "2283789012335361840",
+                    "size": "35320921",
+                    "download": "9547152"
                 },
                 "0.28.1": {
                     "gid": "4852513652725168065",
@@ -332,14 +332,14 @@
                     "download": "19478736"
                 },
                 "beta": {
-                    "gid": "3927340252327156299",
-                    "size": "35312729",
-                    "download": "9544448"
+                    "gid": "2283789012335361840",
+                    "size": "35320921",
+                    "download": "9547152"
                 },
                 "previous": {
-                    "gid": "8102390662074333508",
-                    "size": "71398345",
-                    "download": "19478736"
+                    "gid": "8397604810632011696",
+                    "size": "35296337",
+                    "download": "9540880"
                 }
             },
             "decryptionkey": ""
@@ -351,9 +351,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2593617012137058389",
-                    "size": "51175972",
-                    "download": "11737488"
+                    "gid": "612111873095629761",
+                    "size": "51213732",
+                    "download": "11743312"
                 },
                 "0.28.1": {
                     "gid": "7227003647649554970",
@@ -431,22 +431,22 @@
                     "download": "11817728"
                 },
                 "beta": {
-                    "gid": "8280077241520658281",
-                    "size": "51209284",
-                    "download": "11742624"
+                    "gid": "612111873095629761",
+                    "size": "51213732",
+                    "download": "11743312"
                 },
                 "previous": {
-                    "gid": "5947853234816116313",
-                    "size": "52031036",
-                    "download": "11817728"
+                    "gid": "2593617012137058389",
+                    "size": "51175972",
+                    "download": "11737488"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16724515",
-                "timeupdated": "1734079944"
+                "buildid": "17680410",
+                "timeupdated": "1741778719"
             },
             "0.28.1": {
                 "buildid": "4401282",
@@ -524,14 +524,14 @@
                 "timeupdated": "1733752556"
             },
             "beta": {
-                "buildid": "17252709",
+                "buildid": "17680410",
                 "description": "Beta Branch - Newest Changes & Experimental Features",
-                "timeupdated": "1738765829"
+                "timeupdated": "1741712435"
             },
             "previous": {
-                "buildid": "14719268",
-                "description": "Previous Build 2.5.2 - Will be disabled soon",
-                "timeupdated": "1733752577"
+                "buildid": "16724515",
+                "description": "Previous Build 2.5.5 - Will be disabled soon",
+                "timeupdated": "1741778486"
             }
         },
         "privatebranches": "1",
