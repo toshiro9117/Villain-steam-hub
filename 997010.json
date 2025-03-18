@@ -4,8 +4,8 @@
     "name": "Police Simulator: Patrol Officers",
     "schinese_name": "警察模拟器：巡警",
     "isfreeapp": "0",
-    "change_number": "27513313",
-    "update_time": "2025-02-17 18:17:02",
+    "change_number": "27994940",
+    "update_time": "2025-03-17 22:00:11",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "4047880896"
                 }
             },
-            "decryptionkey": "788e33ebc2e38174d9b613b57ed47947aacaf7399a6bbd32762161e56ce34d62"
+            "decryptionkey": ""
         },
         "workshopdepot": "997010",
         "branches": {
@@ -39,6 +39,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e0a4648d4ca142f34287122872b86bd305cacbe1ff627fe6f774aa1b0576ed6f"
+        "workshopdepotdecryptionkey": ""
     }
 }
