@@ -4,8 +4,8 @@
     "name": "异界炮艇（Otherworldly Air Gunship）",
     "schinese_name": "异界炮艇",
     "isfreeapp": "0",
-    "change_number": "27149989",
-    "update_time": "2025-01-24 21:36:12",
+    "change_number": "27737114",
+    "update_time": "2025-03-02 06:46:04",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "3491339056"
                 }
             },
-            "decryptionkey": "fd15434c7b60a7d4a2782aaf4f12bbe6cc847d6ef3cefbf2b104fadd6ede2710"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
