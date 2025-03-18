@@ -4,8 +4,8 @@
     "name": "Growtopia",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27529661",
-    "update_time": "2025-02-18 15:44:51",
+    "change_number": "27929391",
+    "update_time": "2025-03-13 17:14:19",
     "depot": {
         "228983": {
             "config": {
@@ -31,28 +31,26 @@
         "866021": {
             "manifests": {
                 "public": {
-                    "gid": "3390238594249132903",
-                    "size": "194378969",
-                    "download": "176676592"
+                    "gid": "8737857650378834596",
+                    "size": "202371822",
+                    "download": "184223440"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
-            "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "depotfromapp": "1716750"
         },
         "branches": {
             "public": {
-                "buildid": "17362232",
-                "timeupdated": "1739864686"
+                "buildid": "17691698",
+                "timeupdated": "1741857248"
             }
         },
         "privatebranches": "1"
