@@ -4,8 +4,8 @@
     "name": "Guild Saga: Vanished Worlds",
     "schinese_name": "公会传说 遗落的世界",
     "isfreeapp": "0",
-    "change_number": "27727503",
-    "update_time": "2025-03-01 07:54:46",
+    "change_number": "27822757",
+    "update_time": "2025-03-07 04:43:01",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
                     "download": "202630048"
                 },
                 "experimental": {
-                    "gid": "5134848654545840897",
-                    "size": "5309817316",
-                    "download": "515307200"
+                    "gid": "1469211321220454425",
+                    "size": "5321407327",
+                    "download": "515972640"
                 }
             },
             "decryptionkey": "2a999e283fd4e1e911dbf0b0af2cb0c12ad487fe85f8d9718b6ecf52971962ba"
@@ -57,9 +57,9 @@
                 "timeupdated": "1678450015"
             },
             "experimental": {
-                "buildid": "17547265",
+                "buildid": "17625555",
                 "description": "Experimental release",
-                "timeupdated": "1740786882"
+                "timeupdated": "1741293775"
             }
         },
         "privatebranches": "1"
