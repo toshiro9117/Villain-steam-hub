@@ -4,8 +4,8 @@
     "name": "Nobody Nowhere",
     "schinese_name": "无名归宿 NobodyNowhere",
     "isfreeapp": "0",
-    "change_number": "27538832",
-    "update_time": "2025-02-19 01:14:58",
+    "change_number": "27991798",
+    "update_time": "2025-03-17 18:55:58",
     "depot": {
         "baselanguages": "english,schinese",
         "2440891": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3497431203957440888",
-                    "size": "566307999",
-                    "download": "405770352"
+                    "gid": "6034201118873104284",
+                    "size": "566306137",
+                    "download": "405770224"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17395485",
-                "timeupdated": "1739808008"
+                "buildid": "17502247",
+                "timeupdated": "1740499685"
             }
         }
     }
