@@ -4,8 +4,8 @@
     "name": "Squad",
     "schinese_name": "战术小队",
     "isfreeapp": "0",
-    "change_number": "27719391",
-    "update_time": "2025-02-28 22:49:58",
+    "change_number": "27904536",
+    "update_time": "2025-03-12 13:18:43",
     "depot": {
         "228984": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "36448063408"
                 }
             },
-            "decryptionkey": "d11ff0e6b7d56d9c48173256141f75daf1a14f85f6aac9e09d45d05ef7ef935d"
+            "decryptionkey": ""
         },
         "393382": {
             "config": {
@@ -66,7 +66,7 @@
                     "download": "15264"
                 }
             },
-            "decryptionkey": "6e595b318ca37cc13710648c00e22386d7c5d385fadef84067f0e22b81b1d468"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
@@ -76,6 +76,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "3c6c9af4f3cd23753dd5943cf581e775d1c8399b3c003a86286388aaf363b514"
+        "workshopdepotdecryptionkey": ""
     }
 }
