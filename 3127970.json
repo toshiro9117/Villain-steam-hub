@@ -4,8 +4,8 @@
     "name": "Volkolak: The Will of Gods Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730250",
-    "update_time": "2025-03-01 13:46:31",
+    "change_number": "27847467",
+    "update_time": "2025-03-08 12:08:54",
     "depot": {
         "228988": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "5581422944",
                     "download": "597240480"
                 }
-            },
-            "decryptionkey": "034bee9d630e503023bf22b014c63a77f306dc07588aa669cd33ead5a9f70f81"
+            }
         },
         "branches": {
             "public": {
