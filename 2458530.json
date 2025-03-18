@@ -4,8 +4,8 @@
     "name": "魔女的夜宴",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27502412",
-    "update_time": "2025-02-16 20:15:10",
+    "change_number": "27980592",
+    "update_time": "2025-03-16 20:20:44",
     "depot": {
         "228988": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "2953620544"
                 }
             },
-            "decryptionkey": "a112ff17726a4eadb397f7d89ea34e081ba3891aa001fe4de40b3b3f868bb1a7"
+            "decryptionkey": ""
         },
         "baselanguages": "schinese,tchinese,japanese",
         "branches": {
