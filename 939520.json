@@ -4,8 +4,8 @@
     "name": "HELLGATE: London",
     "schinese_name": "暗黑之门：伦敦",
     "isfreeapp": "0",
-    "change_number": "26963426",
-    "update_time": "2025-01-13 01:08:48",
+    "change_number": "27973373",
+    "update_time": "2025-03-15 23:20:34",
     "depot": {
         "228981": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "7115650848"
                 }
             },
-            "decryptionkey": "34937eb8cf3adfaa70161d9ed569145b90f8dd53dd571ac6fd85f0777a67f3f1"
+            "decryptionkey": ""
         },
         "baselanguages": "english",
         "branches": {
