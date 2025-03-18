@@ -4,8 +4,8 @@
     "name": "The Chronicles Of Myrtana: Archolos",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27723085",
-    "update_time": "2025-03-01 02:09:48",
+    "change_number": "27980094",
+    "update_time": "2025-03-16 18:49:06",
     "depot": {
         "baselanguages": "english,german,italian,spanish,russian,polish,latam",
         "hasdepotsindlc": "0",
@@ -53,8 +53,7 @@
                     "download": "2466864784"
                 }
             },
-            "depotfromapp": "39510",
-            "decryptionkey": "19594bd89b6aef0b481013cafd3da433d86d6046c221734a339a895d70286f08"
+            "depotfromapp": "39510"
         },
         "39517": {
             "config": {
@@ -67,8 +66,7 @@
                     "download": "15646992"
                 }
             },
-            "depotfromapp": "39510",
-            "decryptionkey": "9b734085006ae36183582809eb469d112c6446525f0048b31eaebef7620c0116"
+            "depotfromapp": "39510"
         },
         "39516": {
             "config": {
@@ -81,8 +79,7 @@
                     "download": "1700210672"
                 }
             },
-            "depotfromapp": "39510",
-            "decryptionkey": "137df0fc92a311cb1be4f23cde600524f9cde6748a95a922e011c95de3addf85"
+            "depotfromapp": "39510"
         },
         "1467451": {
             "manifests": {
@@ -181,8 +178,7 @@
                     "size": "1421629088",
                     "download": "858233408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467452": {
             "config": {
@@ -284,8 +280,7 @@
                     "size": "4934304940",
                     "download": "3930718656"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467453": {
             "config": {
@@ -387,8 +382,7 @@
                     "size": "236937751",
                     "download": "184605904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467455": {
             "manifests": {
@@ -487,8 +481,7 @@
                     "size": "3384",
                     "download": "112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1495950": {
             "dlcappid": "1495950",
@@ -591,8 +584,7 @@
             },
             "config": {
                 "optionaldlc": "1495950"
-            },
-            "decryptionkey": ""
+            }
         },
         "1467456": {
             "config": {
@@ -645,12 +637,11 @@
                     "download": "184759792"
                 },
                 "crowdin": {
-                    "gid": "2894242656084924095",
-                    "size": "237094969",
-                    "download": "184759600"
+                    "gid": "9045648437693877637",
+                    "size": "237095111",
+                    "download": "184758384"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467457": {
             "config": {
@@ -682,8 +673,7 @@
                     "size": "239790932",
                     "download": "185637280"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467458": {
             "config": {
@@ -730,8 +720,7 @@
                     "size": "237228551",
                     "download": "184518432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467459": {
             "config": {
@@ -778,8 +767,7 @@
                     "size": "5019371780",
                     "download": "3642847904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1467454": {
             "config": {
@@ -821,8 +809,7 @@
                     "size": "236550900",
                     "download": "184372752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1495951": {
             "config": {
@@ -864,8 +851,7 @@
                     "size": "236550331",
                     "download": "184372784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1495952": {
             "config": {
@@ -882,8 +868,7 @@
                     "size": "241955532",
                     "download": "184486608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1495953": {
             "config": {
@@ -891,12 +876,11 @@
             },
             "manifests": {
                 "crowdin": {
-                    "gid": "7549322624136632189",
-                    "size": "237994052",
-                    "download": "184758880"
+                    "gid": "1524931735425070865",
+                    "size": "237995954",
+                    "download": "184757776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2079620": {
             "dlcappid": "2079620",
@@ -937,8 +921,7 @@
             },
             "config": {
                 "optionaldlc": "2887650"
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -1031,9 +1014,9 @@
                 "timeupdated": "1673553731"
             },
             "crowdin": {
-                "buildid": "17039021",
+                "buildid": "17662634",
                 "description": "Weekly localization build",
-                "timeupdated": "1737112121"
+                "timeupdated": "1741615923"
             }
         },
         "privatebranches": "1",
