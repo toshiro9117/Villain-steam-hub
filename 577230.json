@@ -4,8 +4,8 @@
     "name": "Three Kingdoms: The Last Warlord",
     "schinese_name": "三国志汉末霸业",
     "isfreeapp": "0",
-    "change_number": "27712891",
-    "update_time": "2025-02-28 16:49:58",
+    "change_number": "28006031",
+    "update_time": "2025-03-18 11:12:30",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,latam,vietnamese",
         "hasdepotsindlc": "1",
@@ -105,7 +105,7 @@
                     "download": "1587645536"
                 }
             },
-            "decryptionkey": "9637d76aa413d336de9550b3932653ee37f71ac30d96721a9bcc5e14a87ec788"
+            "decryptionkey": ""
         },
         "577232": {
             "config": {
@@ -125,7 +125,7 @@
                     "download": "1101450496"
                 }
             },
-            "decryptionkey": "6bf9dba002c2cb8ed0fd82bc69393ca8464cffc170225416f7aee00fa0ad82a3"
+            "decryptionkey": ""
         },
         "577233": {
             "config": {
@@ -145,7 +145,7 @@
                     "download": "979418800"
                 }
             },
-            "decryptionkey": "9bb32a976cd5c911f2cf02d5251dc28fbce00f9a991701c09532e03cd630637e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -159,6 +159,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "43ee897087b5231758d95b8983edc9fd4008038379421c6ff71a28cd01e33d96"
+        "workshopdepotdecryptionkey": ""
     }
 }
