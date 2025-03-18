@@ -4,8 +4,8 @@
     "name": "Battlefield 1 ™",
     "schinese_name": "战地风云1",
     "isfreeapp": "0",
-    "change_number": "27512471",
-    "update_time": "2025-02-17 17:16:03",
+    "change_number": "27993079",
+    "update_time": "2025-03-17 20:21:39",
     "depot": {
         "228985": {
             "config": {
@@ -27,12 +27,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8881835059789731946",
-                    "size": "87659001200",
-                    "download": "63594393040"
+                    "gid": "1819202721014430225",
+                    "size": "87724166021",
+                    "download": "63628162400"
                 }
             },
-            "decryptionkey": "cb8c758a6b306785d05f63438a35661ee32cdf1d1cff46d1fbd1b2b9ae6c77e5"
+            "decryptionkey": ""
         },
         "1238842": {
             "config": {
@@ -40,12 +40,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6493123619515455044",
+                    "gid": "8603388110745960936",
                     "size": "166576",
                     "download": "34848"
                 }
             },
-            "decryptionkey": "01d2655d5a322102278109ba650ef63f0af559005c03c42f488fa9ea838c5360"
+            "decryptionkey": ""
         },
         "1238843": {
             "config": {
@@ -53,12 +53,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4585029454185435870",
+                    "gid": "311816778127462016",
                     "size": "220966",
-                    "download": "39776"
+                    "download": "39792"
                 }
             },
-            "decryptionkey": "ef63e230db178de5ba83fe6db0e126e49ea50b5b013c3a9446c196d76a0a188e"
+            "decryptionkey": ""
         },
         "1238844": {
             "config": {
@@ -66,12 +66,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6374184585158957756",
+                    "gid": "4895827690700060475",
                     "size": "178099",
                     "download": "35056"
                 }
             },
-            "decryptionkey": "563c64c4a8a03b132f383a1b283f4dede43590fbf82517f56ee0dd7172cafc11"
+            "decryptionkey": ""
         },
         "1238845": {
             "config": {
@@ -79,12 +79,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2315098224507679807",
+                    "gid": "2329135298461803691",
                     "size": "200233",
                     "download": "38736"
                 }
             },
-            "decryptionkey": "1d36de8d8f5ca5ae60eeda4a3d622884bd05a8aa462fb98d56e2ec926baedc10"
+            "decryptionkey": ""
         },
         "1238846": {
             "config": {
@@ -92,12 +92,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7784730895070955292",
+                    "gid": "3226547397988750463",
                     "size": "179549",
                     "download": "36800"
                 }
             },
-            "decryptionkey": "9f72127c998d8db2f4118827aef531fffd5ad1ff33ce6bdb55249ce4de669f65"
+            "decryptionkey": ""
         },
         "1238847": {
             "config": {
@@ -105,12 +105,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4956675264415539844",
+                    "gid": "8471862724280977916",
                     "size": "523187",
                     "download": "49040"
                 }
             },
-            "decryptionkey": "50851f77684e1cab0648488e5630ee614085e5cec453fe5c0f57b97dc31d756e"
+            "decryptionkey": ""
         },
         "1238848": {
             "config": {
@@ -118,12 +118,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1262494410877970786",
+                    "gid": "5857397183589548065",
                     "size": "274891",
                     "download": "42576"
                 }
             },
-            "decryptionkey": "7a3effb7b26ecf44ae09dce6df39f2332990f6d0b726aa1ed58b4bed0e4b7fd4"
+            "decryptionkey": ""
         },
         "1238849": {
             "config": {
@@ -131,12 +131,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7901958998371845775",
+                    "gid": "3350782854890882555",
                     "size": "678919",
                     "download": "53616"
                 }
             },
-            "decryptionkey": "515d63c59eb085af6028f57b150a01b3328092809a46703898535f551c716c78"
+            "decryptionkey": ""
         },
         "1238852": {
             "config": {
@@ -144,12 +144,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1867397315107119232",
+                    "gid": "6876244450189232280",
                     "size": "588624",
                     "download": "53600"
                 }
             },
-            "decryptionkey": "a4f7c4516dc72e16700c4b4deac33c20287074574decf9b49369653662e721eb"
+            "decryptionkey": ""
         },
         "1238853": {
             "config": {
@@ -157,12 +157,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4497724353466527133",
+                    "gid": "5281643831187131300",
                     "size": "202286",
                     "download": "37920"
                 }
             },
-            "decryptionkey": "24c8d7cafd56006a415371f91b4a2a6077ecf8099f3fdc99d7740fd026690518"
+            "decryptionkey": ""
         },
         "1238854": {
             "config": {
@@ -170,12 +170,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4699098756108839538",
+                    "gid": "8122760505266740638",
                     "size": "195052",
                     "download": "38256"
                 }
             },
-            "decryptionkey": "ca70e1e20dc6794bc88d442fe505eb85c5142cc741a1a7169ccf753678a4e869"
+            "decryptionkey": ""
         },
         "1238855": {
             "config": {
@@ -183,12 +183,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6287561722421892589",
+                    "gid": "7374486922401189348",
                     "size": "1699430",
                     "download": "55472"
                 }
             },
-            "decryptionkey": "8c35c4d65346b6f733c667251a3ef34e990280a9546b1be048e6f0e4424b0988"
+            "decryptionkey": ""
         },
         "1238856": {
             "config": {
@@ -196,17 +196,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3401242962493191230",
+                    "gid": "1280352447725441193",
                     "size": "303705",
                     "download": "41968"
                 }
             },
-            "decryptionkey": "18125f3b57aa45e546e63f41fa0182224fe3a06ce4b0484f58d4769232ac4cfd"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15906665",
-                "timeupdated": "1729584005"
+                "buildid": "17371042",
+                "timeupdated": "1740473977"
             }
         },
         "privatebranches": "1"
