@@ -4,8 +4,8 @@
     "name": "Fe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27543483",
-    "update_time": "2025-02-19 06:36:14",
+    "change_number": "27879039",
+    "update_time": "2025-03-11 04:44:49",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,japanese",
         "228985": {
@@ -113,9 +113,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "7491961404986575764",
-                    "size": "235848799",
-                    "download": "237956208"
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
                 }
             },
             "depotfromapp": "3340990",
