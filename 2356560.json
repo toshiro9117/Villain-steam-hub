@@ -4,8 +4,8 @@
     "name": "Monster Hunter Stories",
     "schinese_name": "怪物猎人物语",
     "isfreeapp": "0",
-    "change_number": "27400939",
-    "update_time": "2025-02-10 21:17:51",
+    "change_number": "27971051",
+    "update_time": "2025-03-15 17:23:12",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "7652054496"
                 }
             },
-            "decryptionkey": "25a51c9b191133072944947dcbc0425baa8267da1034b8c652067297d0833386"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "branches": {
