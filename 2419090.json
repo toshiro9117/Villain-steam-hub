@@ -4,8 +4,8 @@
     "name": "STAR WARS™: Bounty Hunter™",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27301136",
-    "update_time": "2025-02-04 12:43:26",
+    "change_number": "27876700",
+    "update_time": "2025-03-11 02:01:40",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian",
         "228989": {
@@ -27,7 +27,7 @@
                     "download": "10753808"
                 }
             },
-            "decryptionkey": "cafbfcc5232c7e18cbf7e75b2c33cc21e47b6db41fd4df6bb34c1ee8b6319d9c"
+            "decryptionkey": ""
         },
         "2419092": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "7688647200"
                 }
             },
-            "decryptionkey": "3d946f45e71d0aad26ae4de134c78583732e4b4fb2e0e8b434a4a6dec2d85d2d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
