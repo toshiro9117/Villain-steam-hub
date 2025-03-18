@@ -4,8 +4,8 @@
     "name": "Neverending Nightmares",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27105704",
-    "update_time": "2025-01-22 12:25:58",
+    "change_number": "27965345",
+    "update_time": "2025-03-15 05:21:52",
     "depot": {
         "228985": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "386668704"
                 }
             },
-            "decryptionkey": "9601ec56c0a2b5fefeb9ff0c884d2a1c745f7e6accca54bcfb330df4d0a35ff2"
+            "decryptionkey": ""
         },
         "253332": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "386145568"
                 }
             },
-            "decryptionkey": "d7901d00afbaff9977be15edd732a856091572fddad6c3a4e6dec02c88de08e4"
+            "decryptionkey": ""
         },
         "253333": {
             "config": {
@@ -67,7 +67,7 @@
                     "download": "386617472"
                 }
             },
-            "decryptionkey": "83286110ec055a14537854991d121d18a51138334b00ee11a1d82ef6fed196a0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
