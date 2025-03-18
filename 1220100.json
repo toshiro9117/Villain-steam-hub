@@ -4,8 +4,8 @@
     "name": "Tentacular",
     "schinese_name": "触手巧匠",
     "isfreeapp": "0",
-    "change_number": "27021908",
-    "update_time": "2025-01-16 17:19:22",
+    "change_number": "28003232",
+    "update_time": "2025-03-18 06:55:21",
     "depot": {
         "1220101": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6421749732687542258",
-                    "size": "3422854551",
-                    "download": "616780512"
+                    "gid": "8150135387679180592",
+                    "size": "3349273201",
+                    "download": "610252880"
                 }
             },
             "decryptionkey": "78049c1a79a8bca9383cc48176aaab95c26daeadd6677114c236601633c4f239"
@@ -25,8 +25,8 @@
         "workshopdepot": "1220100",
         "branches": {
             "public": {
-                "buildid": "16848665",
-                "timeupdated": "1735125276"
+                "buildid": "17676778",
+                "timeupdated": "1741695170"
             }
         },
         "privatebranches": "1",
