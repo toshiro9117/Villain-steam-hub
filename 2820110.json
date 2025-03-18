@@ -4,8 +4,8 @@
     "name": "Anno 1503 - History Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27538832",
-    "update_time": "2025-02-19 01:15:11",
+    "change_number": "27996341",
+    "update_time": "2025-03-17 22:56:51",
     "depot": {
         "2820111": {
             "manifests": {
@@ -20,14 +20,14 @@
                     "download": "3205510992"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a681b8c4e68d93e1652a2517c062ca9e034fdd6e2c3eaa754614a3b5609ed8c5"
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
