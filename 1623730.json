@@ -4,8 +4,8 @@
     "name": "Palworld",
     "schinese_name": "Palworld / 幻兽帕鲁",
     "isfreeapp": "0",
-    "change_number": "27726445",
-    "update_time": "2025-03-01 06:15:09",
+    "change_number": "28010072",
+    "update_time": "2025-03-18 17:20:43",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "22729894864"
                 }
             },
-            "decryptionkey": "7a422988135296505205dd489945d4b17ed7414734dd627744adac84aade7b73"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
