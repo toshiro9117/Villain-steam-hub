@@ -4,8 +4,8 @@
     "name": "Unrailed 2: Back on Track",
     "schinese_name": "一起开火车2：汽笛重鸣",
     "isfreeapp": "0",
-    "change_number": "27717981",
-    "update_time": "2025-02-28 21:26:56",
+    "change_number": "28012301",
+    "update_time": "2025-03-18 19:44:40",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4610484088443080318",
-                    "size": "559701446",
-                    "download": "410732944"
+                    "gid": "2924556811804420225",
+                    "size": "567741580",
+                    "download": "420388080"
                 },
                 "community-cup-japan": {
                     "gid": "9157307307623154147",
@@ -38,14 +38,24 @@
                     "download": "314083616"
                 },
                 "experimental": {
-                    "gid": "9018617042502531947",
-                    "size": "559907032",
-                    "download": "411902944"
+                    "gid": "2814695511234778279",
+                    "size": "567915170",
+                    "download": "420438560"
                 },
                 "last-default": {
+                    "gid": "4610484088443080318",
+                    "size": "559701446",
+                    "download": "410732944"
+                },
+                "update1": {
                     "gid": "7100771164020763605",
                     "size": "579538465",
                     "download": "381116672"
+                },
+                "update2": {
+                    "gid": "4610484088443080318",
+                    "size": "559701446",
+                    "download": "410732944"
                 }
             },
             "decryptionkey": "924f04bf42410b224830a5cbe6e5fe8ed52b2cac3a5fc909505918bbbc2670c7"
@@ -57,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9179172666149704046",
-                    "size": "566776927",
-                    "download": "366092832"
+                    "gid": "6187437646172845217",
+                    "size": "568280166",
+                    "download": "370156960"
                 },
                 "community-cup-japan": {
                     "gid": "298633845571471003",
@@ -67,14 +77,24 @@
                     "download": "270367168"
                 },
                 "experimental": {
-                    "gid": "6057834795559867218",
-                    "size": "564360223",
-                    "download": "365494704"
+                    "gid": "97561504641999758",
+                    "size": "568474886",
+                    "download": "370196896"
                 },
                 "last-default": {
+                    "gid": "9179172666149704046",
+                    "size": "566776927",
+                    "download": "366092832"
+                },
+                "update1": {
                     "gid": "5184908605937259281",
                     "size": "515689750",
                     "download": "315534896"
+                },
+                "update2": {
+                    "gid": "9179172666149704046",
+                    "size": "566776927",
+                    "download": "366092832"
                 }
             },
             "decryptionkey": ""
@@ -96,14 +116,24 @@
                     "gid": "6791668633663136818",
                     "size": "340245525",
                     "download": "341584416"
+                },
+                "update1": {
+                    "gid": "6791668633663136818",
+                    "size": "340245525",
+                    "download": "341584416"
+                },
+                "update2": {
+                    "gid": "6791668633663136818",
+                    "size": "340245525",
+                    "download": "341584416"
                 }
             },
             "decryptionkey": "677987212f50458d0f106db2ca80b57787838ed4128669ed85322d2923aa79b0"
         },
         "branches": {
             "public": {
-                "buildid": "17485059",
-                "timeupdated": "1740410198"
+                "buildid": "17729047",
+                "timeupdated": "1741977709"
             },
             "community-cup-japan": {
                 "buildid": "16644570",
@@ -111,14 +141,24 @@
                 "timeupdated": "1733409422"
             },
             "experimental": {
-                "buildid": "17547365",
+                "buildid": "17756112",
                 "description": "Test new features early on!",
-                "timeupdated": "1740749212"
+                "timeupdated": "1742239304"
             },
             "last-default": {
-                "buildid": "17171471",
+                "buildid": "17485059",
                 "description": "Last stable (legacy)",
-                "timeupdated": "1738680847"
+                "timeupdated": "1741982637"
+            },
+            "update1": {
+                "buildid": "17171471",
+                "description": "Update #1: Winter holiday update",
+                "timeupdated": "1741982570"
+            },
+            "update2": {
+                "buildid": "17485059",
+                "description": "Update #2: Cartridge Update",
+                "timeupdated": "1741982588"
             }
         },
         "privatebranches": "1"
