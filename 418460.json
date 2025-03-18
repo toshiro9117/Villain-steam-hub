@@ -4,8 +4,8 @@
     "name": "Rising Storm 2: Vietnam",
     "schinese_name": "风起云涌2：越南",
     "isfreeapp": "0",
-    "change_number": "27498952",
-    "update_time": "2025-02-16 08:14:59",
+    "change_number": "27992128",
+    "update_time": "2025-03-17 19:14:34",
     "depot": {
         "workshopdepot": "418460",
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
@@ -48,12 +48,12 @@
         "418461": {
             "manifests": {
                 "public": {
-                    "gid": "4951392422108696152",
-                    "size": "56386031770",
-                    "download": "15470765824"
+                    "gid": "5903819663757965762",
+                    "size": "56393238764",
+                    "download": "15473097648"
                 }
             },
-            "decryptionkey": "cf81b97143fb2a34580f171c2d5eb46c95b873e1a7f079c3e18eead69aca3926"
+            "decryptionkey": ""
         },
         "418462": {
             "dlcappid": "629751",
@@ -64,15 +64,15 @@
                     "download": "1451187152"
                 }
             },
-            "decryptionkey": "0487b915fdd473df480aa053ccbb8d1af30ca2f59525dd9e3c1d3fdf9e16f1d2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16560144",
-                "timeupdated": "1733324264"
+                "buildid": "17533628",
+                "timeupdated": "1741013731"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c8e9f7ec190a152c129a854f602e98d8e4aee0f0f38125eba8a8fe72f2f5d2ea"
+        "workshopdepotdecryptionkey": ""
     }
 }
