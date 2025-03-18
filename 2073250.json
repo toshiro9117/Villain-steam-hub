@@ -4,8 +4,8 @@
     "name": "Rift of the NecroDancer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27527643",
-    "update_time": "2025-02-18 12:16:49",
+    "change_number": "28006427",
+    "update_time": "2025-03-18 11:55:58",
     "depot": {
         "workshopdepot": "2073250",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
@@ -15,9 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6225699693998561978",
-                    "size": "2896366442",
-                    "download": "2443761440"
+                    "gid": "4521713114014356879",
+                    "size": "2861820546",
+                    "download": "2417189056"
+                },
+                "publicbetatesting": {
+                    "gid": "4521713114014356879",
+                    "size": "2861820546",
+                    "download": "2417189056"
                 }
             },
             "decryptionkey": "f3424a6f32150d03e898c114191451b63081675764e3e0ddf0ce6bd0734d666b"
@@ -28,6 +33,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4980886239221002056",
+                    "size": "321387790",
+                    "download": "217976640"
+                },
+                "publicbetatesting": {
                     "gid": "4980886239221002056",
                     "size": "321387790",
                     "download": "217976640"
@@ -45,14 +55,52 @@
                     "gid": "3192063576867734685",
                     "size": "26553162",
                     "download": "20045920"
+                },
+                "publicbetatesting": {
+                    "gid": "3192063576867734685",
+                    "size": "26553162",
+                    "download": "20045920"
                 }
             },
             "decryptionkey": "4e3a42f92f481f77ae7843e6844ee9049f90cfdd302f49d4b122b7ff66f32c53"
         },
+        "3550070": {
+            "dlcappid": "3550070",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "3550080": {
+            "dlcappid": "3550080",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "3550090": {
+            "dlcappid": "3550090",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "3559850": {
+            "dlcappid": "3559850",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "17356000",
-                "timeupdated": "1739472076"
+                "buildid": "17596415",
+                "timeupdated": "1741197362"
+            },
+            "publicbetatesting": {
+                "buildid": "17596415",
+                "description": "public testing branch of new patches",
+                "timeupdated": "1741135566"
             }
         },
         "privatebranches": "1",
