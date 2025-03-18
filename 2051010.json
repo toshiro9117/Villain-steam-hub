@@ -4,9 +4,10 @@
     "name": "プロ野球スピリッツ2024-2025",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27732095",
-    "update_time": "2025-03-01 18:46:20",
+    "change_number": "28008563",
+    "update_time": "2025-03-18 15:40:40",
     "depot": {
+        "baselanguages": "japanese",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -21,7 +22,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "japanese",
         "2051011": {
             "config": {
                 "oslist": "windows",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3908950466906170122",
-                    "size": "41117677305",
-                    "download": "38571961440"
+                    "gid": "8493889498934558321",
+                    "size": "41120202454",
+                    "download": "38578835072"
                 }
             },
             "decryptionkey": "11c7b8b636e2de7713ab47075ea3c370c7292b2851dcd0781e01c99350eac2f9"
@@ -1809,10 +1809,404 @@
             },
             "decryptionkey": "f2775dc277d956bd67e6f77606ede20af2fdd431b3ef5485c913fc63435a4280"
         },
+        "3467430": {
+            "dlcappid": "3467430",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467450": {
+            "dlcappid": "3467450",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467460": {
+            "dlcappid": "3467460",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467470": {
+            "dlcappid": "3467470",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467480": {
+            "dlcappid": "3467480",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467500": {
+            "dlcappid": "3467500",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3467510": {
+            "dlcappid": "3467510",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467520": {
+            "dlcappid": "3467520",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467530": {
+            "dlcappid": "3467530",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466790": {
+            "dlcappid": "3466790",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466800": {
+            "dlcappid": "3466800",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466810": {
+            "dlcappid": "3466810",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466830": {
+            "dlcappid": "3466830",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466840": {
+            "dlcappid": "3466840",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466850": {
+            "dlcappid": "3466850",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466860": {
+            "dlcappid": "3466860",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466870": {
+            "dlcappid": "3466870",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466880": {
+            "dlcappid": "3466880",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466930": {
+            "dlcappid": "3466930",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466940": {
+            "dlcappid": "3466940",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466950": {
+            "dlcappid": "3466950",
+            "config": {
+                "language": "japanese",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466960": {
+            "dlcappid": "3466960",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466970": {
+            "dlcappid": "3466970",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466980": {
+            "dlcappid": "3466980",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466990": {
+            "dlcappid": "3466990",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467000": {
+            "dlcappid": "3467000",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467010": {
+            "dlcappid": "3467010",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467020": {
+            "dlcappid": "3467020",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467070": {
+            "dlcappid": "3467070",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467050": {
+            "dlcappid": "3467050",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467060": {
+            "dlcappid": "3467060",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467080": {
+            "dlcappid": "3467080",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467100": {
+            "dlcappid": "3467100",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467110": {
+            "dlcappid": "3467110",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467120": {
+            "dlcappid": "3467120",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467130": {
+            "dlcappid": "3467130",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467140": {
+            "dlcappid": "3467140",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467150": {
+            "dlcappid": "3467150",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467180": {
+            "dlcappid": "3467180",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467190": {
+            "dlcappid": "3467190",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467200": {
+            "dlcappid": "3467200",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467210": {
+            "dlcappid": "3467210",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3467220": {
+            "dlcappid": "3467220",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3466820": {
+            "dlcappid": "3466820",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "17153736",
-                "timeupdated": "1738544522"
+                "buildid": "17525251",
+                "timeupdated": "1740963673"
             }
         },
         "privatebranches": "1"
