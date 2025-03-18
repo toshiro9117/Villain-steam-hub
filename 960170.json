@@ -4,8 +4,8 @@
     "name": "DJMAX RESPECT V",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27528474",
-    "update_time": "2025-02-18 13:47:27",
+    "change_number": "27982178",
+    "update_time": "2025-03-17 00:20:43",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,7 @@
                     "download": "73430993392"
                 }
             },
-            "decryptionkey": "3c5ce74d30cabd2719f1c02a20785834585116b6af6b6c8ca442bcbf2188c3dc"
+            "decryptionkey": ""
         },
         "960172": {
             "config": {
@@ -43,7 +43,7 @@
                     "download": "23302642992"
                 }
             },
-            "decryptionkey": "7dd37697da6de8f7366d7c8e5027d96576ff62c6857aceec24df52c34a2121b0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
