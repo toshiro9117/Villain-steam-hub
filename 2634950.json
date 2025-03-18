@@ -4,8 +4,8 @@
     "name": "Tokyo Xtreme Racer",
     "schinese_name": "首都高赛车",
     "isfreeapp": "0",
-    "change_number": "27530433",
-    "update_time": "2025-02-18 16:40:46",
+    "change_number": "28008926",
+    "update_time": "2025-03-18 16:08:47",
     "depot": {
         "228988": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "7002125632"
                 }
             },
-            "decryptionkey": "0f27021c9467560d6fd421ba480ebc674efa20375f8a2af71fc51e28345005f5"
+            "decryptionkey": ""
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
