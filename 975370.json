@@ -4,8 +4,8 @@
     "name": "Dwarf Fortress",
     "schinese_name": "矮人要塞",
     "isfreeapp": "0",
-    "change_number": "27440280",
-    "update_time": "2025-02-12 21:57:39",
+    "change_number": "27997300",
+    "update_time": "2025-03-17 23:52:54",
     "depot": {
         "228989": {
             "config": {
@@ -18,16 +18,26 @@
         "975371": {
             "manifests": {
                 "public": {
-                    "gid": "6223834543872677822",
-                    "size": "1077206039",
-                    "download": "1017933680"
+                    "gid": "7561160887427561872",
+                    "size": "1077209618",
+                    "download": "1017934560"
                 },
                 "beta": {
-                    "gid": "6223834543872677822",
-                    "size": "1077206039",
-                    "download": "1017933680"
+                    "gid": "7561160887427561872",
+                    "size": "1077209618",
+                    "download": "1017934560"
                 },
                 "experimental": {
+                    "gid": "5854837792703099871",
+                    "size": "1077696201",
+                    "download": "1018011872"
+                },
+                "51.06": {
+                    "gid": "5109394689032936687",
+                    "size": "1077207417",
+                    "download": "1017934016"
+                },
+                "51.05": {
                     "gid": "6223834543872677822",
                     "size": "1077206039",
                     "download": "1017933680"
@@ -78,7 +88,7 @@
                     "download": "244370880"
                 }
             },
-            "decryptionkey": "aa6347285a9e6c185411c629fb9b716ec5cb596c82f4c92b6ff4f975ecceca02"
+            "decryptionkey": ""
         },
         "975372": {
             "config": {
@@ -86,16 +96,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6307235570815820429",
-                    "size": "31512976",
-                    "download": "10004096"
+                    "gid": "6390132049452748718",
+                    "size": "31524240",
+                    "download": "10005088"
                 },
                 "beta": {
-                    "gid": "6307235570815820429",
-                    "size": "31512976",
-                    "download": "10004096"
+                    "gid": "6390132049452748718",
+                    "size": "31524240",
+                    "download": "10005088"
                 },
                 "experimental": {
+                    "gid": "6352694962568938801",
+                    "size": "32147344",
+                    "download": "10217456"
+                },
+                "51.06": {
+                    "gid": "6005564250589505778",
+                    "size": "31519120",
+                    "download": "10010976"
+                },
+                "51.05": {
                     "gid": "6307235570815820429",
                     "size": "31512976",
                     "download": "10004096"
@@ -136,7 +156,7 @@
                     "download": "8879408"
                 }
             },
-            "decryptionkey": "c614f2b35af4127b3055bd00e17855ab075066c9499166058d58f8ab634e7308"
+            "decryptionkey": ""
         },
         "975373": {
             "config": {
@@ -144,16 +164,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1181639882743964976",
-                    "size": "42087437",
-                    "download": "12027296"
+                    "gid": "6749084753057308955",
+                    "size": "42104373",
+                    "download": "12038128"
                 },
                 "beta": {
-                    "gid": "1181639882743964976",
-                    "size": "42087437",
-                    "download": "12027296"
+                    "gid": "6749084753057308955",
+                    "size": "42104373",
+                    "download": "12038128"
                 },
                 "experimental": {
+                    "gid": "6346221116323474050",
+                    "size": "44213568",
+                    "download": "12607504"
+                },
+                "51.06": {
+                    "gid": "4511668468551677496",
+                    "size": "42100201",
+                    "download": "12038672"
+                },
+                "51.05": {
                     "gid": "1181639882743964976",
                     "size": "42087437",
                     "download": "12027296"
@@ -194,22 +224,32 @@
                     "download": "10583776"
                 }
             },
-            "decryptionkey": "81d7b4688c2843358ad10f198f6f0a00a27d41800f4ad4109b933e6ac11ad955"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17320799",
-                "timeupdated": "1739368570"
+                "buildid": "17707661",
+                "timeupdated": "1741864470"
             },
             "beta": {
-                "buildid": "17320799",
+                "buildid": "17707661",
                 "description": "Public beta branch",
-                "timeupdated": "1739368585"
+                "timeupdated": "1741864450"
             },
             "experimental": {
-                "buildid": "17320799",
+                "buildid": "17724232",
                 "description": "for experimental features early in testing",
-                "timeupdated": "1739368594"
+                "timeupdated": "1741951721"
+            },
+            "51.06": {
+                "buildid": "17502209",
+                "description": "Version 51.06",
+                "timeupdated": "1741790084"
+            },
+            "51.05": {
+                "buildid": "17320799",
+                "description": "Version 51.05",
+                "timeupdated": "1740581786"
             },
             "51.04": {
                 "buildid": "17146743",
@@ -258,6 +298,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "dae1b11a78f69965f974809434d7283b32d5e50d97d73858944d1eef82135cd0"
+        "workshopdepotdecryptionkey": ""
     }
 }
