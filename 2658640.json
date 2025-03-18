@@ -4,8 +4,8 @@
     "name": "Oasis Mission",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27479839",
-    "update_time": "2025-02-14 21:17:01",
+    "change_number": "28005866",
+    "update_time": "2025-03-18 10:56:18",
     "depot": {
         "2658641": {
             "config": {
@@ -14,14 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5210396586275124635",
-                    "size": "2574289507",
-                    "download": "1629026960"
+                    "gid": "8340859839590208544",
+                    "size": "2609037619",
+                    "download": "1624555600"
                 },
                 "0.8.5": {
                     "gid": "956979833982867705",
                     "size": "2433838828",
                     "download": "1498835616"
+                },
+                "0.9.7": {
+                    "gid": "5210396586275124635",
+                    "size": "2574289507",
+                    "download": "1629026960"
                 },
                 "local": {
                     "gid": "7794847816680331588",
@@ -37,14 +42,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3335754517744878101",
-                    "size": "2537002504",
-                    "download": "1599304736"
+                    "gid": "2790726720746010679",
+                    "size": "2561085048",
+                    "download": "1592185760"
                 },
                 "0.8.5": {
                     "gid": "4047728452626952806",
                     "size": "2404300598",
                     "download": "1476950944"
+                },
+                "0.9.7": {
+                    "gid": "3335754517744878101",
+                    "size": "2537002504",
+                    "download": "1599304736"
                 },
                 "local": {
                     "gid": "1760564970741587870",
@@ -54,17 +64,22 @@
             },
             "decryptionkey": ""
         },
-        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,turkish,brazilian",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,swedish,turkish,brazilian",
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17223148",
-                "timeupdated": "1738598301"
+                "buildid": "17636013",
+                "timeupdated": "1741360658"
             },
             "0.8.5": {
                 "buildid": "16528322",
                 "description": "0.8.5",
                 "timeupdated": "1734619640"
+            },
+            "0.9.7": {
+                "buildid": "17223148",
+                "description": "0.9.7",
+                "timeupdated": "1741101167"
             },
             "local": {
                 "buildid": "14857321",
