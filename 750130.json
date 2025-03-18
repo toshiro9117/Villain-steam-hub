@@ -4,8 +4,8 @@
     "name": "The Sinking City",
     "schinese_name": "沉没之城",
     "isfreeapp": "0",
-    "change_number": "27530248",
-    "update_time": "2025-02-18 16:28:31",
+    "change_number": "28013422",
+    "update_time": "2025-03-18 20:59:01",
     "depot": {
         "baselanguages": "english",
         "228983": {
@@ -51,7 +51,7 @@
                     "download": "408976"
                 }
             },
-            "decryptionkey": "da21083938e32867b6b9190a5f7ae54c1b716b6d74df27516a589f9f0cb9d4f5"
+            "decryptionkey": ""
         },
         "750131": {
             "manifests": {
@@ -61,7 +61,7 @@
                     "download": "15663584"
                 }
             },
-            "decryptionkey": "47a72920d4c72af7e8407a617881be6fa81aaaf4f4334c27bc6ce0844890add5"
+            "decryptionkey": ""
         },
         "750132": {
             "manifests": {
@@ -71,7 +71,7 @@
                     "download": "18887561856"
                 }
             },
-            "decryptionkey": "33dc940870d31a3fff549c22816fa9a2170b5a3c87d60ea2d4d66565fa1520b7"
+            "decryptionkey": ""
         },
         "750134": {
             "config": {
