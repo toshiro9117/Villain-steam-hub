@@ -4,8 +4,8 @@
     "name": "Vampire Dynasty Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726905",
-    "update_time": "2025-03-01 06:55:52",
+    "change_number": "27957083",
+    "update_time": "2025-03-14 21:23:33",
     "depot": {
         "228989": {
             "config": {
@@ -29,8 +29,7 @@
                     "download": "263459776"
                 }
             },
-            "depotfromapp": "2191500",
-            "decryptionkey": ""
+            "depotfromapp": "2191500"
         },
         "2939871": {
             "manifests": {
@@ -39,8 +38,7 @@
                     "size": "16637709347",
                     "download": "16113603728"
                 }
-            },
-            "decryptionkey": "945b84f6f6fe45721204be2474115b61fffabb90989b84783f60af24eaf7f934"
+            }
         },
         "branches": {
             "public": {
