@@ -4,8 +4,8 @@
     "name": "Warbox Sandbox",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27486449",
-    "update_time": "2025-02-15 04:14:14",
+    "change_number": "27995141",
+    "update_time": "2025-03-17 22:11:29",
     "depot": {
         "228989": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5141010578719668720",
-                    "size": "1700634438",
-                    "download": "1142681776"
+                    "gid": "4968904087068313059",
+                    "size": "1514808820",
+                    "download": "1035669744"
                 }
             },
             "decryptionkey": "290d77a85af2fe398bc501f62cd1c472b4064d20a014f009f197d3630eb705d7"
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8858433302914399300",
-                    "size": "2022326606",
-                    "download": "1175889184"
+                    "gid": "8362064446857425140",
+                    "size": "1686772997",
+                    "download": "1061510928"
                 }
             },
             "decryptionkey": ""
@@ -81,17 +81,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6089044614777668593",
-                    "size": "1852244911",
-                    "download": "1158663856"
+                    "gid": "5072999585338412348",
+                    "size": "1584378227",
+                    "download": "1045298032"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15814730",
-                "timeupdated": "1727217463"
+                "buildid": "17752565",
+                "timeupdated": "1742220682"
             }
         }
     }
