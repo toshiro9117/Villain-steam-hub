@@ -4,8 +4,8 @@
     "name": "Hot Dogs, Horseshoes & Hand Grenades",
     "schinese_name": "热狗，马蹄和手榴弹",
     "isfreeapp": "0",
-    "change_number": "27489330",
-    "update_time": "2025-02-15 08:30:13",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:21:59",
     "depot": {
         "228986": {
             "config": {
@@ -47,9 +47,9 @@
                     "download": "16189586240"
                 },
                 "experimental": {
-                    "gid": "651546150305779199",
-                    "size": "24326486047",
-                    "download": "16195633488"
+                    "gid": "1886646665577919690",
+                    "size": "24402866279",
+                    "download": "16232069360"
                 },
                 "update112": {
                     "gid": "554683791114262660",
@@ -72,7 +72,7 @@
                     "download": "16189586240"
                 }
             },
-            "decryptionkey": "d8909d31b2dab9e3a81423e760b9f59dd71f37ff1d2eb2c6efb3f1ea188b8038"
+            "decryptionkey": ""
         },
         "workshopdepot": "450540",
         "branches": {
@@ -96,9 +96,9 @@
                 "timeupdated": "1738377740"
             },
             "experimental": {
-                "buildid": "17373002",
+                "buildid": "17733096",
                 "description": "NOT MOD SAFE!!!",
-                "timeupdated": "1739579406"
+                "timeupdated": "1742003276"
             },
             "update112": {
                 "buildid": "13549672",
@@ -122,6 +122,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4848e29d5400497260929e5c715bb7a5c0517fe1f887b88e50a556e2c117ed21"
+        "workshopdepotdecryptionkey": ""
     }
 }
