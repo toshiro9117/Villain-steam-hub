@@ -4,8 +4,8 @@
     "name": "MythForce",
     "schinese_name": "神话力量",
     "isfreeapp": "0",
-    "change_number": "27730890",
-    "update_time": "2025-03-01 15:40:23",
+    "change_number": "28000547",
+    "update_time": "2025-03-18 03:09:15",
     "depot": {
         "228988": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "11651691392"
                 }
             },
-            "decryptionkey": "95d289db6425849619bee0c01f4ad1a6394913957d879f06484a6ff93384841a"
+            "decryptionkey": ""
         },
         "2586060": {
             "dlcappid": "2586060",
@@ -43,7 +43,7 @@
                     "download": "322825744"
                 }
             },
-            "decryptionkey": "a26be4be39ded04c4002abfdcd3320daffbaa976a3a7a8af65c2babd18e874a7"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
