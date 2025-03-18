@@ -4,8 +4,8 @@
     "name": "Rust",
     "schinese_name": "腐蚀",
     "isfreeapp": "0",
-    "change_number": "27535958",
-    "update_time": "2025-02-18 22:25:27",
+    "change_number": "27940567",
+    "update_time": "2025-03-14 02:40:01",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -32,27 +32,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6914165806045218616",
-                    "size": "38216806465",
-                    "download": "21505442096"
+                    "gid": "3049789877485161527",
+                    "size": "38582921563",
+                    "download": "21652862416"
                 },
                 "last-last-month": {
-                    "gid": "7442950862777521701",
-                    "size": "36419942311",
-                    "download": "20465965616"
-                },
-                "last-month": {
                     "gid": "7769180017081318169",
                     "size": "36593589017",
                     "download": "20548556672"
                 },
+                "last-month": {
+                    "gid": "3494012198436129939",
+                    "size": "38216806465",
+                    "download": "21505442352"
+                },
                 "test": {
-                    "gid": "6237166519664317351",
-                    "size": "37852817027",
-                    "download": "21160583264"
+                    "gid": "3049789877485161527",
+                    "size": "38582921563",
+                    "download": "21652862416"
                 }
             },
-            "decryptionkey": "5d5f72c0460cb7598666696c1b2f612f22efb43fb87cf4322e596bfec8a231ec"
+            "decryptionkey": ""
         },
         "252492": {
             "config": {
@@ -61,27 +61,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4055757378325406442",
-                    "size": "5929588725",
-                    "download": "2077909776"
+                    "gid": "6239260408315772047",
+                    "size": "6036969311",
+                    "download": "2133156736"
                 },
                 "last-last-month": {
-                    "gid": "4170521777722051778",
-                    "size": "5501720712",
-                    "download": "1835307056"
-                },
-                "last-month": {
                     "gid": "8361257782429560264",
                     "size": "5674605809",
                     "download": "1997436016"
                 },
+                "last-month": {
+                    "gid": "8411488567255730197",
+                    "size": "5929588735",
+                    "download": "2077930800"
+                },
                 "test": {
-                    "gid": "5572466189648797036",
-                    "size": "5929457986",
-                    "download": "2077831712"
+                    "gid": "6239260408315772047",
+                    "size": "6036969311",
+                    "download": "2133156736"
                 }
             },
-            "decryptionkey": "96b750328197855f4311ba6ad6d86e9051866cc6b9a6c851de55cc41b8ad9a24"
+            "decryptionkey": ""
         },
         "252495": {
             "config": {
@@ -91,50 +91,50 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2296399026890192913",
-                    "size": "959622151",
-                    "download": "495183760"
+                    "gid": "951293961579864588",
+                    "size": "888441351",
+                    "download": "478727536"
                 },
                 "last-last-month": {
-                    "gid": "5364190322732344082",
-                    "size": "749020990",
-                    "download": "309433456"
-                },
-                "last-month": {
                     "gid": "5334291610056741350",
                     "size": "920824902",
                     "download": "471006240"
                 },
+                "last-month": {
+                    "gid": "1916884352598295971",
+                    "size": "960252866",
+                    "download": "494843520"
+                },
                 "test": {
-                    "gid": "6971406074665383482",
-                    "size": "951509793",
-                    "download": "493404912"
+                    "gid": "951293961579864588",
+                    "size": "888441351",
+                    "download": "478727536"
                 }
             },
-            "decryptionkey": "728fcdc1c6af4454f3c86e5bc62a75875af5ba790cc8a2623620e216086e034d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17423406",
-                "timeupdated": "1739981358"
+                "buildid": "17712708",
+                "timeupdated": "1741891194"
             },
             "last-last-month": {
-                "buildid": "16757529",
+                "buildid": "17123106",
                 "description": "Last last months patch",
-                "timeupdated": "1738866468"
+                "timeupdated": "1741284538"
             },
             "last-month": {
-                "buildid": "17123106",
+                "buildid": "17528248",
                 "description": "Last months patch",
-                "timeupdated": "1738866564"
+                "timeupdated": "1741284573"
             },
             "test": {
-                "buildid": "17265509",
+                "buildid": "17712708",
                 "description": "GPU skinning test",
-                "timeupdated": "1738867964"
+                "timeupdated": "1741890565"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "070d35c4cac50d6b14881a6fd630bf1c58a061bec585e899a48c813972638108"
+        "workshopdepotdecryptionkey": ""
     }
 }
