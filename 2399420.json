@@ -4,8 +4,8 @@
     "name": "Le Mans Ultimate",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27719157",
-    "update_time": "2025-02-28 22:37:42",
+    "change_number": "28012225",
+    "update_time": "2025-03-18 19:39:12",
     "depot": {
         "228989": {
             "config": {
@@ -17,18 +17,18 @@
         "2399421": {
             "manifests": {
                 "public": {
-                    "gid": "9204881995521646246",
-                    "size": "30348847922",
-                    "download": "28776406048"
+                    "gid": "6620710925994364393",
+                    "size": "30348950939",
+                    "download": "28776540784"
                 }
             },
-            "decryptionkey": "5ebe75565e2b00384fc9a712d85cb05cff556cce0e0a2566bbb63be290aaa378"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,spanish",
         "branches": {
             "public": {
-                "buildid": "17535780",
-                "timeupdated": "1740752247"
+                "buildid": "17680903",
+                "timeupdated": "1741788237"
             }
         },
         "privatebranches": "1"
