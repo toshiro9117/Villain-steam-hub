@@ -4,8 +4,8 @@
     "name": "Assassin's Creed III Remastered",
     "schinese_name": "刺客信条3 重制版",
     "isfreeapp": "0",
-    "change_number": "27389100",
-    "update_time": "2025-02-10 01:17:57",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:37",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian",
         "911401": {
@@ -24,14 +24,14 @@
                     "download": "32911910640"
                 }
             },
-            "decryptionkey": "c04740de17320ddf2881d8e88424ccb3850b951c06acdf8de1da26decd287cd9"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
