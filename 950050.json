@@ -4,8 +4,8 @@
     "name": "Starlink: Battle for Atlas",
     "schinese_name": "星链：阿特拉斯之战",
     "isfreeapp": "0",
-    "change_number": "27192956",
-    "update_time": "2025-01-28 08:59:58",
+    "change_number": "27899220",
+    "update_time": "2025-03-12 05:22:13",
     "depot": {
         "228983": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "23047132368"
                 }
             },
-            "decryptionkey": "c31833eb6039c37bfcf691ba8f0cdf9ee2361bfe135c7a8d09b43e5052e4d99b"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
