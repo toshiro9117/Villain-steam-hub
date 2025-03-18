@@ -4,8 +4,8 @@
     "name": "Anomaly Exit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541702",
-    "update_time": "2025-02-19 04:17:50",
+    "change_number": "27987398",
+    "update_time": "2025-03-17 12:21:29",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5652141629366851533",
+                    "gid": "5653977136046760572",
                     "size": "1275513138",
-                    "download": "1088947616"
+                    "download": "1088947856"
                 },
                 "developertest": {
                     "gid": "5653977136046760572",
@@ -38,12 +38,12 @@
                     "download": "1088947856"
                 }
             },
-            "decryptionkey": "3c17ce9caff29bfcd7dc2122d41ac1296dbe7f1b77678e8139ba4d56a01e42df"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17299619",
-                "timeupdated": "1739133012"
+                "buildid": "17350187",
+                "timeupdated": "1740869974"
             },
             "developertest": {
                 "buildid": "17350187",
