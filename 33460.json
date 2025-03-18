@@ -4,8 +4,8 @@
     "name": "From Dust",
     "schinese_name": "灰烬",
     "isfreeapp": "0",
-    "change_number": "27727789",
-    "update_time": "2025-03-01 08:21:45",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:00:58",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,french,german,italian,spanish",
@@ -18,14 +18,14 @@
                     "download": "1451463184"
                 }
             },
-            "decryptionkey": "169a20b712fb7808c9ad463f9d9c00b0d6d493e2eed9abbbfa800d52c654f66e"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
