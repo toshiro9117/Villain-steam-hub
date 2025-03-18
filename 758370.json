@@ -4,8 +4,8 @@
     "name": "Through the Ages",
     "schinese_name": "历史巨轮",
     "isfreeapp": "0",
-    "change_number": "27530850",
-    "update_time": "2025-02-18 17:10:56",
+    "change_number": "27993778",
+    "update_time": "2025-03-17 21:11:02",
     "depot": {
         "758371": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7104776540803500172",
-                    "size": "227613286",
-                    "download": "138255344"
+                    "gid": "7895583237465650732",
+                    "size": "227625062",
+                    "download": "138258672"
                 }
             },
             "decryptionkey": "5ccb8b392bad1b67001d96b3878dc4d87a2e8339a2b200f09aed5ca802bfc540"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4061094779825657507",
-                    "size": "151582532",
-                    "download": "110969840"
+                    "gid": "1325434893316589925",
+                    "size": "150947340",
+                    "download": "110943360"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16695339",
-                "timeupdated": "1733913048"
+                "buildid": "17637342",
+                "timeupdated": "1741628998"
             }
         },
         "privatebranches": "1"
