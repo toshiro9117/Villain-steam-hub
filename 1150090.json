@@ -4,8 +4,8 @@
     "name": "Learning Factory",
     "schinese_name": "学习工厂 (Learning Factory)",
     "isfreeapp": "0",
-    "change_number": "27479823",
-    "update_time": "2025-02-14 21:16:22",
+    "change_number": "27934620",
+    "update_time": "2025-03-13 22:13:27",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1150090",
@@ -15,14 +15,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8673811892110798495",
+                    "size": "5318943453",
+                    "download": "922813472"
+                },
+                "oldengineversion": {
                     "gid": "7089362250247967432",
                     "size": "5197559272",
                     "download": "876417392"
                 },
                 "unstable": {
-                    "gid": "7089362250247967432",
-                    "size": "5197559272",
-                    "download": "876417392"
+                    "gid": "8673811892110798495",
+                    "size": "5318943453",
+                    "download": "922813472"
                 }
             },
             "decryptionkey": "665c97034c7ae21a81c9c82e352ed9ff3c7e70626ed7afe9233db0bbed1cd939"
@@ -33,14 +38,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5116285697006989639",
+                    "size": "5335192638",
+                    "download": "928558768"
+                },
+                "oldengineversion": {
                     "gid": "1885330354322829486",
                     "size": "5220150097",
                     "download": "882582608"
                 },
                 "unstable": {
-                    "gid": "1885330354322829486",
-                    "size": "5220150097",
-                    "download": "882582608"
+                    "gid": "5116285697006989639",
+                    "size": "5335192638",
+                    "download": "928558768"
                 }
             },
             "decryptionkey": "cba65e460e5550e33f89b1becb668701951d6782c4af8ac19d7457030344c294"
@@ -51,14 +61,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5289584458698100515",
+                    "size": "5360479313",
+                    "download": "922087232"
+                },
+                "oldengineversion": {
                     "gid": "6338196285454401413",
                     "size": "5235226706",
                     "download": "875312144"
                 },
                 "unstable": {
-                    "gid": "6338196285454401413",
-                    "size": "5235226706",
-                    "download": "875312144"
+                    "gid": "5289584458698100515",
+                    "size": "5360479313",
+                    "download": "922087232"
                 }
             },
             "decryptionkey": "81dbda729176b415bd1b74f076ab2fab5490bc35377a56abdf34d05fd7a69384"
@@ -67,6 +82,11 @@
             "dlcappid": "1545770",
             "manifests": {
                 "public": {
+                    "gid": "8025577116302565116",
+                    "size": "405450274",
+                    "download": "208467168"
+                },
+                "oldengineversion": {
                     "gid": "8025577116302565116",
                     "size": "405450274",
                     "download": "208467168"
@@ -87,6 +107,11 @@
                     "size": "868694104",
                     "download": "864819968"
                 },
+                "oldengineversion": {
+                    "gid": "7129948687449887411",
+                    "size": "868694104",
+                    "download": "864819968"
+                },
                 "unstable": {
                     "gid": "7129948687449887411",
                     "size": "868694104",
@@ -97,13 +122,18 @@
         },
         "branches": {
             "public": {
+                "buildid": "17708982",
+                "timeupdated": "1741875203"
+            },
+            "oldengineversion": {
                 "buildid": "17352941",
-                "timeupdated": "1739459874"
+                "description": "Old Engine Version",
+                "timeupdated": "1741684109"
             },
             "unstable": {
-                "buildid": "17352941",
+                "buildid": "17708982",
                 "description": "Unstable build",
-                "timeupdated": "1739455964"
+                "timeupdated": "1741870414"
             }
         },
         "workshopdepotdecryptionkey": "114295aad80c3a7a9dfef2ce887278ff5d33a6498c2e0342e59280dccf5c5c94"
