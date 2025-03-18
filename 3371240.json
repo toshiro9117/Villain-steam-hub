@@ -4,8 +4,8 @@
     "name": "Beyond Citadel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27715264",
-    "update_time": "2025-02-28 18:40:43",
+    "change_number": "27991214",
+    "update_time": "2025-03-17 18:16:12",
     "depot": {
         "228989": {
             "config": {
@@ -24,12 +24,12 @@
         "3371241": {
             "manifests": {
                 "public": {
-                    "gid": "1213915427681881583",
-                    "size": "1598533440",
-                    "download": "1423251136"
+                    "gid": "6017247253064666163",
+                    "size": "1598564731",
+                    "download": "1423275616"
                 }
             },
-            "decryptionkey": "545544358b5ccb968bcb306b020d7d3b5f749949a10a6f02958a6d6181e9dcce"
+            "decryptionkey": ""
         },
         "3371242": {
             "config": {
@@ -39,8 +39,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17541571",
-                "timeupdated": "1740739239"
+                "buildid": "17749959",
+                "timeupdated": "1742206567"
             }
         },
         "privatebranches": "1"
