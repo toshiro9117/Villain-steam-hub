@@ -4,8 +4,8 @@
     "name": "DISORDER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27528259",
-    "update_time": "2025-02-18 13:24:24",
+    "change_number": "27988749",
+    "update_time": "2025-03-17 15:08:14",
     "depot": {
         "228989": {
             "config": {
@@ -33,17 +33,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8143128898883250911",
-                    "size": "14389449176",
-                    "download": "14164154640"
+                    "gid": "8611191480380001662",
+                    "size": "14485493138",
+                    "download": "14261298416"
                 }
             },
-            "decryptionkey": "4299a87965c6fa8f20880c1225607076c95cae50666d2ee56b9a19d5cc3e7da2"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17449417",
-                "timeupdated": "1740126820"
+                "buildid": "17588359",
+                "timeupdated": "1741097933"
             }
         },
         "privatebranches": "1"
