@@ -4,8 +4,8 @@
     "name": "Assassin's Creed Freedom Cry",
     "schinese_name": "刺客信条4：自由呐喊",
     "isfreeapp": "0",
-    "change_number": "27112424",
-    "update_time": "2025-01-22 21:26:15",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:12",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,brazilian",
@@ -46,14 +46,14 @@
                     "download": "7867557792"
                 }
             },
-            "decryptionkey": "78c2c8401115c053bafc67ee78274b0842e4cea71428bd07e00a086cbd93f4ed"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
