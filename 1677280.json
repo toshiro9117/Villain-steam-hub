@@ -4,8 +4,8 @@
     "name": "Company of Heroes 3",
     "schinese_name": "英雄连3",
     "isfreeapp": "0",
-    "change_number": "27385675",
-    "update_time": "2025-02-09 16:26:46",
+    "change_number": "27938353",
+    "update_time": "2025-03-14 01:00:04",
     "depot": {
         "228988": {
             "config": {
@@ -31,12 +31,12 @@
         "1677281": {
             "manifests": {
                 "public": {
-                    "gid": "2810927205079272614",
-                    "size": "30603543037",
-                    "download": "25318650864"
+                    "gid": "1392491454277996302",
+                    "size": "31142798885",
+                    "download": "25752068192"
                 }
             },
-            "decryptionkey": "946c1091854e4b36a1468dea11adb8fe4fe6db6485976132a50781a70d5a206e"
+            "decryptionkey": ""
         },
         "1677282": {
             "manifests": {
@@ -46,7 +46,7 @@
                     "download": "944"
                 }
             },
-            "decryptionkey": "2dbe642c09395dcb0cfab68ff34eca066c3f47e38d8511d59509fb60cf7c665a"
+            "decryptionkey": ""
         },
         "1677283": {
             "manifests": {
@@ -56,17 +56,17 @@
                     "download": "3456"
                 }
             },
-            "decryptionkey": "532412e59c494bd36e8efc9d4e257208e7412c8a70b16f206103f3913d4add50"
+            "decryptionkey": ""
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,czech,turkish,brazilian",
         "workshopdepot": "1677280",
         "branches": {
             "public": {
-                "buildid": "16726167",
-                "timeupdated": "1734111799"
+                "buildid": "17686800",
+                "timeupdated": "1741885196"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "3bc2162aacc5a2b9978b30069dffbbd4e0dcedfde3b7db80768525428e963600"
+        "workshopdepotdecryptionkey": ""
     }
 }
