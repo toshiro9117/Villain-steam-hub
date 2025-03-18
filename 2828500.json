@@ -4,8 +4,8 @@
     "name": "The Jackbox Megapicker",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27387415",
-    "update_time": "2025-02-09 21:18:25",
+    "change_number": "27748764",
+    "update_time": "2025-03-03 13:22:20",
     "depot": {
         "baselanguages": "english",
         "2828507": {
@@ -23,8 +23,7 @@
                     "size": "344878302",
                     "download": "110525696"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2828503": {
             "config": {
@@ -41,8 +40,7 @@
                     "size": "512076519",
                     "download": "159070864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2828504": {
             "config": {
@@ -59,8 +57,7 @@
                     "size": "345444331",
                     "download": "104980032"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2828508": {
             "manifests": {
@@ -69,8 +66,7 @@
                     "size": "2021",
                     "download": "848"
                 }
-            },
-            "decryptionkey": "86a8e078c58ea7fbf57bdf1b2611116fe069f5e590cfa11058ca6610e0961700"
+            }
         },
         "branches": {
             "public": {
