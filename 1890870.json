@@ -4,8 +4,8 @@
     "name": "Arma Reforger Experimental Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27727568",
-    "update_time": "2025-03-01 08:01:18",
+    "change_number": "28011752",
+    "update_time": "2025-03-18 19:07:47",
     "depot": {
         "228989": {
             "config": {
@@ -20,12 +20,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6680995936005075936",
-                    "size": "7396023857",
-                    "download": "5349717312"
+                    "gid": "3042903513928387586",
+                    "size": "7400982553",
+                    "download": "5358338672"
                 }
             },
-            "decryptionkey": "3c825b12b432e760aa83052aba6fc68278f89560b330bc666995c7d0e6181d09"
+            "decryptionkey": ""
         },
         "1890872": {
             "config": {
@@ -34,12 +34,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1632687332407751081",
-                    "size": "102429189",
-                    "download": "28854752"
+                    "gid": "6370233693045891854",
+                    "size": "102490661",
+                    "download": "28864640"
                 }
             },
-            "decryptionkey": "cf30bb48064a2dc358d37d0558570e865f272e2d52a10908e7105154aa5202ee"
+            "decryptionkey": ""
         },
         "1890873": {
             "config": {
@@ -48,17 +48,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8160045276050276646",
-                    "size": "68762437",
-                    "download": "21394480"
+                    "gid": "9154802567295579059",
+                    "size": "68796229",
+                    "download": "21402880"
                 }
             },
-            "decryptionkey": "2a7409f2846ec8ca76ff5f66605e435474735df3de5eb9c2b8d5c388c9250b90"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17419081",
-                "timeupdated": "1740052811"
+                "buildid": "17566598",
+                "timeupdated": "1741266541"
             }
         },
         "privatebranches": "1"
