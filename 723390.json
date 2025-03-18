@@ -4,8 +4,8 @@
     "name": "Hunt Down The Freeman",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27007721",
-    "update_time": "2025-01-15 21:14:49",
+    "change_number": "27944170",
+    "update_time": "2025-03-14 06:21:32",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,polish,czech,latam",
         "hasdepotsindlc": "0",
@@ -59,7 +59,7 @@
                     "download": "8759198416"
                 }
             },
-            "decryptionkey": "29372aa10cf85ded05c12283142dbc490e8c54a934a784e0cf2240a65b4c59ed"
+            "decryptionkey": ""
         },
         "723392": {
             "config": {
@@ -97,7 +97,7 @@
                     "download": "932782048"
                 }
             },
-            "decryptionkey": "b1ffa7e05f317c27cd2ad391edcdeab0a04e00f66dd4060a89c67dc0ba96baae"
+            "decryptionkey": ""
         },
         "workshopdepot": "723390",
         "branches": {
@@ -132,6 +132,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ca2ba086ccfa11b249cd5f819e0ffb8709c826aff98e329f23f91765630f5f36"
+        "workshopdepotdecryptionkey": ""
     }
 }
