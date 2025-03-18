@@ -4,8 +4,8 @@
     "name": "DeadPoly",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27273258",
-    "update_time": "2025-02-02 08:59:57",
+    "change_number": "27854731",
+    "update_time": "2025-03-09 07:35:46",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1621071": {
             "manifests": {
                 "public": {
-                    "gid": "3679713939382701561",
-                    "size": "1605942834",
-                    "download": "1471296448"
+                    "gid": "8397029088390001557",
+                    "size": "1258581175",
+                    "download": "1119282432"
                 },
                 "legacy": {
                     "gid": "6407294486645799365",
@@ -34,12 +34,12 @@
                     "download": "3741930128"
                 }
             },
-            "decryptionkey": "951c583576350f9dc860d4bfbb2e454318d1d09c31f9c2e57f7bbee6986407f8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17213133",
-                "timeupdated": "1738457992"
+                "buildid": "17648609",
+                "timeupdated": "1741465508"
             },
             "legacy": {
                 "buildid": "10965365",
