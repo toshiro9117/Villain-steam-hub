@@ -4,8 +4,8 @@
     "name": "Eden Island",
     "schinese_name": "伊甸岛",
     "isfreeapp": "0",
-    "change_number": "27493787",
-    "update_time": "2025-02-15 20:15:12",
+    "change_number": "28002575",
+    "update_time": "2025-03-18 05:55:36",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "2976992960"
                 }
             },
-            "decryptionkey": "d04501cf6168b2a41828b4c38e4ed25fe56e64d561e099b2d9f216d5430612b0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
