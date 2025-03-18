@@ -4,8 +4,8 @@
     "name": "The Link",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725947",
-    "update_time": "2025-03-01 05:30:47",
+    "change_number": "28013828",
+    "update_time": "2025-03-18 21:24:33",
     "depot": {
         "baselanguages": "english",
         "1285431": {
@@ -15,22 +15,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8486956307822191477",
-                    "size": "469475765",
-                    "download": "216084704"
+                    "gid": "765777308046519448",
+                    "size": "469402186",
+                    "download": "216066784"
                 },
                 "beta": {
-                    "gid": "4944562284185075367",
-                    "size": "468978435",
-                    "download": "215647376"
+                    "gid": "1482827482698539568",
+                    "size": "469217354",
+                    "download": "215884752"
                 },
                 "legacy": {
-                    "gid": "2283717224664645441",
-                    "size": "469016757",
-                    "download": "215667136"
+                    "gid": "765777308046519448",
+                    "size": "469402186",
+                    "download": "216066784"
                 }
             },
-            "decryptionkey": "8a6d0713bb8234964e910075832d88c6121e6c504e0fe677b21a623575cb0cc0"
+            "decryptionkey": ""
         },
         "1285432": {
             "config": {
@@ -90,19 +90,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6097075974761730749",
-                    "size": "5672960",
-                    "download": "5688320"
+                    "gid": "5160992733988264258",
+                    "size": "5664606",
+                    "download": "5678992"
                 },
                 "beta": {
-                    "gid": "260395091047670808",
-                    "size": "5673148",
-                    "download": "5688240"
+                    "gid": "6701157839661957816",
+                    "size": "5834097",
+                    "download": "5849744"
                 },
                 "legacy": {
-                    "gid": "8857274009578401144",
-                    "size": "5485746",
-                    "download": "5499280"
+                    "gid": "5160992733988264258",
+                    "size": "5664606",
+                    "download": "5678992"
                 }
             },
             "decryptionkey": ""
@@ -115,37 +115,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5110532036470641321",
-                    "size": "5673232",
-                    "download": "5687952"
+                    "gid": "2206371175972313606",
+                    "size": "5673442",
+                    "download": "5688672"
                 },
                 "beta": {
-                    "gid": "4641240875436123816",
-                    "size": "5673435",
-                    "download": "5688400"
+                    "gid": "1966708763240756041",
+                    "size": "5838607",
+                    "download": "5854640"
                 },
                 "legacy": {
-                    "gid": "8502772533463210704",
-                    "size": "5566262",
-                    "download": "5579824"
+                    "gid": "2206371175972313606",
+                    "size": "5673442",
+                    "download": "5688672"
                 }
             },
-            "decryptionkey": "5e88bfbd28c1b988346cc75a600c098fd5d23d613fdaa3014e0675191fe38bd6"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17380155",
-                "timeupdated": "1739655447"
+                "buildid": "17608624",
+                "timeupdated": "1741202383"
             },
             "beta": {
-                "buildid": "17519558",
+                "buildid": "17743334",
                 "description": "Public Test",
-                "timeupdated": "1740596659"
+                "timeupdated": "1742137987"
             },
             "legacy": {
-                "buildid": "17144474",
+                "buildid": "17608624",
                 "description": "Old version",
-                "timeupdated": "1738490796"
+                "timeupdated": "1741986944"
             }
         },
         "privatebranches": "1"
