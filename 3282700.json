@@ -4,8 +4,8 @@
     "name": "LIMINAL SHIFT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27543219",
-    "update_time": "2025-02-19 06:16:46",
+    "change_number": "27926400",
+    "update_time": "2025-03-13 13:21:50",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3282701": {
             "manifests": {
                 "public": {
-                    "gid": "7846604441747751121",
-                    "size": "4599841715",
-                    "download": "3998142672"
+                    "gid": "1598915537496028835",
+                    "size": "5783506367",
+                    "download": "5157742512"
                 }
             },
-            "decryptionkey": "168d492fbe75b6315d1a22bcc709e79c632578886152d8d5a6e9f4c2ca2bc7f0"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17325744",
-                "timeupdated": "1739301689"
+                "buildid": "17543337",
+                "timeupdated": "1740730233"
             }
         }
     }
