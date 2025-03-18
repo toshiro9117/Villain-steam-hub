@@ -4,8 +4,8 @@
     "name": "Door Kickers 2",
     "schinese_name": "破门而入2：北方特遣队",
     "isfreeapp": "0",
-    "change_number": "27731736",
-    "update_time": "2025-03-01 17:45:29",
+    "change_number": "27970280",
+    "update_time": "2025-03-15 15:22:49",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian,ukrainian",
         "workshopdepot": "1239080",
@@ -30,30 +30,30 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2381741293838480103",
-                    "size": "201547084",
-                    "download": "46282512"
+                    "gid": "2562601755378240127",
+                    "size": "201547966",
+                    "download": "46293312"
                 }
             },
-            "decryptionkey": "42f890eeeb4f8437c6b77d8ec5c1456d2c29c69c5160257351264ed8e968e4bb"
+            "decryptionkey": ""
         },
         "1239081": {
             "manifests": {
                 "public": {
-                    "gid": "9131110835574188798",
-                    "size": "2468224399",
-                    "download": "1279862720"
+                    "gid": "61223379373300357",
+                    "size": "2663953474",
+                    "download": "1285801536"
                 }
             },
-            "decryptionkey": "fdc10940105c7507be41605c7c23f22212b60ef06404fe78a42a87827baa704e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17503140",
-                "timeupdated": "1740504099"
+                "buildid": "17605751",
+                "timeupdated": "1741186791"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "676d8df3107244b7e39cc459030dd61f403f961e59f1e0f890f8cd458ab5b60d"
+        "workshopdepotdecryptionkey": ""
     }
 }
