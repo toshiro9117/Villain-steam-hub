@@ -4,8 +4,8 @@
     "name": "Backrooms Rec.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725566",
-    "update_time": "2025-03-01 05:00:28",
+    "change_number": "28009259",
+    "update_time": "2025-03-18 16:33:22",
     "depot": {
         "228983": {
             "config": {
@@ -52,31 +52,31 @@
         "2275021": {
             "manifests": {
                 "public": {
-                    "gid": "1438833828319798051",
-                    "size": "5550444290",
-                    "download": "5239404528"
+                    "gid": "1980940677900553785",
+                    "size": "6938261745",
+                    "download": "5942177008"
                 },
                 "public_testing": {
-                    "gid": "3792586258973545927",
-                    "size": "5896756855",
-                    "download": "5587057920"
+                    "gid": "1980940677900553785",
+                    "size": "6938261745",
+                    "download": "5942177008"
                 }
             },
-            "decryptionkey": "b329217cf9acf1faa28049bc399d5209cb8fd1c89f43c06c88bed59e19e3ca4e"
+            "decryptionkey": ""
         },
         "workshopdepot": "2275020",
         "branches": {
             "public": {
-                "buildid": "17511588",
-                "timeupdated": "1740558766"
+                "buildid": "17743846",
+                "timeupdated": "1742286794"
             },
             "public_testing": {
-                "buildid": "17516175",
+                "buildid": "17743846",
                 "description": "This branch is for players who want to try features in development and or testing state This might contain a lot of bugs",
-                "timeupdated": "1740730010"
+                "timeupdated": "1742145730"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "abdb8361d1753b3100b94b215d57948b91592ea40331ae4309a037c433e6d7b2"
+        "workshopdepotdecryptionkey": ""
     }
 }
