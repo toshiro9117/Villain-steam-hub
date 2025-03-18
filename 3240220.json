@@ -4,29 +4,29 @@
     "name": "Grand Theft Auto V Enhanced",
     "schinese_name": "Grand Theft Auto V 增强版",
     "isfreeapp": "0",
-    "change_number": "27725242",
-    "update_time": "2025-03-01 04:35:35",
+    "change_number": "28011561",
+    "update_time": "2025-03-18 18:56:38",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "3240221": {
             "manifests": {
                 "public": {
-                    "gid": "2696468952535592070",
+                    "gid": "7738940149188702855",
                     "size": "600",
                     "download": "480"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "61fc2e176574df29022e435d489e10efa92e38b3297e1f0c641e63b11df58a8a"
         },
         "3240222": {
             "manifests": {
                 "public": {
-                    "gid": "9008155954494870244",
-                    "size": "34313478551",
-                    "download": "33815798000"
+                    "gid": "2105801069540910121",
+                    "size": "34313900309",
+                    "download": "33815839376"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a90ba98205062c9ae855344794a6a3e0e9e59d825595f0508d7276e4d26da852"
         },
         "3240223": {
             "manifests": {
@@ -36,7 +36,7 @@
                     "download": "8844713904"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "46bece69b70a0f45bc94213cabf17a5a8e0546fe5b42c9d71f357f9fd7eaa605"
         },
         "3240224": {
             "manifests": {
@@ -46,24 +46,24 @@
                     "download": "49638657232"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3ff530fbca5308cf7d55f33334770b536834d48139880615673f26e3569b99d9"
         },
         "3240225": {
             "manifests": {
                 "public": {
-                    "gid": "1751588275456967559",
-                    "size": "3247189686",
-                    "download": "3086359536"
+                    "gid": "6331106029953691512",
+                    "size": "3246893218",
+                    "download": "3085272560"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8951f7eb7724cc2b407c9170e8bf5ce6792f8d6a7ad6a42c460a74abacac719a"
         },
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "6920980794360204616",
-                    "size": "228262668",
-                    "download": "184801072"
+                    "gid": "3069743124386259608",
+                    "size": "229581068",
+                    "download": "186115536"
                 }
             },
             "depotfromapp": "1899670",
@@ -71,8 +71,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17506672",
-                "timeupdated": "1740598083"
+                "buildid": "17708837",
+                "timeupdated": "1741878067"
             }
         },
         "privatebranches": "1"
