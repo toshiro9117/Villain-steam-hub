@@ -4,8 +4,8 @@
     "name": "PlayM2M Limited Access",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27493687",
-    "update_time": "2025-02-15 20:00:48",
+    "change_number": "27763200",
+    "update_time": "2025-03-04 07:08:50",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "799600075092290770",
-                    "size": "5535494680",
-                    "download": "5451668176"
+                    "gid": "1099189384956584370",
+                    "size": "390807901",
+                    "download": "127207520"
                 }
             },
-            "decryptionkey": "c4b9978891aba6bd9768523db089d285d4856e2dd3e8b68c732fe9a619f85980"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17469569",
-                "timeupdated": "1740260843"
+                "buildid": "17128710",
+                "timeupdated": "1740713298"
             }
         },
         "privatebranches": "1"
