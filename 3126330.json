@@ -4,8 +4,8 @@
     "name": "Kiosk",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27530048",
-    "update_time": "2025-02-18 16:17:34",
+    "change_number": "27918797",
+    "update_time": "2025-03-13 04:05:31",
     "depot": {
         "3126332": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3244358578407774119",
-                    "size": "351071064",
-                    "download": "170434512"
+                    "gid": "7686775685051797514",
+                    "size": "351469526",
+                    "download": "170993552"
                 }
             },
             "decryptionkey": "c7ca641cf58761e53aa8e95f746dcfbe37093b8db75257bf29cff35dd6ff045f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6687860317922342238",
-                    "size": "326320700",
-                    "download": "170811392"
+                    "gid": "8859910512556502316",
+                    "size": "374686054",
+                    "download": "177541312"
                 }
             },
             "decryptionkey": ""
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2634853963754539314",
-                    "size": "343213235",
-                    "download": "160475312"
+                    "gid": "1410824077910760897",
+                    "size": "346438841",
+                    "download": "163375136"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17427654",
-                "timeupdated": "1739994664"
+                "buildid": "17681366",
+                "timeupdated": "1741716438"
             }
         },
         "privatebranches": "1"
