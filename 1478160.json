@@ -4,8 +4,8 @@
     "name": "咸鱼喵喵",
     "schinese_name": "咸鱼喵喵",
     "isfreeapp": "0",
-    "change_number": "26825067",
-    "update_time": "2024-12-31 18:52:11",
+    "change_number": "27898071",
+    "update_time": "2025-03-12 03:52:32",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4860101858208653007",
-                    "size": "685008138",
-                    "download": "389227344"
+                    "gid": "7402074297764776948",
+                    "size": "694220516",
+                    "download": "397476288"
                 }
             },
             "decryptionkey": ""
@@ -64,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16629961",
-                "timeupdated": "1733320609"
+                "buildid": "17682657",
+                "timeupdated": "1741722748"
             }
         }
     }
