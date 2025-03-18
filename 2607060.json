@@ -4,20 +4,20 @@
     "name": "From Glory To Goo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731585",
-    "update_time": "2025-03-01 17:25:24",
+    "change_number": "27993771",
+    "update_time": "2025-03-17 21:10:46",
     "depot": {
         "2607061": {
             "manifests": {
                 "public": {
-                    "gid": "6166778883698562494",
-                    "size": "391871081",
-                    "download": "152460720"
+                    "gid": "3501014149223824310",
+                    "size": "463909888",
+                    "download": "217172992"
                 },
                 "testing": {
-                    "gid": "1093002611164013257",
-                    "size": "464211944",
-                    "download": "216903776"
+                    "gid": "5221410557563556380",
+                    "size": "463930850",
+                    "download": "217183360"
                 }
             },
             "decryptionkey": "f09a280e523e347727fa9c86b9770537f822f21b8ecb8a949923c00c9fd6db83"
@@ -25,13 +25,13 @@
         "workshopdepot": "2607060",
         "branches": {
             "public": {
-                "buildid": "16994323",
-                "timeupdated": "1736823833"
+                "buildid": "17692731",
+                "timeupdated": "1741827862"
             },
             "testing": {
-                "buildid": "17556806",
+                "buildid": "17751804",
                 "description": "Beta Branch",
-                "timeupdated": "1740808578"
+                "timeupdated": "1742217013"
             }
         },
         "privatebranches": "1",
