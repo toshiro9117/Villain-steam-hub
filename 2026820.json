@@ -4,8 +4,8 @@
     "name": "Die in the Dungeon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27695851",
-    "update_time": "2025-02-28 12:59:16",
+    "change_number": "27976671",
+    "update_time": "2025-03-16 07:39:20",
     "depot": {
         "2026821": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4739194015943802017",
-                    "size": "637329297",
-                    "download": "136764512"
+                    "gid": "53974739501096647",
+                    "size": "640019213",
+                    "download": "137020912"
                 }
             },
             "decryptionkey": "891341488c8e6e96d7c8551a5d56799ea66ea333322887007d3b892cd866d249"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2917516113715197537",
-                    "size": "706983004",
-                    "download": "153376112"
+                    "gid": "5543102396536864344",
+                    "size": "709756920",
+                    "download": "153646096"
                 }
             },
             "decryptionkey": ""
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17516282",
-                "timeupdated": "1740586298"
+                "buildid": "17739745",
+                "timeupdated": "1742081956"
             }
         },
         "privatebranches": "1"
