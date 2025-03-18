@@ -4,8 +4,8 @@
     "name": "DOOM + DOOM II",
     "schinese_name": "终极毁灭战士",
     "isfreeapp": "0",
-    "change_number": "27348782",
-    "update_time": "2025-02-07 00:43:11",
+    "change_number": "28013121",
+    "update_time": "2025-03-18 20:41:59",
     "depot": {
         "228988": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "299902224"
                 }
             },
-            "decryptionkey": "59d59862ea40c92ef01e270e60c349de893eee7a55a089cb6ef63b68e8935075"
+            "decryptionkey": ""
         },
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish",
