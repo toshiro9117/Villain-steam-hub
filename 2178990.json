@@ -4,8 +4,8 @@
     "name": "Sodaman",
     "schinese_name": "汽水侠",
     "isfreeapp": "0",
-    "change_number": "27724039",
-    "update_time": "2025-03-01 03:13:29",
+    "change_number": "27996931",
+    "update_time": "2025-03-17 23:32:38",
     "depot": {
         "2178992": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8041624884639304179",
-                    "size": "4135979136",
-                    "download": "890709952"
+                    "gid": "1163024162001836098",
+                    "size": "4314537257",
+                    "download": "1014192544"
                 }
             },
             "decryptionkey": "6b62515b6c4760a5613f6a145f90c85222f5c846b4f1ac3f91c0bc5a8d245d28"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2605316362250938849",
-                    "size": "3491902481",
-                    "download": "765918608"
+                    "gid": "224914500396591250",
+                    "size": "3670454884",
+                    "download": "848254272"
                 }
             },
             "decryptionkey": ""
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "68757753682765246",
-                    "size": "4174317123",
-                    "download": "911577728"
+                    "gid": "1895460366885125376",
+                    "size": "4352859531",
+                    "download": "1035199168"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17429156",
-                "timeupdated": "1740002992"
+                "buildid": "17753508",
+                "timeupdated": "1742225551"
             }
         },
         "privatebranches": "1"
