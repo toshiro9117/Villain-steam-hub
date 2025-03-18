@@ -4,8 +4,8 @@
     "name": "Little Life: Idyllic Town Tales",
     "schinese_name": "小生活-悠闲小镇物语",
     "isfreeapp": "0",
-    "change_number": "27527069",
-    "update_time": "2025-02-18 11:13:11",
+    "change_number": "27959384",
+    "update_time": "2025-03-14 23:27:12",
     "depot": {
         "baselanguages": "english,schinese",
         "3069041": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6882645946403778456",
-                    "size": "549372742",
-                    "download": "353154560"
+                    "gid": "7854639948327714794",
+                    "size": "1011123311",
+                    "download": "596408352"
                 }
             },
             "decryptionkey": "e09e1fc52a50e3d41c321a0c7d90f91e4ea7bebf974f089de6039884aff75d7e"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4768844322558150713",
+                    "gid": "4684384317219331985",
                     "size": "552450308",
-                    "download": "354278240"
+                    "download": "354278128"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17401530",
-                "timeupdated": "1739848356"
+                "buildid": "17688855",
+                "timeupdated": "1741763581"
             }
         },
         "privatebranches": "1"
