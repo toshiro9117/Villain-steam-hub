@@ -4,8 +4,8 @@
     "name": "F1® 24",
     "schinese_name": "F1® 24",
     "isfreeapp": "0",
-    "change_number": "27720898",
-    "update_time": "2025-03-01 00:10:22",
+    "change_number": "27991635",
+    "update_time": "2025-03-17 18:44:27",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,dutch,brazilian,latam",
         "workshopdepot": "2488620",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "271544020704476424",
-                    "size": "21820265918",
-                    "download": "18018860512"
+                    "gid": "3382863321570868749",
+                    "size": "21822357564",
+                    "download": "18027766608"
                 }
             },
             "decryptionkey": "631754f71ffa45dd53c6375d1e093a58315b5c7468e7dae0b1c1f168b1e3b062"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1765975052263221729",
-                    "size": "638420077",
-                    "download": "405485216"
+                    "gid": "8747305825054909299",
+                    "size": "632337005",
+                    "download": "400869200"
                 }
             },
             "decryptionkey": "13515b2f09f7b81529a2c82c13692f6148e80f4aea11fde68100e35560e67a60"
@@ -109,8 +109,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17144970",
-                "timeupdated": "1738576834"
+                "buildid": "17516873",
+                "timeupdated": "1740995898"
             }
         },
         "privatebranches": "1",
