@@ -4,8 +4,8 @@
     "name": "Ancient Warfare 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26967820",
-    "update_time": "2025-01-13 13:09:24",
+    "change_number": "27963560",
+    "update_time": "2025-03-15 03:15:42",
     "depot": {
         "228983": {
             "config": {
@@ -29,12 +29,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4769357550669336764",
-                    "size": "1226878713",
-                    "download": "476395952"
+                    "gid": "781677542873762795",
+                    "size": "1226899337",
+                    "download": "476397968"
                 }
             },
-            "decryptionkey": "c8f981d7497778a947599dc4f4b1d07c0cd20f9f5ea08e91b1b7db7404294c1c"
+            "decryptionkey": ""
         },
         "758992": {
             "config": {
@@ -43,12 +43,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "797297361721446293",
-                    "size": "1206731402",
-                    "download": "470520400"
+                    "gid": "7869703091491157773",
+                    "size": "1206752026",
+                    "download": "470520464"
                 }
             },
-            "decryptionkey": "921fc7f159ff6fc15ea537dd6df7c952b2cb16aa6d46359c990c354769e3059b"
+            "decryptionkey": ""
         },
         "758993": {
             "config": {
@@ -61,7 +61,7 @@
                     "download": "453425024"
                 }
             },
-            "decryptionkey": "ed45f9fbde7a9a82531486fd2d09fcfc0e67ea3f28b0498d18cbc61dc11f1b20"
+            "decryptionkey": ""
         },
         "758994": {
             "config": {
@@ -70,19 +70,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7942282417446024205",
-                    "size": "1261897428",
-                    "download": "489409728"
+                    "gid": "7338191570545578996",
+                    "size": "1261918052",
+                    "download": "489410672"
                 }
             },
-            "decryptionkey": "4b4826fd1970815daae691ede9e20008c75da687de1672ea22a070537ee9c1b1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16825143",
-                "timeupdated": "1734806821"
+                "buildid": "17726713",
+                "timeupdated": "1741962865"
             }
         },
-        "workshopdepotdecryptionkey": "70973b9c17a835b1244089e93dd9d586fda18e0427c6ce5e21479f4d7d56d0de"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
