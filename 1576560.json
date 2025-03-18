@@ -4,8 +4,8 @@
     "name": "DownhillVR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26913785",
-    "update_time": "2025-01-09 04:58:04",
+    "change_number": "27983203",
+    "update_time": "2025-03-17 02:47:37",
     "depot": {
         "228989": {
             "config": {
@@ -35,17 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "387628843054680991",
-                    "size": "20749303085",
-                    "download": "8565172768"
+                    "gid": "9179983773310301652",
+                    "size": "20162288404",
+                    "download": "8113703664"
                 }
             },
-            "decryptionkey": "32db52124570890a8d14456bceeca7e9f4d6a6fabc6b2cc042d9365e35211161"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16943764",
-                "timeupdated": "1736369880"
+                "buildid": "17744222",
+                "timeupdated": "1742150851"
             }
         },
         "privatebranches": "1"
