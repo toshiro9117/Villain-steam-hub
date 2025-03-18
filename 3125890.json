@@ -1,0 +1,60 @@
+{
+    "appid": "3125890",
+    "type": "Game",
+    "name": "Mineral Defense",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28009564",
+    "update_time": "2025-03-18 16:56:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3125891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6274752237525523035",
+                    "size": "890425158",
+                    "download": "672293648"
+                }
+            },
+            "decryptionkey": "a7a9b39f854c3b38cfd2c6605ee1b6926b5799dd7e2f03d3b5a17c9d27f4c7f9"
+        },
+        "3125892": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6220393342844009085",
+                    "size": "797385233",
+                    "download": "585273472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17708910",
+                "timeupdated": "1741869991"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
