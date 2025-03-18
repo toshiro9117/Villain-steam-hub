@@ -4,8 +4,8 @@
     "name": "Lost But Found",
     "schinese_name": "失物招领模拟器",
     "isfreeapp": "0",
-    "change_number": "27423824",
-    "update_time": "2025-02-12 00:39:17",
+    "change_number": "27968768",
+    "update_time": "2025-03-15 11:02:46",
     "depot": {
         "3204251": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5230087607302831402",
-                    "size": "1167417091",
-                    "download": "187275264"
+                    "gid": "5320952878504785488",
+                    "size": "1274711195",
+                    "download": "191153616"
                 },
                 "beta": {
-                    "gid": "3000010001726947615",
-                    "size": "1276340676",
-                    "download": "191279408"
+                    "gid": "5320952878504785488",
+                    "size": "1274711195",
+                    "download": "191153616"
                 }
             },
             "decryptionkey": "02f7ccd2d70fc07720713ec9b6050c50ab6cdc94da70f9d3bc957b7c1b8a3415"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2070276104610821497",
-                    "size": "1191742030",
-                    "download": "194477072"
+                    "gid": "9121568274259702480",
+                    "size": "1299036133",
+                    "download": "198355968"
                 },
                 "beta": {
-                    "gid": "7251107098055084798",
-                    "size": "1300695945",
-                    "download": "198485872"
+                    "gid": "9121568274259702480",
+                    "size": "1299036133",
+                    "download": "198355968"
                 }
             },
             "decryptionkey": ""
@@ -49,27 +49,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2305570721189570949",
-                    "size": "1168264731",
-                    "download": "187023888"
+                    "gid": "6675204327547636772",
+                    "size": "1275558835",
+                    "download": "190901744"
                 },
                 "beta": {
-                    "gid": "3405746126529541770",
-                    "size": "1277188723",
-                    "download": "191029008"
+                    "gid": "6675204327547636772",
+                    "size": "1275558835",
+                    "download": "190901744"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17074667",
-                "timeupdated": "1737681955"
+                "buildid": "17599155",
+                "timeupdated": "1741457085"
             },
             "beta": {
-                "buildid": "17315526",
+                "buildid": "17599155",
                 "description": "Beta stating branch for Lost But Found usually full of bugs",
-                "timeupdated": "1739241582"
+                "timeupdated": "1741150863"
             }
         }
     }
