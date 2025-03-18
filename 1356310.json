@@ -4,8 +4,8 @@
     "name": "A Total War Saga: Troy – Assembly Kit",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27506512",
-    "update_time": "2025-02-17 05:35:53",
+    "change_number": "27984244",
+    "update_time": "2025-03-17 05:16:24",
     "depot": {
         "228983": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "2340553844",
                     "download": "1574975488"
                 }
-            },
-            "decryptionkey": "6b89f9fd75bb795354e246fe85d77bb7a73e6fb63339dbca562f8b9c7b3c39b5"
+            }
         },
         "branches": {
             "public": {
