@@ -4,8 +4,8 @@
     "name": "nanos world™ Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27493947",
-    "update_time": "2025-02-15 20:37:10",
+    "change_number": "27982152",
+    "update_time": "2025-03-17 00:17:25",
     "depot": {
         "1004": {
             "config": {
@@ -19,7 +19,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+            "decryptionkey": ""
         },
         "1005": {
             "config": {
@@ -33,7 +33,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+            "decryptionkey": ""
         },
         "1006": {
             "config": {
@@ -47,7 +47,7 @@
                 }
             },
             "depotfromapp": "1007",
-            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+            "decryptionkey": ""
         },
         "228989": {
             "config": {
@@ -72,9 +72,9 @@
                     "download": "5540224"
                 },
                 "bleeding-edge": {
-                    "gid": "726213294810766673",
-                    "size": "29564917",
-                    "download": "7094416"
+                    "gid": "5802015938331184155",
+                    "size": "30246901",
+                    "download": "7125520"
                 }
             },
             "decryptionkey": ""
@@ -95,9 +95,9 @@
                     "download": "7826496"
                 },
                 "bleeding-edge": {
-                    "gid": "4192448900474266503",
-                    "size": "35269332",
-                    "download": "8487680"
+                    "gid": "8468372265098534318",
+                    "size": "35647036",
+                    "download": "8535920"
                 }
             },
             "decryptionkey": ""
@@ -114,9 +114,9 @@
                 "timeupdated": "1702982596"
             },
             "bleeding-edge": {
-                "buildid": "17377622",
+                "buildid": "17743616",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1739623022"
+                "timeupdated": "1742141838"
             }
         },
         "workshopdepotdecryptionkey": ""
