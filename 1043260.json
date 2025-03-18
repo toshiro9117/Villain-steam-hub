@@ -4,8 +4,8 @@
     "name": "Gladiator Guild Manager",
     "schinese_name": "角斗士公会经理",
     "isfreeapp": "0",
-    "change_number": "27051990",
-    "update_time": "2025-01-18 09:54:41",
+    "change_number": "27984083",
+    "update_time": "2025-03-17 04:56:05",
     "depot": {
         "1043261": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4558847284190587572",
-                    "size": "3642462671",
-                    "download": "660041872"
+                    "gid": "4884747888111042844",
+                    "size": "3693660408",
+                    "download": "708077648"
                 },
                 "beta_pre_release": {
                     "gid": "5371630236795408632",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2275128494913537974",
-                    "size": "3645499254",
-                    "download": "661280848"
+                    "gid": "7811734609912791367",
+                    "size": "3696696991",
+                    "download": "709481760"
                 },
                 "beta_pre_release": {
                     "gid": "2641489503647785662",
@@ -61,7 +61,7 @@
                     "download": "629501344"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c8f22281632780ee9ecb3c7d19fdc66ff60f7810d61253bfeeb49fd38412aaf8"
         },
         "1043263": {
             "config": {
@@ -94,8 +94,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15804715",
-                "timeupdated": "1727160897"
+                "buildid": "17698981",
+                "timeupdated": "1741812841"
             },
             "beta_pre_release": {
                 "buildid": "14804164",
