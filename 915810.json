@@ -4,8 +4,8 @@
     "name": "Midnight Ghost Hunt",
     "schinese_name": "午夜猎魂",
     "isfreeapp": "0",
-    "change_number": "27406501",
-    "update_time": "2025-02-11 02:36:21",
+    "change_number": "28004517",
+    "update_time": "2025-03-18 08:57:15",
     "depot": {
         "228988": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3039814926244858902",
-                    "size": "14722376779",
-                    "download": "11981283344"
+                    "gid": "800371387276553780",
+                    "size": "14722376762",
+                    "download": "11981187392"
                 }
             },
-            "decryptionkey": "d7b9540b9686b8d615fa43442db4e31e903d7770c28306479c875f17e92ed930"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17294951",
-                "timeupdated": "1739212575"
+                "buildid": "17475073",
+                "timeupdated": "1740516645"
             }
         },
         "privatebranches": "1"
