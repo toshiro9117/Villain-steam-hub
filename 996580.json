@@ -4,8 +4,8 @@
     "name": "Spyro™ Reignited Trilogy",
     "schinese_name": "斯派罗烈焰重燃三合一",
     "isfreeapp": "0",
-    "change_number": "27208696",
-    "update_time": "2025-01-29 06:20:03",
+    "change_number": "27877074",
+    "update_time": "2025-03-11 02:21:33",
     "depot": {
         "228986": {
             "config": {
@@ -35,7 +35,7 @@
                     "download": "40642096"
                 }
             },
-            "decryptionkey": "43f678f5e86f5f0e6f236ba830580719be039e1185121a7650e3a5733e593865"
+            "decryptionkey": ""
         },
         "996582": {
             "manifests": {
@@ -50,7 +50,7 @@
                     "download": "40663145376"
                 }
             },
-            "decryptionkey": "6cab8b3208e30fc352684bb5ca8390e5e7e22926b56cf58545f72b528e87a923"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
