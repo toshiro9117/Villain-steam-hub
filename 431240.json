@@ -4,8 +4,8 @@
     "name": "Golf With Your Friends",
     "schinese_name": "友尽高尔夫",
     "isfreeapp": "0",
-    "change_number": "27730504",
-    "update_time": "2025-03-01 14:29:19",
+    "change_number": "28012283",
+    "update_time": "2025-03-18 19:43:25",
     "depot": {
         "workshopdepot": "431240",
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,brazilian",
@@ -28,7 +28,7 @@
                     "download": "4447829872"
                 }
             },
-            "decryptionkey": "16cd47114e4065cbc0a73cdeb4ea975256bf4ab9ac9e6306e112f94c5522f12d"
+            "decryptionkey": ""
         },
         "431242": {
             "config": {
@@ -42,7 +42,7 @@
                     "download": "4440856176"
                 }
             },
-            "decryptionkey": "6b14b5df622bf22a48c1842adf665a0e018cf6728a6f65ccc64dbe4a9258a3c3"
+            "decryptionkey": ""
         },
         "431243": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "4451335984"
                 }
             },
-            "decryptionkey": "8cc130bb9bbf82e74db58ec24740489b008779b70337a4bc6adce57825740d2f"
+            "decryptionkey": ""
         },
         "564170": {
             "dlcappid": "564170",
@@ -70,7 +70,7 @@
                     "download": "34645760"
                 }
             },
-            "decryptionkey": "fc920161bc70827e127a30a447ae4d0d47e9ace5c4190050fc3ba76950d107a8"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -79,6 +79,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "15623194ea6b4889952c9c6a65015dab9d45fc56d4b0bed9786034dfdbca2e24"
+        "workshopdepotdecryptionkey": ""
     }
 }
