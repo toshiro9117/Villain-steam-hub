@@ -4,8 +4,8 @@
     "name": "Shieldwall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27165299",
-    "update_time": "2025-01-26 01:20:21",
+    "change_number": "27997480",
+    "update_time": "2025-03-18 00:02:37",
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -50,7 +50,7 @@
                     "download": "962571184"
                 }
             },
-            "decryptionkey": "121ffa3e85426ad033d75eabafe829aa9fc20168fff2efc6513554cb11139b6e"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -72,6 +72,7 @@
                 "description": "Alpha 4",
                 "timeupdated": "1731245255"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
