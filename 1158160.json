@@ -4,8 +4,8 @@
     "name": "Coral Island",
     "schinese_name": "珊瑚岛",
     "isfreeapp": "0",
-    "change_number": "27731781",
-    "update_time": "2025-03-01 17:52:23",
+    "change_number": "28011630",
+    "update_time": "2025-03-18 19:00:55",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6811142665861075279",
-                    "size": "13274224139",
-                    "download": "10274740864"
+                    "gid": "2516381922549577623",
+                    "size": "13279629095",
+                    "download": "10275214512"
                 }
             },
             "decryptionkey": "e9303b2124c42a0c9cfc882e92469d8ceb392056ec283045ac876c31df4f5e65"
@@ -107,8 +107,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17306591",
-                "timeupdated": "1739196488"
+                "buildid": "17675187",
+                "timeupdated": "1741698092"
             }
         },
         "privatebranches": "1"
