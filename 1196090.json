@@ -4,8 +4,8 @@
     "name": "Scars Above",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27424525",
-    "update_time": "2025-02-12 01:17:29",
+    "change_number": "27839877",
+    "update_time": "2025-03-08 01:01:28",
     "depot": {
         "228987": {
             "config": {
@@ -36,7 +36,7 @@
                     "download": "14037416496"
                 }
             },
-            "decryptionkey": "98313c47201079ec1b795e7f7294940e1c585dd04ff55c038eef31ff39ca32f8"
+            "decryptionkey": ""
         },
         "2334350": {
             "dlcappid": "2334350",
@@ -47,7 +47,7 @@
                     "download": "138451296"
                 }
             },
-            "decryptionkey": "595188717197bf1339aae4ded04f41b3bb9dbe5bf247d38f9a815ad7c4967fbf"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
