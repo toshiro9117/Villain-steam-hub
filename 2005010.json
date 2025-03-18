@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Boltgun",
     "schinese_name": "战锤40K：爆矢枪",
     "isfreeapp": "0",
-    "change_number": "26588372",
-    "update_time": "2024-12-11 15:12:30",
+    "change_number": "27804746",
+    "update_time": "2025-03-06 08:02:01",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "6200181504"
                 }
             },
-            "decryptionkey": "a0d26058a3aee26facb0319102648ee8172819bfba6358f4f375b89dd4070d36"
+            "decryptionkey": ""
         },
         "2225900": {
             "dlcappid": "2225900"
