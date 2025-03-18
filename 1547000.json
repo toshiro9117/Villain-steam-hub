@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
     "schinese_name": "侠盗猎车手：圣安地列斯 - 最终版",
     "isfreeapp": "0",
-    "change_number": "27725242",
-    "update_time": "2025-03-01 04:35:33",
+    "change_number": "27971706",
+    "update_time": "2025-03-15 19:14:04",
     "depot": {
         "228988": {
             "config": {
@@ -29,14 +29,14 @@
                     "download": "19385204112"
                 }
             },
-            "decryptionkey": "625ab457b256e557dc28337fec8a01b39731624ee6008b92670ac977c2691806"
+            "decryptionkey": ""
         },
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "6920980794360204616",
-                    "size": "228262668",
-                    "download": "184801072"
+                    "gid": "3069743124386259608",
+                    "size": "229581068",
+                    "download": "186115536"
                 }
             },
             "depotfromapp": "1899670",
