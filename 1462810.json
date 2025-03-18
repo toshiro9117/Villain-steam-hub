@@ -4,8 +4,8 @@
     "name": "WRC 10 FIA World Rally Championship",
     "schinese_name": "WRC 10 FIA世界拉力锦标赛",
     "isfreeapp": "0",
-    "change_number": "27516145",
-    "update_time": "2025-02-17 21:23:07",
+    "change_number": "27761795",
+    "update_time": "2025-03-04 05:23:39",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "228983": {
@@ -44,7 +44,7 @@
                     "download": "35023483248"
                 }
             },
-            "decryptionkey": "4d32d8e4437fd7b8a78ade88d36e020a1b25551ae1bd3da6768dcb764cf661c1"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
