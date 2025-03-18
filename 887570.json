@@ -4,8 +4,8 @@
     "name": "NEBULOUS: Fleet Command",
     "schinese_name": "星云：战舰指挥官 NEBULOUS: Fleet Command",
     "isfreeapp": "0",
-    "change_number": "27725839",
-    "update_time": "2025-03-01 05:22:52",
+    "change_number": "28012457",
+    "update_time": "2025-03-18 19:56:03",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1839419886481665076",
-                    "size": "2513280767",
-                    "download": "1973736672"
+                    "gid": "4972537211678730085",
+                    "size": "2513283971",
+                    "download": "1973745488"
                 },
                 "conquest-unfinished-build": {
                     "gid": "2224373734496984127",
@@ -30,18 +30,18 @@
                     "download": "1880676448"
                 },
                 "testing": {
-                    "gid": "1839419886481665076",
-                    "size": "2513280767",
-                    "download": "1973736672"
+                    "gid": "4972537211678730085",
+                    "size": "2513283971",
+                    "download": "1973745488"
                 }
             },
-            "decryptionkey": "75252a8e668a49c99a8f56a9b77550209a9965e9a93b26c882c9706b973f5054"
+            "decryptionkey": ""
         },
         "workshopdepot": "887570",
         "branches": {
             "public": {
-                "buildid": "17503662",
-                "timeupdated": "1740508951"
+                "buildid": "17746847",
+                "timeupdated": "1742238757"
             },
             "conquest-unfinished-build": {
                 "buildid": "14802179",
@@ -49,12 +49,12 @@
                 "timeupdated": "1719034534"
             },
             "testing": {
-                "buildid": "17503662",
+                "buildid": "17746847",
                 "description": "For test builds only",
-                "timeupdated": "1740506871"
+                "timeupdated": "1742238736"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "8f583f57e1b04a6b6972b0fc85731bd23d2b9b4d38f1457edf5ebac6e1534159"
+        "workshopdepotdecryptionkey": ""
     }
 }
