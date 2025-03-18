@@ -4,24 +4,19 @@
     "name": "Just a To the Moon Series Beach Episode",
     "schinese_name": "Just a To the Moon Series Beach Episode 《去月球系列海滩特别篇》",
     "isfreeapp": "0",
-    "change_number": "27540487",
-    "update_time": "2025-02-19 02:57:32",
+    "change_number": "27854287",
+    "update_time": "2025-03-09 06:20:26",
     "depot": {
         "baselanguages": "english,schinese",
         "2159211": {
             "manifests": {
                 "public": {
-                    "gid": "97390448508772659",
-                    "size": "371464260",
-                    "download": "316930176"
-                },
-                "beta": {
-                    "gid": "97390448508772659",
-                    "size": "371464260",
-                    "download": "316930176"
+                    "gid": "5619979373207099763",
+                    "size": "371865798",
+                    "download": "317239776"
                 }
             },
-            "decryptionkey": "73397dd1a442cac0d9326fe03e0381a4e15d66da98452a08af8695bc16c57a3e"
+            "decryptionkey": ""
         },
         "3224520": {
             "dlcappid": "3224520",
@@ -30,14 +25,9 @@
                     "gid": "8679803248249572419",
                     "size": "655027723",
                     "download": "578109984"
-                },
-                "beta": {
-                    "gid": "8679803248249572419",
-                    "size": "655027723",
-                    "download": "578109984"
                 }
             },
-            "decryptionkey": "0617b54ea37bd7e472d3d1848c0eef58997aa6977491f3bd209b069513c408f2"
+            "decryptionkey": ""
         },
         "3224521": {
             "dlcappid": "3224520",
@@ -46,11 +36,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "561077346636007838",
-                    "size": "567278848",
-                    "download": "534835280"
-                },
-                "beta": {
                     "gid": "561077346636007838",
                     "size": "567278848",
                     "download": "534835280"
@@ -64,11 +49,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3792934894090288959",
-                    "size": "26579832",
-                    "download": "7636752"
-                },
-                "beta": {
                     "gid": "3792934894090288959",
                     "size": "26579832",
                     "download": "7636752"
@@ -86,11 +66,6 @@
                     "gid": "8678659770268557037",
                     "size": "10196068",
                     "download": "3377088"
-                },
-                "beta": {
-                    "gid": "8678659770268557037",
-                    "size": "10196068",
-                    "download": "3377088"
                 }
             },
             "decryptionkey": ""
@@ -104,25 +79,16 @@
                     "gid": "1221564496318579571",
                     "size": "366338537",
                     "download": "304664768"
-                },
-                "beta": {
-                    "gid": "1221564496318579571",
-                    "size": "366338537",
-                    "download": "304664768"
                 }
             },
             "decryptionkey": "40d2a364e162e8f23c607364d0a7fb403029dda5482066b2a3bb96eee6541ba6"
         },
         "branches": {
             "public": {
-                "buildid": "17411549",
-                "timeupdated": "1739981296"
-            },
-            "beta": {
-                "buildid": "17411549",
-                "description": "Test branch",
-                "timeupdated": "1739903399"
+                "buildid": "17501505",
+                "timeupdated": "1740496338"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
