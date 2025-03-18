@@ -4,8 +4,8 @@
     "name": "STANDBOX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27524321",
-    "update_time": "2025-02-18 06:50:06",
+    "change_number": "27972977",
+    "update_time": "2025-03-15 22:25:51",
     "depot": {
         "228983": {
             "config": {
@@ -58,7 +58,7 @@
                     "download": "233065424"
                 }
             },
-            "decryptionkey": "ee1956c1c6bf8b3aae40730034b6558b10ea4a2c1d7f28a29c23e959921c35cb"
+            "decryptionkey": ""
         },
         "workshopdepot": "2246880",
         "branches": {
@@ -83,6 +83,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bed727eaf3c395f492149bc0db20076bc10b6b523748f0bc07fa59df9363cf57"
+        "workshopdepotdecryptionkey": ""
     }
 }
