@@ -4,8 +4,8 @@
     "name": "South Park The Fractured But Whole",
     "schinese_name": "南方公园：完整破碎",
     "isfreeapp": "0",
-    "change_number": "27156618",
-    "update_time": "2025-01-25 05:20:10",
+    "change_number": "27980592",
+    "update_time": "2025-03-16 20:20:35",
     "depot": {
         "baselanguages": "",
         "228983": {
@@ -37,7 +37,7 @@
                     "download": "24278739088"
                 }
             },
-            "decryptionkey": "91ae41f7e0eba911942b0e6c268e1d22a942fdd9c9521e3e68ecf42563202678"
+            "decryptionkey": ""
         },
         "488792": {
             "manifests": {
@@ -47,7 +47,7 @@
                     "download": "224"
                 }
             },
-            "decryptionkey": "7b37fd64e50668a85d6c00223deed02337c23e3c6c29023c0f55bb2045c54112"
+            "decryptionkey": ""
         },
         "488793": {
             "manifests": {
@@ -57,18 +57,18 @@
                     "download": "1168"
                 }
             },
-            "decryptionkey": "b61f408c4574381dcf80351f090aa9e445965227032f6987d0dcd464160288cb"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
-            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
