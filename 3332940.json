@@ -4,8 +4,8 @@
     "name": "Small Spaces Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27732091",
-    "update_time": "2025-03-01 18:46:06",
+    "change_number": "27955921",
+    "update_time": "2025-03-14 20:24:28",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "3332941": {
             "manifests": {
                 "public": {
-                    "gid": "7088596841444031068",
-                    "size": "3211415688",
-                    "download": "3041314768"
+                    "gid": "3842861709707651572",
+                    "size": "3484302873",
+                    "download": "3312238496"
                 }
-            },
-            "decryptionkey": "9cec85afbdaa38ee37ba753d9bf88aea37349e551f7982f30c85bea40ffc6fb0"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17487653",
-                "timeupdated": "1740419529"
+                "buildid": "17663028",
+                "timeupdated": "1741618604"
             }
         },
         "privatebranches": "1"
