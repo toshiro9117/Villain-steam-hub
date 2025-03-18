@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto IV: The Complete Edition",
     "schinese_name": "侠盗猎车手4：完整版",
     "isfreeapp": "0",
-    "change_number": "27725242",
-    "update_time": "2025-03-01 04:35:29",
+    "change_number": "27971706",
+    "update_time": "2025-03-15 19:13:59",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese",
@@ -32,7 +32,7 @@
                     "download": "6397056"
                 }
             },
-            "decryptionkey": "3446117408a17195591f5a98c1f64d2ca9a49dcdeb93a90fec8ceb63cb1cf249"
+            "decryptionkey": ""
         },
         "12211": {
             "systemdefined": "1",
@@ -43,7 +43,7 @@
                     "download": "14646179360"
                 }
             },
-            "decryptionkey": "155186d97af14c948ac35351ac345c108046167384eb2b898802f158bfd111b4"
+            "decryptionkey": ""
         },
         "12213": {
             "config": {
@@ -56,7 +56,7 @@
                     "download": "33147360"
                 }
             },
-            "decryptionkey": "e927e10529530ef0a1798c945c7fea9d3a4bd8cb2bac061587c193afbe0dfeec"
+            "decryptionkey": ""
         },
         "12214": {
             "config": {
@@ -69,7 +69,7 @@
                     "download": "31457616"
                 }
             },
-            "decryptionkey": "f47f42a9df6c82ac4c134478cd1a0c95bdb32f686a3c4033ee8b9735c3999529"
+            "decryptionkey": ""
         },
         "12215": {
             "config": {
@@ -82,7 +82,7 @@
                     "download": "31629552"
                 }
             },
-            "decryptionkey": "70a582f0d5f9cbf610ccbac1a905c7d5c8f0f3b420412ee754779141d9a89e77"
+            "decryptionkey": ""
         },
         "12216": {
             "config": {
@@ -95,7 +95,7 @@
                     "download": "31339184"
                 }
             },
-            "decryptionkey": "ef7603bd0f512678f2832b71bcb340b950fd5d8ed5f52e0129300538727d1787"
+            "decryptionkey": ""
         },
         "12217": {
             "config": {
@@ -108,7 +108,7 @@
                     "download": "31649600"
                 }
             },
-            "decryptionkey": "050c5432482073005c36629ad7372baeafb6d1f63b6b8175936feb4ad8521d1c"
+            "decryptionkey": ""
         },
         "12212": {
             "manifests": {
@@ -118,14 +118,14 @@
                     "download": "6129658416"
                 }
             },
-            "decryptionkey": "63df369c3038e5c927f585fc81b41f5b669795976ac9af4d27a2add6c57733ca"
+            "decryptionkey": ""
         },
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "6920980794360204616",
-                    "size": "228262668",
-                    "download": "184801072"
+                    "gid": "3069743124386259608",
+                    "size": "229581068",
+                    "download": "186115536"
                 }
             },
             "depotfromapp": "1899670",
