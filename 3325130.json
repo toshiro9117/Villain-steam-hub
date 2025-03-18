@@ -4,8 +4,8 @@
     "name": "Year of the Ladybug: Season 1",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26966369",
-    "update_time": "2025-01-13 09:33:11",
+    "change_number": "27814936",
+    "update_time": "2025-03-06 21:08:49",
     "depot": {
         "baselanguages": "english",
         "3325131": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "451868539283867487",
-                    "size": "1676370877",
-                    "download": "247314752"
+                    "gid": "638740016122735597",
+                    "size": "1680977345",
+                    "download": "251411376"
                 }
             },
             "decryptionkey": "478e761f8465e0041b4d9b67268325471c70652740fa08f7f1796bd18e259c39"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5054731507976061394",
-                    "size": "1669868696",
-                    "download": "246005216"
+                    "gid": "4642543476651307447",
+                    "size": "1705864544",
+                    "download": "259406352"
                 }
             },
             "decryptionkey": ""
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16750067",
-                "timeupdated": "1734295908"
+                "buildid": "17593577",
+                "timeupdated": "1741117218"
             }
         },
         "privatebranches": "1"
