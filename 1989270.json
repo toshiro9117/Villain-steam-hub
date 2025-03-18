@@ -4,15 +4,15 @@
     "name": "Slay the Princess — The Pristine Cut",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27114268",
-    "update_time": "2025-01-22 23:28:48",
+    "change_number": "27968882",
+    "update_time": "2025-03-15 11:20:43",
     "depot": {
         "1989271": {
             "manifests": {
                 "public": {
-                    "gid": "4898529251005460149",
-                    "size": "12972870542",
-                    "download": "12316419872"
+                    "gid": "6226378726358942197",
+                    "size": "12990191339",
+                    "download": "12333873744"
                 }
             },
             "decryptionkey": "d28b035c178523e9824d85af2171fc42463e9e7b1c4e1845de83bc0e1e0d9a53"
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17093078",
-                "timeupdated": "1737559620"
+                "buildid": "17607047",
+                "timeupdated": "1741192375"
             }
         },
         "privatebranches": "1"
