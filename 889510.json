@@ -4,8 +4,8 @@
     "name": "SENRAN KAGURA Burst Re:Newal",
     "schinese_name": "闪乱神乐Burst 重制版",
     "isfreeapp": "0",
-    "change_number": "26499075",
-    "update_time": "2024-12-05 13:26:37",
+    "change_number": "27989526",
+    "update_time": "2025-03-17 16:20:32",
     "depot": {
         "228984": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "7041066608"
                 }
             },
-            "decryptionkey": "8b9fef672efa78554a58dc355f467c32df5d12a571d409dd57a126f55037fa46"
+            "decryptionkey": ""
         },
         "925820": {
             "manifests": {
@@ -40,7 +40,7 @@
                 }
             },
             "dlcappid": "925820",
-            "decryptionkey": "0e5f04a0f866effc26e513a6f17edb6f2a5d5ff055d948b035ad15dbce0dcd6d"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
