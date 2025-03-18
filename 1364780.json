@@ -4,8 +4,8 @@
     "name": "Street Fighter™ 6",
     "schinese_name": "街头霸王6",
     "isfreeapp": "0",
-    "change_number": "27725846",
-    "update_time": "2025-03-01 05:23:26",
+    "change_number": "28005016",
+    "update_time": "2025-03-18 09:34:56",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "hasdepotsindlc": "1",
@@ -29,12 +29,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5127309727460469484",
-                    "size": "70034482033",
-                    "download": "63953968736"
+                    "gid": "4325503304688469454",
+                    "size": "70049627541",
+                    "download": "63959079904"
                 }
             },
-            "decryptionkey": "cfec39716b5a5cae49b52b5c0e01e6db93356ee3df5a0d87590fd811ab6d06e1"
+            "decryptionkey": ""
         },
         "1364782": {
             "config": {
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16934667",
-                "timeupdated": "1738728079"
+                "buildid": "17612776",
+                "timeupdated": "1741752397"
             }
         },
         "privatebranches": "1"
