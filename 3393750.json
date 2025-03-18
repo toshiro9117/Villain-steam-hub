@@ -1,0 +1,85 @@
+{
+    "appid": "3393750",
+    "type": "Game",
+    "name": "我的人生",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28011564",
+    "update_time": "2025-03-18 18:56:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "3393751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4593104045180948823",
+                    "size": "257280712",
+                    "download": "140634832"
+                }
+            },
+            "decryptionkey": "aa594473abe92a4caee2336729550c42f1ab7471cf27c013d40b1f4bd9ef78ee"
+        },
+        "3393752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2136546370322485649",
+                    "size": "324311560",
+                    "download": "154325040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3465771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8885040522851024685",
+                    "size": "257280712",
+                    "download": "140634832"
+                }
+            },
+            "decryptionkey": "b13174efa306cb1a63eb3a1776894b516190036b67dbbae7e773cbf93a5ea27e"
+        },
+        "3465772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "470504409976186316",
+                    "size": "378338764",
+                    "download": "208937008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17741785",
+                "timeupdated": "1742127832"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
