@@ -4,8 +4,8 @@
     "name": "Far Cry Primal",
     "schinese_name": "孤岛惊魂：原始杀戮",
     "isfreeapp": "0",
-    "change_number": "27454408",
-    "update_time": "2025-02-13 15:44:13",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:23",
     "depot": {
         "baselanguages": "",
         "228983": {
@@ -51,7 +51,7 @@
                     "download": "12888544448"
                 }
             },
-            "decryptionkey": "09438b91bfc9be90cdfe09dffc54d5b6296a1c9623059513bb8bf156411b75f9"
+            "decryptionkey": ""
         },
         "456310": {
             "dlcappid": "456310",
@@ -65,14 +65,14 @@
             "config": {
                 "optionaldlc": "456310"
             },
-            "decryptionkey": "50be66b7c5295a8547e5ea2d3f92ec783e871cf34431279f1b6c37fef23b1774"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
