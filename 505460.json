@@ -4,8 +4,8 @@
     "name": "Foxhole",
     "schinese_name": "散兵坑",
     "isfreeapp": "0",
-    "change_number": "27713232",
-    "update_time": "2025-02-28 16:51:59",
+    "change_number": "28009365",
+    "update_time": "2025-03-18 16:42:39",
     "depot": {
         "228988": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "6399492624"
                 }
             },
-            "decryptionkey": "bb4f2b312b248a9d82f22ce92055a5df6819410a63a872976e5541e2a22a4434"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
