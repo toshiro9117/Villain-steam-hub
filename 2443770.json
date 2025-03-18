@@ -4,8 +4,8 @@
     "name": "Will You Wheel?",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27391454",
-    "update_time": "2025-02-10 06:25:12",
+    "change_number": "27976028",
+    "update_time": "2025-03-16 05:45:56",
     "depot": {
         "2443771": {
             "config": {
@@ -18,42 +18,43 @@
                     "download": "322885536"
                 },
                 "beta": {
-                    "gid": "836598806210655717",
-                    "size": "1478892523",
-                    "download": "302521760"
+                    "gid": "2295645322887327915",
+                    "size": "1530709406",
+                    "download": "309322128"
                 }
             },
             "decryptionkey": "1c42a49ebaaf7b18b33996dc75f9814e381d9c519605b8b927da430e6b96c74c"
         },
-        "2443772": {
+        "2443773": {
             "config": {
-                "oslist": "macos",
+                "oslist": "linux",
                 "osarch": "64"
             },
             "manifests": {
                 "public": {
-                    "gid": "6362324721160057972",
-                    "size": "1520624126",
-                    "download": "301164128"
+                    "gid": "6925127704323715217",
+                    "size": "1565359869",
+                    "download": "315190464"
                 },
                 "beta": {
-                    "gid": "6362324721160057972",
-                    "size": "1520624126",
-                    "download": "301164128"
+                    "gid": "4407121013711790050",
+                    "size": "1565359869",
+                    "download": "315161888"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16982905",
-                "timeupdated": "1736909226"
+                "buildid": "17625696",
+                "timeupdated": "1741294173"
             },
             "beta": {
-                "buildid": "17444345",
+                "buildid": "17739353",
                 "description": "this will be betas of updates",
-                "timeupdated": "1740079335"
+                "timeupdated": "1742075153"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
