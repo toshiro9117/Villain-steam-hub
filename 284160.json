@@ -4,8 +4,8 @@
     "name": "BeamNG.drive",
     "schinese_name": "车祸模拟器 - BeamNG.drive",
     "isfreeapp": "0",
-    "change_number": "27724922",
-    "update_time": "2025-03-01 04:11:02",
+    "change_number": "28010862",
+    "update_time": "2025-03-18 18:07:12",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "284160",
@@ -46,9 +46,14 @@
                     "gid": "6480468305842489880",
                     "size": "3292150517",
                     "download": "1331407920"
+                },
+                "0.34.2_win7_no_updates": {
+                    "gid": "7383888202984452768",
+                    "size": "55512641323",
+                    "download": "17349001312"
                 }
             },
-            "decryptionkey": "0e77f1cd7bb3169d9885cc26c7d2ef9fffc02c8c49671bec7b7308dd6cf86229"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
@@ -68,9 +73,14 @@
             "0.4.0.6-dx9": {
                 "buildid": "674438",
                 "description": "No updates - DirectX9 - 0.4.0.6"
+            },
+            "0.34.2_win7_no_updates": {
+                "buildid": "16771164",
+                "description": "0.34.2-win7 - No updates - Windows 7 SP1",
+                "timeupdated": "1741706864"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "10c614fbabbde67d0375ae04f35cbc597f9f49f6addbe766465e77ba7cb4a9bb"
+        "workshopdepotdecryptionkey": ""
     }
 }
