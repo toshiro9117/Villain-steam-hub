@@ -4,8 +4,8 @@
     "name": "The Anacrusis",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27492829",
-    "update_time": "2025-02-15 17:34:17",
+    "change_number": "28000696",
+    "update_time": "2025-03-18 03:20:16",
     "depot": {
         "228988": {
             "config": {
@@ -41,7 +41,7 @@
                     "download": "14908219040"
                 }
             },
-            "decryptionkey": "b9b6c79ca0f72ad5830e8c79752e935bcd138e17f68f60b0a455588e1a603ba9"
+            "decryptionkey": ""
         },
         "workshopdepot": "1120480",
         "branches": {
@@ -51,6 +51,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4c3c9913d6a26e2004accd785fa169800ee9295c4aaef8432bb6b6990eb95cb1"
+        "workshopdepotdecryptionkey": ""
     }
 }
