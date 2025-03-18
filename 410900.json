@@ -4,8 +4,8 @@
     "name": "Forts",
     "schinese_name": "进击！要塞！",
     "isfreeapp": "0",
-    "change_number": "27472171",
-    "update_time": "2025-02-14 11:32:09",
+    "change_number": "27946517",
+    "update_time": "2025-03-14 09:17:29",
     "depot": {
         "228988": {
             "config": {
@@ -39,9 +39,9 @@
         "410903": {
             "manifests": {
                 "public": {
-                    "gid": "8926192905568340886",
-                    "size": "2074291466",
-                    "download": "1529504560"
+                    "gid": "3030229153876406887",
+                    "size": "2074822589",
+                    "download": "1529879840"
                 }
             },
             "decryptionkey": "16227c56c58eb563a48d09c05b6d2a9c376704b33232f8c3e4f32128c0085fdb"
@@ -80,8 +80,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17360974",
-                "timeupdated": "1739503925"
+                "buildid": "17498279",
+                "timeupdated": "1740532035"
             }
         },
         "privatebranches": "1",
