@@ -4,8 +4,8 @@
     "name": "The Axis Unseen",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27482907",
-    "update_time": "2025-02-15 00:16:50",
+    "change_number": "27978632",
+    "update_time": "2025-03-16 13:55:20",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5397414067701955153",
-                    "size": "26056870463",
-                    "download": "24775063248"
+                    "gid": "6592976145095610294",
+                    "size": "26057723387",
+                    "download": "24775950704"
                 },
                 "local": {
                     "gid": "4157520960381721445",
@@ -37,13 +37,13 @@
                     "download": "88880"
                 }
             },
-            "decryptionkey": "4135eb4fbb0382638a520149b5584c6e2205085136f341d8984084fe431dd900"
+            "decryptionkey": ""
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17013693",
-                "timeupdated": "1736960528"
+                "buildid": "17486989",
+                "timeupdated": "1740421510"
             },
             "local": {
                 "buildid": "12226831",
