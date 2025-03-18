@@ -4,8 +4,8 @@
     "name": "Dungeon Inn",
     "schinese_name": "莎拉的黑店",
     "isfreeapp": "0",
-    "change_number": "27710827",
-    "update_time": "2025-02-28 16:38:41",
+    "change_number": "27791473",
+    "update_time": "2025-03-05 17:21:39",
     "depot": {
         "2552311": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3756658883140288272",
-                    "size": "1069503090",
-                    "download": "187332176"
+                    "gid": "5628644958176590082",
+                    "size": "1068556615",
+                    "download": "184402544"
                 }
             },
             "decryptionkey": "a48d53d95522fbe56c2435f9f17d6b85e7280d997aaeda7da4de01790c56e4ad"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4293547491826688493",
-                    "size": "332342165",
-                    "download": "225546064"
+                    "gid": "7184434536897679308",
+                    "size": "329456984",
+                    "download": "221767408"
                 }
             },
             "decryptionkey": ""
@@ -37,8 +37,8 @@
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16996073",
-                "timeupdated": "1737020582"
+                "buildid": "17601420",
+                "timeupdated": "1741166493"
             }
         },
         "privatebranches": "1"
