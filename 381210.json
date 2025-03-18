@@ -4,8 +4,8 @@
     "name": "Dead by Daylight",
     "schinese_name": "黎明杀机",
     "isfreeapp": "0",
-    "change_number": "27442311",
-    "update_time": "2025-02-12 23:59:55",
+    "change_number": "27996612",
+    "update_time": "2025-03-17 23:11:16",
     "depot": {
         "228989": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "50877692160"
                 }
             },
-            "decryptionkey": "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca"
+            "decryptionkey": ""
         },
         "381212": {
             "dlcappid": "492360",
@@ -43,7 +43,7 @@
                     "download": "31327728"
                 }
             },
-            "decryptionkey": "d514d170477029b1fc73e157f9550e3591facfc4508a7568deaf4599fc3a54b4"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
