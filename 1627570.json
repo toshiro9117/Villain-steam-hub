@@ -4,8 +4,8 @@
     "name": "The Plucky Squire",
     "schinese_name": "勇敢小骑士",
     "isfreeapp": "0",
-    "change_number": "27451090",
-    "update_time": "2025-02-13 10:21:19",
+    "change_number": "27926208",
+    "update_time": "2025-03-13 13:06:39",
     "depot": {
         "228989": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "24389441184"
                 }
             },
-            "decryptionkey": "e661c1eead55950383e838a426867be04461ef2a6dadca9d639d453962de333b"
+            "decryptionkey": ""
         },
         "3225560": {
             "dlcappid": "3225560",
@@ -40,7 +40,7 @@
                     "download": "208392368"
                 }
             },
-            "decryptionkey": "aea8f638eaba1daafacfefd01049131cd28175920515c6de2acda968040ef673"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
