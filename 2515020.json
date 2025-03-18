@@ -4,8 +4,8 @@
     "name": "FINAL FANTASY XVI",
     "schinese_name": "最终幻想16",
     "isfreeapp": "0",
-    "change_number": "27489110",
-    "update_time": "2025-02-15 08:09:04",
+    "change_number": "27845562",
+    "update_time": "2025-03-08 08:00:52",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2113222725677770136",
-                    "size": "136284734973",
-                    "download": "122039153808"
+                    "gid": "8473560965998297727",
+                    "size": "136016506529",
+                    "download": "121860338640"
                 }
             },
             "decryptionkey": "a1bc4011c581932ab613727be50494068bd3d57d59fa0f60bef081401902a046"
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16074714",
-                "timeupdated": "1729162277"
+                "buildid": "17373708",
+                "timeupdated": "1741057749"
             }
         },
         "privatebranches": "1"
