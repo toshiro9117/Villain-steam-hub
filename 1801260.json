@@ -4,8 +4,8 @@
     "name": "Spawnworks Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722512",
-    "update_time": "2025-03-01 01:39:55",
+    "change_number": "27981338",
+    "update_time": "2025-03-16 22:16:06",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "354241248"
                 },
                 "development": {
-                    "gid": "6110384291028385923",
-                    "size": "1647638553",
-                    "download": "342796224"
+                    "gid": "6724621295087782937",
+                    "size": "1652219601",
+                    "download": "353985152"
                 }
             },
             "decryptionkey": ""
@@ -78,9 +78,9 @@
                     "download": "454384816"
                 },
                 "development": {
-                    "gid": "112326748402948382",
-                    "size": "2565395646",
-                    "download": "450443408"
+                    "gid": "7369581243731341995",
+                    "size": "2569632883",
+                    "download": "451343328"
                 }
             },
             "decryptionkey": ""
@@ -91,9 +91,9 @@
                 "timeupdated": "1727484366"
             },
             "development": {
-                "buildid": "17550776",
+                "buildid": "17743130",
                 "description": "development",
-                "timeupdated": "1740764386"
+                "timeupdated": "1742134561"
             }
         }
     }
