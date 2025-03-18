@@ -4,8 +4,8 @@
     "name": "Assassin's Creed Rogue",
     "schinese_name": "刺客信条：叛变",
     "isfreeapp": "0",
-    "change_number": "27232552",
-    "update_time": "2025-01-30 17:53:52",
+    "change_number": "27908290",
+    "update_time": "2025-03-12 18:01:14",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,dutch,brazilian",
         "228983": {
@@ -41,7 +41,7 @@
                     "download": "8754046368"
                 }
             },
-            "decryptionkey": "42bdf94957d5fccbb06dae4e835998ffaacee0eb6e08ffbbd77ad7d0be282380"
+            "decryptionkey": ""
         },
         "311562": {
             "config": {
@@ -55,7 +55,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": "2bcc03afbf14f7a2d4121ef3675f20cf48d8038648a0e3187702620bbcdac0cb"
+            "decryptionkey": ""
         },
         "311563": {
             "config": {
@@ -69,7 +69,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": "01ba3fc561b0e872c5abc7c280cc156824389c2cf677290c267ccf412a2cc2dd"
+            "decryptionkey": ""
         },
         "311564": {
             "config": {
@@ -83,14 +83,14 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": "b49726ea1d301607f3707bf48d31d1a5a10be3344879869e99b04544be782e53"
+            "decryptionkey": ""
         },
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
