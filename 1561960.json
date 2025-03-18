@@ -4,8 +4,8 @@
     "name": "Yield! Fall of Rome",
     "schinese_name": "罗马陨落 - Yield! Fall of Rome",
     "isfreeapp": "0",
-    "change_number": "27543212",
-    "update_time": "2025-02-19 06:15:41",
+    "change_number": "28013378",
+    "update_time": "2025-03-18 20:57:20",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5006414945309010076",
-                    "size": "1839244020",
-                    "download": "824138752"
+                    "gid": "8774516950002172553",
+                    "size": "1842383835",
+                    "download": "824428224"
                 }
             },
             "decryptionkey": "0660405628a3843952e55a1c68adde5756fc35f494c32eec8f30a7ee10e63125"
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4640114304489683179",
-                    "size": "1856101123",
-                    "download": "828491632"
+                    "gid": "6593575258313675589",
+                    "size": "1859238460",
+                    "download": "828790256"
                 }
             },
             "decryptionkey": ""
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17257257",
-                "timeupdated": "1738790710"
+                "buildid": "17607119",
+                "timeupdated": "1741193940"
             }
         },
         "privatebranches": "1"
