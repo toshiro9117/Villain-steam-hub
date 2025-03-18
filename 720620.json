@@ -4,8 +4,8 @@
     "name": "TaleSpire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27466963",
-    "update_time": "2025-02-14 04:26:54",
+    "change_number": "27993181",
+    "update_time": "2025-03-17 20:29:24",
     "depot": {
         "228988": {
             "config": {
@@ -29,7 +29,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": "7430390fbdae2ce456327f8273bd4987f1cedeef6bcb8c75890a0a15519acc1d"
+            "decryptionkey": ""
         },
         "720623": {
             "config": {
@@ -37,12 +37,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7175704319330742459",
-                    "size": "4114709103",
-                    "download": "3786471600"
+                    "gid": "1749559473950242319",
+                    "size": "4123331567",
+                    "download": "3795437456"
                 }
             },
-            "decryptionkey": "fffc0300271cb14d251db3991723c0466bbc687791f7aaf30f77c1dd97b38e8f"
+            "decryptionkey": ""
         },
         "720621": {
             "config": {
@@ -51,17 +51,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8650042220853745749",
-                    "size": "4132329343",
-                    "download": "3792519296"
+                    "gid": "94184329660466565",
+                    "size": "4140972799",
+                    "download": "3801481440"
                 }
             },
-            "decryptionkey": "d08d757f36b034d29142c59699b700bcd098998d1bb9aff7b251b9ca67b96d46"
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17438764",
-                "timeupdated": "1740062046"
+                "buildid": "17716878",
+                "timeupdated": "1741910980"
             }
         },
         "privatebranches": "1"
