@@ -4,8 +4,8 @@
     "name": "Avatar: Frontiers of Pandora",
     "schinese_name": "阿凡达：潘多拉边境™",
     "isfreeapp": "0",
-    "change_number": "27731562",
-    "update_time": "2025-03-01 17:22:31",
+    "change_number": "27993326",
+    "update_time": "2025-03-17 20:41:02",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
@@ -39,9 +39,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "6750736260530963906",
-                    "size": "256391736",
-                    "download": "258388880"
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
                 }
             },
             "depotfromapp": "1716750",
@@ -97,7 +97,7 @@
                     "download": "2003569984"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "119fce59e34c3146f02c4d5177801f6262085810b15b230bde3e59beb8510737"
         },
         "3005010": {
             "dlcappid": "3005010",
