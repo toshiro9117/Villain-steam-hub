@@ -4,8 +4,8 @@
     "name": "Union of Gnomes",
     "schinese_name": "打倒白雪公主！乌拉！",
     "isfreeapp": "0",
-    "change_number": "26964273",
-    "update_time": "2025-01-13 03:31:11",
+    "change_number": "27975588",
+    "update_time": "2025-03-16 04:36:06",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,6 +15,11 @@
                     "gid": "8129598358557003349",
                     "size": "1789490696",
                     "download": "350147328"
+                },
+                "roguelikemode": {
+                    "gid": "3000502672643651353",
+                    "size": "1980960424",
+                    "download": "373980864"
                 }
             },
             "decryptionkey": "5e527f73477ad45f62fe2cf46c642bcf811fd38317c6f02d84d08d1aa61f6122"
@@ -23,6 +28,11 @@
             "public": {
                 "buildid": "16834364",
                 "timeupdated": "1734949993"
+            },
+            "roguelikemode": {
+                "buildid": "17739046",
+                "description": "for beta testing",
+                "timeupdated": "1742070962"
             }
         },
         "privatebranches": "1"
