@@ -4,8 +4,8 @@
     "name": "Gaming Cafe Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27329404",
-    "update_time": "2025-02-06 00:27:02",
+    "change_number": "28000342",
+    "update_time": "2025-03-18 02:56:56",
     "depot": {
         "2978541": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6268613088513770005",
-                    "size": "1065893932",
-                    "download": "917553824"
+                    "gid": "240098561521279032",
+                    "size": "1176534866",
+                    "download": "1027935600"
                 }
             },
             "decryptionkey": "c078db4446370348acbe7cd5a779bcb7f5c37d600381a939948d082744b8e50a"
         },
         "branches": {
             "public": {
-                "buildid": "17215118",
-                "timeupdated": "1738492601"
+                "buildid": "17750928",
+                "timeupdated": "1742212814"
             }
         },
         "privatebranches": "1"
