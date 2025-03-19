@@ -4,23 +4,23 @@
     "name": "Sixtar Gate: STARTRAIL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730533",
-    "update_time": "2025-03-01 14:35:12",
+    "change_number": "28008168",
+    "update_time": "2025-03-18 15:05:03",
     "depot": {
         "1802721": {
             "manifests": {
                 "public": {
-                    "gid": "7930295394405640512",
-                    "size": "11965451992",
-                    "download": "9596647712"
+                    "gid": "3867393444906832437",
+                    "size": "11969060692",
+                    "download": "9599466848"
                 }
             },
             "decryptionkey": "f30f24123617d229af147f5c3cf9a145b0a3af2b481488d0f36e1a0efb908d1b"
         },
         "branches": {
             "public": {
-                "buildid": "17557026",
-                "timeupdated": "1740810907"
+                "buildid": "17761532",
+                "timeupdated": "1742281498"
             }
         },
         "privatebranches": "1"
