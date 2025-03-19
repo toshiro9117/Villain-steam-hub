@@ -4,8 +4,8 @@
     "name": "Monster Train",
     "schinese_name": "怪物火车",
     "isfreeapp": "0",
-    "change_number": "26903563",
-    "update_time": "2025-01-08 14:16:37",
+    "change_number": "27974095",
+    "update_time": "2025-03-16 00:57:23",
     "depot": {
         "229005": {
             "config": {
@@ -74,6 +74,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d8ebe47bde887813525c6fe9f4590ebc004676f13251f5f81e4881e613148e93"
+        "workshopdepotdecryptionkey": ""
     }
 }
