@@ -4,8 +4,8 @@
     "name": "Ravenswatch",
     "schinese_name": "Ravenswatch 鸦卫奇旅",
     "isfreeapp": "0",
-    "change_number": "27730257",
-    "update_time": "2025-03-01 13:47:11",
+    "change_number": "28007101",
+    "update_time": "2025-03-18 13:15:04",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "2071281": {
             "manifests": {
                 "public": {
-                    "gid": "8216245907777490601",
-                    "size": "6009279167",
-                    "download": "2131572448"
+                    "gid": "650325615700700760",
+                    "size": "6009282751",
+                    "download": "2131568784"
                 }
             },
             "decryptionkey": "708c675853989cbd400455e166d30f9dec051473847f4577ef48f7c9331edb97"
@@ -28,8 +28,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17456878",
-                "timeupdated": "1740578393"
+                "buildid": "17520141",
+                "timeupdated": "1741183140"
             }
         },
         "privatebranches": "1"
