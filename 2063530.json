@@ -4,23 +4,23 @@
     "name": "Methods: The Canada Files",
     "schinese_name": "探案法：加拿大档案",
     "isfreeapp": "0",
-    "change_number": "27236139",
-    "update_time": "2025-01-30 22:16:56",
+    "change_number": "27998150",
+    "update_time": "2025-03-18 00:38:39",
     "depot": {
         "2063531": {
             "manifests": {
                 "public": {
-                    "gid": "3088937420603907663",
-                    "size": "819686307",
-                    "download": "629532112"
+                    "gid": "4784931368595263697",
+                    "size": "860461197",
+                    "download": "662985888"
                 }
             },
             "decryptionkey": "9bacc99a7f73fd27446afddf22374e4e8d8da712dcd154e6eef1c003751cd579"
         },
         "branches": {
             "public": {
-                "buildid": "14977877",
-                "timeupdated": "1720535000"
+                "buildid": "17754355",
+                "timeupdated": "1742229512"
             }
         }
     }
