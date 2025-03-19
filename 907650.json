@@ -4,8 +4,8 @@
     "name": "Stronghold: Warlords",
     "schinese_name": "要塞：军阀之战",
     "isfreeapp": "0",
-    "change_number": "27520858",
-    "update_time": "2025-02-18 02:15:47",
+    "change_number": "27847803",
+    "update_time": "2025-03-08 13:07:19",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "907650",
@@ -334,6 +334,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5955867edd037b8268e56d6d720518377f6c4c07ede53e9f13670930243609a3"
+        "workshopdepotdecryptionkey": ""
     }
 }
