@@ -4,8 +4,8 @@
     "name": "Conan Exiles - Public Beta Client",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27539474",
-    "update_time": "2025-02-19 01:55:26",
+    "change_number": "27771027",
+    "update_time": "2025-03-04 17:33:40",
     "depot": {
         "228986": {
             "config": {
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "302055430628772568",
-                    "size": "231205518",
-                    "download": "98224528"
+                    "gid": "7485798544511225615",
+                    "size": "230500897",
+                    "download": "98220160"
                 }
             },
             "decryptionkey": "e25c2382fde91bd8cfe90d79598b8fec9b3de056d030df03a576a64a0e155e93"
@@ -64,11 +64,11 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17411106",
-                "timeupdated": "1740064232"
+                "buildid": "17586187",
+                "timeupdated": "1741079140"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d6d18708d30bc505754b1b0251bdeba7a3d26cdffe33928b7802884d8330c6a0"
+        "workshopdepotdecryptionkey": ""
     }
 }
