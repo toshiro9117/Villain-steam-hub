@@ -4,8 +4,8 @@
     "name": "Whirligig",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27175066",
-    "update_time": "2025-01-27 05:21:25",
+    "change_number": "27984217",
+    "update_time": "2025-03-17 05:13:01",
     "depot": {
         "451651": {
             "config": {
@@ -73,11 +73,6 @@
                     "size": "1476378110",
                     "download": "459435632"
                 },
-                "whirligig_v5.25_steamvr_sdk": {
-                    "gid": "6997657921928221325",
-                    "size": "1470506819",
-                    "download": "461215472"
-                },
                 "whirligig_v5.261": {
                     "gid": "6587845087509035764",
                     "size": "1571229878",
@@ -93,11 +88,6 @@
                     "size": "1472499100",
                     "download": "456907968"
                 },
-                "whirligig_v5.3": {
-                    "gid": "4243394323679336924",
-                    "size": "1611736040",
-                    "download": "478239696"
-                },
                 "whirligig_v5.32": {
                     "gid": "9008173095934612764",
                     "size": "1611736552",
@@ -107,6 +97,11 @@
                     "gid": "9187998402576936484",
                     "size": "1594734537",
                     "download": "471887824"
+                },
+                "whirligig_v5.55": {
+                    "gid": "3102023442978890742",
+                    "size": "1577725393",
+                    "download": "465675488"
                 }
             },
             "decryptionkey": "d4004d944433e442ddc31f82d48f81dcd729b18d5212ce394f2d3cf3e53eb623"
@@ -170,11 +165,6 @@
                 "description": "Default Release 04-2024",
                 "timeupdated": "1713968080"
             },
-            "whirligig_v5.25_steamvr_sdk": {
-                "buildid": "14294673",
-                "description": "SteamVR SDK build",
-                "timeupdated": "1715112316"
-            },
             "whirligig_v5.261": {
                 "buildid": "14578643",
                 "description": "Handtracking2",
@@ -190,11 +180,6 @@
                 "description": "Small changes",
                 "timeupdated": "1721851261"
             },
-            "whirligig_v5.3": {
-                "buildid": "16292490",
-                "description": "Test release Unity 6",
-                "timeupdated": "1730754296"
-            },
             "whirligig_v5.32": {
                 "buildid": "16346579",
                 "description": "fixes",
@@ -204,6 +189,11 @@
                 "buildid": "17138644",
                 "description": "Passthrough",
                 "timeupdated": "1737926481"
+            },
+            "whirligig_v5.55": {
+                "buildid": "17745007",
+                "description": "Chroma Key",
+                "timeupdated": "1742159577"
             }
         }
     }
