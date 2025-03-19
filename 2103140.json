@@ -4,23 +4,29 @@
     "name": "Magicraft",
     "schinese_name": "魔法工艺 Magicraft",
     "isfreeapp": "0",
-    "change_number": "27714456",
-    "update_time": "2025-02-28 17:56:28",
+    "change_number": "28010409",
+    "update_time": "2025-03-18 17:40:32",
     "depot": {
         "2103141": {
             "manifests": {
                 "public": {
-                    "gid": "142245188621826107",
-                    "size": "2403650508",
-                    "download": "395959440"
+                    "gid": "8874500688275681480",
+                    "size": "2408264236",
+                    "download": "396021584"
                 }
             },
             "decryptionkey": "f0ba119c48fc700dae769f7087e735d40dc7f3a1f379c01ff163a8386ae1b3ce"
         },
+        "2103142": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "17363966",
-                "timeupdated": "1739876863"
+                "buildid": "17759746",
+                "timeupdated": "1742290824"
             }
         },
         "privatebranches": "1"
