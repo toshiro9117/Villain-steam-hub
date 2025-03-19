@@ -4,8 +4,8 @@
     "name": "Rule the Waves 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27219652",
-    "update_time": "2025-01-29 23:14:51",
+    "change_number": "27913586",
+    "update_time": "2025-03-12 23:00:48",
     "depot": {
         "229006": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "67595744"
                 },
                 "beta": {
-                    "gid": "6409040312887196471",
-                    "size": "167895343",
-                    "download": "104101056"
+                    "gid": "1510653788516472395",
+                    "size": "168448141",
+                    "download": "104372064"
                 }
             },
             "decryptionkey": "13f30cd722bc69ec14523f5401a4e3ec55681fae33d7178fbe2ab185d6d06690"
@@ -37,9 +37,9 @@
                     "download": "35959552"
                 },
                 "beta": {
-                    "gid": "7935741520983314926",
-                    "size": "3745750",
-                    "download": "1374976"
+                    "gid": "248992419861179243",
+                    "size": "3754721",
+                    "download": "1380464"
                 }
             },
             "decryptionkey": "66152eff38c7eb7dcee53c21ef361af6cda1c45fc6d4d3670ed3792c07b27ea0"
@@ -50,9 +50,9 @@
                 "timeupdated": "1731517173"
             },
             "beta": {
-                "buildid": "17159831",
-                "description": "v1.00.76 Beta",
-                "timeupdated": "1738163685"
+                "buildid": "17676026",
+                "description": "v1.00.79 Beta",
+                "timeupdated": "1741791622"
             }
         },
         "privatebranches": "1"
