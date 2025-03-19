@@ -4,15 +4,15 @@
     "name": "Hello Kitty Island Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27728558",
-    "update_time": "2025-03-01 09:43:30",
+    "change_number": "28013757",
+    "update_time": "2025-03-18 21:20:54",
     "depot": {
         "2495101": {
             "manifests": {
                 "public": {
-                    "gid": "281480554226667641",
-                    "size": "2893445450",
-                    "download": "2260394320"
+                    "gid": "7360813543763930104",
+                    "size": "2922174832",
+                    "download": "2279026448"
                 }
             },
             "decryptionkey": "62b02a1a603b53787ec2fea81ea2b505fdca436fa17d52d82e3df9097e14fab7"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
         "branches": {
             "public": {
-                "buildid": "17515813",
-                "timeupdated": "1740579334"
+                "buildid": "17696060",
+                "timeupdated": "1741800038"
             }
         },
         "privatebranches": "1"
