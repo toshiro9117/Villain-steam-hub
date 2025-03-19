@@ -4,8 +4,8 @@
     "name": "Ages of Conflict: World War Simulator",
     "schinese_name": "冲突时代：世界大战模拟器",
     "isfreeapp": "0",
-    "change_number": "27519951",
-    "update_time": "2025-02-18 01:15:57",
+    "change_number": "27990721",
+    "update_time": "2025-03-17 17:44:26",
     "depot": {
         "workshopdepot": "2186320",
         "2186321": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "7270169090046936358",
+                    "size": "140682350",
+                    "download": "80848032"
+                },
+                "previous_version": {
                     "gid": "943690873688388473",
                     "size": "132661130",
                     "download": "73909760"
-                },
-                "previous_version": {
-                    "gid": "2474657330589544131",
-                    "size": "132325104",
-                    "download": "73739536"
                 },
                 "v3.4.2": {
                     "gid": "3995198342914784949",
@@ -57,14 +57,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3652021609307042532",
+                    "size": "169732110",
+                    "download": "89037088"
+                },
+                "previous_version": {
                     "gid": "8986702786692236970",
                     "size": "161711777",
                     "download": "82090368"
-                },
-                "previous_version": {
-                    "gid": "2499489552225427636",
-                    "size": "161383832",
-                    "download": "81930160"
                 },
                 "v3.4.2": {
                     "gid": "8849220514666122611",
@@ -100,14 +100,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "85206458063925346",
+                    "size": "147274183",
+                    "download": "81063024"
+                },
+                "previous_version": {
                     "gid": "2024983828154742416",
                     "size": "139238017",
                     "download": "74077552"
-                },
-                "previous_version": {
-                    "gid": "519571376559117159",
-                    "size": "138932192",
-                    "download": "73924496"
                 },
                 "v3.4.2": {
                     "gid": "4603828285923912299",
@@ -139,13 +139,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17161278",
-                "timeupdated": "1738087230"
+                "buildid": "17634934",
+                "timeupdated": "1741349947"
             },
             "previous_version": {
-                "buildid": "16690607",
+                "buildid": "17161278",
                 "description": "Previous Version of the Game",
-                "timeupdated": "1737125231"
+                "timeupdated": "1741331999"
             },
             "v3.4.2": {
                 "buildid": "16113888",
@@ -174,6 +174,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a78190a261bfdaeb6ad2f0d202234b496dc6c6a05ec6cabe8999478550ff8e91"
+        "workshopdepotdecryptionkey": ""
     }
 }
