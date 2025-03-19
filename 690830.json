@@ -4,8 +4,8 @@
     "name": "Foundation",
     "schinese_name": "基石",
     "isfreeapp": "0",
-    "change_number": "27724488",
-    "update_time": "2025-03-01 03:41:27",
+    "change_number": "28008758",
+    "update_time": "2025-03-18 15:55:54",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8069443070975866247",
-                    "size": "5781320722",
-                    "download": "2747796624"
+                    "gid": "1114848078205049787",
+                    "size": "5781707233",
+                    "download": "2748088640"
                 },
                 "early_access_1_9": {
                     "gid": "3117281361283584658",
@@ -32,14 +32,14 @@
                     "download": "1971061488"
                 },
                 "modding_preview": {
-                    "gid": "9221317610509266076",
-                    "size": "5781285667",
-                    "download": "2747772032"
+                    "gid": "1049424828613746284",
+                    "size": "5782501569",
+                    "download": "2748754832"
                 },
                 "previous_build": {
-                    "gid": "1604174191267771512",
-                    "size": "5779841302",
-                    "download": "2747416128"
+                    "gid": "8069443070975866247",
+                    "size": "5781320722",
+                    "download": "2747796624"
                 }
             },
             "decryptionkey": "a0df1cd93c1681e0839c3d7a86e7de7b7af07d07b00cc495896697b1fda49961"
@@ -66,17 +66,17 @@
                     "download": "9952400"
                 },
                 "previous_build": {
-                    "gid": "5118978044172454584",
-                    "size": "21108400",
-                    "download": "9951680"
+                    "gid": "8199326432290963373",
+                    "size": "21109576",
+                    "download": "9952400"
                 }
             },
             "decryptionkey": "c10e61648bc4b16350ebfac52a6d56f7282c1442a4f3c49e04bb9a7dd4693717"
         },
         "branches": {
             "public": {
-                "buildid": "17490850",
-                "timeupdated": "1740585401"
+                "buildid": "17701309",
+                "timeupdated": "1741875091"
             },
             "early_access_1_9": {
                 "buildid": "17199741",
@@ -84,14 +84,14 @@
                 "timeupdated": "1738334008"
             },
             "modding_preview": {
-                "buildid": "17551681",
+                "buildid": "17641016",
                 "description": "Modding Preview 1.0",
-                "timeupdated": "1740771684"
+                "timeupdated": "1741381971"
             },
             "previous_build": {
-                "buildid": "17447127",
+                "buildid": "17490850",
                 "description": "[Previous Build] If sometings goes wrong with the default build",
-                "timeupdated": "1740585379"
+                "timeupdated": "1741888404"
             }
         },
         "privatebranches": "1"
