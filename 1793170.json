@@ -4,8 +4,8 @@
     "name": "Racine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26117517",
-    "update_time": "2024-11-09 09:22:27",
+    "change_number": "27980135",
+    "update_time": "2025-03-16 18:56:17",
     "depot": {
         "1793171": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4136443838509367008",
-                    "size": "692609559",
-                    "download": "536141680"
+                    "gid": "5863022909325247723",
+                    "size": "658130478",
+                    "download": "535953264"
                 }
             },
             "decryptionkey": "6e5dfb7681b4cab69f66fee2663e195d60ff7c8c51a32b25e80ba39d7a80e11b"
         },
         "branches": {
             "public": {
-                "buildid": "12758898",
-                "timeupdated": "1700564923"
+                "buildid": "17660549",
+                "timeupdated": "1741605860"
             }
         },
         "privatebranches": "1"
