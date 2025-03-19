@@ -4,15 +4,15 @@
     "name": "You are the Judge!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27395579",
-    "update_time": "2025-02-10 15:26:44",
+    "change_number": "27980485",
+    "update_time": "2025-03-16 19:56:07",
     "depot": {
         "2305181": {
             "manifests": {
                 "public": {
-                    "gid": "51292210811987190",
-                    "size": "4693491035",
-                    "download": "1595377360"
+                    "gid": "2226359093408019923",
+                    "size": "6215011713",
+                    "download": "1987450256"
                 }
             },
             "decryptionkey": "c3f22f368f49ae6bb156dcdd4ce88de2f126405fb3a05d45ba02afc5a6d7df54"
@@ -20,8 +20,8 @@
         "baselanguages": "english,turkish",
         "branches": {
             "public": {
-                "buildid": "15420471",
-                "timeupdated": "1724077280"
+                "buildid": "17701335",
+                "timeupdated": "1741862530"
             }
         },
         "privatebranches": "1"
