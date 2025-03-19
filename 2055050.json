@@ -4,8 +4,8 @@
     "name": "铁骑少女（Cavalry Girls）",
     "schinese_name": "  铁骑少女",
     "isfreeapp": "0",
-    "change_number": "27530928",
-    "update_time": "2025-02-18 17:16:42",
+    "change_number": "27849482",
+    "update_time": "2025-03-08 17:27:52",
     "depot": {
         "2055051": {
             "manifests": {
@@ -26,6 +26,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "3e4d55ceed5bc1e14e4048671cec6db2f2d3225b6006dd06ec5183453f87cd2b"
+        "workshopdepotdecryptionkey": ""
     }
 }
