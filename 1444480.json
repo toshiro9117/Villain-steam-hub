@@ -4,8 +4,8 @@
     "name": "Turing Complete",
     "schinese_name": "图灵完备",
     "isfreeapp": "0",
-    "change_number": "27731846",
-    "update_time": "2025-03-01 18:05:20",
+    "change_number": "27855978",
+    "update_time": "2025-03-09 11:21:08",
     "depot": {
         "hasdepotsindlc": "0",
         "1444482": {
@@ -30,9 +30,9 @@
                     "download": "263693488"
                 },
                 "save_breaker": {
-                    "gid": "6719701542411665294",
-                    "size": "316471920",
-                    "download": "249296464"
+                    "gid": "1283689992332138038",
+                    "size": "316508485",
+                    "download": "249305136"
                 }
             },
             "decryptionkey": "2798d6c44cff7735a42b3ff85e5959d94dad076aee2feb1225d89f2430abc641"
@@ -59,9 +59,9 @@
                     "download": "253539456"
                 },
                 "save_breaker": {
-                    "gid": "3710324252399246485",
-                    "size": "317060863",
-                    "download": "251789232"
+                    "gid": "1692254100531955399",
+                    "size": "317105894",
+                    "download": "251798528"
                 }
             },
             "decryptionkey": "e6d81997bd89c62ece287dcead19fb09666b7eb38fba61dea68017574de79fdd"
@@ -88,9 +88,9 @@
                     "download": "253881808"
                 },
                 "save_breaker": {
-                    "gid": "2651068122587285411",
-                    "size": "319615865",
-                    "download": "252363136"
+                    "gid": "3296633817117180673",
+                    "size": "319660670",
+                    "download": "252373072"
                 }
             },
             "decryptionkey": "7b51d8c87bac99437d6575f8b0056332bb667d27c390e94c9c029098f931b316"
@@ -112,9 +112,9 @@
                 "timeupdated": "1735534994"
             },
             "save_breaker": {
-                "buildid": "17558150",
+                "buildid": "17650352",
                 "description": "Turing Complete 2.0 alpha (will break your save!)",
-                "timeupdated": "1740823515"
+                "timeupdated": "1741490465"
             }
         }
     }
