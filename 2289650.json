@@ -4,8 +4,8 @@
     "name": "Mini Airways",
     "schinese_name": "迷你空管 Mini Airways",
     "isfreeapp": "0",
-    "change_number": "27512294",
-    "update_time": "2025-02-17 17:05:35",
+    "change_number": "28007354",
+    "update_time": "2025-03-18 13:43:37",
     "depot": {
         "2289651": {
             "config": {
@@ -19,9 +19,14 @@
                     "download": "898818624"
                 },
                 "beta": {
-                    "gid": "32566022581990508",
-                    "size": "1068769789",
-                    "download": "898818624"
+                    "gid": "386305794945514586",
+                    "size": "1839202510",
+                    "download": "1039652432"
+                },
+                "voicecontrolbeta": {
+                    "gid": "386305794945514586",
+                    "size": "1839202510",
+                    "download": "1039652432"
                 },
                 "mod_feat": {
                     "gid": "918145808695172443",
@@ -63,6 +68,11 @@
                     "download": "924370640"
                 },
                 "beta": {
+                    "gid": "1668765941430271898",
+                    "size": "1201954774",
+                    "download": "924370640"
+                },
+                "voicecontrolbeta": {
                     "gid": "1668765941430271898",
                     "size": "1201954774",
                     "download": "924370640"
@@ -111,6 +121,11 @@
                     "size": "1121956455",
                     "download": "901080960"
                 },
+                "voicecontrolbeta": {
+                    "gid": "5459620612519418171",
+                    "size": "1121956455",
+                    "download": "901080960"
+                },
                 "mod_feat": {
                     "gid": "7341490901246601177",
                     "size": "984796152",
@@ -147,9 +162,14 @@
                 "timeupdated": "1739783126"
             },
             "beta": {
-                "buildid": "17390470",
+                "buildid": "17705418",
                 "description": "Latest Development Build",
-                "timeupdated": "1739783108"
+                "timeupdated": "1741853149"
+            },
+            "voicecontrolbeta": {
+                "buildid": "17705418",
+                "description": "VCT",
+                "timeupdated": "1741853157"
             },
             "mod_feat": {
                 "buildid": "16994949",
@@ -177,6 +197,6 @@
                 "timeupdated": "1734660048"
             }
         },
-        "workshopdepotdecryptionkey": "c385ce8f0767fe1efa576edc55d3440b2c4e4280d2b86693581b765637c4719f"
+        "workshopdepotdecryptionkey": ""
     }
 }
