@@ -4,8 +4,8 @@
     "name": "Tiny Bunny",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27483737",
-    "update_time": "2025-02-15 01:08:01",
+    "change_number": "28010140",
+    "update_time": "2025-03-18 17:24:25",
     "depot": {
         "1421251": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7127804939833328922",
-                    "size": "3935068601",
-                    "download": "3557670528"
+                    "gid": "8563311695699594910",
+                    "size": "3935091202",
+                    "download": "3557691056"
                 }
             },
             "decryptionkey": "26c7441369eb15b5a36a102139161693464b46afa6f77cc7744ea95f920ece2c"
         },
         "branches": {
             "public": {
-                "buildid": "17314007",
-                "timeupdated": "1739297311"
+                "buildid": "17536682",
+                "timeupdated": "1740689164"
             }
         },
         "privatebranches": "1"
