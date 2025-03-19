@@ -4,8 +4,8 @@
     "name": "YoloMouse",
     "schinese_name": "自定义游戏鼠标指针",
     "isfreeapp": "0",
-    "change_number": "27381654",
-    "update_time": "2025-02-09 04:18:30",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:22:07",
     "depot": {
         "1283971": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3755723539256104877",
-                    "size": "287385516",
-                    "download": "21748992"
+                    "gid": "5206306721335903823",
+                    "size": "288353593",
+                    "download": "22121040"
                 },
                 "1.5.1": {
                     "gid": "606194377728035331",
@@ -43,6 +43,11 @@
                     "gid": "816175988903667356",
                     "size": "284055980",
                     "download": "21153088"
+                },
+                "1.9.2": {
+                    "gid": "3755723539256104877",
+                    "size": "287385516",
+                    "download": "21748992"
                 }
             },
             "decryptionkey": "cc3e8638081fb7bb6f0a2b461db9232fa3521c984d47cb33aed0f59c8eadd303"
@@ -50,8 +55,8 @@
         "workshopdepot": "1283970",
         "branches": {
             "public": {
-                "buildid": "17250170",
-                "timeupdated": "1738754014"
+                "buildid": "17760484",
+                "timeupdated": "1742272932"
             },
             "1.5.1": {
                 "buildid": "10245617",
@@ -75,11 +80,16 @@
             },
             "1.8.6": {
                 "buildid": "15254846",
-                "description": "last version",
+                "description": "1.8.6",
                 "timeupdated": "1736187578"
+            },
+            "1.9.2": {
+                "buildid": "17250170",
+                "description": "last version",
+                "timeupdated": "1740991060"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "090778e689ec1b0da2c1a9de97eb18811ed42fc768d995ec77a9ec87ddff8142"
+        "workshopdepotdecryptionkey": ""
     }
 }
