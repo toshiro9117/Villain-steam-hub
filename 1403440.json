@@ -4,8 +4,8 @@
     "name": "Broken Roads",
     "schinese_name": "破碎之路",
     "isfreeapp": "0",
-    "change_number": "27711576",
-    "update_time": "2025-02-28 16:38:45",
+    "change_number": "27904988",
+    "update_time": "2025-03-12 14:08:35",
     "depot": {
         "1403441": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8249970635436269440",
-                    "size": "13265178297",
-                    "download": "11318828816"
+                    "gid": "7691950206549063107",
+                    "size": "13266541802",
+                    "download": "11318642320"
                 },
                 "english_only": {
-                    "gid": "8249970635436269440",
-                    "size": "13265178297",
-                    "download": "11318828816"
+                    "gid": "8178688117161135078",
+                    "size": "13266539016",
+                    "download": "11318627776"
                 }
             },
             "decryptionkey": "3c23cb1c33880bba9cadca7970a8aafed295fe21bed3d9a3c20fbd8911a914e1"
@@ -28,13 +28,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17301355",
-                "timeupdated": "1739151596"
+                "buildid": "17616001",
+                "timeupdated": "1741248739"
             },
             "english_only": {
-                "buildid": "17301355",
+                "buildid": "17615324",
                 "description": "Patches and improvements in English only",
-                "timeupdated": "1739151372"
+                "timeupdated": "1741245158"
             }
         },
         "privatebranches": "1"
