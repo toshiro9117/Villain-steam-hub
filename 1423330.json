@@ -4,8 +4,8 @@
     "name": "Ancient Warfare: The Han Dynasty",
     "schinese_name": "横戈",
     "isfreeapp": "0",
-    "change_number": "27492733",
-    "update_time": "2025-02-15 17:22:34",
+    "change_number": "27912222",
+    "update_time": "2025-03-12 21:51:52",
     "depot": {
         "1423331": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "9417960080"
                 },
                 "preview_version": {
-                    "gid": "2801590822325430658",
-                    "size": "22473474058",
-                    "download": "10327322720"
+                    "gid": "4007564757404397126",
+                    "size": "22654267012",
+                    "download": "10289597392"
                 },
                 "test_version": {
                     "gid": "3129377948637109937",
@@ -49,9 +49,9 @@
                 "timeupdated": "1722090201"
             },
             "preview_version": {
-                "buildid": "17414807",
+                "buildid": "17689734",
                 "description": "先锋版",
-                "timeupdated": "1739944614"
+                "timeupdated": "1741787506"
             },
             "test_version": {
                 "buildid": "14807105",
@@ -60,6 +60,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e23bf1fbb6359e878adb1d109c44ae3a2c9a3b9a67c1dc96337c91ee96377127"
+        "workshopdepotdecryptionkey": ""
     }
 }
