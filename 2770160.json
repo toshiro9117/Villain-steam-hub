@@ -4,15 +4,15 @@
     "name": "Maxwell's puzzling demon",
     "schinese_name": "麦克斯韦解谜妖",
     "isfreeapp": "0",
-    "change_number": "27492811",
-    "update_time": "2025-02-15 17:32:22",
+    "change_number": "27777031",
+    "update_time": "2025-03-04 23:43:50",
     "depot": {
         "2770161": {
             "manifests": {
                 "public": {
-                    "gid": "1194106671965632817",
-                    "size": "68197890",
-                    "download": "52477552"
+                    "gid": "7776932592550842590",
+                    "size": "68194619",
+                    "download": "52477184"
                 }
             },
             "decryptionkey": "a74f06ad8d58c1135b0444e51098bfebcaa6bccd1366ba37a43704505b169138"
@@ -20,8 +20,8 @@
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17471324",
-                "timeupdated": "1740284182"
+                "buildid": "17590685",
+                "timeupdated": "1741101919"
             }
         },
         "privatebranches": "1"
