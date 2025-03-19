@@ -4,23 +4,23 @@
     "name": "Field of Honor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27712770",
-    "update_time": "2025-02-28 16:49:27",
+    "change_number": "27740365",
+    "update_time": "2025-03-02 16:53:17",
     "depot": {
         "2606921": {
             "manifests": {
                 "public": {
-                    "gid": "5991899255228932344",
-                    "size": "1249356247",
-                    "download": "335727936"
+                    "gid": "1031768348883891812",
+                    "size": "1252867342",
+                    "download": "336707488"
                 }
             },
             "decryptionkey": "59f7a7fd9226e25de9633590b50f3d7b3c94144a5a4ff544e0ea0130cea634fc"
         },
         "branches": {
             "public": {
-                "buildid": "17543370",
-                "timeupdated": "1740730349"
+                "buildid": "17564116",
+                "timeupdated": "1740905591"
             }
         }
     }
