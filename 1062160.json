@@ -4,8 +4,8 @@
     "name": "Poly Bridge 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27061086",
-    "update_time": "2025-01-19 12:08:08",
+    "change_number": "27856419",
+    "update_time": "2025-03-09 13:01:20",
     "depot": {
         "1062161": {
             "config": {
@@ -73,6 +73,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "f52cb5ce5ac6d6c8477d57fd07f151a18526459a143482368a764a66f0f06b63"
+        "workshopdepotdecryptionkey": ""
     }
 }
