@@ -4,8 +4,8 @@
     "name": "Quantum Odyssey",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27720682",
-    "update_time": "2025-02-28 23:58:40",
+    "change_number": "27981301",
+    "update_time": "2025-03-16 22:09:12",
     "depot": {
         "229007": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "771122792775647154",
-                    "size": "1491317546",
-                    "download": "638741696"
+                    "gid": "6408561140648832168",
+                    "size": "1491623911",
+                    "download": "638745072"
                 },
                 "local": {
                     "gid": "6388841297342535376",
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16842646",
-                "timeupdated": "1735039971"
+                "buildid": "17588955",
+                "timeupdated": "1741092391"
             },
             "local": {
                 "buildid": "13700982",
