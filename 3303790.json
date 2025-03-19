@@ -4,23 +4,23 @@
     "name": "Death Delivery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26660552",
-    "update_time": "2024-12-16 20:35:43",
+    "change_number": "28006930",
+    "update_time": "2025-03-18 12:56:40",
     "depot": {
         "3303791": {
             "manifests": {
                 "public": {
-                    "gid": "8068085921174283029",
-                    "size": "1085967660",
-                    "download": "368310000"
+                    "gid": "6058564812246332546",
+                    "size": "1147864648",
+                    "download": "389784832"
                 }
             },
             "decryptionkey": "0bb27ccec2a4c69e09bb9475996623e17ee0910d20a44802bcb63df8785d2ff4"
         },
         "branches": {
             "public": {
-                "buildid": "16758903",
-                "timeupdated": "1734352538"
+                "buildid": "17621825",
+                "timeupdated": "1741277084"
             }
         }
     }
