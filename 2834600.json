@@ -4,23 +4,23 @@
     "name": "My Little Life",
     "schinese_name": "我的小小人生",
     "isfreeapp": "0",
-    "change_number": "27717499",
-    "update_time": "2025-02-28 20:56:12",
+    "change_number": "27896518",
+    "update_time": "2025-03-12 02:03:47",
     "depot": {
         "2834601": {
             "manifests": {
                 "public": {
-                    "gid": "6461400429089077737",
-                    "size": "68422510",
-                    "download": "48344816"
+                    "gid": "3645836312280042720",
+                    "size": "68427741",
+                    "download": "48347984"
                 }
             },
             "decryptionkey": "62ae7fadc4e1253f5eae565b2eb6548b98c5f0c4485357983c7243e4ba5561d9"
         },
         "branches": {
             "public": {
-                "buildid": "17528653",
-                "timeupdated": "1740747368"
+                "buildid": "17607962",
+                "timeupdated": "1741197729"
             }
         },
         "privatebranches": "1"
