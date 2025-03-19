@@ -4,8 +4,8 @@
     "name": "Undead Citadel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27712875",
-    "update_time": "2025-02-28 16:49:55",
+    "change_number": "27998407",
+    "update_time": "2025-03-18 00:55:45",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
         "819192": {
@@ -19,9 +19,9 @@
                     "download": "4548468448"
                 },
                 "beta": {
-                    "gid": "1928244673388147299",
-                    "size": "9414753473",
-                    "download": "4801097712"
+                    "gid": "1849595116089360334",
+                    "size": "9649554004",
+                    "download": "5010168048"
                 },
                 "previousversion": {
                     "gid": "497100593179009247",
@@ -37,9 +37,9 @@
                 "timeupdated": "1720103748"
             },
             "beta": {
-                "buildid": "17409127",
+                "buildid": "17725978",
                 "description": "Public Beta channel for testing new features",
-                "timeupdated": "1740054559"
+                "timeupdated": "1741965380"
             },
             "previousversion": {
                 "buildid": "12362834",
