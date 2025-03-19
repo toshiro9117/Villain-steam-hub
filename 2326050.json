@@ -4,23 +4,23 @@
     "name": "Dethroned",
     "schinese_name": "失落王座",
     "isfreeapp": "0",
-    "change_number": "27085634",
-    "update_time": "2025-01-21 09:57:34",
+    "change_number": "27824854",
+    "update_time": "2025-03-07 07:04:34",
     "depot": {
         "2326051": {
             "manifests": {
                 "public": {
-                    "gid": "639111406002096732",
-                    "size": "5011920902",
-                    "download": "3365875920"
+                    "gid": "2717866236111835700",
+                    "size": "5051829869",
+                    "download": "3404788784"
                 }
             },
             "decryptionkey": "ed31c37a4714322cef099d0e37d2241543c1f3fe79601ee0341e85a5104c1a93"
         },
         "branches": {
             "public": {
-                "buildid": "16288335",
-                "timeupdated": "1730818866"
+                "buildid": "17626979",
+                "timeupdated": "1741302269"
             }
         },
         "privatebranches": "1"
