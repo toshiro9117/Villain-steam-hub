@@ -4,8 +4,8 @@
     "name": "Quest Master",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27538899",
-    "update_time": "2025-02-19 01:19:06",
+    "change_number": "27984941",
+    "update_time": "2025-03-17 06:52:30",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "2094070",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3333740246866503307",
-                    "size": "628707230",
-                    "download": "119181648"
+                    "gid": "1983260165086149790",
+                    "size": "1161558825",
+                    "download": "600117600"
                 }
             },
             "decryptionkey": "28f0f033ad58f7df23358c2e3a2d77a0844a5e984a3742f3339f2cf3989559a5"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7155655698758238211",
-                    "size": "638690140",
-                    "download": "122917504"
+                    "gid": "592692808768635378",
+                    "size": "1171541743",
+                    "download": "603856624"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5820532941544161628",
-                    "size": "611046053",
-                    "download": "113200400"
+                    "gid": "4163152583215804771",
+                    "size": "1143897348",
+                    "download": "594138704"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17440842",
-                "timeupdated": "1740062913"
+                "buildid": "17745286",
+                "timeupdated": "1742165545"
             }
         },
         "privatebranches": "1",
