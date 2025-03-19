@@ -4,23 +4,23 @@
     "name": "Bee Island",
     "schinese_name": "蜜蜂岛",
     "isfreeapp": "0",
-    "change_number": "26805985",
-    "update_time": "2024-12-29 02:40:36",
+    "change_number": "27869673",
+    "update_time": "2025-03-10 18:59:29",
     "depot": {
         "2345021": {
             "manifests": {
                 "public": {
-                    "gid": "8734225184259021542",
-                    "size": "1938516082",
-                    "download": "635186768"
+                    "gid": "9018030410464822845",
+                    "size": "1947641234",
+                    "download": "636429632"
                 }
             },
             "decryptionkey": "1d9e6fed07e9306261af06dc9fa6432cdd93df234134b3ba3a9f12da6f8e5390"
         },
         "branches": {
             "public": {
-                "buildid": "16802319",
-                "timeupdated": "1734620749"
+                "buildid": "17660383",
+                "timeupdated": "1741604363"
             }
         }
     }
