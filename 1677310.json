@@ -4,23 +4,23 @@
     "name": "In Stars And Time",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27509542",
-    "update_time": "2025-02-17 12:16:34",
+    "change_number": "27877861",
+    "update_time": "2025-03-11 03:14:35",
     "depot": {
         "1677311": {
             "manifests": {
                 "public": {
-                    "gid": "6844753075205927627",
-                    "size": "566734678",
-                    "download": "294658864"
+                    "gid": "5338545446407094124",
+                    "size": "560188208",
+                    "download": "288134672"
                 }
             },
             "decryptionkey": "5c168975657d2ce4b6970aabbee571b7c0a4d43d48184092896c8fbbb4bd8d4f"
         },
         "branches": {
             "public": {
-                "buildid": "14921227",
-                "timeupdated": "1720023424"
+                "buildid": "17574594",
+                "timeupdated": "1741008504"
             }
         },
         "privatebranches": "1"
