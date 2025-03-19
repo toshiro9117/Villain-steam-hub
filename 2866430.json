@@ -4,23 +4,23 @@
     "name": "Scarlet Defiance: The Wall Between Us",
     "schinese_name": "血色逆旅：我们之间的高墙",
     "isfreeapp": "0",
-    "change_number": "27432514",
-    "update_time": "2025-02-12 12:25:18",
+    "change_number": "27948298",
+    "update_time": "2025-03-14 11:36:26",
     "depot": {
         "2866431": {
             "manifests": {
                 "public": {
-                    "gid": "2248685903177648118",
-                    "size": "984806661",
-                    "download": "724654960"
+                    "gid": "5611268552374556499",
+                    "size": "1014612619",
+                    "download": "754056512"
                 }
             },
             "decryptionkey": "a0fb1ad3c12a55b7515962cbd0df01df8b362165c2d82d7d33aa3ec17164eb31"
         },
         "branches": {
             "public": {
-                "buildid": "17330929",
-                "timeupdated": "1739334312"
+                "buildid": "17718399",
+                "timeupdated": "1741923381"
             }
         }
     }
