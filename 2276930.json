@@ -4,8 +4,8 @@
     "name": "Chillquarium",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27495960",
-    "update_time": "2025-02-16 01:13:05",
+    "change_number": "27879311",
+    "update_time": "2025-03-11 05:06:27",
     "depot": {
         "2276931": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4325496146520697293",
-                    "size": "426894696",
-                    "download": "190846144"
+                    "gid": "5766858425650340591",
+                    "size": "426909080",
+                    "download": "190849216"
                 },
                 "beta_testing": {
-                    "gid": "4325496146520697293",
-                    "size": "426894696",
-                    "download": "190846144"
+                    "gid": "5766858425650340591",
+                    "size": "426909080",
+                    "download": "190849216"
                 }
             },
             "decryptionkey": "fcf9662feff7e3607308854557baac65fd6d346455c261c4e38942e597c48b93"
@@ -31,27 +31,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8543368098438431944",
-                    "size": "485091516",
-                    "download": "203670016"
+                    "gid": "4167546602354955903",
+                    "size": "485104076",
+                    "download": "203672496"
                 },
                 "beta_testing": {
-                    "gid": "8543368098438431944",
-                    "size": "485091516",
-                    "download": "203670016"
+                    "gid": "4167546602354955903",
+                    "size": "485104076",
+                    "download": "203672496"
                 }
             },
             "decryptionkey": "f79b4b156ec43b6dbe920d70058fd28f9d0637a540db8f1c18518fbbcd1fadfe"
         },
         "branches": {
             "public": {
-                "buildid": "17378884",
-                "timeupdated": "1739639532"
+                "buildid": "17606357",
+                "timeupdated": "1741621799"
             },
             "beta_testing": {
-                "buildid": "17378884",
+                "buildid": "17606357",
                 "description": "Beta branch for testing changes before they go live on the main build",
-                "timeupdated": "1739639509"
+                "timeupdated": "1741189631"
             }
         },
         "privatebranches": "1"
