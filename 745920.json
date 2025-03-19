@@ -4,8 +4,8 @@
     "name": "Temtem",
     "schinese_name": "泰特姆",
     "isfreeapp": "0",
-    "change_number": "26553638",
-    "update_time": "2024-12-09 15:54:11",
+    "change_number": "27750592",
+    "update_time": "2025-03-03 16:45:13",
     "depot": {
         "baselanguages": "english",
         "745921": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7044010483934207309",
-                    "size": "15374813070",
-                    "download": "10032837776"
+                    "gid": "4416762345006900956",
+                    "size": "15374281634",
+                    "download": "10032763872"
                 }
             },
             "decryptionkey": "0b59c50f2cfd62e43a3afffc1ad18f2fd3719fda048cca059b6b56d966c797f5"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16677606",
-                "timeupdated": "1733730847"
+                "buildid": "17571627",
+                "timeupdated": "1740991506"
             }
         }
     }
