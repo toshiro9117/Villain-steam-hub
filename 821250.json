@@ -4,8 +4,8 @@
     "name": "Flotsam",
     "schinese_name": "漂流品",
     "isfreeapp": "0",
-    "change_number": "27723247",
-    "update_time": "2025-03-01 02:19:11",
+    "change_number": "27942989",
+    "update_time": "2025-03-14 04:57:58",
     "depot": {
         "821251": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "389566256"
                 },
                 "experimental": {
-                    "gid": "8890608867712183966",
-                    "size": "1038839478",
-                    "download": "370068608"
+                    "gid": "7124348447831003531",
+                    "size": "1095993542",
+                    "download": "392059632"
                 }
             },
             "decryptionkey": "56d2732aafc44c77401e0dfc97a9374d19b16610b85b9446aadcbaccdfaf7c20"
@@ -31,9 +31,9 @@
                 "timeupdated": "1731063561"
             },
             "experimental": {
-                "buildid": "17551167",
+                "buildid": "17714922",
                 "description": "Experimental",
-                "timeupdated": "1740766735"
+                "timeupdated": "1741899473"
             }
         },
         "privatebranches": "1"
