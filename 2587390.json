@@ -4,8 +4,8 @@
     "name": "Cuckies & Cream: Maids for Milking",
     "schinese_name": "女仆人妻放题咖啡厅",
     "isfreeapp": "0",
-    "change_number": "27025862",
-    "update_time": "2025-01-16 21:54:36",
+    "change_number": "27795773",
+    "update_time": "2025-03-05 21:48:41",
     "depot": {
         "2587391": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1752366002131359866",
-                    "size": "718101240",
-                    "download": "628918240"
+                    "gid": "8521813203623286936",
+                    "size": "718942537",
+                    "download": "629186704"
                 }
             },
             "decryptionkey": "9b1288b76741a79da0298320ead7934495dc79f52c7ff2f6688b2f82a81a7a6f"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12913294",
-                "timeupdated": "1702069632"
+                "buildid": "17591838",
+                "timeupdated": "1741182516"
             }
         },
         "privatebranches": "1"
