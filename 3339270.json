@@ -4,15 +4,15 @@
     "name": "BDSM Fuel Station",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27200417",
-    "update_time": "2025-01-28 20:34:36",
+    "change_number": "27823051",
+    "update_time": "2025-03-07 05:05:23",
     "depot": {
         "3339271": {
             "manifests": {
                 "public": {
-                    "gid": "5093340962265097927",
-                    "size": "3749939608",
-                    "download": "1220927424"
+                    "gid": "7910611532071168800",
+                    "size": "3951232781",
+                    "download": "1287947648"
                 }
             },
             "decryptionkey": "55d83394a0d1f0b5f9999a0f27e68466d130f128018640dd66140b2c7554e2ca"
@@ -20,8 +20,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "16978186",
-                "timeupdated": "1736657817"
+                "buildid": "17563693",
+                "timeupdated": "1740900065"
             }
         }
     }
