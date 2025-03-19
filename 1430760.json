@@ -4,23 +4,23 @@
     "name": "Aquarist",
     "schinese_name": "Aquarist - 建造水族馆，繁殖鱼类，拓展你的业务!",
     "isfreeapp": "0",
-    "change_number": "27717722",
-    "update_time": "2025-02-28 21:10:14",
+    "change_number": "27939399",
+    "update_time": "2025-03-14 01:37:26",
     "depot": {
         "1430761": {
             "manifests": {
                 "public": {
-                    "gid": "4897322861370550071",
-                    "size": "15895054938",
-                    "download": "6025550688"
+                    "gid": "3375455011803057554",
+                    "size": "15916809622",
+                    "download": "6032464016"
                 }
             },
             "decryptionkey": "63fed22ae0423ecd4bfea90e201fc98d953636578f824bbb610442283ad1b8cd"
         },
         "branches": {
             "public": {
-                "buildid": "17172556",
-                "timeupdated": "1738164481"
+                "buildid": "17662630",
+                "timeupdated": "1741887441"
             }
         },
         "privatebranches": "1"
