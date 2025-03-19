@@ -4,17 +4,17 @@
     "name": "时空传说-佣兵王战记",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27346942",
-    "update_time": "2025-02-06 22:58:23",
+    "change_number": "27968913",
+    "update_time": "2025-03-15 11:23:24",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
         "2514681": {
             "manifests": {
                 "public": {
-                    "gid": "6613082333834792208",
-                    "size": "2121379322",
-                    "download": "1744325968"
+                    "gid": "5451830967481337764",
+                    "size": "2122396618",
+                    "download": "1744627136"
                 }
             },
             "decryptionkey": "ca2843f26042c53e81555a6c5db2138b8becfff6ff1f060c0cc91ebe5225c1ad"
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17267919",
-                "timeupdated": "1738853900"
+                "buildid": "17693827",
+                "timeupdated": "1741788241"
             }
         }
     }
