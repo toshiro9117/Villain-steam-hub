@@ -4,15 +4,15 @@
     "name": "Airport X-Ray Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522339",
-    "update_time": "2025-02-18 03:58:08",
+    "change_number": "27943677",
+    "update_time": "2025-03-14 05:42:51",
     "depot": {
         "3079972": {
             "manifests": {
                 "public": {
-                    "gid": "7310553321976468308",
-                    "size": "1369495225",
-                    "download": "411612592"
+                    "gid": "6524527198572659439",
+                    "size": "1375288871",
+                    "download": "426779328"
                 },
                 "beta": {
                     "gid": "7310553321976468308",
@@ -20,17 +20,17 @@
                     "download": "411612592"
                 },
                 "beta_controller": {
-                    "gid": "7298184776698515070",
-                    "size": "1367402217",
-                    "download": "423173584"
+                    "gid": "1104447601148916616",
+                    "size": "1373048810",
+                    "download": "426548864"
                 }
             },
             "decryptionkey": "6f8241800e907d0ce1e40888f65e5f11c779bfe313ba840d3334e581fe8ce753"
         },
         "branches": {
             "public": {
-                "buildid": "17150780",
-                "timeupdated": "1738017248"
+                "buildid": "17700239",
+                "timeupdated": "1741820178"
             },
             "beta": {
                 "buildid": "17150780",
@@ -38,9 +38,9 @@
                 "timeupdated": "1738630395"
             },
             "beta_controller": {
-                "buildid": "17462817",
+                "buildid": "17649373",
                 "description": "Beta branch for controller support testing. CAUTION: You run the risk of save file corruption on beta branches!",
-                "timeupdated": "1740184733"
+                "timeupdated": "1741476835"
             }
         }
     }
