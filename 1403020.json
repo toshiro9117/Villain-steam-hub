@@ -4,8 +4,8 @@
     "name": "SCP Strategy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26964266",
-    "update_time": "2025-01-13 03:30:41",
+    "change_number": "27926971",
+    "update_time": "2025-03-13 14:23:26",
     "depot": {
         "1403021": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ade942a7743e21dd89382f5526ca27c2d82a90d6da60a6a54ebd5f917ca16134"
+        "workshopdepotdecryptionkey": ""
     }
 }
