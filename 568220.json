@@ -4,8 +4,8 @@
     "name": "Lobotomy Corporation",
     "schinese_name": "脑叶公司：怪物管理模拟",
     "isfreeapp": "0",
-    "change_number": "26998573",
-    "update_time": "2025-01-15 08:19:00",
+    "change_number": "27784559",
+    "update_time": "2025-03-05 08:01:19",
     "depot": {
         "workshopdepot": "568220",
         "568221": {
@@ -77,6 +77,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "fa653f2dc25ab3fc344e141d5179f2fa7daae1455414ed988a0ca8d7c0d72e04"
+        "workshopdepotdecryptionkey": ""
     }
 }
