@@ -4,8 +4,8 @@
     "name": "Golf Gang",
     "schinese_name": "高尔夫大乱斗 / Golf Gang",
     "isfreeapp": "0",
-    "change_number": "26956735",
-    "update_time": "2025-01-12 03:16:18",
+    "change_number": "27817716",
+    "update_time": "2025-03-06 23:44:47",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian",
         "workshopdepot": "1151050",
@@ -39,6 +39,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "331adfc4699b6499b15937d7418e7d08775007827c9b04b9d343a92797fda0f8"
+        "workshopdepotdecryptionkey": ""
     }
 }
