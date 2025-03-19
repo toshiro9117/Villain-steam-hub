@@ -4,8 +4,8 @@
     "name": "Brotato",
     "schinese_name": "土豆兄弟(Brotato)",
     "isfreeapp": "0",
-    "change_number": "27440653",
-    "update_time": "2025-02-12 22:20:03",
+    "change_number": "27997113",
+    "update_time": "2025-03-17 23:43:58",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1942280",
@@ -30,9 +30,9 @@
                     "download": "88781184"
                 },
                 "beta": {
-                    "gid": "3733297323835781086",
-                    "size": "207444533",
-                    "download": "136524400"
+                    "gid": "432179477688423318",
+                    "size": "207443345",
+                    "download": "136524592"
                 },
                 "reset": {
                     "gid": "8348398703013273744",
@@ -64,9 +64,9 @@
                     "download": "52502928"
                 },
                 "beta": {
-                    "gid": "2172352482602970124",
-                    "size": "55315008",
-                    "download": "52502896"
+                    "gid": "1380123267650072439",
+                    "size": "55314880",
+                    "download": "52502608"
                 },
                 "v1.1.0.0-compat": {
                     "gid": "8743804879875762247",
@@ -97,9 +97,9 @@
                 "timeupdated": "1701779214"
             },
             "beta": {
-                "buildid": "17454424",
+                "buildid": "17690524",
                 "description": "Test new updates before they go public, may be unstable",
-                "timeupdated": "1740138921"
+                "timeupdated": "1741774650"
             },
             "reset": {
                 "buildid": "16182449",
@@ -118,6 +118,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bf5b1b4f28c4d1839b85a86e3bfdabc5435f8cc848ca968aec505c86c6ecb52e"
+        "workshopdepotdecryptionkey": ""
     }
 }
