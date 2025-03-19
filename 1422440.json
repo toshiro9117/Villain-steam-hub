@@ -4,8 +4,8 @@
     "name": "Cataclismo",
     "schinese_name": "灾厄堡垒 Cataclismo",
     "isfreeapp": "0",
-    "change_number": "27721868",
-    "update_time": "2025-03-01 01:03:49",
+    "change_number": "28000089",
+    "update_time": "2025-03-18 02:40:16",
     "depot": {
         "228988": {
             "config": {
@@ -37,6 +37,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "2017410ff369e32d693dfaf9bfc65b9fd6f3558f72b2f5043908c6cd98cc9db2"
+        "workshopdepotdecryptionkey": ""
     }
 }
