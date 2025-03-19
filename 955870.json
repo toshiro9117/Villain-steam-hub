@@ -4,8 +4,8 @@
     "name": "Battlecruisers",
     "schinese_name": "战巡大作战",
     "isfreeapp": "0",
-    "change_number": "27509264",
-    "update_time": "2025-02-17 11:38:05",
+    "change_number": "28002676",
+    "update_time": "2025-03-18 06:06:17",
     "depot": {
         "955872": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2674330183314592396",
-                    "size": "1279598310",
-                    "download": "315710464"
+                    "gid": "4434161838808043452",
+                    "size": "1356940763",
+                    "download": "322654672"
                 }
             },
             "decryptionkey": "1d8b89134cbf25c6b400c05737c3c8219adec37dc1bc237b89c591821b758640"
         },
         "branches": {
             "public": {
-                "buildid": "16171933",
-                "timeupdated": "1729807786"
+                "buildid": "17757144",
+                "timeupdated": "1742249172"
             }
         },
         "privatebranches": "1"
