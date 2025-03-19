@@ -4,8 +4,8 @@
     "name": "Demeo Battles",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27440341",
-    "update_time": "2025-02-12 22:00:48",
+    "change_number": "27888026",
+    "update_time": "2025-03-11 17:58:24",
     "depot": {
         "1969311": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7074640511110642329",
-                    "size": "3641787445",
-                    "download": "3258585776"
+                    "gid": "238622957163382217",
+                    "size": "3641788438",
+                    "download": "3258615328"
                 }
             },
             "decryptionkey": "8d63241056e626a16cd1655bec19a2cc617ec067fef464da4954a5920e94fe00"
         },
         "branches": {
             "public": {
-                "buildid": "17336984",
-                "timeupdated": "1739368843"
+                "buildid": "17618189",
+                "timeupdated": "1741265428"
             }
         },
         "privatebranches": "1"
