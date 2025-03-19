@@ -4,8 +4,8 @@
     "name": "玩个Gui",
     "schinese_name": "玩个Gui",
     "isfreeapp": "0",
-    "change_number": "27528500",
-    "update_time": "2025-02-18 13:49:32",
+    "change_number": "27992619",
+    "update_time": "2025-03-17 19:46:26",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "2726870",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5728475308262639626",
-                    "size": "1845253887",
-                    "download": "534177216"
+                    "gid": "7626101270257171924",
+                    "size": "924196530",
+                    "download": "580210112"
                 },
                 "alpha": {
-                    "gid": "5728475308262639626",
-                    "size": "1845253887",
-                    "download": "534177216"
+                    "gid": "8067801232663293836",
+                    "size": "924202464",
+                    "download": "580218640"
                 }
             },
             "decryptionkey": "2fe1ac080bb10c4f2a361100606dad11c1212c7ac0a06e57c658d9c00920c13a"
@@ -31,16 +31,16 @@
         "2726872": {},
         "branches": {
             "public": {
-                "buildid": "17121306",
-                "timeupdated": "1737778607"
+                "buildid": "17750964",
+                "timeupdated": "1742211981"
             },
             "alpha": {
-                "buildid": "17121306",
+                "buildid": "17705768",
                 "description": "alpha test branch",
-                "timeupdated": "1737731796"
+                "timeupdated": "1741855446"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a450a3bcadd806bfd62e0b4e07143e864aabcca16c9238ac293d057cd4c91d12"
+        "workshopdepotdecryptionkey": ""
     }
 }
