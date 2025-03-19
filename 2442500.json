@@ -4,23 +4,23 @@
     "name": "Coodesker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25106501",
-    "update_time": "2024-09-06 17:55:50",
+    "change_number": "27747440",
+    "update_time": "2025-03-03 10:26:20",
     "depot": {
         "2442501": {
             "manifests": {
                 "public": {
-                    "gid": "6430417607978299191",
-                    "size": "8860279",
-                    "download": "2926688"
+                    "gid": "4137048476163202232",
+                    "size": "8904799",
+                    "download": "2942416"
                 }
             },
             "decryptionkey": "5dc0e39e08976f4f2167a1fe549bb0cfa64ce11427d333177e1bc797052faaec"
         },
         "branches": {
             "public": {
-                "buildid": "15614382",
-                "timeupdated": "1725616544"
+                "buildid": "17569125",
+                "timeupdated": "1740968776"
             }
         }
     }
