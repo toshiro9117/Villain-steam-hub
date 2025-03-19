@@ -4,8 +4,8 @@
     "name": "4D Miner Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26903502",
-    "update_time": "2025-01-08 14:09:34",
+    "change_number": "27757931",
+    "update_time": "2025-03-04 00:53:04",
     "depot": {
         "228988": {
             "config": {
@@ -26,8 +26,7 @@
                     "size": "155851076",
                     "download": "106425712"
                 }
-            },
-            "decryptionkey": "3ad50d2304fee8baa199a3c469197edcb784de588e60fffa9c3428a674015169"
+            }
         },
         "branches": {
             "public": {
