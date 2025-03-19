@@ -4,8 +4,8 @@
     "name": "Stormworks: Build and Rescue",
     "schinese_name": "风暴工程：建造和救援中文版",
     "isfreeapp": "0",
-    "change_number": "27518106",
-    "update_time": "2025-02-17 23:23:05",
+    "change_number": "27945924",
+    "update_time": "2025-03-14 08:32:14",
     "depot": {
         "228985": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1866997060104685721",
-                    "size": "2257650055",
-                    "download": "391174384"
+                    "gid": "7450888980332072485",
+                    "size": "2262671188",
+                    "download": "391365680"
                 }
             },
             "decryptionkey": "49f609573f8fc3923ec4eab2ba459bdea77b7a906e9054549c102e4659fcfff7"
@@ -48,20 +48,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "906816043000861689",
-                    "size": "1323998083",
-                    "download": "278856944"
+                    "gid": "8560314042517656621",
+                    "size": "1328681886",
+                    "download": "278942320"
                 }
             },
             "decryptionkey": "871725b4b4314590b50465afe4c8ebd3cea63a704afce1ae1f369edecb0be7f5"
         },
         "branches": {
             "public": {
-                "buildid": "17354682",
-                "timeupdated": "1739520962"
+                "buildid": "17717193",
+                "timeupdated": "1741912328"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "1385435ae44e48ac0fbea684d525581b864dd6e984b1469e68e029f37e820052"
+        "workshopdepotdecryptionkey": ""
     }
 }
