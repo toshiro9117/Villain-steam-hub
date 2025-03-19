@@ -4,8 +4,8 @@
     "name": "SchoolBoy Runaway",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27505471",
-    "update_time": "2025-02-17 03:15:05",
+    "change_number": "27828973",
+    "update_time": "2025-03-07 13:01:39",
     "depot": {
         "3359321": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1240642654763541475",
-                    "size": "557640946",
-                    "download": "252147456"
+                    "gid": "7513401499096053380",
+                    "size": "564883700",
+                    "download": "249639136"
                 }
             },
             "decryptionkey": "6501fca770ca2ec4e4804a7c5674717d9e5fd6e864f3860cd9624379fafe214c"
         },
         "branches": {
             "public": {
-                "buildid": "16910402",
-                "timeupdated": "1736076182"
+                "buildid": "17563154",
+                "timeupdated": "1740890510"
             }
         }
     }
