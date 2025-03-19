@@ -4,8 +4,8 @@
     "name": "Liftoff: Micro Drones",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726359",
-    "update_time": "2025-03-01 06:05:44",
+    "change_number": "27951709",
+    "update_time": "2025-03-14 16:24:01",
     "depot": {
         "workshopdepot": "1432320",
         "1432321": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5088224603243893297",
-                    "size": "15350428215",
-                    "download": "12684373680"
+                    "gid": "1710699429330352446",
+                    "size": "23155366066",
+                    "download": "19568732656"
                 }
             },
             "decryptionkey": "99bc05320984dd6078a99518238843bb7fc37cef65bd423e3194683fbb9c4457"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5866620215130482186",
-                    "size": "14992617668",
-                    "download": "12465524928"
+                    "gid": "963012499062604696",
+                    "size": "22633840089",
+                    "download": "19236207280"
                 }
             },
             "decryptionkey": "895724ef060c75590e7961c174879706c5be370003c34a59e5f6306ba2502759"
@@ -42,20 +42,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9010172636442750246",
-                    "size": "15307091146",
-                    "download": "12656906336"
+                    "gid": "1782346770727470750",
+                    "size": "23092992100",
+                    "download": "19521798976"
                 }
             },
             "decryptionkey": "551fe99e54c7a9fa061b96ff8bb42e56f2f19106f1679922ae47d087b29687c7"
         },
         "branches": {
             "public": {
-                "buildid": "17076831",
-                "timeupdated": "1737535178"
+                "buildid": "17712731",
+                "timeupdated": "1741940637"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "8ec1bb0d94a61594f9a08f4b3aeb0373f8527dcd9c4f746ea513c3c68f262b20"
+        "workshopdepotdecryptionkey": ""
     }
 }
