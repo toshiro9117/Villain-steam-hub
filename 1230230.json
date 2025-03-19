@@ -1,0 +1,31 @@
+{
+    "appid": "1230230",
+    "type": "DLC",
+    "name": "Stoneshard - Supporter Pack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27986181",
+    "update_time": "2025-03-17 09:53:56",
+    "depot": {
+        "1230230": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7754860032974793739",
+                    "size": "185207851",
+                    "download": "150655104"
+                }
+            },
+            "dlcappid": "1230230",
+            "decryptionkey": "d293a4ee3b76eecea9a324b1ab6b7e723bbc116560c7d885832db912177b6d09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4638545",
+                "timeupdated": "1580790082"
+            }
+        }
+    }
+}
