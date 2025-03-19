@@ -4,15 +4,15 @@
     "name": "ChatWaifu",
     "schinese_name": "AI萌娘",
     "isfreeapp": "0",
-    "change_number": "27318743",
-    "update_time": "2025-02-05 11:17:19",
+    "change_number": "27872274",
+    "update_time": "2025-03-10 21:52:22",
     "depot": {
         "2331611": {
             "manifests": {
                 "public": {
-                    "gid": "494752153325757162",
-                    "size": "4304641070",
-                    "download": "1242659936"
+                    "gid": "2318542382651832854",
+                    "size": "10149806579",
+                    "download": "4065121216"
                 }
             },
             "decryptionkey": "248618b4fec29942f8d7fb8a2d9c5fef6dab4bdb463f6646d8f4fb8bf35f6098"
@@ -20,10 +20,10 @@
         "workshopdepot": "2331610",
         "branches": {
             "public": {
-                "buildid": "15857316",
-                "timeupdated": "1727483784"
+                "buildid": "17565021",
+                "timeupdated": "1740917563"
             }
         },
-        "workshopdepotdecryptionkey": "d8cd5ca78c1aa83231030c3c1cf8d500c323f3770a69c75a8044659784f67a1b"
+        "workshopdepotdecryptionkey": ""
     }
 }
