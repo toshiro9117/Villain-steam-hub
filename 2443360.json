@@ -4,15 +4,15 @@
     "name": "Zortch",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27458698",
-    "update_time": "2025-02-13 20:16:14",
+    "change_number": "27901142",
+    "update_time": "2025-03-12 08:09:06",
     "depot": {
         "2443361": {
             "manifests": {
                 "public": {
-                    "gid": "4098455979957779045",
-                    "size": "368384621",
-                    "download": "306077168"
+                    "gid": "6016832095267293337",
+                    "size": "368385159",
+                    "download": "306077840"
                 },
                 "beta": {
                     "gid": "3673364722076420839",
@@ -25,8 +25,8 @@
         "workshopdepot": "2443360",
         "branches": {
             "public": {
-                "buildid": "14275985",
-                "timeupdated": "1714984922"
+                "buildid": "17658549",
+                "timeupdated": "1741593974"
             },
             "beta": {
                 "buildid": "14653069",
@@ -34,6 +34,6 @@
                 "timeupdated": "1717890450"
             }
         },
-        "workshopdepotdecryptionkey": "9207a3182c4e310edf14a2f58c69610be71a11451fecdd01156fb4cffb22ec60"
+        "workshopdepotdecryptionkey": ""
     }
 }
