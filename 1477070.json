@@ -4,8 +4,8 @@
     "name": "Depersonalization",
     "schinese_name": "人格解体",
     "isfreeapp": "0",
-    "change_number": "27714663",
-    "update_time": "2025-02-28 18:07:31",
+    "change_number": "27954863",
+    "update_time": "2025-03-14 19:25:50",
     "depot": {
         "workshopdepot": "1477070",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6110214086814940531",
-                    "size": "7715173786",
-                    "download": "2309912336"
+                    "gid": "1079933121086745347",
+                    "size": "7740536727",
+                    "download": "2315908336"
                 }
             },
             "decryptionkey": "63af1726fe45a06ec8cd5967b11f3a797596cb2e54d8140b5ac001b223c7695d"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6063842134136429970",
-                    "size": "7716519057",
-                    "download": "2316340464"
+                    "gid": "354591670846586174",
+                    "size": "7741848093",
+                    "download": "2322346480"
                 }
             },
             "decryptionkey": "28cb1c1403a7b5dbec2782fe7baab195c2b178703615cfbe88028adde05a4ac9"
@@ -44,11 +44,11 @@
         },
         "branches": {
             "public": {
-                "buildid": "17275555",
-                "timeupdated": "1738898181"
+                "buildid": "17724202",
+                "timeupdated": "1741951545"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "68ed6a0f223235f625c44c823d08406a1b18fcd82c5894c207283b73e179482d"
+        "workshopdepotdecryptionkey": ""
     }
 }
