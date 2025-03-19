@@ -4,8 +4,8 @@
     "name": "靈能哨衛:無限",
     "schinese_name": "灵能哨卫：无限",
     "isfreeapp": "0",
-    "change_number": "27535500",
-    "update_time": "2025-02-18 21:59:18",
+    "change_number": "27882822",
+    "update_time": "2025-03-11 10:22:29",
     "depot": {
         "baselanguages": "english,tchinese",
         "2598801": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1758056115467011103",
-                    "size": "2967135126",
-                    "download": "921013728"
+                    "gid": "8867261448701207221",
+                    "size": "2985422371",
+                    "download": "923314944"
                 }
             },
             "decryptionkey": "83987eca3d3ed8aa70a8cdbd8e51382cbfbd5784f8f2f2b7e0f48be781fbfefe"
         },
         "branches": {
             "public": {
-                "buildid": "17408212",
-                "timeupdated": "1739887152"
+                "buildid": "17644815",
+                "timeupdated": "1741416200"
             }
         },
         "privatebranches": "1"
