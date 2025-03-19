@@ -4,8 +4,8 @@
     "name": "AColony",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26842805",
-    "update_time": "2025-01-03 02:17:24",
+    "change_number": "27938593",
+    "update_time": "2025-03-14 01:08:31",
     "depot": {
         "1200571": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8205013099983151707",
-                    "size": "2600039484",
-                    "download": "574537664"
+                    "gid": "6840402553201229529",
+                    "size": "2612448036",
+                    "download": "576048864"
                 }
             },
             "decryptionkey": "f0d6a4fd975b453d490b910f6306aee2c28cba84dd1617859ad6762e6f032fbc"
         },
         "branches": {
             "public": {
-                "buildid": "16803411",
-                "timeupdated": "1734714458"
+                "buildid": "17707961",
+                "timeupdated": "1741885701"
             }
         },
         "privatebranches": "1"
