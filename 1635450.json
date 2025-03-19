@@ -70,7 +70,7 @@
                     "download": "1474025328"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c2ee929e91b9cd2a8c5fbeacc241aa350dd3d69ef9b816e088ca7f13d8a1bb7c"
         },
         "1635452": {
             "config": {
@@ -115,7 +115,7 @@
                     "download": "273291968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e8ba636ef56364d7b8ac0a117aaf34b9218b34c51597690c910afeb6f34f3f47"
         },
         "workshopdepot": "1635450",
         "branches": {
@@ -155,6 +155,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "480b59a11113f4654a894b3067e67168c7c4544dcdf044a548677543abc914d0"
     }
 }
