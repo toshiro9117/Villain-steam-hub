@@ -4,8 +4,8 @@
     "name": "CATO: Buttered Cat",
     "schinese_name": "CATO 黄油猫",
     "isfreeapp": "0",
-    "change_number": "27479057",
-    "update_time": "2025-02-14 20:27:52",
+    "change_number": "27931871",
+    "update_time": "2025-03-13 19:26:15",
     "depot": {
         "1999521": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6357427437783714055",
-                    "size": "692999476",
-                    "download": "279319856"
+                    "gid": "8266095484581640196",
+                    "size": "771343159",
+                    "download": "323603312"
                 }
             },
             "decryptionkey": "5bacced6080e6c0df6311f62565f3853d82a536fde554c48451d72f78216d232"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3599425019592291959",
-                    "size": "1023382918",
-                    "download": "498481104"
+                    "gid": "2369867840525068460",
+                    "size": "805968160",
+                    "download": "333938208"
                 }
             },
             "decryptionkey": "8ad71e3e60b3f8b04bbe5f59ee5f3b42b007fd96f483cca42a864de78103ec77"
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4677236778201948960",
-                    "size": "855713507",
-                    "download": "280718912"
+                    "gid": "5150096094545875626",
+                    "size": "946061243",
+                    "download": "336249040"
                 }
             },
             "decryptionkey": "abb0a8418238ab28264aa7ee6ddc98a2c5e0a2c06ef58c93ee022c9097581d44"
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17137066",
-                "timeupdated": "1737959719"
+                "buildid": "17707963",
+                "timeupdated": "1741865171"
             }
         },
         "privatebranches": "1"
