@@ -4,8 +4,8 @@
     "name": "TheoTown",
     "schinese_name": "西奥小镇",
     "isfreeapp": "0",
-    "change_number": "27532547",
-    "update_time": "2025-02-18 18:54:15",
+    "change_number": "27990928",
+    "update_time": "2025-03-17 17:57:55",
     "depot": {
         "baselanguages": "english",
         "1084021": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1293559400806264193",
-                    "size": "225311405",
-                    "download": "145556256"
+                    "gid": "1238355067875322078",
+                    "size": "225155166",
+                    "download": "145391520"
                 },
                 "beta": {
-                    "gid": "6605370308818549544",
-                    "size": "225244814",
-                    "download": "145486592"
+                    "gid": "1238355067875322078",
+                    "size": "225155166",
+                    "download": "145391520"
                 }
             },
             "decryptionkey": "53cf5369fb7f8fcacfe7efc6a6a640c7eeaddaa4cbcc283666eab8fbb1e0bd95"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2808947532491097894",
-                    "size": "251177879",
-                    "download": "149630464"
+                    "gid": "4993289965996889929",
+                    "size": "251021640",
+                    "download": "149464784"
                 },
                 "beta": {
-                    "gid": "237310604595863961",
-                    "size": "251111288",
-                    "download": "149558448"
+                    "gid": "4993289965996889929",
+                    "size": "251021640",
+                    "download": "149464784"
                 }
             },
             "decryptionkey": "763370776404b2a8d74f827a2c6d2d78c3c78f09f1c84716c6132cea41ec391b"
@@ -50,14 +50,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4022754596842143314",
-                    "size": "121780558",
-                    "download": "120042112"
+                    "gid": "6644371398849567115",
+                    "size": "121624319",
+                    "download": "119876048"
                 },
                 "beta": {
-                    "gid": "1015726690320140669",
-                    "size": "121713967",
-                    "download": "119970048"
+                    "gid": "6644371398849567115",
+                    "size": "121624319",
+                    "download": "119876048"
                 }
             },
             "decryptionkey": "cc1ec45db95ff8755bdce02c1ecc91357a849f489c8bc19660d0d960cd77bd0a"
@@ -65,13 +65,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17251650",
-                "timeupdated": "1738853697"
+                "buildid": "17725358",
+                "timeupdated": "1742205468"
             },
             "beta": {
-                "buildid": "17405831",
+                "buildid": "17725358",
                 "description": "Branch for testing new features",
-                "timeupdated": "1740145734"
+                "timeupdated": "1741956569"
             }
         },
         "privatebranches": "1"
