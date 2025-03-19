@@ -4,15 +4,15 @@
     "name": "Westview Academy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27522908",
-    "update_time": "2025-02-18 04:43:05",
+    "change_number": "27900471",
+    "update_time": "2025-03-12 07:11:41",
     "depot": {
         "2275561": {
             "manifests": {
                 "public": {
-                    "gid": "6008195579244279903",
-                    "size": "6428381907",
-                    "download": "6004040592"
+                    "gid": "3256270951791934716",
+                    "size": "6447970400",
+                    "download": "6015900912"
                 }
             },
             "decryptionkey": "61be49995e6b07ee704b915004f9abf3e8a102ec926376dd46f7e50b6e8e0448"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16749914",
-                "timeupdated": "1734253844"
+                "buildid": "17488961",
+                "timeupdated": "1740425882"
             }
         },
         "privatebranches": "1"
