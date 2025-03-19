@@ -4,8 +4,8 @@
     "name": "WasteLand Express 废土快递",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729023",
-    "update_time": "2025-03-01 10:40:46",
+    "change_number": "27952952",
+    "update_time": "2025-03-14 17:33:27",
     "depot": {
         "baselanguages": "schinese",
         "workshopdepot": "1831250",
@@ -13,9 +13,9 @@
         "1831251": {
             "manifests": {
                 "public": {
-                    "gid": "4283044514370165582",
-                    "size": "2071391015",
-                    "download": "220930384"
+                    "gid": "8157084362080610502",
+                    "size": "2078173683",
+                    "download": "221426336"
                 }
             },
             "decryptionkey": "248951d03b35e79d7a691a1d9de74625731c0d66d318b94ed3f7d5745b0bcd11"
@@ -24,20 +24,20 @@
             "dlcappid": "2336570",
             "manifests": {
                 "public": {
-                    "gid": "2520189728072862169",
-                    "size": "2071391015",
-                    "download": "221074864"
+                    "gid": "6417115612000519085",
+                    "size": "2078173683",
+                    "download": "221578240"
                 }
             },
             "decryptionkey": "531355f6c470949938aeab2e80e226749a25ed0d7d98d71156b2ebaf4032246a"
         },
         "branches": {
             "public": {
-                "buildid": "17555682",
-                "timeupdated": "1740796843"
+                "buildid": "17722722",
+                "timeupdated": "1741944801"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "95da5542c7d417cd11fa797c92c23cbb61c6949d4b70166b562f91788da6273f"
+        "workshopdepotdecryptionkey": ""
     }
 }
