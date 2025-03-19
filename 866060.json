@@ -4,15 +4,15 @@
     "name": "Warhammer: Vermintide 2 SDK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26174564",
-    "update_time": "2024-11-13 20:40:21",
+    "change_number": "27832044",
+    "update_time": "2025-03-07 17:17:06",
     "depot": {
         "866061": {
             "manifests": {
                 "public": {
-                    "gid": "4820013769415775331",
-                    "size": "168778973",
-                    "download": "73107968"
+                    "gid": "7722071494202177687",
+                    "size": "170419596",
+                    "download": "73537600"
                 },
                 "legacy": {
                     "gid": "1891599567811672717",
@@ -29,8 +29,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16289257",
-                "timeupdated": "1731501618"
+                "buildid": "17632149",
+                "timeupdated": "1741339021"
             },
             "legacy": {
                 "buildid": "3107890",
@@ -38,9 +38,9 @@
                 "timeupdated": "1680078879"
             },
             "last_stable": {
-                "buildid": "14451471",
+                "buildid": "16289257",
                 "description": "Mod SDK from the previous patch (including bugfixes).",
-                "timeupdated": "1731501566"
+                "timeupdated": "1741338983"
             }
         },
         "privatebranches": "1"
