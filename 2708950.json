@@ -4,8 +4,8 @@
     "name": "Corruption Town",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497224",
-    "update_time": "2025-02-16 04:17:49",
+    "change_number": "27963267",
+    "update_time": "2025-03-15 03:00:04",
     "depot": {
         "baselanguages": "english",
         "2708951": {
@@ -15,37 +15,27 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5794117771376744680",
+                    "size": "3689152072",
+                    "download": "1458237488"
+                },
+                "backup": {
                     "gid": "8014623268706532387",
                     "size": "3048813330",
                     "download": "1180905056"
-                },
-                "backup": {
-                    "gid": "3282858257879833136",
-                    "size": "3048812484",
-                    "download": "1180890832"
-                },
-                "vulkan_test": {
-                    "gid": "7831187211098943040",
-                    "size": "2997146182",
-                    "download": "1171515376"
                 }
             },
             "decryptionkey": "6c6256dc770672ddf4140c20c4641576e8eb467bb291b04045a6967d8a9745b4"
         },
         "branches": {
             "public": {
-                "buildid": "16764078",
-                "timeupdated": "1734384222"
+                "buildid": "17729986",
+                "timeupdated": "1741978638"
             },
             "backup": {
-                "buildid": "16754979",
-                "description": "0.7h",
-                "timeupdated": "1734419548"
-            },
-            "vulkan_test": {
-                "buildid": "17440255",
-                "description": "vulkan test",
-                "timeupdated": "1740060226"
+                "buildid": "16764078",
+                "description": "0.7i",
+                "timeupdated": "1741790517"
             }
         },
         "privatebranches": "1"
