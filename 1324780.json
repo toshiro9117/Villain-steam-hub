@@ -4,8 +4,8 @@
     "name": "Easy Red 2",
     "schinese_name": "易红2",
     "isfreeapp": "0",
-    "change_number": "27723174",
-    "update_time": "2025-03-01 02:14:49",
+    "change_number": "28012878",
+    "update_time": "2025-03-18 20:24:13",
     "depot": {
         "1324781": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1306879777721676578",
-                    "size": "17002861568",
-                    "download": "7496295648"
+                    "gid": "3239601133017472022",
+                    "size": "17215407306",
+                    "download": "7600387184"
                 },
                 "console_crossplay": {
                     "gid": "6110414396938566551",
@@ -24,14 +24,14 @@
                     "download": "6967604944"
                 },
                 "publicbeta": {
-                    "gid": "1306879777721676578",
-                    "size": "17002861568",
-                    "download": "7496295648"
+                    "gid": "897952322116476157",
+                    "size": "17254613745",
+                    "download": "7606548720"
                 },
                 "xbox_crossplay": {
-                    "gid": "1711009088562328584",
-                    "size": "16192187892",
-                    "download": "7145804992"
+                    "gid": "3239601133017472022",
+                    "size": "17215407306",
+                    "download": "7600387184"
                 }
             },
             "decryptionkey": "8a121832d20574941b7d7e7eb4a34323c9ebe72338fc859080aac679b74bd78c"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6395875788904828890",
-                    "size": "17039145786",
-                    "download": "7516496384"
+                    "gid": "329571758782985735",
+                    "size": "17251656888",
+                    "download": "7620875936"
                 },
                 "console_crossplay": {
                     "gid": "5353283451735616243",
@@ -53,14 +53,14 @@
                     "download": "6990441952"
                 },
                 "publicbeta": {
-                    "gid": "6395875788904828890",
-                    "size": "17039145786",
-                    "download": "7516496384"
+                    "gid": "6002862243126451083",
+                    "size": "17290864025",
+                    "download": "7626567296"
                 },
                 "xbox_crossplay": {
-                    "gid": "6394313490116327435",
-                    "size": "16227492138",
-                    "download": "7168354736"
+                    "gid": "329571758782985735",
+                    "size": "17251656888",
+                    "download": "7620875936"
                 }
             },
             "decryptionkey": "4540b21d37c237bc72c6a5b2c3c1202a48b56a5e2bd9b7e8aed3e2112f87042c"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7224273141796249445",
-                    "size": "16960893368",
-                    "download": "7492608416"
+                    "gid": "8992174677931434767",
+                    "size": "17160651344",
+                    "download": "7589744768"
                 },
                 "console_crossplay": {
                     "gid": "658219766773378934",
@@ -82,14 +82,14 @@
                     "download": "6966064848"
                 },
                 "publicbeta": {
-                    "gid": "7224273141796249445",
-                    "size": "16960893368",
-                    "download": "7492608416"
+                    "gid": "8530229768945713472",
+                    "size": "17202931001",
+                    "download": "7601342640"
                 },
                 "xbox_crossplay": {
-                    "gid": "551306570137536481",
-                    "size": "16151947796",
-                    "download": "7142966336"
+                    "gid": "8992174677931434767",
+                    "size": "17160651344",
+                    "download": "7589744768"
                 }
             },
             "decryptionkey": "3e04baca8a855c9d1936a84667b80691d3a021d9b24927ff2f32a45f46d18b99"
@@ -98,8 +98,8 @@
         "workshopdepot": "1324780",
         "branches": {
             "public": {
-                "buildid": "17551144",
-                "timeupdated": "1740766467"
+                "buildid": "17737075",
+                "timeupdated": "1742044537"
             },
             "console_crossplay": {
                 "buildid": "17003390",
@@ -107,17 +107,17 @@
                 "timeupdated": "1736879124"
             },
             "publicbeta": {
-                "buildid": "17551144",
+                "buildid": "17765352",
                 "description": "Public beta for easy red 2 - expect some bugs",
-                "timeupdated": "1740766478"
+                "timeupdated": "1742300638"
             },
             "xbox_crossplay": {
-                "buildid": "17223191",
+                "buildid": "17737075",
                 "description": "Xbox Crossplay Compatibility",
-                "timeupdated": "1740476815"
+                "timeupdated": "1742044578"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "9c2fd69454514ddde97c26fb0212ca728b182427f101e9d4f5cdf8ac40462f29"
+        "workshopdepotdecryptionkey": ""
     }
 }
