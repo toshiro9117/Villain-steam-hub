@@ -4,15 +4,15 @@
     "name": "Kanon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26837914",
-    "update_time": "2025-01-02 15:52:30",
+    "change_number": "28009033",
+    "update_time": "2025-03-18 16:17:33",
     "depot": {
         "2850311": {
             "manifests": {
                 "public": {
-                    "gid": "2487908971946207992",
-                    "size": "2003988268",
-                    "download": "1815930416"
+                    "gid": "1022940762578269618",
+                    "size": "2002710316",
+                    "download": "1814890608"
                 }
             },
             "decryptionkey": "6bbee5ccd95b5f0ecd4468b82abb7710f269833055353288c20fcb02fb5e8b8b"
@@ -20,9 +20,10 @@
         "baselanguages": "english,schinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16201212",
-                "timeupdated": "1730097764"
+                "buildid": "17760595",
+                "timeupdated": "1742285849"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
