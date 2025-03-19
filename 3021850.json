@@ -4,24 +4,34 @@
     "name": "Monster Meals",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27241401",
-    "update_time": "2025-01-31 03:38:04",
+    "change_number": "27981199",
+    "update_time": "2025-03-16 21:56:15",
     "depot": {
         "baselanguages": "english,brazilian",
         "3021851": {
             "manifests": {
                 "public": {
-                    "gid": "3212868788605915964",
-                    "size": "2580160784",
-                    "download": "221250416"
+                    "gid": "6183135681970075093",
+                    "size": "2580160695",
+                    "download": "221241744"
+                },
+                "1.1.0-beta": {
+                    "gid": "8506797004920119110",
+                    "size": "2585903896",
+                    "download": "222988672"
                 }
             },
             "decryptionkey": "4381ec1bbcf41ccb88191c420b9459300fa48fb86fcc0ce8f97828e336fd3d9e"
         },
         "branches": {
             "public": {
-                "buildid": "17189217",
-                "timeupdated": "1738265880"
+                "buildid": "17509280",
+                "timeupdated": "1740542492"
+            },
+            "1.1.0-beta": {
+                "buildid": "17743059",
+                "description": "Multiplayer online beta",
+                "timeupdated": "1742133371"
             }
         }
     }
