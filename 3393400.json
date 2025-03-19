@@ -4,24 +4,24 @@
     "name": "Rust of Steel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27502868",
-    "update_time": "2025-02-16 21:14:56",
+    "change_number": "27851184",
+    "update_time": "2025-03-08 22:09:34",
     "depot": {
         "baselanguages": "",
         "3393401": {
             "manifests": {
                 "public": {
-                    "gid": "2759822843508813008",
-                    "size": "257794513",
-                    "download": "199892288"
+                    "gid": "2186733086144979160",
+                    "size": "257795049",
+                    "download": "199892544"
                 }
             },
             "decryptionkey": "1cdca9d9ae49498dc1d72535f383dbee4df475d22bf841f279d3c4f0b856ae62"
         },
         "branches": {
             "public": {
-                "buildid": "17295202",
-                "timeupdated": "1739069059"
+                "buildid": "17558484",
+                "timeupdated": "1740828458"
             }
         }
     }
