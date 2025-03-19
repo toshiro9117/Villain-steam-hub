@@ -4,8 +4,8 @@
     "name": "大江湖之苍龙与白鸟",
     "schinese_name": "大江湖之苍龙与白鸟",
     "isfreeapp": "0",
-    "change_number": "26935039",
-    "update_time": "2025-01-10 12:18:51",
+    "change_number": "27930672",
+    "update_time": "2025-03-13 18:21:11",
     "depot": {
         "baselanguages": "schinese",
         "1407451": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5654515394235203094",
-                    "size": "2159373029",
-                    "download": "1317856208"
+                    "gid": "8849391909608443023",
+                    "size": "2204826408",
+                    "download": "1349054432"
                 },
                 "demo": {
                     "gid": "3057991785736936788",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16641865",
-                "timeupdated": "1733395584"
+                "buildid": "17602089",
+                "timeupdated": "1741226702"
             },
             "demo": {
                 "buildid": "13761527",
