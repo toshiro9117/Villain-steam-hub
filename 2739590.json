@@ -4,8 +4,8 @@
     "name": "Mad Island",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27724556",
-    "update_time": "2025-03-01 03:46:39",
+    "change_number": "27892067",
+    "update_time": "2025-03-11 22:02:59",
     "depot": {
         "baselanguages": "japanese",
         "2739591": {
@@ -31,9 +31,9 @@
                     "download": "1259755136"
                 },
                 "beta_open": {
-                    "gid": "1770587254913658314",
-                    "size": "1670662774",
-                    "download": "1372350080"
+                    "gid": "7141466826678395833",
+                    "size": "1650625409",
+                    "download": "1355783520"
                 }
             },
             "decryptionkey": "b4965a72b078a66e012d79a8af2548c3201e72b2fc234cc1e562863063dc42b8"
@@ -55,12 +55,12 @@
                 "timeupdated": "1734086667"
             },
             "beta_open": {
-                "buildid": "17547526",
+                "buildid": "17661409",
                 "description": "Open test",
-                "timeupdated": "1740750253"
+                "timeupdated": "1741610225"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "cbed7a4927e60f35fa4fc303117841cc0b0480acaedd95fa870f3dc92d474cb5"
+        "workshopdepotdecryptionkey": ""
     }
 }
