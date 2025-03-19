@@ -4,34 +4,35 @@
     "name": "Control Ultimate Edition",
     "schinese_name": "控制 - 终极合辑 / Control Ultimate Edition",
     "isfreeapp": "0",
-    "change_number": "27196762",
-    "update_time": "2025-01-28 16:05:40",
+    "change_number": "27890608",
+    "update_time": "2025-03-11 20:35:13",
     "depot": {
-        "870781": {
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "8430668485897533117",
-                    "size": "45986935143",
-                    "download": "24137687568"
-                }
-            },
-            "decryptionkey": "ba516099bc56d74a9189e3d8a3a363a66125773c0cd91188544030b33eb14989"
-        },
+        "hasdepotsindlc": "0",
         "870782": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "8361276401184920724",
-                    "size": "53238988982",
-                    "download": "25738964016"
+                    "gid": "3966011182230819577",
+                    "size": "45003066163",
+                    "download": "24038327232"
                 }
             },
             "decryptionkey": "22f225623a05b2132b01df734187f47fe3aa8d7f0f3133134257c8faa8a320d1"
+        },
+        "870781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3769874412580112740",
+                    "size": "45003066163",
+                    "download": "24047681488"
+                }
+            },
+            "decryptionkey": "ba516099bc56d74a9189e3d8a3a363a66125773c0cd91188544030b33eb14989"
         },
         "1538740": {
             "dlcappid": "1538740",
@@ -61,11 +62,10 @@
             },
             "decryptionkey": "e09efa0197dd8d6793517591863fc31bc4fb6592003e357f027282f6d92bc640"
         },
-        "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "6825214",
-                "timeupdated": "1623764555"
+                "buildid": "17677094",
+                "timeupdated": "1741696509"
             }
         },
         "privatebranches": "1"
