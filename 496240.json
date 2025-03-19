@@ -4,8 +4,8 @@
     "name": "Onward",
     "schinese_name": "进军",
     "isfreeapp": "0",
-    "change_number": "27731201",
-    "update_time": "2025-03-01 16:36:38",
+    "change_number": "28011082",
+    "update_time": "2025-03-18 18:22:16",
     "depot": {
         "496241": {
             "config": {
@@ -38,6 +38,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "141da7704aa356f5073cea80d8e45e7828edddfb08b60f7cd3531b3d483d26c7"
+        "workshopdepotdecryptionkey": ""
     }
 }
