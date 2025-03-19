@@ -4,23 +4,23 @@
     "name": "Beff Jezos Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27479449",
-    "update_time": "2025-02-14 20:52:11",
+    "change_number": "27954812",
+    "update_time": "2025-03-14 19:23:43",
     "depot": {
         "3128741": {
             "manifests": {
                 "public": {
-                    "gid": "5249572904036340343",
-                    "size": "3357667569",
-                    "download": "810206608"
+                    "gid": "5584064100213493526",
+                    "size": "3936746360",
+                    "download": "979283216"
                 }
             },
             "decryptionkey": "d1955de2d3a4b90777926e083bbe6a24c960a34197a53acda90172f56892ffc6"
         },
         "branches": {
             "public": {
-                "buildid": "17366722",
-                "timeupdated": "1739537525"
+                "buildid": "17636732",
+                "timeupdated": "1741359101"
             }
         }
     }
