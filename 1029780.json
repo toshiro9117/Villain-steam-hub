@@ -4,8 +4,8 @@
     "name": "Going Medieval",
     "schinese_name": "前往中世纪",
     "isfreeapp": "0",
-    "change_number": "27503757",
-    "update_time": "2025-02-16 23:35:32",
+    "change_number": "28013809",
+    "update_time": "2025-03-18 21:24:12",
     "depot": {
         "1029781": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3522382534372038223",
-                    "size": "648113310",
-                    "download": "378000176"
+                    "gid": "8685718290868526762",
+                    "size": "648749648",
+                    "download": "381582048"
                 },
                 "experimental": {
-                    "gid": "4808277063366771580",
-                    "size": "688250153",
-                    "download": "389877024"
+                    "gid": "1466893761015380523",
+                    "size": "688911753",
+                    "download": "392386448"
                 },
                 "save-migration": {
                     "gid": "6798494777981999312",
@@ -39,13 +39,13 @@
         "workshopdepot": "1029780",
         "branches": {
             "public": {
-                "buildid": "17320889",
-                "timeupdated": "1739369579"
+                "buildid": "17615723",
+                "timeupdated": "1741248351"
             },
             "experimental": {
-                "buildid": "17384308",
+                "buildid": "17615755",
                 "description": "Home of future updates",
-                "timeupdated": "1739720125"
+                "timeupdated": "1741248326"
             },
             "save-migration": {
                 "buildid": "14598622",
@@ -59,6 +59,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4e96e36c4e9e642e977693fde3a83a9de4e33c9082297391ebdf5aedd4f7d560"
+        "workshopdepotdecryptionkey": ""
     }
 }
