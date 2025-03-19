@@ -4,23 +4,23 @@
     "name": "Dwarves: Glory, Death and Loot",
     "schinese_name": "矮人军团自走棋",
     "isfreeapp": "0",
-    "change_number": "27538717",
-    "update_time": "2025-02-19 01:08:12",
+    "change_number": "27980987",
+    "update_time": "2025-03-16 21:25:40",
     "depot": {
         "2205851": {
             "manifests": {
                 "public": {
-                    "gid": "8185190522957737379",
-                    "size": "708903238",
-                    "download": "372822480"
+                    "gid": "2839458646108401163",
+                    "size": "707848705",
+                    "download": "372764560"
                 }
             },
             "decryptionkey": "6caee33f10c2edb7b58d1547d0271cb4c223d129449878651a2dd283c02e1460"
         },
         "branches": {
             "public": {
-                "buildid": "17423298",
-                "timeupdated": "1739972526"
+                "buildid": "17742945",
+                "timeupdated": "1742131534"
             }
         }
     }
