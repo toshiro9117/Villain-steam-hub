@@ -4,8 +4,8 @@
     "name": "Crowbar Climber",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27513268",
-    "update_time": "2025-02-17 18:14:20",
+    "change_number": "27762517",
+    "update_time": "2025-03-04 06:16:54",
     "depot": {
         "3285301": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8266122173764827212",
-                    "size": "834679670",
-                    "download": "170643456"
+                    "gid": "8625408081391470869",
+                    "size": "907010250",
+                    "download": "182166560"
                 }
             },
             "decryptionkey": "d51efd89027b5fdeeef81d6aa001a03a29760b9ce9d36874ea7c13336463e629"
         },
         "branches": {
             "public": {
-                "buildid": "17347730",
-                "timeupdated": "1739491280"
+                "buildid": "17532550",
+                "timeupdated": "1740706271"
             }
         },
         "privatebranches": "1"
