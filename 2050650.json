@@ -4,8 +4,8 @@
     "name": "Resident Evil 4",
     "schinese_name": "生化危机4：重制版",
     "isfreeapp": "0",
-    "change_number": "27413961",
-    "update_time": "2025-02-11 13:17:45",
+    "change_number": "27963622",
+    "update_time": "2025-03-15 03:20:48",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,arabic,brazilian,latam",
         "228988": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8614591153569085301",
-                    "size": "59518186380",
-                    "download": "55184087456"
+                    "gid": "542357299209751671",
+                    "size": "61422963837",
+                    "download": "56600860208"
                 }
             },
             "decryptionkey": "c3bc4be6ae2c98c50f2ba78469906e43be35b408daf8d49f420aaf6cad275b2b"
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "513184543741923657",
-                    "size": "61841054322",
-                    "download": "55243947600"
+                    "gid": "6176917678100737873",
+                    "size": "64908804701",
+                    "download": "56663377520"
                 }
             },
             "decryptionkey": "56b9ebbf0f22a11346e420e85c5b9d7e252e3981b4887aa0511bb237c8b2331c"
@@ -47,9 +47,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4756862649215238992",
-                    "size": "2455786473",
-                    "download": "2044818848"
+                    "gid": "7108738021112316256",
+                    "size": "555380994",
+                    "download": "261873952"
                 }
             },
             "decryptionkey": "219060cb9daf307498b27b009af1468282599d2d3fdf2b23729c0bd833b84053"
@@ -60,9 +60,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "915149322415668612",
-                    "size": "3627452643",
-                    "download": "3229381760"
+                    "gid": "4152569296804840016",
+                    "size": "1705397008",
+                    "download": "1432453968"
                 }
             },
             "decryptionkey": "cca460bcec8cc6fecefd24495f686004d921114b58aa3869f6832eb5f5e2612c"
@@ -370,8 +370,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12302315",
-                "timeupdated": "1696226488"
+                "buildid": "16812595",
+                "timeupdated": "1741050279"
             }
         },
         "privatebranches": "1"
