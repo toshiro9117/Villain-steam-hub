@@ -4,8 +4,8 @@
     "name": "Ancient Cities",
     "schinese_name": "Ancient Cities  古城",
     "isfreeapp": "0",
-    "change_number": "27732149",
-    "update_time": "2025-03-01 18:53:49",
+    "change_number": "27761777",
+    "update_time": "2025-03-04 05:22:18",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,spanish",
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "8d770b5a753447ba2d7697aae8b51d1c67a89a9db973c584948a06987e4d70e2"
+        "workshopdepotdecryptionkey": ""
     }
 }
