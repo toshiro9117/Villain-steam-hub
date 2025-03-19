@@ -4,8 +4,8 @@
     "name": "Angels with Scaly Wings",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27363122",
-    "update_time": "2025-02-07 20:29:00",
+    "change_number": "28009119",
+    "update_time": "2025-03-18 16:24:05",
     "depot": {
         "228986": {
             "config": {
@@ -17,9 +17,9 @@
         "571881": {
             "manifests": {
                 "public": {
-                    "gid": "7019781147701666971",
-                    "size": "2343267622",
-                    "download": "1849494528"
+                    "gid": "375037068513365480",
+                    "size": "1404791035",
+                    "download": "1296573872"
                 },
                 "beta": {
                     "gid": "759636181950165678",
@@ -59,8 +59,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "15367757",
-                "timeupdated": "1723635390"
+                "buildid": "17762432",
+                "timeupdated": "1742286240"
             },
             "beta": {
                 "buildid": "14740345",
@@ -74,6 +74,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "cb63b640560a854086c7bb11a448629505804bf9956bda99cb2a7116d74c2f3c"
+        "workshopdepotdecryptionkey": ""
     }
 }
