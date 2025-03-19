@@ -4,23 +4,23 @@
     "name": "Mannequin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27529281",
-    "update_time": "2025-02-18 15:10:48",
+    "change_number": "27969610",
+    "update_time": "2025-03-15 13:24:02",
     "depot": {
         "2409261": {
             "manifests": {
                 "public": {
-                    "gid": "4736786520431869541",
-                    "size": "9134507628",
-                    "download": "6775962560"
+                    "gid": "8272538930296090061",
+                    "size": "7398950541",
+                    "download": "6479743968"
                 }
             },
             "decryptionkey": "3241b41bcf2432af62bbabedbb209c3b5a1868e596412b4522a51331f851f4e3"
         },
         "branches": {
             "public": {
-                "buildid": "17155443",
-                "timeupdated": "1738245339"
+                "buildid": "17544905",
+                "timeupdated": "1740744315"
             }
         },
         "privatebranches": "1"
