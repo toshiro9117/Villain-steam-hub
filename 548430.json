@@ -4,8 +4,8 @@
     "name": "Deep Rock Galactic",
     "schinese_name": "深岩银河",
     "isfreeapp": "0",
-    "change_number": "27729397",
-    "update_time": "2025-03-01 11:34:50",
+    "change_number": "27995236",
+    "update_time": "2025-03-17 22:16:36",
     "depot": {
         "228986": {
             "config": {
@@ -29,27 +29,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6973933428719688386",
-                    "size": "3669223290",
-                    "download": "3332382064"
+                    "gid": "5384538231234591937",
+                    "size": "3669441500",
+                    "download": "3332717648"
                 },
                 "drg_legacy": {
-                    "gid": "2443177945167887010",
-                    "size": "4700285237",
-                    "download": "4217535424"
+                    "gid": "7513045820411102447",
+                    "size": "4700503447",
+                    "download": "4217871008"
                 }
             },
             "decryptionkey": "73ef10dc344cb7fb34be23aea35b20fbb2b32b0db50650919c7e3d731e759aad"
         },
         "branches": {
             "public": {
-                "buildid": "17529059",
-                "timeupdated": "1740652732"
+                "buildid": "17601020",
+                "timeupdated": "1741683869"
             },
             "drg_legacy": {
-                "buildid": "17529671",
+                "buildid": "17690485",
                 "description": "DRG + 2018 Legacy Edition",
-                "timeupdated": "1740653916"
+                "timeupdated": "1741772244"
             }
         },
         "privatebranches": "1"
