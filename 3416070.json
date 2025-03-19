@@ -4,23 +4,23 @@
     "name": "Ropuka's Idle Island",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725153",
-    "update_time": "2025-03-01 04:28:12",
+    "change_number": "28005224",
+    "update_time": "2025-03-18 09:55:14",
     "depot": {
         "3416071": {
             "manifests": {
                 "public": {
-                    "gid": "3012981228353096151",
-                    "size": "229042492",
-                    "download": "94309104"
+                    "gid": "384630284574516919",
+                    "size": "229281212",
+                    "download": "94324240"
                 }
             },
             "decryptionkey": "dd9c9acd29a60cf2cd7bf22e51433362f2e97ba5fdadfa5734087bd224683daf"
         },
         "branches": {
             "public": {
-                "buildid": "17552298",
-                "timeupdated": "1740774487"
+                "buildid": "17708947",
+                "timeupdated": "1741870587"
             }
         },
         "privatebranches": "1"
