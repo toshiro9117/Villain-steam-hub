@@ -4,23 +4,23 @@
     "name": "Witch and Council : The Card",
     "schinese_name": "魔女与学生会：卡牌之战",
     "isfreeapp": "0",
-    "change_number": "27721443",
-    "update_time": "2025-03-01 00:42:28",
+    "change_number": "27978632",
+    "update_time": "2025-03-16 13:55:20",
     "depot": {
         "1775361": {
             "manifests": {
                 "public": {
-                    "gid": "3591754932456413893",
-                    "size": "7224464451",
-                    "download": "550128928"
+                    "gid": "7408164408452086600",
+                    "size": "8017836117",
+                    "download": "620476512"
                 }
             },
             "decryptionkey": "a052dd5b288c0ccdf29906a15737eb3c7eed78829bf63c4cdd078951111871ca"
         },
         "branches": {
             "public": {
-                "buildid": "17125960",
-                "timeupdated": "1737762148"
+                "buildid": "17652977",
+                "timeupdated": "1741539288"
             }
         },
         "privatebranches": "1"
