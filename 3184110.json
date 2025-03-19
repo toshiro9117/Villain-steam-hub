@@ -4,15 +4,15 @@
     "name": "Widget Inc.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731742",
-    "update_time": "2025-03-01 17:46:29",
+    "change_number": "27783086",
+    "update_time": "2025-03-05 05:56:36",
     "depot": {
         "3184111": {
             "manifests": {
                 "public": {
-                    "gid": "7683634357927319698",
-                    "size": "195857114",
-                    "download": "95436320"
+                    "gid": "2596430721633287445",
+                    "size": "195857482",
+                    "download": "95435904"
                 },
                 "language-beta": {
                     "gid": "1628788111952409346",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17473933",
-                "timeupdated": "1740320599"
+                "buildid": "17595256",
+                "timeupdated": "1741125391"
             },
             "language-beta": {
                 "buildid": "16785600",
