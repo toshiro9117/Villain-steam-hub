@@ -4,8 +4,8 @@
     "name": "Terraria",
     "schinese_name": "泰拉瑞亚",
     "isfreeapp": "0",
-    "change_number": "27527527",
-    "update_time": "2025-02-18 12:03:08",
+    "change_number": "27879703",
+    "update_time": "2025-03-11 05:38:06",
     "depot": {
         "overridescddb": "1",
         "105601": {
@@ -118,6 +118,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "b2e8550a65d11a0766af8031eff5de2f979f958a5343319070008a728cfe9150"
+        "workshopdepotdecryptionkey": ""
     }
 }
