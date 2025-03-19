@@ -4,23 +4,32 @@
     "name": "ReSetna",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726138",
-    "update_time": "2025-03-01 05:46:11",
+    "change_number": "28003479",
+    "update_time": "2025-03-18 07:19:04",
     "depot": {
+        "hasdepotsindlc": "1",
         "2936081": {
             "manifests": {
                 "public": {
-                    "gid": "3966355634046336900",
-                    "size": "23946693012",
-                    "download": "10985718496"
+                    "gid": "6998840091275685246",
+                    "size": "24096555157",
+                    "download": "11046130672"
                 }
             },
             "decryptionkey": "cb2163bacefaccd77ee61cba9322358f3c6632597c7d978e284c783463e27190"
         },
+        "3589800": {
+            "dlcappid": "3589800",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "17516699",
-                "timeupdated": "1740586308"
+                "buildid": "17714784",
+                "timeupdated": "1741898471"
             }
         },
         "privatebranches": "1"
