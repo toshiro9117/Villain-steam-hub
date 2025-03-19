@@ -4,8 +4,8 @@
     "name": "House Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27198768",
-    "update_time": "2025-01-28 18:23:07",
+    "change_number": "27996066",
+    "update_time": "2025-03-17 22:39:49",
     "depot": {
         "1244631": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "393feff359e86d26bd69d6c642e87351d9e7f864475440b3c911f4ef376f107a"
+        "workshopdepotdecryptionkey": ""
     }
 }
