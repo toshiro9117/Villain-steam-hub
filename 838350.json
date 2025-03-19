@@ -4,8 +4,8 @@
     "name": "太吾绘卷 The Scroll Of Taiwu",
     "schinese_name": "太吾绘卷 ",
     "isfreeapp": "0",
-    "change_number": "27436135",
-    "update_time": "2025-02-12 17:24:35",
+    "change_number": "28011534",
+    "update_time": "2025-03-18 18:53:51",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "schinese",
@@ -117,6 +117,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bf086ed374abbdc30220a8965af14256dd7f48cb48cfe8f47d4f1eaedc79fd2e"
+        "workshopdepotdecryptionkey": ""
     }
 }
