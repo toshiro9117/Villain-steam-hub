@@ -4,8 +4,8 @@
     "name": "Hard Bullet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536647",
-    "update_time": "2025-02-18 23:08:11",
+    "change_number": "28006424",
+    "update_time": "2025-03-18 11:55:34",
     "depot": {
         "1294761": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7567978970229669207",
-                    "size": "19856433148",
-                    "download": "7462840144"
+                    "gid": "8452477886606172569",
+                    "size": "19863166840",
+                    "download": "7468670800"
                 },
                 "2020": {
                     "gid": "544039634567335500",
@@ -53,19 +53,14 @@
                     "gid": "1364788504415157210",
                     "size": "12441513349",
                     "download": "4903115072"
-                },
-                "preview": {
-                    "gid": "253450047573006409",
-                    "size": "13074151716",
-                    "download": "4989137344"
                 }
             },
             "decryptionkey": "8b64986de50b2544da769e174eac8b083ddca7e9d9bc080b9122a7c4ed0c5627"
         },
         "branches": {
             "public": {
-                "buildid": "17027836",
-                "timeupdated": "1737046602"
+                "buildid": "17725091",
+                "timeupdated": "1741955691"
             },
             "2020": {
                 "buildid": "6026070",
@@ -101,11 +96,6 @@
                 "buildid": "6569678",
                 "description": "April 2021",
                 "timeupdated": "1627598620"
-            },
-            "preview": {
-                "buildid": "17420604",
-                "description": "Public Beta",
-                "timeupdated": "1739959607"
             }
         },
         "privatebranches": "1"
