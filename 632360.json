@@ -4,8 +4,8 @@
     "name": "Risk of Rain 2",
     "schinese_name": "雨中冒险 2",
     "isfreeapp": "0",
-    "change_number": "27730196",
-    "update_time": "2025-03-01 13:35:09",
+    "change_number": "28006822",
+    "update_time": "2025-03-18 12:41:26",
     "depot": {
         "228988": {
             "config": {
@@ -22,17 +22,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5418745512668761974",
-                    "size": "2507854034",
-                    "download": "1970762080"
+                    "gid": "6971805131910532689",
+                    "size": "2499158762",
+                    "download": "1969579504"
                 }
             },
             "decryptionkey": "074d702b52f219d0d3440d09a1ded40e4ab4468c8a77b96dd97b1467a3e1a9f0"
         },
         "branches": {
             "public": {
-                "buildid": "16545291",
-                "timeupdated": "1733853291"
+                "buildid": "17431597",
+                "timeupdated": "1741118273"
             }
         },
         "privatebranches": "1"
