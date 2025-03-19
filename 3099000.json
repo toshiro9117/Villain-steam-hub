@@ -4,8 +4,8 @@
     "name": "Guns of Fury",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27719290",
-    "update_time": "2025-02-28 22:45:42",
+    "change_number": "27949161",
+    "update_time": "2025-03-14 12:55:50",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,japanese",
         "3099001": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5885244387317395303",
-                    "size": "143733559",
-                    "download": "118325824"
+                    "gid": "7890564266735232613",
+                    "size": "144093395",
+                    "download": "118548592"
                 }
             },
             "decryptionkey": "b796e08fa994d42f500dfea5db6515409779cc50c6e94a719f862ed2d2c0af43"
         },
         "branches": {
             "public": {
-                "buildid": "17471073",
-                "timeupdated": "1740289233"
+                "buildid": "17643679",
+                "timeupdated": "1741458807"
             }
         },
         "privatebranches": "1"
