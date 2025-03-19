@@ -4,24 +4,24 @@
     "name": "Critter Cove",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27717911",
-    "update_time": "2025-02-28 21:22:38",
+    "change_number": "27990805",
+    "update_time": "2025-03-17 17:49:53",
     "depot": {
         "baselanguages": "english",
         "1631471": {
             "manifests": {
                 "public": {
-                    "gid": "1112865297574658722",
-                    "size": "8834204015",
-                    "download": "5154396352"
+                    "gid": "1096759078795549301",
+                    "size": "8847982643",
+                    "download": "5162045440"
                 }
             },
             "decryptionkey": "8b00ecf62bfe27a6bcabe7faf4de530264e9a53e43636774ef84f6d091c750d9"
         },
         "branches": {
             "public": {
-                "buildid": "17440206",
-                "timeupdated": "1740061924"
+                "buildid": "17722063",
+                "timeupdated": "1741956477"
             }
         },
         "privatebranches": "1"
