@@ -4,8 +4,8 @@
     "name": "SOMA",
     "schinese_name": "活体脑细胞",
     "isfreeapp": "0",
-    "change_number": "27252596",
-    "update_time": "2025-01-31 20:12:49",
+    "change_number": "27852302",
+    "update_time": "2025-03-09 01:02:25",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "282140",
@@ -159,6 +159,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "9b74fa740cedb2e7937db9930835cbdd9c008f4f956037fee78997a77b1b1227"
+        "workshopdepotdecryptionkey": ""
     }
 }
