@@ -4,8 +4,8 @@
     "name": "Rail Route",
     "schinese_name": "铁路调度模拟器",
     "isfreeapp": "0",
-    "change_number": "27723816",
-    "update_time": "2025-03-01 02:57:27",
+    "change_number": "28012144",
+    "update_time": "2025-03-18 19:33:45",
     "depot": {
         "1124182": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2327350083628704701",
-                    "size": "693582473",
-                    "download": "357358176"
+                    "gid": "2652154478766663615",
+                    "size": "717190095",
+                    "download": "366144208"
                 },
                 "backwards": {
                     "gid": "2363736434745554034",
@@ -78,6 +78,11 @@
                     "size": "575603495",
                     "download": "287896656"
                 },
+                "next_unity": {
+                    "gid": "3947179997528559566",
+                    "size": "717157009",
+                    "download": "366118512"
+                },
                 "rr_00": {
                     "gid": "4263285142031124312",
                     "size": "684098365",
@@ -87,6 +92,11 @@
                     "gid": "2363736434745554034",
                     "size": "693597344",
                     "download": "357445072"
+                },
+                "rr_02": {
+                    "gid": "2327350083628704701",
+                    "size": "693582473",
+                    "download": "357358176"
                 }
             },
             "decryptionkey": "81bb06ebf8b5dd9a399a9d53dcc4757d72d52e79abf196618e56468ecd339e95"
@@ -98,9 +108,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5489317056376778553",
-                    "size": "744722620",
-                    "download": "369399648"
+                    "gid": "2345160915205974380",
+                    "size": "768318033",
+                    "download": "378120432"
                 },
                 "backwards": {
                     "gid": "8980331352606939868",
@@ -162,6 +172,11 @@
                     "size": "602666316",
                     "download": "296019232"
                 },
+                "next_unity": {
+                    "gid": "5341379117169903769",
+                    "size": "768266543",
+                    "download": "378182704"
+                },
                 "rr_00": {
                     "gid": "8559890702204583876",
                     "size": "735197889",
@@ -171,6 +186,11 @@
                     "gid": "8980331352606939868",
                     "size": "744686113",
                     "download": "369403632"
+                },
+                "rr_02": {
+                    "gid": "5489317056376778553",
+                    "size": "744722620",
+                    "download": "369399648"
                 }
             },
             "decryptionkey": "8f80b57f698bd67ec3f502fb703dfca2f502c9223f1e7f6cbd2c43fe809229bc"
@@ -182,9 +202,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8841884563631138986",
-                    "size": "722983343",
-                    "download": "354671664"
+                    "gid": "8965608819721728811",
+                    "size": "746579225",
+                    "download": "363369312"
                 },
                 "backwards": {
                     "gid": "6942664869710475181",
@@ -246,6 +266,11 @@
                     "size": "620288054",
                     "download": "288988992"
                 },
+                "next_unity": {
+                    "gid": "3046183938516617285",
+                    "size": "746221328",
+                    "download": "363279360"
+                },
                 "rr_00": {
                     "gid": "4479443117613408925",
                     "size": "713534000",
@@ -255,6 +280,11 @@
                     "gid": "6942664869710475181",
                     "size": "723017827",
                     "download": "354753024"
+                },
+                "rr_02": {
+                    "gid": "8841884563631138986",
+                    "size": "722983343",
+                    "download": "354671664"
                 }
             },
             "decryptionkey": "b034d6a660d0f077240a0059876177ac31e50ac363f6f328f44eb16ef9d950fd"
@@ -262,8 +292,8 @@
         "workshopdepot": "1124180",
         "branches": {
             "public": {
-                "buildid": "17170812",
-                "timeupdated": "1738159846"
+                "buildid": "17756109",
+                "timeupdated": "1742297617"
             },
             "backwards": {
                 "buildid": "14562081",
@@ -325,6 +355,11 @@
                 "description": "Early Access Update 18 (1.18.13)",
                 "timeupdated": "1716199465"
             },
+            "next_unity": {
+                "buildid": "17708191",
+                "description": "Published version built by next Unity version",
+                "timeupdated": "1741866043"
+            },
             "rr_00": {
                 "buildid": "14334888",
                 "description": "Full Release (2.0.20)",
@@ -334,9 +369,14 @@
                 "buildid": "14562081",
                 "description": "Update 1 (2.1.21)",
                 "timeupdated": "1728916292"
+            },
+            "rr_02": {
+                "buildid": "17170812",
+                "description": "Update 2 (2.2.10)",
+                "timeupdated": "1741816352"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "dc3cca428261e662f28d43a2c0fea65b846eb96d77a9ffbbac897c9f5ad902b2"
+        "workshopdepotdecryptionkey": ""
     }
 }
