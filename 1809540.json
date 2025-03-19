@@ -4,8 +4,8 @@
     "name": "Nine Sols",
     "schinese_name": "九日",
     "isfreeapp": "0",
-    "change_number": "27534042",
-    "update_time": "2025-02-18 20:32:20",
+    "change_number": "28007162",
+    "update_time": "2025-03-18 13:21:03",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3517913580673185839",
-                    "size": "6574544275",
-                    "download": "3950815504"
+                    "gid": "9212361079301621773",
+                    "size": "6574413870",
+                    "download": "3950742784"
                 }
             },
             "decryptionkey": "6c41504f601faddc7ec40aff4688b9ee9e34c37f2ab46b882880cbcc76a8eb40"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8521552231039670227",
-                    "size": "6601761383",
-                    "download": "3956897232"
+                    "gid": "2663029198830131753",
+                    "size": "6601674308",
+                    "download": "3956825824"
                 },
                 "local": {
                     "gid": "1410053766624351650",
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17403777",
-                "timeupdated": "1739944161"
+                "buildid": "17662752",
+                "timeupdated": "1741667841"
             },
             "local": {
                 "buildid": "8221279",
