@@ -4,17 +4,17 @@
     "name": "The Last Flame",
     "schinese_name": "将熄之焰 The Last Flame",
     "isfreeapp": "0",
-    "change_number": "27527178",
-    "update_time": "2025-02-18 11:25:33",
+    "change_number": "28001552",
+    "update_time": "2025-03-18 04:27:17",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
         "1830971": {
             "manifests": {
                 "public": {
-                    "gid": "4428796450348104526",
-                    "size": "5325939623",
-                    "download": "1873673824"
+                    "gid": "7912886869978550519",
+                    "size": "5331213167",
+                    "download": "1874030560"
                 }
             },
             "decryptionkey": "f7ef2e3ef26e54cdea6c86bcf9f73af26e43faacd6ce3dfdbfb60c599bc2034f"
@@ -22,8 +22,8 @@
         "1830972": {},
         "branches": {
             "public": {
-                "buildid": "17301246",
-                "timeupdated": "1739385966"
+                "buildid": "17756502",
+                "timeupdated": "1742243232"
             }
         },
         "privatebranches": "1"
