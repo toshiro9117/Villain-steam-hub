@@ -4,8 +4,8 @@
     "name": "The friends of Ringo Ishikawa",
     "schinese_name": "石河伦吾的朋友",
     "isfreeapp": "0",
-    "change_number": "27498951",
-    "update_time": "2025-02-16 08:15:17",
+    "change_number": "27760222",
+    "update_time": "2025-03-04 03:17:39",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "987985699129858493",
-                    "size": "129189256",
-                    "download": "106934400"
+                    "gid": "97517859569322942",
+                    "size": "129179912",
+                    "download": "106937216"
                 },
                 "before_ex": {
                     "gid": "4621490429406714466",
@@ -83,8 +83,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17427777",
-                "timeupdated": "1739995055"
+                "buildid": "17578748",
+                "timeupdated": "1741029319"
             },
             "before_ex": {
                 "buildid": "14948388",
