@@ -4,8 +4,8 @@
     "name": "Shredders",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536171",
-    "update_time": "2025-02-18 22:40:10",
+    "change_number": "27903392",
+    "update_time": "2025-03-12 11:23:57",
     "depot": {
         "228988": {
             "config": {
@@ -18,9 +18,9 @@
         "1874171": {
             "manifests": {
                 "public": {
-                    "gid": "7807586337078469035",
-                    "size": "22015286930",
-                    "download": "13145427536"
+                    "gid": "8925527010672089358",
+                    "size": "22315103016",
+                    "download": "13349447216"
                 },
                 "steamdeck": {
                     "gid": "7294875257857819836",
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16656490",
-                "timeupdated": "1734188899"
+                "buildid": "17434863",
+                "timeupdated": "1740598168"
             },
             "steamdeck": {
                 "buildid": "12772925",
