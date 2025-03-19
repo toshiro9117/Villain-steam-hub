@@ -4,8 +4,8 @@
     "name": "Pathfinder: Wrath of the Righteous - The Last Sarkorians",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540823",
-    "update_time": "2025-02-19 03:16:57",
+    "change_number": "27890860",
+    "update_time": "2025-03-11 20:51:47",
     "depot": {
         "2266771": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2589374501818662175",
-                    "size": "1045258563",
-                    "download": "828452256"
+                    "gid": "3822552792460675682",
+                    "size": "1045184429",
+                    "download": "828290864"
                 },
                 "2.1.5r": {
                     "gid": "6279353597277787084",
@@ -47,7 +47,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5102100555438546102",
+                    "gid": "685377743420689365",
                     "size": "1045277573",
                     "download": "828378608"
                 },
@@ -77,8 +77,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16759061",
-                "timeupdated": "1734353577"
+                "buildid": "17412111",
+                "timeupdated": "1741697501"
             },
             "2.1.5r": {
                 "buildid": "11774175",
