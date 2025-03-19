@@ -4,15 +4,15 @@
     "name": "JR EAST Train Simulator: Utsunomiya Line (Kuroiso to Tokyo) E233-3000 series",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27533822",
-    "update_time": "2025-02-18 20:20:06",
+    "change_number": "28008357",
+    "update_time": "2025-03-18 15:22:38",
     "depot": {
         "3166711": {
             "manifests": {
                 "public": {
-                    "gid": "5839965968729644452",
-                    "size": "587460528",
-                    "download": "427038176"
+                    "gid": "1010404004087928328",
+                    "size": "691772768",
+                    "download": "532744464"
                 }
             },
             "dlcappid": "3166710",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16561081",
-                "timeupdated": "1732780368"
+                "buildid": "17525851",
+                "timeupdated": "1740646553"
             }
         },
         "privatebranches": "1"
