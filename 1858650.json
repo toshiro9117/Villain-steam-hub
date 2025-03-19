@@ -4,23 +4,23 @@
     "name": "In Sink",
     "schinese_name": "合力逃脱",
     "isfreeapp": "0",
-    "change_number": "27716641",
-    "update_time": "2025-02-28 20:05:22",
+    "change_number": "27978485",
+    "update_time": "2025-03-16 13:27:50",
     "depot": {
         "1858652": {
             "manifests": {
                 "public": {
-                    "gid": "8046419489424769277",
-                    "size": "3172539769",
-                    "download": "382766208"
+                    "gid": "1988951095624207870",
+                    "size": "3394290001",
+                    "download": "424092672"
                 }
             },
             "decryptionkey": "7559977939e30619429f880437084991c4f807e755c509ca88987b500426198d"
         },
         "branches": {
             "public": {
-                "buildid": "17264025",
-                "timeupdated": "1739266088"
+                "buildid": "17741059",
+                "timeupdated": "1742102865"
             }
         },
         "privatebranches": "1"
