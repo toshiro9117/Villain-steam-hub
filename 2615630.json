@@ -4,8 +4,8 @@
     "name": "Global Farmer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27460760",
-    "update_time": "2025-02-13 22:13:56",
+    "change_number": "27975710",
+    "update_time": "2025-03-16 04:55:45",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "2615630",
@@ -17,9 +17,9 @@
                     "download": "1062286416"
                 },
                 "experimental": {
-                    "gid": "5137171375729166556",
-                    "size": "2996564750",
-                    "download": "1062286416"
+                    "gid": "3210596777179949058",
+                    "size": "2997664366",
+                    "download": "1062310896"
                 },
                 "previous-version": {
                     "gid": "740980150498295050",
@@ -275,9 +275,9 @@
                 "timeupdated": "1734707654"
             },
             "experimental": {
-                "buildid": "16804669",
+                "buildid": "17352955",
                 "description": "experimental builds for testing",
-                "timeupdated": "1734705899"
+                "timeupdated": "1741705482"
             },
             "previous-version": {
                 "buildid": "16541464",
@@ -287,6 +287,6 @@
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": "0030ea2828ff221d80494d46301ca38de4b71aa4343bf21715258d0fff53de9d"
+        "workshopdepotdecryptionkey": ""
     }
 }
