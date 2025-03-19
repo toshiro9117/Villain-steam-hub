@@ -4,8 +4,8 @@
     "name": "Receiver",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27121155",
-    "update_time": "2025-01-23 08:02:26",
+    "change_number": "27863824",
+    "update_time": "2025-03-10 09:49:14",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -241,6 +241,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "93b5f8a468936ffcc81a1129604659ce6240714871726605ceef7a4d4a64ddde"
+        "workshopdepotdecryptionkey": ""
     }
 }
