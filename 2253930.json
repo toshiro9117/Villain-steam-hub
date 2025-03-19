@@ -4,9 +4,10 @@
     "name": "Kamikaze Lassplanes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27380042",
-    "update_time": "2025-02-09 00:29:33",
+    "change_number": "27903161",
+    "update_time": "2025-03-12 11:02:22",
     "depot": {
+        "hasdepotsindlc": "1",
         "2253931": {
             "manifests": {
                 "public": {
@@ -16,6 +17,9 @@
                 }
             },
             "decryptionkey": "be43d2ec2928a93cfcb96cdb9b4fc2653b53b7b2a9dca4fd13458f67caf8c3a7"
+        },
+        "3570310": {
+            "dlcappid": "3570310"
         },
         "branches": {
             "public": {
