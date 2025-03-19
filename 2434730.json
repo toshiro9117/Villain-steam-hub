@@ -4,8 +4,8 @@
     "name": "EZ-Crosshair",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27541194",
-    "update_time": "2025-02-19 03:43:37",
+    "change_number": "28001895",
+    "update_time": "2025-03-18 04:56:22",
     "depot": {
         "2434731": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "284510524833098317",
-                    "size": "368464305",
-                    "download": "171728208"
+                    "gid": "6095564373070458676",
+                    "size": "368764639",
+                    "download": "171768032"
                 }
             },
             "decryptionkey": "bd3da6521f6d06467aaf9a06cd67482719cd2d9b55d786bab061744a3354d7a8"
@@ -23,10 +23,10 @@
         "workshopdepot": "2434730",
         "branches": {
             "public": {
-                "buildid": "17467410",
-                "timeupdated": "1740233750"
+                "buildid": "17736725",
+                "timeupdated": "1742039450"
             }
         },
-        "workshopdepotdecryptionkey": "f48ee34adc7f5f2fda8d39c95b03b6531f1bf13b1ee3fdaf28ecc114b728b38d"
+        "workshopdepotdecryptionkey": ""
     }
 }
