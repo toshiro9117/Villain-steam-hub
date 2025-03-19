@@ -4,24 +4,24 @@
     "name": "ShapeHero Factory",
     "schinese_name": "ShapeHero Factory 涂鸦英雄工厂",
     "isfreeapp": "0",
-    "change_number": "27714262",
-    "update_time": "2025-02-28 17:44:03",
+    "change_number": "27836563",
+    "update_time": "2025-03-07 22:09:02",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
         "2389041": {
             "manifests": {
                 "public": {
-                    "gid": "5651959025926135964",
-                    "size": "768203831",
-                    "download": "369945216"
+                    "gid": "2471443665638369347",
+                    "size": "768216602",
+                    "download": "369969696"
                 }
             },
             "decryptionkey": "e02efa2085a6430f99abd6920f993e651b6e7c6d4ea524a92eba66a689f5ae59"
         },
         "branches": {
             "public": {
-                "buildid": "17526224",
-                "timeupdated": "1740711435"
+                "buildid": "17614276",
+                "timeupdated": "1741325650"
             }
         },
         "privatebranches": "1"
