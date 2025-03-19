@@ -4,8 +4,8 @@
     "name": "Human Fall Flat",
     "schinese_name": "人类一败涂地 / Human Fall Flat",
     "isfreeapp": "0",
-    "change_number": "27713048",
-    "update_time": "2025-02-28 16:51:14",
+    "change_number": "28010768",
+    "update_time": "2025-03-18 18:02:03",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,turkish,brazilian,ukrainian",
         "workshopdepot": "477160",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3380314751591059485",
-                    "size": "5051113393",
-                    "download": "1566243536"
+                    "gid": "1479486640071712997",
+                    "size": "5114080908",
+                    "download": "1606461296"
                 }
             },
             "decryptionkey": "8bc8773aa491fcab031c973d15bae81a5139cd9d28bdbe82776e9f39dba071d1"
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5373221701101642323",
-                    "size": "5069194819",
-                    "download": "1574323968"
+                    "gid": "5032850342757795979",
+                    "size": "5132162334",
+                    "download": "1614527696"
                 }
             },
             "decryptionkey": "3e1b0a746178eda39e69d130aac41e225a61f7777ccd8907b3b81f02918242ac"
@@ -97,11 +97,11 @@
         },
         "branches": {
             "public": {
-                "buildid": "17144222",
-                "timeupdated": "1738076633"
+                "buildid": "17691395",
+                "timeupdated": "1741867532"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "6183f2ec8046e4576180f01e2e88d7934ca49dc5db95f178bc343e50c852b770"
+        "workshopdepotdecryptionkey": ""
     }
 }
