@@ -4,23 +4,23 @@
     "name": "Zombie War:New World",
     "schinese_name": "七日求生：新世界",
     "isfreeapp": "0",
-    "change_number": "26910463",
-    "update_time": "2025-01-09 00:18:13",
+    "change_number": "27972452",
+    "update_time": "2025-03-15 21:13:19",
     "depot": {
         "3057401": {
             "manifests": {
                 "public": {
-                    "gid": "1462262455788547261",
-                    "size": "1641845007",
-                    "download": "517898992"
+                    "gid": "3585438945945441334",
+                    "size": "2058432842",
+                    "download": "661670720"
                 }
             },
             "decryptionkey": "e8a27943cb2acd40759a12aa97189d2f84019dc6b7869cb7442e9d558e336c72"
         },
         "branches": {
             "public": {
-                "buildid": "17419966",
-                "timeupdated": "1739957107"
+                "buildid": "17737042",
+                "timeupdated": "1742044394"
             }
         }
     }
