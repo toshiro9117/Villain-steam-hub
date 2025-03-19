@@ -4,10 +4,10 @@
     "name": "The Last Game",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27191371",
-    "update_time": "2025-01-28 06:22:41",
+    "change_number": "27824310",
+    "update_time": "2025-03-07 06:23:36",
     "depot": {
-        "baselanguages": "english,french,spanish",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
         "2563801": {
             "config": {
                 "oslist": "windows",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2495127595338927030",
-                    "size": "102746648",
-                    "download": "37367648"
+                    "gid": "3684241781247673966",
+                    "size": "116025800",
+                    "download": "39459904"
                 }
             },
             "decryptionkey": "9d3d5574e946c291e66b5bb507aa9cbb6eac7a5b36d11d08f380d5416eba2137"
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6011120074514282417",
-                    "size": "177446611",
-                    "download": "53734144"
+                    "gid": "3095285371382469027",
+                    "size": "201126357",
+                    "download": "58073280"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17150700",
-                "timeupdated": "1738016557"
+                "buildid": "17600782",
+                "timeupdated": "1741161798"
             }
         }
     }
