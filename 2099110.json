@@ -4,12 +4,12 @@
     "name": "The Classrooms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725107",
-    "update_time": "2025-03-01 04:24:15",
+    "change_number": "28002385",
+    "update_time": "2025-03-18 05:36:39",
     "depot": {
         "2099111": {
             "config": {
-                "oslist": "windows",
+                "oslist": "windows,linux",
                 "osarch": "64"
             },
             "manifests": {
@@ -20,6 +20,13 @@
                 }
             },
             "decryptionkey": "f72beb8416791f32f5214aeca544d8e2b30321b3310de239f9ae824182d2a5a7"
+        },
+        "2099112": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
