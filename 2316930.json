@@ -2,10 +2,10 @@
     "appid": "2316930",
     "type": "Game",
     "name": "Beat the Humans",
-    "schinese_name": "",
+    "schinese_name": "干翻人类",
     "isfreeapp": "0",
-    "change_number": "27426575",
-    "update_time": "2025-02-12 03:43:32",
+    "change_number": "27983685",
+    "update_time": "2025-03-17 03:55:43",
     "depot": {
         "2316931": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1527919793517209822",
-                    "size": "413641908",
-                    "download": "142239728"
+                    "gid": "8004352086127961573",
+                    "size": "413650158",
+                    "download": "142245712"
                 }
             },
             "decryptionkey": "ab252894ee2012f793b12042b3d84275b6e347b58dcec60a017c7f97edd46501"
@@ -25,8 +25,8 @@
         "baselanguages": "russian",
         "branches": {
             "public": {
-                "buildid": "17326261",
-                "timeupdated": "1739303008"
+                "buildid": "17617099",
+                "timeupdated": "1741253372"
             }
         }
     }
