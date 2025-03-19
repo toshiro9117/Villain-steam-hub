@@ -4,8 +4,8 @@
     "name": "Bioweaver",
     "schinese_name": "原点计划：血肉工匠",
     "isfreeapp": "0",
-    "change_number": "27717260",
-    "update_time": "2025-02-28 20:40:44",
+    "change_number": "27928651",
+    "update_time": "2025-03-13 16:30:16",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "3177970",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5781483616332131969",
-                    "size": "708470807",
-                    "download": "477769552"
+                    "gid": "3445564270353100917",
+                    "size": "708469693",
+                    "download": "477766016"
                 }
             },
             "decryptionkey": "559e6e3450ca7058329648e9292f360d400970bf869e4a68440e07912d3ac476"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4735885599278859873",
-                    "size": "682404527",
-                    "download": "458869920"
+                    "gid": "5312766644235786273",
+                    "size": "682406850",
+                    "download": "458870016"
                 }
             },
             "decryptionkey": ""
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2823882404353079371",
-                    "size": "693513169",
-                    "download": "473910960"
+                    "gid": "5898105108806849399",
+                    "size": "693513908",
+                    "download": "473913360"
                 }
             },
             "decryptionkey": ""
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17545141",
-                "timeupdated": "1740738666"
+                "buildid": "17705688",
+                "timeupdated": "1741854611"
             }
         },
         "privatebranches": "1",
