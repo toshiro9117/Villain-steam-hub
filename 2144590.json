@@ -4,8 +4,8 @@
     "name": "Take Me, Vitaly",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27427102",
-    "update_time": "2025-02-12 04:25:10",
+    "change_number": "28010256",
+    "update_time": "2025-03-18 17:30:11",
     "depot": {
         "2144591": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1248958871067699509",
-                    "size": "2711736749",
-                    "download": "1126507056"
+                    "gid": "7606250078265860174",
+                    "size": "2947904446",
+                    "download": "1279219168"
                 }
             },
             "decryptionkey": "ad90799e27fcdab8e4951c4460f2695843849573e3d65a76e98fb209372e1acb"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8832392815275764105",
-                    "size": "2684684529",
-                    "download": "1118409712"
+                    "gid": "7424440601424781226",
+                    "size": "2920891235",
+                    "download": "1271128976"
                 }
             },
             "decryptionkey": ""
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "23044665775888414",
-                    "size": "3169822410",
-                    "download": "1376380976"
+                    "gid": "8198606418527961010",
+                    "size": "3013218360",
+                    "download": "1323544064"
                 }
             },
             "decryptionkey": ""
@@ -54,17 +54,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3913121104819421327",
-                    "size": "2807362432",
-                    "download": "1157515664"
+                    "gid": "6562065703140807024",
+                    "size": "2990282833",
+                    "download": "1294913824"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16871135",
-                "timeupdated": "1735496959"
+                "buildid": "17665524",
+                "timeupdated": "1741631847"
             }
         },
         "privatebranches": "1"
