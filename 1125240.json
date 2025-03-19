@@ -4,15 +4,15 @@
     "name": "Ancient Dungeon VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27124788",
-    "update_time": "2025-01-23 13:20:19",
+    "change_number": "27963814",
+    "update_time": "2025-03-15 03:31:47",
     "depot": {
         "1125241": {
             "manifests": {
                 "public": {
-                    "gid": "2925267171539885571",
-                    "size": "404830450",
-                    "download": "174023776"
+                    "gid": "279454321795182900",
+                    "size": "392747395",
+                    "download": "173596656"
                 },
                 "oldversion": {
                     "gid": "1843611368037147452",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16905974",
-                "timeupdated": "1735993648"
+                "buildid": "17730361",
+                "timeupdated": "1741980695"
             },
             "oldversion": {
                 "buildid": "10422098",
