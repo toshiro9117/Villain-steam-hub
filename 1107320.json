@@ -4,8 +4,8 @@
     "name": "OUTBRK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27732023",
-    "update_time": "2025-03-01 18:33:37",
+    "change_number": "27943901",
+    "update_time": "2025-03-14 05:56:46",
     "depot": {
         "baselanguages": "english,french",
         "1107321": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1134850200630655278",
-                    "size": "31193258738",
-                    "download": "22998542096"
+                    "gid": "7865525316379640228",
+                    "size": "33691741402",
+                    "download": "24664622352"
                 }
             },
             "decryptionkey": "6e3a930a48829c711299685f520f1f304a512102627facc243b6ff199e47906c"
         },
         "branches": {
             "public": {
-                "buildid": "17205132",
-                "timeupdated": "1738362855"
+                "buildid": "17631172",
+                "timeupdated": "1741364541"
             }
         },
         "privatebranches": "1"
