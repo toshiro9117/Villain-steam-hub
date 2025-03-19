@@ -4,8 +4,8 @@
     "name": "Dome Keeper",
     "schinese_name": "Dome Keeper 穹顶守护者",
     "isfreeapp": "0",
-    "change_number": "27728060",
-    "update_time": "2025-03-01 08:47:09",
+    "change_number": "27926616",
+    "update_time": "2025-03-13 13:45:04",
     "depot": {
         "workshopdepot": "1637320",
         "hasdepotsindlc": "1",
@@ -99,6 +99,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "51edc2419db29d00f4bf8e8b6b50218f85587bc2fa34483df694efa4e3e854b4"
+        "workshopdepotdecryptionkey": ""
     }
 }
