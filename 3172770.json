@@ -4,23 +4,23 @@
     "name": "Terrorbytes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27106335",
-    "update_time": "2025-01-22 13:28:14",
+    "change_number": "27976473",
+    "update_time": "2025-03-16 06:57:35",
     "depot": {
         "3172771": {
             "manifests": {
                 "public": {
-                    "gid": "8249373917544821169",
-                    "size": "2088675758",
-                    "download": "746224624"
+                    "gid": "931137598728926443",
+                    "size": "3156015723",
+                    "download": "1149718304"
                 }
             },
             "decryptionkey": "f9d73ff2a218f27f1b6316d4de06be8d4ab5354d77e8026b5f05b350a0d25c5f"
         },
         "branches": {
             "public": {
-                "buildid": "16777382",
-                "timeupdated": "1734463164"
+                "buildid": "17554691",
+                "timeupdated": "1740790748"
             }
         },
         "privatebranches": "1"
