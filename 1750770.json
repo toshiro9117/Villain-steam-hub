@@ -4,20 +4,20 @@
     "name": "Starcom: Unknown Space",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542203",
-    "update_time": "2025-02-19 04:56:15",
+    "change_number": "27945887",
+    "update_time": "2025-03-14 08:28:26",
     "depot": {
         "1750771": {
             "manifests": {
                 "public": {
-                    "gid": "4832826608590679199",
-                    "size": "2763155690",
-                    "download": "1739297696"
+                    "gid": "8814939428297753252",
+                    "size": "2763483848",
+                    "download": "1739352880"
                 },
                 "unstable_kepler": {
-                    "gid": "2951154701906696227",
-                    "size": "2763461111",
-                    "download": "1739351376"
+                    "gid": "8814939428297753252",
+                    "size": "2763483848",
+                    "download": "1739352880"
                 }
             },
             "decryptionkey": "14c59a14483bf41745ce97ea0a1ca33e57817e1f744d59aa9ff2a411111df765"
@@ -25,13 +25,13 @@
         "workshopdepot": "1750770",
         "branches": {
             "public": {
-                "buildid": "17307800",
-                "timeupdated": "1739197346"
+                "buildid": "17597191",
+                "timeupdated": "1741137507"
             },
             "unstable_kepler": {
-                "buildid": "17427260",
+                "buildid": "17597191",
                 "description": "Opt-in Beta",
-                "timeupdated": "1739992403"
+                "timeupdated": "1741137406"
             }
         },
         "privatebranches": "1",
