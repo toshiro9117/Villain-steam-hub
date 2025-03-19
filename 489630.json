@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Gladius - Relics of War",
     "schinese_name": "战锤40K：格雷迪厄斯-遗迹之战",
     "isfreeapp": "0",
-    "change_number": "27498956",
-    "update_time": "2025-02-16 08:16:18",
+    "change_number": "27987398",
+    "update_time": "2025-03-17 12:21:14",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian",
         "workshopdepot": "489630",
@@ -466,6 +466,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "de35a1a75ebf92e40ea43bb11248f578291c59f64eea9582935a1206eee600cc"
+        "workshopdepotdecryptionkey": ""
     }
 }
