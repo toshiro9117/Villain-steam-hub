@@ -4,8 +4,8 @@
     "name": "The Farmer Was Replaced",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27455333",
-    "update_time": "2025-02-13 16:46:56",
+    "change_number": "28010647",
+    "update_time": "2025-03-18 17:53:44",
     "depot": {
         "2060162": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5876243428828609262",
-                    "size": "141793639",
-                    "download": "45557776"
+                    "gid": "7580342790562735726",
+                    "size": "142896440",
+                    "download": "45575264"
                 },
                 "beta": {
-                    "gid": "5876243428828609262",
-                    "size": "141793639",
-                    "download": "45557776"
+                    "gid": "7580342790562735726",
+                    "size": "142896440",
+                    "download": "45575264"
                 },
                 "jul-2024": {
                     "gid": "2693703265569981095",
@@ -32,13 +32,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17348760",
-                "timeupdated": "1739436411"
+                "buildid": "17763496",
+                "timeupdated": "1742291617"
             },
             "beta": {
-                "buildid": "17348760",
+                "buildid": "17763496",
                 "description": "public beta branch",
-                "timeupdated": "1739436374"
+                "timeupdated": "1742291515"
             },
             "jul-2024": {
                 "buildid": "14934045",
