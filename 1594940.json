@@ -4,8 +4,8 @@
     "name": "Little Witch in the Woods",
     "schinese_name": "林中小女巫",
     "isfreeapp": "0",
-    "change_number": "27533745",
-    "update_time": "2025-02-18 20:12:35",
+    "change_number": "28013298",
+    "update_time": "2025-03-18 20:52:14",
     "depot": {
         "baselanguages": "koreana",
         "1594941": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9160949171299813340",
-                    "size": "2981411547",
-                    "download": "322986592"
+                    "gid": "3222903837517046177",
+                    "size": "3157636706",
+                    "download": "390865104"
                 },
                 "local": {
                     "gid": "6014843563340864282",
@@ -32,17 +32,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1959163086126986058",
-                    "size": "3004415024",
-                    "download": "329939872"
+                    "gid": "4735711875181579141",
+                    "size": "3180642464",
+                    "download": "397722640"
                 }
             },
             "decryptionkey": "8ff465046ee05c80a0b3d61e0eda56f8bee6e774cb297149fe0e6d1590159226"
         },
         "branches": {
             "public": {
-                "buildid": "16927423",
-                "timeupdated": "1736312117"
+                "buildid": "17765061",
+                "timeupdated": "1742302326"
             },
             "local": {
                 "buildid": "6487698",
