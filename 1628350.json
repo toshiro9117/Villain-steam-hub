@@ -4,8 +4,8 @@
     "name": "Steam Linux Runtime 3.0 (sniper)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27519797",
-    "update_time": "2025-02-18 01:04:43",
+    "change_number": "27894412",
+    "update_time": "2025-03-12 00:07:14",
     "depot": {
         "1628351": {
             "config": {
@@ -20,9 +20,9 @@
                     "download": "210780144"
                 },
                 "client_beta": {
-                    "gid": "5379144084313238144",
-                    "size": "779166851",
-                    "download": "210780144"
+                    "gid": "6387040487739928484",
+                    "size": "779905010",
+                    "download": "210937888"
                 },
                 "previous_release": {
                     "gid": "7421445618964294032",
@@ -38,9 +38,9 @@
                 "timeupdated": "1739811878"
             },
             "client_beta": {
-                "buildid": "17326928",
+                "buildid": "17679755",
                 "description": "use with Steam beta client",
-                "timeupdated": "1739307110"
+                "timeupdated": "1741709218"
             },
             "previous_release": {
                 "buildid": "17108377",
