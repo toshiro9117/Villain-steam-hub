@@ -4,25 +4,25 @@
     "name": "Forgotten Mines",
     "schinese_name": "失落矿场",
     "isfreeapp": "0",
-    "change_number": "27238282",
-    "update_time": "2025-01-31 00:18:26",
+    "change_number": "28005866",
+    "update_time": "2025-03-18 10:56:10",
     "depot": {
         "baselanguages": "english,brazilian",
         "hasdepotsindlc": "0",
         "2238631": {
             "manifests": {
                 "public": {
-                    "gid": "4210073664201553303",
-                    "size": "310248584",
-                    "download": "104655072"
+                    "gid": "1632756078031278203",
+                    "size": "310261864",
+                    "download": "104653984"
                 }
             },
             "decryptionkey": "4c2050d579a527334f61fe29034c195273fdd9927c6f82df257578e26e955467"
         },
         "branches": {
             "public": {
-                "buildid": "16897167",
-                "timeupdated": "1737120534"
+                "buildid": "17477684",
+                "timeupdated": "1741258568"
             }
         },
         "privatebranches": "1"
