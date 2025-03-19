@@ -4,8 +4,8 @@
     "name": "恋来い温泉物語VR",
     "schinese_name": "招桃花温泉物语VR",
     "isfreeapp": "0",
-    "change_number": "27491638",
-    "update_time": "2025-02-15 14:14:32",
+    "change_number": "27739290",
+    "update_time": "2025-03-02 13:22:25",
     "depot": {
         "baselanguages": "japanese",
         "1840351": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "47634366962396174",
-                    "size": "9128925155",
-                    "download": "7813617888"
+                    "gid": "7718216338323374896",
+                    "size": "9131174272",
+                    "download": "7815403312"
                 }
             },
             "decryptionkey": "1c51caff278201cf8be36f25ccf9b50a9bfa397dcd1d947c151b8782c4fdfb42"
@@ -32,17 +32,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7130913134532203290",
-                    "size": "9131307337",
-                    "download": "7812254944"
+                    "gid": "7261322478738945771",
+                    "size": "9129160095",
+                    "download": "7810793856"
                 }
             },
             "decryptionkey": "4ef31efb0a7d46b4dc52bf1845518efc2c6e153bf2f5015b22b3b872da6736ad"
         },
         "branches": {
             "public": {
-                "buildid": "17143898",
-                "timeupdated": "1738033766"
+                "buildid": "17419017",
+                "timeupdated": "1740454431"
             }
         },
         "privatebranches": "1"
