@@ -4,8 +4,8 @@
     "name": "Reus 2",
     "schinese_name": "造物主 2",
     "isfreeapp": "0",
-    "change_number": "27714483",
-    "update_time": "2025-02-28 17:58:09",
+    "change_number": "27970920",
+    "update_time": "2025-03-15 16:58:20",
     "depot": {
         "baselanguages": "english",
         "1875061": {
@@ -15,14 +15,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "7441434525595195972",
+                    "size": "3135046625",
+                    "download": "664383936"
+                },
+                "experimental": {
+                    "gid": "3032736548429683886",
+                    "size": "3143762285",
+                    "download": "666165920"
+                },
+                "v1.5": {
                     "gid": "5595917679743044397",
                     "size": "6353697604",
                     "download": "962484640"
-                },
-                "experimental": {
-                    "gid": "1313581317035704338",
-                    "size": "6248504878",
-                    "download": "950841936"
                 }
             },
             "decryptionkey": "a33eb91dbaf0ab42248dfe4e4d11a817ad3f8e033b56465281a752da06245e7d"
@@ -34,14 +39,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4103718429535270541",
+                    "size": "3161650478",
+                    "download": "672580432"
+                },
+                "experimental": {
+                    "gid": "7122762995553935335",
+                    "size": "3170400104",
+                    "download": "674357424"
+                },
+                "v1.5": {
                     "gid": "8131679422765366420",
                     "size": "6379695471",
                     "download": "970447504"
-                },
-                "experimental": {
-                    "gid": "9105140222136929674",
-                    "size": "6274764911",
-                    "download": "959203024"
                 }
             },
             "decryptionkey": "80791d99567e5d3181ef98a4e8b9138fbf99a33d0d67d1d23d44f46cf315d2b2"
@@ -58,19 +68,29 @@
                     "gid": "3896516526556556967",
                     "size": "1736868590",
                     "download": "1554107456"
+                },
+                "v1.5": {
+                    "gid": "3896516526556556967",
+                    "size": "1736868590",
+                    "download": "1554107456"
                 }
             },
             "decryptionkey": "9cf3cbf9469a572366e3c3977b7a7c802708b3fcad132ac73745639df8e05b6f"
         },
         "branches": {
             "public": {
-                "buildid": "17094140",
-                "timeupdated": "1737565677"
+                "buildid": "17692410",
+                "timeupdated": "1741792679"
             },
             "experimental": {
-                "buildid": "17515150",
+                "buildid": "17733235",
                 "description": "Unstable preview build for testing out upcoming updates.",
-                "timeupdated": "1740575762"
+                "timeupdated": "1742029095"
+            },
+            "v1.5": {
+                "buildid": "17094140",
+                "description": "Fallback to Cataclysm update",
+                "timeupdated": "1741619949"
             }
         },
         "privatebranches": "1"
