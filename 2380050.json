@@ -4,15 +4,15 @@
     "name": "Star Trucker",
     "schinese_name": "星际卡车司机",
     "isfreeapp": "0",
-    "change_number": "27398704",
-    "update_time": "2025-02-10 18:47:50",
+    "change_number": "27831791",
+    "update_time": "2025-03-07 17:01:27",
     "depot": {
         "2380051": {
             "manifests": {
                 "public": {
-                    "gid": "4582738685590580385",
-                    "size": "5707690435",
-                    "download": "4706614608"
+                    "gid": "9092123723944162849",
+                    "size": "5708389217",
+                    "download": "4706807088"
                 }
             },
             "decryptionkey": "a692f8ffe9b6df42b1c9344a8d1f0f92109fc67c1d094414b767b5e6a641d27a"
@@ -21,8 +21,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16798150",
-                "timeupdated": "1736849112"
+                "buildid": "17454378",
+                "timeupdated": "1740492039"
             }
         },
         "privatebranches": "1"
