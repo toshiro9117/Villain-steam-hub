@@ -4,23 +4,23 @@
     "name": "Heretical",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27271548",
-    "update_time": "2025-02-02 04:33:00",
+    "change_number": "27998081",
+    "update_time": "2025-03-18 00:34:11",
     "depot": {
         "2877541": {
             "manifests": {
                 "public": {
-                    "gid": "3093636496231992995",
-                    "size": "883147506",
-                    "download": "366576192"
+                    "gid": "5016216895118291151",
+                    "size": "948663858",
+                    "download": "386654592"
                 }
             },
             "decryptionkey": "a9ce0bfd6d731be4c23bc3d53755bddc74be59237e5ba9b0365f02f9d4daaa57"
         },
         "branches": {
             "public": {
-                "buildid": "17110855",
-                "timeupdated": "1737668196"
+                "buildid": "17754200",
+                "timeupdated": "1742229244"
             }
         },
         "privatebranches": "1"
