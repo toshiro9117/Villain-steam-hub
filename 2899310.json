@@ -4,8 +4,8 @@
     "name": "Card Engine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27520006",
-    "update_time": "2025-02-18 01:20:00",
+    "change_number": "27861867",
+    "update_time": "2025-03-10 05:03:06",
     "depot": {
         "2899311": {
             "config": {
@@ -13,27 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9106869318654686580",
-                    "size": "416049272",
-                    "download": "117703776"
-                },
-                "beta": {
-                    "gid": "122909329236019265",
-                    "size": "414833161",
-                    "download": "118639936"
+                    "gid": "2755682149160489591",
+                    "size": "447227017",
+                    "download": "120569120"
                 }
             },
             "decryptionkey": "d574da0ffbea7afb1ab5e2207869784ad04b2b3c39e6f10b0dc11c32204c3dfe"
         },
         "branches": {
             "public": {
-                "buildid": "17068238",
-                "timeupdated": "1737397733"
-            },
-            "beta": {
-                "buildid": "17396366",
-                "description": "beta 0.12",
-                "timeupdated": "1739812792"
+                "buildid": "17654680",
+                "timeupdated": "1741554182"
             }
         }
     }
