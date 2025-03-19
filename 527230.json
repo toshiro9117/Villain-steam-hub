@@ -4,8 +4,8 @@
     "name": "For The King",
     "schinese_name": "为了吾王 / For The King",
     "isfreeapp": "0",
-    "change_number": "27002103",
-    "update_time": "2025-01-15 14:14:20",
+    "change_number": "27987396",
+    "update_time": "2025-03-17 12:20:34",
     "depot": {
         "workshopdepot": "527230",
         "527231": {
@@ -118,6 +118,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "6be9f9f29fac16cfe1fc4b92cb8ce90f3f6c2a4f03218c26b5708d5b82bddb81"
+        "workshopdepotdecryptionkey": ""
     }
 }
