@@ -4,8 +4,8 @@
     "name": "Rogue Hex",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27723685",
-    "update_time": "2025-03-01 02:48:54",
+    "change_number": "27956531",
+    "update_time": "2025-03-14 20:54:17",
     "depot": {
         "baselanguages": "english",
         "2275941": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7010758097512997698",
-                    "size": "3530995156",
-                    "download": "913366720"
+                    "gid": "2419901680496999597",
+                    "size": "3533962939",
+                    "download": "913325856"
                 },
                 "preview": {
-                    "gid": "7010758097512997698",
-                    "size": "3530995156",
-                    "download": "913366720"
+                    "gid": "2419901680496999597",
+                    "size": "3533962939",
+                    "download": "913325856"
                 }
             },
             "decryptionkey": "493a9b9bd149fbff512d290f8730b75c9821ea5e71fdb8022926b4a6456ac8ad"
@@ -31,13 +31,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17548506",
-                "timeupdated": "1740768529"
+                "buildid": "17697825",
+                "timeupdated": "1741956853"
             },
             "preview": {
-                "buildid": "17548506",
+                "buildid": "17697825",
                 "description": "Preview branch with the newest public build. May be unstable.",
-                "timeupdated": "1740754140"
+                "timeupdated": "1741956817"
             }
         },
         "privatebranches": "1"
