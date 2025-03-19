@@ -4,8 +4,8 @@
     "name": "Hero's Hour",
     "schinese_name": "英雄之时",
     "isfreeapp": "0",
-    "change_number": "27521115",
-    "update_time": "2025-02-18 02:31:28",
+    "change_number": "27984491",
+    "update_time": "2025-03-17 05:50:21",
     "depot": {
         "workshopdepot": "1656780",
         "1656781": {
@@ -19,9 +19,9 @@
                     "download": "347233696"
                 },
                 "beta_for_next_major_update": {
-                    "gid": "5359689537953787854",
-                    "size": "435963996",
-                    "download": "347614720"
+                    "gid": "119683170807627265",
+                    "size": "387739718",
+                    "download": "298920368"
                 },
                 "previous-update-v2.6.3": {
                     "gid": "3956804688650139151",
@@ -73,9 +73,9 @@
                 "timeupdated": "1734078143"
             },
             "beta_for_next_major_update": {
-                "buildid": "17397152",
+                "buildid": "17745217",
                 "description": "Beta for v2.8",
-                "timeupdated": "1739817072"
+                "timeupdated": "1742161817"
             },
             "previous-update-v2.6.3": {
                 "buildid": "15507918",
@@ -89,6 +89,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "051e6473e8cb2f130a72ebed564f315e07831e177cafe79d2b1aa8c824ad3f89"
+        "workshopdepotdecryptionkey": ""
     }
 }
