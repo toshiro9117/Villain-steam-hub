@@ -4,8 +4,8 @@
     "name": "Gorilla Tag",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731562",
-    "update_time": "2025-03-01 17:22:21",
+    "change_number": "27982178",
+    "update_time": "2025-03-17 00:20:47",
     "depot": {
         "1533391": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3104309093268171733",
-                    "size": "1522306345",
-                    "download": "782126656"
+                    "gid": "1523091660495421347",
+                    "size": "1717974333",
+                    "download": "917779824"
                 },
                 "beta": {
                     "gid": "2269080217743564656",
@@ -29,8 +29,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17489580",
-                "timeupdated": "1740503734"
+                "buildid": "17680742",
+                "timeupdated": "1741800338"
             },
             "beta": {
                 "buildid": "11818935",
