@@ -4,8 +4,8 @@
     "name": "OVR Toolkit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27167471",
-    "update_time": "2025-01-26 07:14:38",
+    "change_number": "27899146",
+    "update_time": "2025-03-12 05:15:11",
     "depot": {
         "1068821": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8314413230936294481",
-                    "size": "824130800",
-                    "download": "152909104"
+                    "gid": "857760176210753206",
+                    "size": "824046994",
+                    "download": "152880400"
                 },
                 "no-updates": {
                     "gid": "1136215697058543365",
@@ -24,9 +24,9 @@
                     "download": "153086976"
                 },
                 "open-beta": {
-                    "gid": "6485582145139098400",
-                    "size": "824130816",
-                    "download": "152908240"
+                    "gid": "857760176210753206",
+                    "size": "824046994",
+                    "download": "152880400"
                 },
                 "previous-release": {
                     "gid": "588968288140795784",
@@ -39,8 +39,8 @@
         "workshopdepot": "1068820",
         "branches": {
             "public": {
-                "buildid": "16044519",
-                "timeupdated": "1728949679"
+                "buildid": "17683462",
+                "timeupdated": "1741727707"
             },
             "no-updates": {
                 "buildid": "12400445",
@@ -48,9 +48,9 @@
                 "timeupdated": "1699915438"
             },
             "open-beta": {
-                "buildid": "16297036",
+                "buildid": "17683462",
                 "description": "Open Beta",
-                "timeupdated": "1730789464"
+                "timeupdated": "1741727329"
             },
             "previous-release": {
                 "buildid": "14405330",
@@ -59,6 +59,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "497d3631e03efd5431847d78de22db53c7315f734d838831b0bea7490cdcaa6a"
+        "workshopdepotdecryptionkey": ""
     }
 }
