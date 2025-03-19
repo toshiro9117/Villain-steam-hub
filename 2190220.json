@@ -4,17 +4,17 @@
     "name": "Touhou Danmaku Kagura Phantasia Lost",
     "schinese_name": "东方弹幕神乐 失落幻想",
     "isfreeapp": "0",
-    "change_number": "27497216",
-    "update_time": "2025-02-16 04:15:41",
+    "change_number": "28010008",
+    "update_time": "2025-03-18 17:17:23",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
         "2190221": {
             "manifests": {
                 "public": {
-                    "gid": "8297024815594200988",
-                    "size": "6341512283",
-                    "download": "5668117360"
+                    "gid": "1806113152192408908",
+                    "size": "6532029834",
+                    "download": "5787969696"
                 }
             },
             "decryptionkey": "d94856de16f133e42d1d1c4c4c4bd5fb5c79ab25709f242ad77cd1cd5b69ba96"
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17340238",
-                "timeupdated": "1739445585"
+                "buildid": "17585645",
+                "timeupdated": "1741791463"
             }
         },
         "privatebranches": "1"
