@@ -4,24 +4,24 @@
     "name": "War of Wizards",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27467588",
-    "update_time": "2025-02-14 05:14:29",
+    "change_number": "27982455",
+    "update_time": "2025-03-17 00:56:56",
     "depot": {
         "baselanguages": "",
         "2009461": {
             "manifests": {
                 "public": {
-                    "gid": "4347348279206693960",
-                    "size": "2847100677",
-                    "download": "1082116800"
+                    "gid": "1303368553485889366",
+                    "size": "2924287367",
+                    "download": "1116815088"
                 }
             },
             "decryptionkey": "05a8e81700e47a3c1ce9bef4fd8c8ad95329d76e93a07bdbaed355bd5d1941a3"
         },
         "branches": {
             "public": {
-                "buildid": "17421057",
-                "timeupdated": "1739963343"
+                "buildid": "17688299",
+                "timeupdated": "1741759724"
             }
         }
     }
