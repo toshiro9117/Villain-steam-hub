@@ -4,8 +4,8 @@
     "name": "Worldless",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27193674",
-    "update_time": "2025-01-28 10:20:10",
+    "change_number": "27980594",
+    "update_time": "2025-03-16 20:21:09",
     "depot": {
         "1898501": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2156704921924379521",
-                    "size": "2388523463",
-                    "download": "1617292144"
+                    "gid": "8197529406263068622",
+                    "size": "2388532188",
+                    "download": "1617281136"
                 },
                 "beta_1.3.1": {
                     "gid": "5018566881322284566",
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15028067",
-                "timeupdated": "1723558423"
+                "buildid": "17064211",
+                "timeupdated": "1741859277"
             },
             "beta_1.3.1": {
                 "buildid": "13135806",
