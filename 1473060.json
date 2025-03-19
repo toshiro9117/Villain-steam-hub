@@ -4,20 +4,20 @@
     "name": "Reality Break",
     "schinese_name": "轮回的瓦尔基里",
     "isfreeapp": "0",
-    "change_number": "27727055",
-    "update_time": "2025-03-01 07:11:57",
+    "change_number": "28006720",
+    "update_time": "2025-03-18 12:28:22",
     "depot": {
         "1473061": {
             "manifests": {
                 "public": {
-                    "gid": "1879513773654301323",
-                    "size": "7069567833",
-                    "download": "1898359200"
+                    "gid": "5650965849122483109",
+                    "size": "7076525362",
+                    "download": "1898738640"
                 },
                 "beta": {
-                    "gid": "1416684966393348291",
-                    "size": "7086851700",
-                    "download": "1898350576"
+                    "gid": "5650965849122483109",
+                    "size": "7076525362",
+                    "download": "1898738640"
                 },
                 "previous": {
                     "gid": "9130946225113339913",
@@ -29,13 +29,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17478386",
-                "timeupdated": "1740414786"
+                "buildid": "17727026",
+                "timeupdated": "1741966980"
             },
             "beta": {
-                "buildid": "17553448",
+                "buildid": "17727026",
                 "description": "beta testing",
-                "timeupdated": "1740784311"
+                "timeupdated": "1741964644"
             },
             "previous": {
                 "buildid": "17328065",
