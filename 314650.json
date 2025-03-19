@@ -4,8 +4,8 @@
     "name": "SpaceEngine",
     "schinese_name": "太空引擎",
     "isfreeapp": "0",
-    "change_number": "27373142",
-    "update_time": "2025-02-08 08:17:30",
+    "change_number": "27758829",
+    "update_time": "2025-03-04 01:47:10",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,ukrainian,latam",
         "workshopdepot": "314650",
@@ -27,9 +27,9 @@
         "314651": {
             "manifests": {
                 "public": {
-                    "gid": "5471019606945904398",
-                    "size": "4278075196",
-                    "download": "4098993120"
+                    "gid": "1844768652483422631",
+                    "size": "4278123610",
+                    "download": "4099023744"
                 },
                 "0.990.39": {
                     "gid": "3142674547714852647",
@@ -47,9 +47,9 @@
                     "download": "4058786064"
                 },
                 "beta": {
-                    "gid": "5471019606945904398",
-                    "size": "4278075196",
-                    "download": "4098993120"
+                    "gid": "1844768652483422631",
+                    "size": "4278123610",
+                    "download": "4099023744"
                 }
             },
             "decryptionkey": "cd228cbe8e6b5001e21a62f5f2322b9cde46b13cc86662b09c7c6e27ccf11236"
@@ -461,8 +461,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17040641",
-                "timeupdated": "1737387272"
+                "buildid": "17521520",
+                "timeupdated": "1741024025"
             },
             "0.990.39": {
                 "buildid": "4531769",
@@ -480,13 +480,13 @@
                 "timeupdated": "1671185901"
             },
             "beta": {
-                "buildid": "17040641",
+                "buildid": "17521520",
                 "description": "public beta branch",
-                "timeupdated": "1737122212"
+                "timeupdated": "1740681122"
             }
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": "d6e987020abbea2464db0d829071db0232c146c27fac6474670ccfe1c20ad29e"
+        "workshopdepotdecryptionkey": ""
     }
 }
