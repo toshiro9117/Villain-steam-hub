@@ -4,15 +4,30 @@
     "name": "Noble Fates",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27723809",
-    "update_time": "2025-03-01 02:57:13",
+    "change_number": "28004786",
+    "update_time": "2025-03-18 09:17:28",
     "depot": {
         "1769421": {
             "manifests": {
                 "public": {
-                    "gid": "9086377576734414349",
-                    "size": "1134163052",
-                    "download": "509067520"
+                    "gid": "3173498832999703320",
+                    "size": "1351436628",
+                    "download": "528343920"
+                },
+                "development": {
+                    "gid": "3086742881609303644",
+                    "size": "1382732667",
+                    "download": "535269888"
+                },
+                "experimental": {
+                    "gid": "3173498832999703320",
+                    "size": "1351436628",
+                    "download": "528343920"
+                },
+                "experimental_development": {
+                    "gid": "3086742881609303644",
+                    "size": "1382732667",
+                    "download": "535269888"
                 },
                 "retired_0_23": {
                     "gid": "8378217613132405165",
@@ -74,20 +89,15 @@
                     "size": "833059521",
                     "download": "418695632"
                 },
-                "development": {
+                "retired_0_29": {
+                    "gid": "9086377576734414349",
+                    "size": "1134163052",
+                    "download": "509067520"
+                },
+                "retired_0_29_development": {
                     "gid": "6855600532621175379",
                     "size": "1165115243",
                     "download": "515898208"
-                },
-                "experimental": {
-                    "gid": "3430630888956893319",
-                    "size": "1145396662",
-                    "download": "517504688"
-                },
-                "experimental_development": {
-                    "gid": "1983247390816917140",
-                    "size": "1176662953",
-                    "download": "524425568"
                 }
             },
             "decryptionkey": "40032980f886ca48cbe7393f3c1214d5bd9c49322e47ae8c9d124ed0b38dd7be"
@@ -95,86 +105,96 @@
         "workshopdepot": "1769420",
         "branches": {
             "public": {
-                "buildid": "16635525",
-                "timeupdated": "1733351275"
+                "buildid": "17759203",
+                "timeupdated": "1742260643"
+            },
+            "development": {
+                "buildid": "17759145",
+                "description": "Mod Development, Unstable",
+                "timeupdated": "1742260471"
+            },
+            "experimental": {
+                "buildid": "17759203",
+                "description": "Try out the next update",
+                "timeupdated": "1742260624"
+            },
+            "experimental_development": {
+                "buildid": "17759145",
+                "description": "Try out the next update, Mod Development, Unstable",
+                "timeupdated": "1742260463"
             },
             "retired_0_23": {
                 "buildid": "8152080",
-                "description": "Retired 0.23 (Launch) Build",
+                "description": "v0.23: Launch",
                 "timeupdated": "1644109141"
             },
             "retired_0_23_development": {
                 "buildid": "8152051",
-                "description": "Retired 0.23 (Launch) Development Build",
+                "description": "v0.23: Launch Development",
                 "timeupdated": "1644109194"
             },
             "retired_0_24": {
                 "buildid": "8467952",
-                "description": "Retired 0.24 (Hospitality) Build",
+                "description": "v0.24: Hospitality",
                 "timeupdated": "1649018051"
             },
             "retired_0_24_development": {
                 "buildid": "8467925",
-                "description": "Retired 0.24 (Hospitality) Development Build",
+                "description": "v0.24: Hospitality Development",
                 "timeupdated": "1649018061"
             },
             "retired_0_25": {
                 "buildid": "8772775",
-                "description": "Retired 0.25 (Bandits) Build",
+                "description": "v0.25: Bandits",
                 "timeupdated": "1655063389"
             },
             "retired_0_25_development": {
                 "buildid": "8772678",
-                "description": "Retired 0.25 (Bandits) Development Build",
+                "description": "v0.25: Bandits Development",
                 "timeupdated": "1655063399"
             },
             "retired_0_26": {
                 "buildid": "10033157",
-                "description": "Retired 0.25 (Love & Elves) Build",
+                "description": "v0.25: Love & Elves",
                 "timeupdated": "1670890384"
             },
             "retired_0_26_development": {
                 "buildid": "10032980",
-                "description": "Retired 0.26 (Love & Elves) Development Build",
+                "description": "v0.26: Love & Elves Development",
                 "timeupdated": "1670890402"
             },
             "retired_0_27": {
                 "buildid": "10798847",
-                "description": "Retired 0.27 (Adventures) Build",
+                "description": "v0.27: Adventures",
                 "timeupdated": "1687656363"
             },
             "retired_0_27_development": {
                 "buildid": "10798828",
-                "description": "Retired 0.27 (Adventures) Development Build",
+                "description": "v0.27: Adventures Development",
                 "timeupdated": "1687656375"
             },
             "retired_0_28": {
                 "buildid": "13201744",
-                "description": "Retired 0.28 (Dwarven Domain) Build",
+                "description": "v0.28: Dwarven Domain",
                 "timeupdated": "1710194804"
             },
             "retired_0_28_development": {
                 "buildid": "13201657",
-                "description": "Retired 0.28 (Dwarven Domain) Development Build",
+                "description": "v0.28: Dwarven Domain Development",
                 "timeupdated": "1710194813"
             },
-            "development": {
+            "retired_0_29": {
+                "buildid": "16635525",
+                "description": "v0.29: Choose Your Fate",
+                "timeupdated": "1741710367"
+            },
+            "retired_0_29_development": {
                 "buildid": "16635467",
-                "description": "Development - Mod Development, Unstable",
-                "timeupdated": "1733351215"
-            },
-            "experimental": {
-                "buildid": "17551674",
-                "description": "Experimental - Try out the next update",
-                "timeupdated": "1740769029"
-            },
-            "experimental_development": {
-                "buildid": "17551378",
-                "description": "Experimental Development - Mod Development, Unstable",
-                "timeupdated": "1740767842"
+                "description": "v0.29: Choose Your Fate Development",
+                "timeupdated": "1741710382"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "634ae2331eaab3033666020599fc25c4c04f8f8811ff9145d3c7ba16735dd925"
+        "workshopdepotdecryptionkey": ""
     }
 }
