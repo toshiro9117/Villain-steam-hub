@@ -4,17 +4,17 @@
     "name": "Gatekeeper",
     "schinese_name": "心门守卫",
     "isfreeapp": "0",
-    "change_number": "27541518",
-    "update_time": "2025-02-19 04:01:22",
+    "change_number": "27980169",
+    "update_time": "2025-03-16 19:01:13",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "2106671": {
             "manifests": {
                 "public": {
-                    "gid": "2551387498726174759",
-                    "size": "2788552473",
-                    "download": "1630764672"
+                    "gid": "2382755527301538697",
+                    "size": "2801210151",
+                    "download": "1639906128"
                 },
                 "children-of-tarra-beta": {
                     "gid": "5601125188128276728",
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17445179",
-                "timeupdated": "1740083937"
+                "buildid": "17536505",
+                "timeupdated": "1740686198"
             },
             "children-of-tarra-beta": {
                 "buildid": "17412541",
