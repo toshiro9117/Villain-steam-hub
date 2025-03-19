@@ -4,23 +4,23 @@
     "name": "少女怪奇事件簿:永生 Salvation:Immortale",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27232041",
-    "update_time": "2025-01-30 17:18:19",
+    "change_number": "27959384",
+    "update_time": "2025-03-14 23:27:13",
     "depot": {
         "3081241": {
             "manifests": {
                 "public": {
-                    "gid": "3459609245479302816",
-                    "size": "2562268728",
-                    "download": "920525280"
+                    "gid": "2409795544017198555",
+                    "size": "1324450692",
+                    "download": "997519488"
                 }
             },
             "decryptionkey": "8998ba702ef77702f501bdd727d9b458224739e9e0362f47bc809d0bb066a7d9"
         },
         "branches": {
             "public": {
-                "buildid": "16349705",
-                "timeupdated": "1731121218"
+                "buildid": "17565864",
+                "timeupdated": "1740930592"
             }
         }
     }
