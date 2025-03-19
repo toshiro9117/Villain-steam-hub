@@ -4,8 +4,8 @@
     "name": "Our Adventurer Guild",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27502952",
-    "update_time": "2025-02-16 21:27:45",
+    "change_number": "27858490",
+    "update_time": "2025-03-09 20:04:18",
     "depot": {
         "2026001": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1356357162246784071",
-                    "size": "3291909529",
-                    "download": "1055271040"
+                    "gid": "8717497189754887543",
+                    "size": "3299408428",
+                    "download": "1056071200"
                 },
                 "p1-5": {
                     "gid": "2142727770953491278",
@@ -31,14 +31,19 @@
                     "gid": "4857286724574047215",
                     "size": "3291909207",
                     "download": "1055268880"
+                },
+                "p1-54": {
+                    "gid": "1356357162246784071",
+                    "size": "3291909529",
+                    "download": "1055271040"
                 }
             },
             "decryptionkey": "84cc41d4a398837fe7ba525ebdccd5e5e3a671b5165418a1a88733b1dee4322c"
         },
         "branches": {
             "public": {
-                "buildid": "17383862",
-                "timeupdated": "1739712458"
+                "buildid": "17652194",
+                "timeupdated": "1741521244"
             },
             "p1-5": {
                 "buildid": "16824889",
@@ -54,6 +59,11 @@
                 "buildid": "17050997",
                 "description": "Patch 1.53",
                 "timeupdated": "1738004643"
+            },
+            "p1-54": {
+                "buildid": "17383862",
+                "description": "Patch 1.54",
+                "timeupdated": "1741022096"
             }
         },
         "privatebranches": "1"
