@@ -4,8 +4,8 @@
     "name": "Dokimon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27510166",
-    "update_time": "2025-02-17 13:40:24",
+    "change_number": "27978161",
+    "update_time": "2025-03-16 12:07:17",
     "depot": {
         "2019301": {
             "config": {
@@ -13,27 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1268212877562788935",
-                    "size": "70087351",
-                    "download": "49342096"
-                },
-                "portmaster": {
-                    "gid": "3233594280580059496",
-                    "size": "47830429",
-                    "download": "30489056"
+                    "gid": "960531183174013789",
+                    "size": "69017496",
+                    "download": "49155936"
                 }
             },
             "decryptionkey": "4c11883ba648c4ff5bb9aba47163fbed2b4c8dce779e482645911c2025dcc1b6"
         },
         "branches": {
             "public": {
-                "buildid": "17451553",
-                "timeupdated": "1740126152"
-            },
-            "portmaster": {
-                "buildid": "16492855",
-                "description": "Used for retro handhelds",
-                "timeupdated": "1732228936"
+                "buildid": "17740824",
+                "timeupdated": "1742098032"
             }
         }
     }
