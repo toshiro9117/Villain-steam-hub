@@ -4,8 +4,8 @@
     "name": "Chaos Entropy",
     "schinese_name": "混沌之熵",
     "isfreeapp": "0",
-    "change_number": "27319878",
-    "update_time": "2025-02-05 13:16:29",
+    "change_number": "27973655",
+    "update_time": "2025-03-16 00:00:05",
     "depot": {
         "3201211": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1731992374"
             }
         },
-        "workshopdepotdecryptionkey": "fe3eafd656840991762e1f85af6870294eaea901eed56437ba474c4c479dd35a"
+        "workshopdepotdecryptionkey": ""
     }
 }
