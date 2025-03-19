@@ -4,8 +4,8 @@
     "name": "Settlement Survival",
     "schinese_name": "部落幸存者",
     "isfreeapp": "0",
-    "change_number": "27244758",
-    "update_time": "2025-01-31 09:27:05",
+    "change_number": "27749475",
+    "update_time": "2025-03-03 14:48:52",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,latam",
         "workshopdepot": "1509510",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4752393838323349515",
-                    "size": "1811177260",
-                    "download": "966209520"
+                    "gid": "2158904654136599369",
+                    "size": "1811150034",
+                    "download": "966193008"
                 },
                 "beta": {
                     "gid": "393289266381301439",
@@ -41,9 +41,9 @@
                     "download": "646541472"
                 },
                 "alpha": {
-                    "gid": "4752393838323349515",
-                    "size": "1811177260",
-                    "download": "966209520"
+                    "gid": "2158904654136599369",
+                    "size": "1811150034",
+                    "download": "966193008"
                 },
                 "version": {
                     "gid": "549122957378776917",
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4239225287185473186",
-                    "size": "1912743390",
-                    "download": "907199344"
+                    "gid": "5208705852361642999",
+                    "size": "1912711612",
+                    "download": "907178592"
                 },
                 "beta": {
                     "gid": "1507333048350248972",
@@ -79,9 +79,9 @@
                     "download": "594110944"
                 },
                 "alpha": {
-                    "gid": "4239225287185473186",
-                    "size": "1912743390",
-                    "download": "907199344"
+                    "gid": "5208705852361642999",
+                    "size": "1912711612",
+                    "download": "907178592"
                 },
                 "version": {
                     "gid": "3325738259379439895",
@@ -117,8 +117,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17038226",
-                "timeupdated": "1737108206"
+                "buildid": "17570534",
+                "timeupdated": "1740984525"
             },
             "beta": {
                 "buildid": "9190366",
@@ -141,8 +141,8 @@
                 "timeupdated": "1676513527"
             },
             "alpha": {
-                "buildid": "17038226",
-                "timeupdated": "1737108177"
+                "buildid": "17570534",
+                "timeupdated": "1740983979"
             },
             "version": {
                 "buildid": "13561360",
@@ -151,6 +151,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5fee7edbb04d351f1158c4ae923e4a53a1ef9f5eddddb10048a5b5e190495e73"
+        "workshopdepotdecryptionkey": ""
     }
 }
