@@ -4,8 +4,8 @@
     "name": "Havendock",
     "schinese_name": "海港物语 Havendock",
     "isfreeapp": "0",
-    "change_number": "27719428",
-    "update_time": "2025-02-28 22:52:42",
+    "change_number": "27979396",
+    "update_time": "2025-03-16 16:43:38",
     "depot": {
         "baselanguages": "english",
         "2020711": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4942123605169948767",
-                    "size": "1277154242",
-                    "download": "375811472"
+                    "gid": "5405086276641800667",
+                    "size": "1283665726",
+                    "download": "379478496"
                 },
                 "experimental": {
-                    "gid": "1657374785001670035",
-                    "size": "1279984813",
-                    "download": "378585200"
+                    "gid": "7256627580756166860",
+                    "size": "1283679380",
+                    "download": "379484656"
                 }
             },
             "decryptionkey": "93bce109acdd17cf295a57e249841decc07e5a373ae984d23781b2ef3ef3505f"
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8262778567155122861",
-                    "size": "1402363392",
-                    "download": "437136544"
+                    "gid": "5169258133528007982",
+                    "size": "1408817614",
+                    "download": "440675504"
                 },
                 "experimental": {
                     "gid": "4097195843003019706",
@@ -64,13 +64,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17367778",
-                "timeupdated": "1739542539"
+                "buildid": "17721631",
+                "timeupdated": "1741939282"
             },
             "experimental": {
-                "buildid": "17374927",
+                "buildid": "17712203",
                 "description": "Windows experimental builds",
-                "timeupdated": "1739589550"
+                "timeupdated": "1741884652"
             }
         },
         "privatebranches": "1"
