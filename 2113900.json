@@ -4,8 +4,8 @@
     "name": "Touge Shakai",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523234",
-    "update_time": "2025-02-18 05:10:46",
+    "change_number": "28010034",
+    "update_time": "2025-03-18 17:18:34",
     "depot": {
         "228988": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7199076384505235350",
-                    "size": "4773777875",
-                    "download": "3494508688"
+                    "gid": "366013359945807673",
+                    "size": "4976974335",
+                    "download": "3683060784"
                 }
             },
             "decryptionkey": "d03fdcdcf28115c77266a7bf1d508c6d652c3363082bcf0a9253513570db4285"
@@ -31,8 +31,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16523408",
-                "timeupdated": "1732535109"
+                "buildid": "17519952",
+                "timeupdated": "1740676517"
             }
         },
         "privatebranches": "1"
