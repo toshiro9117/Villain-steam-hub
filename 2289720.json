@@ -4,8 +4,8 @@
     "name": "Kaiju Princess 2",
     "schinese_name": "暴食的怪兽公主：惑星美食之旅",
     "isfreeapp": "0",
-    "change_number": "27502866",
-    "update_time": "2025-02-16 21:14:13",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:22:17",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,ukrainian",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3506526687849413593",
-                    "size": "4038308486",
-                    "download": "3230591728"
+                    "gid": "7245443010215709834",
+                    "size": "4038176312",
+                    "download": "3230491072"
                 }
             },
             "decryptionkey": "9fc3429c350b7acd178867e645e958b1fafa2cf615acb4bdae830eaac032bdd0"
@@ -29,8 +29,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16857100",
-                "timeupdated": "1735315943"
+                "buildid": "17510451",
+                "timeupdated": "1740642924"
             }
         },
         "privatebranches": "1"
