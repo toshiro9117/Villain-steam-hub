@@ -4,15 +4,15 @@
     "name": "Cozy Caravan",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27473348",
-    "update_time": "2025-02-14 13:38:08",
+    "change_number": "28009813",
+    "update_time": "2025-03-18 17:07:22",
     "depot": {
         "2788521": {
             "manifests": {
                 "public": {
-                    "gid": "4200087162974130786",
-                    "size": "2527529016",
-                    "download": "1159442992"
+                    "gid": "6692004518616415727",
+                    "size": "2527532602",
+                    "download": "1159449072"
                 },
                 "local": {
                     "gid": "7715642812626209069",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17276604",
-                "timeupdated": "1738908713"
+                "buildid": "17525549",
+                "timeupdated": "1740639030"
             },
             "local": {
                 "buildid": "13748903",
