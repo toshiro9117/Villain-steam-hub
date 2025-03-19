@@ -4,13 +4,13 @@
     "name": "富甲天下4",
     "schinese_name": "富甲天下4",
     "isfreeapp": "0",
-    "change_number": "24265223",
-    "update_time": "2024-07-07 14:43:37",
+    "change_number": "27953478",
+    "update_time": "2025-03-14 18:06:44",
     "depot": {
         "2400281": {
             "manifests": {
                 "public": {
-                    "gid": "8383449774397086289",
+                    "gid": "1999181582487690332",
                     "size": "1387522387",
                     "download": "1261615760"
                 }
@@ -23,7 +23,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6687396984940546974",
+                    "gid": "973586495012059287",
                     "size": "1387522767",
                     "download": "1262373344"
                 }
@@ -36,7 +36,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2717194240148060991",
+                    "gid": "6049475153417114959",
                     "size": "1387522387",
                     "download": "1261615760"
                 }
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13610880",
-                "timeupdated": "1709291564"
+                "buildid": "17721889",
+                "timeupdated": "1741946796"
             }
         },
         "privatebranches": "1"
