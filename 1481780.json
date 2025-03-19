@@ -4,15 +4,15 @@
     "name": "Dragon Fist: VR Kung Fu",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27478896",
-    "update_time": "2025-02-14 20:17:12",
+    "change_number": "27799959",
+    "update_time": "2025-03-06 01:55:24",
     "depot": {
         "1481781": {
             "manifests": {
                 "public": {
-                    "gid": "5992351114878743324",
-                    "size": "7504134815",
-                    "download": "3298200512"
+                    "gid": "4129760302395988981",
+                    "size": "7651486847",
+                    "download": "3368175584"
                 },
                 "oldgraphics": {
                     "gid": "1294731758595772639",
@@ -20,27 +20,27 @@
                     "download": "743717600"
                 },
                 "arcade": {
-                    "gid": "5655395537220382635",
-                    "size": "7274603554",
-                    "download": "3202879744"
+                    "gid": "4129760302395988981",
+                    "size": "7651486847",
+                    "download": "3368175584"
                 },
                 "beta": {
-                    "gid": "4308871959601581119",
-                    "size": "7651461383",
-                    "download": "3367733920"
+                    "gid": "292692983680456105",
+                    "size": "7652064956",
+                    "download": "3368398032"
                 },
                 "previousversion": {
-                    "gid": "2905988688417097850",
-                    "size": "7254314514",
-                    "download": "3198370272"
+                    "gid": "5992351114878743324",
+                    "size": "7504134815",
+                    "download": "3298200512"
                 }
             },
             "decryptionkey": "2f1106e114498793212b9363df4b00bc36025813eee749045a460a7eedc4d00d"
         },
         "branches": {
             "public": {
-                "buildid": "16684875",
-                "timeupdated": "1733774350"
+                "buildid": "17488365",
+                "timeupdated": "1740484745"
             },
             "oldgraphics": {
                 "buildid": "9691894",
@@ -48,19 +48,19 @@
                 "timeupdated": "1707506945"
             },
             "arcade": {
-                "buildid": "15435330",
+                "buildid": "17488365",
                 "description": "Version for VR Arcades",
-                "timeupdated": "1724162443"
+                "timeupdated": "1740484761"
             },
             "beta": {
-                "buildid": "17455520",
+                "buildid": "17534934",
                 "description": "Beta Testing",
-                "timeupdated": "1740144252"
+                "timeupdated": "1740678520"
             },
             "previousversion": {
-                "buildid": "15187069",
+                "buildid": "16684875",
                 "description": "An older version of the game",
-                "timeupdated": "1723801090"
+                "timeupdated": "1740484879"
             }
         },
         "privatebranches": "1"
