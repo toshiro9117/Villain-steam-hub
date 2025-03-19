@@ -4,8 +4,8 @@
     "name": "Relic Hunters Legend",
     "schinese_name": "《遗物猎人传说》",
     "isfreeapp": "0",
-    "change_number": "27728705",
-    "update_time": "2025-03-01 09:59:49",
+    "change_number": "27968882",
+    "update_time": "2025-03-15 11:20:36",
     "depot": {
         "baselanguages": "english,japanese,portuguese",
         "633081": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7852625420516506352",
-                    "size": "12839390681",
-                    "download": "10200816624"
+                    "gid": "6463478723530321089",
+                    "size": "13165858166",
+                    "download": "10440712128"
                 }
             },
             "decryptionkey": "021a43b634a029d8933d6ecdbe24136044a180bbcddc541b424ff8ade92610a4"
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17152437",
-                "timeupdated": "1738171454"
+                "buildid": "17714206",
+                "timeupdated": "1741894669"
             }
         },
         "privatebranches": "1"
