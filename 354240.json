@@ -4,8 +4,8 @@
     "name": "Please, Don’t Touch Anything",
     "schinese_name": "请勿乱动",
     "isfreeapp": "0",
-    "change_number": "27296445",
-    "update_time": "2025-02-04 05:11:34",
+    "change_number": "27799752",
+    "update_time": "2025-03-06 01:45:41",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
         "354241": {
@@ -17,11 +17,6 @@
                     "gid": "5797829152378866195",
                     "size": "54980750",
                     "download": "43861632"
-                },
-                "temp": {
-                    "gid": "8465717629124891554",
-                    "size": "54947566",
-                    "download": "43853760"
                 }
             },
             "decryptionkey": "5c3d8552fe4b73fd00621047ff8952f79d257def9a7843781b28d35155d57038"
@@ -32,11 +27,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1733604652287863075",
-                    "size": "54427625",
-                    "download": "41416656"
-                },
-                "temp": {
                     "gid": "1733604652287863075",
                     "size": "54427625",
                     "download": "41416656"
@@ -62,9 +52,6 @@
             "public": {
                 "buildid": "1150439",
                 "timeupdated": "1464337019"
-            },
-            "temp": {
-                "buildid": "913338"
             }
         },
         "privatebranches": "1"
