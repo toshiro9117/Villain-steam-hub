@@ -4,8 +4,8 @@
     "name": "Gods Wars : Infinity Epic",
     "schinese_name": "诸神战纪：无限史诗",
     "isfreeapp": "0",
-    "change_number": "27123403",
-    "update_time": "2025-01-23 11:16:46",
+    "change_number": "27948232",
+    "update_time": "2025-03-14 11:30:29",
     "depot": {
         "baselanguages": "english,schinese",
         "2510761": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "991500474642590900",
-                    "size": "789242013",
-                    "download": "543142448"
+                    "gid": "6833999724840245417",
+                    "size": "789254223",
+                    "download": "543237104"
                 }
             },
             "decryptionkey": "3c09948685c0430ab0028f0dbe407aaa046486a7fdaaafddf7f820c4d419f26a"
         },
         "branches": {
             "public": {
-                "buildid": "16947416",
-                "timeupdated": "1737602201"
+                "buildid": "17628937",
+                "timeupdated": "1741922995"
             }
         },
         "privatebranches": "1"
