@@ -4,33 +4,33 @@
     "name": "Witching Stone",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731234",
-    "update_time": "2025-03-01 16:40:59",
+    "change_number": "27856467",
+    "update_time": "2025-03-09 13:09:11",
     "depot": {
         "2693531": {
             "manifests": {
                 "public": {
+                    "gid": "1614160480151627587",
+                    "size": "310379781",
+                    "download": "101719728"
+                },
+                "v1.20.5": {
                     "gid": "3827044307616000209",
                     "size": "303833793",
                     "download": "101067408"
-                },
-                "v130beta": {
-                    "gid": "1315277650416717845",
-                    "size": "310378853",
-                    "download": "101712304"
                 }
             },
             "decryptionkey": "64664e4b41ab2c8f9a04361f9f5a56fdaeca10a9b5c1ffeb2c2b64193a20ac44"
         },
         "branches": {
             "public": {
-                "buildid": "16979629",
-                "timeupdated": "1736688588"
+                "buildid": "17650506",
+                "timeupdated": "1741492986"
             },
-            "v130beta": {
-                "buildid": "17557648",
-                "description": "v130",
-                "timeupdated": "1740818445"
+            "v1.20.5": {
+                "buildid": "16979629",
+                "description": "Older version",
+                "timeupdated": "1741058892"
             }
         },
         "privatebranches": "1"
