@@ -4,8 +4,8 @@
     "name": "Zeepkist",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536487",
-    "update_time": "2025-02-18 22:59:16",
+    "change_number": "27945889",
+    "update_time": "2025-03-14 08:28:25",
     "depot": {
         "workshopdepot": "1440670",
         "hasdepotsindlc": "1",
@@ -30,6 +30,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "925a5b62f832c1b67c6e6635ea094cb9992c6d47c9c7e9e094011ba9386692e2"
+        "workshopdepotdecryptionkey": ""
     }
 }
