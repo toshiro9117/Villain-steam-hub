@@ -4,8 +4,8 @@
     "name": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™",
     "schinese_name": "星球大战：旧共和国武士2-西斯领主",
     "isfreeapp": "0",
-    "change_number": "27117929",
-    "update_time": "2025-01-23 03:25:49",
+    "change_number": "27761517",
+    "update_time": "2025-03-04 05:00:10",
     "depot": {
         "overridescddb": "1",
         "208581": {
@@ -324,6 +324,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "74790280ad530ec9d7734b1a69f0a968c5566a656f90857b165bcca2e31857ac"
+        "workshopdepotdecryptionkey": ""
     }
 }
