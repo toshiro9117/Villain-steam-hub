@@ -4,8 +4,8 @@
     "name": "Warsim: The Realm of Aslona",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26563534",
-    "update_time": "2024-12-10 03:32:01",
+    "change_number": "27994864",
+    "update_time": "2025-03-17 21:55:48",
     "depot": {
         "baselanguages": "english",
         "659541": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4995933484063844192",
-                    "size": "470003637",
-                    "download": "263097328"
+                    "gid": "5090751925810417469",
+                    "size": "470214558",
+                    "download": "263142704"
                 }
             },
             "decryptionkey": "3f78a6499faa1c2bbd2c31927293c4dfdd7057277c7c8b532e7fd41b1861b232"
@@ -24,8 +24,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "16684660",
-                "timeupdated": "1733772718"
+                "buildid": "17594651",
+                "timeupdated": "1741121563"
             }
         }
     }
