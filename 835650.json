@@ -4,8 +4,8 @@
     "name": "Rising Lords",
     "schinese_name": "领主争锋",
     "isfreeapp": "0",
-    "change_number": "27725383",
-    "update_time": "2025-03-01 04:46:25",
+    "change_number": "27952444",
+    "update_time": "2025-03-14 17:07:04",
     "depot": {
         "workshopdepot": "835650",
         "228983": {
@@ -33,9 +33,9 @@
                     "download": "579318288"
                 },
                 "beta": {
-                    "gid": "7211463745422100298",
-                    "size": "629767432",
-                    "download": "579318288"
+                    "gid": "8027469637196758110",
+                    "size": "633608378",
+                    "download": "582772304"
                 },
                 "previous": {
                     "gid": "2747182358746567725",
@@ -74,9 +74,9 @@
                 "timeupdated": "1735640168"
             },
             "beta": {
-                "buildid": "16722789",
+                "buildid": "17722327",
                 "description": "unstable",
-                "timeupdated": "1734015157"
+                "timeupdated": "1741942806"
             },
             "previous": {
                 "buildid": "16610687",
@@ -84,6 +84,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "266af09906a0f2ec278555e7f549d55c90c72bdee8db2496682e4d42ff540a09"
+        "workshopdepotdecryptionkey": ""
     }
 }
