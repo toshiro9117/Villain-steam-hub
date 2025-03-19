@@ -4,20 +4,20 @@
     "name": "Barro F22",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722248",
-    "update_time": "2025-03-01 01:25:07",
+    "change_number": "27977714",
+    "update_time": "2025-03-16 10:41:33",
     "depot": {
         "1958601": {
             "manifests": {
                 "public": {
-                    "gid": "9154267022534947794",
-                    "size": "2563390694",
-                    "download": "661586352"
+                    "gid": "5940460123485625321",
+                    "size": "2562761311",
+                    "download": "659415040"
                 },
                 "pre_release": {
-                    "gid": "9154267022534947794",
-                    "size": "2563390694",
-                    "download": "661586352"
+                    "gid": "5940460123485625321",
+                    "size": "2562761311",
+                    "download": "659415040"
                 }
             },
             "decryptionkey": "424a2053b7f97f7adc33929e301ba09b1327ee21dec838135634c325ea04d8e2"
@@ -39,13 +39,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17550584",
-                "timeupdated": "1740763501"
+                "buildid": "17739838",
+                "timeupdated": "1742092889"
             },
             "pre_release": {
-                "buildid": "17550584",
+                "buildid": "17739838",
                 "description": "pre_release",
-                "timeupdated": "1740763450"
+                "timeupdated": "1742087910"
             }
         }
     }
