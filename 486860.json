@@ -4,8 +4,8 @@
     "name": "MMORPG Tycoon 2",
     "schinese_name": "MMORPG大亨2",
     "isfreeapp": "0",
-    "change_number": "27713067",
-    "update_time": "2025-02-28 16:51:19",
+    "change_number": "27966756",
+    "update_time": "2025-03-15 07:21:35",
     "depot": {
         "486861": {
             "config": {
@@ -25,9 +25,9 @@
                     "download": "143668048"
                 },
                 "test": {
-                    "gid": "3594230600503976296",
-                    "size": "406242448",
-                    "download": "183016944"
+                    "gid": "4513028888210048144",
+                    "size": "417758120",
+                    "download": "181545056"
                 }
             },
             "decryptionkey": "f100e57b925b563c14f234bfe6509b498314076e867cd46c1b17fcc9ea8dc4ed"
@@ -50,9 +50,9 @@
                     "download": "143093248"
                 },
                 "test": {
-                    "gid": "6259601288117520903",
-                    "size": "403500271",
-                    "download": "182431312"
+                    "gid": "4110988191444714249",
+                    "size": "414996579",
+                    "download": "180977456"
                 }
             },
             "decryptionkey": "2c408903cda3f6fd77fe5df770602288a2a9b02c3eaefed69fae54a12bdaf370"
@@ -75,9 +75,9 @@
                     "download": "144480672"
                 },
                 "test": {
-                    "gid": "3900424516734504807",
-                    "size": "403192086",
-                    "download": "184042192"
+                    "gid": "7314464342736313214",
+                    "size": "415814130",
+                    "download": "182602592"
                 }
             },
             "decryptionkey": "77ee755c8013d9505e9a5d8d74a6dbb3cc4ff4835ad6f83a5ff519a093c2b868"
@@ -100,9 +100,9 @@
                     "download": "137817728"
                 },
                 "test": {
-                    "gid": "74520938802467707",
-                    "size": "372294723",
-                    "download": "177159568"
+                    "gid": "5316690982426198322",
+                    "size": "383764655",
+                    "download": "175697312"
                 }
             },
             "decryptionkey": "8c88a8eeb1e46390c526046dea00afffe2c27a4cb4000a76ba3db13216e80700"
@@ -125,9 +125,9 @@
                     "download": "137255040"
                 },
                 "test": {
-                    "gid": "948315989069280716",
-                    "size": "371202787",
-                    "download": "176563568"
+                    "gid": "2899480253419401215",
+                    "size": "382648111",
+                    "download": "175084464"
                 }
             },
             "decryptionkey": "7dcd98f29a52326112c5781763c33289648b9202421662cf3f7b9e92b6a2fd67"
@@ -145,12 +145,12 @@
                 "timeupdated": "1721619116"
             },
             "test": {
-                "buildid": "17540843",
+                "buildid": "17686641",
                 "description": "Public test build",
-                "timeupdated": "1740712617"
+                "timeupdated": "1741747620"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ac422f96c65118d98532446845bcac19d5f19ff0ba046561fd1664d973b16c9f"
+        "workshopdepotdecryptionkey": ""
     }
 }
