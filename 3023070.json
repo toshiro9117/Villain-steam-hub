@@ -4,8 +4,8 @@
     "name": "ベイブレードエックス XONE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27509150",
-    "update_time": "2025-02-17 11:24:27",
+    "change_number": "27986663",
+    "update_time": "2025-03-17 10:47:46",
     "depot": {
         "3023071": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6891860408994327795",
-                    "size": "3824949037",
-                    "download": "2354426112"
+                    "gid": "2124612092055520979",
+                    "size": "3929152913",
+                    "download": "2428673072"
                 }
             },
             "decryptionkey": "c2398467d4fb3dd94f8253f01ba913f4fc14c3a4c59d63d7dec87ccec838cb62"
@@ -23,8 +23,8 @@
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16958611",
-                "timeupdated": "1736812943"
+                "buildid": "17476633",
+                "timeupdated": "1740529667"
             }
         },
         "privatebranches": "1"
