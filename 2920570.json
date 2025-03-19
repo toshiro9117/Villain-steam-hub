@@ -4,8 +4,8 @@
     "name": "Dale & Dawson Stationery Supplies",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27482432",
-    "update_time": "2025-02-14 23:50:05",
+    "change_number": "27960287",
+    "update_time": "2025-03-15 00:07:48",
     "depot": {
         "baselanguages": "english",
         "2920571": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2254949142489273725",
-                    "size": "1789456936",
-                    "download": "824669200"
+                    "gid": "8538322095036936002",
+                    "size": "2062796424",
+                    "download": "925321328"
                 }
             },
             "decryptionkey": "2936fe6bebf97616a1cbb0e4aa41393c5483773bec5053130418999c4126485e"
         },
         "branches": {
             "public": {
-                "buildid": "17368928",
-                "timeupdated": "1739548200"
+                "buildid": "17728004",
+                "timeupdated": "1741968460"
             }
         },
         "privatebranches": "1"
