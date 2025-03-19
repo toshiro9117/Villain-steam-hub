@@ -4,15 +4,15 @@
     "name": "Songs Of Silence",
     "schinese_name": "寂静之歌",
     "isfreeapp": "0",
-    "change_number": "27719477",
-    "update_time": "2025-02-28 22:55:53",
+    "change_number": "28013774",
+    "update_time": "2025-03-18 21:23:16",
     "depot": {
         "2195411": {
             "manifests": {
                 "public": {
-                    "gid": "2553375927279503526",
-                    "size": "6244443056",
-                    "download": "5320531328"
+                    "gid": "2069690566626176749",
+                    "size": "6247359769",
+                    "download": "5321988848"
                 }
             },
             "decryptionkey": "9634043c605d62441a08ab388b7013a6cedb82be1cff7dbcdf8a8f77045a773a"
@@ -21,8 +21,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17515212",
-                "timeupdated": "1740582674"
+                "buildid": "17680847",
+                "timeupdated": "1741718042"
             }
         },
         "privatebranches": "1"
