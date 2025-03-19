@@ -4,8 +4,8 @@
     "name": "The Infected",
     "schinese_name": "被感染者",
     "isfreeapp": "0",
-    "change_number": "27729477",
-    "update_time": "2025-03-01 11:44:09",
+    "change_number": "28006887",
+    "update_time": "2025-03-18 12:51:40",
     "depot": {
         "baselanguages": "english",
         "1360001": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6510118235281959127",
-                    "size": "8317222080",
-                    "download": "3629188992"
+                    "gid": "2303188859672629977",
+                    "size": "8313368279",
+                    "download": "3627570176"
                 },
                 "v13branch": {
                     "gid": "4589091352365755909",
@@ -25,17 +25,17 @@
                     "download": "2682452512"
                 },
                 "beta": {
-                    "gid": "6510118235281959127",
-                    "size": "8317222080",
-                    "download": "3629188992"
+                    "gid": "2303188859672629977",
+                    "size": "8313368279",
+                    "download": "3627570176"
                 }
             },
             "decryptionkey": "75516c3077794330ba3a9c5d117ae0a3e26afd8137ade1df24743136af5712d3"
         },
         "branches": {
             "public": {
-                "buildid": "17547306",
-                "timeupdated": "1740749399"
+                "buildid": "17626572",
+                "timeupdated": "1741299070"
             },
             "v13branch": {
                 "buildid": "9571656",
@@ -43,9 +43,9 @@
                 "timeupdated": "1682696291"
             },
             "beta": {
-                "buildid": "17547306",
+                "buildid": "17626572",
                 "description": "Beta Branch",
-                "timeupdated": "1740748652"
+                "timeupdated": "1741299042"
             }
         },
         "privatebranches": "1"
