@@ -4,8 +4,8 @@
     "name": "Volcanoids",
     "schinese_name": "火山钻地机",
     "isfreeapp": "0",
-    "change_number": "27730078",
-    "update_time": "2025-03-01 13:19:29",
+    "change_number": "28011070",
+    "update_time": "2025-03-18 18:21:21",
     "depot": {
         "workshopdepot": "951440",
         "951441": {
@@ -167,6 +167,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5fb974111c9bfc0d52b86f27a76de1f5f65222cc6433e8cc4e86f32d725a745e"
+        "workshopdepotdecryptionkey": ""
     }
 }
