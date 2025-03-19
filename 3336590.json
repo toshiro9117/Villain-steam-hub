@@ -4,23 +4,23 @@
     "name": "Puyo! Push Brain",
     "schinese_name": "噗哟！动脑子",
     "isfreeapp": "0",
-    "change_number": "27035528",
-    "update_time": "2025-01-17 10:53:04",
+    "change_number": "27947191",
+    "update_time": "2025-03-14 10:08:36",
     "depot": {
         "3336591": {
             "manifests": {
                 "public": {
-                    "gid": "1478131848038345344",
-                    "size": "31334904",
-                    "download": "14034320"
+                    "gid": "1756109281916230785",
+                    "size": "32661272",
+                    "download": "14394848"
                 }
             },
             "decryptionkey": "a19f63c49397e94241cc396956dc99b5ebc494d91643715764ab5f9cce17a928"
         },
         "branches": {
             "public": {
-                "buildid": "17433321",
-                "timeupdated": "1740061930"
+                "buildid": "17671287",
+                "timeupdated": "1741918109"
             }
         },
         "privatebranches": "1"
