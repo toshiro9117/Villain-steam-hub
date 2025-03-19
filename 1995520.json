@@ -4,8 +4,8 @@
     "name": "Pax Dei",
     "schinese_name": "天域安宁",
     "isfreeapp": "0",
-    "change_number": "27730098",
-    "update_time": "2025-03-01 13:23:06",
+    "change_number": "28013838",
+    "update_time": "2025-03-18 21:25:12",
     "depot": {
         "baselanguages": "english",
         "1995521": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3354130725910528719",
-                    "size": "28469133485",
-                    "download": "24719686432"
+                    "gid": "6376821441342138891",
+                    "size": "27354890941",
+                    "download": "23944326736"
                 }
             },
             "decryptionkey": "271758a3b39f9bc289928dfd32ba73ca43575d81f7b173e2dfedbe4297657fd7"
         },
         "branches": {
             "public": {
-                "buildid": "17335514",
-                "timeupdated": "1739529836"
+                "buildid": "17718490",
+                "timeupdated": "1741957358"
             }
         },
         "privatebranches": "1"
