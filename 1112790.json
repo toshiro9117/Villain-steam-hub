@@ -4,8 +4,8 @@
     "name": "Automation Empire",
     "schinese_name": "自动化帝国",
     "isfreeapp": "0",
-    "change_number": "26905374",
-    "update_time": "2025-01-08 17:14:33",
+    "change_number": "27839877",
+    "update_time": "2025-03-08 01:01:27",
     "depot": {
         "1112791": {
             "config": {
@@ -38,6 +38,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "68493d53a88938db53f35f38f35fe1a456a3f28bd3f77bc29b3ae3a231434cc5"
+        "workshopdepotdecryptionkey": ""
     }
 }
