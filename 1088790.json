@@ -4,8 +4,8 @@
     "name": "Rebel Inc: Escalation",
     "schinese_name": "反叛公司：战争升级",
     "isfreeapp": "0",
-    "change_number": "27052835",
-    "update_time": "2025-01-18 12:08:54",
+    "change_number": "27765113",
+    "update_time": "2025-03-04 09:22:53",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "hasdepotsindlc": "1",
@@ -71,6 +71,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d2374e196fa07e7cd8715ae590230dadc1c8fbe12d4dba9eb1d73d5ba922db3d"
+        "workshopdepotdecryptionkey": ""
     }
 }
