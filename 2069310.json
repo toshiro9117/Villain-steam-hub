@@ -4,8 +4,8 @@
     "name": "RealFlight Evolution",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27464394",
-    "update_time": "2025-02-14 01:40:00",
+    "change_number": "27982455",
+    "update_time": "2025-03-17 00:56:57",
     "depot": {
         "228988": {
             "config": {
@@ -32,9 +32,9 @@
                     "download": "6439829088"
                 },
                 "publicbeta_directx11": {
-                    "gid": "2093190582977127492",
-                    "size": "15620723576",
-                    "download": "7776178656"
+                    "gid": "8451658293041990650",
+                    "size": "15623150617",
+                    "download": "7778613328"
                 }
             },
             "decryptionkey": "f7c10cf67e59ca711014eb225bff0dd5b23321981134b4a51f54d255632bab00"
@@ -55,9 +55,9 @@
                 "timeupdated": "1734657460"
             },
             "publicbeta_directx11": {
-                "buildid": "17126573",
+                "buildid": "17539581",
                 "description": "DirectX 11 public beta",
-                "timeupdated": "1737768342"
+                "timeupdated": "1741057052"
             }
         },
         "privatebranches": "1"
