@@ -4,8 +4,8 @@
     "name": "Carrier Command 2",
     "schinese_name": "航母指挥官2",
     "isfreeapp": "0",
-    "change_number": "27124788",
-    "update_time": "2025-01-23 13:20:25",
+    "change_number": "28012854",
+    "update_time": "2025-03-18 20:22:24",
     "depot": {
         "228988": {
             "config": {
@@ -43,6 +43,7 @@
             "decryptionkey": "13d81d19fb6eca8c42546b1d00149b70ce330a3ecbb22f816e3b46c948264c29"
         },
         "workshopdepot": "1489630",
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
         "branches": {
             "public": {
                 "buildid": "16697878",
@@ -50,6 +51,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "6b5d7ae9843840a610abf7677c4e8ca8c08c53c19dfaa151c13dd61bbc6f5c17"
+        "workshopdepotdecryptionkey": ""
     }
 }
