@@ -4,15 +4,15 @@
     "name": "Vending Machine Business Simulator",
     "schinese_name": "自动售货机商业模拟器",
     "isfreeapp": "0",
-    "change_number": "27511891",
-    "update_time": "2025-02-17 16:34:41",
+    "change_number": "27983686",
+    "update_time": "2025-03-17 03:55:58",
     "depot": {
         "2998751": {
             "manifests": {
                 "public": {
-                    "gid": "1705874193168921137",
-                    "size": "4248596788",
-                    "download": "1487869056"
+                    "gid": "1105665965460626203",
+                    "size": "4262161577",
+                    "download": "1490244864"
                 }
             },
             "decryptionkey": "da8ce2c4542a33eb0d7c8cf3efeabe0cd2434e951d4b5932ffe4a7fca347bfab"
@@ -20,8 +20,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17390027",
-                "timeupdated": "1739781172"
+                "buildid": "17744369",
+                "timeupdated": "1742151908"
             }
         },
         "privatebranches": "1"
