@@ -4,8 +4,8 @@
     "name": "中国式网游",
     "schinese_name": "中国式网游",
     "isfreeapp": "0",
-    "change_number": "27538005",
-    "update_time": "2025-02-19 00:24:53",
+    "change_number": "27991116",
+    "update_time": "2025-03-17 18:09:03",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
@@ -23,9 +23,9 @@
             "dlcappid": "3193590",
             "manifests": {
                 "public": {
-                    "gid": "4918718440483921992",
-                    "size": "6222456463",
-                    "download": "2949939312"
+                    "gid": "2976684449836698638",
+                    "size": "6242025251",
+                    "download": "2953018400"
                 }
             },
             "decryptionkey": "d20a4d95eebfeb18d60aff959a5c584787ab9793bcfa5ba415dcc7b3dffc3acf"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17409906",
-                "timeupdated": "1739895888"
+                "buildid": "17749926",
+                "timeupdated": "1742206137"
             }
         },
         "privatebranches": "1"
