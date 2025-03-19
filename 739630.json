@@ -4,8 +4,8 @@
     "name": "Phasmophobia",
     "schinese_name": "恐鬼症",
     "isfreeapp": "0",
-    "change_number": "27530398",
-    "update_time": "2025-02-18 16:38:56",
+    "change_number": "27959729",
+    "update_time": "2025-03-14 23:42:24",
     "depot": {
         "228988": {
             "config": {
@@ -17,17 +17,17 @@
         "739631": {
             "manifests": {
                 "public": {
-                    "gid": "3975087730772523979",
-                    "size": "31054992943",
-                    "download": "11101208880"
+                    "gid": "4039482359974354177",
+                    "size": "31576561553",
+                    "download": "11506000752"
                 }
             },
             "decryptionkey": "a0af61717bae449e5db4a1cc6eb68d7604ac3a8e05ff5226faa14b5be67d640c"
         },
         "branches": {
             "public": {
-                "buildid": "17425732",
-                "timeupdated": "1740057039"
+                "buildid": "17685444",
+                "timeupdated": "1741871369"
             }
         },
         "privatebranches": "1"
