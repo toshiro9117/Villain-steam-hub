@@ -4,8 +4,8 @@
     "name": "Mindustry",
     "schinese_name": "像素工厂",
     "isfreeapp": "0",
-    "change_number": "27423431",
-    "update_time": "2025-02-12 00:15:22",
+    "change_number": "27998344",
+    "update_time": "2025-03-18 00:51:55",
     "depot": {
         "workshopdepot": "1127400",
         "1127401": {},
@@ -36,9 +36,9 @@
                     "download": "99651472"
                 },
                 "bleeding-edge": {
-                    "gid": "1354570014418999148",
-                    "size": "103180545",
-                    "download": "86983968"
+                    "gid": "1480243931215619868",
+                    "size": "103228476",
+                    "download": "87058688"
                 }
             },
             "decryptionkey": "0c3b8eed200732123d8cacc1b727e617fd6bb38b1f48bf98c39fb9f3988476bb"
@@ -70,9 +70,9 @@
                     "download": "93582288"
                 },
                 "bleeding-edge": {
-                    "gid": "3096911361040587167",
-                    "size": "105583716",
-                    "download": "85737472"
+                    "gid": "365619848671370973",
+                    "size": "105572514",
+                    "download": "85729216"
                 }
             },
             "decryptionkey": "5d643ae406f0ba2609d9dc4952010fac6ae5e9b8d0ada1c2e9f2f5f3b72951bb"
@@ -103,9 +103,9 @@
                     "download": "91041392"
                 },
                 "bleeding-edge": {
-                    "gid": "6842220371449688725",
-                    "size": "105373680",
-                    "download": "86119776"
+                    "gid": "1371734060438553956",
+                    "size": "105362478",
+                    "download": "86201968"
                 }
             },
             "decryptionkey": "c5d4d15b366440e5b7e6095831d86b858a11cd69a1e7aca35a013702bb856ebe"
@@ -165,11 +165,11 @@
                 "timeupdated": "1671641877"
             },
             "bleeding-edge": {
-                "buildid": "17471892",
+                "buildid": "17754514",
                 "description": "The latest development build, may be unstable - this is a one way trip, BACK UP SAVES BEFORE SWITCHING!",
-                "timeupdated": "1740292916"
+                "timeupdated": "1742230311"
             }
         },
-        "workshopdepotdecryptionkey": "650b3a380cb4d9cf1366f9e41857b3ecbb33cb2d29b6b7fe650dfdd1d500a2c5"
+        "workshopdepotdecryptionkey": ""
     }
 }
