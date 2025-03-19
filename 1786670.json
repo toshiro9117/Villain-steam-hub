@@ -4,15 +4,15 @@
     "name": "仙绣剑缘录",
     "schinese_name": "仙绣剑缘录",
     "isfreeapp": "0",
-    "change_number": "26897870",
-    "update_time": "2025-01-08 04:12:07",
+    "change_number": "27957372",
+    "update_time": "2025-03-14 21:36:20",
     "depot": {
         "1786671": {
             "manifests": {
                 "public": {
-                    "gid": "4327079409265256100",
-                    "size": "1704036902",
-                    "download": "1108565312"
+                    "gid": "6092301448714747119",
+                    "size": "1849243868",
+                    "download": "1248995392"
                 }
             },
             "decryptionkey": "30eee66f16f42ae8fbf5cf96abbbbfe5e68d33e5022612dec483fae6d3a805cc"
@@ -20,8 +20,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "16827771",
-                "timeupdated": "1734853769"
+                "buildid": "17725972",
+                "timeupdated": "1741959374"
             }
         }
     }
