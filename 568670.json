@@ -4,9 +4,11 @@
     "name": "Trapped Souls",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27463685",
-    "update_time": "2025-02-14 00:55:56",
+    "change_number": "27999521",
+    "update_time": "2025-03-18 02:06:02",
     "depot": {
+        "baselanguages": "english,ukrainian",
+        "hasdepotsindlc": "1",
         "568671": {
             "config": {
                 "oslist": "windows",
@@ -14,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9199108577467300597",
-                    "size": "1814009351",
-                    "download": "529082880"
+                    "gid": "7842768035353676274",
+                    "size": "1866564811",
+                    "download": "541752144"
                 }
             },
             "decryptionkey": "eb6bef7db6019f52e1dba58f06b1d34f47f185bc20068451e7ab87ca5d1b05ca"
@@ -35,11 +37,10 @@
             },
             "decryptionkey": "d6d1a2f9c0935d4a0dc0110f9b44ed813f74500b717ee770d0125d4591bd54d4"
         },
-        "baselanguages": "english,ukrainian",
         "branches": {
             "public": {
-                "buildid": "17469010",
-                "timeupdated": "1740253296"
+                "buildid": "17755199",
+                "timeupdated": "1742234206"
             }
         },
         "privatebranches": "1"
