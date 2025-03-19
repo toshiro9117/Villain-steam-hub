@@ -4,8 +4,8 @@
     "name": "Stardeus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27715438",
-    "update_time": "2025-02-28 18:50:47",
+    "change_number": "27770294",
+    "update_time": "2025-03-04 16:56:13",
     "depot": {
         "workshopdepot": "1380910",
         "1380916": {
@@ -15,19 +15,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3935191460052376097",
+                    "size": "1109343943",
+                    "download": "816030608"
+                },
+                "v0_12_pre": {
+                    "gid": "3935191460052376097",
+                    "size": "1109343943",
+                    "download": "816030608"
+                },
+                "old_version": {
                     "gid": "6502997912531897074",
                     "size": "1107709968",
                     "download": "815780784"
-                },
-                "v0_12_pre": {
-                    "gid": "7896383586153885340",
-                    "size": "1109340567",
-                    "download": "816036016"
-                },
-                "old_version": {
-                    "gid": "8635382781925785351",
-                    "size": "1107685319",
-                    "download": "815769984"
                 },
                 "v0_11_x": {
                     "gid": "4792750749902448691",
@@ -99,19 +99,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "9023339619509164199",
+                    "size": "1115692121",
+                    "download": "815074592"
+                },
+                "v0_12_pre": {
+                    "gid": "9023339619509164199",
+                    "size": "1115692121",
+                    "download": "815074592"
+                },
+                "old_version": {
                     "gid": "8685201561502073656",
                     "size": "1114058146",
                     "download": "814821360"
-                },
-                "v0_12_pre": {
-                    "gid": "4279699286177190036",
-                    "size": "1115688745",
-                    "download": "815075664"
-                },
-                "old_version": {
-                    "gid": "2162027967926222849",
-                    "size": "1114033497",
-                    "download": "814813328"
                 },
                 "v0_11_x": {
                     "gid": "2795925867766373584",
@@ -183,19 +183,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6898184846931296823",
+                    "size": "1142555261",
+                    "download": "824083056"
+                },
+                "v0_12_pre": {
+                    "gid": "6898184846931296823",
+                    "size": "1142555261",
+                    "download": "824083056"
+                },
+                "old_version": {
                     "gid": "1465349126761757801",
                     "size": "1140921798",
                     "download": "823832368"
-                },
-                "v0_12_pre": {
-                    "gid": "5290036753626758737",
-                    "size": "1142551885",
-                    "download": "824085920"
-                },
-                "old_version": {
-                    "gid": "4919794620660877400",
-                    "size": "1140897149",
-                    "download": "823820592"
                 },
                 "v0_11_x": {
                     "gid": "1182157069388221926",
@@ -263,18 +263,18 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17437973",
-                "timeupdated": "1740050011"
+                "buildid": "17586024",
+                "timeupdated": "1741078570"
             },
             "v0_12_pre": {
-                "buildid": "17545402",
+                "buildid": "17586024",
                 "description": "Experimental updates for v0.12",
-                "timeupdated": "1740739843"
+                "timeupdated": "1741078487"
             },
             "old_version": {
-                "buildid": "17362559",
+                "buildid": "17437973",
                 "description": "Previous build",
-                "timeupdated": "1739801685"
+                "timeupdated": "1741077608"
             },
             "v0_11_x": {
                 "buildid": "16224192",
@@ -338,6 +338,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "db52f988b2a6aaf9ec1482474b9b214e7c4a249e0529177f1b87d7ed6e053ef8"
+        "workshopdepotdecryptionkey": ""
     }
 }
