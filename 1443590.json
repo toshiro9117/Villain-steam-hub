@@ -4,8 +4,8 @@
     "name": " Warnament Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27401173",
-    "update_time": "2025-02-10 21:31:51",
+    "change_number": "27869366",
+    "update_time": "2025-03-10 18:38:04",
     "depot": {
         "229020": {
             "config": {
@@ -21,12 +21,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7571072203518921125",
-                    "size": "239013082",
-                    "download": "208416768"
+                    "gid": "3134842847723642826",
+                    "size": "255516597",
+                    "download": "219509312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1443592": {
             "config": {
@@ -35,12 +34,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4403996343697033077",
-                    "size": "231688610",
-                    "download": "206664384"
+                    "gid": "2547989968655842120",
+                    "size": "246435485",
+                    "download": "217301840"
                 }
-            },
-            "decryptionkey": "62c5de7dd8d7f590de7629e5f08c913718080c444b0b3ff3784b24b49ef74ab9"
+            }
         },
         "1443593": {
             "config": {
@@ -49,17 +47,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5154547982943385158",
-                    "size": "229540868",
-                    "download": "205917536"
+                    "gid": "5075183841036196535",
+                    "size": "244246623",
+                    "download": "216550720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17456147",
-                "timeupdated": "1740147115"
+                "buildid": "17636622",
+                "timeupdated": "1741358205"
             }
         }
     }
