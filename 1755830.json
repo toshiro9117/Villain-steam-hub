@@ -4,8 +4,8 @@
     "name": "Astrea: Six-Sided Oracles",
     "schinese_name": "阿斯特赖亚",
     "isfreeapp": "0",
-    "change_number": "27729819",
-    "update_time": "2025-03-01 12:37:33",
+    "change_number": "28003948",
+    "update_time": "2025-03-18 08:05:16",
     "depot": {
         "1755831": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "508938016"
                 },
                 "beta": {
-                    "gid": "6386226565914945967",
-                    "size": "2679605514",
-                    "download": "509013264"
+                    "gid": "1956093992827915201",
+                    "size": "2679617872",
+                    "download": "509018544"
                 }
             },
             "decryptionkey": "7929644c919935b45cd67ace72fe843e68a55b2f15aafbc4d146754bedfa2b45"
@@ -46,12 +46,12 @@
                 "timeupdated": "1734832062"
             },
             "beta": {
-                "buildid": "17556403",
+                "buildid": "17719892",
                 "description": "beta branch",
-                "timeupdated": "1740803850"
+                "timeupdated": "1741928385"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "28038915a8d7793a50ec7ca223441547abfc8732362038d7f881ca53c4a4e6e2"
+        "workshopdepotdecryptionkey": ""
     }
 }
