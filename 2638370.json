@@ -4,8 +4,8 @@
     "name": "Five Nights at Freddy's: Into the Pit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27315338",
-    "update_time": "2025-02-05 06:13:32",
+    "change_number": "28007168",
+    "update_time": "2025-03-18 13:21:54",
     "depot": {
         "2638371": {
             "config": {
@@ -14,27 +14,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8572367444177378688",
-                    "size": "3737996898",
-                    "download": "896703472"
+                    "gid": "5153321941414034057",
+                    "size": "3637452900",
+                    "download": "904015408"
                 },
                 "beta": {
-                    "gid": "8572367444177378688",
-                    "size": "3737996898",
-                    "download": "896703472"
+                    "gid": "5153321941414034057",
+                    "size": "3637452900",
+                    "download": "904015408"
                 }
             },
             "decryptionkey": "8852cf8d7bc2edf25ef5fa623e3a6811b710f8c4e6ed3d59de3db7f7a9776210"
         },
         "branches": {
             "public": {
-                "buildid": "16927487",
-                "timeupdated": "1736846090"
+                "buildid": "17061570",
+                "timeupdated": "1741057410"
             },
             "beta": {
-                "buildid": "16927487",
+                "buildid": "17061570",
                 "description": "public beta testing",
-                "timeupdated": "1736846057"
+                "timeupdated": "1741057429"
             }
         },
         "privatebranches": "1"
