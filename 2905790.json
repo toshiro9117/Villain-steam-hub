@@ -4,23 +4,23 @@
     "name": "PROJECT TACHYON",
     "schinese_name": "超光速计划",
     "isfreeapp": "0",
-    "change_number": "27731274",
-    "update_time": "2025-03-01 16:46:33",
+    "change_number": "27828304",
+    "update_time": "2025-03-07 11:46:43",
     "depot": {
         "2905791": {
             "manifests": {
                 "public": {
-                    "gid": "7193520309259303036",
-                    "size": "2298323386",
-                    "download": "720215264"
+                    "gid": "2521964679418152984",
+                    "size": "2307216846",
+                    "download": "722849232"
                 }
             },
             "decryptionkey": "8f41a9226ab0785dc4ad5763b2076b36932750036b451d81e802d445f6e3996e"
         },
         "branches": {
             "public": {
-                "buildid": "17407387",
-                "timeupdated": "1739940254"
+                "buildid": "17618066",
+                "timeupdated": "1741319197"
             }
         },
         "privatebranches": "1"
