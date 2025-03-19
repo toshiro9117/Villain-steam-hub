@@ -4,8 +4,8 @@
     "name": "Door Kickers: Action Squad",
     "schinese_name": "破门而入：行动小队",
     "isfreeapp": "0",
-    "change_number": "27458690",
-    "update_time": "2025-02-13 20:15:34",
+    "change_number": "27978205",
+    "update_time": "2025-03-16 12:20:52",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "686200",
@@ -83,6 +83,6 @@
                 "timeupdated": "1642184279"
             }
         },
-        "workshopdepotdecryptionkey": "52e20cbd52f17c26443c4c8bfa7ddcfbedb8ac3f1402230ec83bddc895ca7e19"
+        "workshopdepotdecryptionkey": ""
     }
 }
