@@ -4,15 +4,15 @@
     "name": "Obenseuer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27363085",
-    "update_time": "2025-02-07 20:27:31",
+    "change_number": "27938627",
+    "update_time": "2025-03-14 01:09:03",
     "depot": {
         "951241": {
             "manifests": {
                 "public": {
-                    "gid": "343463330813921097",
-                    "size": "7748773021",
-                    "download": "2316855568"
+                    "gid": "6241281721655807966",
+                    "size": "8265596770",
+                    "download": "2519283280"
                 },
                 "0.3.22": {
                     "gid": "8034410964783711415",
@@ -44,18 +44,23 @@
                     "size": "7648294072",
                     "download": "2296824496"
                 },
-                "playtestingpublic": {
+                "0.4.02": {
                     "gid": "343463330813921097",
                     "size": "7748773021",
                     "download": "2316855568"
+                },
+                "playtestingpublic": {
+                    "gid": "6241281721655807966",
+                    "size": "8265596770",
+                    "download": "2519283280"
                 }
             },
             "decryptionkey": "b0fe62283d60a499922b010c213d2cd3768d69cef6cfa191e837f214ffd9de4f"
         },
         "branches": {
             "public": {
-                "buildid": "17278570",
-                "timeupdated": "1738931042"
+                "buildid": "17711860",
+                "timeupdated": "1741885737"
             },
             "0.3.22": {
                 "buildid": "12877186",
@@ -87,10 +92,15 @@
                 "description": "V. 0.4.01",
                 "timeupdated": "1738928454"
             },
-            "playtestingpublic": {
+            "0.4.02": {
                 "buildid": "17278570",
+                "description": "V. 0.4.02",
+                "timeupdated": "1741871346"
+            },
+            "playtestingpublic": {
+                "buildid": "17711860",
                 "description": "Public testing branch",
-                "timeupdated": "1738925621"
+                "timeupdated": "1741883518"
             }
         },
         "privatebranches": "1"
