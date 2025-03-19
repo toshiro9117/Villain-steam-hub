@@ -4,14 +4,13 @@
     "name": "Prison Simulator",
     "schinese_name": "监狱模拟器 | Prison Simulator",
     "isfreeapp": "0",
-    "change_number": "27095743",
-    "update_time": "2025-01-21 23:26:09",
+    "change_number": "27992434",
+    "update_time": "2025-03-17 19:32:11",
     "depot": {
         "baselanguages": "english",
+        "workshopdepot": "842180",
+        "hasdepotsindlc": "1",
         "842181": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8855776631804349005",
@@ -21,7 +20,6 @@
             },
             "decryptionkey": "613f14926c14907812b3dafc61eace8ecad7bea31eb7d101181b78dbfdca03fb"
         },
-        "workshopdepot": "842180",
         "branches": {
             "public": {
                 "buildid": "11737500",
