@@ -4,8 +4,8 @@
     "name": "Альтушка для скуфа",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27482877",
-    "update_time": "2025-02-15 00:13:53",
+    "change_number": "27912367",
+    "update_time": "2025-03-12 21:57:52",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -30,6 +30,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "3426e28f85ca04a3ad324f222bc14d30bbbf2bab04ee35c953f1ad8caac040ba"
+        "workshopdepotdecryptionkey": ""
     }
 }
