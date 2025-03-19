@@ -4,15 +4,15 @@
     "name": "Wander Hero",
     "schinese_name": "漂流佣兵",
     "isfreeapp": "0",
-    "change_number": "27391829",
-    "update_time": "2025-02-10 07:27:39",
+    "change_number": "27903881",
+    "update_time": "2025-03-12 12:08:34",
     "depot": {
         "3101771": {
             "manifests": {
                 "public": {
-                    "gid": "3807288515211378881",
-                    "size": "2185048169",
-                    "download": "793061584"
+                    "gid": "706174724731776133",
+                    "size": "2185049193",
+                    "download": "793060640"
                 }
             },
             "decryptionkey": "a90af500793740aeb1d016807a9ed89bc371ee5a8e2a31cdcd2d438252c2d488"
@@ -20,10 +20,10 @@
         "workshopdepot": "3101770",
         "branches": {
             "public": {
-                "buildid": "16023425",
-                "timeupdated": "1728777690"
+                "buildid": "17646354",
+                "timeupdated": "1741435114"
             }
         },
-        "workshopdepotdecryptionkey": "4b50d3fcbc9d38b8424c13cdff8727c6e73ec0c5bb346dbfa6b746c5759ae598"
+        "workshopdepotdecryptionkey": ""
     }
 }
