@@ -4,8 +4,8 @@
     "name": "Knights of Braveland",
     "schinese_name": "勇敢之地骑士团",
     "isfreeapp": "0",
-    "change_number": "27526438",
-    "update_time": "2025-02-18 10:12:58",
+    "change_number": "27958403",
+    "update_time": "2025-03-14 22:37:04",
     "depot": {
         "hasdepotsindlc": "0",
         "1253611": {
@@ -16,9 +16,9 @@
                     "download": "876279120"
                 },
                 "beta": {
-                    "gid": "1618485694450264065",
-                    "size": "1134806424",
-                    "download": "876279120"
+                    "gid": "3929939986551533218",
+                    "size": "1134651657",
+                    "download": "876209376"
                 }
             },
             "decryptionkey": "3bfebdd43248d658a1001b36087a126fac229e5a2a5314cf9c722fd03c79ae17"
@@ -88,9 +88,9 @@
                 "timeupdated": "1719491759"
             },
             "beta": {
-                "buildid": "14858285",
+                "buildid": "17766355",
                 "description": "Beta",
-                "timeupdated": "1719490193"
+                "timeupdated": "1742305643"
             }
         },
         "privatebranches": "1"
