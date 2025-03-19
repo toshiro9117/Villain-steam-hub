@@ -4,15 +4,15 @@
     "name": "Madden NFL 24",
     "schinese_name": "《Madden NFL 24》",
     "isfreeapp": "0",
-    "change_number": "26686521",
-    "update_time": "2024-12-18 09:03:40",
+    "change_number": "27937758",
+    "update_time": "2025-03-14 00:38:30",
     "depot": {
         "2140331": {
             "manifests": {
                 "public": {
-                    "gid": "4997880042109649181",
-                    "size": "58998217850",
-                    "download": "55016398400"
+                    "gid": "634888713277826248",
+                    "size": "59001193672",
+                    "download": "55014457376"
                 }
             },
             "decryptionkey": "a30af95c1901fa829009611ec953e3f4eb01f70431f9191f423f711f6f22f47d"
@@ -23,17 +23,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5112119177574323047",
-                    "size": "121974",
-                    "download": "28240"
+                    "gid": "8074448667519660599",
+                    "size": "119190",
+                    "download": "28224"
                 }
             },
             "decryptionkey": "11333408b0267ea0a810b02e84fab1f1ba4dbeee58d16106ea53d7dff0e15795"
         },
         "branches": {
             "public": {
-                "buildid": "14836851",
-                "timeupdated": "1726052403"
+                "buildid": "17627468",
+                "timeupdated": "1741791642"
             }
         },
         "privatebranches": "1"
