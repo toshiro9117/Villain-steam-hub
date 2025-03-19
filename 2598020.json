@@ -1,0 +1,44 @@
+{
+    "appid": "2598020",
+    "type": "Game",
+    "name": "Spire Horizon Online",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27896260",
+    "update_time": "2025-03-12 01:47:24",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2598021": {
+            "manifests": {
+                "public": {
+                    "gid": "5363751466088137498",
+                    "size": "14035618318",
+                    "download": "13538077792"
+                }
+            },
+            "decryptionkey": "31150bab404b7925f35a9e0d9d631c53d1262f691b9bdcbbfedaeaf2ef420ebf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17679268",
+                "timeupdated": "1741712047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
