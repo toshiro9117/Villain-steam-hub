@@ -4,23 +4,23 @@
     "name": "Dealer's Life Legend",
     "schinese_name": "当铺人生传奇",
     "isfreeapp": "0",
-    "change_number": "27527645",
-    "update_time": "2025-02-18 12:16:38",
+    "change_number": "27912962",
+    "update_time": "2025-03-12 22:26:17",
     "depot": {
         "2185031": {
             "manifests": {
                 "public": {
-                    "gid": "4438563601051071058",
-                    "size": "252210255",
-                    "download": "187868464"
+                    "gid": "2126711235422008974",
+                    "size": "257072609",
+                    "download": "192519648"
                 }
             },
             "decryptionkey": "1e6ed8d13fd509f3b06030f51f4bffd3433ddc19d98c8e8ae2b22efe7bf2da60"
         },
         "branches": {
             "public": {
-                "buildid": "17394158",
-                "timeupdated": "1739965012"
+                "buildid": "17677285",
+                "timeupdated": "1741775941"
             }
         },
         "privatebranches": "1"
