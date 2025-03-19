@@ -4,8 +4,8 @@
     "name": "Battle Talent",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27434970",
-    "update_time": "2025-02-12 16:14:50",
+    "change_number": "27960852",
+    "update_time": "2025-03-15 00:37:50",
     "depot": {
         "baselanguages": "english,schinese",
         "1331511": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2116319876558203090",
-                    "size": "10094277698",
-                    "download": "4187941360"
+                    "gid": "8250102048917040622",
+                    "size": "10269891402",
+                    "download": "4355827440"
                 },
                 "v11p0": {
                     "gid": "8186553595831027849",
@@ -34,19 +34,19 @@
                     "download": "3364214208"
                 },
                 "last_version": {
-                    "gid": "6494136698021881087",
-                    "size": "9359457424",
-                    "download": "3819232272"
+                    "gid": "2116319876558203090",
+                    "size": "10094277698",
+                    "download": "4187941360"
                 },
                 "temp": {
-                    "gid": "2116319876558203090",
-                    "size": "10094277698",
-                    "download": "4187941360"
+                    "gid": "8250102048917040622",
+                    "size": "10269891402",
+                    "download": "4355827440"
                 },
                 "test": {
-                    "gid": "2116319876558203090",
-                    "size": "10094277698",
-                    "download": "4187941360"
+                    "gid": "8250102048917040622",
+                    "size": "10269891402",
+                    "download": "4355827440"
                 },
                 "v11p7": {
                     "gid": "5812252158786590961",
@@ -62,14 +62,19 @@
                     "gid": "6494136698021881087",
                     "size": "9359457424",
                     "download": "3819232272"
+                },
+                "v12p3": {
+                    "gid": "2116319876558203090",
+                    "size": "10094277698",
+                    "download": "4187941360"
                 }
             },
             "decryptionkey": "9d19b5149dfae08b763ccd5e2ebf36ab20614929162165dd5aa4bc7d6e7cdd18"
         },
         "branches": {
             "public": {
-                "buildid": "17090360",
-                "timeupdated": "1737546202"
+                "buildid": "17717941",
+                "timeupdated": "1741970235"
             },
             "v11p0": {
                 "buildid": "11378924",
@@ -87,19 +92,19 @@
                 "timeupdated": "1709342619"
             },
             "last_version": {
-                "buildid": "16595968",
+                "buildid": "17090360",
                 "description": "last version",
-                "timeupdated": "1734709792"
+                "timeupdated": "1741970200"
             },
             "temp": {
-                "buildid": "17090360",
+                "buildid": "17717941",
                 "description": "just used for bug fixed",
-                "timeupdated": "1737546528"
+                "timeupdated": "1741970266"
             },
             "test": {
-                "buildid": "17090360",
+                "buildid": "17717941",
                 "description": "test",
-                "timeupdated": "1737546546"
+                "timeupdated": "1741919954"
             },
             "v11p7": {
                 "buildid": "13666778",
@@ -115,6 +120,11 @@
                 "buildid": "16595968",
                 "description": "v12p2",
                 "timeupdated": "1734688317"
+            },
+            "v12p3": {
+                "buildid": "17090360",
+                "description": "v12p3",
+                "timeupdated": "1741970182"
             }
         },
         "privatebranches": "1"
