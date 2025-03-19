@@ -4,23 +4,23 @@
     "name": "100 Cats Mexico",
     "schinese_name": "100 只猫 墨西哥",
     "isfreeapp": "0",
-    "change_number": "27498155",
-    "update_time": "2025-02-16 06:14:25",
+    "change_number": "28009019",
+    "update_time": "2025-03-18 16:16:45",
     "depot": {
         "2784251": {
             "manifests": {
                 "public": {
-                    "gid": "4503483307756063917",
-                    "size": "67787128",
-                    "download": "23227728"
+                    "gid": "5347623676740914751",
+                    "size": "67788232",
+                    "download": "23228048"
                 }
             },
             "decryptionkey": "bba21d95ca70da7c8d222a30338a8ca00b0320d82c18e112028e6bb5fd8367df"
         },
         "branches": {
             "public": {
-                "buildid": "15712636",
-                "timeupdated": "1726475441"
+                "buildid": "17762365",
+                "timeupdated": "1742285798"
             }
         }
     }
