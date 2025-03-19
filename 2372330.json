@@ -4,23 +4,23 @@
     "name": "血之诗: 月之蚀",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27519934",
-    "update_time": "2025-02-18 01:14:45",
+    "change_number": "27883875",
+    "update_time": "2025-03-11 12:08:12",
     "depot": {
         "2372331": {
             "manifests": {
                 "public": {
-                    "gid": "9178571213908054868",
-                    "size": "8432624275",
-                    "download": "659952608"
+                    "gid": "2722688521934433703",
+                    "size": "9056027152",
+                    "download": "735291232"
                 }
             },
             "decryptionkey": "07f41754bba0b990ab7cb40d3b98264155d8095234b71eed3a3e2fca7dbf3462"
         },
         "branches": {
             "public": {
-                "buildid": "17136666",
-                "timeupdated": "1737954995"
+                "buildid": "17660858",
+                "timeupdated": "1741666088"
             }
         },
         "privatebranches": "1"
