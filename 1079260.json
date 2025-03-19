@@ -4,8 +4,8 @@
     "name": "Fireworks Mania",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27444959",
-    "update_time": "2025-02-13 02:40:11",
+    "change_number": "27876327",
+    "update_time": "2025-03-11 01:40:04",
     "depot": {
         "1079261": {
             "config": {
@@ -47,12 +47,12 @@
             },
             "v2024.10.5": {
                 "buildid": "16079925",
-                "description": "\tIn case you want to go back to before multiplayer support",
+                "description": "Before multiplayer support",
                 "timeupdated": "1729162824"
             },
             "v2021.6.2": {
                 "buildid": "6988476",
-                "description": "In case you want to go back to before mod support",
+                "description": "Before mod support",
                 "timeupdated": "1639832351"
             }
         },
