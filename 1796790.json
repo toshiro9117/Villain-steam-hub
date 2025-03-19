@@ -4,8 +4,8 @@
     "name": "Chef RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729119",
-    "update_time": "2025-03-01 10:53:24",
+    "change_number": "27982178",
+    "update_time": "2025-03-17 00:20:50",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "643832616548697554",
-                    "size": "4373420437",
-                    "download": "293493680"
+                    "gid": "1091390394481220048",
+                    "size": "4649148149",
+                    "download": "305944032"
                 }
             },
             "decryptionkey": "0b0dba64aab4ff027e61e09957f6e9dba4ea9bc96857960210bcec88932b2f43"
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4903782696272850620",
-                    "size": "4375662197",
-                    "download": "293950912"
+                    "gid": "8721643035604388534",
+                    "size": "4651389901",
+                    "download": "306304032"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17007379",
-                "timeupdated": "1736907160"
+                "buildid": "17667726",
+                "timeupdated": "1741643508"
             }
         },
         "privatebranches": "1"
