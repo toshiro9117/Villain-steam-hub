@@ -4,23 +4,23 @@
     "name": "HEART of CROWN Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27731272",
-    "update_time": "2025-03-01 16:46:07",
+    "change_number": "27946904",
+    "update_time": "2025-03-14 09:46:01",
     "depot": {
         "1883001": {
             "manifests": {
                 "public": {
-                    "gid": "1576393173270603935",
-                    "size": "1098074895",
-                    "download": "277789648"
+                    "gid": "628904361437950296",
+                    "size": "1131872227",
+                    "download": "287809856"
                 }
             },
             "decryptionkey": "1c3d505d969c8e4cf548c03125a41f1b86027ebd612ef1314d6661084eb37e65"
         },
         "branches": {
             "public": {
-                "buildid": "17555334",
-                "timeupdated": "1740795909"
+                "buildid": "17716212",
+                "timeupdated": "1741916716"
             }
         },
         "privatebranches": "1"
