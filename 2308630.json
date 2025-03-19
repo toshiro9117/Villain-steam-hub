@@ -4,23 +4,23 @@
     "name": "Dawnfolk",
     "schinese_name": "晨曦族人",
     "isfreeapp": "0",
-    "change_number": "27718277",
-    "update_time": "2025-02-28 21:46:07",
+    "change_number": "27739622",
+    "update_time": "2025-03-02 14:36:22",
     "depot": {
         "2308631": {
             "manifests": {
                 "public": {
-                    "gid": "507240412683822705",
-                    "size": "1116356050",
-                    "download": "256217520"
+                    "gid": "676572615401134282",
+                    "size": "1116323650",
+                    "download": "256217424"
                 }
             },
             "decryptionkey": "4a0002995ee4b17bdf1fbcdf1b20a2ff66ecebbf0f7290dbe8d67d178e4c1983"
         },
         "branches": {
             "public": {
-                "buildid": "17530335",
-                "timeupdated": "1740656886"
+                "buildid": "17563542",
+                "timeupdated": "1740897379"
             }
         },
         "privatebranches": "1"
