@@ -4,15 +4,15 @@
     "name": "Blood Running",
     "schinese_name": "血奔",
     "isfreeapp": "0",
-    "change_number": "27730589",
-    "update_time": "2025-03-01 14:45:56",
+    "change_number": "27986185",
+    "update_time": "2025-03-17 09:54:36",
     "depot": {
         "2641491": {
             "manifests": {
                 "public": {
-                    "gid": "364360441484510374",
-                    "size": "887373784",
-                    "download": "589863024"
+                    "gid": "1567495194499644243",
+                    "size": "887375667",
+                    "download": "589862576"
                 },
                 "gm_runtime_2024_09_09": {
                     "gid": "463254334580241472",
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17459144",
-                "timeupdated": "1740161358"
+                "buildid": "17636890",
+                "timeupdated": "1741359333"
             },
             "gm_runtime_2024_09_09": {
                 "buildid": "16572222",
