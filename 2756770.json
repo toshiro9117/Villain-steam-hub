@@ -4,8 +4,8 @@
     "name": "Tavern Manager Simulator",
     "schinese_name": "酒馆经理模拟器",
     "isfreeapp": "0",
-    "change_number": "27541711",
-    "update_time": "2025-02-19 04:19:20",
+    "change_number": "27876720",
+    "update_time": "2025-03-11 02:04:41",
     "depot": {
         "baselanguages": "english",
         "2756771": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4428735714200296544",
-                    "size": "2252861448",
-                    "download": "962242832"
+                    "gid": "3789524152908968708",
+                    "size": "2315695565",
+                    "download": "981576080"
                 }
             },
             "decryptionkey": "0c1c614022f82e0e0bd88cecdff31567aece1953e21109bd4e7d91b1d304f67f"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5654203707068776114",
-                    "size": "2252861448",
-                    "download": "962366384"
+                    "gid": "3020233688391385612",
+                    "size": "2315695565",
+                    "download": "981390560"
                 }
             },
             "decryptionkey": "c5c4a4c8cb3322c1d1ff087adcf81e06729df57f37ba64586782ec5e2bd64e46"
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17333210",
-                "timeupdated": "1739349671"
+                "buildid": "17652758",
+                "timeupdated": "1741527093"
             }
         },
         "privatebranches": "1"
