@@ -4,8 +4,8 @@
     "name": "Dominions 6",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27718870",
-    "update_time": "2025-02-28 22:19:45",
+    "change_number": "27930672",
+    "update_time": "2025-03-13 18:21:16",
     "depot": {
         "228983": {
             "config": {
@@ -17,9 +17,9 @@
         "2511501": {
             "manifests": {
                 "public": {
-                    "gid": "3823301600035349708",
-                    "size": "720255917",
-                    "download": "358835600"
+                    "gid": "1059684938548960336",
+                    "size": "720517281",
+                    "download": "358859264"
                 }
             },
             "decryptionkey": "6b58ad19cccc805f5adc2d5cface5a64b6490949e613e5355945ad000126266a"
@@ -27,11 +27,11 @@
         "workshopdepot": "2511500",
         "branches": {
             "public": {
-                "buildid": "16989040",
-                "timeupdated": "1736958421"
+                "buildid": "17646073",
+                "timeupdated": "1741430724"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "05c2f1798694459e11e20ab9299dd447f44ec3327fd3ee8bbdb004b7d48af94f"
+        "workshopdepotdecryptionkey": ""
     }
 }
