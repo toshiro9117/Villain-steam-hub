@@ -4,8 +4,8 @@
     "name": "Jupiter Hell",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722932",
-    "update_time": "2025-03-01 02:02:13",
+    "change_number": "27898213",
+    "update_time": "2025-03-12 04:04:46",
     "depot": {
         "228988": {
             "config": {
@@ -124,6 +124,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "2dcd1e76b4b2067c1c45f9840092a25a3e10cd7eab2585f2bfac95b7c0c524a8"
+        "workshopdepotdecryptionkey": ""
     }
 }
