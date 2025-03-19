@@ -4,8 +4,8 @@
     "name": "Cross Blitz",
     "schinese_name": "纵横命途",
     "isfreeapp": "0",
-    "change_number": "27530688",
-    "update_time": "2025-02-18 16:59:47",
+    "change_number": "27907717",
+    "update_time": "2025-03-12 17:26:50",
     "depot": {
         "1619521": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "440701616"
                 },
                 "crossblitz_beta": {
-                    "gid": "4966878295780382944",
-                    "size": "600856894",
-                    "download": "462279056"
+                    "gid": "1068284217384461045",
+                    "size": "600895105",
+                    "download": "462305376"
                 }
             },
             "decryptionkey": "1ab8c00375deb010f355c6bf2d5694790029242fdffafd27bb134159a46d7053"
@@ -31,9 +31,9 @@
                 "timeupdated": "1734967216"
             },
             "crossblitz_beta": {
-                "buildid": "17404162",
+                "buildid": "17507151",
                 "description": "Beta branch of Cross Blitz, open to the public",
-                "timeupdated": "1740065125"
+                "timeupdated": "1741100688"
             }
         },
         "privatebranches": "1"
