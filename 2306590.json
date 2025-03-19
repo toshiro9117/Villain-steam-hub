@@ -4,23 +4,23 @@
     "name": "Apewar",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27712919",
-    "update_time": "2025-02-28 16:50:16",
+    "change_number": "27980592",
+    "update_time": "2025-03-16 20:20:43",
     "depot": {
         "2306591": {
             "manifests": {
                 "public": {
-                    "gid": "4952163058971709355",
-                    "size": "907099211",
-                    "download": "324067568"
+                    "gid": "3566084652994315079",
+                    "size": "948603667",
+                    "download": "330431072"
                 }
             },
             "decryptionkey": "689156c990a38f4886226f6e26b34240022c4797df61376b9ae4d897a8deaf8f"
         },
         "branches": {
             "public": {
-                "buildid": "13778487",
-                "timeupdated": "1710796217"
+                "buildid": "17717312",
+                "timeupdated": "1741971482"
             }
         }
     }
