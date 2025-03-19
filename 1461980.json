@@ -4,8 +4,8 @@
     "name": "Nine：Ambition",
     "schinese_name": "九州：立志",
     "isfreeapp": "0",
-    "change_number": "27377405",
-    "update_time": "2025-02-08 18:28:51",
+    "change_number": "27826413",
+    "update_time": "2025-03-07 09:07:16",
     "depot": {
         "baselanguages": "schinese",
         "1461981": {
@@ -14,6 +14,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "665666756217803674",
+                    "size": "906567673",
+                    "download": "359931216"
+                },
+                "20250225": {
                     "gid": "6452639631002355338",
                     "size": "934002619",
                     "download": "372977008"
@@ -33,12 +38,17 @@
         },
         "branches": {
             "public": {
+                "buildid": "17620818",
+                "timeupdated": "1741309575"
+            },
+            "20250225": {
                 "buildid": "17290768",
-                "timeupdated": "1739010494"
+                "description": "2025..02.25.旧版本",
+                "timeupdated": "1740488774"
             },
             "ea0.8.1-24.12.18": {
                 "buildid": "16784265",
-                "description": "EA版本24年12月18日",
+                "description": "EA.24.12.18(旧UI版)",
                 "timeupdated": "1737690731"
             },
             "public_test": {
