@@ -4,15 +4,15 @@
     "name": "Salt 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27727043",
-    "update_time": "2025-03-01 07:09:49",
+    "change_number": "28011559",
+    "update_time": "2025-03-18 18:56:02",
     "depot": {
         "1574901": {
             "manifests": {
                 "public": {
-                    "gid": "6467052569448702076",
-                    "size": "2296260282",
-                    "download": "1843570112"
+                    "gid": "475229011181050978",
+                    "size": "2424870964",
+                    "download": "1920706256"
                 },
                 "2023.1.9": {
                     "gid": "5539168838984352738",
@@ -30,14 +30,14 @@
                     "download": "654635536"
                 },
                 "beta": {
-                    "gid": "4979739387953010769",
-                    "size": "2396578225",
-                    "download": "1895832784"
+                    "gid": "475229011181050978",
+                    "size": "2424870964",
+                    "download": "1920706256"
                 },
                 "previous": {
-                    "gid": "4607493383058249073",
-                    "size": "2225973746",
-                    "download": "1791477520"
+                    "gid": "6467052569448702076",
+                    "size": "2296260282",
+                    "download": "1843570112"
                 }
             },
             "decryptionkey": "f9729ddb9e16b7e3fd87d0f3a825826c9a78a51fc3e98ce6f4874e1f845fb6f4"
@@ -51,8 +51,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "16862763",
-                "timeupdated": "1736170857"
+                "buildid": "17668416",
+                "timeupdated": "1741869020"
             },
             "2023.1.9": {
                 "buildid": "10732309",
@@ -71,14 +71,14 @@
                 "timeupdated": "1656341532"
             },
             "beta": {
-                "buildid": "17553928",
+                "buildid": "17668416",
                 "description": "Test upcoming patches",
-                "timeupdated": "1740784185"
+                "timeupdated": "1741715374"
             },
             "previous": {
-                "buildid": "15153608",
+                "buildid": "16862763",
                 "description": "the build before the most recent",
-                "timeupdated": "1731601598"
+                "timeupdated": "1741018028"
             }
         },
         "privatebranches": "1"
