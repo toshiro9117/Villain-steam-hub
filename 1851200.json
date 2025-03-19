@@ -4,23 +4,23 @@
     "name": "CS Diamantes Pipas",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27711544",
-    "update_time": "2025-02-28 16:42:33",
+    "change_number": "27978562",
+    "update_time": "2025-03-16 13:45:02",
     "depot": {
         "1851201": {
             "manifests": {
                 "public": {
-                    "gid": "7087294457458196611",
-                    "size": "1669342605",
-                    "download": "284418080"
+                    "gid": "2511859397452324416",
+                    "size": "1733692409",
+                    "download": "289150512"
                 }
             },
             "decryptionkey": "655c8218c06d50701c644dde3bd8efa1da411be899b2f2360424a0d781f0c7ac"
         },
         "branches": {
             "public": {
-                "buildid": "17369173",
-                "timeupdated": "1739586488"
+                "buildid": "17623636",
+                "timeupdated": "1741284772"
             }
         }
     }
