@@ -4,8 +4,8 @@
     "name": "Overthrown",
     "schinese_name": "翻转世界",
     "isfreeapp": "0",
-    "change_number": "27725403",
-    "update_time": "2025-03-01 04:48:08",
+    "change_number": "28008630",
+    "update_time": "2025-03-18 15:46:25",
     "depot": {
         "1133501": {
             "config": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "694716404297997520",
-                    "size": "4239659793",
-                    "download": "3518382064"
+                    "gid": "3756116213009218290",
+                    "size": "4407954913",
+                    "download": "3667551456"
                 }
             },
             "decryptionkey": "9e1109440b19052b9cf6765455c03edf08679a6a15324cffe92a3a7b9a24fdaf"
         },
         "branches": {
             "public": {
-                "buildid": "17324342",
-                "timeupdated": "1739388545"
+                "buildid": "17575724",
+                "timeupdated": "1741107554"
             }
         },
         "privatebranches": "1"
