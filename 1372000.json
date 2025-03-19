@@ -4,8 +4,8 @@
     "name": "Flowstone Saga",
     "schinese_name": "星石传说",
     "isfreeapp": "0",
-    "change_number": "27726295",
-    "update_time": "2025-03-01 06:00:50",
+    "change_number": "27895992",
+    "update_time": "2025-03-12 01:31:52",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "1372002": {
@@ -19,9 +19,9 @@
                     "download": "814859888"
                 },
                 "beta": {
-                    "gid": "4985522987539440758",
-                    "size": "1622184408",
-                    "download": "692544192"
+                    "gid": "4035175149592306323",
+                    "size": "3821696339",
+                    "download": "755646400"
                 }
             },
             "decryptionkey": "c7be78b78dfa7242847d7c060637b5053783aca7758f5612fd50d15abfacbbb4"
@@ -68,9 +68,9 @@
                 "timeupdated": "1728872202"
             },
             "beta": {
-                "buildid": "17553466",
+                "buildid": "17680889",
                 "description": "Beta version",
-                "timeupdated": "1740780045"
+                "timeupdated": "1741714306"
             }
         }
     }
