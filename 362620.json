@@ -4,8 +4,8 @@
     "name": "Software Inc.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27332669",
-    "update_time": "2025-02-06 04:08:47",
+    "change_number": "27808034",
+    "update_time": "2025-03-06 13:02:25",
     "depot": {
         "workshopdepot": "362620",
         "362621": {
@@ -143,6 +143,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a711892f5aad78fdb03c23c24cf3d528e7a0010c1bb089d82cb9e32ae583d2f2"
+        "workshopdepotdecryptionkey": ""
     }
 }
