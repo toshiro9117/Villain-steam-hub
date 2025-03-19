@@ -4,8 +4,8 @@
     "name": "Steam Linux Runtime 2.0 (soldier)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27134887",
-    "update_time": "2025-01-24 01:16:38",
+    "change_number": "27894387",
+    "update_time": "2025-03-12 00:06:09",
     "depot": {
         "1391111": {
             "config": {
@@ -20,9 +20,9 @@
                     "download": "179592128"
                 },
                 "client_beta": {
-                    "gid": "7392836968075287031",
-                    "size": "649883581",
-                    "download": "179592128"
+                    "gid": "221233725579411950",
+                    "size": "655884658",
+                    "download": "181368336"
                 },
                 "previous_release": {
                     "gid": "2214012361443410071",
@@ -38,9 +38,9 @@
                 "timeupdated": "1737652588"
             },
             "client_beta": {
-                "buildid": "16954344",
+                "buildid": "17679736",
                 "description": "use with Steam beta client",
-                "timeupdated": "1736444070"
+                "timeupdated": "1741709153"
             },
             "previous_release": {
                 "buildid": "16645440",
