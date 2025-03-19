@@ -4,8 +4,8 @@
     "name": "Ballex²: The Hanging Gardens",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536459",
-    "update_time": "2025-02-18 22:57:09",
+    "change_number": "27988835",
+    "update_time": "2025-03-17 15:17:01",
     "depot": {
         "workshopdepot": "1383570",
         "hasdepotsindlc": "1",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4458289021113131702",
-                    "size": "6401960756",
-                    "download": "4112919840"
+                    "gid": "7572599023298385418",
+                    "size": "6400072695",
+                    "download": "4168107664"
                 }
             },
             "decryptionkey": "a4233c4ce9ac53eb8564875b3e377326a5433cdf13e17a41b714ef182e3f0037"
@@ -32,20 +32,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1455244191971549314",
-                    "size": "3439368700",
-                    "download": "2676078256"
+                    "gid": "4354368249512037083",
+                    "size": "3901193294",
+                    "download": "2355373296"
                 }
             },
             "decryptionkey": "3a02d2b2b621b12bbcc4745c3bcd3a5e07a05a978c0d80cab308f32d9b53fab4"
         },
         "branches": {
             "public": {
-                "buildid": "16962969",
-                "timeupdated": "1736504866"
+                "buildid": "17708954",
+                "timeupdated": "1741871466"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "90d5c21d0953ddfd5836fe12b173bd8a7883a7c26a4c763f0f7b718eea429a2c"
+        "workshopdepotdecryptionkey": ""
     }
 }
