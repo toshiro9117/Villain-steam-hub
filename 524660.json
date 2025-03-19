@@ -4,8 +4,8 @@
     "name": "RutonyChat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27494005",
-    "update_time": "2025-02-15 20:43:41",
+    "change_number": "27882314",
+    "update_time": "2025-03-11 09:36:56",
     "depot": {
         "228986": {
             "config": {
@@ -40,9 +40,9 @@
                     "download": "203646960"
                 },
                 "test": {
-                    "gid": "3875927871833275109",
-                    "size": "520547073",
-                    "download": "216325536"
+                    "gid": "8609881151780640965",
+                    "size": "1455861438",
+                    "download": "650177872"
                 },
                 "test_prev": {
                     "gid": "3875927871833275109",
@@ -88,13 +88,13 @@
             },
             "1may": {
                 "buildid": "11130396",
-                "description": "1may",
+                "description": "Last version with Win7 support",
                 "timeupdated": "1694702141"
             },
             "test": {
-                "buildid": "16245778",
+                "buildid": "17670416",
                 "description": "Public test branch",
-                "timeupdated": "1739623416"
+                "timeupdated": "1741657002"
             },
             "test_prev": {
                 "buildid": "16245778",
@@ -103,6 +103,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "2cc207d3f50b430a5201ad265964ace09fbb69280244994e2a8c223702035192"
+        "workshopdepotdecryptionkey": ""
     }
 }
