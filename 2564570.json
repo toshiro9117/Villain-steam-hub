@@ -4,8 +4,8 @@
     "name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27540831",
-    "update_time": "2025-02-19 03:17:15",
+    "change_number": "27890876",
+    "update_time": "2025-03-11 20:52:26",
     "depot": {
         "2564571": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3053010873028456974",
-                    "size": "3195089728",
-                    "download": "2441113600"
+                    "gid": "3365474034217981104",
+                    "size": "3196230940",
+                    "download": "2442483152"
                 },
                 "2.2.4p": {
                     "gid": "7983925019049527213",
@@ -42,7 +42,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4190467837071936613",
+                    "gid": "7623125694629589910",
                     "size": "3196437046",
                     "download": "2442286160"
                 },
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16759067",
-                "timeupdated": "1734353648"
+                "buildid": "17412119",
+                "timeupdated": "1741697539"
             },
             "2.2.4p": {
                 "buildid": "13207243",
