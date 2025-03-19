@@ -4,20 +4,20 @@
     "name": "Life Not Supported",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27418190",
-    "update_time": "2025-02-11 18:48:03",
+    "change_number": "28010649",
+    "update_time": "2025-03-18 17:53:49",
     "depot": {
         "1670811": {
             "manifests": {
                 "public": {
-                    "gid": "1723317083752360339",
-                    "size": "3150489323",
-                    "download": "967492384"
+                    "gid": "9109999026432290517",
+                    "size": "1859050860",
+                    "download": "1355734688"
                 },
                 "beta": {
-                    "gid": "1723317083752360339",
-                    "size": "3150489323",
-                    "download": "967492384"
+                    "gid": "9109999026432290517",
+                    "size": "1859050860",
+                    "download": "1355734688"
                 }
             },
             "decryptionkey": "9af7226fc4ed01e6b84a5ebdaeaf6d1030af8bb8d19e4e599ffa5442266647f1"
@@ -28,27 +28,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8179597411477342768",
-                    "size": "1632433027",
-                    "download": "1180237424"
+                    "gid": "7883674272992759507",
+                    "size": "1877134261",
+                    "download": "1365121456"
                 },
                 "beta": {
-                    "gid": "8179597411477342768",
-                    "size": "1632433027",
-                    "download": "1180237424"
+                    "gid": "7883674272992759507",
+                    "size": "1877134261",
+                    "download": "1365121456"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15275551",
-                "timeupdated": "1722940918"
+                "buildid": "17763436",
+                "timeupdated": "1742291624"
             },
             "beta": {
-                "buildid": "15275551",
+                "buildid": "17763436",
                 "description": "Use to test the latest stuff!",
-                "timeupdated": "1722940878"
+                "timeupdated": "1742291293"
             }
         }
     }
