@@ -4,8 +4,8 @@
     "name": "Xenonauts 2",
     "schinese_name": "异种航员2 Xenonauts 2",
     "isfreeapp": "0",
-    "change_number": "27537416",
-    "update_time": "2025-02-18 23:49:37",
+    "change_number": "28004785",
+    "update_time": "2025-03-18 09:17:15",
     "depot": {
         "538031": {
             "manifests": {
@@ -15,19 +15,19 @@
                     "download": "4331332272"
                 },
                 "experimental": {
-                    "gid": "7837911792697943408",
-                    "size": "5901100598",
-                    "download": "4404591168"
+                    "gid": "1989762135287368469",
+                    "size": "5920580138",
+                    "download": "4418589536"
                 },
                 "experimental_legacy": {
-                    "gid": "8618692493880236166",
-                    "size": "5901450342",
-                    "download": "4404879024"
+                    "gid": "1965635032256023167",
+                    "size": "5904481991",
+                    "download": "4407648320"
                 },
                 "legacy": {
-                    "gid": "8199932953190777653",
-                    "size": "5548538300",
-                    "download": "4159559072"
+                    "gid": "4053105713047871941",
+                    "size": "5840014932",
+                    "download": "4331332272"
                 },
                 "legacy_milestone3": {
                     "gid": "5343799075260696281",
@@ -44,19 +44,19 @@
                 "timeupdated": "1729614002"
             },
             "experimental": {
-                "buildid": "17455388",
+                "buildid": "17755208",
                 "description": "Experimental / unstable builds",
-                "timeupdated": "1740194909"
+                "timeupdated": "1742260628"
             },
             "experimental_legacy": {
-                "buildid": "17407719",
+                "buildid": "17625042",
                 "description": "Previous experimental build",
-                "timeupdated": "1740194247"
+                "timeupdated": "1741791927"
             },
             "legacy": {
-                "buildid": "14870355",
+                "buildid": "16099189",
                 "description": "Contains the last Stable build",
-                "timeupdated": "1721059855"
+                "timeupdated": "1741877983"
             },
             "legacy_milestone3": {
                 "buildid": "14007555",
