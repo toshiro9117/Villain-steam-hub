@@ -4,16 +4,16 @@
     "name": "AfterWar",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27521224",
-    "update_time": "2025-02-18 02:36:16",
+    "change_number": "27848477",
+    "update_time": "2025-03-08 14:59:48",
     "depot": {
         "hasdepotsindlc": "1",
         "2497571": {
             "manifests": {
                 "public": {
-                    "gid": "666461395232036552",
-                    "size": "902838980",
-                    "download": "232783520"
+                    "gid": "1033653999269520410",
+                    "size": "868277373",
+                    "download": "200929072"
                 },
                 "alpha0.1": {
                     "gid": "2973933358033800686",
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17448927",
-                "timeupdated": "1740109032"
+                "buildid": "17644936",
+                "timeupdated": "1741417175"
             },
             "alpha0.1": {
                 "buildid": "12286867",
