@@ -4,8 +4,8 @@
     "name": "Walkabout Mini Golf",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27448023",
-    "update_time": "2025-02-13 06:09:07",
+    "change_number": "28002642",
+    "update_time": "2025-03-18 06:02:05",
     "depot": {
         "1408231": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3563686169031813331",
-                    "size": "18345010581",
-                    "download": "6411359728"
+                    "gid": "2570698229824649553",
+                    "size": "19392094577",
+                    "download": "6784792800"
                 }
             },
             "decryptionkey": "801d8b1cbfc15f01db9306fd2300d43d12ac7cfa46ffde9b86425538d1966813"
         },
         "branches": {
             "public": {
-                "buildid": "16970125",
-                "timeupdated": "1737046548"
+                "buildid": "17698222",
+                "timeupdated": "1741882246"
             }
         },
         "privatebranches": "1"
