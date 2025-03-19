@@ -4,8 +4,8 @@
     "name": "Approaching Infinity",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27388246",
-    "update_time": "2025-02-09 23:22:12",
+    "change_number": "27755106",
+    "update_time": "2025-03-03 22:24:29",
     "depot": {
         "551621": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6792296600575897190",
-                    "size": "232785733",
-                    "download": "194993680"
+                    "gid": "2993001338671847228",
+                    "size": "197691617",
+                    "download": "160576560"
                 },
                 "legacy17": {
                     "gid": "5410150077758334434",
@@ -28,9 +28,9 @@
                     "download": "142291776"
                 },
                 "betafromnowon": {
-                    "gid": "692422118939933781",
-                    "size": "234042808",
-                    "download": "195825888"
+                    "gid": "2993001338671847228",
+                    "size": "197691617",
+                    "download": "160576560"
                 },
                 "legacy18": {
                     "gid": "6144293929719760100",
@@ -43,8 +43,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16883480",
-                "timeupdated": "1736024226"
+                "buildid": "17575177",
+                "timeupdated": "1741011528"
             },
             "legacy17": {
                 "buildid": "10904696",
@@ -57,9 +57,9 @@
                 "timeupdated": "1606098480"
             },
             "betafromnowon": {
-                "buildid": "17472350",
+                "buildid": "17575177",
                 "description": "beta branch",
-                "timeupdated": "1740300287"
+                "timeupdated": "1741011473"
             },
             "legacy18": {
                 "buildid": "12583598",
