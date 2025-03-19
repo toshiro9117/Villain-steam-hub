@@ -4,8 +4,8 @@
     "name": "VTOL VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27470134",
-    "update_time": "2025-02-14 08:44:00",
+    "change_number": "28004409",
+    "update_time": "2025-03-18 08:47:57",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "667970",
@@ -21,9 +21,14 @@
                     "download": "810145648"
                 },
                 "public_testing": {
-                    "gid": "1379067679024764053",
-                    "size": "3473899864",
-                    "download": "807751936"
+                    "gid": "6405116507260793321",
+                    "size": "3482710553",
+                    "download": "810634528"
+                },
+                "haptic_test": {
+                    "gid": "883007304908127705",
+                    "size": "3487615816",
+                    "download": "810769552"
                 },
                 "v1.10.3f1": {
                     "gid": "2285230262709032604",
@@ -80,9 +85,14 @@
                 "timeupdated": "1733787269"
             },
             "public_testing": {
-                "buildid": "17359756",
+                "buildid": "17758943",
                 "description": "Public unstable build testing",
-                "timeupdated": "1739493837"
+                "timeupdated": "1742258874"
+            },
+            "haptic_test": {
+                "buildid": "17613104",
+                "description": "Launches to haptics test scene.",
+                "timeupdated": "1741228418"
             },
             "v1.10.3f1": {
                 "buildid": "15494726",
@@ -126,6 +136,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "6d5bb740323cbaf5e450db87b8c2595e1ded9a3e2b96f87dab6a32c635bbd512"
+        "workshopdepotdecryptionkey": ""
     }
 }
