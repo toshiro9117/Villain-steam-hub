@@ -4,8 +4,8 @@
     "name": "Cultist Simulator",
     "schinese_name": "密教模拟器",
     "isfreeapp": "0",
-    "change_number": "27332673",
-    "update_time": "2025-02-06 04:09:23",
+    "change_number": "28001468",
+    "update_time": "2025-03-18 04:22:48",
     "depot": {
         "hasdepotsindlc": "1",
         "718671": {
@@ -24,9 +24,9 @@
                     "download": "182125136"
                 },
                 "gateofhorn": {
-                    "gid": "8573706030118944236",
-                    "size": "700526456",
-                    "download": "230766288"
+                    "gid": "8194922434226629570",
+                    "size": "700531504",
+                    "download": "230767408"
                 },
                 "legacy_unsupported_2023.12.s.6": {
                     "gid": "3126456634373454651",
@@ -53,9 +53,9 @@
                     "download": "188252096"
                 },
                 "gateofhorn": {
-                    "gid": "7008575145319496787",
-                    "size": "729051857",
-                    "download": "241662208"
+                    "gid": "6546535600889262719",
+                    "size": "729056904",
+                    "download": "241662688"
                 },
                 "legacy_unsupported_2023.12.s.6": {
                     "gid": "1491213042050392666",
@@ -82,9 +82,9 @@
                     "download": "182976352"
                 },
                 "gateofhorn": {
-                    "gid": "6901571837575637595",
-                    "size": "723846212",
-                    "download": "229662704"
+                    "gid": "3582347248712077789",
+                    "size": "723851260",
+                    "download": "229663440"
                 },
                 "legacy_unsupported_2023.12.s.6": {
                     "gid": "2965200299345187373",
@@ -106,9 +106,9 @@
                 "timeupdated": "1646920085"
             },
             "gateofhorn": {
-                "buildid": "16472404",
+                "buildid": "17750097",
                 "description": "Beta branch, reasonably stable",
-                "timeupdated": "1732106722"
+                "timeupdated": "1742207161"
             },
             "legacy_unsupported_2023.12.s.6": {
                 "buildid": "13977825",
@@ -117,6 +117,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "330e56718beb0870998bd42ad67b000888f9623075f7493a163f2a8671e3a159"
+        "workshopdepotdecryptionkey": ""
     }
 }
