@@ -4,8 +4,8 @@
     "name": "LingerieS / ランジェリーズ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729574",
-    "update_time": "2025-03-01 11:57:49",
+    "change_number": "27813133",
+    "update_time": "2025-03-06 19:08:51",
     "depot": {
         "2890891": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2248615016715772529",
-                    "size": "1786460095",
-                    "download": "1593516464"
+                    "gid": "7285795164842505319",
+                    "size": "1861477534",
+                    "download": "1669313952"
                 }
             },
             "decryptionkey": "e60c94dbc93d4ff68753b42b9b3e597d749b8739eba27c0ea016196fd04888a3"
@@ -27,7 +27,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6571643762944460592",
+                    "gid": "7615988492611790829",
                     "size": "1756863209",
                     "download": "1697547104"
                 }
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17355051",
-                "timeupdated": "1739466504"
+                "buildid": "17593192",
+                "timeupdated": "1741113005"
             }
         },
         "privatebranches": "1"
