@@ -4,8 +4,8 @@
     "name": "Mahou Arms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27442769",
-    "update_time": "2025-02-13 00:22:38",
+    "change_number": "27968808",
+    "update_time": "2025-03-15 11:09:07",
     "depot": {
         "baselanguages": "english",
         "1165871": {
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9086372169551808841",
-                    "size": "11968792153",
-                    "download": "11822116080"
+                    "gid": "7373606703254337332",
+                    "size": "12012658541",
+                    "download": "11866827680"
                 }
             },
             "decryptionkey": "d9f54b16c1da7cd86fb9df6038fea5304ff0ab65adbf2e0508cab3112ada43a4"
         },
         "branches": {
             "public": {
-                "buildid": "17478103",
-                "timeupdated": "1740368776"
+                "buildid": "17732581",
+                "timeupdated": "1742008141"
             }
         },
         "privatebranches": "1"
