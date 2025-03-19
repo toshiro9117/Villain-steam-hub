@@ -4,33 +4,33 @@
     "name": "None Shall Intrude",
     "schinese_name": "不容进犯",
     "isfreeapp": "0",
-    "change_number": "27731742",
-    "update_time": "2025-03-01 17:46:08",
+    "change_number": "27977461",
+    "update_time": "2025-03-16 09:56:14",
     "depot": {
         "2518631": {
             "manifests": {
                 "public": {
-                    "gid": "751330057466283708",
-                    "size": "4043922094",
-                    "download": "3294236960"
+                    "gid": "5783688854447252243",
+                    "size": "4678431853",
+                    "download": "3827597792"
                 },
                 "beta": {
-                    "gid": "3394750584268254613",
-                    "size": "4384842259",
-                    "download": "3571614032"
+                    "gid": "1838974648356748432",
+                    "size": "4678457341",
+                    "download": "3827575584"
                 }
             },
             "decryptionkey": "68a9f666ac92ff0487c6382f0c4b1b0cb344b44c790e268c9cd8b2a4867177dd"
         },
         "branches": {
             "public": {
-                "buildid": "17350400",
-                "timeupdated": "1739444061"
+                "buildid": "17639301",
+                "timeupdated": "1741372499"
             },
             "beta": {
-                "buildid": "17552107",
+                "buildid": "17679281",
                 "description": "Beta",
-                "timeupdated": "1740772395"
+                "timeupdated": "1741706642"
             }
         }
     }
