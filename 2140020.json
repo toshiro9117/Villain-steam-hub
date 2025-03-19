@@ -4,8 +4,8 @@
     "name": "Stronghold: Definitive Edition",
     "schinese_name": "Stronghold: Definitive Edition 要塞：决定版",
     "isfreeapp": "0",
-    "change_number": "27404357",
-    "update_time": "2025-02-11 00:40:19",
+    "change_number": "27978207",
+    "update_time": "2025-03-16 12:21:27",
     "depot": {
         "workshopdepot": "2140020",
         "hasdepotsindlc": "0",
@@ -282,6 +282,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "75dcb6a5e3b9a70fae9d04d8b16d205876a0c29fcc4c64dc0fcad0d0f5eecc7f"
+        "workshopdepotdecryptionkey": ""
     }
 }
