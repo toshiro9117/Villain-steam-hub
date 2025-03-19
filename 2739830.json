@@ -4,8 +4,8 @@
     "name": "King Arthur: Legion IX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27496399",
-    "update_time": "2025-02-16 02:14:22",
+    "change_number": "27959087",
+    "update_time": "2025-03-14 23:11:27",
     "depot": {
         "2739831": {
             "manifests": {
@@ -20,17 +20,17 @@
         "2739832": {
             "manifests": {
                 "public": {
-                    "gid": "4348270673140128178",
-                    "size": "210844654",
-                    "download": "40293792"
+                    "gid": "3510764661031397140",
+                    "size": "210844635",
+                    "download": "40293840"
                 }
             },
             "decryptionkey": "490e05d04eaad11e552d29396b233999dc79f3cd9373a50c2defbd3645e4c195"
         },
         "branches": {
             "public": {
-                "buildid": "14363953",
-                "timeupdated": "1715769335"
+                "buildid": "17726821",
+                "timeupdated": "1741965082"
             }
         },
         "privatebranches": "1"
