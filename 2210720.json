@@ -4,15 +4,15 @@
     "name": "JR EAST Train Simulator: Tokaido Line (Tokyo to Atami) E233-3000 series",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27533186",
-    "update_time": "2025-02-18 19:35:12",
+    "change_number": "28008782",
+    "update_time": "2025-03-18 15:57:07",
     "depot": {
         "2210721": {
             "manifests": {
                 "public": {
-                    "gid": "5936950414224254787",
-                    "size": "252072816",
-                    "download": "255492416"
+                    "gid": "4467959629009084866",
+                    "size": "252617088",
+                    "download": "256021632"
                 }
             },
             "dlcappid": "2210720",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15738274",
-                "timeupdated": "1727156761"
+                "buildid": "17525863",
+                "timeupdated": "1740646464"
             }
         },
         "privatebranches": "1"
