@@ -4,23 +4,23 @@
     "name": "Chaos Express",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726134",
-    "update_time": "2025-03-01 05:46:05",
+    "change_number": "27932713",
+    "update_time": "2025-03-13 20:22:40",
     "depot": {
         "2818481": {
             "manifests": {
                 "public": {
-                    "gid": "2084258330720139404",
-                    "size": "5322041559",
-                    "download": "4904336352"
+                    "gid": "8016648533104697960",
+                    "size": "5654599705",
+                    "download": "5236008592"
                 }
             },
             "decryptionkey": "84526ae4986ee5db4c4e4c98ddfff9d3568e795bf1c06026e6146195d83fae42"
         },
         "branches": {
             "public": {
-                "buildid": "17468842",
-                "timeupdated": "1740251466"
+                "buildid": "17698337",
+                "timeupdated": "1741810105"
             }
         },
         "privatebranches": "1"
