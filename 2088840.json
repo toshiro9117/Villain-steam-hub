@@ -1,0 +1,39 @@
+{
+    "appid": "2088840",
+    "type": "Game",
+    "name": "Picayune Dreams",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28003705",
+    "update_time": "2025-03-18 07:42:45",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2088841": {
+            "manifests": {
+                "public": {
+                    "gid": "3971839858206244848",
+                    "size": "1037022589",
+                    "download": "939161776"
+                },
+                "compatibility": {
+                    "gid": "5446542316167947095",
+                    "size": "1029360521",
+                    "download": "937625424"
+                }
+            },
+            "decryptionkey": "d94248295f21c98beccd3492513b916ce1614a571d684ac7f904bfbd84d7900c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17758431",
+                "timeupdated": "1742254960"
+            },
+            "compatibility": {
+                "buildid": "17758412",
+                "description": "VM build, for compatibility and more openness",
+                "timeupdated": "1742254846"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
