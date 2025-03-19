@@ -4,15 +4,15 @@
     "name": "The Seven Realms: High Lathión - Official Walkthrough",
     "schinese_name": "七界：拉菲恩圣地 - 官方攻略",
     "isfreeapp": "0",
-    "change_number": "26711551",
-    "update_time": "2024-12-19 18:34:56",
+    "change_number": "27751642",
+    "update_time": "2025-03-03 18:05:30",
     "depot": {
         "3277900": {
             "manifests": {
                 "public": {
-                    "gid": "1522872251160282231",
-                    "size": "60211641",
-                    "download": "51403792"
+                    "gid": "5263674950078368800",
+                    "size": "61137229",
+                    "download": "51972320"
                 }
             },
             "dlcappid": "3277900",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16785694",
-                "timeupdated": "1734603956"
+                "buildid": "17566158",
+                "timeupdated": "1740996326"
             }
         },
         "privatebranches": "1"
