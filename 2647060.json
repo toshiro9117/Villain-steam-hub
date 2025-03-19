@@ -4,8 +4,8 @@
     "name": "LoveXLust",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27718484",
-    "update_time": "2025-02-28 21:58:13",
+    "change_number": "27937806",
+    "update_time": "2025-03-14 00:40:21",
     "depot": {
         "2647062": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8358439300642972833",
-                    "size": "12453104330",
-                    "download": "4790970560"
+                    "gid": "1260722460190529149",
+                    "size": "12395845244",
+                    "download": "4741252192"
                 }
             },
             "decryptionkey": "1eeff9296d2b048f8d60177445cab55c7f44d2f23d6490a7abfff7bb46500435"
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17459293",
-                "timeupdated": "1740164021"
+                "buildid": "17710916",
+                "timeupdated": "1741884017"
             }
         },
         "privatebranches": "1"
