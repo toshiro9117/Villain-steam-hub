@@ -4,8 +4,8 @@
     "name": "Solargene",
     "schinese_name": "太阳基因",
     "isfreeapp": "0",
-    "change_number": "27511417",
-    "update_time": "2025-02-17 15:59:17",
+    "change_number": "27933957",
+    "update_time": "2025-03-13 21:37:18",
     "depot": {
         "228988": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3611253973017957431",
-                    "size": "12484396087",
-                    "download": "11603560112"
+                    "gid": "2089828412329594067",
+                    "size": "12482991922",
+                    "download": "11602166496"
                 },
                 "v0.10": {
                     "gid": "7692265208928600718",
@@ -46,9 +46,9 @@
                     "download": "18471607568"
                 },
                 "beta": {
-                    "gid": "2089828412329594067",
-                    "size": "12482991922",
-                    "download": "11602166496"
+                    "gid": "4550531517842918828",
+                    "size": "12483349864",
+                    "download": "11602474816"
                 },
                 "debug": {
                     "gid": "5197290169008785584",
@@ -71,8 +71,8 @@
         "workshopdepot": "1638300",
         "branches": {
             "public": {
-                "buildid": "17278481",
-                "timeupdated": "1739179278"
+                "buildid": "17389832",
+                "timeupdated": "1740395413"
             },
             "v0.10": {
                 "buildid": "9554563",
@@ -95,9 +95,9 @@
                 "timeupdated": "1657193757"
             },
             "beta": {
-                "buildid": "17389832",
+                "buildid": "17709572",
                 "description": "\tTesting builds before publishing to the main branch",
-                "timeupdated": "1739779153"
+                "timeupdated": "1741873032"
             },
             "debug": {
                 "buildid": "15266723",
@@ -116,6 +116,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e1998dcd7d5e037400988a988c2b7dcb987a8a23d6a46fa64e77d92fc32d2bfe"
+        "workshopdepotdecryptionkey": ""
     }
 }
