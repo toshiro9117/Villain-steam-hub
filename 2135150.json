@@ -4,8 +4,8 @@
     "name": "Elin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27716953",
-    "update_time": "2025-02-28 20:22:26",
+    "change_number": "28006335",
+    "update_time": "2025-03-18 11:44:25",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "workshopdepot": "2135150",
@@ -17,30 +17,30 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2875812976465078523",
-                    "size": "2919523749",
-                    "download": "1060953152"
+                    "gid": "6102252734298146005",
+                    "size": "2936814423",
+                    "download": "1065220416"
                 },
                 "nightly": {
-                    "gid": "6536638502961786411",
-                    "size": "2936820895",
-                    "download": "1065150816"
+                    "gid": "3040086634689971639",
+                    "size": "2936925674",
+                    "download": "1065393680"
                 }
             },
             "decryptionkey": "b800fa7ccfbea4d3c24ba4e8d50bdab1b39bf15b492ac44ad91b5af2af02cc14"
         },
         "branches": {
             "public": {
-                "buildid": "17391755",
-                "timeupdated": "1739789570"
+                "buildid": "17619919",
+                "timeupdated": "1741266848"
             },
             "nightly": {
-                "buildid": "17514956",
+                "buildid": "17760304",
                 "description": "Unstable Nightly Version",
-                "timeupdated": "1740574252"
+                "timeupdated": "1742269456"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e44b1d7883f9f2cf8631386cc9fdc3ba593b707cc404267e7b6439f474c5908e"
+        "workshopdepotdecryptionkey": ""
     }
 }
