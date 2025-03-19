@@ -4,8 +4,8 @@
     "name": "FORTIFY",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730580",
-    "update_time": "2025-03-01 14:45:04",
+    "change_number": "27981763",
+    "update_time": "2025-03-16 23:19:26",
     "depot": {
         "505041": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5530589338509461112",
-                    "size": "111745759",
-                    "download": "28168992"
+                    "gid": "5354752019831352947",
+                    "size": "111960463",
+                    "download": "28225472"
                 },
                 "testing": {
-                    "gid": "5530589338509461112",
-                    "size": "111745759",
-                    "download": "28168992"
+                    "gid": "5354752019831352947",
+                    "size": "111960463",
+                    "download": "28225472"
                 }
             },
             "decryptionkey": "55427e1043b3f94d81973e9ae9bfa6b47296dad8ffcd2b9f3ea2100b9acb0ddd"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7351622618224896777",
-                    "size": "133059148",
-                    "download": "36856032"
+                    "gid": "804070580075160523",
+                    "size": "133273852",
+                    "download": "36914592"
                 },
                 "testing": {
-                    "gid": "7351622618224896777",
-                    "size": "133059148",
-                    "download": "36856032"
+                    "gid": "804070580075160523",
+                    "size": "133273852",
+                    "download": "36914592"
                 }
             },
             "decryptionkey": "3b5db81dac58dcac2771acbb5ad520d8f468f39519830b5b89af1c71b1729535"
@@ -49,14 +49,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7686552024961993228",
-                    "size": "185014192",
-                    "download": "55592784"
+                    "gid": "3606061731603431918",
+                    "size": "185228896",
+                    "download": "55651072"
                 },
                 "testing": {
-                    "gid": "7686552024961993228",
-                    "size": "185014192",
-                    "download": "55592784"
+                    "gid": "3606061731603431918",
+                    "size": "185228896",
+                    "download": "55651072"
                 }
             },
             "decryptionkey": "531a1906c2f0b563c4d875d0379ddb4532b7e7991c7d025dc9e36c8a70745953"
@@ -64,15 +64,15 @@
         "workshopdepot": "505040",
         "branches": {
             "public": {
-                "buildid": "17468507",
-                "timeupdated": "1740247159"
+                "buildid": "17743376",
+                "timeupdated": "1742138345"
             },
             "testing": {
-                "buildid": "17468507",
-                "timeupdated": "1740247172"
+                "buildid": "17743376",
+                "timeupdated": "1742138360"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c5efdf3326ce49cf346ed2d2f12bf61c615ea50dadd213eb96811ba6693b1618"
+        "workshopdepotdecryptionkey": ""
     }
 }
