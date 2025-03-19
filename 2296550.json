@@ -4,8 +4,8 @@
     "name": "Axon TD: Uprising",
     "schinese_name": "铁壁矩阵：轴突塔防",
     "isfreeapp": "0",
-    "change_number": "27415856",
-    "update_time": "2025-02-11 16:11:33",
+    "change_number": "27856969",
+    "update_time": "2025-03-09 15:08:45",
     "depot": {
         "2296551": {
             "manifests": {
@@ -36,6 +36,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "b6da200b9e55b0d81523000ef97403c18dae8bff7aa08d52b9c0d12cf7e02c09"
+        "workshopdepotdecryptionkey": ""
     }
 }
