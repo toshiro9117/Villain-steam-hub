@@ -4,8 +4,8 @@
     "name": "Mount & Blade II: Bannerlord",
     "schinese_name": "骑马与砍杀2：霸主",
     "isfreeapp": "0",
-    "change_number": "27727911",
-    "update_time": "2025-03-01 08:33:01",
+    "change_number": "28004599",
+    "update_time": "2025-03-18 09:02:26",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -33,11 +33,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "778291566662837149",
-                    "size": "4739136022",
-                    "download": "3659929552"
-                },
-                "v1.2.12": {
                     "gid": "778291566662837149",
                     "size": "4739136022",
                     "download": "3659929552"
@@ -166,6 +161,11 @@
                     "gid": "3866228193305563713",
                     "size": "4739136022",
                     "download": "3659929840"
+                },
+                "v1.2.12": {
+                    "gid": "778291566662837149",
+                    "size": "4739136022",
+                    "download": "3659929552"
                 }
             },
             "decryptionkey": "b6cfe4c61b9f19a7399a290c50b3dc18052f63b095401ffb3aa8286277597365"
@@ -178,11 +178,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4067181865176684988",
-                    "size": "47533967672",
-                    "download": "34648397168"
-                },
-                "v1.2.12": {
                     "gid": "4067181865176684988",
                     "size": "47533967672",
                     "download": "34648397168"
@@ -316,6 +311,11 @@
                     "gid": "4167353200358167700",
                     "size": "47534000328",
                     "download": "34648406784"
+                },
+                "v1.2.12": {
+                    "gid": "4067181865176684988",
+                    "size": "47533967672",
+                    "download": "34648397168"
                 }
             },
             "decryptionkey": "16a71c423df683e98af58e40c60a6fc8087dc360f977a73c7d138e8d26b99062"
@@ -324,11 +324,6 @@
             "public": {
                 "buildid": "16570121",
                 "timeupdated": "1733138937"
-            },
-            "v1.2.12": {
-                "buildid": "16570121",
-                "description": "v1.2.12",
-                "timeupdated": "1733139000"
             },
             "beta": {
                 "buildid": "15164289",
@@ -460,9 +455,14 @@
                 "buildid": "15275630",
                 "description": "v1.2.11",
                 "timeupdated": "1723206183"
+            },
+            "v1.2.12": {
+                "buildid": "16570121",
+                "description": "v1.2.12",
+                "timeupdated": "1733139000"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "979c4a097d819ee61862a7ad898e1a20dea3708a8dcbeaaa00a54c4975c1b107"
+        "workshopdepotdecryptionkey": ""
     }
 }
