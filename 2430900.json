@@ -4,8 +4,8 @@
     "name": "Among Ashes",
     "schinese_name": "Among Ashes / 灰烬之中",
     "isfreeapp": "0",
-    "change_number": "27519934",
-    "update_time": "2025-02-18 01:14:46",
+    "change_number": "27741614",
+    "update_time": "2025-03-02 20:28:25",
     "depot": {
         "2430901": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6877613611794840041",
-                    "size": "8620985454",
-                    "download": "3725115184"
+                    "gid": "4213888955936144046",
+                    "size": "8621004238",
+                    "download": "3725143328"
                 }
             },
             "decryptionkey": "90cfd24a24b805820e19c590e43a32922893e12eddebac0e319874a503e49b86"
         },
         "branches": {
             "public": {
-                "buildid": "17452871",
-                "timeupdated": "1740132066"
+                "buildid": "17565077",
+                "timeupdated": "1740918501"
             }
         },
         "privatebranches": "1"
