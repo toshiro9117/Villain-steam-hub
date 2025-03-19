@@ -4,8 +4,8 @@
     "name": "彼方的她-Aliya 音画集",
     "schinese_name": "彼方的她-Aliya 音画集",
     "isfreeapp": "0",
-    "change_number": "27429209",
-    "update_time": "2025-02-12 07:59:46",
+    "change_number": "27842753",
+    "update_time": "2025-03-08 04:09:29",
     "depot": {
         "3041091": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6401908843561048445",
-                    "size": "492979150",
-                    "download": "434942224"
+                    "gid": "6083090935924446282",
+                    "size": "500081825",
+                    "download": "442067568"
                 }
             },
             "decryptionkey": "37bc468045c4960ea4fb5d62ca79ecc5b2d47d945fe60bc48f27121beb934078"
@@ -23,17 +23,17 @@
         "3041092": {
             "manifests": {
                 "public": {
-                    "gid": "5858027377320847938",
-                    "size": "225441598",
-                    "download": "225545392"
+                    "gid": "4865095073877896739",
+                    "size": "232544273",
+                    "download": "232670736"
                 }
             },
             "decryptionkey": "a0bf08b76d6cf0c86ddc6aa2f7e24077e20e3c575c57f375b5b4ce9cec9ad98e"
         },
         "branches": {
             "public": {
-                "buildid": "16842055",
-                "timeupdated": "1735033730"
+                "buildid": "17582895",
+                "timeupdated": "1741056052"
             }
         }
     }
