@@ -4,25 +4,25 @@
     "name": "Hired 2 Die",
     "schinese_name": "Hired 2 Die 雇佣受死",
     "isfreeapp": "0",
-    "change_number": "27729201",
-    "update_time": "2025-03-01 11:04:52",
+    "change_number": "28013687",
+    "update_time": "2025-03-18 21:15:55",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
         "1729141": {
             "manifests": {
                 "public": {
-                    "gid": "3165635574214042000",
-                    "size": "2698331182",
-                    "download": "1391325024"
+                    "gid": "3753356448589598462",
+                    "size": "2658890236",
+                    "download": "1387502912"
                 }
             },
             "decryptionkey": "da5a3e6bbc24688b7eae2f57170eab07c66edcdf9ebf81b9bada505b0d0a2462"
         },
         "branches": {
             "public": {
-                "buildid": "17536763",
-                "timeupdated": "1740688282"
+                "buildid": "17717284",
+                "timeupdated": "1741912795"
             }
         },
         "privatebranches": "1"
