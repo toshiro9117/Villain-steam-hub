@@ -4,24 +4,24 @@
     "name": "Food Delivery Simulator",
     "schinese_name": "送餐模拟器",
     "isfreeapp": "0",
-    "change_number": "27541687",
-    "update_time": "2025-02-19 04:14:52",
+    "change_number": "27739659",
+    "update_time": "2025-03-02 14:46:52",
     "depot": {
         "baselanguages": "english",
         "2986372": {
             "manifests": {
                 "public": {
-                    "gid": "5251087790211629409",
-                    "size": "2432488384",
-                    "download": "790863920"
+                    "gid": "8641540682244810705",
+                    "size": "2454654784",
+                    "download": "799631280"
                 }
             },
             "decryptionkey": "3c33608cb0e40db3a3b700286443175881b1b14cc8fd17721e09a50c570791fc"
         },
         "branches": {
             "public": {
-                "buildid": "17217148",
-                "timeupdated": "1738522270"
+                "buildid": "17502213",
+                "timeupdated": "1740499582"
             }
         }
     }
