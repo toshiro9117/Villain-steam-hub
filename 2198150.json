@@ -4,8 +4,8 @@
     "name": "Tiny Glade",
     "schinese_name": "林间小世界",
     "isfreeapp": "0",
-    "change_number": "27725830",
-    "update_time": "2025-03-01 05:22:23",
+    "change_number": "27955237",
+    "update_time": "2025-03-14 19:49:33",
     "depot": {
         "228988": {
             "config": {
@@ -22,24 +22,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6911844144586561210",
-                    "size": "2448474897",
-                    "download": "1340232224"
+                    "gid": "5283902136686400523",
+                    "size": "2475071866",
+                    "download": "1330607888"
                 },
                 "beta-1_13_0": {
-                    "gid": "2551210746103653715",
-                    "size": "2475377731",
-                    "download": "1330452768"
+                    "gid": "8842829929210206983",
+                    "size": "2475927859",
+                    "download": "1330880448"
                 },
-                "old-1_12_0": {
-                    "gid": "7079390824449153980",
-                    "size": "2448520086",
-                    "download": "1340281808"
-                },
-                "testing": {
+                "old-1_12_1": {
                     "gid": "6911844144586561210",
                     "size": "2448474897",
                     "download": "1340232224"
+                },
+                "testing": {
+                    "gid": "5283902136686400523",
+                    "size": "2475071866",
+                    "download": "1330607888"
                 }
             },
             "decryptionkey": "a64cc2160b07e8fd86f1a2f001987b46e6760e59b3e0ac07915743a4eb695bac"
@@ -51,47 +51,47 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4260473591285961254",
-                    "size": "2536197400",
-                    "download": "1344904880"
+                    "gid": "8821215773037375640",
+                    "size": "2562492532",
+                    "download": "1335273040"
                 },
                 "beta-1_13_0": {
-                    "gid": "9149149890892463665",
-                    "size": "2562866389",
-                    "download": "1335180256"
+                    "gid": "5893050644304887348",
+                    "size": "2564803064",
+                    "download": "1335590224"
                 },
-                "old-1_12_0": {
-                    "gid": "4334730462854064876",
-                    "size": "2536105605",
-                    "download": "1344933360"
-                },
-                "testing": {
+                "old-1_12_1": {
                     "gid": "4260473591285961254",
                     "size": "2536197400",
                     "download": "1344904880"
+                },
+                "testing": {
+                    "gid": "8821215773037375640",
+                    "size": "2562492532",
+                    "download": "1335273040"
                 }
             },
             "decryptionkey": "ef668181df894c351bdd06264513360aebd32539049befc1f36deae429957b8c"
         },
         "branches": {
             "public": {
-                "buildid": "17499064",
-                "timeupdated": "1740578439"
+                "buildid": "17666280",
+                "timeupdated": "1741635927"
             },
             "beta-1_13_0": {
-                "buildid": "17547969",
+                "buildid": "17646389",
                 "description": "2x terrain height + QoL",
-                "timeupdated": "1740751692"
+                "timeupdated": "1741435527"
             },
-            "old-1_12_0": {
-                "buildid": "17377887",
+            "old-1_12_1": {
+                "buildid": "17499064",
                 "description": "Previous build",
-                "timeupdated": "1740565472"
+                "timeupdated": "1741446586"
             },
             "testing": {
-                "buildid": "17499064",
+                "buildid": "17666280",
                 "description": "Pre-release testing (unstable)",
-                "timeupdated": "1740565484"
+                "timeupdated": "1741633402"
             }
         },
         "privatebranches": "1"
