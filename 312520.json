@@ -4,8 +4,8 @@
     "name": "Rain World",
     "schinese_name": "雨世界",
     "isfreeapp": "0",
-    "change_number": "27721075",
-    "update_time": "2025-03-01 00:22:15",
+    "change_number": "27997804",
+    "update_time": "2025-03-18 00:20:45",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -57,6 +57,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ef800a2479027ef2829d53f0c9cccd74da5c5f7fa82e5bb626c069cd07cd2b99"
+        "workshopdepotdecryptionkey": ""
     }
 }
