@@ -4,16 +4,16 @@
     "name": "Project Winter",
     "schinese_name": "冬日计划",
     "isfreeapp": "0",
-    "change_number": "27539267",
-    "update_time": "2025-02-19 01:42:18",
+    "change_number": "27926048",
+    "update_time": "2025-03-13 12:53:09",
     "depot": {
         "hasdepotsindlc": "1",
         "774862": {
             "manifests": {
                 "public": {
-                    "gid": "803948430477763081",
-                    "size": "2471798522",
-                    "download": "1772297632"
+                    "gid": "8893228857652636440",
+                    "size": "2475446321",
+                    "download": "1773613136"
                 }
             },
             "decryptionkey": "7ebe2b518f78af33401d895c196fda07bfe8c06f605f600560d4ea5698eb6fa7"
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16931984",
-                "timeupdated": "1738267715"
+                "buildid": "17426990",
+                "timeupdated": "1741641876"
             }
         },
         "privatebranches": "1"
