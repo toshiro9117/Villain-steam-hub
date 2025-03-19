@@ -4,8 +4,8 @@
     "name": "命运游戏-4K版",
     "schinese_name": "命运游戏：逆时寻凶-4K版",
     "isfreeapp": "0",
-    "change_number": "26258324",
-    "update_time": "2024-11-19 17:06:01",
+    "change_number": "28010999",
+    "update_time": "2025-03-18 18:15:43",
     "depot": {
         "3196491": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8264090852207814324",
-                    "size": "202488791135",
-                    "download": "205106106032"
+                    "gid": "3067561245863755650",
+                    "size": "202494050148",
+                    "download": "205108131056"
                 }
             },
             "dlcappid": "3196490",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "196556023781676517",
-                    "size": "202489120280",
-                    "download": "205106354000"
+                    "gid": "9216166704015256734",
+                    "size": "202499596069",
+                    "download": "205108198128"
                 }
             },
             "dlcappid": "3196490",
@@ -39,8 +39,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16455935",
-                "timeupdated": "1732007155"
+                "buildid": "17763793",
+                "timeupdated": "1742292932"
             }
         },
         "appmanagesdlc": "1"
