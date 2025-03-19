@@ -4,23 +4,23 @@
     "name": "Threefold Recital 三相奇谈",
     "schinese_name": "三相奇谈",
     "isfreeapp": "0",
-    "change_number": "27727788",
-    "update_time": "2025-03-01 08:21:45",
+    "change_number": "27973378",
+    "update_time": "2025-03-15 23:21:36",
     "depot": {
         "3084281": {
             "manifests": {
                 "public": {
-                    "gid": "3141837632798741349",
-                    "size": "4464028423",
-                    "download": "484981472"
+                    "gid": "7760939731312360583",
+                    "size": "4473595511",
+                    "download": "485527280"
                 }
             },
             "decryptionkey": "8992e70f6265e3afca1db65339f6132ed758d29b4517fd6e44039e6154082644"
         },
         "branches": {
             "public": {
-                "buildid": "17375177",
-                "timeupdated": "1739592461"
+                "buildid": "17713850",
+                "timeupdated": "1741893441"
             }
         },
         "privatebranches": "1"
