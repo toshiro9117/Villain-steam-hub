@@ -4,8 +4,8 @@
     "name": "EggGarden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27138140",
-    "update_time": "2025-01-24 05:23:10",
+    "change_number": "27769769",
+    "update_time": "2025-03-04 16:21:18",
     "depot": {
         "baselanguages": "",
         "3075041": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2792901692643563496",
-                    "size": "1239923247",
-                    "download": "222535264"
+                    "gid": "7533943752742357116",
+                    "size": "1192877120",
+                    "download": "220949936"
                 }
             },
             "decryptionkey": "d70545615dcb7034085e68d9d1610d4a9934eedd9eaae8f2e0511d624eafa78e"
         },
         "branches": {
             "public": {
-                "buildid": "16191662",
-                "timeupdated": "1729951652"
+                "buildid": "17585648",
+                "timeupdated": "1741076474"
             }
         },
         "privatebranches": "1"
