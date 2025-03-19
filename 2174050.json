@@ -4,13 +4,13 @@
     "name": "The Classrooms Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27725107",
-    "update_time": "2025-03-01 04:24:15",
+    "change_number": "28002385",
+    "update_time": "2025-03-18 05:36:40",
     "depot": {
         "hasdepotsindlc": "0",
         "2099111": {
             "config": {
-                "oslist": "windows",
+                "oslist": "windows,linux",
                 "osarch": "64"
             },
             "manifests": {
