@@ -4,15 +4,15 @@
     "name": "Coridden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27715547",
-    "update_time": "2025-02-28 18:58:19",
+    "change_number": "28003832",
+    "update_time": "2025-03-18 07:52:48",
     "depot": {
         "1656931": {
             "manifests": {
                 "public": {
-                    "gid": "398499104016531541",
-                    "size": "15009344535",
-                    "download": "6601982640"
+                    "gid": "3624580970302215851",
+                    "size": "15062804254",
+                    "download": "6613085312"
                 }
             },
             "decryptionkey": "b376bdb0502d1e99844e5c84dd2cd9b178186f17f4ec21d2b4a4c7cc5fff47cf"
@@ -21,8 +21,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17543759",
-                "timeupdated": "1740740294"
+                "buildid": "17752230",
+                "timeupdated": "1742221195"
             }
         },
         "privatebranches": "1"
