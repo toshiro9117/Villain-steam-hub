@@ -4,8 +4,8 @@
     "name": "Darkest Dungeon® II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27729741",
-    "update_time": "2025-03-01 12:22:44",
+    "change_number": "28006095",
+    "update_time": "2025-03-18 11:19:52",
     "depot": {
         "workshopdepot": "1940340",
         "1940341": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6170469594956133720",
-                    "size": "5703047539",
-                    "download": "4588125104"
+                    "gid": "6617043951921970552",
+                    "size": "5703048050",
+                    "download": "4588127232"
                 },
                 "coming_in_hot": {
-                    "gid": "6170469594956133720",
-                    "size": "5703047539",
-                    "download": "4588125104"
+                    "gid": "6617043951921970552",
+                    "size": "5703048050",
+                    "download": "4588127232"
                 }
             },
             "decryptionkey": "4266c37ee75bce9e4b3c5d16b0cffd8e21ed9ca98a95eed54900689ab5242d23"
@@ -34,12 +34,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2859430314142014200",
+                    "gid": "9084985843980827689",
                     "size": "224784516",
                     "download": "175740592"
                 },
                 "coming_in_hot": {
-                    "gid": "2859430314142014200",
+                    "gid": "9084985843980827689",
                     "size": "224784516",
                     "download": "175740592"
                 }
@@ -53,14 +53,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3998301622169643607",
-                    "size": "6223823448",
-                    "download": "4919999328"
+                    "gid": "2428429616992820686",
+                    "size": "6223824754",
+                    "download": "4920002096"
                 },
                 "coming_in_hot": {
-                    "gid": "3998301622169643607",
-                    "size": "6223823448",
-                    "download": "4919999328"
+                    "gid": "2428429616992820686",
+                    "size": "6223824754",
+                    "download": "4920002096"
                 }
             },
             "decryptionkey": "e9c92bd06c91103e6d6f07ae4be80184bb8a28fcb63018f3941d222048c45287"
@@ -73,14 +73,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "715740815730264009",
-                    "size": "244131931",
-                    "download": "188779424"
+                    "gid": "1461225248157657651",
+                    "size": "244131927",
+                    "download": "188779488"
                 },
                 "coming_in_hot": {
-                    "gid": "715740815730264009",
-                    "size": "244131931",
-                    "download": "188779424"
+                    "gid": "1461225248157657651",
+                    "size": "244131927",
+                    "download": "188779488"
                 }
             },
             "decryptionkey": "dbaaed9071a3364932fffa0e960be801e3abb368b91a3ebacb3bb0657e0cc6ca"
@@ -93,14 +93,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3554509721045482360",
+                    "gid": "1020046343295015488",
                     "size": "442731533",
-                    "download": "347658896"
+                    "download": "347658912"
                 },
                 "coming_in_hot": {
-                    "gid": "3554509721045482360",
+                    "gid": "1020046343295015488",
                     "size": "442731533",
-                    "download": "347658896"
+                    "download": "347658912"
                 }
             },
             "decryptionkey": "36bbc8f34a0af50c71728ea98f60e80969087846308d321308eeacf180c72b81"
@@ -113,30 +113,30 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7034204501395942956",
-                    "size": "545320215",
-                    "download": "414365536"
+                    "gid": "6231610157547887115",
+                    "size": "545320180",
+                    "download": "414365520"
                 },
                 "coming_in_hot": {
-                    "gid": "7034204501395942956",
-                    "size": "545320215",
-                    "download": "414365536"
+                    "gid": "6231610157547887115",
+                    "size": "545320180",
+                    "download": "414365520"
                 }
             },
             "decryptionkey": "b1b962b48dd30d0bca610ea61a17f745d8e60bf227f5b60c93ce056739650224"
         },
         "branches": {
             "public": {
-                "buildid": "17504452",
-                "timeupdated": "1740513792"
+                "buildid": "17699056",
+                "timeupdated": "1741894734"
             },
             "coming_in_hot": {
-                "buildid": "17504452",
+                "buildid": "17699056",
                 "description": "Experimental builds",
-                "timeupdated": "1740513753"
+                "timeupdated": "1741816414"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "813ac2fc24ad2efd41c269d79360b3514c9f55e28d0a1d6695425875b5aae0f3"
+        "workshopdepotdecryptionkey": ""
     }
 }
