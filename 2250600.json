@@ -4,8 +4,8 @@
     "name": "Disgaea 7: Vows of the Virtueless",
     "schinese_name": "魔界战记DISGAEA 7",
     "isfreeapp": "0",
-    "change_number": "26976032",
-    "update_time": "2025-01-14 01:31:18",
+    "change_number": "27852302",
+    "update_time": "2025-03-09 01:02:35",
     "depot": {
         "workshopdepot": "2250600",
         "2250601": {
@@ -241,6 +241,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c7cae809926fb3056cbe222b5a0c12efef42ece879b34fb6af7c97cbd6da9f80"
+        "workshopdepotdecryptionkey": ""
     }
 }
