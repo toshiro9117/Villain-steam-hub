@@ -4,15 +4,15 @@
     "name": "On Your Tail",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27723350",
-    "update_time": "2025-03-01 02:25:54",
+    "change_number": "27989353",
+    "update_time": "2025-03-17 16:04:38",
     "depot": {
         "2132561": {
             "manifests": {
                 "public": {
-                    "gid": "3552114887436850432",
-                    "size": "24673166505",
-                    "download": "6500664160"
+                    "gid": "1692005335714596317",
+                    "size": "24237070162",
+                    "download": "6542353424"
                 }
             },
             "decryptionkey": "f64906a2242a7bb6295820f99607472150630b50b51272171e29228365db4e5b"
@@ -21,8 +21,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16989493",
-                "timeupdated": "1736792858"
+                "buildid": "17640294",
+                "timeupdated": "1742198673"
             }
         },
         "privatebranches": "1"
