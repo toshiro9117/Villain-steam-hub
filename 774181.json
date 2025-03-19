@@ -4,8 +4,8 @@
     "name": "Rhythm Doctor",
     "schinese_name": "Rhythm Doctor 节奏医生",
     "isfreeapp": "0",
-    "change_number": "27412199",
-    "update_time": "2025-02-11 10:03:32",
+    "change_number": "27935346",
+    "update_time": "2025-03-13 22:49:36",
     "depot": {
         "workshopdepot": "774181",
         "774182": {
@@ -94,6 +94,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "54c730f0832db85585d3feedbc7af7061f7ad1c6fe0b1123dce46ec60e011a64"
+        "workshopdepotdecryptionkey": ""
     }
 }
