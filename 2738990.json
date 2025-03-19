@@ -4,33 +4,33 @@
     "name": "Node Farm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27431261",
-    "update_time": "2025-02-12 10:21:44",
+    "change_number": "27939097",
+    "update_time": "2025-03-14 01:26:01",
     "depot": {
         "2738991": {
             "manifests": {
                 "public": {
-                    "gid": "892315653641884324",
-                    "size": "367533146",
-                    "download": "215626464"
+                    "gid": "6862301936549619858",
+                    "size": "367557156",
+                    "download": "215647200"
                 },
                 "public_beta": {
-                    "gid": "892315653641884324",
-                    "size": "367533146",
-                    "download": "215626464"
+                    "gid": "6862301936549619858",
+                    "size": "367557156",
+                    "download": "215647200"
                 }
             },
             "decryptionkey": "6f85921732319a70ee9c493efbb955e18e776c530382e99a07abca30e7f29f09"
         },
         "branches": {
             "public": {
-                "buildid": "17328040",
-                "timeupdated": "1739313661"
+                "buildid": "17683307",
+                "timeupdated": "1741886757"
             },
             "public_beta": {
-                "buildid": "17328040",
+                "buildid": "17683307",
                 "description": "Public beta to check updates before deploying to the default branch",
-                "timeupdated": "1739313630"
+                "timeupdated": "1741726356"
             }
         }
     }
