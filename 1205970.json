@@ -4,23 +4,23 @@
     "name": "MX vs ATV Legends",
     "schinese_name": "究极大越野：传奇",
     "isfreeapp": "0",
-    "change_number": "27724006",
-    "update_time": "2025-03-01 03:11:05",
+    "change_number": "27993969",
+    "update_time": "2025-03-17 21:22:34",
     "depot": {
         "1205971": {
             "manifests": {
                 "public": {
-                    "gid": "7057615830978555608",
-                    "size": "50106602765",
-                    "download": "46087853328"
+                    "gid": "7787347729474174816",
+                    "size": "51303566412",
+                    "download": "46526924368"
                 }
             },
             "decryptionkey": "bda7fa2a1e987629940c3faf629f17a0af5939f54cc244a56b1ac57e29739bbf"
         },
         "branches": {
             "public": {
-                "buildid": "17098955",
-                "timeupdated": "1738081098"
+                "buildid": "17525271",
+                "timeupdated": "1741104747"
             }
         },
         "privatebranches": "1"
