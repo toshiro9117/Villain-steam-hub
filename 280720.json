@@ -4,8 +4,8 @@
     "name": "Imagine Earth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27408571",
-    "update_time": "2025-02-11 04:56:34",
+    "change_number": "27932454",
+    "update_time": "2025-03-13 20:06:14",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,czech,turkish,brazilian",
@@ -17,9 +17,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6333364931031664300",
-                    "size": "1112763463",
-                    "download": "951738704"
+                    "gid": "4096652291633085782",
+                    "size": "1137961608",
+                    "download": "957269568"
+                },
+                "windows7": {
+                    "gid": "2600225817670377064",
+                    "size": "1113662477",
+                    "download": "952584400"
                 }
             },
             "decryptionkey": "4f4bca96a3f8b3b6d54c2f6ecc467d19705fe8f86fb9faf58271c630d67e5a7b"
@@ -30,9 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6741289987696977264",
-                    "size": "1137874344",
-                    "download": "955837056"
+                    "gid": "5858753658291617044",
+                    "size": "1172462526",
+                    "download": "962863552"
+                },
+                "windows7": {
+                    "gid": "8869179559076508013",
+                    "size": "1138759992",
+                    "download": "956681536"
                 }
             },
             "decryptionkey": "2252baf3e3bfcd59aedb2870276279fcd5d562fc58932386cdce0a08b0309d34"
@@ -46,17 +56,27 @@
                     "gid": "6950430610964479814",
                     "size": "1202434179",
                     "download": "967490624"
+                },
+                "windows7": {
+                    "gid": "6950430610964479814",
+                    "size": "1202434179",
+                    "download": "967490624"
                 }
             },
             "decryptionkey": "4088f8dab7eb61e91d8c67b0e5d7d58cf2e6248726d8492294bf469b140edd94"
         },
         "branches": {
             "public": {
-                "buildid": "17312243",
-                "timeupdated": "1739220973"
+                "buildid": "17680738",
+                "timeupdated": "1741795956"
+            },
+            "windows7": {
+                "buildid": "17469031",
+                "description": "Last version that worked with windows 7. Savegames of current game version will not work here.",
+                "timeupdated": "1741867547"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "262c046d9ba341258d045f9ecd1b00f50d71ee8f67bab7f9b3bbccb42908c9bc"
+        "workshopdepotdecryptionkey": ""
     }
 }
