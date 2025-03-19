@@ -4,8 +4,8 @@
     "name": "Wanted Raccoon",
     "schinese_name": "浣熊通缉犯 (Wanted Raccoon)",
     "isfreeapp": "0",
-    "change_number": "27038672",
-    "update_time": "2025-01-17 16:10:11",
+    "change_number": "27851893",
+    "update_time": "2025-03-08 23:58:12",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2103965880074472736",
-                    "size": "9427992578",
-                    "download": "2531527392"
+                    "gid": "3134684502739673838",
+                    "size": "9776952508",
+                    "download": "2528378000"
                 }
             },
             "decryptionkey": "348651b3ab8f64ae5971d729f4e507372334fe7d304d6f94dc95063ff6be5bf0"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7610912921948323906",
-                    "size": "10201633339",
-                    "download": "2668749264"
+                    "gid": "8760950173956246317",
+                    "size": "10696083019",
+                    "download": "2688162560"
                 }
             },
             "decryptionkey": "6569a93d44f42a152ff5a1826993ca1c5fcede19c49cbbc044c6faa959098f53"
@@ -51,8 +51,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16024898",
-                "timeupdated": "1728802586"
+                "buildid": "17647438",
+                "timeupdated": "1741449486"
             }
         }
     }
