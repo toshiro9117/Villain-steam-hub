@@ -4,8 +4,8 @@
     "name": "ATLYSS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730453",
-    "update_time": "2025-03-01 14:20:18",
+    "change_number": "28008268",
+    "update_time": "2025-03-18 15:15:03",
     "depot": {
         "2768431": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "128289728"
                 },
                 "publictest": {
-                    "gid": "2979691437677452541",
-                    "size": "319779322",
-                    "download": "132915392"
+                    "gid": "4139636117117235578",
+                    "size": "333165819",
+                    "download": "134859392"
                 }
             },
             "decryptionkey": "2bd641c21a3ea24a52b13cb9892f040c0664deb5017a14eb5a5e89056edb29a7"
@@ -31,9 +31,9 @@
                 "timeupdated": "1735026818"
             },
             "publictest": {
-                "buildid": "16841387",
+                "buildid": "17761816",
                 "description": "Public Test Builds (Unstable)",
-                "timeupdated": "1735027293"
+                "timeupdated": "1742282096"
             }
         },
         "privatebranches": "1"
