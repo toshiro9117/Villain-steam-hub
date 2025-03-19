@@ -4,8 +4,8 @@
     "name": "Rogue: Genesia ",
     "schinese_name": "罗格：救世传说",
     "isfreeapp": "0",
-    "change_number": "27724431",
-    "update_time": "2025-03-01 03:36:52",
+    "change_number": "28012932",
+    "update_time": "2025-03-18 20:29:33",
     "depot": {
         "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,danish,turkish,brazilian,indonesian",
         "2067921": {
@@ -15,6 +15,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "7941937001640886133",
+                    "size": "3003039550",
+                    "download": "566577648"
+                },
+                "rg0.10": {
                     "gid": "6422986519883604640",
                     "size": "2715453948",
                     "download": "506575152"
@@ -49,6 +54,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1221447851728949026",
+                    "size": "1484904833",
+                    "download": "502008048"
+                },
+                "rg0.10": {
                     "gid": "3065669576965553721",
                     "size": "1343849056",
                     "download": "442141440"
@@ -81,8 +91,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
+                "buildid": "17765417",
+                "timeupdated": "1742300880"
+            },
+            "rg0.10": {
                 "buildid": "17041749",
-                "timeupdated": "1737127563"
+                "description": "(OLD) Version 0.10",
+                "timeupdated": "1741367143"
             },
             "rg0.9": {
                 "buildid": "13489403",
@@ -106,6 +121,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a47b3e09649f7bf93dc067e588b9e81b3f13e1f771b7dbf9836e267a0d38f565"
+        "workshopdepotdecryptionkey": ""
     }
 }
