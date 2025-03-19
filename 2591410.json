@@ -4,23 +4,23 @@
     "name": "Moose Miners",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27716439",
-    "update_time": "2025-02-28 19:52:02",
+    "change_number": "27979619",
+    "update_time": "2025-03-16 17:14:43",
     "depot": {
         "2591411": {
             "manifests": {
                 "public": {
-                    "gid": "3090970259191326669",
-                    "size": "648714820",
-                    "download": "157114784"
+                    "gid": "3422317045251268440",
+                    "size": "648717380",
+                    "download": "157115504"
                 }
             },
             "decryptionkey": "47624590f47b7cf2be79d4fce5552ee5dbe48897623a297f7e3b357c04069f24"
         },
         "branches": {
             "public": {
-                "buildid": "17546197",
-                "timeupdated": "1740743518"
+                "buildid": "17741969",
+                "timeupdated": "1742116479"
             }
         },
         "privatebranches": "1"
