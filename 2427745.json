@@ -4,8 +4,8 @@
     "name": "Cities: Skylines II - Soft Rock Radio",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27520184",
-    "update_time": "2025-02-18 01:33:41",
+    "change_number": "28009629",
+    "update_time": "2025-03-18 16:59:45",
     "depot": {
         "2427745": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8928471618076056281",
-                    "size": "198314889",
-                    "download": "197767616"
+                    "gid": "6418448975241735791",
+                    "size": "198315312",
+                    "download": "197767744"
                 }
             },
             "dlcappid": "2427745",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16571232",
-                "timeupdated": "1733907396"
+                "buildid": "17387099",
+                "timeupdated": "1742288381"
             }
         },
         "privatebranches": "1"
