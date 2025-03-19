@@ -4,8 +4,8 @@
     "name": "Sensei! I Like You So Much!",
     "schinese_name": "太太！我喜欢你！",
     "isfreeapp": "0",
-    "change_number": "27506033",
-    "update_time": "2025-02-17 04:27:53",
+    "change_number": "27940100",
+    "update_time": "2025-03-14 02:14:09",
     "depot": {
         "baselanguages": "english,koreana,schinese,japanese",
         "workshopdepot": "2957700",
@@ -15,19 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2498806108621175422",
-                    "size": "4893965075",
-                    "download": "458654560"
+                    "gid": "7934679515450894571",
+                    "size": "4894006419",
+                    "download": "458500208"
                 }
             },
             "decryptionkey": "07c5a7aa4b5e25f17592c0c77dfce3bb5544a9a5a45ce72803703caf9d819b17"
         },
         "branches": {
             "public": {
-                "buildid": "17385806",
-                "timeupdated": "1739737668"
+                "buildid": "17665607",
+                "timeupdated": "1741629850"
             }
         },
-        "workshopdepotdecryptionkey": "c2edc31a49b7e481d9e9164ad92b298eb16fdde816b4e0ce8a8b996117f67b71"
+        "workshopdepotdecryptionkey": ""
     }
 }
