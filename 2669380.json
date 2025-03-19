@@ -4,8 +4,8 @@
     "name": "BRUTALISTICK VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27260310",
-    "update_time": "2025-02-01 03:41:42",
+    "change_number": "27917102",
+    "update_time": "2025-03-13 02:11:23",
     "depot": {
         "2669381": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3790989856357126094",
-                    "size": "2702318203",
-                    "download": "890537648"
+                    "gid": "4429719720139462939",
+                    "size": "2691841609",
+                    "download": "866461792"
                 },
                 "experimental": {
-                    "gid": "3790989856357126094",
-                    "size": "2702318203",
-                    "download": "890537648"
+                    "gid": "4429719720139462939",
+                    "size": "2691841609",
+                    "download": "866461792"
                 }
             },
             "decryptionkey": "090e1bcded479bdd950b9884d5966cfa9ee95438a9857d823c3d288f80a7ac70"
@@ -29,16 +29,16 @@
         "workshopdepot": "2669380",
         "branches": {
             "public": {
-                "buildid": "17203608",
-                "timeupdated": "1738352495"
+                "buildid": "17697105",
+                "timeupdated": "1741803044"
             },
             "experimental": {
-                "buildid": "17203608",
+                "buildid": "17697105",
                 "description": "Branch to test new features that may or may not make it to the main branch",
-                "timeupdated": "1738351965"
+                "timeupdated": "1741803018"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "0bdf4d33c3597d7c40fc6bf747755c888d9ec2167aec2dac298b0766e49f03ab"
+        "workshopdepotdecryptionkey": ""
     }
 }
