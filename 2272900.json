@@ -4,43 +4,43 @@
     "name": "Mirthwood",
     "schinese_name": "欢欣森活",
     "isfreeapp": "0",
-    "change_number": "27982039",
-    "update_time": "2025-03-17 00:01:26",
+    "change_number": "28254290",
+    "update_time": "2025-04-02 02:31:35",
     "depot": {
         "2272901": {
             "manifests": {
                 "public": {
-                    "gid": "2088948028675203149",
-                    "size": "7505332420",
-                    "download": "1567636000"
+                    "gid": "2430169352877816989",
+                    "size": "7506177301",
+                    "download": "1568023936"
                 },
                 "beta": {
-                    "gid": "2088948028675203149",
-                    "size": "7505332420",
-                    "download": "1567636000"
+                    "gid": "2430169352877816989",
+                    "size": "7506177301",
+                    "download": "1568023936"
                 },
                 "test": {
-                    "gid": "2088948028675203149",
-                    "size": "7505332420",
-                    "download": "1567636000"
+                    "gid": "7423906287013784791",
+                    "size": "7506594748",
+                    "download": "1569403872"
                 }
             },
             "decryptionkey": "58185efce9e4c852272795c4415161a02c53bbd566dd9cb704dbe8c6f0c797ed"
         },
         "branches": {
             "public": {
-                "buildid": "17733487",
-                "timeupdated": "1742140879"
+                "buildid": "17813419",
+                "timeupdated": "1742914720"
             },
             "beta": {
-                "buildid": "17733487",
+                "buildid": "17813419",
                 "description": "beta testing branch",
-                "timeupdated": "1742001902"
+                "timeupdated": "1742826649"
             },
             "test": {
-                "buildid": "17733487",
+                "buildid": "17943829",
                 "description": "extra testing branch",
-                "timeupdated": "1742000789"
+                "timeupdated": "1743532289"
             }
         }
     }
