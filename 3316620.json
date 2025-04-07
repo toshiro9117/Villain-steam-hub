@@ -4,8 +4,8 @@
     "name": "Prove You Can Win",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978098",
-    "update_time": "2025-03-16 11:55:39",
+    "change_number": "28295635",
+    "update_time": "2025-04-04 03:27:04",
     "depot": {
         "baselanguages": "english,schinese",
         "3316621": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8379545837252916861",
-                    "size": "90844517",
-                    "download": "42724640"
+                    "gid": "6800150885880189653",
+                    "size": "90844565",
+                    "download": "42724624"
                 }
             },
             "decryptionkey": "9e02597fbc3c69cd7081c2e48d929ea92947f81877dccc224141de03fb5738a6"
@@ -27,8 +27,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3446931397363908591",
-                    "size": "158170360",
+                    "gid": "6891662904023878456",
+                    "size": "158170408",
                     "download": "56626096"
                 }
             },
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17061202",
-                "timeupdated": "1737354414"
+                "buildid": "17974858",
+                "timeupdated": "1743708184"
             }
         }
     }
