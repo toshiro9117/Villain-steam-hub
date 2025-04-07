@@ -4,8 +4,8 @@
     "name": "Slaves of Rome",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976583",
-    "update_time": "2025-03-16 07:21:00",
+    "change_number": "28292754",
+    "update_time": "2025-04-04 00:16:17",
     "depot": {
         "228988": {
             "config": {
@@ -52,27 +52,27 @@
         "1380071": {
             "manifests": {
                 "public": {
-                    "gid": "5970300739588892574",
-                    "size": "5754621902",
-                    "download": "5670411920"
+                    "gid": "1291282245543975467",
+                    "size": "5811372879",
+                    "download": "5729859392"
                 },
                 "test": {
-                    "gid": "5970300739588892574",
-                    "size": "5754621902",
-                    "download": "5670411920"
+                    "gid": "1291282245543975467",
+                    "size": "5811372879",
+                    "download": "5729859392"
                 }
             },
             "decryptionkey": "35bbeb039ac8fcae5ecedb7bf9592c5fbead89187c78e7fca100ccc0b85d39a9"
         },
         "branches": {
             "public": {
-                "buildid": "17725142",
-                "timeupdated": "1741972873"
+                "buildid": "17839124",
+                "timeupdated": "1742841369"
             },
             "test": {
-                "buildid": "17725142",
+                "buildid": "17839124",
                 "description": "Test Branch",
-                "timeupdated": "1741955359"
+                "timeupdated": "1742836349"
             }
         }
     }
