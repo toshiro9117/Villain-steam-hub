@@ -4,8 +4,8 @@
     "name": "Songs of Conquest",
     "schinese_name": "征服之歌",
     "isfreeapp": "0",
-    "change_number": "28013433",
-    "update_time": "2025-03-18 20:59:45",
+    "change_number": "28346911",
+    "update_time": "2025-04-07 21:57:00",
     "depot": {
         "867211": {
             "config": {
@@ -13,19 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5491938040820283955",
-                    "size": "2283080782",
-                    "download": "1585083664"
+                    "gid": "5198927719362040543",
+                    "size": "2283081301",
+                    "download": "1585086864"
                 },
                 "console-crossplay": {
-                    "gid": "297123444654529094",
-                    "size": "2583273281",
-                    "download": "1418286352"
+                    "gid": "7002691389580634883",
+                    "size": "2274391871",
+                    "download": "1581921632"
                 },
                 "public-test-realm": {
-                    "gid": "5491938040820283955",
-                    "size": "2283080782",
-                    "download": "1585083664"
+                    "gid": "5198927719362040543",
+                    "size": "2283081301",
+                    "download": "1585086864"
                 }
             },
             "decryptionkey": "ea2be0c817a8f6f2e694b3318c5560c41ff4eb9d1a16f9ce3490dc2bf58fe78c"
@@ -36,19 +36,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2615387031562434507",
-                    "size": "2367892896",
-                    "download": "1604141760"
+                    "gid": "2049905837397362235",
+                    "size": "2367893923",
+                    "download": "1604141408"
                 },
                 "console-crossplay": {
-                    "gid": "3865623015053651789",
-                    "size": "2668217667",
-                    "download": "1435315232"
+                    "gid": "5231574829852973610",
+                    "size": "2359595375",
+                    "download": "1601142048"
                 },
                 "public-test-realm": {
-                    "gid": "2615387031562434507",
-                    "size": "2367892896",
-                    "download": "1604141760"
+                    "gid": "2049905837397362235",
+                    "size": "2367893923",
+                    "download": "1604141408"
                 }
             },
             "decryptionkey": "3546a5c46d083b5474f272b188d063e43fcf017ad720f78d3d8d655f4e5190f8"
@@ -79,18 +79,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17679516",
-                "timeupdated": "1741871316"
+                "buildid": "17799021",
+                "timeupdated": "1742552419"
             },
             "console-crossplay": {
-                "buildid": "15887362",
+                "buildid": "17118774",
                 "description": "Branch that keeps the game at the same version as on consoles",
-                "timeupdated": "1733220427"
+                "timeupdated": "1742571950"
             },
             "public-test-realm": {
-                "buildid": "17679516",
+                "buildid": "17799021",
                 "description": "Experimental branch where you can test the next version or patch before it goes live",
-                "timeupdated": "1741871270"
+                "timeupdated": "1742552367"
             }
         },
         "privatebranches": "1"
