@@ -4,8 +4,8 @@
     "name": "DayZ",
     "schinese_name": "僵尸末日",
     "isfreeapp": "0",
-    "change_number": "28013439",
-    "update_time": "2025-03-18 20:59:55",
+    "change_number": "28287966",
+    "update_time": "2025-04-03 19:58:46",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -49,9 +49,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "7607750697306013269",
-                    "size": "24850312112",
-                    "download": "19872114784"
+                    "gid": "3309608757320055497",
+                    "size": "24852771474",
+                    "download": "19874662336"
                 }
             },
             "decryptionkey": "9d9c5d3d77309bbe701a3f018cea877d22d07160b4ea2b65bdf261d0dc399c15"
@@ -83,8 +83,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17765798",
-                "timeupdated": "1742302788"
+                "buildid": "17969431",
+                "timeupdated": "1743681521"
             }
         },
         "privatebranches": "1",
