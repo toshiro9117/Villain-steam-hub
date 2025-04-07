@@ -4,8 +4,8 @@
     "name": "Spirit Realm",
     "schinese_name": "灵境·修仙界",
     "isfreeapp": "0",
-    "change_number": "27469034",
-    "update_time": "2025-02-14 07:14:42",
+    "change_number": "28288595",
+    "update_time": "2025-04-03 20:39:01",
     "depot": {
         "228989": {
             "config": {
@@ -39,9 +39,9 @@
         "2799931": {
             "manifests": {
                 "public": {
-                    "gid": "5412935446407834819",
-                    "size": "16383069002",
-                    "download": "14894385152"
+                    "gid": "4797201125623312247",
+                    "size": "32275951249",
+                    "download": "29940582176"
                 }
             },
             "decryptionkey": "96045378ae72057e53d00b38e6f124e34b6376bffbdbae9b3ce42ecb17804e30"
@@ -50,10 +50,10 @@
         "workshopdepot": "2799930",
         "branches": {
             "public": {
-                "buildid": "17216450",
-                "timeupdated": "1738516300"
+                "buildid": "17969798",
+                "timeupdated": "1743683937"
             }
         },
-        "workshopdepotdecryptionkey": "20a9a69e13a3dee0f494ca678d9eeb055b974ecb4b0808ec8ee82db94559f071"
+        "workshopdepotdecryptionkey": ""
     }
 }
