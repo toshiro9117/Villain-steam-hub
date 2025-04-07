@@ -4,8 +4,8 @@
     "name": "Eyes Of War",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992417",
-    "update_time": "2025-03-17 19:30:56",
+    "change_number": "28343868",
+    "update_time": "2025-04-07 18:38:50",
     "depot": {
         "baselanguages": "english,turkish",
         "2343931": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2130138578145456561",
-                    "size": "6593712274",
-                    "download": "4382005600"
+                    "gid": "7166163300342988620",
+                    "size": "6574600203",
+                    "download": "4359585200"
                 }
             },
             "decryptionkey": "396378d0b188534e18166400651f8ceb3cbfe68b2a374641b0b72a90b7559116"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2458229737693921643",
-                    "size": "6343384397",
-                    "download": "4437308896"
+                    "gid": "8424252455719864475",
+                    "size": "6318043742",
+                    "download": "4409717520"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17748653",
-                "timeupdated": "1742198481"
+                "buildid": "17868211",
+                "timeupdated": "1742998870"
             }
         },
         "privatebranches": "1"
