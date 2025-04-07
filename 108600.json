@@ -4,8 +4,8 @@
     "name": "Project Zomboid",
     "schinese_name": "僵尸毁灭工程",
     "isfreeapp": "0",
-    "change_number": "27728814",
-    "update_time": "2025-03-01 10:14:44",
+    "change_number": "28346695",
+    "update_time": "2025-04-07 21:45:07",
     "depot": {
         "228983": {
             "config": {
@@ -56,9 +56,9 @@
                     "download": "2266537344"
                 },
                 "unstable": {
-                    "gid": "6716923332453567803",
-                    "size": "11165131134",
-                    "download": "5370279168"
+                    "gid": "6364782632593704035",
+                    "size": "11160539497",
+                    "download": "5342597408"
                 },
                 "legacy_41_78_7": {
                     "gid": "7607573219841652195",
@@ -115,9 +115,9 @@
                     "download": "2272871712"
                 },
                 "unstable": {
-                    "gid": "7403931746874470056",
-                    "size": "11039561352",
-                    "download": "5360357792"
+                    "gid": "7735218517840308728",
+                    "size": "11031047139",
+                    "download": "5331907200"
                 },
                 "legacy_41_78_7": {
                     "gid": "5229608682402597842",
@@ -174,9 +174,9 @@
                     "download": "2287844768"
                 },
                 "unstable": {
-                    "gid": "6115656020109064937",
-                    "size": "11164677426",
-                    "download": "5379074048"
+                    "gid": "1948411926344198164",
+                    "size": "11151058749",
+                    "download": "5349351520"
                 },
                 "legacy_41_78_7": {
                     "gid": "5425527854041061861",
@@ -231,9 +231,9 @@
                 "timeupdated": "1734470203"
             },
             "unstable": {
-                "buildid": "17342164",
+                "buildid": "18007835",
                 "description": "UNSTABLE - BACKUP FIRST",
-                "timeupdated": "1739422713"
+                "timeupdated": "1744028072"
             },
             "legacy_41_78_7": {
                 "buildid": "9905455",
@@ -277,6 +277,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "fc06c9893d7792ec35292dfc1b216f92d0f9e173df982804f4ab00293e9ab25b"
+        "workshopdepotdecryptionkey": ""
     }
 }
