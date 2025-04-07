@@ -4,8 +4,8 @@
     "name": "Survivor Mercs",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28003300",
-    "update_time": "2025-03-18 07:00:40",
+    "change_number": "28305948",
+    "update_time": "2025-04-04 17:58:50",
     "depot": {
         "2141521": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3978427510227434592",
-                    "size": "761973791",
-                    "download": "303912672"
+                    "gid": "6730513019625738446",
+                    "size": "397040830",
+                    "download": "196169056"
                 },
                 "beta": {
                     "gid": "2292649356907838013",
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17738583",
-                "timeupdated": "1742067154"
+                "buildid": "17977649",
+                "timeupdated": "1743760726"
             },
             "beta": {
                 "buildid": "9619684",
