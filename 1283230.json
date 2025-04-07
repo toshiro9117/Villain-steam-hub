@@ -4,8 +4,8 @@
     "name": "Autopsy Simulator",
     "schinese_name": "验尸模拟器",
     "isfreeapp": "0",
-    "change_number": "28007972",
-    "update_time": "2025-03-18 14:47:46",
+    "change_number": "28344214",
+    "update_time": "2025-04-07 19:03:08",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish",
         "1283231": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3365010653441807332",
-                    "size": "21781507685",
-                    "download": "8746253392"
+                    "gid": "4072493460832741759",
+                    "size": "21319582597",
+                    "download": "8606594368"
                 }
             },
             "decryptionkey": "578da163a6889657d25ae77647b853543c386f98b887c29aec3845255d378ea3"
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16689897",
-                "timeupdated": "1734019204"
+                "buildid": "17950166",
+                "timeupdated": "1743685190"
             }
         },
         "privatebranches": "1"
