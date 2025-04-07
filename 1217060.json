@@ -4,8 +4,8 @@
     "name": "Gunfire Reborn",
     "schinese_name": "枪火重生",
     "isfreeapp": "0",
-    "change_number": "27947853",
-    "update_time": "2025-03-14 11:01:09",
+    "change_number": "28182879",
+    "update_time": "2025-03-28 10:50:46",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -18,17 +18,17 @@
         "1217061": {
             "manifests": {
                 "public": {
-                    "gid": "3723663049972549824",
-                    "size": "3966385848",
-                    "download": "2879174480"
+                    "gid": "7146148678275956926",
+                    "size": "3966959804",
+                    "download": "2882398336"
                 }
             },
             "decryptionkey": "572c9d118c2d97b0d21798e01e43f4402b71b563c6aa09942c2ceb46b36d8300"
         },
         "branches": {
             "public": {
-                "buildid": "17718664",
-                "timeupdated": "1741921265"
+                "buildid": "17891384",
+                "timeupdated": "1743130242"
             }
         },
         "privatebranches": "1"
