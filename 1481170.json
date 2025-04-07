@@ -4,8 +4,8 @@
     "name": "ZEPHON",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008419",
-    "update_time": "2025-03-18 15:27:59",
+    "change_number": "28345702",
+    "update_time": "2025-04-07 20:42:06",
     "depot": {
         "workshopdepot": "1481170",
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,polish",
@@ -96,20 +96,41 @@
             },
             "decryptionkey": "78e7364c6c382811cee9ac213efb1422278b33d673aa157271f30f2c3679d6c2"
         },
+        "3607430": {
+            "dlcappid": "3607430",
+            "manifests": {
+                "public": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                },
+                "beta": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                },
+                "debug": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "16837076",
-                "timeupdated": "1734978170"
+                "buildid": "17780019",
+                "timeupdated": "1742386796"
             },
             "beta": {
-                "buildid": "17454910",
+                "buildid": "17780023",
                 "description": "Beta.",
-                "timeupdated": "1740141158"
+                "timeupdated": "1742386827"
             },
             "debug": {
-                "buildid": "16548843",
+                "buildid": "17780031",
                 "description": "Debug.",
-                "timeupdated": "1732692580"
+                "timeupdated": "1742386894"
             }
         },
         "privatebranches": "1",
