@@ -4,9 +4,13 @@
     "name": "Dying Light",
     "schinese_name": "消逝的光芒",
     "isfreeapp": "0",
-    "change_number": "27948074",
-    "update_time": "2025-03-14 11:21:38",
+    "change_number": "28050211",
+    "update_time": "2025-03-20 19:52:04",
     "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,czech,turkish,brazilian,latam",
+        "workshopdepot": "239140",
+        "hasdepotsindlc": "1",
         "228983": {
             "config": {
                 "oslist": "windows"
@@ -35,15 +39,10 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "overridescddb": "1",
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,czech,turkish,brazilian,latam",
-        "workshopdepot": "239140",
-        "hasdepotsindlc": "1",
         "239153": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -83,8 +82,7 @@
             "systemdefined": "1",
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -102,8 +100,7 @@
         },
         "239154": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -121,8 +118,7 @@
         },
         "239144": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -141,8 +137,7 @@
         "239145": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -161,8 +156,7 @@
         "302100": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "302100",
             "manifests": {
@@ -181,8 +175,7 @@
         },
         "239143": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -334,8 +327,7 @@
         "239151": {
             "config": {
                 "osarch": "64",
-                "oslist": "linux",
-                "language": ""
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
@@ -355,8 +347,7 @@
             "dlcappid": "302100",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -375,8 +366,7 @@
         "239157": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -395,8 +385,7 @@
         "239158": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -415,8 +404,7 @@
         "239156": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -435,8 +423,7 @@
         "239159": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -455,8 +442,7 @@
         "325726": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -470,13 +456,12 @@
                     "download": "1461321312"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "df587ce217685b930ca1231ead3c361809aec59d70e1551a9d1bc2e453f775d2"
         },
         "325727": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -495,8 +480,7 @@
         "325728": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -515,8 +499,7 @@
         "325729": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -535,8 +518,7 @@
         "325723": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "325723",
             "manifests": {
@@ -557,8 +539,7 @@
             "dlcappid": "325723",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -578,8 +559,7 @@
             "dlcappid": "325723",
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -599,15 +579,13 @@
             "dlcappid": "325723",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             }
         },
         "325724": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "325724",
             "manifests": {
@@ -628,8 +606,7 @@
             "dlcappid": "325724",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -649,8 +626,7 @@
             "dlcappid": "325724",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -669,8 +645,7 @@
         "412922": {
             "dlcappid": "325724",
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -690,8 +665,7 @@
             "dlcappid": "325724",
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -711,8 +685,7 @@
             "dlcappid": "325724",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -732,8 +705,7 @@
             "dlcappid": "325724",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -752,8 +724,7 @@
         "412920": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "412920",
             "manifests": {
@@ -774,8 +745,7 @@
             "dlcappid": "412920",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -794,8 +764,7 @@
         "415370": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "415370",
             "manifests": {
@@ -816,8 +785,7 @@
             "dlcappid": "415370",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -836,8 +804,7 @@
         "325718": {
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -857,8 +824,7 @@
             "dlcappid": "302100",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -878,8 +844,7 @@
             "dlcappid": "325723",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -899,8 +864,7 @@
             "dlcappid": "412920",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -920,8 +884,7 @@
             "dlcappid": "415370",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -940,8 +903,7 @@
         "325719": {
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -960,8 +922,7 @@
         "335816": {
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "325723",
             "manifests": {
@@ -978,31 +939,9 @@
             },
             "decryptionkey": "0127239b7ec09183956a0819dedd109189ebdc1a4fe3da57dba1870660486a9a"
         },
-        "731060": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64",
-                "language": ""
-            },
-            "dlcappid": "731060",
-            "manifests": {
-                "public": {
-                    "gid": "5180523938816360791",
-                    "size": "13398167533",
-                    "download": "8230239808"
-                },
-                "published_version_1_47_2": {
-                    "gid": "5180523938816360791",
-                    "size": "13398167533",
-                    "download": "8230239808"
-                }
-            },
-            "decryptionkey": ""
-        },
         "798540": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -1020,8 +959,7 @@
         },
         "798541": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "798541",
             "manifests": {
@@ -1040,8 +978,7 @@
         },
         "798542": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "798542",
             "manifests": {
@@ -1060,8 +997,7 @@
         },
         "798543": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "798543",
             "manifests": {
@@ -1080,8 +1016,7 @@
         },
         "1034630": {
             "config": {
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "dlcappid": "1034630",
             "manifests": {
@@ -1102,8 +1037,7 @@
             "dlcappid": "1300710",
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -1123,8 +1057,7 @@
             "dlcappid": "1300710",
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -1144,8 +1077,7 @@
             "dlcappid": "1300710",
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -1160,6 +1092,14 @@
                 }
             },
             "decryptionkey": "bac768ef68e46f172518b62eef2a2ae670199054c7c0e8eec3114b5981a586b8"
+        },
+        "347093": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "3607960",
+            "manifests": {}
         },
         "branches": {
             "public": {
