@@ -4,15 +4,15 @@
     "name": "The Light Brigade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27973032",
-    "update_time": "2025-03-15 22:32:49",
+    "change_number": "28254356",
+    "update_time": "2025-04-02 02:36:31",
     "depot": {
         "1579881": {
             "manifests": {
                 "public": {
-                    "gid": "6306374741481720263",
-                    "size": "2870288245",
-                    "download": "2132722144"
+                    "gid": "8460954634120133812",
+                    "size": "2870299791",
+                    "download": "2132706304"
                 },
                 "stableprevious": {
                     "gid": "7304072729984582844",
@@ -20,17 +20,17 @@
                     "download": "2800596448"
                 },
                 "public_beta": {
-                    "gid": "2376411182705748884",
-                    "size": "2870299793",
-                    "download": "2132705360"
+                    "gid": "8460954634120133812",
+                    "size": "2870299791",
+                    "download": "2132706304"
                 }
             },
             "decryptionkey": "a814880fd9143fa3d8cca2b9adfc9abf607385b172ca28019931277fed04d287"
         },
         "branches": {
             "public": {
-                "buildid": "17701289",
-                "timeupdated": "1741897288"
+                "buildid": "17772623",
+                "timeupdated": "1742407620"
             },
             "stableprevious": {
                 "buildid": "13035255",
@@ -38,9 +38,9 @@
                 "timeupdated": "1713461312"
             },
             "public_beta": {
-                "buildid": "17731141",
+                "buildid": "17772623",
                 "description": "it's fresh",
-                "timeupdated": "1742049164"
+                "timeupdated": "1742407558"
             }
         },
         "privatebranches": "1"
