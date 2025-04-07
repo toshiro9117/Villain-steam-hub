@@ -4,8 +4,8 @@
     "name": "Sudden Strike 4",
     "schinese_name": "突袭4",
     "isfreeapp": "0",
-    "change_number": "27124225",
-    "update_time": "2025-01-23 12:26:40",
+    "change_number": "28104458",
+    "update_time": "2025-03-24 16:15:23",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "373930",
@@ -363,6 +363,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "66cefdb5e1fafc0743072fc9d60c4392ef2f47b9afa53859c07ed78e2a7a110c"
+        "workshopdepotdecryptionkey": ""
     }
 }
