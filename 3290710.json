@@ -4,8 +4,8 @@
     "name": "RATSHAKER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27890390",
-    "update_time": "2025-03-11 20:22:40",
+    "change_number": "28331342",
+    "update_time": "2025-04-06 18:44:47",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7589899892861668822",
-                    "size": "2112409782",
-                    "download": "1434702624"
+                    "gid": "3906413435997772244",
+                    "size": "1550164073",
+                    "download": "873567744"
                 },
                 "ratshakerlegacy": {
                     "gid": "8011950323456115208",
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17455793",
-                "timeupdated": "1740145526"
+                "buildid": "18001039",
+                "timeupdated": "1743936283"
             },
             "ratshakerlegacy": {
                 "buildid": "17380390",
