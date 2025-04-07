@@ -4,8 +4,8 @@
     "name": "Escape Memoirs: Safe House",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26929920",
-    "update_time": "2025-01-10 04:09:48",
+    "change_number": "28153036",
+    "update_time": "2025-03-27 00:09:18",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "2722361": {
             "manifests": {
                 "public": {
-                    "gid": "1782802692595808438",
-                    "size": "11220073516",
-                    "download": "5143155344"
+                    "gid": "3981743772824780663",
+                    "size": "11231830174",
+                    "download": "5148462768"
                 }
             },
             "decryptionkey": "7371a0b6256a3c6a3f8603499d4fe50bfe029c2bf81b1cb553fc4bdf5ead94bb"
         },
         "branches": {
             "public": {
-                "buildid": "15090810",
-                "timeupdated": "1721410553"
+                "buildid": "17868954",
+                "timeupdated": "1743005352"
             }
         },
         "privatebranches": "1"
