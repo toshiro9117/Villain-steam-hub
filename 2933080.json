@@ -4,8 +4,8 @@
     "name": "Crime Boss: Rockay City",
     "schinese_name": "《法外枭雄：滚石城》Crime Boss: Rockay City",
     "isfreeapp": "0",
-    "change_number": "28009760",
-    "update_time": "2025-03-18 17:05:41",
+    "change_number": "28341785",
+    "update_time": "2025-04-07 16:28:22",
     "depot": {
         "228989": {
             "config": {
@@ -31,14 +31,14 @@
         "2933081": {
             "manifests": {
                 "public": {
-                    "gid": "3860643124500417279",
-                    "size": "93601994189",
-                    "download": "83522531264"
+                    "gid": "5864331977850242088",
+                    "size": "93591368531",
+                    "download": "83540280832"
                 },
                 "advanced": {
-                    "gid": "3860643124500417279",
-                    "size": "93601994189",
-                    "download": "83522531264"
+                    "gid": "5864331977850242088",
+                    "size": "93591368531",
+                    "download": "83540280832"
                 }
             },
             "decryptionkey": "c19e67580e16bb198a0208353b4ae25e66eee4cb16421cc24f593925c2cd41ec"
@@ -75,13 +75,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17488001",
-                "timeupdated": "1741704714"
+                "buildid": "17754982",
+                "timeupdated": "1742482575"
             },
             "advanced": {
-                "buildid": "17488001",
+                "buildid": "17754982",
                 "description": "Advanced options",
-                "timeupdated": "1742139720"
+                "timeupdated": "1743806568"
             }
         },
         "privatebranches": "1"
