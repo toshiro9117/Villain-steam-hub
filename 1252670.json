@@ -4,8 +4,8 @@
     "name": "Logic World Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976494",
-    "update_time": "2025-03-16 07:00:02",
+    "change_number": "28099045",
+    "update_time": "2025-03-24 04:27:42",
     "depot": {
         "1004": {
             "config": {
@@ -97,9 +97,9 @@
                     "download": "60965968"
                 },
                 "public-previews": {
-                    "gid": "5381091132737739124",
-                    "size": "108710400",
-                    "download": "35472000"
+                    "gid": "5296470854872612091",
+                    "size": "113250687",
+                    "download": "38037456"
                 }
             },
             "decryptionkey": "b610d96dcb376f9d3270d3ea7ebf55dfd1d383b238b20410c9ae759d5fa4fb4c"
@@ -152,9 +152,9 @@
                     "download": "61764192"
                 },
                 "public-previews": {
-                    "gid": "722963738946073075",
-                    "size": "108505217",
-                    "download": "35727360"
+                    "gid": "8128083502478431704",
+                    "size": "113045504",
+                    "download": "37689632"
                 }
             },
             "decryptionkey": ""
@@ -207,9 +207,9 @@
                     "download": "60818592"
                 },
                 "public-previews": {
-                    "gid": "5823825730278315683",
-                    "size": "108090794",
-                    "download": "35185824"
+                    "gid": "8763943662442751909",
+                    "size": "112631081",
+                    "download": "37457584"
                 }
             },
             "decryptionkey": ""
@@ -255,9 +255,9 @@
                 "timeupdated": "1703102693"
             },
             "public-previews": {
-                "buildid": "17696375",
+                "buildid": "17828518",
                 "description": "Public previews of upcoming LW updates",
-                "timeupdated": "1741799645"
+                "timeupdated": "1742761655"
             }
         },
         "privatebranches": "1"
