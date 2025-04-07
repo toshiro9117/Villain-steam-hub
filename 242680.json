@@ -4,8 +4,8 @@
     "name": "Nuclear Throne",
     "schinese_name": "废土之王",
     "isfreeapp": "0",
-    "change_number": "27967537",
-    "update_time": "2025-03-15 08:37:24",
+    "change_number": "28210838",
+    "update_time": "2025-03-30 08:13:18",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -56,9 +56,9 @@
                     "download": "139865152"
                 },
                 "win7_temp_branch": {
-                    "gid": "4845024124299810862",
-                    "size": "202697615",
-                    "download": "139874320"
+                    "gid": "5590387298600388086",
+                    "size": "238518206",
+                    "download": "140042192"
                 }
             },
             "decryptionkey": "45ef15e9cac41baef495ec7c6c4d8092b20ef7b914afa66f1b4c3b064088eec6"
@@ -207,9 +207,9 @@
                 "timeupdated": "1738887885"
             },
             "win7_temp_branch": {
-                "buildid": "17733192",
+                "buildid": "17912782",
                 "description": "v99r2b18, if you get a MFPlat error on start",
-                "timeupdated": "1741999037"
+                "timeupdated": "1743293591"
             }
         },
         "privatebranches": "1"
