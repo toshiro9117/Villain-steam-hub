@@ -4,8 +4,8 @@
     "name": "我说什么她们都答应（OKeverything）",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27788319",
-    "update_time": "2025-03-05 13:09:07",
+    "change_number": "28058668",
+    "update_time": "2025-03-21 03:57:47",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1801794068686554210",
-                    "size": "349041893",
-                    "download": "294295872"
+                    "gid": "7254621042878005750",
+                    "size": "355404209",
+                    "download": "302387760"
                 }
             },
             "decryptionkey": "f47e2e35ee18b987ae77f57495b50bcb39b8d037f75068dea324f2c06aef46fb"
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7505550731720819802",
-                    "size": "352960491",
-                    "download": "298429872"
+                    "gid": "3939668962902165033",
+                    "size": "345256585",
+                    "download": "293183104"
                 }
             },
             "decryptionkey": ""
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15422143",
-                "timeupdated": "1724083651"
+                "buildid": "17798186",
+                "timeupdated": "1742499725"
             }
         },
         "appmanagesdlc": "1"
