@@ -4,8 +4,8 @@
     "name": "Black Desert",
     "schinese_name": "黑色沙漠Online",
     "isfreeapp": "0",
-    "change_number": "27987649",
-    "update_time": "2025-03-17 12:55:01",
+    "change_number": "28340108",
+    "update_time": "2025-04-07 14:08:13",
     "depot": {
         "depotdeltapatches": "1",
         "baselanguages": "english,german,french",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2571957326495589116",
-                    "size": "81088199500",
-                    "download": "77553464144"
+                    "gid": "2050668928305443251",
+                    "size": "81689506867",
+                    "download": "78191548496"
                 }
             },
             "decryptionkey": "cf9f3a203ad68c0c055b195e48a06607901c9c7b0b960bb45ae011d51528a155"
@@ -39,9 +39,9 @@
         "582662": {
             "manifests": {
                 "public": {
-                    "gid": "3689055312391142447",
-                    "size": "74534730321",
-                    "download": "71591680656"
+                    "gid": "4546583801304957985",
+                    "size": "75210949688",
+                    "download": "72281537504"
                 }
             },
             "decryptionkey": "c1049d5deacc67bb2871b9e237b33ccc8d127bc0b6eb053259a94b0f927c850f"
@@ -69,9 +69,9 @@
         "582665": {
             "manifests": {
                 "public": {
-                    "gid": "938296852174983229",
-                    "size": "75479445414",
-                    "download": "72399030144"
+                    "gid": "4800983043090769467",
+                    "size": "76080457165",
+                    "download": "73041011376"
                 }
             },
             "decryptionkey": "a9bbd9d29f9cce9c082e50fc2b2ba67a3776755b1d6d008be8f83c28113b3fc1"
@@ -79,9 +79,9 @@
         "582666": {
             "manifests": {
                 "public": {
-                    "gid": "5131155190047317197",
-                    "size": "79058005596",
-                    "download": "75894782656"
+                    "gid": "3484276453708182187",
+                    "size": "79841945982",
+                    "download": "76678073776"
                 }
             },
             "decryptionkey": "fdc5459b7ace070aab239046eaf293dd587c2f92b48d321ae66d2b182a12ec0b"
@@ -89,9 +89,9 @@
         "582667": {
             "manifests": {
                 "public": {
-                    "gid": "248833402461928212",
-                    "size": "81060248842",
-                    "download": "77799336128"
+                    "gid": "3949719992782719370",
+                    "size": "81897759432",
+                    "download": "78624861232"
                 }
             },
             "decryptionkey": "46e6635d93a9ac08a999c41fb7226a837c8b60040ce5cc3ad82a69948a6873a7"
@@ -99,9 +99,9 @@
         "582668": {
             "manifests": {
                 "public": {
-                    "gid": "1426215933266286114",
-                    "size": "75347332670",
-                    "download": "72261262848"
+                    "gid": "610365366544586707",
+                    "size": "75971720697",
+                    "download": "72908119200"
                 }
             },
             "decryptionkey": "e854c123af5b69124d6aef53ff7804f2f026523caac579cfdb3fa9109d2fbc53"
@@ -109,9 +109,9 @@
         "582669": {
             "manifests": {
                 "public": {
-                    "gid": "9221022456425432929",
-                    "size": "80343914194",
-                    "download": "76617643440"
+                    "gid": "3178941031772366487",
+                    "size": "81060970096",
+                    "download": "77371446912"
                 }
             },
             "decryptionkey": "8e94093bb1779e7174d0be454b1f6e9b1a3034d9c9c2be90c3101466acf88087"
@@ -119,8 +119,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17747329",
-                "timeupdated": "1742187296"
+                "buildid": "18007282",
+                "timeupdated": "1744006088"
             }
         },
         "privatebranches": "1"
