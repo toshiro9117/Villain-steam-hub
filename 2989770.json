@@ -4,8 +4,8 @@
     "name": "Kurage Life",
     "schinese_name": "恋爱拉麵海岳亭",
     "isfreeapp": "0",
-    "change_number": "28009564",
-    "update_time": "2025-03-18 16:56:29",
+    "change_number": "28093152",
+    "update_time": "2025-03-23 12:13:19",
     "depot": {
         "2989771": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "1838418096"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "208df771787074be358307ed2950447a4e35583c4b13a49909bfaf23a9f6f2f1"
         },
         "2989774": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "1854507472"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7cf8eb8a03c22462ffa62adfb0b28d80b800e5db97a44aa0b821ae4c8672f6fd"
         },
         "baselanguages": "english",
         "branches": {
