@@ -4,8 +4,8 @@
     "name": "Killing Floor 2",
     "schinese_name": "杀戮空间2",
     "isfreeapp": "0",
-    "change_number": "27115156",
-    "update_time": "2025-01-23 00:22:59",
+    "change_number": "28181108",
+    "update_time": "2025-03-28 08:16:33",
     "depot": {
         "228983": {
             "config": {
@@ -111,6 +111,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d50a5c27ad4f493a022571ee34c65609d373b8344825dbe065bff22e893e06e8"
+        "workshopdepotdecryptionkey": ""
     }
 }
