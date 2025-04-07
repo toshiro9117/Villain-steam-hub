@@ -4,8 +4,8 @@
     "name": "Sands of Salzaar",
     "schinese_name": "部落与弯刀",
     "isfreeapp": "0",
-    "change_number": "27990893",
-    "update_time": "2025-03-17 17:55:03",
+    "change_number": "28185383",
+    "update_time": "2025-03-28 15:06:16",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "1094520",
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "236590918825912259",
-                    "size": "3673986713",
-                    "download": "2208153584"
+                    "gid": "1005005144409007481",
+                    "size": "3674046077",
+                    "download": "2208132272"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "6120045210565598273",
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "951771900071158762",
-                    "size": "3673986713",
-                    "download": "2208131200"
+                    "gid": "1566232692882423005",
+                    "size": "3674046077",
+                    "download": "2208109888"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "7778875603807779040",
@@ -105,9 +105,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3200204356937051858",
-                    "size": "3673986713",
-                    "download": "2208133840"
+                    "gid": "5374380949248295780",
+                    "size": "3674046077",
+                    "download": "2208112608"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "110142959708243568",
@@ -177,9 +177,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7434990428603996110",
-                    "size": "4371198",
-                    "download": "3900128"
+                    "gid": "5985607541774478974",
+                    "size": "4371476",
+                    "download": "3900192"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "6768581724224557921",
@@ -220,8 +220,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17079774",
-                "timeupdated": "1737700113"
+                "buildid": "17862311",
+                "timeupdated": "1743145572"
             },
             "ver.1.0.44_old_version": {
                 "sc_schinese": "unity 2018.4.14",
