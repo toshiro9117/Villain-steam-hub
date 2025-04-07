@@ -4,8 +4,8 @@
     "name": "KALPA: Cosmic Symphony",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27988611",
-    "update_time": "2025-03-17 14:55:24",
+    "change_number": "28284341",
+    "update_time": "2025-04-03 16:13:46",
     "depot": {
         "2717011": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7723793240015441240",
-                    "size": "2129641000",
-                    "download": "1078719568"
+                    "gid": "4374647009652494115",
+                    "size": "2345499017",
+                    "download": "1189392352"
                 }
             },
             "decryptionkey": "df124aad57b2fbebd5e35b4b22bc2aab3f041ed6c6bff012dc43d1fd385d0363"
         },
         "branches": {
             "public": {
-                "buildid": "17724846",
-                "timeupdated": "1741954302"
+                "buildid": "17938265",
+                "timeupdated": "1743505690"
             }
         },
         "privatebranches": "1"
