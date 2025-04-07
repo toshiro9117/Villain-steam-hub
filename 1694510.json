@@ -4,8 +4,8 @@
     "name": "Barista Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27286366",
-    "update_time": "2025-02-03 17:29:44",
+    "change_number": "28327359",
+    "update_time": "2025-04-06 06:16:12",
     "depot": {
         "1694511": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8342520309895422540",
-                    "size": "2058018565",
-                    "download": "684559136"
+                    "gid": "4751257613129148007",
+                    "size": "2112414124",
+                    "download": "736774736"
                 },
                 "internalbeta": {
                     "gid": "4751257613129148007",
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17182476",
-                "timeupdated": "1738574978"
+                "buildid": "17447146",
+                "timeupdated": "1740489844"
             },
             "internalbeta": {
                 "buildid": "17447146",
