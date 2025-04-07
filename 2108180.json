@@ -4,8 +4,8 @@
     "name": "SWORDHAVEN",
     "schinese_name": "剑湾奇旅",
     "isfreeapp": "0",
-    "change_number": "27992812",
-    "update_time": "2025-03-17 20:00:28",
+    "change_number": "28334019",
+    "update_time": "2025-04-07 01:01:19",
     "depot": {
         "2108181": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "381920957563755491",
-                    "size": "7047707238",
-                    "download": "2939834176"
+                    "gid": "5364157110864845981",
+                    "size": "7054353993",
+                    "download": "2942687968"
                 },
                 "beta": {
-                    "gid": "381920957563755491",
-                    "size": "7047707238",
-                    "download": "2939834176"
+                    "gid": "7384330405579297216",
+                    "size": "7173137650",
+                    "download": "2988167072"
                 }
             },
             "decryptionkey": "a37535e60a7271c54be954c0153730a979fc027cad187830c9bd0490f3e53710"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4078103572158182801",
-                    "size": "7138017012",
-                    "download": "2958214912"
+                    "gid": "452411633828385639",
+                    "size": "7162807926",
+                    "download": "2969569344"
                 },
                 "beta": {
-                    "gid": "4078103572158182801",
-                    "size": "7138017012",
-                    "download": "2958214912"
+                    "gid": "452411633828385639",
+                    "size": "7162807926",
+                    "download": "2969569344"
                 }
             },
             "decryptionkey": ""
@@ -49,14 +49,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5422900991407141168",
-                    "size": "7180776276",
-                    "download": "2975588384"
+                    "gid": "7958741723170034035",
+                    "size": "7175693596",
+                    "download": "2984776352"
                 },
                 "beta": {
-                    "gid": "5422900991407141168",
-                    "size": "7180776276",
-                    "download": "2975588384"
+                    "gid": "7958741723170034035",
+                    "size": "7175693596",
+                    "download": "2984776352"
                 }
             },
             "decryptionkey": ""
@@ -64,13 +64,13 @@
         "workshopdepot": "2108180",
         "branches": {
             "public": {
-                "buildid": "17751128",
-                "timeupdated": "1742212822"
+                "buildid": "17996164",
+                "timeupdated": "1743863317"
             },
             "beta": {
-                "buildid": "17751128",
+                "buildid": "18002854",
                 "description": "Beta builds",
-                "timeupdated": "1742212797"
+                "timeupdated": "1743958875"
             }
         },
         "privatebranches": "1",
