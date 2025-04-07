@@ -4,9 +4,10 @@
     "name": "Mass Effect 2 (2010) Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978924",
-    "update_time": "2025-03-16 14:56:47",
+    "change_number": "28271040",
+    "update_time": "2025-04-02 23:16:29",
     "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,hungarian,czech",
         "228981": {
             "config": {
                 "oslist": "windows"
@@ -148,7 +149,17 @@
             },
             "decryptionkey": "edcdc8f1d132cac005c581e298c97edb1a2d9e52e4231d50dfdd6447ea284075"
         },
-        "baselanguages": "english,german,french,italian,spanish,russian,polish,hungarian,czech",
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
         "branches": {
             "public": {
                 "buildid": "11098100",
