@@ -4,8 +4,8 @@
     "name": "Ghostlore",
     "schinese_name": "鬼怪传说",
     "isfreeapp": "0",
-    "change_number": "27319316",
-    "update_time": "2025-02-05 12:17:09",
+    "change_number": "28335904",
+    "update_time": "2025-04-07 05:10:52",
     "depot": {
         "1783281": {
             "manifests": {
@@ -44,6 +44,6 @@
                 "timeupdated": "1725937950"
             }
         },
-        "workshopdepotdecryptionkey": "edf6c615d27d3eb9f56a9d3ccf1580b37318df2f9729d0dadf40b528a6eefcfb"
+        "workshopdepotdecryptionkey": ""
     }
 }
