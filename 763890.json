@@ -4,8 +4,8 @@
     "name": "Wildermyth",
     "schinese_name": "漫野奇谭",
     "isfreeapp": "0",
-    "change_number": "27406793",
-    "update_time": "2025-02-11 03:00:55",
+    "change_number": "28173452",
+    "update_time": "2025-03-27 23:53:02",
     "depot": {
         "763891": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7635630283433231798",
-                    "size": "2802887854",
-                    "download": "2384569120"
+                    "gid": "1090989829458502822",
+                    "size": "2853554246",
+                    "download": "2434074976"
                 },
                 "unstable": {
-                    "gid": "7635630283433231798",
-                    "size": "2802887854",
-                    "download": "2384569120"
+                    "gid": "1090989829458502822",
+                    "size": "2853554246",
+                    "download": "2434074976"
                 }
             },
             "decryptionkey": "0c2ca1ca16b5513a455b03b6965e9e17a0b9308ecf77a1b37f46a8dcb64eaabf"
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4588128635217403595",
-                    "size": "2887840998",
-                    "download": "2404649200"
+                    "gid": "7433563330648782410",
+                    "size": "2938507390",
+                    "download": "2454155056"
                 },
                 "unstable": {
-                    "gid": "4588128635217403595",
-                    "size": "2887840998",
-                    "download": "2404649200"
+                    "gid": "7433563330648782410",
+                    "size": "2938507390",
+                    "download": "2454155056"
                 }
             },
             "decryptionkey": "bfebee6eccb3b200771b092dee0312b20fc22fbb500174fdba72be09b6e57b51"
@@ -52,14 +52,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4019764502925462756",
-                    "size": "2910535674",
-                    "download": "2410332464"
+                    "gid": "5902463533368403730",
+                    "size": "2961202066",
+                    "download": "2459838320"
                 },
                 "unstable": {
-                    "gid": "4019764502925462756",
-                    "size": "2910535674",
-                    "download": "2410332464"
+                    "gid": "5902463533368403730",
+                    "size": "2961202066",
+                    "download": "2459838320"
                 }
             },
             "decryptionkey": "38eccdc6e2e5f1410a2580906acc55d7299e8b4ee32967596f07ae831beb5a62"
@@ -67,16 +67,16 @@
         "workshopdepot": "763890",
         "branches": {
             "public": {
-                "buildid": "17003463",
-                "timeupdated": "1736883502"
+                "buildid": "17884327",
+                "timeupdated": "1743090762"
             },
             "unstable": {
-                "buildid": "17003463",
+                "buildid": "17884327",
                 "description": "Preview the upcoming patch, help us test it",
-                "timeupdated": "1736883477"
+                "timeupdated": "1743090775"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "26ecbc69c0142f8024fbc4217bc98e512d0feb3eeae7b2db2f099ebb1ccfb0ce"
+        "workshopdepotdecryptionkey": ""
     }
 }
