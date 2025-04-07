@@ -4,8 +4,8 @@
     "name": "Amnesia: The Bunker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27429795",
-    "update_time": "2025-02-12 08:34:08",
+    "change_number": "28190017",
+    "update_time": "2025-03-28 20:14:48",
     "depot": {
         "228981": {
             "config": {
@@ -133,6 +133,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "fc4d7635b712b99e986bcf4b1877cf416c0d75c563b54258f0ce47509b90adce"
+        "workshopdepotdecryptionkey": ""
     }
 }
