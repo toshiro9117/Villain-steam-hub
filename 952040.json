@@ -4,8 +4,8 @@
     "name": "MUSYNX",
     "schinese_name": "同步音律喵赛克",
     "isfreeapp": "0",
-    "change_number": "27976584",
-    "update_time": "2025-03-16 07:21:26",
+    "change_number": "28280748",
+    "update_time": "2025-04-03 11:04:02",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "228982": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1882653816901597498",
-                    "size": "10261947542",
-                    "download": "4661325408"
+                    "gid": "3452082892834980644",
+                    "size": "10275465690",
+                    "download": "4672659072"
                 }
             },
             "decryptionkey": "d7e8a1495068660d1566825adb153b1fb482aa57a925e54c35a8fbcfbd42603d"
@@ -67,8 +67,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17570724",
-                "timeupdated": "1740997908"
+                "buildid": "17963479",
+                "timeupdated": "1743649244"
             }
         },
         "privatebranches": "1",
