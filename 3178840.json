@@ -4,8 +4,8 @@
     "name": "Astrumis - Survive Together Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26894862",
-    "update_time": "2025-01-08 00:16:41",
+    "change_number": "28206656",
+    "update_time": "2025-03-29 22:23:52",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "2358817743",
                     "download": "2180949248"
                 }
-            },
-            "decryptionkey": "2fe42266dc5954a1d7787141d2df64cf042ba9421d943c56062852518a528cee"
+            }
         },
         "branches": {
             "public": {
