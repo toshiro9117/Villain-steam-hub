@@ -4,8 +4,8 @@
     "name": "Myst",
     "schinese_name": "神秘岛",
     "isfreeapp": "0",
-    "change_number": "28009327",
-    "update_time": "2025-03-18 16:39:02",
+    "change_number": "28297063",
+    "update_time": "2025-04-04 05:16:07",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "955724892363907809",
-                    "size": "8800626299",
-                    "download": "8388354784"
+                    "gid": "8933530348477167013",
+                    "size": "10947369026",
+                    "download": "10393176016"
                 },
                 "rollback_macos_under14-5": {
                     "gid": "5701998152114423577",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2897799506197659840",
-                    "size": "11614689396",
-                    "download": "9000778416"
+                    "gid": "7230434635048246804",
+                    "size": "14681699216",
+                    "download": "10802991584"
                 },
                 "rollback_macos_under14-5": {
                     "gid": "5998904543494293051",
@@ -63,12 +63,12 @@
                     "download": "8853528912"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c694b5a1e15f70952d23c94cd82811a1740e7cd9ca5f07825609d35fd0b1f5ae"
         },
         "branches": {
             "public": {
-                "buildid": "17150685",
-                "timeupdated": "1738108750"
+                "buildid": "17878272",
+                "timeupdated": "1743128719"
             },
             "rollback_macos_under14-5": {
                 "buildid": "16320994",
