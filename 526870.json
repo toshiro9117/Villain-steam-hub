@@ -4,8 +4,8 @@
     "name": "Satisfactory",
     "schinese_name": "幸福工厂",
     "isfreeapp": "0",
-    "change_number": "28005280",
-    "update_time": "2025-03-18 09:59:35",
+    "change_number": "28342448",
+    "update_time": "2025-04-07 17:13:40",
     "depot": {
         "workshopdepot": "526870",
         "228988": {
@@ -26,9 +26,9 @@
                     "download": "12401173984"
                 },
                 "experimental": {
-                    "gid": "2383797638047827391",
-                    "size": "27427365595",
-                    "download": "12448909248"
+                    "gid": "5438018340033875677",
+                    "size": "27202023476",
+                    "download": "12244321776"
                 }
             },
             "decryptionkey": "ae0ab673da3c9d0f444b1cd61fe8f2235d43e6c0401684a78f4fbdfc8f0d9bc1"
@@ -45,9 +45,9 @@
                     "download": "9806602096"
                 },
                 "experimental": {
-                    "gid": "3797682000601241179",
-                    "size": "14971873619",
-                    "download": "9805324192"
+                    "gid": "7838475065113871376",
+                    "size": "13744557945",
+                    "download": "9467223856"
                 }
             },
             "decryptionkey": ""
@@ -58,8 +58,8 @@
                 "timeupdated": "1734694774"
             },
             "experimental": {
-                "buildid": "17680981",
-                "timeupdated": "1741715806"
+                "buildid": "17972982",
+                "timeupdated": "1743757811"
             }
         },
         "privatebranches": "1",
