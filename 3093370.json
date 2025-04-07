@@ -4,8 +4,8 @@
     "name": "The Last Sight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26720299",
-    "update_time": "2024-12-20 03:47:54",
+    "change_number": "28236667",
+    "update_time": "2025-04-01 05:43:32",
     "depot": {
         "3093371": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1472032885686199739",
-                    "size": "3278801398",
-                    "download": "3111062736"
+                    "gid": "9041856692826799643",
+                    "size": "3278789574",
+                    "download": "3110940784"
                 }
             },
             "decryptionkey": "2e23aac3b9bf9877119c2811af2a8b855757803bb611a3362d35597155387bf6"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16805350",
-                "timeupdated": "1734637670"
+                "buildid": "17930788",
+                "timeupdated": "1743457406"
             }
         },
         "privatebranches": "1"
