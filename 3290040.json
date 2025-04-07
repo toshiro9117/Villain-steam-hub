@@ -4,8 +4,8 @@
     "name": "魔剑镇魂曲 英雄之泪",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27937311",
-    "update_time": "2025-03-14 00:22:36",
+    "change_number": "28331165",
+    "update_time": "2025-04-06 18:17:39",
     "depot": {
         "baselanguages": "english",
         "3290041": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7169997486838503524",
-                    "size": "388382266",
-                    "download": "245486368"
+                    "gid": "708044910672596162",
+                    "size": "388254738",
+                    "download": "258093056"
                 }
             },
             "decryptionkey": "8b2e34a9eb9a538c920d12e08f58f370a647b3a18e74c189de077f72de3ab4da"
         },
         "branches": {
             "public": {
-                "buildid": "17346713",
-                "timeupdated": "1739422517"
+                "buildid": "17884153",
+                "timeupdated": "1743128666"
             }
         },
         "privatebranches": "1"
