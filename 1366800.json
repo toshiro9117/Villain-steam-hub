@@ -4,8 +4,8 @@
     "name": "Crosshair X",
     "schinese_name": "十字线X",
     "isfreeapp": "0",
-    "change_number": "27485634",
-    "update_time": "2025-02-15 03:06:24",
+    "change_number": "28260960",
+    "update_time": "2025-04-02 12:20:08",
     "depot": {
         "1366801": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8997830122044665282",
-                    "size": "538362113",
-                    "download": "152559120"
+                    "gid": "8531510434455522398",
+                    "size": "542444705",
+                    "download": "154877104"
                 }
             },
             "decryptionkey": "c5417c02a22d0961ede2808e93da40d019b1d1f88131568488d7659bdc01ddcf"
@@ -24,11 +24,11 @@
         "workshopdepot": "1366800",
         "branches": {
             "public": {
-                "buildid": "17362054",
-                "timeupdated": "1739512042"
+                "buildid": "17948993",
+                "timeupdated": "1743567601"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4dd13eda157bbef37f1b72f4b538e1ee7e6b437bfd5678303e0e9e493215d60e"
+        "workshopdepotdecryptionkey": ""
     }
 }
