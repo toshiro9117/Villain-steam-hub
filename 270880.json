@@ -4,8 +4,8 @@
     "name": "American Truck Simulator",
     "schinese_name": "美国卡车模拟",
     "isfreeapp": "0",
-    "change_number": "28008667",
-    "update_time": "2025-03-18 15:49:23",
+    "change_number": "28346286",
+    "update_time": "2025-04-07 21:18:51",
     "depot": {
         "externaldlc": "0",
         "workshopdepot": "270880",
@@ -13,24 +13,24 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5264753424921092467",
-                    "size": "22395165263",
-                    "download": "20645612864"
-                },
-                "public_beta": {
-                    "gid": "1227669154774044676",
-                    "size": "20815077634",
-                    "download": "19257386512"
+                    "gid": "7240588733680452265",
+                    "size": "20829704809",
+                    "download": "19272872576"
                 },
                 "oculus": {
+                    "gid": "3993451606551915953",
+                    "size": "20829861765",
+                    "download": "19273005888"
+                },
+                "oculus_previous": {
                     "gid": "6279985685471191987",
                     "size": "22395484813",
                     "download": "20645876304"
                 },
-                "oculus_previous": {
-                    "gid": "2113263163258481022",
-                    "size": "20603147390",
-                    "download": "18945076592"
+                "temporary_1_54": {
+                    "gid": "3218937501533238340",
+                    "size": "20813022529",
+                    "download": "19257237296"
                 },
                 "temporary_1_53": {
                     "gid": "5608977182338429915",
@@ -151,24 +151,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3648202061462563807",
-                    "size": "54202344",
-                    "download": "15577200"
-                },
-                "public_beta": {
-                    "gid": "2917185363252247125",
-                    "size": "54938088",
-                    "download": "15789600"
+                    "gid": "5895748577697318626",
+                    "size": "54947304",
+                    "download": "15789088"
                 },
                 "oculus": {
+                    "gid": "1580563369739144318",
+                    "size": "56200120",
+                    "download": "16257600"
+                },
+                "oculus_previous": {
                     "gid": "7636308089803394212",
                     "size": "55434680",
                     "download": "16044944"
                 },
-                "oculus_previous": {
-                    "gid": "3219140810081016388",
-                    "size": "55019960",
-                    "download": "15902448"
+                "temporary_1_54": {
+                    "gid": "2562238043797072960",
+                    "size": "54945256",
+                    "download": "15789152"
                 },
                 "temporary_1_53": {
                     "gid": "4010242702073930801",
@@ -289,14 +289,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "519583589863978767",
-                    "size": "51037808",
-                    "download": "14940448"
-                },
-                "public_beta": {
-                    "gid": "8204740961226348117",
-                    "size": "52042064",
-                    "download": "15224624"
+                    "gid": "4441998790598220276",
+                    "size": "52435216",
+                    "download": "15523440"
                 },
                 "oculus": {
                     "gid": "9185408814231872919",
@@ -307,6 +302,11 @@
                     "gid": "9185408814231872919",
                     "size": "0",
                     "download": "0"
+                },
+                "temporary_1_54": {
+                    "gid": "491550125993681727",
+                    "size": "52431120",
+                    "download": "15522880"
                 },
                 "temporary_1_53": {
                     "gid": "519583589863978767",
@@ -427,14 +427,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2618571202049170114",
-                    "size": "63414354",
-                    "download": "18216864"
-                },
-                "public_beta": {
-                    "gid": "842449572741606761",
-                    "size": "64435762",
-                    "download": "18485984"
+                    "gid": "8383123251417216055",
+                    "size": "64435843",
+                    "download": "18489488"
                 },
                 "oculus": {
                     "gid": "860916235421431538",
@@ -445,6 +440,11 @@
                     "gid": "860916235421431538",
                     "size": "0",
                     "download": "0"
+                },
+                "temporary_1_54": {
+                    "gid": "3820430844088378876",
+                    "size": "64435843",
+                    "download": "18489200"
                 },
                 "temporary_1_53": {
                     "gid": "1459597330988876300",
@@ -563,24 +563,24 @@
             "dlcappid": "421090",
             "manifests": {
                 "public": {
-                    "gid": "3179863838536620159",
-                    "size": "42143798",
-                    "download": "41929056"
-                },
-                "public_beta": {
-                    "gid": "2542424252733618039",
-                    "size": "42143477",
-                    "download": "41928944"
+                    "gid": "2197554087972713887",
+                    "size": "41938572",
+                    "download": "41722240"
                 },
                 "oculus": {
+                    "gid": "2197554087972713887",
+                    "size": "41938572",
+                    "download": "41722240"
+                },
+                "oculus_previous": {
                     "gid": "3179863838536620159",
                     "size": "42143798",
                     "download": "41929056"
                 },
-                "oculus_previous": {
-                    "gid": "7342869897648828549",
-                    "size": "46501424",
-                    "download": "46295664"
+                "temporary_1_54": {
+                    "gid": "2283493020177189559",
+                    "size": "41938572",
+                    "download": "41722080"
                 },
                 "temporary_1_53": {
                     "gid": "3179863838536620159",
@@ -703,17 +703,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8169493434990176546",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8169493434990176546",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8169493434990176546",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8169493434990176546",
                     "size": "0",
                     "download": "0"
@@ -839,17 +839,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "5876741541824085703",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "5876741541824085703",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "5876741541824085703",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "5876741541824085703",
                     "size": "0",
                     "download": "0"
@@ -975,17 +975,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "515058574934992941",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "515058574934992941",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "515058574934992941",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "515058574934992941",
                     "size": "0",
                     "download": "0"
@@ -1111,17 +1111,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "4599348267446784704",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "4599348267446784704",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "4599348267446784704",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "4599348267446784704",
                     "size": "0",
                     "download": "0"
@@ -1247,17 +1247,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "4149600135025716899",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "4149600135025716899",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "4149600135025716899",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "4149600135025716899",
                     "size": "0",
                     "download": "0"
@@ -1383,17 +1383,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "6356452566938046875",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "6356452566938046875",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "6356452566938046875",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "6356452566938046875",
                     "size": "0",
                     "download": "0"
@@ -1515,24 +1515,24 @@
             "dlcappid": "463740",
             "manifests": {
                 "public": {
-                    "gid": "5665907665970631829",
-                    "size": "22260680",
-                    "download": "22175072"
-                },
-                "public_beta": {
-                    "gid": "5671350647236747722",
-                    "size": "22249060",
-                    "download": "22170144"
+                    "gid": "5939501333766270172",
+                    "size": "22208590",
+                    "download": "22129792"
                 },
                 "oculus": {
+                    "gid": "5939501333766270172",
+                    "size": "22208590",
+                    "download": "22129792"
+                },
+                "oculus_previous": {
                     "gid": "5665907665970631829",
                     "size": "22260680",
                     "download": "22175072"
                 },
-                "oculus_previous": {
-                    "gid": "7126572843048260568",
-                    "size": "21930065",
-                    "download": "21842816"
+                "temporary_1_54": {
+                    "gid": "8198177289914214382",
+                    "size": "22208294",
+                    "download": "22129536"
                 },
                 "temporary_1_53": {
                     "gid": "6179961369563184499",
@@ -1655,17 +1655,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "7149842417303380160",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "7149842417303380160",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "7149842417303380160",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "7149842417303380160",
                     "size": "0",
                     "download": "0"
@@ -1791,17 +1791,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8125222884319281369",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8125222884319281369",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8125222884319281369",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8125222884319281369",
                     "size": "0",
                     "download": "0"
@@ -1927,17 +1927,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "9016003332975462182",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "9016003332975462182",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "9016003332975462182",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "9016003332975462182",
                     "size": "0",
                     "download": "0"
@@ -2063,17 +2063,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "5337417073288494106",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "5337417073288494106",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "5337417073288494106",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "5337417073288494106",
                     "size": "0",
                     "download": "0"
@@ -2199,17 +2199,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8690200655518167883",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8690200655518167883",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8690200655518167883",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8690200655518167883",
                     "size": "0",
                     "download": "0"
@@ -2335,17 +2335,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "971536768214339644",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "971536768214339644",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "971536768214339644",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "971536768214339644",
                     "size": "0",
                     "download": "0"
@@ -2471,17 +2471,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "7129775120219309754",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "7129775120219309754",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "7129775120219309754",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "7129775120219309754",
                     "size": "0",
                     "download": "0"
@@ -2607,17 +2607,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8771153689427663235",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8771153689427663235",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8771153689427663235",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8771153689427663235",
                     "size": "0",
                     "download": "0"
@@ -2739,24 +2739,24 @@
             "dlcappid": "684630",
             "manifests": {
                 "public": {
-                    "gid": "7482643079173265498",
-                    "size": "64792525",
-                    "download": "64448992"
-                },
-                "public_beta": {
-                    "gid": "3499000285707978578",
-                    "size": "65088821",
-                    "download": "64716816"
+                    "gid": "5831845553521784024",
+                    "size": "65059314",
+                    "download": "64687408"
                 },
                 "oculus": {
+                    "gid": "5831845553521784024",
+                    "size": "65059314",
+                    "download": "64687408"
+                },
+                "oculus_previous": {
                     "gid": "7482643079173265498",
                     "size": "64792525",
                     "download": "64448992"
                 },
-                "oculus_previous": {
-                    "gid": "7538352041570555909",
-                    "size": "64785403",
-                    "download": "64443168"
+                "temporary_1_54": {
+                    "gid": "5831845553521784024",
+                    "size": "65059314",
+                    "download": "64687408"
                 },
                 "temporary_1_53": {
                     "gid": "7482643079173265498",
@@ -2875,24 +2875,24 @@
             "dlcappid": "800370",
             "manifests": {
                 "public": {
-                    "gid": "1912248656317312662",
-                    "size": "56649022",
-                    "download": "55634848"
-                },
-                "public_beta": {
-                    "gid": "879638793694805671",
-                    "size": "55469302",
-                    "download": "54484080"
+                    "gid": "5245750919332435443",
+                    "size": "55450071",
+                    "download": "54465376"
                 },
                 "oculus": {
+                    "gid": "5245750919332435443",
+                    "size": "55450071",
+                    "download": "54465376"
+                },
+                "oculus_previous": {
                     "gid": "1912248656317312662",
                     "size": "56649022",
                     "download": "55634848"
                 },
-                "oculus_previous": {
-                    "gid": "3572407530564820203",
-                    "size": "56633591",
-                    "download": "55622272"
+                "temporary_1_54": {
+                    "gid": "5245750919332435443",
+                    "size": "55450071",
+                    "download": "54465376"
                 },
                 "temporary_1_53": {
                     "gid": "6284332773730915490",
@@ -3015,17 +3015,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "6400674156008919728",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "6400674156008919728",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "6400674156008919728",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "6400674156008919728",
                     "size": "0",
                     "download": "0"
@@ -3151,17 +3151,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "4357515643689176476",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "4357515643689176476",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "4357515643689176476",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "4357515643689176476",
                     "size": "0",
                     "download": "0"
@@ -3283,24 +3283,24 @@
             "dlcappid": "1015160",
             "manifests": {
                 "public": {
-                    "gid": "4616994779947766035",
-                    "size": "64870281",
-                    "download": "63303952"
-                },
-                "public_beta": {
-                    "gid": "5113855473797074054",
-                    "size": "64838311",
-                    "download": "63294976"
+                    "gid": "4428692079267175956",
+                    "size": "64791261",
+                    "download": "63248480"
                 },
                 "oculus": {
+                    "gid": "4428692079267175956",
+                    "size": "64791261",
+                    "download": "63248480"
+                },
+                "oculus_previous": {
                     "gid": "4616994779947766035",
                     "size": "64870281",
                     "download": "63303952"
                 },
-                "oculus_previous": {
-                    "gid": "8102732360688306515",
-                    "size": "64862337",
-                    "download": "63300640"
+                "temporary_1_54": {
+                    "gid": "4428692079267175956",
+                    "size": "64791261",
+                    "download": "63248480"
                 },
                 "temporary_1_53": {
                     "gid": "587886378576559156",
@@ -3423,17 +3423,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8773331551806415866",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8773331551806415866",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8773331551806415866",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8773331551806415866",
                     "size": "0",
                     "download": "0"
@@ -3555,24 +3555,24 @@
             "dlcappid": "1104880",
             "manifests": {
                 "public": {
-                    "gid": "7900438502550614766",
-                    "size": "65005809",
-                    "download": "64710336"
-                },
-                "public_beta": {
-                    "gid": "7130607707721643072",
-                    "size": "63109890",
-                    "download": "62797440"
+                    "gid": "3166316049480384388",
+                    "size": "62972586",
+                    "download": "62658912"
                 },
                 "oculus": {
+                    "gid": "3166316049480384388",
+                    "size": "62972586",
+                    "download": "62658912"
+                },
+                "oculus_previous": {
                     "gid": "7900438502550614766",
                     "size": "65005809",
                     "download": "64710336"
                 },
-                "oculus_previous": {
-                    "gid": "1762245385231917092",
-                    "size": "65003866",
-                    "download": "64707648"
+                "temporary_1_54": {
+                    "gid": "3473952919159445360",
+                    "size": "62972586",
+                    "download": "62658864"
                 },
                 "temporary_1_53": {
                     "gid": "7900438502550614766",
@@ -3690,17 +3690,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "348047091569531530",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "348047091569531530",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "348047091569531530",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "348047091569531530",
                     "size": "0",
                     "download": "0"
@@ -3826,17 +3826,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "4146924956824321246",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "4146924956824321246",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "4146924956824321246",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "4146924956824321246",
                     "size": "0",
                     "download": "0"
@@ -3957,17 +3957,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "7223995549485937630",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "7223995549485937630",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "7223995549485937630",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "7223995549485937630",
                     "size": "0",
                     "download": "0"
@@ -4093,17 +4093,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "403939628250608492",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "403939628250608492",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "403939628250608492",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "403939628250608492",
                     "size": "0",
                     "download": "0"
@@ -4220,24 +4220,24 @@
             "dlcappid": "1209470",
             "manifests": {
                 "public": {
-                    "gid": "2840299307949427566",
-                    "size": "65419215",
-                    "download": "64747680"
-                },
-                "public_beta": {
-                    "gid": "555566022348906815",
-                    "size": "65382572",
-                    "download": "64712064"
+                    "gid": "2615800115255782829",
+                    "size": "64845934",
+                    "download": "64170992"
                 },
                 "oculus": {
+                    "gid": "2615800115255782829",
+                    "size": "64845934",
+                    "download": "64170992"
+                },
+                "oculus_previous": {
                     "gid": "2840299307949427566",
                     "size": "65419215",
                     "download": "64747680"
                 },
-                "oculus_previous": {
-                    "gid": "7417607959881979924",
-                    "size": "65435651",
-                    "download": "64763504"
+                "temporary_1_54": {
+                    "gid": "6885861905848756966",
+                    "size": "64845934",
+                    "download": "64170976"
                 },
                 "temporary_1_53": {
                     "gid": "2840299307949427566",
@@ -4350,17 +4350,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8641916714218103136",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8641916714218103136",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8641916714218103136",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8641916714218103136",
                     "size": "0",
                     "download": "0"
@@ -4466,17 +4466,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "5600695055779905726",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "5600695055779905726",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "5600695055779905726",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "5600695055779905726",
                     "size": "0",
                     "download": "0"
@@ -4583,24 +4583,24 @@
             "dlcappid": "1209471",
             "manifests": {
                 "public": {
-                    "gid": "5455562180455425036",
-                    "size": "145644887",
-                    "download": "144360928"
-                },
-                "public_beta": {
-                    "gid": "1878738446483204648",
-                    "size": "136714007",
-                    "download": "135357344"
+                    "gid": "5191773704297857051",
+                    "size": "136218824",
+                    "download": "134862512"
                 },
                 "oculus": {
+                    "gid": "5191773704297857051",
+                    "size": "136218824",
+                    "download": "134862512"
+                },
+                "oculus_previous": {
                     "gid": "5455562180455425036",
                     "size": "145644887",
                     "download": "144360928"
                 },
-                "oculus_previous": {
-                    "gid": "4999098732279479089",
-                    "size": "145742627",
-                    "download": "144457616"
+                "temporary_1_54": {
+                    "gid": "5191773704297857051",
+                    "size": "136218824",
+                    "download": "134862512"
                 },
                 "temporary_1_53": {
                     "gid": "266111400524551345",
@@ -4703,17 +4703,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "2063882711744259797",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "2063882711744259797",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "2063882711744259797",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "2063882711744259797",
                     "size": "0",
                     "download": "0"
@@ -4815,24 +4815,24 @@
             "dlcappid": "1415692",
             "manifests": {
                 "public": {
-                    "gid": "9074377507514160851",
-                    "size": "185857341",
-                    "download": "184804416"
-                },
-                "public_beta": {
-                    "gid": "8963258241723017746",
-                    "size": "184189269",
-                    "download": "183131056"
+                    "gid": "4552412207644539880",
+                    "size": "183076960",
+                    "download": "182015696"
                 },
                 "oculus": {
+                    "gid": "4552412207644539880",
+                    "size": "183076960",
+                    "download": "182015696"
+                },
+                "oculus_previous": {
                     "gid": "9074377507514160851",
                     "size": "185857341",
                     "download": "184804416"
                 },
-                "oculus_previous": {
-                    "gid": "255306712746805767",
-                    "size": "186492846",
-                    "download": "185439248"
+                "temporary_1_54": {
+                    "gid": "7933809882062004766",
+                    "size": "183076960",
+                    "download": "182015440"
                 },
                 "temporary_1_53": {
                     "gid": "9074377507514160851",
@@ -4925,17 +4925,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "4650460462313041576",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "4650460462313041576",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "4650460462313041576",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "4650460462313041576",
                     "size": "0",
                     "download": "0"
@@ -5036,17 +5036,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8778989030003415640",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8778989030003415640",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8778989030003415640",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8778989030003415640",
                     "size": "0",
                     "download": "0"
@@ -5142,17 +5142,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "9032744893298564670",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "9032744893298564670",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "9032744893298564670",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "9032744893298564670",
                     "size": "0",
                     "download": "0"
@@ -5248,17 +5248,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "4398020392190842052",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "4398020392190842052",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "4398020392190842052",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "4398020392190842052",
                     "size": "0",
                     "download": "0"
@@ -5349,17 +5349,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "9127752148964148506",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "9127752148964148506",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "9127752148964148506",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "9127752148964148506",
                     "size": "0",
                     "download": "0"
@@ -5441,24 +5441,24 @@
             "dlcappid": "1811080",
             "manifests": {
                 "public": {
-                    "gid": "1349681688820682378",
-                    "size": "297229685",
-                    "download": "295684320"
-                },
-                "public_beta": {
-                    "gid": "403589212147984838",
-                    "size": "279640551",
-                    "download": "277978272"
+                    "gid": "3675605738304566514",
+                    "size": "278168420",
+                    "download": "276506832"
                 },
                 "oculus": {
+                    "gid": "3675605738304566514",
+                    "size": "278168420",
+                    "download": "276506832"
+                },
+                "oculus_previous": {
                     "gid": "1349681688820682378",
                     "size": "297229685",
                     "download": "295684320"
                 },
-                "oculus_previous": {
-                    "gid": "3130829103106094059",
-                    "size": "300669834",
-                    "download": "299149488"
+                "temporary_1_54": {
+                    "gid": "3675605738304566514",
+                    "size": "278168420",
+                    "download": "276506832"
                 },
                 "temporary_1_53": {
                     "gid": "2439845691480183438",
@@ -5527,24 +5527,24 @@
             "dlcappid": "1465750",
             "manifests": {
                 "public": {
-                    "gid": "9141862130947828534",
-                    "size": "551301050",
-                    "download": "546941984"
-                },
-                "public_beta": {
-                    "gid": "2344317082756587572",
-                    "size": "518576417",
-                    "download": "514013264"
+                    "gid": "3559151336294665246",
+                    "size": "513959979",
+                    "download": "509413296"
                 },
                 "oculus": {
+                    "gid": "3559151336294665246",
+                    "size": "513959979",
+                    "download": "509413296"
+                },
+                "oculus_previous": {
                     "gid": "9141862130947828534",
                     "size": "551301050",
                     "download": "546941984"
                 },
-                "oculus_previous": {
-                    "gid": "8343561653128181612",
-                    "size": "555243708",
-                    "download": "550812144"
+                "temporary_1_54": {
+                    "gid": "4172090116998751446",
+                    "size": "513959979",
+                    "download": "509413216"
                 },
                 "temporary_1_53": {
                     "gid": "6067310526933461291",
@@ -5612,17 +5612,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8881880834414401456",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8881880834414401456",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8881880834414401456",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8881880834414401456",
                     "size": "0",
                     "download": "0"
@@ -5703,17 +5703,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8446052161774650967",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8446052161774650967",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8446052161774650967",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8446052161774650967",
                     "size": "0",
                     "download": "0"
@@ -5789,17 +5789,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "7594260954117990988",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "7594260954117990988",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "7594260954117990988",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "7594260954117990988",
                     "size": "0",
                     "download": "0"
@@ -5866,24 +5866,24 @@
             "dlcappid": "2209650",
             "manifests": {
                 "public": {
-                    "gid": "3240643807410506681",
-                    "size": "177651770",
-                    "download": "175802576"
-                },
-                "public_beta": {
-                    "gid": "1926718605601572215",
-                    "size": "167151388",
-                    "download": "165295456"
+                    "gid": "8211626803451798368",
+                    "size": "166445788",
+                    "download": "164590944"
                 },
                 "oculus": {
+                    "gid": "8211626803451798368",
+                    "size": "166445788",
+                    "download": "164590944"
+                },
+                "oculus_previous": {
                     "gid": "3240643807410506681",
                     "size": "177651770",
                     "download": "175802576"
                 },
-                "oculus_previous": {
-                    "gid": "8117696079309959503",
-                    "size": "177651021",
-                    "download": "175790672"
+                "temporary_1_54": {
+                    "gid": "5339994569740008882",
+                    "size": "166445786",
+                    "download": "164590928"
                 },
                 "temporary_1_53": {
                     "gid": "2273794745562830689",
@@ -5941,17 +5941,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8688684472672409532",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8688684472672409532",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8688684472672409532",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8688684472672409532",
                     "size": "0",
                     "download": "0"
@@ -6018,24 +6018,24 @@
             "dlcappid": "2298430",
             "manifests": {
                 "public": {
-                    "gid": "5373591742099488304",
-                    "size": "184429553",
-                    "download": "182547216"
-                },
-                "public_beta": {
-                    "gid": "8808166631996411196",
-                    "size": "131380593",
-                    "download": "130154848"
+                    "gid": "8762556352645745712",
+                    "size": "130359985",
+                    "download": "129138992"
                 },
                 "oculus": {
+                    "gid": "8762556352645745712",
+                    "size": "130359985",
+                    "download": "129138992"
+                },
+                "oculus_previous": {
                     "gid": "5373591742099488304",
                     "size": "184429553",
                     "download": "182547216"
                 },
-                "oculus_previous": {
-                    "gid": "2758615522001641405",
-                    "size": "187000398",
-                    "download": "184958000"
+                "temporary_1_54": {
+                    "gid": "6470798027920213850",
+                    "size": "130359985",
+                    "download": "129138864"
                 },
                 "temporary_1_53": {
                     "gid": "5149961927040732782",
@@ -6093,17 +6093,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "6839742813244502689",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "6839742813244502689",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "6839742813244502689",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "6839742813244502689",
                     "size": "0",
                     "download": "0"
@@ -6169,17 +6169,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "2958423849438833889",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "2958423849438833889",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "2958423849438833889",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "2958423849438833889",
                     "size": "0",
                     "download": "0"
@@ -6236,24 +6236,24 @@
             "dlcappid": "2543810",
             "manifests": {
                 "public": {
-                    "gid": "9198589285049426413",
-                    "size": "165941141",
-                    "download": "164575296"
-                },
-                "public_beta": {
-                    "gid": "1116121742188497648",
-                    "size": "157583585",
-                    "download": "156299968"
+                    "gid": "1135767712955088746",
+                    "size": "156019815",
+                    "download": "154742320"
                 },
                 "oculus": {
+                    "gid": "1135767712955088746",
+                    "size": "156019815",
+                    "download": "154742320"
+                },
+                "oculus_previous": {
                     "gid": "9198589285049426413",
                     "size": "165941141",
                     "download": "164575296"
                 },
-                "oculus_previous": {
-                    "gid": "2195275927927796923",
-                    "size": "164397290",
-                    "download": "163036752"
+                "temporary_1_54": {
+                    "gid": "7084580397910438485",
+                    "size": "156019815",
+                    "download": "154742320"
                 },
                 "temporary_1_53": {
                     "gid": "9198589285049426413",
@@ -6287,24 +6287,24 @@
             "dlcappid": "2585150",
             "manifests": {
                 "public": {
-                    "gid": "6982884331888068368",
-                    "size": "150118327",
-                    "download": "147847840"
-                },
-                "public_beta": {
-                    "gid": "1160213214030741908",
-                    "size": "146815816",
-                    "download": "144543856"
+                    "gid": "4389474646384302572",
+                    "size": "145916364",
+                    "download": "143644944"
                 },
                 "oculus": {
+                    "gid": "4389474646384302572",
+                    "size": "145916364",
+                    "download": "143644944"
+                },
+                "oculus_previous": {
                     "gid": "6982884331888068368",
                     "size": "150118327",
                     "download": "147847840"
                 },
-                "oculus_previous": {
-                    "gid": "8073264916803520884",
-                    "size": "167541377",
-                    "download": "165015216"
+                "temporary_1_54": {
+                    "gid": "3278233108482587375",
+                    "size": "145916366",
+                    "download": "143644400"
                 },
                 "temporary_1_53": {
                     "gid": "3757644931723967812",
@@ -6332,17 +6332,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "534253102025906285",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "534253102025906285",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "534253102025906285",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "534253102025906285",
                     "size": "0",
                     "download": "0"
@@ -6393,17 +6393,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8750948300913479856",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8750948300913479856",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8750948300913479856",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8750948300913479856",
                     "size": "0",
                     "download": "0"
@@ -6454,17 +6454,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8799673683826690182",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8799673683826690182",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8799673683826690182",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8799673683826690182",
                     "size": "0",
                     "download": "0"
@@ -6510,23 +6510,28 @@
         "2730870": {
             "dlcappid": "2730870",
             "manifests": {
-                "public_beta": {
-                    "gid": "7438986836994681527",
-                    "size": "192726355",
-                    "download": "190440944"
+                "public": {
+                    "gid": "9033190917058658055",
+                    "size": "191732221",
+                    "download": "189491648"
+                },
+                "oculus": {
+                    "gid": "9033190917058658055",
+                    "size": "191732221",
+                    "download": "189491648"
+                },
+                "temporary_1_54": {
+                    "gid": "2145985178178344514",
+                    "size": "0",
+                    "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9e1e19ea1811a4b4cec98af8584ff5a7fb13da5c0272d2479afa9d69617fe865"
         },
         "2910160": {
             "dlcappid": "2910160",
             "manifests": {
                 "public": {
-                    "gid": "1332365548956288646",
-                    "size": "0",
-                    "download": "0"
-                },
-                "public_beta": {
                     "gid": "1332365548956288646",
                     "size": "0",
                     "download": "0"
@@ -6537,6 +6542,11 @@
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "1332365548956288646",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "1332365548956288646",
                     "size": "0",
                     "download": "0"
@@ -6577,17 +6587,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "8811932060840543556",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "8811932060840543556",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8811932060840543556",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8811932060840543556",
                     "size": "0",
                     "download": "0"
@@ -6617,35 +6627,16 @@
         },
         "3012580": {
             "dlcappid": "3012580",
-            "manifests": {
-                "public_beta": {
-                    "gid": "5921902772114281522",
-                    "size": "0",
-                    "download": "0"
-                }
-            },
-            "decryptionkey": ""
+            "manifests": {}
         },
         "3025440": {
             "dlcappid": "3025440",
-            "manifests": {
-                "public_beta": {
-                    "gid": "2829132682536555570",
-                    "size": "0",
-                    "download": "0"
-                }
-            },
-            "decryptionkey": ""
+            "manifests": {}
         },
         "3146090": {
             "dlcappid": "3146090",
             "manifests": {
                 "public": {
-                    "gid": "8340701473470811333",
-                    "size": "0",
-                    "download": "0"
-                },
-                "public_beta": {
                     "gid": "8340701473470811333",
                     "size": "0",
                     "download": "0"
@@ -6656,6 +6647,11 @@
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "8340701473470811333",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "8340701473470811333",
                     "size": "0",
                     "download": "0"
@@ -6686,17 +6682,17 @@
                     "size": "0",
                     "download": "0"
                 },
-                "public_beta": {
-                    "gid": "9044226786503734086",
-                    "size": "0",
-                    "download": "0"
-                },
                 "oculus": {
                     "gid": "9044226786503734086",
                     "size": "0",
                     "download": "0"
                 },
                 "oculus_previous": {
+                    "gid": "9044226786503734086",
+                    "size": "0",
+                    "download": "0"
+                },
+                "temporary_1_54": {
                     "gid": "9044226786503734086",
                     "size": "0",
                     "download": "0"
@@ -6724,34 +6720,27 @@
         },
         "3486960": {
             "dlcappid": "3486960",
-            "manifests": {
-                "public_beta": {
-                    "gid": "8192282660904692120",
-                    "size": "0",
-                    "download": "0"
-                }
-            },
-            "decryptionkey": ""
+            "manifests": {}
         },
         "branches": {
             "public": {
-                "buildid": "17323459",
-                "timeupdated": "1739290430"
-            },
-            "public_beta": {
-                "buildid": "17713247",
-                "description": "Open Beta for game version 1.54",
-                "timeupdated": "1741984757"
+                "buildid": "17951753",
+                "timeupdated": "1743699274"
             },
             "oculus": {
-                "buildid": "17304880",
-                "description": "Oculus+OpenVR+OpenXR - 1.53",
-                "timeupdated": "1739267590"
+                "buildid": "17952113",
+                "description": "Oculus+OpenVR+OpenXR - 1.54",
+                "timeupdated": "1743699412"
             },
             "oculus_previous": {
-                "buildid": "16162245",
-                "description": "Oculus+OpenVR+OpenXR - 1.52",
-                "timeupdated": "1732781500"
+                "buildid": "17304880",
+                "description": "Oculus+OpenVR+OpenXR - 1.53",
+                "timeupdated": "1743061540"
+            },
+            "temporary_1_54": {
+                "buildid": "17853480",
+                "description": "1.54.x for incompatible mods",
+                "timeupdated": "1743061799"
             },
             "temporary_1_53": {
                 "buildid": "16793094",
