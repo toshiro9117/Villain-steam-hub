@@ -4,15 +4,15 @@
     "name": "Etrian Odyssey III HD",
     "schinese_name": "世界树的迷宫Ⅲ 星海的访客 HD REMASTER",
     "isfreeapp": "0",
-    "change_number": "27990876",
-    "update_time": "2025-03-17 17:53:39",
+    "change_number": "28274842",
+    "update_time": "2025-04-03 03:10:21",
     "depot": {
         "1810821": {
             "manifests": {
                 "public": {
-                    "gid": "4646511442498203085",
-                    "size": "2598476089",
-                    "download": "960809456"
+                    "gid": "8269680437562424126",
+                    "size": "2577932672",
+                    "download": "947767008"
                 }
             },
             "decryptionkey": "5c6aecc71489adfb4126754a88937595c7b8a093d72c7376ab979048558ba4fe"
@@ -31,8 +31,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "11788513",
-                "timeupdated": "1741989911"
+                "buildid": "17749085",
+                "timeupdated": "1743544927"
             }
         },
         "privatebranches": "1"
