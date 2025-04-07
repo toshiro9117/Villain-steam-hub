@@ -4,8 +4,8 @@
     "name": "Mini Airways",
     "schinese_name": "迷你空管 Mini Airways",
     "isfreeapp": "0",
-    "change_number": "28007354",
-    "update_time": "2025-03-18 13:43:37",
+    "change_number": "28343163",
+    "update_time": "2025-04-07 17:58:02",
     "depot": {
         "2289651": {
             "config": {
@@ -19,14 +19,14 @@
                     "download": "898818624"
                 },
                 "beta": {
-                    "gid": "386305794945514586",
-                    "size": "1839202510",
-                    "download": "1039652432"
+                    "gid": "2889920206811598425",
+                    "size": "2327813966",
+                    "download": "1263921856"
                 },
                 "voicecontrolbeta": {
-                    "gid": "386305794945514586",
-                    "size": "1839202510",
-                    "download": "1039652432"
+                    "gid": "2889920206811598425",
+                    "size": "2327813966",
+                    "download": "1263921856"
                 },
                 "mod_feat": {
                     "gid": "918145808695172443",
@@ -162,14 +162,14 @@
                 "timeupdated": "1739783126"
             },
             "beta": {
-                "buildid": "17705418",
+                "buildid": "17934015",
                 "description": "Latest Development Build",
-                "timeupdated": "1741853149"
+                "timeupdated": "1743480368"
             },
             "voicecontrolbeta": {
-                "buildid": "17705418",
+                "buildid": "17934015",
                 "description": "VCT",
-                "timeupdated": "1741853157"
+                "timeupdated": "1743480375"
             },
             "mod_feat": {
                 "buildid": "16994949",
