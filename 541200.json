@@ -4,8 +4,8 @@
     "name": "Get To The Orange Door",
     "schinese_name": "GTTOD：冲向橙门",
     "isfreeapp": "0",
-    "change_number": "25588784",
-    "update_time": "2024-10-08 22:57:22",
+    "change_number": "28193799",
+    "update_time": "2025-03-28 23:42:16",
     "depot": {
         "workshopdepot": "541200",
         "541201": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7652810616424998849",
-                    "size": "3870344353",
-                    "download": "1298712656"
+                    "gid": "5375170097968806521",
+                    "size": "3870476723",
+                    "download": "1298713408"
                 },
                 "update_1": {
                     "gid": "4349444211146981118",
@@ -74,9 +74,9 @@
                     "download": "891513456"
                 },
                 "update_12": {
-                    "gid": "7652810616424998849",
-                    "size": "3870344353",
-                    "download": "1298712656"
+                    "gid": "5375170097968806521",
+                    "size": "3870476723",
+                    "download": "1298713408"
                 }
             },
             "decryptionkey": "8fc49d58d6f960536c3c97d21ae11e25665cd241dbe2ee80732b245d615267ce"
@@ -84,14 +84,13 @@
         "541202": {
             "config": {
                 "oslist": "windows"
-            },
-            "manifests": {}
+            }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "15355468",
-                "timeupdated": "1724072603"
+                "buildid": "17886329",
+                "timeupdated": "1743176492"
             },
             "update_1": {
                 "buildid": "1775867",
@@ -149,12 +148,12 @@
                 "timeupdated": "1719277787"
             },
             "update_12": {
-                "buildid": "15355468",
+                "buildid": "17886329",
                 "description": "June 27th, 2024, THE PAST AND PRESENT Update",
-                "timeupdated": "1724072662"
+                "timeupdated": "1743176514"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "5a2a2e6d190893997700b15fa2d0304d07d2c45c19636f40adbf702e55e639f3"
+        "workshopdepotdecryptionkey": ""
     }
 }
