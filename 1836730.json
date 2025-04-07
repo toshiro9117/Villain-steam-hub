@@ -4,8 +4,8 @@
     "name": "Echo Point Nova",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27986750",
-    "update_time": "2025-03-17 10:56:15",
+    "change_number": "28292573",
+    "update_time": "2025-04-04 00:06:12",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1836731": {
             "manifests": {
                 "public": {
-                    "gid": "3153932709340195914",
-                    "size": "3335699852",
-                    "download": "2902815216"
+                    "gid": "3688351565388227381",
+                    "size": "3081904586",
+                    "download": "2853313328"
                 },
                 "decktest": {
                     "gid": "372220488810528734",
@@ -39,8 +39,8 @@
         "workshopdepot": "1836730",
         "branches": {
             "public": {
-                "buildid": "17711230",
-                "timeupdated": "1741880372"
+                "buildid": "17972626",
+                "timeupdated": "1743696368"
             },
             "decktest": {
                 "buildid": "17642498",
