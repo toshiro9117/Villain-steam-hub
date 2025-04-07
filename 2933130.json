@@ -4,8 +4,8 @@
     "name": "The Lord of the Rings: Return to Moria™",
     "schinese_name": "《指环王：重返墨瑞亚™》Return to Moria",
     "isfreeapp": "0",
-    "change_number": "28006881",
-    "update_time": "2025-03-18 12:51:05",
+    "change_number": "28344023",
+    "update_time": "2025-04-07 18:50:17",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2933131": {
             "manifests": {
                 "public": {
-                    "gid": "8408104795255549786",
-                    "size": "15932699987",
-                    "download": "15376173648"
+                    "gid": "521889962295819932",
+                    "size": "16195387861",
+                    "download": "15628068496"
                 }
             },
             "decryptionkey": "571136626b31c8951f3afe863e98bd7d8c833657d08311b65aa528309cb9b6ef"
@@ -50,8 +50,8 @@
         "2933134": {},
         "branches": {
             "public": {
-                "buildid": "17359674",
-                "timeupdated": "1739493288"
+                "buildid": "17870526",
+                "timeupdated": "1743009075"
             }
         },
         "privatebranches": "1"
