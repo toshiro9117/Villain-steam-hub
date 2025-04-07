@@ -4,8 +4,8 @@
     "name": "Predator: Hunting Grounds",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28012109",
-    "update_time": "2025-03-18 19:31:45",
+    "change_number": "28343731",
+    "update_time": "2025-04-07 18:29:15",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1556201": {
             "manifests": {
                 "public": {
-                    "gid": "7245262323025044739",
-                    "size": "47356333085",
-                    "download": "24825057648"
+                    "gid": "4527257190091580216",
+                    "size": "47540310230",
+                    "download": "24908913408"
                 }
             },
             "decryptionkey": "7a1631859e10145a80ee71e4738ec99e651fe132374c97e98c06d77c5a64ef89"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,portuguese,polish,arabic,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17413650",
-                "timeupdated": "1740078043"
+                "buildid": "17804830",
+                "timeupdated": "1742925651"
             }
         },
         "privatebranches": "1"
