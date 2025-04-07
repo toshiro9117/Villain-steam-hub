@@ -4,8 +4,8 @@
     "name": "Armored Suit Solgante",
     "schinese_name": "战甲机索尔冈特",
     "isfreeapp": "0",
-    "change_number": "27960565",
-    "update_time": "2025-03-15 00:22:56",
+    "change_number": "28335904",
+    "update_time": "2025-04-07 05:10:59",
     "depot": {
         "2914471": {
             "manifests": {
@@ -43,6 +43,7 @@
             },
             "decryptionkey": ""
         },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "14697422",
