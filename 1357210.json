@@ -4,8 +4,8 @@
     "name": "Galactic Civilizations IV",
     "schinese_name": "银河文明IV",
     "isfreeapp": "0",
-    "change_number": "27939623",
-    "update_time": "2025-03-14 01:50:13",
+    "change_number": "28295956",
+    "update_time": "2025-04-04 03:54:48",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,brazilian,greek,latam",
         "workshopdepot": "1357210",
@@ -37,9 +37,9 @@
                     "download": "19562369008"
                 },
                 "insiders": {
-                    "gid": "5128568344910695336",
-                    "size": "22520070072",
-                    "download": "18384212960"
+                    "gid": "2022148715371247940",
+                    "size": "22551682232",
+                    "download": "18389282784"
                 }
             },
             "decryptionkey": "e1b28e464e8a1b73bce264c89ada3f3c39d55f32e584807487f8696e927901ff"
@@ -75,9 +75,9 @@
                 "timeupdated": "1685545333"
             },
             "insiders": {
-                "buildid": "17594387",
+                "buildid": "17899974",
                 "description": "Explore experimental features and fixes",
-                "timeupdated": "1741197824"
+                "timeupdated": "1743449738"
             }
         },
         "privatebranches": "1",
