@@ -4,8 +4,8 @@
     "name": "Good Pizza, Great Pizza",
     "schinese_name": "可口的披萨，美味的披萨",
     "isfreeapp": "0",
-    "change_number": "27880735",
-    "update_time": "2025-03-11 07:13:43",
+    "change_number": "28325518",
+    "update_time": "2025-04-06 01:35:04",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2697625696790989396",
-                    "size": "1592732860",
-                    "download": "1562526160"
+                    "gid": "8457543925754816573",
+                    "size": "1610794774",
+                    "download": "1577049056"
                 }
             },
             "decryptionkey": "53885f672671f1cab932380f2c152ea3409de15ce3eb9c52c9ac4b51c8d4c3c8"
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2619749348795588355",
-                    "size": "871013120",
-                    "download": "848060016"
+                    "gid": "9174835550926177453",
+                    "size": "888504731",
+                    "download": "865196048"
                 }
             },
             "decryptionkey": "a9613751b6df3094c478b8b20ecbc614e332e7b46b4e0d5bad2cffd8868963dc"
@@ -611,8 +611,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17667932",
-                "timeupdated": "1741648419"
+                "buildid": "17994358",
+                "timeupdated": "1743874500"
             }
         },
         "privatebranches": "1"
