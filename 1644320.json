@@ -4,8 +4,8 @@
     "name": "Railway Empire 2",
     "schinese_name": "铁路帝国2",
     "isfreeapp": "0",
-    "change_number": "28006594",
-    "update_time": "2025-03-18 12:11:52",
+    "change_number": "28344379",
+    "update_time": "2025-04-07 19:15:44",
     "depot": {
         "baselanguages": "",
         "228988": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4463497160429874897",
-                    "size": "60732268",
-                    "download": "19080656"
+                    "gid": "1345694211864038788",
+                    "size": "60733804",
+                    "download": "19080128"
                 }
             },
             "decryptionkey": "d292e15a43c62583c9c2a4f7b466263ea17f69f62e1f9eed98a76045cb21df6a"
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9013882393096908156",
-                    "size": "17171964593",
-                    "download": "16822062896"
+                    "gid": "4781178152649754693",
+                    "size": "17171992241",
+                    "download": "16822090912"
                 }
             },
             "decryptionkey": "0eaa6abbc6d5d7b3fecc0b6326733585528fd409cfed7250809342e69e366922"
@@ -183,8 +183,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17336274",
-                "timeupdated": "1740491956"
+                "buildid": "17929685",
+                "timeupdated": "1743595368"
             }
         },
         "privatebranches": "1"
