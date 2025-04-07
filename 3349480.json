@@ -4,8 +4,8 @@
     "name": "The Lord of the Rings: Return to Moria™ Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28012453",
-    "update_time": "2025-03-18 19:56:10",
+    "change_number": "28345216",
+    "update_time": "2025-04-07 20:09:40",
     "depot": {
         "1004": {
             "config": {
@@ -66,17 +66,17 @@
         "3349481": {
             "manifests": {
                 "public": {
-                    "gid": "2197286547103033878",
-                    "size": "3746396534",
-                    "download": "2240424656"
+                    "gid": "5599016691423440944",
+                    "size": "3795271761",
+                    "download": "2293495008"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17347792",
-                "timeupdated": "1739493950"
+                "buildid": "17788741",
+                "timeupdated": "1743009693"
             }
         },
         "privatebranches": "1"
