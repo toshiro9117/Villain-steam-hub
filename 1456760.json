@@ -4,8 +4,8 @@
     "name": "ROBOBEAT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27877291",
-    "update_time": "2025-03-11 02:35:32",
+    "change_number": "28126384",
+    "update_time": "2025-03-25 17:37:34",
     "depot": {
         "1456761": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8279702560256762632",
-                    "size": "3093834355",
-                    "download": "1139815824"
+                    "gid": "2917292735709856245",
+                    "size": "3100608928",
+                    "download": "1145361568"
                 }
             },
             "decryptionkey": "b8bc2cde1ecb6eaf6683921c1879482515b41e3483909370a39729920b7e45c2"
         },
         "branches": {
             "public": {
-                "buildid": "16987522",
-                "timeupdated": "1738252305"
+                "buildid": "17836476",
+                "timeupdated": "1742895447"
             }
         },
         "privatebranches": "1"
