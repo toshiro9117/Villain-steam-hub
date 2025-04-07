@@ -4,8 +4,8 @@
     "name": "Paper Battlefield",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27071179",
-    "update_time": "2025-01-20 15:14:19",
+    "change_number": "28290722",
+    "update_time": "2025-04-03 22:29:20",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,19 @@
         "3150031": {
             "manifests": {
                 "public": {
-                    "gid": "6365663989066469557",
-                    "size": "437678071",
-                    "download": "324963968"
+                    "gid": "2255776518635427178",
+                    "size": "440954422",
+                    "download": "327989328"
                 }
             },
             "decryptionkey": "82ab9d792128d4df020c20713de0ae3156f6e011d543f11dad9fbadf534a42f7"
         },
         "branches": {
             "public": {
-                "buildid": "17061512",
-                "timeupdated": "1737357255"
+                "buildid": "17971253",
+                "timeupdated": "1743690555"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
