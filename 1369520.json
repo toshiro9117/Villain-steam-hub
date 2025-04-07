@@ -4,8 +4,8 @@
     "name": "Strangeland",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26929998",
-    "update_time": "2025-01-10 04:17:04",
+    "change_number": "28328033",
+    "update_time": "2025-04-06 08:08:21",
     "depot": {
         "1369521": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7853312232665785788",
-                    "size": "4375197520",
-                    "download": "1491092576"
+                    "gid": "6926600753077245185",
+                    "size": "4183645080",
+                    "download": "1492799376"
                 }
             },
             "decryptionkey": "88db4ab75709baa82a9a9a3bbcaef7ab272b9004137f2eeccb7b3cfc41a01e94"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "39274589122771354",
-                    "size": "4405407567",
-                    "download": "1497729712"
+                    "gid": "8759316621270600370",
+                    "size": "4270757608",
+                    "download": "1513350784"
                 }
             },
             "decryptionkey": "2fbce3d8a12d6f2a961c466d1d1775ec7bfba203cfce19595831382f60f17acd"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3976541815158498632",
-                    "size": "4387210655",
-                    "download": "1494201680"
+                    "gid": "2130774016396795952",
+                    "size": "4194903166",
+                    "download": "1497615184"
                 }
             },
             "decryptionkey": "b5b2814c4b7908e7daedb9743103b33e3db532a5b52b5e0526f8428d74375645"
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3026971904885170129",
-                    "size": "4452130188",
-                    "download": "1508814832"
+                    "gid": "4073020347189530522",
+                    "size": "4272950817",
+                    "download": "1513227520"
                 }
             },
             "decryptionkey": "a93fc35458dd29eb261fa174cd8ee41182bf7b6dd8590eecec6cfc6e63303bde"
@@ -110,8 +110,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16722196",
-                "timeupdated": "1734012144"
+                "buildid": "17998840",
+                "timeupdated": "1743898096"
             }
         },
         "privatebranches": "1"
