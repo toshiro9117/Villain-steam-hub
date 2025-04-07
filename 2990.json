@@ -4,8 +4,8 @@
     "name": "FlatOut 2",
     "schinese_name": "横冲直撞2",
     "isfreeapp": "0",
-    "change_number": "27109055",
-    "update_time": "2025-01-22 17:24:20",
+    "change_number": "28213252",
+    "update_time": "2025-03-30 16:15:02",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "2990",
@@ -96,6 +96,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "552b5f6608e5a12a3a50f699de9a8da9cd638ad5afcc43332c71962e41dee8f7"
+        "workshopdepotdecryptionkey": ""
     }
 }
