@@ -4,8 +4,8 @@
     "name": "Weirdo",
     "schinese_name": "异人",
     "isfreeapp": "0",
-    "change_number": "27808704",
-    "update_time": "2025-03-06 14:08:30",
+    "change_number": "28049359",
+    "update_time": "2025-03-20 18:55:38",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5962591803361551848",
-                    "size": "1603894257",
-                    "download": "357974960"
+                    "gid": "5744811207732469279",
+                    "size": "1600426365",
+                    "download": "358680992"
                 }
             },
             "decryptionkey": ""
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17614692",
-                "timeupdated": "1741240254"
+                "buildid": "17788988",
+                "timeupdated": "1742439707"
             }
         }
     }
