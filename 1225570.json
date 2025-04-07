@@ -4,8 +4,8 @@
     "name": "Unravel Two",
     "schinese_name": "毛线小精灵2",
     "isfreeapp": "0",
-    "change_number": "27740539",
-    "update_time": "2025-03-02 17:23:26",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:04",
     "depot": {
         "baselanguages": "english,german,italian,spanish,japanese",
         "228985": {
@@ -30,9 +30,6 @@
             "sharedinstall": "1"
         },
         "1225571": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "4385080900375579352",
@@ -119,6 +116,17 @@
                 }
             },
             "decryptionkey": "ca68bd4ee628af72fd03f078b10e0303f30365fb52984cf216deba9008900c39"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
