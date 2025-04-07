@@ -4,8 +4,8 @@
     "name": "Emissary Zero Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27971406",
-    "update_time": "2025-03-15 18:25:12",
+    "change_number": "28191825",
+    "update_time": "2025-03-28 22:00:11",
     "depot": {
         "228989": {
             "config": {
@@ -24,16 +24,16 @@
         "3176211": {
             "manifests": {
                 "public": {
-                    "gid": "272914988239414083",
-                    "size": "4139706448",
-                    "download": "3845857792"
+                    "gid": "5063446159328622327",
+                    "size": "4706803057",
+                    "download": "4522608768"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17591417",
-                "timeupdated": "1741103872"
+                "buildid": "17781636",
+                "timeupdated": "1742395462"
             }
         }
     }
