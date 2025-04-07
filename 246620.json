@@ -4,8 +4,8 @@
     "name": "Plague Inc: Evolved",
     "schinese_name": "瘟疫公司：物竞天择",
     "isfreeapp": "0",
-    "change_number": "27310002",
-    "update_time": "2025-02-05 00:07:54",
+    "change_number": "28308057",
+    "update_time": "2025-04-04 20:14:17",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -161,6 +161,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "540f338bcb2eb1e9d469f9302ea6b60481008cef56be0e01e378a92f72041732"
+        "workshopdepotdecryptionkey": ""
     }
 }
