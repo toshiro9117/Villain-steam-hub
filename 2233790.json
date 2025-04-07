@@ -4,8 +4,8 @@
     "name": "Legendary Creatures 2",
     "schinese_name": "传奇生物2",
     "isfreeapp": "0",
-    "change_number": "26961387",
-    "update_time": "2025-01-12 19:16:29",
+    "change_number": "28212947",
+    "update_time": "2025-03-30 15:16:25",
     "depot": {
         "2233791": {
             "manifests": {
@@ -27,6 +27,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bea6da5dbab038573b815c2740c59b27cdc44e20cf60a769be98433b99a4a251"
+        "workshopdepotdecryptionkey": ""
     }
 }
