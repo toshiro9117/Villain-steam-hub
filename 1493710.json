@@ -4,8 +4,8 @@
     "name": "Proton Experimental",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28003673",
-    "update_time": "2025-03-18 07:39:49",
+    "change_number": "28313430",
+    "update_time": "2025-04-05 01:07:17",
     "depot": {
         "1493711": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7499478688970250338",
-                    "size": "1339837812",
-                    "download": "322701408"
+                    "gid": "4801678362639385661",
+                    "size": "1340468079",
+                    "download": "322840864"
                 },
                 "dualsense-haptics-wip": {
                     "gid": "3648903187173470381",
@@ -25,19 +25,19 @@
                     "download": "290049520"
                 },
                 "bleeding-edge": {
-                    "gid": "506868182337688432",
-                    "size": "1340321515",
-                    "download": "322803200"
+                    "gid": "4838908126981146540",
+                    "size": "1340579214",
+                    "download": "322868656"
                 },
                 "bleeding-edge-debug": {
-                    "gid": "5590867183437979584",
-                    "size": "4882131571",
-                    "download": "939846816"
+                    "gid": "1788845135632625919",
+                    "size": "4866549845",
+                    "download": "938226992"
                 },
                 "debug": {
-                    "gid": "6232977376210840802",
-                    "size": "4873211945",
-                    "download": "936700704"
+                    "gid": "5722987330985380177",
+                    "size": "4866192707",
+                    "download": "938145456"
                 },
                 "old-media-source": {
                     "gid": "6253612379687866984",
@@ -54,8 +54,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17593923",
-                "timeupdated": "1741291717"
+                "buildid": "17958858",
+                "timeupdated": "1743786432"
             },
             "dualsense-haptics-wip": {
                 "buildid": "12450672",
@@ -63,19 +63,19 @@
                 "timeupdated": "1697452971"
             },
             "bleeding-edge": {
-                "buildid": "17758366",
+                "buildid": "17978593",
                 "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
-                "timeupdated": "1742254613"
+                "timeupdated": "1743731770"
             },
             "bleeding-edge-debug": {
-                "buildid": "17758403",
+                "buildid": "17978610",
                 "description": "as dangerous as regular bleeding-edge, just with debug symbols",
-                "timeupdated": "1742254784"
+                "timeupdated": "1743731900"
             },
             "debug": {
-                "buildid": "17593946",
+                "buildid": "17958874",
                 "description": "Unstripped",
-                "timeupdated": "1741291605"
+                "timeupdated": "1743786403"
             },
             "old-media-source": {
                 "buildid": "16140680",
