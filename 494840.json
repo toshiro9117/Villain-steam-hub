@@ -4,8 +4,8 @@
     "name": "UBOAT",
     "schinese_name": "潜艇模拟器",
     "isfreeapp": "0",
-    "change_number": "28013408",
-    "update_time": "2025-03-18 20:58:12",
+    "change_number": "28151972",
+    "update_time": "2025-03-26 23:11:11",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,czech,turkish,ukrainian",
         "workshopdepot": "494840",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2911931923346964392",
-                    "size": "71210222303",
-                    "download": "22489528752"
+                    "gid": "8265301329198828987",
+                    "size": "71210610983",
+                    "download": "22489630464"
                 },
                 "2022.1": {
                     "gid": "1810611750853804875",
@@ -140,10 +140,15 @@
                     "size": "70880340410",
                     "download": "22229765120"
                 },
-                "unstable": {
+                "2025.1": {
                     "gid": "2911931923346964392",
                     "size": "71210222303",
                     "download": "22489528752"
+                },
+                "unstable": {
+                    "gid": "8265301329198828987",
+                    "size": "71210610983",
+                    "download": "22489630464"
                 }
             },
             "decryptionkey": "61609f23c66b061a624e3ff3aaba6340acfbcc2bae0fa7587beb8388d5c4bfe0"
@@ -152,7 +157,7 @@
             "dlcappid": "3129990",
             "manifests": {
                 "public": {
-                    "gid": "2357386198179483441",
+                    "gid": "8523885419621994317",
                     "size": "10860701023",
                     "download": "3563341456"
                 },
@@ -161,8 +166,13 @@
                     "size": "10860701023",
                     "download": "3566008480"
                 },
-                "unstable": {
+                "2025.1": {
                     "gid": "2357386198179483441",
+                    "size": "10860701023",
+                    "download": "3563341456"
+                },
+                "unstable": {
+                    "gid": "8523885419621994317",
                     "size": "10860701023",
                     "download": "3563341456"
                 }
@@ -171,8 +181,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17488333",
-                "timeupdated": "1740425115"
+                "buildid": "17865293",
+                "timeupdated": "1743001461"
             },
             "2022.1": {
                 "buildid": "13275048",
@@ -259,9 +269,14 @@
                 "description": "The latest 2024.1 release.",
                 "timeupdated": "1737397671"
             },
-            "unstable": {
+            "2025.1": {
                 "buildid": "17488333",
-                "timeupdated": "1740425073"
+                "description": "The latest 2025.1 release.",
+                "timeupdated": "1743001861"
+            },
+            "unstable": {
+                "buildid": "17865293",
+                "timeupdated": "1743001148"
             }
         },
         "privatebranches": "1",
