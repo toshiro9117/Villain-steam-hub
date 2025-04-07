@@ -4,8 +4,8 @@
     "name": "Vellum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27739741",
-    "update_time": "2025-03-02 15:05:56",
+    "change_number": "28340111",
+    "update_time": "2025-04-07 14:08:42",
     "depot": {
         "917951": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "724523520"
                 },
                 "testing": {
-                    "gid": "9154608791704239259",
-                    "size": "3382230171",
-                    "download": "1544438688"
+                    "gid": "1777002462371444430",
+                    "size": "3893377802",
+                    "download": "1710225168"
                 }
             },
             "decryptionkey": "782dc04cd840b972d5f38b24f8e6190b7935018e7dfee5516cbe431927c12af0"
@@ -46,9 +46,9 @@
                 "timeupdated": "1712808607"
             },
             "testing": {
-                "buildid": "17563644",
+                "buildid": "18007326",
                 "description": "Current testing branch",
-                "timeupdated": "1740899151"
+                "timeupdated": "1744006118"
             }
         },
         "privatebranches": "1"
