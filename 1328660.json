@@ -4,8 +4,8 @@
     "name": "Need for Speed™ Hot Pursuit Remastered",
     "schinese_name": "《极品飞车：热力追踪》重制版",
     "isfreeapp": "0",
-    "change_number": "27348355",
-    "update_time": "2025-02-07 00:17:36",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:44",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish",
         "228988": {
@@ -23,9 +23,6 @@
             "sharedinstall": "1"
         },
         "1328661": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "1795149217869958414",
@@ -164,6 +161,17 @@
                 }
             },
             "decryptionkey": "88dcd0c470ccf3fea446b2985a175204aa6e6655aacec31000e023828efc9c75"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
