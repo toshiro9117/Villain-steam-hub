@@ -4,8 +4,8 @@
     "name": "Animalia Survival",
     "schinese_name": "动物生存",
     "isfreeapp": "0",
-    "change_number": "27824103",
-    "update_time": "2025-03-07 06:08:49",
+    "change_number": "28339697",
+    "update_time": "2025-04-07 13:21:24",
     "depot": {
         "228981": {
             "config": {
@@ -167,9 +167,9 @@
                     "download": "6294338976"
                 },
                 "testpublic": {
-                    "gid": "7330896338222556386",
-                    "size": "3278984893",
-                    "download": "2872044208"
+                    "gid": "2000420036767550236",
+                    "size": "3225756154",
+                    "download": "2827153152"
                 }
             },
             "decryptionkey": "8b4b39182603bff5a321a38e2932993b82401b9a9e7fc0b15d795bef3c55d224"
@@ -192,9 +192,9 @@
                 "timeupdated": "1735931940"
             },
             "testpublic": {
-                "buildid": "17285017",
+                "buildid": "18007008",
                 "description": "testpublic",
-                "timeupdated": "1738958834"
+                "timeupdated": "1744003279"
             }
         },
         "privatebranches": "1"
