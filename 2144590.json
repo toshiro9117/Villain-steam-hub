@@ -4,8 +4,8 @@
     "name": "Take Me, Vitaly",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010256",
-    "update_time": "2025-03-18 17:30:11",
+    "change_number": "28169396",
+    "update_time": "2025-03-27 20:19:16",
     "depot": {
         "2144591": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7606250078265860174",
-                    "size": "2947904446",
-                    "download": "1279219168"
+                    "gid": "8280435663133186659",
+                    "size": "2949770160",
+                    "download": "1283010224"
                 }
             },
             "decryptionkey": "ad90799e27fcdab8e4951c4460f2695843849573e3d65a76e98fb209372e1acb"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7424440601424781226",
-                    "size": "2920891235",
-                    "download": "1271128976"
+                    "gid": "3749629504572700332",
+                    "size": "2922756949",
+                    "download": "1274913824"
                 }
             },
             "decryptionkey": ""
@@ -54,17 +54,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6562065703140807024",
-                    "size": "2990282833",
-                    "download": "1294913824"
+                    "gid": "5148843547032824842",
+                    "size": "2960740170",
+                    "download": "1288967856"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17665524",
-                "timeupdated": "1741631847"
+                "buildid": "17882063",
+                "timeupdated": "1743077950"
             }
         },
         "privatebranches": "1"
