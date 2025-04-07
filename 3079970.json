@@ -4,20 +4,20 @@
     "name": "Airport X-Ray Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27943677",
-    "update_time": "2025-03-14 05:42:51",
+    "change_number": "28341619",
+    "update_time": "2025-04-07 16:17:23",
     "depot": {
         "3079972": {
             "manifests": {
                 "public": {
-                    "gid": "6524527198572659439",
-                    "size": "1375288871",
-                    "download": "426779328"
+                    "gid": "4466239526679892477",
+                    "size": "1382251592",
+                    "download": "430980848"
                 },
                 "beta": {
-                    "gid": "7310553321976468308",
-                    "size": "1369495225",
-                    "download": "411612592"
+                    "gid": "8183076489451774198",
+                    "size": "1383176324",
+                    "download": "430968336"
                 },
                 "beta_controller": {
                     "gid": "1104447601148916616",
@@ -29,13 +29,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17700239",
-                "timeupdated": "1741820178"
+                "buildid": "18000938",
+                "timeupdated": "1743933100"
             },
             "beta": {
-                "buildid": "17150780",
+                "buildid": "17995055",
                 "description": "Beta testing branch",
-                "timeupdated": "1738630395"
+                "timeupdated": "1743847174"
             },
             "beta_controller": {
                 "buildid": "17649373",
