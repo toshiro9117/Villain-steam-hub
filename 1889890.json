@@ -4,23 +4,23 @@
     "name": "Shinehill",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27990846",
-    "update_time": "2025-03-17 17:52:47",
+    "change_number": "28134715",
+    "update_time": "2025-03-26 01:19:55",
     "depot": {
         "1889891": {
             "manifests": {
                 "public": {
-                    "gid": "5454296831773311296",
-                    "size": "973165444",
-                    "download": "631115632"
+                    "gid": "5223718472221927571",
+                    "size": "973444669",
+                    "download": "631150736"
                 }
             },
             "decryptionkey": "394f614167c2148a460030a32651bb7767018fd312d0faf108ccd8fc3ee988a2"
         },
         "branches": {
             "public": {
-                "buildid": "17563243",
-                "timeupdated": "1740891886"
+                "buildid": "17854945",
+                "timeupdated": "1742922308"
             }
         }
     }
