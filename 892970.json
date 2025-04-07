@@ -4,8 +4,8 @@
     "name": "Valheim",
     "schinese_name": "Valheim: 英灵神殿",
     "isfreeapp": "0",
-    "change_number": "27989535",
-    "update_time": "2025-03-17 16:21:49",
+    "change_number": "28344363",
+    "update_time": "2025-04-07 19:14:27",
     "depot": {
         "892971": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6285756173395450967",
-                    "size": "1601362045",
-                    "download": "1349153840"
+                    "gid": "5647879931912746897",
+                    "size": "1601397627",
+                    "download": "1349461488"
                 },
                 "default_preml": {
                     "gid": "963707693317638395",
@@ -23,9 +23,9 @@
                     "download": "681296624"
                 },
                 "default_old": {
-                    "gid": "7815399956763978340",
-                    "size": "2340691335",
-                    "download": "1238623424"
+                    "gid": "8660310536618206195",
+                    "size": "1601362477",
+                    "download": "1349145632"
                 },
                 "default_preal": {
                     "gid": "1036124488433202120",
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1933325524062736990",
-                    "size": "1552009641",
-                    "download": "1343434224"
+                    "gid": "3554916302746035764",
+                    "size": "1551967755",
+                    "download": "1343357136"
                 },
                 "default_preml": {
                     "gid": "794277100532230917",
@@ -56,9 +56,9 @@
                     "download": "673396176"
                 },
                 "default_old": {
-                    "gid": "342753060102212408",
-                    "size": "2291051126",
-                    "download": "1229740864"
+                    "gid": "182437523941363012",
+                    "size": "1552009511",
+                    "download": "1343432736"
                 },
                 "default_preal": {
                     "gid": "3694758505878885183",
@@ -79,9 +79,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1026167532025020581",
-                    "size": "1604013053",
-                    "download": "1337629680"
+                    "gid": "7948263597522671446",
+                    "size": "1604126801",
+                    "download": "1337801360"
                 },
                 "default_preml": {
                     "gid": "8337097991963315265",
@@ -89,9 +89,9 @@
                     "download": "296580720"
                 },
                 "default_old": {
-                    "gid": "4112571468963837565",
-                    "size": "2348753744",
-                    "download": "1233691968"
+                    "gid": "1523763131562259530",
+                    "size": "1602334157",
+                    "download": "1337366944"
                 },
                 "default_preal": {
                     "gid": "3993289007053751724",
@@ -108,8 +108,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17530374",
-                "timeupdated": "1741079778"
+                "buildid": "17878707",
+                "timeupdated": "1743491046"
             },
             "default_preml": {
                 "buildid": "9792150",
@@ -117,9 +117,9 @@
                 "timeupdated": "1671524474"
             },
             "default_old": {
-                "buildid": "16375457",
+                "buildid": "17706727",
                 "description": "Previous stable",
-                "timeupdated": "1741079700"
+                "timeupdated": "1743490818"
             },
             "default_preal": {
                 "buildid": "13920841",
