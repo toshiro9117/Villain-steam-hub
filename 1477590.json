@@ -4,8 +4,8 @@
     "name": "EZ2ON REBOOT : R",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992545",
-    "update_time": "2025-03-17 19:40:10",
+    "change_number": "28345554",
+    "update_time": "2025-04-07 20:32:11",
     "depot": {
         "228989": {
             "config": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1448231704362709187",
-                    "size": "73353530535",
-                    "download": "65764601184"
+                    "gid": "769646998458243858",
+                    "size": "73451312262",
+                    "download": "65861012528"
                 }
             },
             "decryptionkey": "be6fde91b3fd41595188145d3f615546f92ef745010e1296bdec41f9cccb22d8"
@@ -45,17 +45,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8312029848989161846",
-                    "size": "63571878242",
-                    "download": "55497650000"
+                    "gid": "9111685992083494946",
+                    "size": "63669669937",
+                    "download": "55594009088"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2fd251cc6b1807b6f5660299063a872076c0169a063f52608c358dedfc1ff485"
         },
         "branches": {
             "public": {
-                "buildid": "17749707",
-                "timeupdated": "1742205809"
+                "buildid": "17879433",
+                "timeupdated": "1743063360"
             }
         },
         "privatebranches": "1"
