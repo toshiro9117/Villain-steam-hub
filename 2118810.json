@@ -4,8 +4,8 @@
     "name": "Breachway",
     "schinese_name": "星尘战线 Breachway",
     "isfreeapp": "0",
-    "change_number": "27990872",
-    "update_time": "2025-03-17 17:53:26",
+    "change_number": "28342674",
+    "update_time": "2025-04-07 17:25:20",
     "depot": {
         "2118811": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "1529756704"
                 },
                 "experimental": {
-                    "gid": "1139092667482095965",
-                    "size": "3423121199",
-                    "download": "1549092672"
+                    "gid": "5536601243727130522",
+                    "size": "3423114922",
+                    "download": "1549565168"
                 }
             },
             "decryptionkey": "fe842fa8b3b9df7aad5d259d932cdaa24ecc7b4336b1e4370d1de3ba806c7b85"
@@ -36,9 +36,9 @@
                 "timeupdated": "1737571230"
             },
             "experimental": {
-                "buildid": "17533649",
+                "buildid": "17796740",
                 "description": "Testing new features and content",
-                "timeupdated": "1740671919"
+                "timeupdated": "1742487722"
             }
         },
         "privatebranches": "1"
