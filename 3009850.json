@@ -4,15 +4,15 @@
     "name": "Hard Time III",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27437480",
-    "update_time": "2025-02-12 18:47:11",
+    "change_number": "28227933",
+    "update_time": "2025-03-31 20:27:06",
     "depot": {
         "3009851": {
             "manifests": {
                 "public": {
-                    "gid": "8927775984644566695",
-                    "size": "517937876",
-                    "download": "221401072"
+                    "gid": "5189037354915252016",
+                    "size": "519666067",
+                    "download": "222193744"
                 }
             },
             "decryptionkey": "e92020d15750f186520ea5132e8c28e25b77f4d583725fc957e734ab28503e12"
@@ -20,10 +20,10 @@
         "workshopdepot": "3009850",
         "branches": {
             "public": {
-                "buildid": "17334773",
-                "timeupdated": "1739357221"
+                "buildid": "17901540",
+                "timeupdated": "1743424018"
             }
         },
-        "workshopdepotdecryptionkey": "9fdd8cb4b86c7cc5c3e572479c6d1a0275b0e5ae7901fcba8d3026389f9be9cc"
+        "workshopdepotdecryptionkey": ""
     }
 }
