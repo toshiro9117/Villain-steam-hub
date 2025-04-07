@@ -4,8 +4,8 @@
     "name": "Operation: Harsh Doorstop",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27968882",
-    "update_time": "2025-03-15 11:20:37",
+    "change_number": "28339617",
+    "update_time": "2025-04-07 13:10:20",
     "depot": {
         "workshopdepot": "736590",
         "hasdepotsindlc": "0",
@@ -26,24 +26,36 @@
         "736591": {
             "manifests": {
                 "public": {
-                    "gid": "5108498672347645152",
-                    "size": "53090161095",
-                    "download": "20420503312"
+                    "gid": "2874202313291881022",
+                    "size": "53231598576",
+                    "download": "20513858512"
                 }
             }
         },
         "2605190": {
             "dlcappid": "2605190",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "849470895770834197",
+                    "size": "2661858273",
+                    "download": "802827808"
+                }
+            }
         },
         "3213620": {
             "dlcappid": "3213620",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6023106869833681843",
+                    "size": "4853512925",
+                    "download": "1809120464"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17546704",
-                "timeupdated": "1740776852"
+                "buildid": "17852407",
+                "timeupdated": "1742976794"
             }
         },
         "privatebranches": "1"
