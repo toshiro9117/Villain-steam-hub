@@ -4,8 +4,8 @@
     "name": "Palworld Dedicated Server",
     "schinese_name": "幻兽帕鲁 专用服务器",
     "isfreeapp": "0",
-    "change_number": "28005138",
-    "update_time": "2025-03-18 09:46:02",
+    "change_number": "28342221",
+    "update_time": "2025-04-07 16:58:17",
     "depot": {
         "1004": {
             "config": {
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9190436399998987628",
-                    "size": "3923795021",
-                    "download": "3149274768"
+                    "gid": "5166953748400310585",
+                    "size": "3938030027",
+                    "download": "3156103776"
                 }
             },
             "decryptionkey": "9e838b6ba46638923d3d573c4ba1b97b79528f588b5b6c6f2faf7f7579132465"
@@ -77,17 +77,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7437307725616060428",
-                    "size": "3527948246",
-                    "download": "3043763072"
+                    "gid": "267999471071788047",
+                    "size": "3542673805",
+                    "download": "3050709264"
                 }
             },
             "decryptionkey": "3c46f4155a00e0a67ea99ef11b77266cc2fb0e8abea3bf024ee3da7f3c868bfe"
         },
         "branches": {
             "public": {
-                "buildid": "17468322",
-                "timeupdated": "1740456210"
+                "buildid": "17936917",
+                "timeupdated": "1743649330"
             }
         },
         "privatebranches": "1"
