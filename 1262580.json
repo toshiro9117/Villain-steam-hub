@@ -4,8 +4,8 @@
     "name": "Need for Speed™ Payback",
     "schinese_name": "极品飞车20：复仇",
     "isfreeapp": "0",
-    "change_number": "26900250",
-    "update_time": "2025-01-08 08:19:23",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:27",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228985": {
@@ -30,9 +30,6 @@
             "sharedinstall": "1"
         },
         "1262581": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "357005021937610436",
@@ -184,6 +181,17 @@
                 }
             },
             "decryptionkey": "2d59fa0b555dc9b121b943daf5294b65ff625b94e596442d6ee92705033750d9"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
