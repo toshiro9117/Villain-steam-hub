@@ -4,8 +4,8 @@
     "name": "Melody Mania",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27957100",
-    "update_time": "2025-03-14 21:24:15",
+    "change_number": "28215482",
+    "update_time": "2025-03-30 22:41:32",
     "depot": {
         "228989": {
             "config": {
@@ -17,14 +17,14 @@
         "2394071": {
             "manifests": {
                 "public": {
-                    "gid": "5197712800416221164",
-                    "size": "3089377233",
-                    "download": "1402951376"
+                    "gid": "1015414455332937649",
+                    "size": "3003086286",
+                    "download": "1375126080"
                 },
                 "public-beta": {
-                    "gid": "1852037126356574218",
-                    "size": "3003220575",
-                    "download": "1375105984"
+                    "gid": "2143848617794148849",
+                    "size": "3003105486",
+                    "download": "1375121488"
                 }
             },
             "decryptionkey": "1fdf45dcfd05ab8bb2dbe8a5a4523600137e4914eb130a034f05845fa8d2320f"
@@ -33,13 +33,13 @@
         "workshopdepot": "2394070",
         "branches": {
             "public": {
-                "buildid": "16790520",
-                "timeupdated": "1734547576"
+                "buildid": "17841393",
+                "timeupdated": "1742850077"
             },
             "public-beta": {
-                "buildid": "17660792",
+                "buildid": "17916014",
                 "description": "Public beta version",
-                "timeupdated": "1741606514"
+                "timeupdated": "1743345688"
             }
         },
         "privatebranches": "1",
