@@ -4,8 +4,8 @@
     "name": "Foxhole",
     "schinese_name": "散兵坑",
     "isfreeapp": "0",
-    "change_number": "28009365",
-    "update_time": "2025-03-18 16:42:39",
+    "change_number": "28341863",
+    "update_time": "2025-04-07 16:33:58",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "505461": {
             "manifests": {
                 "public": {
-                    "gid": "6886382192335659093",
-                    "size": "18761719868",
-                    "download": "6115228576"
+                    "gid": "9138356061241180787",
+                    "size": "19329733818",
+                    "download": "6400105152"
                 },
                 "devbranch": {
                     "gid": "7343094699525261775",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16792978",
-                "timeupdated": "1734964767"
+                "buildid": "17945682",
+                "timeupdated": "1743600122"
             },
             "devbranch": {
                 "buildid": "17426364",
