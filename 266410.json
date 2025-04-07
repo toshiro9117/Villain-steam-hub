@@ -4,8 +4,8 @@
     "name": "iRacing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27994368",
-    "update_time": "2025-03-17 21:28:10",
+    "change_number": "28289403",
+    "update_time": "2025-04-03 21:23:00",
     "depot": {
         "228985": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5773178044605531919",
-                    "size": "148717421404",
-                    "download": "136616741184"
+                    "gid": "5627554026854035073",
+                    "size": "148686278941",
+                    "download": "136581341440"
                 }
             },
             "decryptionkey": "178e63e412c7306dfaef0daf0941e930181b56ae738df0feef6e403dee85aaec"
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17751971",
-                "timeupdated": "1742218084"
+                "buildid": "17970580",
+                "timeupdated": "1743686575"
             }
         }
     }
