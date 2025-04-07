@@ -4,23 +4,23 @@
     "name": "Gunner, HEAT, PC!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27741889",
-    "update_time": "2025-03-02 21:22:16",
+    "change_number": "28256783",
+    "update_time": "2025-04-02 05:33:31",
     "depot": {
         "1705181": {
             "manifests": {
                 "public": {
-                    "gid": "328607157768761397",
-                    "size": "9921620525",
-                    "download": "3074676064"
+                    "gid": "2990332996982464125",
+                    "size": "9104626232",
+                    "download": "2830532944"
                 }
             },
             "decryptionkey": "9dba2a78017b5384c4cc0cf599c6b3fe252c3635dcef818c04f98aa9ea9374e9"
         },
         "branches": {
             "public": {
-                "buildid": "17360496",
-                "timeupdated": "1739498581"
+                "buildid": "17945785",
+                "timeupdated": "1743543206"
             }
         }
     }
