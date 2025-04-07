@@ -4,17 +4,17 @@
     "name": "Dyson Sphere Program",
     "schinese_name": "戴森球计划",
     "isfreeapp": "0",
-    "change_number": "27887244",
-    "update_time": "2025-03-11 17:08:13",
+    "change_number": "28328413",
+    "update_time": "2025-04-06 09:21:05",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
         "1366541": {
             "manifests": {
                 "public": {
-                    "gid": "5414105046292374127",
-                    "size": "4566102122",
-                    "download": "1565127632"
+                    "gid": "7835592415243376611",
+                    "size": "4566158259",
+                    "download": "1565043712"
                 },
                 "0.4.11": {
                     "gid": "5540369441995688992",
@@ -62,9 +62,9 @@
                     "download": "1235104000"
                 },
                 "0.10.x": {
-                    "gid": "5414105046292374127",
-                    "size": "4566102122",
-                    "download": "1565127632"
+                    "gid": "7835592415243376611",
+                    "size": "4566158259",
+                    "download": "1565043712"
                 },
                 "previous-version": {
                     "gid": "428705337621430928",
@@ -80,8 +80,8 @@
         "workshopdepot": "1366540",
         "branches": {
             "public": {
-                "buildid": "17662476",
-                "timeupdated": "1741684072"
+                "buildid": "17999078",
+                "timeupdated": "1743902451"
             },
             "0.4.11": {
                 "sc_schinese": "DSP Alpha 0.4.11",
@@ -136,9 +136,9 @@
                 "timeupdated": "1692905609"
             },
             "0.10.x": {
-                "buildid": "17662476",
+                "buildid": "17999078",
                 "description": "DSP Alpha 0.10 latest",
-                "timeupdated": "1741684087"
+                "timeupdated": "1743902461"
             },
             "previous-version": {
                 "sc_schinese": "还原至上一个版本",
