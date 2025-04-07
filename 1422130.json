@@ -4,8 +4,8 @@
     "name": "SimRail - The Railway Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992751",
-    "update_time": "2025-03-17 19:56:59",
+    "change_number": "28327709",
+    "update_time": "2025-04-06 07:15:49",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
         "workshopdepot": "1422130",
@@ -26,14 +26,22 @@
             },
             "decryptionkey": "1619b6c1fac954e2ca5ad8b46b1e5073af05feea9be14ef642832dc14e76a5d1"
         },
-        "1422133": {},
-        "1422134": {},
-        "1422132": {},
+        "1422133": {
+            "manifests": {}
+        },
+        "1422134": {
+            "manifests": {}
+        },
+        "1422132": {
+            "manifests": {}
+        },
         "3580250": {
-            "dlcappid": "3580250"
+            "dlcappid": "3580250",
+            "manifests": {}
         },
         "3583200": {
-            "dlcappid": "3583200"
+            "dlcappid": "3583200",
+            "manifests": {}
         },
         "hasdepotsindlc": "0",
         "branches": {
