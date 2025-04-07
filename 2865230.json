@@ -4,8 +4,8 @@
     "name": "HEAVEN SEEKER ――The Savior of This Cruel World",
     "schinese_name": "HEAVEN SEEKER 残酷世界的拯救之道",
     "isfreeapp": "0",
-    "change_number": "27954582",
-    "update_time": "2025-03-14 19:10:08",
+    "change_number": "28318765",
+    "update_time": "2025-04-05 08:16:58",
     "depot": {
         "hasdepotsindlc": "1",
         "2865231": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "365239855507968297",
-                    "size": "664331362",
-                    "download": "387162944"
+                    "gid": "4501178225976068910",
+                    "size": "664712202",
+                    "download": "387220176"
                 }
             },
             "decryptionkey": "cacb7e2580465b9365628d8bdc5f9d64f6ab035b7234f4ce5860f58246b0d2ce"
         },
         "branches": {
             "public": {
-                "buildid": "17422191",
-                "timeupdated": "1741254615"
+                "buildid": "17894662",
+                "timeupdated": "1743150146"
             }
         },
         "privatebranches": "1"
