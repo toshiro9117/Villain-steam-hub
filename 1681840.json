@@ -4,8 +4,8 @@
     "name": "Abalon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27536788",
-    "update_time": "2025-02-18 23:16:04",
+    "change_number": "28311786",
+    "update_time": "2025-04-04 23:37:08",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
         "1681841": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3232443663787062350",
-                    "size": "98898365",
-                    "download": "77357952"
+                    "gid": "3127793276430830910",
+                    "size": "99150076",
+                    "download": "77322432"
                 }
             },
             "decryptionkey": "f734204772051d5543bbb8fc223d71d772a47e527a879e79fbd9649d86133557"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8798219931860558241",
-                    "size": "114990554",
-                    "download": "82605472"
+                    "gid": "3096386004325690732",
+                    "size": "183772431",
+                    "download": "82565984"
                 }
             },
             "decryptionkey": ""
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3483889317561601895",
-                    "size": "174558426",
-                    "download": "147904160"
+                    "gid": "2641339835925567662",
+                    "size": "106468562",
+                    "download": "78714752"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17431641",
-                "timeupdated": "1740012439"
+                "buildid": "17758427",
+                "timeupdated": "1742255183"
             }
         },
         "privatebranches": "1"
