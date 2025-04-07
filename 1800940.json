@@ -4,8 +4,8 @@
     "name": "The Enjenir",
     "schinese_name": "工程大湿 The Enjenir",
     "isfreeapp": "0",
-    "change_number": "27954490",
-    "update_time": "2025-03-14 19:04:40",
+    "change_number": "28244850",
+    "update_time": "2025-04-01 17:06:00",
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,14 @@
         "1800941": {
             "manifests": {
                 "public": {
-                    "gid": "8536267851343927866",
-                    "size": "8646045986",
-                    "download": "2679475360"
+                    "gid": "6467700940008672397",
+                    "size": "8730663334",
+                    "download": "2692278624"
                 },
                 "beta": {
-                    "gid": "8536267851343927866",
-                    "size": "8646045986",
-                    "download": "2679475360"
+                    "gid": "6467700940008672397",
+                    "size": "8730663334",
+                    "download": "2692278624"
                 },
                 "legacy": {
                     "gid": "3841290302948105396",
@@ -44,13 +44,13 @@
         "workshopdepot": "1800940",
         "branches": {
             "public": {
-                "buildid": "17237339",
-                "timeupdated": "1738671897"
+                "buildid": "17936796",
+                "timeupdated": "1743498315"
             },
             "beta": {
-                "buildid": "17237339",
+                "buildid": "17936796",
                 "description": "Public Beta Testing Branch",
-                "timeupdated": "1738708230"
+                "timeupdated": "1743498336"
             },
             "legacy": {
                 "buildid": "14888815",
