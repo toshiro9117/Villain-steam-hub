@@ -4,8 +4,8 @@
     "name": "Resident Evil 3",
     "schinese_name": "生化危机3：重制版",
     "isfreeapp": "0",
-    "change_number": "27979282",
-    "update_time": "2025-03-16 16:21:14",
+    "change_number": "28214907",
+    "update_time": "2025-03-30 21:15:38",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
@@ -41,7 +41,7 @@
                     "download": "20193083488"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "59cd6a454139aeaf999cc3dde8aeb2e0c4dd0e1264c9d87bf0a7e702d892e68a"
         },
         "952062": {
             "config": {
