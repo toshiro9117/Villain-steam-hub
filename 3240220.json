@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto V Enhanced",
     "schinese_name": "Grand Theft Auto V 增强版",
     "isfreeapp": "0",
-    "change_number": "28011561",
-    "update_time": "2025-03-18 18:56:38",
+    "change_number": "28345571",
+    "update_time": "2025-04-07 20:33:24",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "3240221": {
@@ -21,9 +21,9 @@
         "3240222": {
             "manifests": {
                 "public": {
-                    "gid": "2105801069540910121",
+                    "gid": "8401172663088731280",
                     "size": "34313900309",
-                    "download": "33815839376"
+                    "download": "33815839232"
                 }
             },
             "decryptionkey": "a90ba98205062c9ae855344794a6a3e0e9e59d825595f0508d7276e4d26da852"
@@ -51,9 +51,9 @@
         "3240225": {
             "manifests": {
                 "public": {
-                    "gid": "6331106029953691512",
-                    "size": "3246893218",
-                    "download": "3085272560"
+                    "gid": "7931530584668210639",
+                    "size": "3246903458",
+                    "download": "3085280464"
                 }
             },
             "decryptionkey": "8951f7eb7724cc2b407c9170e8bf5ce6792f8d6a7ad6a42c460a74abacac719a"
@@ -61,9 +61,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3069743124386259608",
-                    "size": "229581068",
-                    "download": "186115536"
+                    "gid": "5718000260924391145",
+                    "size": "227436300",
+                    "download": "183968240"
                 }
             },
             "depotfromapp": "1899670",
@@ -71,8 +71,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17708837",
-                "timeupdated": "1741878067"
+                "buildid": "17754914",
+                "timeupdated": "1742378431"
             }
         },
         "privatebranches": "1"
