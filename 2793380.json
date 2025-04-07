@@ -4,8 +4,8 @@
     "name": "Starground",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978098",
-    "update_time": "2025-03-16 11:55:35",
+    "change_number": "28248403",
+    "update_time": "2025-04-01 20:44:35",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish,danish,dutch,brazilian,latam",
         "2793381": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4710709856590810960",
-                    "size": "315709184",
-                    "download": "236423472"
+                    "gid": "6017170846520997954",
+                    "size": "316997024",
+                    "download": "237461056"
                 },
                 "compatibility": {
                     "gid": "3496697257740229307",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3112405811422606539",
-                    "size": "318278232",
-                    "download": "238051712"
+                    "gid": "8369007710757490067",
+                    "size": "319566072",
+                    "download": "239081536"
                 },
                 "compatibility": {
                     "gid": "7670500494538648642",
@@ -57,8 +57,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17712973",
-                "timeupdated": "1741888085"
+                "buildid": "17939628",
+                "timeupdated": "1743511469"
             },
             "compatibility": {
                 "buildid": "17307102",
