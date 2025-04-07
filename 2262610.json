@@ -4,8 +4,8 @@
     "name": "Endless Monday: Dreams and Deadlines",
     "schinese_name": "永不结束的星期一：梦想与死线 Endless Monday: Dreams and Deadlines",
     "isfreeapp": "0",
-    "change_number": "27950639",
-    "update_time": "2025-03-14 15:14:23",
+    "change_number": "28296346",
+    "update_time": "2025-04-04 04:23:43",
     "depot": {
         "2262611": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2240170807097954849",
-                    "size": "203472290",
-                    "download": "137513408"
+                    "gid": "8119929762603411311",
+                    "size": "235139356",
+                    "download": "145697552"
                 },
-                "publicbeta": {
-                    "gid": "8366481493514546591",
-                    "size": "202939784",
-                    "download": "137131744"
+                "prev_version": {
+                    "gid": "3918357817110496564",
+                    "size": "235143857",
+                    "download": "145698160"
                 }
             },
             "decryptionkey": "6dcaffbc78aa5951f599de7972be0348674e2da77ea436e94ba4ca74d492f363"
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "414595953004434697",
-                    "size": "233187027",
-                    "download": "144301520"
+                    "gid": "8449569561242770031",
+                    "size": "268908891",
+                    "download": "152958848"
                 },
-                "publicbeta": {
-                    "gid": "6434690064269627886",
-                    "size": "232471344",
-                    "download": "143898848"
+                "prev_version": {
+                    "gid": "6573797496060483231",
+                    "size": "268908784",
+                    "download": "152954256"
                 }
             },
             "decryptionkey": ""
@@ -52,14 +52,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1958552807353686694",
-                    "size": "211762086",
-                    "download": "138862368"
+                    "gid": "3025773926457740085",
+                    "size": "241278087",
+                    "download": "146303328"
                 },
-                "publicbeta": {
-                    "gid": "2809988172937859528",
-                    "size": "211239612",
-                    "download": "138480496"
+                "prev_version": {
+                    "gid": "5911156508290331362",
+                    "size": "241277772",
+                    "download": "146302544"
                 }
             },
             "decryptionkey": ""
@@ -67,13 +67,13 @@
         "baselanguages": "english,koreana,schinese,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "13734305",
-                "timeupdated": "1711840588"
+                "buildid": "17973181",
+                "timeupdated": "1743699507"
             },
-            "publicbeta": {
-                "buildid": "13801354",
-                "description": "public beta",
-                "timeupdated": "1711840301"
+            "prev_version": {
+                "buildid": "17950383",
+                "description": "previous version",
+                "timeupdated": "1743711645"
             }
         },
         "privatebranches": "1"
