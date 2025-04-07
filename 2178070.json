@@ -4,8 +4,8 @@
     "name": "Towers of Aghasba",
     "schinese_name": "阿加斯巴之塔",
     "isfreeapp": "0",
-    "change_number": "28012633",
-    "update_time": "2025-03-18 20:07:00",
+    "change_number": "28344952",
+    "update_time": "2025-04-07 19:52:00",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2178071": {
             "manifests": {
                 "public": {
-                    "gid": "7354633572832355804",
-                    "size": "37063383902",
-                    "download": "16395895344"
+                    "gid": "8167494581242995654",
+                    "size": "37144906720",
+                    "download": "16439082272"
                 }
             },
             "decryptionkey": "a0cc1ebf88bc7bfcac11875c070fb0a2b0b439f439779695e2f7a3499ebcc7fd"
@@ -34,8 +34,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17757350",
-                "timeupdated": "1742257342"
+                "buildid": "17859707",
+                "timeupdated": "1742951360"
             }
         },
         "privatebranches": "1"
