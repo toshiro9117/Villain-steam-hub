@@ -4,8 +4,8 @@
     "name": "LumineNight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28007596",
-    "update_time": "2025-03-18 14:10:17",
+    "change_number": "28315453",
+    "update_time": "2025-04-05 03:16:33",
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "2544571": {
             "manifests": {
                 "public": {
-                    "gid": "2269836826258851224",
-                    "size": "8006470707",
-                    "download": "1769315408"
+                    "gid": "8585345749594686457",
+                    "size": "8006466169",
+                    "download": "1768272320"
                 }
             },
             "decryptionkey": "1088b6f1da25954c522dffc5db8c3ffcaeafa861fa68628cc6e96b00dd07d554"
@@ -41,8 +41,8 @@
         "baselanguages": "english,koreana",
         "branches": {
             "public": {
-                "buildid": "17761293",
-                "timeupdated": "1742278213"
+                "buildid": "17845217",
+                "timeupdated": "1742869181"
             }
         },
         "privatebranches": "1"
