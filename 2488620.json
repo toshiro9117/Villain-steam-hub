@@ -4,8 +4,8 @@
     "name": "F1® 24",
     "schinese_name": "F1® 24",
     "isfreeapp": "0",
-    "change_number": "27991635",
-    "update_time": "2025-03-17 18:44:27",
+    "change_number": "28152894",
+    "update_time": "2025-03-27 00:01:00",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,dutch,brazilian,latam",
         "workshopdepot": "2488620",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3382863321570868749",
-                    "size": "21822357564",
-                    "download": "18027766608"
+                    "gid": "8794508379538138073",
+                    "size": "23145815659",
+                    "download": "18623103232"
                 }
             },
             "decryptionkey": "631754f71ffa45dd53c6375d1e093a58315b5c7468e7dae0b1c1f168b1e3b062"
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4064088180779794700",
+                    "gid": "5100092380679030330",
                     "size": "40224708889",
-                    "download": "34767766448"
+                    "download": "34767766272"
                 }
             },
             "decryptionkey": "3bb5b95c44afb22626dfe7f4717d1a8c829e93cf3bfad336352103c304cb4378"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8747305825054909299",
-                    "size": "632337005",
-                    "download": "400869200"
+                    "gid": "4688732099778701148",
+                    "size": "640773741",
+                    "download": "407170608"
                 }
             },
             "decryptionkey": "13515b2f09f7b81529a2c82c13692f6148e80f4aea11fde68100e35560e67a60"
@@ -109,8 +109,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17516873",
-                "timeupdated": "1740995898"
+                "buildid": "17729556",
+                "timeupdated": "1742991043"
             }
         },
         "privatebranches": "1",
