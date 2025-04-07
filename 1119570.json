@@ -4,8 +4,8 @@
     "name": "Discord Bot Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27862498",
-    "update_time": "2025-03-10 06:41:03",
+    "change_number": "28256189",
+    "update_time": "2025-04-02 04:47:46",
     "depot": {
         "228989": {
             "config": {
@@ -37,9 +37,9 @@
                     "download": "144874960"
                 },
                 "patch": {
-                    "gid": "6669389061941308280",
-                    "size": "313356082",
-                    "download": "96068672"
+                    "gid": "7658637663585149574",
+                    "size": "285366985",
+                    "download": "87856864"
                 }
             },
             "decryptionkey": "ccfe1ed90bc1639c0d6a17e3f847da573ec8e623fa98aa32c1e3035961a29582"
@@ -66,9 +66,9 @@
                     "download": "138083408"
                 },
                 "patch": {
-                    "gid": "1510093438988348919",
-                    "size": "280856875",
-                    "download": "90854560"
+                    "gid": "30467766959644814",
+                    "size": "255903162",
+                    "download": "83159056"
                 }
             },
             "decryptionkey": ""
@@ -89,9 +89,9 @@
                 "timeupdated": "1727549121"
             },
             "patch": {
-                "buildid": "17653519",
+                "buildid": "17945335",
                 "description": "1.0.0-preview.6 patch",
-                "timeupdated": "1741538688"
+                "timeupdated": "1743540461"
             }
         },
         "privatebranches": "1"
