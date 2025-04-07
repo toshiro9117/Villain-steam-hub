@@ -4,8 +4,8 @@
     "name": "Gray Zone Warfare",
     "schinese_name": "灰区战争",
     "isfreeapp": "0",
-    "change_number": "28012717",
-    "update_time": "2025-03-18 20:13:03",
+    "change_number": "28344168",
+    "update_time": "2025-04-07 19:00:19",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8962863396572967721",
-                    "size": "22814406859",
-                    "download": "18393124544"
+                    "gid": "4839559695509173170",
+                    "size": "22817729977",
+                    "download": "18394706960"
                 }
             },
             "decryptionkey": "c89db92b0e186d8c1e9db781270fc739b23f152b3e11ed7733f93bba19ce6716"
         },
         "branches": {
             "public": {
-                "buildid": "17438951",
-                "timeupdated": "1740056262"
+                "buildid": "17884571",
+                "timeupdated": "1743667254"
             }
         },
         "privatebranches": "1"
