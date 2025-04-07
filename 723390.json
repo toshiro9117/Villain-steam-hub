@@ -4,8 +4,8 @@
     "name": "Hunt Down The Freeman",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27944170",
-    "update_time": "2025-03-14 06:21:32",
+    "change_number": "28126105",
+    "update_time": "2025-03-25 17:20:32",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,polish,czech,latam",
         "hasdepotsindlc": "0",
@@ -49,9 +49,9 @@
                     "download": "15002005760"
                 },
                 "owf_development_build": {
-                    "gid": "6547060766008665077",
-                    "size": "16728214893",
-                    "download": "8901861440"
+                    "gid": "5082984852815384593",
+                    "size": "16047461525",
+                    "download": "8669636032"
                 },
                 "owf_staging_prep": {
                     "gid": "4943092429602413480",
@@ -121,9 +121,9 @@
                 "timeupdated": "1674866491"
             },
             "owf_development_build": {
-                "buildid": "17475372",
+                "buildid": "17849215",
                 "description": "OWF Development Nightly-Weekly Build",
-                "timeupdated": "1740337368"
+                "timeupdated": "1742894374"
             },
             "owf_staging_prep": {
                 "buildid": "16884751",
