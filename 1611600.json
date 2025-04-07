@@ -4,8 +4,8 @@
     "name": "WARNO",
     "schinese_name": "预先号令",
     "isfreeapp": "0",
-    "change_number": "27991081",
-    "update_time": "2025-03-17 18:07:53",
+    "change_number": "28304145",
+    "update_time": "2025-04-04 16:05:35",
     "depot": {
         "workshopdepot": "1611600",
         "baselanguages": "english,german,french,spanish,schinese,russian",
@@ -20,6 +20,11 @@
         "1611601": {
             "manifests": {
                 "public": {
+                    "gid": "481031076074504855",
+                    "size": "54924085468",
+                    "download": "44737778688"
+                },
+                "compat_146198": {
                     "gid": "7638169269214690003",
                     "size": "52183563708",
                     "download": "42358472800"
@@ -59,12 +64,17 @@
         },
         "branches": {
             "public": {
+                "buildid": "17797584",
+                "timeupdated": "1742889347"
+            },
+            "compat_146198": {
                 "buildid": "17307623",
-                "timeupdated": "1739202416"
+                "description": "\tCompatibility for mods based on version 146198, compatibility for saves and replays prior to or equal to 146198",
+                "timeupdated": "1742890113"
             },
             "compat_141935": {
                 "buildid": "16837181",
-                "description": "Compatibility for mods based on version 141935, compatibility for saves and replays prior to or equal to 141935",
+                "description": "(Old)",
                 "timeupdated": "1738834083"
             },
             "compat_141373": {
