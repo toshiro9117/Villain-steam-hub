@@ -4,8 +4,8 @@
     "name": "nanos world™ Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27982152",
-    "update_time": "2025-03-17 00:17:25",
+    "change_number": "28310139",
+    "update_time": "2025-04-04 22:08:02",
     "depot": {
         "1004": {
             "config": {
@@ -62,19 +62,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4058667655171501874",
-                    "size": "29532149",
-                    "download": "7078288"
-                },
-                "1.62.3": {
-                    "gid": "1271309874595788877",
-                    "size": "26247933",
-                    "download": "5540224"
+                    "gid": "6138571576839298664",
+                    "size": "30234101",
+                    "download": "7121856"
                 },
                 "bleeding-edge": {
-                    "gid": "5802015938331184155",
-                    "size": "30246901",
-                    "download": "7125520"
+                    "gid": "6184863730231159599",
+                    "size": "30255093",
+                    "download": "7127632"
                 }
             },
             "decryptionkey": ""
@@ -89,15 +84,10 @@
                     "size": "35156980",
                     "download": "8452224"
                 },
-                "1.62.3": {
-                    "gid": "1608918503895293684",
-                    "size": "33878784",
-                    "download": "7826496"
-                },
                 "bleeding-edge": {
-                    "gid": "8468372265098534318",
-                    "size": "35647036",
-                    "download": "8535920"
+                    "gid": "6269470164691422482",
+                    "size": "35659292",
+                    "download": "8539552"
                 }
             },
             "decryptionkey": ""
@@ -105,18 +95,13 @@
         "workshopdepot": "1936830",
         "branches": {
             "public": {
-                "buildid": "17159992",
-                "timeupdated": "1738152475"
-            },
-            "1.62.3": {
-                "buildid": "12003321",
-                "description": "1.62.3 version on UE 5.1",
-                "timeupdated": "1702982596"
+                "buildid": "17827085",
+                "timeupdated": "1742744343"
             },
             "bleeding-edge": {
-                "buildid": "17743616",
+                "buildid": "17986059",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1742141838"
+                "timeupdated": "1743775677"
             }
         },
         "workshopdepotdecryptionkey": ""
