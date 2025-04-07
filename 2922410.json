@@ -4,8 +4,8 @@
     "name": "Achilles: Survivor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28009419",
-    "update_time": "2025-03-18 16:46:10",
+    "change_number": "28333275",
+    "update_time": "2025-04-06 23:17:00",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -32,9 +32,9 @@
         "2922411": {
             "manifests": {
                 "public": {
-                    "gid": "4947845644180821295",
-                    "size": "4664972944",
-                    "download": "4293227520"
+                    "gid": "3990509256019465151",
+                    "size": "4759984499",
+                    "download": "4384900144"
                 }
             },
             "decryptionkey": "b9589ac336959faef6c6ef10cab6174bc34627b307d10cf57a6a05c645320ad6"
@@ -43,12 +43,13 @@
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
-            }
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
-                "buildid": "17701735",
-                "timeupdated": "1741888392"
+                "buildid": "17864655",
+                "timeupdated": "1743092105"
             }
         },
         "privatebranches": "1"
