@@ -4,8 +4,8 @@
     "name": "FlatOut: Ultimate Carnage Collector's Edition",
     "schinese_name": "横冲直撞：终极杀戮",
     "isfreeapp": "0",
-    "change_number": "27108209",
-    "update_time": "2025-01-22 16:26:28",
+    "change_number": "28164683",
+    "update_time": "2025-03-27 15:15:55",
     "depot": {
         "228990": {
             "config": {
@@ -185,6 +185,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "1cad52f30b3a722700fc5e4540b4b462f13fc3bbfab7e85deec3eeb404c45117"
+        "workshopdepotdecryptionkey": ""
     }
 }
