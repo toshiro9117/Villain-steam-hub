@@ -4,8 +4,8 @@
     "name": "Luck be a Landlord",
     "schinese_name": "幸运房东",
     "isfreeapp": "0",
-    "change_number": "27530043",
-    "update_time": "2025-02-18 16:15:33",
+    "change_number": "28218194",
+    "update_time": "2025-03-31 04:44:56",
     "depot": {
         "1404851": {
             "config": {
@@ -58,6 +58,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ae7e224dd533119417de63dba0ab4ede206f1f9615f64827d665a8d6c47553e6"
+        "workshopdepotdecryptionkey": ""
     }
 }
