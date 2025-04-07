@@ -4,8 +4,8 @@
     "name": "The Doors of Trithius",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27806595",
-    "update_time": "2025-03-06 10:34:00",
+    "change_number": "28272299",
+    "update_time": "2025-04-03 00:25:13",
     "depot": {
         "1519493": {
             "config": {
@@ -14,11 +14,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2152406656898247874",
-                    "size": "600405129",
-                    "download": "431340512"
+                    "gid": "5316163872038421763",
+                    "size": "600562490",
+                    "download": "431501888"
                 },
                 "beta": {
+                    "gid": "5316163872038421763",
+                    "size": "600562490",
+                    "download": "431501888"
+                },
+                "v0.5.15": {
                     "gid": "2152406656898247874",
                     "size": "600405129",
                     "download": "431340512"
@@ -79,9 +84,9 @@
                     "download": "374635952"
                 },
                 "deploy-test": {
-                    "gid": "2152406656898247874",
-                    "size": "600405129",
-                    "download": "431340512"
+                    "gid": "5316163872038421763",
+                    "size": "600562490",
+                    "download": "431501888"
                 }
             },
             "decryptionkey": ""
@@ -93,11 +98,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8534159530354621623",
-                    "size": "593608582",
-                    "download": "428247040"
+                    "gid": "167430444738253359",
+                    "size": "593773016",
+                    "download": "428457872"
                 },
                 "beta": {
+                    "gid": "167430444738253359",
+                    "size": "593773016",
+                    "download": "428457872"
+                },
+                "v0.5.15": {
                     "gid": "8534159530354621623",
                     "size": "593608582",
                     "download": "428247040"
@@ -163,9 +173,9 @@
                     "download": "380975632"
                 },
                 "deploy-test": {
-                    "gid": "8534159530354621623",
-                    "size": "593608582",
-                    "download": "428247040"
+                    "gid": "167430444738253359",
+                    "size": "593773016",
+                    "download": "428457872"
                 }
             },
             "decryptionkey": ""
@@ -177,11 +187,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1235270086719277416",
-                    "size": "586064860",
-                    "download": "427817024"
+                    "gid": "6103234089761465874",
+                    "size": "586220173",
+                    "download": "427977568"
                 },
                 "beta": {
+                    "gid": "6103234089761465874",
+                    "size": "586220173",
+                    "download": "427977568"
+                },
+                "v0.5.15": {
                     "gid": "1235270086719277416",
                     "size": "586064860",
                     "download": "427817024"
@@ -282,22 +297,27 @@
                     "download": "398402896"
                 },
                 "deploy-test": {
-                    "gid": "1235270086719277416",
-                    "size": "586064860",
-                    "download": "427817024"
+                    "gid": "6103234089761465874",
+                    "size": "586220173",
+                    "download": "427977568"
                 }
             },
             "decryptionkey": "b218786c6d2faeda40eb93f4d9c53eb4f136a1029bc283069f138a7a7f133292"
         },
         "branches": {
             "public": {
-                "buildid": "17612921",
-                "timeupdated": "1741228436"
+                "buildid": "17957510",
+                "timeupdated": "1743611109"
             },
             "beta": {
-                "buildid": "17612921",
+                "buildid": "17957510",
                 "description": "beta",
-                "timeupdated": "1741227401"
+                "timeupdated": "1743611079"
+            },
+            "v0.5.15": {
+                "buildid": "17612921",
+                "description": "The Hunter's Eye",
+                "timeupdated": "1743418249"
             },
             "v0.5.14": {
                 "buildid": "17361088",
@@ -395,9 +415,9 @@
                 "timeupdated": "1671132645"
             },
             "deploy-test": {
-                "buildid": "17612921",
+                "buildid": "17957510",
                 "description": "For testing deployments",
-                "timeupdated": "1741227387"
+                "timeupdated": "1743610611"
             }
         }
     }
