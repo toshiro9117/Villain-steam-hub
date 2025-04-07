@@ -4,8 +4,8 @@
     "name": "ServiceIT: You can do IT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27956659",
-    "update_time": "2025-03-14 21:01:42",
+    "change_number": "28345184",
+    "update_time": "2025-04-07 20:07:20",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6610655008150533842",
-                    "size": "10790698055",
-                    "download": "10338994912"
+                    "gid": "1359900977702604598",
+                    "size": "10799567446",
+                    "download": "10347663648"
                 }
             },
             "decryptionkey": "54bf44cc8249563ea86f88474f83467d819eae17775a0e82a8b440be87b81804"
         },
         "branches": {
             "public": {
-                "buildid": "17206662",
-                "timeupdated": "1738373634"
+                "buildid": "17859806",
+                "timeupdated": "1742949542"
             }
         },
         "privatebranches": "1"
