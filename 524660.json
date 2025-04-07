@@ -4,8 +4,8 @@
     "name": "RutonyChat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27882314",
-    "update_time": "2025-03-11 09:36:56",
+    "change_number": "28296499",
+    "update_time": "2025-04-04 04:34:29",
     "depot": {
         "228986": {
             "config": {
@@ -40,9 +40,9 @@
                     "download": "203646960"
                 },
                 "test": {
-                    "gid": "8609881151780640965",
-                    "size": "1455861438",
-                    "download": "650177872"
+                    "gid": "8013351129716317291",
+                    "size": "1481137816",
+                    "download": "649215984"
                 },
                 "test_prev": {
                     "gid": "3875927871833275109",
@@ -92,9 +92,9 @@
                 "timeupdated": "1694702141"
             },
             "test": {
-                "buildid": "17670416",
+                "buildid": "17975548",
                 "description": "Public test branch",
-                "timeupdated": "1741657002"
+                "timeupdated": "1743712412"
             },
             "test_prev": {
                 "buildid": "16245778",
