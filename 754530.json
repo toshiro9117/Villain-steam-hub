@@ -4,8 +4,8 @@
     "name": "IL-2 Sturmovik: Cliffs of Dover Blitz",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27532707",
-    "update_time": "2025-02-18 19:05:03",
+    "change_number": "28317532",
+    "update_time": "2025-04-05 06:15:12",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,czech",
         "228983": {
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4527666067572916627",
-                    "size": "13353678027",
-                    "download": "8301986640"
+                    "gid": "7521531395308574731",
+                    "size": "13353677515",
+                    "download": "8301986016"
                 }
             },
             "decryptionkey": "86c933a54c222ac3c85d5c2e604020eab3ea4fffa17d766c695c8057b2b6f746"
@@ -67,17 +67,17 @@
             "dlcappid": "1049440",
             "manifests": {
                 "public": {
-                    "gid": "2533938269561259144",
+                    "gid": "4781590260447762373",
                     "size": "7277767288",
-                    "download": "5185602832"
+                    "download": "5185602848"
                 }
             },
             "decryptionkey": "130ea19f4d6b9e445096eb00f1432d83ac222460aa3169b1907159f874b4a4b1"
         },
         "branches": {
             "public": {
-                "buildid": "17391521",
-                "timeupdated": "1739876698"
+                "buildid": "17950751",
+                "timeupdated": "1743678257"
             }
         },
         "privatebranches": "1"
