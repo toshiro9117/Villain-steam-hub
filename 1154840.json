@@ -4,8 +4,8 @@
     "name": "Shadow Empire",
     "schinese_name": "暗影帝国",
     "isfreeapp": "0",
-    "change_number": "27857904",
-    "update_time": "2025-03-09 18:08:05",
+    "change_number": "28312966",
+    "update_time": "2025-04-05 00:43:47",
     "depot": {
         "228983": {
             "config": {
@@ -43,9 +43,9 @@
                     "download": "534110384"
                 },
                 "openbeta": {
-                    "gid": "8868286903701388315",
-                    "size": "634900729",
-                    "download": "534926560"
+                    "gid": "8614650851924297276",
+                    "size": "634969433",
+                    "download": "534943264"
                 }
             },
             "decryptionkey": "b03bab1926c955366c8cacf5364823b16b260df72526484b2b9ae2925e83d7e8"
@@ -71,9 +71,9 @@
                 "timeupdated": "1733931266"
             },
             "openbeta": {
-                "buildid": "17378478",
+                "buildid": "17820571",
                 "description": "Open Beta",
-                "timeupdated": "1739634277"
+                "timeupdated": "1742650307"
             }
         },
         "privatebranches": "1"
