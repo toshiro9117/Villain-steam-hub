@@ -4,8 +4,8 @@
     "name": "Nature And Life - Drunk On Nectar",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27968206",
-    "update_time": "2025-03-15 09:48:42",
+    "change_number": "28327410",
+    "update_time": "2025-04-06 06:24:11",
     "depot": {
         "512461": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3174274917880600477",
-                    "size": "11616974386",
-                    "download": "5218684496"
+                    "gid": "103792429556675660",
+                    "size": "11617009938",
+                    "download": "5219269920"
                 },
                 "beta": {
-                    "gid": "3174274917880600477",
-                    "size": "11616974386",
-                    "download": "5218684496"
+                    "gid": "103792429556675660",
+                    "size": "11617009938",
+                    "download": "5219269920"
                 }
             },
             "decryptionkey": "40c7e672d2a785fc780013f4d47ef85cfca018ce287ee1929b8cb1c271a0e827"
@@ -33,26 +33,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5289734464123907009",
-                    "size": "11053782960",
-                    "download": "4788599968"
+                    "gid": "2254628020573684898",
+                    "size": "11057230145",
+                    "download": "4791046816"
                 },
                 "beta": {
-                    "gid": "5289734464123907009",
-                    "size": "11053782960",
-                    "download": "4788599968"
+                    "gid": "2254628020573684898",
+                    "size": "11057230145",
+                    "download": "4791046816"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17717166",
-                "timeupdated": "1741911749"
+                "buildid": "17823205",
+                "timeupdated": "1742685437"
             },
             "beta": {
-                "buildid": "17717166",
-                "timeupdated": "1741911461"
+                "buildid": "17823205",
+                "timeupdated": "1742685409"
             }
         },
         "privatebranches": "1"
