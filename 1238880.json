@@ -4,8 +4,8 @@
     "name": "Battlefield™ Hardline",
     "schinese_name": "战地：硬仗 终极版",
     "isfreeapp": "0",
-    "change_number": "27979281",
-    "update_time": "2025-03-16 16:20:51",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:21",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,czech,brazilian",
@@ -24,9 +24,6 @@
             "sharedinstall": "1"
         },
         "1238881": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6826322720323828727",
@@ -191,6 +188,17 @@
                 }
             },
             "decryptionkey": "888d9571a3d76aaa8c83b15934a902da713d19a9ca98c4f5127304d432b979f6"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
