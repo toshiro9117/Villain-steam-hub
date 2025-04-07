@@ -4,8 +4,8 @@
     "name": "Grey Hack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27946946",
-    "update_time": "2025-03-14 09:47:54",
+    "change_number": "28346469",
+    "update_time": "2025-04-07 21:29:54",
     "depot": {
         "605231": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1491351763520216200",
-                    "size": "715492798",
-                    "download": "73314704"
+                    "gid": "7304727305970701398",
+                    "size": "715491782",
+                    "download": "73314928"
                 }
             },
             "decryptionkey": "f8ce15232e8c5ded9644310c1a9df571c731568b45e089110442ce8ad6d435f5"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3720684617021570524",
-                    "size": "715460234",
-                    "download": "73449040"
+                    "gid": "2187115197497195034",
+                    "size": "715459219",
+                    "download": "73448256"
                 }
             },
             "decryptionkey": ""
@@ -40,12 +40,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4293197579427491219",
-                    "size": "712930292",
-                    "download": "70986864"
+                    "gid": "3695226407708085017",
+                    "size": "712929276",
+                    "download": "70986624"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f50a69e9be40cc9bbc05a268eb0cc249c012ccd10ea9b0d28603fddd0e61b805"
         },
         "605234": {
             "config": {
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4567657470257528720",
-                    "size": "704152811",
-                    "download": "69989056"
+                    "gid": "8263320574425703911",
+                    "size": "704151795",
+                    "download": "69989152"
                 }
             },
             "decryptionkey": ""
@@ -64,10 +64,11 @@
         "workshopdepot": "605230",
         "branches": {
             "public": {
-                "buildid": "17718125",
-                "timeupdated": "1741916870"
+                "buildid": "18003976",
+                "timeupdated": "1743972109"
             }
         },
+        "privatebranches": "1",
         "workshopdepotdecryptionkey": "745113dea91fce09e22afba17a8c516dff088344d7d4891922d75a49ff24ac10"
     }
 }
