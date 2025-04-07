@@ -4,8 +4,8 @@
     "name": "富甲天下W",
     "schinese_name": "富甲天下W",
     "isfreeapp": "0",
-    "change_number": "27511449",
-    "update_time": "2025-02-17 16:02:02",
+    "change_number": "28068256",
+    "update_time": "2025-03-21 17:19:54",
     "depot": {
         "2490931": {
             "manifests": {
@@ -41,7 +41,7 @@
                     "download": "567206368"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cab0c0b6fcc01b4bb2d84bc261ff903532be382eacdb95e8504fe85ccd5d46cd"
         },
         "branches": {
             "public": {
