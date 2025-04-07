@@ -4,8 +4,8 @@
     "name": "Rise of the Ronin",
     "schinese_name": "浪人崛起",
     "isfreeapp": "0",
-    "change_number": "28006424",
-    "update_time": "2025-03-18 11:55:35",
+    "change_number": "28332389",
+    "update_time": "2025-04-06 21:11:24",
     "depot": {
         "baselanguages": "english,japanese",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "943949358035404765",
+                    "gid": "1876216873872086392",
                     "size": "145826853022",
-                    "download": "97508684320"
+                    "download": "97508684336"
                 },
                 "local": {
                     "gid": "768825246796139131",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7962187711783350843",
-                    "size": "14014431198",
-                    "download": "11548700416"
+                    "gid": "7330726372159845030",
+                    "size": "14015359680",
+                    "download": "11549219072"
                 },
                 "local": {
                     "gid": "2002201883212437940",
@@ -60,9 +60,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8622002937717689079",
-                    "size": "350217160",
-                    "download": "200745472"
+                    "gid": "242030438281801349",
+                    "size": "350267848",
+                    "download": "200766096"
                 },
                 "local": {
                     "gid": "2006517770707670320",
@@ -90,7 +90,7 @@
                     "download": "2462610608"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6fdac6ccd9ebadf5c61e1c34ec225a8bc687cab591d28cc5ade262e9a65ae393"
         },
         "1340992": {
             "config": {
@@ -110,7 +110,7 @@
                     "download": "2402855424"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7c7e86cec8a1f874213799a3eb2db858af7a8e28c72d7792330cc7b28f580793"
         },
         "1340993": {
             "config": {
@@ -130,7 +130,7 @@
                     "download": "2522567760"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "50234d9ac0cda0a23d385d3c086560656cc037de4dcb3d743e960f416ed5c69d"
         },
         "1340994": {
             "config": {
@@ -150,7 +150,7 @@
                     "download": "2461745376"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "747729b8ffcd2e18673252e55284cc050dbecbff88ab7ef91b69cd71d941084f"
         },
         "1340998": {
             "config": {
@@ -170,7 +170,7 @@
                     "download": "2307968288"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7e685022588dcde7a3b5ee6627e0a250e8641a8bbd123bf7377b2e9e990c42fe"
         },
         "1340999": {
             "config": {
@@ -190,12 +190,12 @@
                     "download": "2302185472"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bb4b2b9bca194610993a7f32ee52f074460b0d0b54fb37099580e2d512e35728"
         },
         "branches": {
             "public": {
-                "buildid": "17708402",
-                "timeupdated": "1741941362"
+                "buildid": "17780839",
+                "timeupdated": "1742894819"
             },
             "local": {
                 "buildid": "16122430",
