@@ -4,8 +4,8 @@
     "name": "TerraTech Worlds Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013813",
-    "update_time": "2025-03-18 21:24:14",
+    "change_number": "28346269",
+    "update_time": "2025-04-07 21:16:18",
     "depot": {
         "1004": {
             "config": {
@@ -61,9 +61,9 @@
                     "download": "1185093200"
                 },
                 "ttw_unstable": {
-                    "gid": "5493455613386200227",
-                    "size": "4207043813",
-                    "download": "1180910080"
+                    "gid": "1755069777775264758",
+                    "size": "4213538280",
+                    "download": "1181580384"
                 }
             },
             "decryptionkey": "6414d7c755a04492deecd3b9e0977312a0958da1f2fe5b70877851c87d7d1ba7"
@@ -74,9 +74,9 @@
                 "timeupdated": "1734953553"
             },
             "ttw_unstable": {
-                "buildid": "17440082",
+                "buildid": "17902218",
                 "description": "Work-in-progress build",
-                "timeupdated": "1740063917"
+                "timeupdated": "1743186666"
             }
         },
         "privatebranches": "1"
