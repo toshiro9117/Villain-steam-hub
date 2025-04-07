@@ -4,8 +4,8 @@
     "name": "News Tower",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010079",
-    "update_time": "2025-03-18 17:22:51",
+    "change_number": "28105214",
+    "update_time": "2025-03-24 17:12:42",
     "depot": {
         "hasdepotsindlc": "0",
         "1649952": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4032987581085716112",
-                    "size": "2201487397",
-                    "download": "448804000"
+                    "gid": "7553101435880944353",
+                    "size": "2619905103",
+                    "download": "604244160"
                 },
                 "legacy": {
                     "gid": "1945965351411080448",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "566491766627293333",
-                    "size": "2626823037",
-                    "download": "491994928"
+                    "gid": "1642567293732525548",
+                    "size": "2626823623",
+                    "download": "492039568"
                 },
                 "legacy": {
                     "gid": "5560347169810507217",
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17690712",
-                "timeupdated": "1741773755"
+                "buildid": "17709412",
+                "timeupdated": "1742464364"
             },
             "legacy": {
                 "buildid": "15900284",
