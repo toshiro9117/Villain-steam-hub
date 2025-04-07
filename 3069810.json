@@ -4,23 +4,23 @@
     "name": "Rocket Rats",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27896497",
-    "update_time": "2025-03-12 02:02:26",
+    "change_number": "28279855",
+    "update_time": "2025-04-03 09:41:28",
     "depot": {
         "3069811": {
             "manifests": {
                 "public": {
-                    "gid": "4499297123841920046",
-                    "size": "172516153",
-                    "download": "128130128"
+                    "gid": "6762082032783131282",
+                    "size": "172536841",
+                    "download": "128131456"
                 }
             },
             "decryptionkey": "5d18432dd898d169016599b76cea321680cbafbbfcba19269e304b566ccdd754"
         },
         "branches": {
             "public": {
-                "buildid": "17272784",
-                "timeupdated": "1738879270"
+                "buildid": "17891692",
+                "timeupdated": "1743127483"
             }
         }
     }
