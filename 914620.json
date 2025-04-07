@@ -4,8 +4,8 @@
     "name": "Mist Survival",
     "schinese_name": "迷霧生存",
     "isfreeapp": "0",
-    "change_number": "27981877",
-    "update_time": "2025-03-16 23:37:49",
+    "change_number": "28241560",
+    "update_time": "2025-04-01 13:03:35",
     "depot": {
         "228986": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4037449959997899954",
-                    "size": "29745930813",
-                    "download": "14061754272"
+                    "gid": "4579725911674497978",
+                    "size": "28581456848",
+                    "download": "13490767904"
                 },
                 "old_build_041": {
                     "gid": "1982110330880164102",
@@ -44,17 +44,17 @@
                     "download": "9664396560"
                 },
                 "devtest": {
-                    "gid": "1152308103836053152",
-                    "size": "29754182719",
-                    "download": "14065607568"
+                    "gid": "4579725911674497978",
+                    "size": "28581456848",
+                    "download": "13490767904"
                 }
             },
             "decryptionkey": "3de6377dcc0c7e93bb1fdd7a9b8b9f13d72ab35f016e283d585b3a595f8b6367"
         },
         "branches": {
             "public": {
-                "buildid": "16862522",
-                "timeupdated": "1735532444"
+                "buildid": "17915006",
+                "timeupdated": "1743483809"
             },
             "old_build_041": {
                 "buildid": "5622237",
@@ -67,9 +67,9 @@
                 "timeupdated": "1701788038"
             },
             "devtest": {
-                "buildid": "17743437",
+                "buildid": "17914586",
                 "description": "Test Branch",
-                "timeupdated": "1742139464"
+                "timeupdated": "1743323986"
             }
         },
         "privatebranches": "1"
