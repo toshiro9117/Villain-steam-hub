@@ -4,8 +4,8 @@
     "name": "Chasm",
     "schinese_name": "深渊矿坑",
     "isfreeapp": "0",
-    "change_number": "27124225",
-    "update_time": "2025-01-23 12:26:29",
+    "change_number": "28296434",
+    "update_time": "2025-04-04 04:29:49",
     "depot": {
         "228990": {
             "config": {
@@ -43,9 +43,9 @@
                     "download": "523500720"
                 },
                 "test_branch": {
-                    "gid": "4670817412028192603",
-                    "size": "910075574",
-                    "download": "523581088"
+                    "gid": "8007356565421785554",
+                    "size": "912474804",
+                    "download": "524178400"
                 }
             },
             "decryptionkey": "c140804a963f7b0a7211923ea963c92f2c0ae36957f00588c90c067b58ed146c"
@@ -71,9 +71,9 @@
                     "download": "531346464"
                 },
                 "test_branch": {
-                    "gid": "3608379057707196534",
-                    "size": "936933416",
-                    "download": "531425600"
+                    "gid": "5306040904060933801",
+                    "size": "940109430",
+                    "download": "532249712"
                 }
             },
             "decryptionkey": "86b7d6c78eef2a3622d4a46cf34dcb40140484ad6f81865e33c017ed1edf83c8"
@@ -99,9 +99,9 @@
                     "download": "534301584"
                 },
                 "test_branch": {
-                    "gid": "7098608831967381060",
-                    "size": "951003637",
-                    "download": "534398320"
+                    "gid": "6084338252432875077",
+                    "size": "943158011",
+                    "download": "532874144"
                 }
             },
             "decryptionkey": "4e0908b76debb249c97043810474e0e2145ee9276ce8ff9f0b9bff7bf808f230"
@@ -123,9 +123,9 @@
                 "timeupdated": "1727283376"
             },
             "test_branch": {
-                "buildid": "16987975",
+                "buildid": "17975517",
                 "description": "Public testing for upcoming releases",
-                "timeupdated": "1736779292"
+                "timeupdated": "1743712185"
             }
         },
         "privatebranches": "1"
