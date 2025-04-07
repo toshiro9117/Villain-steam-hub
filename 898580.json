@@ -4,8 +4,8 @@
     "name": "Premium Bowling",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27519320",
-    "update_time": "2025-02-18 00:34:32",
+    "change_number": "28133463",
+    "update_time": "2025-03-26 00:20:08",
     "depot": {
         "228988": {
             "config": {
@@ -21,24 +21,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4073230115171532116",
-                    "size": "3303642284",
-                    "download": "1458248480"
-                },
-                "prev": {
-                    "gid": "4105069648571150174",
-                    "size": "2717393427",
-                    "download": "1215722384"
+                    "gid": "8823737488445737523",
+                    "size": "2455449297",
+                    "download": "1697493792"
                 },
                 "alpha": {
-                    "gid": "4073230115171532116",
-                    "size": "3303642284",
-                    "download": "1458248480"
+                    "gid": "8823737488445737523",
+                    "size": "2455449297",
+                    "download": "1697493792"
                 },
                 "beta": {
-                    "gid": "4073230115171532116",
-                    "size": "3303642284",
-                    "download": "1458248480"
+                    "gid": "8823737488445737523",
+                    "size": "2455449297",
+                    "download": "1697493792"
+                },
+                "prev": {
+                    "gid": "1372398506598827310",
+                    "size": "3303640965",
+                    "download": "1458253376"
                 }
             },
             "decryptionkey": "339637c6f246111ff4ded245726ff874fb03ccaea1ef3afe940e1f79970885b4"
@@ -53,11 +53,6 @@
                     "size": "3618746534",
                     "download": "1240184224"
                 },
-                "prev": {
-                    "gid": "5069438751876412890",
-                    "size": "3618746534",
-                    "download": "1240184224"
-                },
                 "alpha": {
                     "gid": "5069438751876412890",
                     "size": "3618746534",
@@ -67,29 +62,34 @@
                     "gid": "5069438751876412890",
                     "size": "3618746534",
                     "download": "1240184224"
+                },
+                "prev": {
+                    "gid": "5069438751876412890",
+                    "size": "3618746534",
+                    "download": "1240184224"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17467433",
-                "timeupdated": "1740234799"
-            },
-            "prev": {
-                "buildid": "11600831",
-                "description": "Old Versions",
-                "timeupdated": "1689524473"
+                "buildid": "17854420",
+                "timeupdated": "1742919602"
             },
             "alpha": {
-                "buildid": "17467433",
+                "buildid": "17854420",
                 "description": "Too Early Versions",
-                "timeupdated": "1740234161"
+                "timeupdated": "1742918722"
             },
             "beta": {
-                "buildid": "17467433",
+                "buildid": "17854420",
                 "description": "Public Beta Versions",
-                "timeupdated": "1740234178"
+                "timeupdated": "1742918730"
+            },
+            "prev": {
+                "buildid": "17437927",
+                "description": "Old Versions",
+                "timeupdated": "1742805145"
             }
         }
     }
