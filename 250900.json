@@ -4,8 +4,8 @@
     "name": "The Binding of Isaac: Rebirth",
     "schinese_name": "以撒的结合：重生",
     "isfreeapp": "0",
-    "change_number": "27972961",
-    "update_time": "2025-03-15 22:23:43",
+    "change_number": "28319836",
+    "update_time": "2025-04-05 10:38:42",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -180,6 +180,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "cb1c1ac5bf12aa887c898dcfcb962eca6ddb2dc729d5e49ee4e41bb24a95ea39"
+        "workshopdepotdecryptionkey": ""
     }
 }
