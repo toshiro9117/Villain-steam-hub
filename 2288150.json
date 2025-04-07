@@ -4,8 +4,8 @@
     "name": "ROMANCE OF THE THREE KINGDOMS 8  REMAKE",
     "schinese_name": "三国志8  REMAKE",
     "isfreeapp": "0",
-    "change_number": "27906426",
-    "update_time": "2025-03-12 16:09:09",
+    "change_number": "28120026",
+    "update_time": "2025-03-25 09:01:17",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "228989": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6526384946658579168",
-                    "size": "3064156517",
-                    "download": "3029495472"
+                    "gid": "1688475026668653946",
+                    "size": "3064178298",
+                    "download": "3029525152"
                 }
             },
             "decryptionkey": "24734a485184c5d39a31680b00617ed4b95a88624363575de890196431476148"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2057170121326985500",
-                    "size": "278368256",
-                    "download": "43892080"
+                    "gid": "5734364674767146777",
+                    "size": "278515712",
+                    "download": "43930800"
                 }
             },
             "decryptionkey": ""
@@ -132,9 +132,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5058484568071084091",
-                    "size": "19887554234",
-                    "download": "8810306976"
+                    "gid": "8847467460930931978",
+                    "size": "19887558575",
+                    "download": "8810309856"
                 }
             },
             "decryptionkey": "eb92045c168652c6c2889b981bb5dd2028905e4713dfd74aea878f9f8665fbf4"
@@ -147,7 +147,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9205314636003101386",
+                    "gid": "7372963027730205066",
                     "size": "26657111",
                     "download": "21711424"
                 }
@@ -162,12 +162,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7296829700684881050",
-                    "size": "110019990",
-                    "download": "86281008"
+                    "gid": "6120479585833992024",
+                    "size": "102525174",
+                    "download": "80476064"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "38b8b9e5d8639946cd3cd9af5dbc3f12f90cf797d87e7a49effb5aff775a5162"
         },
         "3231820": {
             "dlcappid": "3231820",
@@ -177,12 +177,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4298372255122734855",
-                    "size": "291071",
-                    "download": "284896"
+                    "gid": "9022384858283882088",
+                    "size": "291199",
+                    "download": "295584"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "10b275f5ab22a027f8920a71f5e0a6653cd6a961c360f145f4dcfcc7d5d9cfa0"
         },
         "3255620": {
             "dlcappid": "3255620",
@@ -192,12 +192,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2984685302131221672",
-                    "size": "291846",
-                    "download": "285648"
+                    "gid": "613874551796801964",
+                    "size": "291974",
+                    "download": "296368"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f9a9831daddf2f497b58329343de7fa6519d1100f460c5ef20167b17b9655c77"
         },
         "3375840": {
             "dlcappid": "3375840",
@@ -207,9 +207,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "783629490214038671",
-                    "size": "10890032",
-                    "download": "8862624"
+                    "gid": "9105664377026817804",
+                    "size": "11065834",
+                    "download": "8860992"
                 }
             },
             "decryptionkey": ""
@@ -222,12 +222,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1953551580033458369",
-                    "size": "15061174",
-                    "download": "12001440"
+                    "gid": "3244030527882475725",
+                    "size": "13092374",
+                    "download": "10153728"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c3a725ab0620a729e7eee2fcf045b83c732421c3e21ba89cc3349085e4621e87"
         },
         "3375860": {
             "dlcappid": "3375860",
@@ -237,12 +237,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6234820057008324296",
-                    "size": "15061146",
-                    "download": "12001648"
+                    "gid": "4885691179333914722",
+                    "size": "13730186",
+                    "download": "10570496"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e2c91b5fc0ef1a5eb3890d87ddfcbd3588de8300d8ca44e76343370c91b9b1f4"
         },
         "3412820": {
             "dlcappid": "3412820",
@@ -250,12 +250,19 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8567090876579887549",
+                    "size": "1619253",
+                    "download": "1187648"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17154660",
-                "timeupdated": "1738717240"
+                "buildid": "17525386",
+                "timeupdated": "1742864403"
             }
         },
         "privatebranches": "1"
