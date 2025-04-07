@@ -4,8 +4,8 @@
     "name": "OMSI 2",
     "schinese_name": "巴士模拟2",
     "isfreeapp": "0",
-    "change_number": "28012091",
-    "update_time": "2025-03-18 19:30:42",
+    "change_number": "28341592",
+    "update_time": "2025-04-07 16:14:51",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -682,7 +682,7 @@
                     "download": "1215408288"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "928ea04b3cf7a62c797493c6976ee3522d87f8f91aafed71e902849964cd9547"
         },
         "730261": {
             "dlcappid": "730261",
@@ -787,9 +787,9 @@
             "dlcappid": "880282",
             "manifests": {
                 "public": {
-                    "gid": "5986916082613608352",
-                    "size": "1188786948",
-                    "download": "153302880"
+                    "gid": "2145982554732985742",
+                    "size": "1188787048",
+                    "download": "153303008"
                 }
             },
             "decryptionkey": "b68a2d3e9c60a5b6dfb7ba8130479afacfdde79cba84a7c0f674233abada74cc"
@@ -864,9 +864,9 @@
             "dlcappid": "1196041",
             "manifests": {
                 "public": {
-                    "gid": "4553141990328563897",
-                    "size": "1293324541",
-                    "download": "104902784"
+                    "gid": "6118919972878486337",
+                    "size": "1293324607",
+                    "download": "104902832"
                 }
             },
             "decryptionkey": "8f1e7d769eb04285fb09601d0555e8032989ca1b59b5e0c01da01ce186fdca9d"
@@ -1128,9 +1128,9 @@
             "dlcappid": "1640310",
             "manifests": {
                 "public": {
-                    "gid": "7986256789113486433",
-                    "size": "72279714",
-                    "download": "27878928"
+                    "gid": "2392955473262440252",
+                    "size": "60792514",
+                    "download": "24410096"
                 }
             },
             "decryptionkey": "e60606212da49efef95091fdae874b4d63fc3efb6052a8f7b03102e2fdb35b72"
@@ -1513,9 +1513,9 @@
             "dlcappid": "2725480",
             "manifests": {
                 "public": {
-                    "gid": "9210910619360538214",
-                    "size": "2049627654",
-                    "download": "702400928"
+                    "gid": "871961050498573401",
+                    "size": "2048064307",
+                    "download": "700993600"
                 }
             },
             "decryptionkey": "882ec99f5e2317943c2298487bf16d91fe8399403750b221bd0fe2c705896e6c"
@@ -1546,9 +1546,9 @@
             "dlcappid": "3046770",
             "manifests": {
                 "public": {
-                    "gid": "2456685355053329189",
-                    "size": "4076373094",
-                    "download": "702277616"
+                    "gid": "7909250955756953690",
+                    "size": "4398511828",
+                    "download": "748326672"
                 }
             },
             "decryptionkey": "495ab4b44c071ed09e269da17f6af83f3c6f28798eea7fccd9ec6f94aebc20c0"
@@ -1617,7 +1617,7 @@
                     "download": "383862720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cae42a2ddf755fe7f0d518222671ed5ab075bae99148e981bf6610fb6003918e"
         },
         "3576420": {
             "dlcappid": "3576420",
@@ -1628,12 +1628,12 @@
                     "download": "885140432"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9df1952769bfbb34b6b95793c237e5853679d2a9d44942a13708536b9f92c5f8"
         },
         "branches": {
             "public": {
-                "buildid": "17763792",
-                "timeupdated": "1742292922"
+                "buildid": "18008430",
+                "timeupdated": "1744013685"
             }
         },
         "appmanagesdlc": "1"
