@@ -4,8 +4,8 @@
     "name": "Temtem: Swarm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006989",
-    "update_time": "2025-03-18 13:02:25",
+    "change_number": "28329598",
+    "update_time": "2025-04-06 13:10:55",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "2510961": {
             "manifests": {
                 "public": {
-                    "gid": "4004512929102689179",
-                    "size": "8349379288",
-                    "download": "2032118464"
+                    "gid": "7510205226887018098",
+                    "size": "7996833924",
+                    "download": "2018240096"
                 }
             },
             "decryptionkey": "6298e19f83a2a76669f5695059fbdd6bb50c0bd28a05a54f178486de4283e7c4"
         },
         "branches": {
             "public": {
-                "buildid": "17750022",
-                "timeupdated": "1742207685"
+                "buildid": "17808253",
+                "timeupdated": "1742559884"
             }
         },
         "privatebranches": "1"
