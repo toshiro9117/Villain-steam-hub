@@ -2,17 +2,17 @@
     "appid": "2698940",
     "type": "Game",
     "name": "The Crew Motorfest",
-    "schinese_name": "",
+    "schinese_name": "飙酷车神：轰鸣盛典",
     "isfreeapp": "0",
-    "change_number": "27987398",
-    "update_time": "2025-03-17 12:21:36",
+    "change_number": "28285348",
+    "update_time": "2025-04-03 17:17:24",
     "depot": {
         "2698941": {
             "manifests": {
                 "public": {
-                    "gid": "7768897723152917618",
-                    "size": "59807687348",
-                    "download": "55116821696"
+                    "gid": "7163692487466211441",
+                    "size": "59807688270",
+                    "download": "55116835600"
                 },
                 "local": {
                     "gid": "2915921679385542269",
@@ -36,8 +36,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "branches": {
             "public": {
-                "buildid": "17418373",
-                "timeupdated": "1741166049"
+                "buildid": "17843335",
+                "timeupdated": "1743586312"
             },
             "local": {
                 "buildid": "13269693",
