@@ -4,8 +4,8 @@
     "name": "Need for Speed™ Unbound",
     "schinese_name": "《极品飞车™：不羁》",
     "isfreeapp": "0",
-    "change_number": "27997813",
-    "update_time": "2025-03-18 00:21:55",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:36",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,arabic,brazilian",
         "228988": {
@@ -187,6 +187,17 @@
                 }
             },
             "decryptionkey": "811995bbee5052f10090e7559eb4d29d6661e9bbb6aaa1da6aaca601a2abf5a9"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
