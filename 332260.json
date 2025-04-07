@@ -4,8 +4,8 @@
     "name": "Cars Mater-National",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27979790",
-    "update_time": "2025-03-16 17:54:30",
+    "change_number": "28334112",
+    "update_time": "2025-04-07 01:16:08",
     "depot": {
         "228990": {
             "config": {
@@ -95,7 +95,7 @@
                     "download": "230552064"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "eefe38426d8231ddc8e93d1e8f55e47ddaabf6b5f165b85e50d458921b8fcf95"
         },
         "332267": {
             "config": {
@@ -137,7 +137,7 @@
                     "download": "210618848"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0137ea5763ea02c01e83620f11badc8f4cbb9d17c9e3ea67c9797ae35d134422"
         },
         "baselanguages": "english,german,french,italian,spanish,polish,danish,swedish",
         "branches": {
