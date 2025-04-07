@@ -4,8 +4,8 @@
     "name": "FIFA 22",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26719627",
-    "update_time": "2024-12-20 03:22:27",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:48",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,latam",
         "hasdepotsindlc": "0",
@@ -415,6 +415,17 @@
                 }
             },
             "decryptionkey": "8b0e2ca28380bcfcc6dee415a11399b3bc1fd9a0d989c476ea810f9b1e5c3d58"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
