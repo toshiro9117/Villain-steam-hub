@@ -4,15 +4,16 @@
     "name": "淫慾試煉",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26826704",
-    "update_time": "2024-12-31 23:19:31",
+    "change_number": "28104530",
+    "update_time": "2025-03-24 16:19:23",
     "depot": {
+        "baselanguages": "english,tchinese,japanese",
         "3324811": {
             "manifests": {
                 "public": {
-                    "gid": "7979361476057612715",
-                    "size": "1147520545",
-                    "download": "1011695376"
+                    "gid": "6799678033790643416",
+                    "size": "1147522512",
+                    "download": "1011695392"
                 }
             },
             "decryptionkey": "233dc888030ec5d02204a357c7ccbe1208e6ea58a814fa636b8bfbbeb1691bbe"
@@ -23,18 +24,30 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5166279194407324232",
-                    "size": "1144728124",
-                    "download": "1009704864"
+                    "gid": "805618876555691531",
+                    "size": "1144713241",
+                    "download": "1009704096"
+                }
+            },
+            "decryptionkey": "10c563b4d02e066e5b3872051f2f526c6072e12f42baac4e2bbf39d4e65d4a49"
+        },
+        "3324813": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4356114399404730850",
+                    "size": "1158348144",
+                    "download": "1011874336"
                 }
             },
             "decryptionkey": ""
         },
-        "baselanguages": "english,tchinese",
         "branches": {
             "public": {
-                "buildid": "16704561",
-                "timeupdated": "1733905091"
+                "buildid": "17818432",
+                "timeupdated": "1742623147"
             }
         }
     }
