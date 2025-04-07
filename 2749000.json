@@ -4,15 +4,15 @@
     "name": "Inn Tycoon",
     "schinese_name": "酒馆好时光",
     "isfreeapp": "0",
-    "change_number": "28012985",
-    "update_time": "2025-03-18 20:33:30",
+    "change_number": "28296940",
+    "update_time": "2025-04-04 05:06:36",
     "depot": {
         "2749001": {
             "manifests": {
                 "public": {
-                    "gid": "6361726542600663229",
-                    "size": "5712379530",
-                    "download": "1738258848"
+                    "gid": "2442888854549896733",
+                    "size": "5965881541",
+                    "download": "1793025776"
                 },
                 "beta": {
                     "gid": "2442888854549896733",
@@ -25,8 +25,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish",
         "branches": {
             "public": {
-                "buildid": "17606069",
-                "timeupdated": "1741188159"
+                "buildid": "17765469",
+                "timeupdated": "1742308261"
             },
             "beta": {
                 "buildid": "17765469",
