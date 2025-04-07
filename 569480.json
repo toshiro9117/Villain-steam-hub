@@ -4,8 +4,8 @@
     "name": "Kingdoms and Castles",
     "schinese_name": "王国与城堡",
     "isfreeapp": "0",
-    "change_number": "27943197",
-    "update_time": "2025-03-14 05:11:10",
+    "change_number": "28255441",
+    "update_time": "2025-04-02 03:49:45",
     "depot": {
         "228988": {
             "config": {
@@ -66,9 +66,9 @@
                     "download": "324818480"
                 },
                 "next-version-preview": {
-                    "gid": "4994549622573743775",
-                    "size": "931460653",
-                    "download": "413520288"
+                    "gid": "1683031132035466471",
+                    "size": "931751382",
+                    "download": "413605024"
                 }
             },
             "decryptionkey": "812b93c7ade8e5e40c5f29b44c81ebe626c7e4246e4e11a229f50f7f8ffb5f33"
@@ -124,9 +124,9 @@
                     "download": "332487952"
                 },
                 "next-version-preview": {
-                    "gid": "625811873265385562",
-                    "size": "914297278",
-                    "download": "411016272"
+                    "gid": "2997449280390846773",
+                    "size": "914587418",
+                    "download": "411098896"
                 }
             },
             "decryptionkey": "131f3c6fa1c393f5b884c0a662bf5c0c197f1fec53b7a56c7fa8940617e0e6be"
@@ -182,9 +182,9 @@
                     "download": "335257872"
                 },
                 "next-version-preview": {
-                    "gid": "7430201434377021118",
-                    "size": "890708453",
-                    "download": "410832944"
+                    "gid": "5637859535783673579",
+                    "size": "890999182",
+                    "download": "410909872"
                 }
             },
             "decryptionkey": "b6d2e0a8b8c2f0ead721d72c3ad8f46088407bf1807a22dfb4ee57eceb210267"
@@ -241,9 +241,9 @@
                     "download": "327119776"
                 },
                 "next-version-preview": {
-                    "gid": "3820058808259496541",
-                    "size": "948096729",
-                    "download": "417417168"
+                    "gid": "7112274670894215649",
+                    "size": "948387458",
+                    "download": "417496496"
                 }
             },
             "decryptionkey": "13bb193ffd7e8031b4e453f99a765883b782333ee150988412780b264ed4f248"
@@ -272,9 +272,9 @@
                     "download": "308827088"
                 },
                 "next-version-preview": {
-                    "gid": "9197064963531576712",
-                    "size": "304940857",
-                    "download": "309103248"
+                    "gid": "4458750912456406560",
+                    "size": "304939482",
+                    "download": "309101872"
                 }
             },
             "decryptionkey": "3a9fee69925542868ba41744376bf34656d83524f7eee7c6c4f3bff5310dbaf4"
@@ -321,9 +321,9 @@
                 "timeupdated": "1548281508"
             },
             "next-version-preview": {
-                "buildid": "17715120",
+                "buildid": "17816565",
                 "description": "Beta",
-                "timeupdated": "1741900267"
+                "timeupdated": "1742604623"
             }
         },
         "privatebranches": "1",
