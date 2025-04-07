@@ -4,8 +4,8 @@
     "name": "Sphinx and the Cursed Mummy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26968065",
-    "update_time": "2025-01-13 13:49:51",
+    "change_number": "28303091",
+    "update_time": "2025-04-04 14:43:25",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish",
         "hasdepotsindlc": "1",
@@ -122,14 +122,14 @@
                     "download": "636660080"
                 },
                 "beta": {
-                    "gid": "2121815166755432483",
-                    "size": "1328761188",
-                    "download": "886205328"
+                    "gid": "2022532413141925249",
+                    "size": "1339392554",
+                    "download": "893688864"
                 },
                 "sixty-four-bits": {
-                    "gid": "2864750189023819873",
-                    "size": "1334631849",
-                    "download": "887726384"
+                    "gid": "5713591192385636200",
+                    "size": "1336341963",
+                    "download": "891922416"
                 }
             },
             "decryptionkey": "dea5b83b8197ddc910cb22c7caabd8b124dff09a0516762f976cc7ec99eee9d6"
@@ -250,14 +250,14 @@
                     "download": "2637424"
                 },
                 "beta": {
-                    "gid": "8641766754242378080",
-                    "size": "9902390",
-                    "download": "3139104"
+                    "gid": "5668601452034570490",
+                    "size": "9905462",
+                    "download": "3150656"
                 },
                 "sixty-four-bits": {
-                    "gid": "7887724601719960513",
-                    "size": "10761584",
-                    "download": "3365184"
+                    "gid": "2703677967933081294",
+                    "size": "10766704",
+                    "download": "3367968"
                 }
             },
             "decryptionkey": "d5a6de2e69675220b9bdb081135da3d4e06e4efb72404a4fad3ca37a1d910ed7"
@@ -378,14 +378,14 @@
                     "download": "8248736"
                 },
                 "beta": {
-                    "gid": "8093508028777532403",
-                    "size": "30466103",
-                    "download": "7324512"
+                    "gid": "5455861035915235173",
+                    "size": "30289975",
+                    "download": "7308480"
                 },
                 "sixty-four-bits": {
-                    "gid": "7845543970256393938",
-                    "size": "25246596",
-                    "download": "6273008"
+                    "gid": "356611632509817071",
+                    "size": "24992644",
+                    "download": "6256064"
                 }
             },
             "decryptionkey": ""
@@ -506,14 +506,14 @@
                     "download": "3076832"
                 },
                 "beta": {
-                    "gid": "5556514027673333807",
-                    "size": "12446130",
-                    "download": "3708544"
+                    "gid": "7064322173164669217",
+                    "size": "12429706",
+                    "download": "3713056"
                 },
                 "sixty-four-bits": {
-                    "gid": "820741185274451309",
-                    "size": "13057866",
-                    "download": "3774816"
+                    "gid": "1476310619409506791",
+                    "size": "13057882",
+                    "download": "3782864"
                 }
             },
             "decryptionkey": ""
@@ -630,14 +630,14 @@
                 "timeupdated": "1685210854"
             },
             "beta": {
-                "buildid": "16984009",
+                "buildid": "17974089",
                 "description": "Future Sphinx version",
-                "timeupdated": "1736747257"
+                "timeupdated": "1743705363"
             },
             "sixty-four-bits": {
-                "buildid": "16984017",
+                "buildid": "17974389",
                 "description": "Early 64-bit EngineX testing",
-                "timeupdated": "1736747374"
+                "timeupdated": "1743748968"
             }
         },
         "privatebranches": "1",
