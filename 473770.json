@@ -4,8 +4,8 @@
     "name": "BallisticNG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27838824",
-    "update_time": "2025-03-08 00:13:13",
+    "change_number": "28294237",
+    "update_time": "2025-04-04 01:46:27",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "473770",
@@ -41,9 +41,9 @@
                     "download": "1516213504"
                 },
                 "development": {
-                    "gid": "1845432342975110774",
-                    "size": "3117428046",
-                    "download": "1707262624"
+                    "gid": "4757016410378752371",
+                    "size": "3117752630",
+                    "download": "1707289536"
                 }
             },
             "decryptionkey": "71af2036c0ca4d22db4835aa09ab4c787c858a885a575eb47aa8a252f49287d0"
@@ -62,7 +62,7 @@
                     "download": "8192"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "44dd0a75dd62c7e7a7b9c450e31eec9983ed1c2b58afbadfbb0b1f673aaee03f"
         },
         "473773": {
             "config": {
@@ -95,9 +95,9 @@
                     "download": "1492082464"
                 },
                 "development": {
-                    "gid": "2788360653645092297",
-                    "size": "3090459382",
-                    "download": "1681559488"
+                    "gid": "303218269012970342",
+                    "size": "3090783470",
+                    "download": "1683173568"
                 }
             },
             "decryptionkey": ""
@@ -133,9 +133,9 @@
                     "download": "1495905216"
                 },
                 "development": {
-                    "gid": "7685171713604788544",
-                    "size": "3079471528",
-                    "download": "1687819536"
+                    "gid": "2696328668591445737",
+                    "size": "3079796128",
+                    "download": "1685758576"
                 }
             },
             "decryptionkey": ""
@@ -179,9 +179,9 @@
                     "download": "129432432"
                 },
                 "development": {
-                    "gid": "8029700942254803324",
-                    "size": "170159688",
-                    "download": "129472016"
+                    "gid": "1834787305451358261",
+                    "size": "186438826",
+                    "download": "141571168"
                 }
             },
             "decryptionkey": "7da9689c80e35b9a9609b495759b2aa9453f2dc75c11d2a955c4f2f0dc5bf259"
@@ -210,7 +210,7 @@
                     "download": "88750608"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6366c283f1699156f85e65f2cf17428aaeecadc9689a2a8a991cb04de4566662"
         },
         "1596120": {
             "dlcappid": "1596120",
@@ -234,9 +234,9 @@
                 "timeupdated": "1701826954"
             },
             "development": {
-                "buildid": "17501217",
+                "buildid": "17823719",
                 "description": "In-development builds of the game.",
-                "timeupdated": "1740504536"
+                "timeupdated": "1742691975"
             }
         },
         "privatebranches": "1",
