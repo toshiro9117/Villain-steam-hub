@@ -4,8 +4,8 @@
     "name": "Human Fall Flat",
     "schinese_name": "人类一败涂地 / Human Fall Flat",
     "isfreeapp": "0",
-    "change_number": "28010768",
-    "update_time": "2025-03-18 18:02:03",
+    "change_number": "28303420",
+    "update_time": "2025-04-04 15:11:48",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,turkish,brazilian,ukrainian",
         "workshopdepot": "477160",
@@ -78,9 +78,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3924615015448687682",
-                    "size": "3131443377",
-                    "download": "910456448"
+                    "gid": "1411043900457074403",
+                    "size": "8704717006",
+                    "download": "2548002704"
                 }
             },
             "decryptionkey": "91b02c0aecb8688c5844032fe30518f25ac754a1b32ca68c91a6021623d06ebd"
@@ -97,8 +97,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17691395",
-                "timeupdated": "1741867532"
+                "buildid": "17809970",
+                "timeupdated": "1742573900"
             }
         },
         "privatebranches": "1",
