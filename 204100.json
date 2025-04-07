@@ -4,8 +4,8 @@
     "name": "Max Payne 3",
     "schinese_name": "马克思佩恩3",
     "isfreeapp": "0",
-    "change_number": "27971706",
-    "update_time": "2025-03-15 19:14:01",
+    "change_number": "28314615",
+    "update_time": "2025-04-05 02:18:30",
     "depot": {
         "overridescddb": "1",
         "204104": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6651028038410738984",
-                    "size": "34810277440",
-                    "download": "31924003280"
+                    "gid": "2018645313186401509",
+                    "size": "34810303040",
+                    "download": "31924006448"
                 }
             },
             "decryptionkey": "dce5aa99fab4fdb1bfb2ddd967d6d4ecd69b36ead35c7c44b5bbb0cf6be6af35"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "843735152679207593",
-                    "size": "23690216",
-                    "download": "8261344"
+                    "gid": "4567261895926818834",
+                    "size": "23715816",
+                    "download": "8264272"
                 }
             },
             "decryptionkey": "c05905041da5986ede4ce2fd3f66027e5e88b443d0316dda2efd19cdd7a72a62"
@@ -230,9 +230,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3069743124386259608",
-                    "size": "229581068",
-                    "download": "186115536"
+                    "gid": "5718000260924391145",
+                    "size": "227436300",
+                    "download": "183968240"
                 }
             },
             "depotfromapp": "1899670",
@@ -240,8 +240,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17709896",
-                "timeupdated": "1741874434"
+                "buildid": "17939828",
+                "timeupdated": "1743512456"
             }
         },
         "privatebranches": "1"
