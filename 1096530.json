@@ -4,8 +4,8 @@
     "name": "Solasta: Crown of the Magister",
     "schinese_name": "索拉斯塔：法师之冠",
     "isfreeapp": "0",
-    "change_number": "27862281",
-    "update_time": "2025-03-10 06:01:51",
+    "change_number": "28024228",
+    "update_time": "2025-03-19 09:21:54",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -98,6 +98,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "16022b541c53d839a28e07c63d1ee347f256990f4da9360d34081688e5b55896"
+        "workshopdepotdecryptionkey": ""
     }
 }
