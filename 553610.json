@@ -4,8 +4,8 @@
     "name": "ArsonVille",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27844223",
-    "update_time": "2025-03-08 06:07:36",
+    "change_number": "28334112",
+    "update_time": "2025-04-07 01:16:10",
     "depot": {
         "553611": {
             "config": {
@@ -62,7 +62,7 @@
                     "download": "17452336"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1d86f6f114290ee18532d1b1915e0035d70002e1dfc7c73fd98a5ea085d775bd"
         },
         "553615": {
             "config": {
@@ -81,7 +81,7 @@
                     "download": "17695920"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "724e9c28e1790eb626a5d67d8094816988fb1887c3dcb46e8d3e2b65181dd464"
         },
         "553612": {
             "config": {
@@ -99,7 +99,7 @@
                     "download": "26917056"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1ea9bae54df30a286e939266ccbf162c1f0678cd1ea63d17a63a78a4aa4b3888"
         },
         "branches": {
             "public": {
