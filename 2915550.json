@@ -4,8 +4,8 @@
     "name": "FOUNDRY: Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006906",
-    "update_time": "2025-03-18 12:53:22",
+    "change_number": "28336964",
+    "update_time": "2025-04-07 07:49:26",
     "depot": {
         "1004": {
             "config": {
@@ -68,7 +68,7 @@
                     "download": "1067599792"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c351825f444ce7a649c47935036391c1f3420a12a422c54b5c55df9d86bb11da"
         },
         "branches": {
             "public": {
