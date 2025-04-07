@@ -4,8 +4,8 @@
     "name": "Liftoff - Slipstream",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27955911",
-    "update_time": "2025-03-14 20:24:00",
+    "change_number": "28344390",
+    "update_time": "2025-04-07 19:16:27",
     "depot": {
         "2019791": {
             "config": {
@@ -55,7 +55,7 @@
                 }
             },
             "dlcappid": "2019790",
-            "decryptionkey": ""
+            "decryptionkey": "daa8f7e42649a06883c48ea3d1d15be0638a0bad59eb26fc3defa624219e54ae"
         },
         "2019793": {
             "config": {
@@ -80,7 +80,7 @@
                 }
             },
             "dlcappid": "2019790",
-            "decryptionkey": ""
+            "decryptionkey": "f8f340d15cb05436b21faf323b9d4190eab5673bae1d404decd1c388368f004a"
         },
         "branches": {
             "public": {
