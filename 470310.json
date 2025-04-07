@@ -4,8 +4,8 @@
     "name": "TROUBLESHOOTER: Abandoned Children",
     "schinese_name": "纷争终结者: 被遗弃的孩子们",
     "isfreeapp": "0",
-    "change_number": "27988889",
-    "update_time": "2025-03-17 15:22:40",
+    "change_number": "28303882",
+    "update_time": "2025-04-04 15:48:14",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese",
         "hasdepotsindlc": "0",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5175577686032967560",
-                    "size": "9288805167",
-                    "download": "8984008960"
+                    "gid": "1499512235240087144",
+                    "size": "9260690517",
+                    "download": "8982578640"
                 }
             },
             "decryptionkey": "71496290fe8b1b26d4f05f685a814ae2aca733398ad54ff24c2624593b50371a"
@@ -154,12 +154,12 @@
                     "download": "480"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6dd0aaa76393b3fa09d1cf22d6a270cdff2ab19bd125ef1e59747a0707788d15"
         },
         "branches": {
             "public": {
-                "buildid": "17748369",
-                "timeupdated": "1742196156"
+                "buildid": "17981271",
+                "timeupdated": "1743752891"
             }
         },
         "privatebranches": "1",
