@@ -4,8 +4,8 @@
     "name": "The Spell Brigade",
     "schinese_name": "咒语旅团",
     "isfreeapp": "0",
-    "change_number": "27896497",
-    "update_time": "2025-03-12 02:02:22",
+    "change_number": "28322205",
+    "update_time": "2025-04-05 17:16:28",
     "depot": {
         "2904001": {
             "config": {
@@ -16,11 +16,6 @@
                     "gid": "342894378737406449",
                     "size": "2332357350",
                     "download": "451393312"
-                },
-                "hotfix": {
-                    "gid": "955122036045472884",
-                    "size": "2260033323",
-                    "download": "439427936"
                 }
             },
             "decryptionkey": "1cea3f47529b0e53e7add1f7e63dcdf14634adfde24faf952128ad1034ee90e8"
@@ -34,11 +29,6 @@
                     "gid": "1127633228107027893",
                     "size": "2446511329",
                     "download": "491618544"
-                },
-                "hotfix": {
-                    "gid": "3504814841653903564",
-                    "size": "2373523702",
-                    "download": "479337568"
                 }
             },
             "decryptionkey": "de0044598316af4e08b7d4552491ebb9a7e3ad4e36d1705fc82b0510f1c01acc"
@@ -47,11 +37,6 @@
             "public": {
                 "buildid": "17676602",
                 "timeupdated": "1741697973"
-            },
-            "hotfix": {
-                "buildid": "17647374",
-                "description": "Lost progression hotfix",
-                "timeupdated": "1741448683"
             }
         },
         "privatebranches": "1"
