@@ -4,8 +4,8 @@
     "name": "The Anomaly Project",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27894687",
-    "update_time": "2025-03-12 00:22:10",
+    "change_number": "28225167",
+    "update_time": "2025-03-31 17:18:22",
     "depot": {
         "228989": {
             "config": {
@@ -31,27 +31,27 @@
         "2960771": {
             "manifests": {
                 "public": {
-                    "gid": "3842443025075092383",
-                    "size": "4859385022",
-                    "download": "4454690432"
+                    "gid": "7317478042329565161",
+                    "size": "6331094068",
+                    "download": "5915181088"
                 },
                 "test": {
-                    "gid": "3842443025075092383",
-                    "size": "4859385022",
-                    "download": "4454690432"
+                    "gid": "7317478042329565161",
+                    "size": "6331094068",
+                    "download": "5915181088"
                 }
             },
             "decryptionkey": "c754869c3fe7c99d217c5062703d4ebea5445911727691bb5fcc44129c45f4aa"
         },
         "branches": {
             "public": {
-                "buildid": "17399047",
-                "timeupdated": "1739831036"
+                "buildid": "17910082",
+                "timeupdated": "1743412694"
             },
             "test": {
-                "buildid": "17399047",
+                "buildid": "17910082",
                 "description": "Test server",
-                "timeupdated": "1739829284"
+                "timeupdated": "1743259541"
             }
         }
     }
