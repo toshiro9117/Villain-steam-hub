@@ -4,8 +4,8 @@
     "name": "Stone Story RPG",
     "schinese_name": "石头记",
     "isfreeapp": "0",
-    "change_number": "27988516",
-    "update_time": "2025-03-17 14:43:21",
+    "change_number": "28342312",
+    "update_time": "2025-04-07 17:03:55",
     "depot": {
         "603391": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5877093263559717424",
-                    "size": "346829001",
-                    "download": "250028240"
+                    "gid": "3878809128377262427",
+                    "size": "346828615",
+                    "download": "250028224"
                 },
                 "ssrpg-beta": {
-                    "gid": "5877093263559717424",
-                    "size": "346829001",
-                    "download": "250028240"
+                    "gid": "3956509133166293960",
+                    "size": "346864968",
+                    "download": "250034880"
                 }
             },
             "decryptionkey": ""
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "469236560641795599",
-                    "size": "322955220",
-                    "download": "243067760"
+                    "gid": "1511633916671658546",
+                    "size": "322954838",
+                    "download": "243069040"
                 },
                 "ssrpg-beta": {
-                    "gid": "469236560641795599",
-                    "size": "322955220",
-                    "download": "243067760"
+                    "gid": "896436878940442341",
+                    "size": "322990891",
+                    "download": "243079536"
                 }
             },
             "decryptionkey": "ff379050d5c8b734daf2792433e292569359c1dfae97471db8403ee5735433e2"
@@ -52,14 +52,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4539929025479290781",
-                    "size": "361834024",
-                    "download": "242689024"
+                    "gid": "3460127603374332352",
+                    "size": "361833654",
+                    "download": "242689744"
                 },
                 "ssrpg-beta": {
-                    "gid": "4539929025479290781",
-                    "size": "361834024",
-                    "download": "242689024"
+                    "gid": "6597798210179824239",
+                    "size": "361869704",
+                    "download": "242697488"
                 }
             },
             "decryptionkey": ""
@@ -81,17 +81,17 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f01819c5e6dfe2de05e04e4836c47dabef53643aecca9c1790d06a1dd87abf23"
         },
         "branches": {
             "public": {
-                "buildid": "17748064",
-                "timeupdated": "1742193796"
+                "buildid": "17805542",
+                "timeupdated": "1742618326"
             },
             "ssrpg-beta": {
-                "buildid": "17748064",
+                "buildid": "18008886",
                 "description": "Beta",
-                "timeupdated": "1742193767"
+                "timeupdated": "1744016629"
             }
         }
     }
