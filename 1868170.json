@@ -4,15 +4,15 @@
     "name": "Etrian Odyssey II HD",
     "schinese_name": "世界树的迷宫Ⅱ 诸王的圣杯 HD REMASTER",
     "isfreeapp": "0",
-    "change_number": "27990830",
-    "update_time": "2025-03-17 17:52:04",
+    "change_number": "28257123",
+    "update_time": "2025-04-02 06:00:44",
     "depot": {
         "1868171": {
             "manifests": {
                 "public": {
-                    "gid": "6018662417821747671",
-                    "size": "1242941182",
-                    "download": "718324224"
+                    "gid": "4738935848683178590",
+                    "size": "1251719934",
+                    "download": "723694064"
                 }
             },
             "decryptionkey": "f154df4a3db1d8bdc4a4d12e40437ffaae407bda2ade06184b6519e425beec5f"
@@ -31,8 +31,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "11680464",
-                "timeupdated": "1741989862"
+                "buildid": "17748933",
+                "timeupdated": "1743544838"
             }
         },
         "privatebranches": "1"
