@@ -4,8 +4,8 @@
     "name": "New World: Aeternum",
     "schinese_name": "新世界",
     "isfreeapp": "0",
-    "change_number": "27885037",
-    "update_time": "2025-03-11 14:10:41",
+    "change_number": "28242172",
+    "update_time": "2025-04-01 14:07:59",
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "1063731": {
             "manifests": {
                 "public": {
-                    "gid": "1318581506929832319",
-                    "size": "82048552803",
-                    "download": "71668323904"
+                    "gid": "1796477251214728052",
+                    "size": "82055307377",
+                    "download": "71672731216"
                 }
             },
             "decryptionkey": "3d40a764fce79086fca5d6ec9b71ab93a9b539b43510269327bcf68dc420081a"
@@ -47,9 +47,9 @@
             "dlcappid": "1716920",
             "manifests": {
                 "public": {
-                    "gid": "2109413005350653828",
-                    "size": "526762981",
-                    "download": "127738864"
+                    "gid": "7816758749354565920",
+                    "size": "526762469",
+                    "download": "127732048"
                 }
             },
             "decryptionkey": ""
@@ -58,9 +58,9 @@
             "dlcappid": "1210560",
             "manifests": {
                 "public": {
-                    "gid": "2127842386699638889",
+                    "gid": "2272686847508431509",
                     "size": "226725560",
-                    "download": "58978032"
+                    "download": "58977248"
                 }
             },
             "decryptionkey": ""
@@ -171,8 +171,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17626125",
-                "timeupdated": "1741673413"
+                "buildid": "17903291",
+                "timeupdated": "1743487676"
             }
         },
         "privatebranches": "1"
