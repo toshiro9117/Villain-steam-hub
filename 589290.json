@@ -4,8 +4,8 @@
     "name": "Holdfast: Nations At War",
     "schinese_name": "坚守：国家战争",
     "isfreeapp": "0",
-    "change_number": "28013556",
-    "update_time": "2025-03-18 21:07:18",
+    "change_number": "28309733",
+    "update_time": "2025-04-04 21:47:31",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "589290",
@@ -15,27 +15,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3793036941627044564",
-                    "size": "22749894891",
-                    "download": "8108461136"
+                    "gid": "9196505428175072768",
+                    "size": "21116973264",
+                    "download": "7537841152"
                 },
                 "beta": {
-                    "gid": "4554342529943185487",
-                    "size": "20897109207",
-                    "download": "7468351312"
+                    "gid": "9196505428175072768",
+                    "size": "21116973264",
+                    "download": "7537841152"
                 }
             },
             "decryptionkey": "a7c1417721600265bba5c83ede099119af0a65f1e2f3b341cc26c5cc7987b7b3"
         },
         "branches": {
             "public": {
-                "buildid": "17000660",
-                "timeupdated": "1736866067"
+                "buildid": "17968619",
+                "timeupdated": "1743695339"
             },
             "beta": {
-                "buildid": "17440387",
+                "buildid": "17968619",
                 "description": "Open beta branch",
-                "timeupdated": "1740077795"
+                "timeupdated": "1743695351"
             }
         },
         "privatebranches": "1",
