@@ -4,8 +4,8 @@
     "name": "SuperImage Pro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27973719",
-    "update_time": "2025-03-16 00:08:05",
+    "change_number": "28329631",
+    "update_time": "2025-04-06 13:17:30",
     "depot": {
         "228989": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2950584093168339000",
-                    "size": "329913617",
-                    "download": "137622320"
+                    "gid": "4598678393051296692",
+                    "size": "323750429",
+                    "download": "131751232"
                 },
                 "alpha": {
-                    "gid": "4906928638082601490",
-                    "size": "329298215",
-                    "download": "137126160"
+                    "gid": "4598678393051296692",
+                    "size": "323750429",
+                    "download": "131751232"
                 },
                 "image-specs-decoding": {
                     "gid": "650059515946318470",
@@ -40,13 +40,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17476834",
-                "timeupdated": "1740512598"
+                "buildid": "17801136",
+                "timeupdated": "1742581874"
             },
             "alpha": {
-                "buildid": "17566983",
+                "buildid": "17801136",
                 "description": "Alpha builds, MIGHT BE UNSTABLE!!!",
-                "timeupdated": "1740945216"
+                "timeupdated": "1742511250"
             },
             "image-specs-decoding": {
                 "buildid": "17737849",
