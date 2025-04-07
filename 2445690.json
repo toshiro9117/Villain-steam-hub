@@ -4,8 +4,8 @@
     "name": "Lost Castle 2",
     "schinese_name": "失落城堡2",
     "isfreeapp": "0",
-    "change_number": "27998779",
-    "update_time": "2025-03-18 01:19:21",
+    "change_number": "28283327",
+    "update_time": "2025-04-03 15:11:41",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "2445691": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3282170338725087320",
-                    "size": "4077955192",
-                    "download": "701255520"
+                    "gid": "8434204768487480251",
+                    "size": "1852539206",
+                    "download": "1182664800"
                 }
             },
             "decryptionkey": "58aa213ce335109a11490383c49a406f0bb7a5c68f2844e33e7883c4e70dc1b3"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4367560238758955868",
-                    "size": "4077955192",
-                    "download": "701424816"
+                    "gid": "679367771136442873",
+                    "size": "1852539206",
+                    "download": "1181854896"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17528703",
-                "timeupdated": "1740655436"
+                "buildid": "17940120",
+                "timeupdated": "1743514726"
             }
         },
         "privatebranches": "1"
