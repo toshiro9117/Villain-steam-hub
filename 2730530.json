@@ -4,23 +4,23 @@
     "name": "Syn-Chorus 01: The New Life",
     "schinese_name": "协律01：新生活",
     "isfreeapp": "0",
-    "change_number": "27990276",
-    "update_time": "2025-03-17 17:11:06",
+    "change_number": "28341561",
+    "update_time": "2025-04-07 16:12:13",
     "depot": {
         "2730531": {
             "manifests": {
                 "public": {
-                    "gid": "2967444523376227451",
-                    "size": "18865273190",
-                    "download": "2449097184"
+                    "gid": "7304384777139644599",
+                    "size": "18876969305",
+                    "download": "2451137056"
                 }
             },
             "decryptionkey": "9b15757dca69a84c6e9b59b81bb72bb691693e11dfb633537772b33eab89a6ae"
         },
         "branches": {
             "public": {
-                "buildid": "17749199",
-                "timeupdated": "1742202659"
+                "buildid": "18008311",
+                "timeupdated": "1744013523"
             }
         },
         "privatebranches": "1"
