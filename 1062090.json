@@ -4,8 +4,8 @@
     "name": "Timberborn",
     "schinese_name": "海狸浮生记 Timberborn",
     "isfreeapp": "0",
-    "change_number": "27985455",
-    "update_time": "2025-03-17 08:21:39",
+    "change_number": "28318697",
+    "update_time": "2025-04-05 08:11:13",
     "depot": {
         "228988": {
             "config": {
@@ -34,9 +34,9 @@
                     "download": "924975312"
                 },
                 "experimental": {
-                    "gid": "677822986645735818",
-                    "size": "2054320975",
-                    "download": "985132704"
+                    "gid": "3862134687301058800",
+                    "size": "2055353093",
+                    "download": "986030432"
                 },
                 "old-0.0": {
                     "gid": "3617753957323826031",
@@ -83,9 +83,9 @@
                     "download": "933509472"
                 },
                 "experimental": {
-                    "gid": "1623546143698885787",
-                    "size": "2063985512",
-                    "download": "990002752"
+                    "gid": "7440472184689462225",
+                    "size": "2064843679",
+                    "download": "990765760"
                 },
                 "old-0.0": {
                     "gid": "2167248415237250361",
@@ -128,9 +128,9 @@
                 "timeupdated": "1738928165"
             },
             "experimental": {
-                "buildid": "17585298",
+                "buildid": "17970470",
                 "description": "Experimental branch",
-                "timeupdated": "1741076933"
+                "timeupdated": "1743686139"
             },
             "old-0.0": {
                 "buildid": "7817926",
