@@ -4,8 +4,8 @@
     "name": "Bombe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27730095",
-    "update_time": "2025-03-01 13:22:30",
+    "change_number": "28233401",
+    "update_time": "2025-04-01 01:53:20",
     "depot": {
         "228988": {
             "config": {
@@ -20,14 +20,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2322545749579031610",
-                    "size": "89144443",
-                    "download": "59256816"
+                    "gid": "3300811402653372191",
+                    "size": "89188076",
+                    "download": "59300208"
                 },
                 "testing": {
-                    "gid": "2322545749579031610",
-                    "size": "89144443",
-                    "download": "59256816"
+                    "gid": "3300811402653372191",
+                    "size": "89188076",
+                    "download": "59300208"
                 }
             },
             "decryptionkey": "a4988f49f480c7124865b393dbd99b5d8ee316574f6d4168ee3fb0d5063bcff4"
@@ -38,14 +38,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4359391525153650387",
-                    "size": "107813323",
-                    "download": "65027312"
+                    "gid": "5175599579223801012",
+                    "size": "108044852",
+                    "download": "65114320"
                 },
                 "testing": {
-                    "gid": "4359391525153650387",
-                    "size": "107813323",
-                    "download": "65027312"
+                    "gid": "5175599579223801012",
+                    "size": "108044852",
+                    "download": "65114320"
                 }
             },
             "decryptionkey": ""
@@ -56,27 +56,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3226118855154412564",
-                    "size": "105687251",
-                    "download": "63364784"
+                    "gid": "8936934594091567170",
+                    "size": "105719364",
+                    "download": "63408688"
                 },
                 "testing": {
-                    "gid": "3226118855154412564",
-                    "size": "105687251",
-                    "download": "63364784"
+                    "gid": "8936934594091567170",
+                    "size": "105719364",
+                    "download": "63408688"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16823685",
-                "timeupdated": "1736693128"
+                "buildid": "17928361",
+                "timeupdated": "1743443373"
             },
             "testing": {
-                "buildid": "16823685",
+                "buildid": "17928361",
                 "description": " Testing branch for unstable and experimental",
-                "timeupdated": "1734784355"
+                "timeupdated": "1743443402"
             }
         }
     }
