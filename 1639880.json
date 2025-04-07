@@ -4,8 +4,8 @@
     "name": "Longvinter Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28009440",
-    "update_time": "2025-03-18 16:47:25",
+    "change_number": "28306215",
+    "update_time": "2025-04-04 18:14:40",
     "depot": {
         "1004": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2062657984345422567",
-                    "size": "1756262551",
-                    "download": "420511776"
+                    "gid": "4900638197489129207",
+                    "size": "998110565",
+                    "download": "274658112"
                 },
                 "1.10b": {
                     "gid": "2303407881568629235",
@@ -81,9 +81,9 @@
                     "download": "264773344"
                 },
                 "experimental": {
-                    "gid": "2062657984345422567",
-                    "size": "1756262551",
-                    "download": "420511776"
+                    "gid": "4900638197489129207",
+                    "size": "998110565",
+                    "download": "274658112"
                 }
             },
             "decryptionkey": "9f45c1b5438f2a6ffdd7dd4075f7d3264801bdb7b0a0fa6ab3bd189114356ed6"
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3426447667119922258",
-                    "size": "913358840",
-                    "download": "220317104"
+                    "gid": "5309344161063281822",
+                    "size": "1020556225",
+                    "download": "229460592"
                 },
                 "1.10b": {
                     "gid": "582378037886370378",
@@ -120,9 +120,9 @@
                     "download": "212414544"
                 },
                 "experimental": {
-                    "gid": "3426447667119922258",
-                    "size": "913358840",
-                    "download": "220317104"
+                    "gid": "5309344161063281822",
+                    "size": "1020556225",
+                    "download": "229460592"
                 }
             },
             "decryptionkey": ""
@@ -130,8 +130,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17762622",
-                "timeupdated": "1742287641"
+                "buildid": "17983093",
+                "timeupdated": "1743761674"
             },
             "1.10b": {
                 "buildid": "11252688",
@@ -154,9 +154,9 @@
                 "timeupdated": "1740125808"
             },
             "experimental": {
-                "buildid": "17762622",
+                "buildid": "17983093",
                 "description": "For testing",
-                "timeupdated": "1742287246"
+                "timeupdated": "1743761636"
             }
         },
         "privatebranches": "1"
