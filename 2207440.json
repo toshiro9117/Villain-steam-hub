@@ -4,8 +4,8 @@
     "name": "LOK Digital",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27476956",
-    "update_time": "2025-02-14 18:16:10",
+    "change_number": "28309176",
+    "update_time": "2025-04-04 21:18:57",
     "depot": {
         "baselanguages": "",
         "2207441": {
@@ -19,9 +19,9 @@
                     "download": "180888624"
                 },
                 "bugfix-test": {
-                    "gid": "5834956934049195427",
-                    "size": "476215849",
-                    "download": "180665616"
+                    "gid": "4596650394374602410",
+                    "size": "566091934",
+                    "download": "190181216"
                 }
             },
             "decryptionkey": "e171b3127fe1a0ed8eb58a70c0009d464410f14da0a923de00b339455bd5b2dd"
@@ -37,9 +37,9 @@
                     "download": "190088192"
                 },
                 "bugfix-test": {
-                    "gid": "2743813266622103082",
-                    "size": "507305293",
-                    "download": "189862320"
+                    "gid": "5393055560768804765",
+                    "size": "597185488",
+                    "download": "199356848"
                 }
             },
             "decryptionkey": ""
@@ -55,9 +55,9 @@
                     "download": "181403056"
                 },
                 "bugfix-test": {
-                    "gid": "6155998229284297637",
-                    "size": "480313775",
-                    "download": "181183760"
+                    "gid": "3634801073588476594",
+                    "size": "566170611",
+                    "download": "187649744"
                 }
             },
             "decryptionkey": ""
@@ -68,9 +68,9 @@
                 "timeupdated": "1736721094"
             },
             "bugfix-test": {
-                "buildid": "16870381",
+                "buildid": "17364839",
                 "description": "To publicly test potential bugfixes",
-                "timeupdated": "1735482840"
+                "timeupdated": "1743772733"
             }
         },
         "privatebranches": "1"
