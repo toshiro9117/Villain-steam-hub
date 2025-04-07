@@ -4,8 +4,8 @@
     "name": "Monomyth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27497200",
-    "update_time": "2025-02-16 04:12:53",
+    "change_number": "28330788",
+    "update_time": "2025-04-06 17:10:13",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "3214966336"
                 },
                 "testing": {
-                    "gid": "8095116580776462296",
-                    "size": "3457891337",
-                    "download": "3214966336"
+                    "gid": "4741771166192351803",
+                    "size": "4332142660",
+                    "download": "4091132480"
                 }
             },
             "decryptionkey": "f004ab45afada2c657ed7a32dd0a281a9b0df9056fe522c9d4c74390d82b5b9d"
@@ -42,9 +42,9 @@
                 "timeupdated": "1734722082"
             },
             "testing": {
-                "buildid": "16805043",
+                "buildid": "17999517",
                 "description": "Public testing branch",
-                "timeupdated": "1734641610"
+                "timeupdated": "1743908677"
             }
         }
     }
