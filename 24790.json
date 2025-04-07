@@ -4,8 +4,8 @@
     "name": "Command & Conquer 3: Tiberium Wars™",
     "schinese_name": "《命令与征服3：泰伯利亚战争》",
     "isfreeapp": "0",
-    "change_number": "27892927",
-    "update_time": "2025-03-11 22:52:43",
+    "change_number": "28076389",
+    "update_time": "2025-03-22 00:45:25",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,polish,dutch,swedish,hungarian,czech",
@@ -214,7 +214,7 @@
                     "download": "2787984"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1c695a8de35fe7a20c1dd1f0217bcdaeead18b0cec2192bfbf9fc9460b94eaf1"
         },
         "workshopdepot": "24790",
         "branches": {
