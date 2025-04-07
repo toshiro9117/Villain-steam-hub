@@ -4,8 +4,8 @@
     "name": "Street Legal 1: REVision",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27780013",
-    "update_time": "2025-03-05 02:09:13",
+    "change_number": "28107542",
+    "update_time": "2025-03-24 19:37:47",
     "depot": {
         "228983": {
             "config": {
@@ -45,9 +45,9 @@
                     "download": "387131456"
                 },
                 "public-beta": {
-                    "gid": "2091433503601944432",
-                    "size": "532683240",
-                    "download": "286550928"
+                    "gid": "2344919184231313303",
+                    "size": "532701583",
+                    "download": "286553200"
                 }
             },
             "decryptionkey": "d33375e12be9522b8041622f7a083648f2f49feec3e6b0341c262ecbb0b44e46"
@@ -65,9 +65,9 @@
                 "timeupdated": "1614981198"
             },
             "public-beta": {
-                "buildid": "17592975",
+                "buildid": "17834973",
                 "description": "Controller Test",
-                "timeupdated": "1741111735"
+                "timeupdated": "1742816260"
             }
         },
         "workshopdepotdecryptionkey": ""
