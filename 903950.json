@@ -4,8 +4,8 @@
     "name": "Last Oasis",
     "schinese_name": "最后的绿洲",
     "isfreeapp": "0",
-    "change_number": "27851511",
-    "update_time": "2025-03-08 22:55:31",
+    "change_number": "28275122",
+    "update_time": "2025-04-03 03:27:04",
     "depot": {
         "228989": {
             "config": {
@@ -35,24 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2992454486838093857",
-                    "size": "20756976552",
-                    "download": "19954482080"
-                },
-                "betabranch": {
-                    "gid": "3452166190498436875",
-                    "size": "25419514754",
-                    "download": "24307533584"
+                    "gid": "6086372743302901374",
+                    "size": "25556680576",
+                    "download": "24447482768"
                 },
                 "classic": {
                     "gid": "541509903396589753",
                     "size": "20961441708",
                     "download": "20242326096"
-                },
-                "sdktest": {
-                    "gid": "1890714658344893368",
-                    "size": "25556611968",
-                    "download": "24446347312"
                 }
             },
             "decryptionkey": "ff12e0c2a6e6ffd00cd305eb3f8a404cb932e582b33a6fe524de975d447072d1"
@@ -60,23 +50,13 @@
         "workshopdepot": "903950",
         "branches": {
             "public": {
-                "buildid": "10003219",
-                "timeupdated": "1669246783"
-            },
-            "betabranch": {
-                "buildid": "9067771",
-                "description": "Beta branch",
-                "timeupdated": "1657072381"
+                "buildid": "17885973",
+                "timeupdated": "1743093928"
             },
             "classic": {
                 "buildid": "9193433",
                 "description": "Classic S4",
                 "timeupdated": "1658848552"
-            },
-            "sdktest": {
-                "buildid": "17647183",
-                "description": "SDK Test",
-                "timeupdated": "1741445726"
             }
         },
         "privatebranches": "1",
