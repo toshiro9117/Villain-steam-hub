@@ -4,8 +4,8 @@
     "name": "Star Wars Outlaws",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27973378",
-    "update_time": "2025-03-15 23:21:40",
+    "change_number": "28336151",
+    "update_time": "2025-04-07 05:43:24",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228989": {
@@ -25,9 +25,9 @@
         "2842041": {
             "manifests": {
                 "public": {
-                    "gid": "4564177211167994774",
-                    "size": "67467955947",
-                    "download": "59104525488"
+                    "gid": "9042079270922835296",
+                    "size": "67805320469",
+                    "download": "59346544544"
                 }
             },
             "decryptionkey": "bed1b2aedb9b823e084bde3a15663caf8f50feaadd104bba0c7e474540a11f43"
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8326743915138561277",
-                    "size": "2390944161",
-                    "download": "2252613552"
+                    "gid": "6596515840944274477",
+                    "size": "2411829852",
+                    "download": "2269040384"
                 }
             },
             "decryptionkey": "110e9180cab6db688b21cc6f16820d8197b333d0c1d88b66da81d43753a9c786"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3115969039854852226",
-                    "size": "2547289168",
-                    "download": "2402521888"
+                    "gid": "4458353435930819",
+                    "size": "2569587765",
+                    "download": "2419275840"
                 }
             },
             "decryptionkey": "2d98d4345bb461b3ee9574d5e4f00cf62e968042031e7d7361b3d15d09282788"
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "584608280307376218",
-                    "size": "2720419445",
-                    "download": "2572327440"
+                    "gid": "6975703995784537551",
+                    "size": "2742922661",
+                    "download": "2589293968"
                 }
             },
             "decryptionkey": ""
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5126213669074009229",
-                    "size": "2637129426",
-                    "download": "2495872432"
+                    "gid": "6668316624464142974",
+                    "size": "2659737948",
+                    "download": "2512970704"
                 }
             },
             "decryptionkey": "845fbe248a74375c3dda44984552af44018332d3b7f355dce4d1c833727e0a42"
@@ -90,9 +90,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1892202292799621303",
-                    "size": "2605532112",
-                    "download": "2457012560"
+                    "gid": "9074332820694038601",
+                    "size": "2628016451",
+                    "download": "2473963824"
                 }
             },
             "decryptionkey": ""
@@ -101,9 +101,9 @@
             "dlcappid": "3271130",
             "manifests": {
                 "public": {
-                    "gid": "2401643850165952997",
-                    "size": "1193232764",
-                    "download": "1096933440"
+                    "gid": "6201374884478353732",
+                    "size": "1193346374",
+                    "download": "1097001040"
                 }
             },
             "decryptionkey": "cd4259d93979d9d480227cf581dbb3855b238747fa76988d8c94da591300669e"
@@ -125,8 +125,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17393494",
-                "timeupdated": "1740646861"
+                "buildid": "17848890",
+                "timeupdated": "1743667248"
             }
         },
         "privatebranches": "1"
