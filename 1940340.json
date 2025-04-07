@@ -4,8 +4,8 @@
     "name": "Darkest Dungeon® II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006095",
-    "update_time": "2025-03-18 11:19:52",
+    "change_number": "28320126",
+    "update_time": "2025-04-05 11:25:43",
     "depot": {
         "workshopdepot": "1940340",
         "1940341": {
@@ -124,6 +124,22 @@
                 }
             },
             "decryptionkey": "b1b962b48dd30d0bca610ea61a17f745d8e60bf227f5b60c93ce056739650224"
+        },
+        "3591040": {
+            "dlcappid": "3591040",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3591041": {
+            "dlcappid": "3591040",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
