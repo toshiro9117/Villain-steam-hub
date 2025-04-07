@@ -4,8 +4,8 @@
     "name": "The Chronicles Of Myrtana: Archolos",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27980094",
-    "update_time": "2025-03-16 18:49:06",
+    "change_number": "28344162",
+    "update_time": "2025-04-07 19:00:18",
     "depot": {
         "baselanguages": "english,german,italian,spanish,russian,polish,latam",
         "hasdepotsindlc": "0",
@@ -637,9 +637,9 @@
                     "download": "184759792"
                 },
                 "crowdin": {
-                    "gid": "9045648437693877637",
-                    "size": "237095111",
-                    "download": "184758384"
+                    "gid": "7673439414989570033",
+                    "size": "237095785",
+                    "download": "184759456"
                 }
             }
         },
@@ -876,9 +876,9 @@
             },
             "manifests": {
                 "crowdin": {
-                    "gid": "1524931735425070865",
-                    "size": "237995954",
-                    "download": "184757776"
+                    "gid": "4723467077771703542",
+                    "size": "237995679",
+                    "download": "184756656"
                 }
             }
         },
@@ -1014,9 +1014,9 @@
                 "timeupdated": "1673553731"
             },
             "crowdin": {
-                "buildid": "17662634",
+                "buildid": "18003531",
                 "description": "Weekly localization build",
-                "timeupdated": "1741615923"
+                "timeupdated": "1743966527"
             }
         },
         "privatebranches": "1",
