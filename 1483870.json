@@ -4,8 +4,8 @@
     "name": "Draw & Guess",
     "schinese_name": "Draw & Guess - 你画我猜",
     "isfreeapp": "0",
-    "change_number": "27771685",
-    "update_time": "2025-03-04 18:12:37",
+    "change_number": "28247748",
+    "update_time": "2025-04-01 20:05:16",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
         "1483871": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2438359968945846753",
-                    "size": "696949461",
-                    "download": "467176176"
+                    "gid": "7674535180755519294",
+                    "size": "813831072",
+                    "download": "545126320"
                 }
             },
             "decryptionkey": "3e39df44a18dd1013bc7a6a9fcb645852308303acb9901fca0686753cd371508"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1428475024865971207",
-                    "size": "788884470",
-                    "download": "468988560"
+                    "gid": "4043327116787599761",
+                    "size": "862481057",
+                    "download": "545873760"
                 }
             },
             "decryptionkey": "6b21827b939f59ad3d9eda1d3059d61b71712e7d456d0d3a97fbb37956ee87c6"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8432809236460246791",
-                    "size": "727124593",
-                    "download": "472278736"
+                    "gid": "4310504646979386700",
+                    "size": "834170028",
+                    "download": "548457104"
                 }
             },
             "decryptionkey": "42b18e61776276b0d3cd1bbb0ddde9c35284f6cdc57a88fd55c8f20cd3d78660"
@@ -50,11 +50,11 @@
         "workshopdepot": "1483870",
         "branches": {
             "public": {
-                "buildid": "17587084",
-                "timeupdated": "1741083154"
+                "buildid": "17937855",
+                "timeupdated": "1743509109"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "546615c12ff0cd0f8ec72ea33c332f3b2014f3dbd02940fe312ab327934d6258"
+        "workshopdepotdecryptionkey": ""
     }
 }
