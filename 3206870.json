@@ -4,8 +4,8 @@
     "name": "Claritas - Dungeon Crawler RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27464551",
-    "update_time": "2025-02-14 01:47:18",
+    "change_number": "28279582",
+    "update_time": "2025-04-03 09:19:14",
     "depot": {
         "3206872": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "201758268572356182",
-                    "size": "503645203",
-                    "download": "302656176"
+                    "gid": "4061010282137470970",
+                    "size": "503649576",
+                    "download": "302662448"
                 }
             },
             "decryptionkey": "c7b3d690ff7542621099a5aa0ab49089334e0ecac3f9be1c6c89546f3f2c3900"
@@ -28,12 +28,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5588872334805782431",
-                    "size": "503493262",
-                    "download": "297207264"
+                    "gid": "4531871675252423602",
+                    "size": "503497635",
+                    "download": "297213536"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "06253b5ff34bedf1eabee831e68957f7bd5ffbcc4e8530f61f3cec9fec6fcf3c"
         },
         "3206874": {
             "config": {
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7486875391261533883",
-                    "size": "474762521",
-                    "download": "294246704"
+                    "gid": "2153855560888555894",
+                    "size": "474766894",
+                    "download": "294252912"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a03c384ca0311aa05d9893afc1d1388e147f79023f531714b250af2571c1f213"
         },
         "branches": {
             "public": {
-                "buildid": "17474612",
-                "timeupdated": "1740329455"
+                "buildid": "17912085",
+                "timeupdated": "1743284629"
             }
         }
     }
