@@ -4,8 +4,8 @@
     "name": "Five Nations",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26695625",
-    "update_time": "2024-12-18 21:26:43",
+    "change_number": "28098943",
+    "update_time": "2025-03-24 04:15:11",
     "depot": {
         "hasdepotsindlc": "1",
         "1565671": {
@@ -16,27 +16,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1907011454958206255",
-                    "size": "955109008",
-                    "download": "755049216"
+                    "gid": "4914506299160731945",
+                    "size": "955184528",
+                    "download": "755109712"
                 },
                 "beta": {
-                    "gid": "8763412302019506806",
-                    "size": "952111789",
-                    "download": "754180768"
+                    "gid": "6553529746877216584",
+                    "size": "955185013",
+                    "download": "755110064"
                 }
             },
             "decryptionkey": "9de29ff07cbb643417f95c1c5d0016ec3de69b66022e0ccb3c9e6ebf07fe5415"
         },
         "branches": {
             "public": {
-                "buildid": "16181308",
-                "timeupdated": "1729863892"
+                "buildid": "17828435",
+                "timeupdated": "1742760842"
             },
             "beta": {
-                "buildid": "16787256",
+                "buildid": "17785946",
                 "description": "Beta branch for early testing features",
-                "timeupdated": "1734528395"
+                "timeupdated": "1742418277"
             }
         }
     }
