@@ -4,8 +4,8 @@
     "name": "Sphere Game Epic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27307556",
-    "update_time": "2025-02-04 21:33:10",
+    "change_number": "28237474",
+    "update_time": "2025-04-01 06:40:04",
     "depot": {
         "229007": {
             "config": {
@@ -34,17 +34,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "593513641125191474",
-                    "size": "388087419",
-                    "download": "209110016"
+                    "gid": "8494745026503247065",
+                    "size": "364941423",
+                    "download": "208167920"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "8040424",
-                "timeupdated": "1642509712"
+                "buildid": "17931299",
+                "timeupdated": "1743460799"
             }
         }
     }
