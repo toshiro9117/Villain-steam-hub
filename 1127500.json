@@ -4,8 +4,8 @@
     "name": "Mini Motorways",
     "schinese_name": "迷你高速公路",
     "isfreeapp": "0",
-    "change_number": "27998728",
-    "update_time": "2025-03-18 01:15:49",
+    "change_number": "28299259",
+    "update_time": "2025-04-04 08:12:16",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
         "1127501": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1289586986452362746",
-                    "size": "212275770",
-                    "download": "139470816"
+                    "gid": "161334700769308345",
+                    "size": "212438328",
+                    "download": "139637024"
                 },
                 "1.10_endless_expert": {
                     "gid": "5639111916594631275",
@@ -40,9 +40,9 @@
                     "download": "138455936"
                 },
                 "1.15_down_under": {
-                    "gid": "4828265797970559162",
-                    "size": "212283693",
-                    "download": "139478128"
+                    "gid": "1289586986452362746",
+                    "size": "212275770",
+                    "download": "139470816"
                 }
             },
             "decryptionkey": "c1b7fefed0a17bebcfa13ab61bafc384337f754070c6416f49f01aed46681347"
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4897430277210801163",
-                    "size": "252068744",
-                    "download": "146757344"
+                    "gid": "3205423158378798775",
+                    "size": "252246534",
+                    "download": "146926816"
                 },
                 "1.10_endless_expert": {
                     "gid": "4176864338619032587",
@@ -79,17 +79,17 @@
                     "download": "145737328"
                 },
                 "1.15_down_under": {
-                    "gid": "628639913771491590",
-                    "size": "252069951",
-                    "download": "146759680"
+                    "gid": "4897430277210801163",
+                    "size": "252068744",
+                    "download": "146757344"
                 }
             },
             "decryptionkey": "f07e3a41d1d1604a0f30e31b8af4d25bb59a61e0938696f75b2a774502c19e4f"
         },
         "branches": {
             "public": {
-                "buildid": "16932973",
-                "timeupdated": "1737062552"
+                "buildid": "17686041",
+                "timeupdated": "1743452908"
             },
             "1.10_endless_expert": {
                 "buildid": "11143143",
@@ -112,9 +112,9 @@
                 "timeupdated": "1733775948"
             },
             "1.15_down_under": {
-                "buildid": "16320274",
+                "buildid": "16932973",
                 "description": "A snapshot of the game for the Down Under update",
-                "timeupdated": "1737062298"
+                "timeupdated": "1743452512"
             }
         },
         "privatebranches": "1"
