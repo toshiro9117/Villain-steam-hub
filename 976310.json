@@ -4,8 +4,8 @@
     "name": "Mortal Kombat 11",
     "schinese_name": "真人快打11",
     "isfreeapp": "0",
-    "change_number": "27216863",
-    "update_time": "2025-01-29 20:12:29",
+    "change_number": "28144329",
+    "update_time": "2025-03-26 15:09:07",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,arabic,brazilian,latam",
         "workshopdepot": "976310",
@@ -101,6 +101,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "b55a8bb9b15f963446c6555e564422e54ea199cd933c33ea19461c0ccf3ea34b"
+        "workshopdepotdecryptionkey": ""
     }
 }
