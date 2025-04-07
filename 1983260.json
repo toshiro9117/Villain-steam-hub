@@ -4,8 +4,8 @@
     "name": "Dungeons of Hinterberg",
     "schinese_name": "辛特堡传说 / Dungeons of Hinterberg",
     "isfreeapp": "0",
-    "change_number": "27993866",
-    "update_time": "2025-03-17 21:16:44",
+    "change_number": "28305588",
+    "update_time": "2025-04-04 17:37:05",
     "depot": {
         "228988": {
             "config": {
@@ -18,9 +18,9 @@
         "1983261": {
             "manifests": {
                 "public": {
-                    "gid": "6291755226109832765",
-                    "size": "8598671390",
-                    "download": "2747755872"
+                    "gid": "3295133073982250740",
+                    "size": "8598623334",
+                    "download": "2747744400"
                 },
                 "speedrunning": {
                     "gid": "2209701921048698505",
@@ -79,8 +79,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17710704",
-                "timeupdated": "1741877996"
+                "buildid": "17781123",
+                "timeupdated": "1742392885"
             },
             "speedrunning": {
                 "buildid": "15379902",
