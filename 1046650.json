@@ -4,8 +4,8 @@
     "name": "Hentai Pair",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26764899",
-    "update_time": "2024-12-24 01:21:50",
+    "change_number": "28216745",
+    "update_time": "2025-03-31 01:36:27",
     "depot": {
         "baselanguages": "english",
         "1046651": {
@@ -26,7 +26,7 @@
                 "oslist": "windows"
             }
         },
-        "hasdepotsindlc": "0",
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "4114439",
