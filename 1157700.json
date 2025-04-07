@@ -4,8 +4,8 @@
     "name": "Pro Wrestling Sim",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27848891",
-    "update_time": "2025-03-08 16:06:51",
+    "change_number": "28210274",
+    "update_time": "2025-03-30 06:38:53",
     "depot": {
         "228989": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5283010671036918124",
-                    "size": "588964508",
-                    "download": "320082368"
+                    "gid": "5228154064588204079",
+                    "size": "588995644",
+                    "download": "320084112"
                 }
             },
             "decryptionkey": "bfff8bd2105e9dd7d3368885e07e0c04e7f54e524811e9c2f9cee3b67c96804f"
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "163979755193379791",
-                    "size": "744069844",
-                    "download": "367979472"
+                    "gid": "8684002959336972905",
+                    "size": "744101112",
+                    "download": "367983536"
                 }
             },
             "decryptionkey": ""
@@ -47,17 +47,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "403363087061488451",
-                    "size": "589372097",
-                    "download": "316017888"
+                    "gid": "4354867145670470241",
+                    "size": "589403229",
+                    "download": "316019760"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17609434",
-                "timeupdated": "1741421208"
+                "buildid": "17912337",
+                "timeupdated": "1743287908"
             }
         },
         "privatebranches": "1",
