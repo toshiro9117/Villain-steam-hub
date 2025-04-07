@@ -4,15 +4,15 @@
     "name": "Alaloth - Champions of The Four Kingdoms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976757",
-    "update_time": "2025-03-16 07:53:28",
+    "change_number": "28330490",
+    "update_time": "2025-04-06 16:16:42",
     "depot": {
         "919361": {
             "manifests": {
                 "public": {
-                    "gid": "7552689482879252861",
-                    "size": "14230093703",
-                    "download": "8140175488"
+                    "gid": "308353256769590696",
+                    "size": "14249068591",
+                    "download": "8148429120"
                 }
             },
             "decryptionkey": "58d9c2d65e5d967a7ce16b9e794a0a8b6e87aa144979e0d34b27fe259c768672"
@@ -51,8 +51,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17311986",
-                "timeupdated": "1739218946"
+                "buildid": "17957573",
+                "timeupdated": "1743611410"
             }
         },
         "privatebranches": "1"
