@@ -4,8 +4,8 @@
     "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
     "schinese_name": "忍者神龟：破碎命运",
     "isfreeapp": "0",
-    "change_number": "28012368",
-    "update_time": "2025-03-18 19:49:38",
+    "change_number": "28343497",
+    "update_time": "2025-04-07 18:14:21",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian,latam",
         "228988": {
@@ -18,9 +18,9 @@
         "2996041": {
             "manifests": {
                 "public": {
-                    "gid": "798008373658936648",
-                    "size": "3897473028",
-                    "download": "1544547920"
+                    "gid": "8439375785393323213",
+                    "size": "3899779797",
+                    "download": "1545670464"
                 },
                 "local": {
                     "gid": "4337140281606553610",
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17453216",
-                "timeupdated": "1740415236"
+                "buildid": "17857915",
+                "timeupdated": "1742978235"
             },
             "local": {
                 "buildid": "15018156",
