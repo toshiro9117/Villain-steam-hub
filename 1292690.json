@@ -4,8 +4,8 @@
     "name": "Corruption of Champions II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27985450",
-    "update_time": "2025-03-17 08:21:15",
+    "change_number": "28222254",
+    "update_time": "2025-03-31 13:14:42",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2978366604322961372",
-                    "size": "633751653",
-                    "download": "558536176"
+                    "gid": "3196249983545373064",
+                    "size": "640334371",
+                    "download": "564725168"
                 }
             },
             "decryptionkey": "72b67b79a37f90150100e29f681d9fcf6724f28885e8e75f6b6b0919e399f225"
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "847319704073876402",
+                    "gid": "1160145274652841663",
                     "size": "189781010",
-                    "download": "66600576"
+                    "download": "66600480"
                 }
             },
             "decryptionkey": "e2a36d3b055dadd2081a3699d0c798f57bb05fc69936826dc08982c81d5e3b26"
@@ -59,8 +59,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17396217",
-                "timeupdated": "1739812266"
+                "buildid": "17788388",
+                "timeupdated": "1742435830"
             }
         },
         "privatebranches": "1"
