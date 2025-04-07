@@ -4,8 +4,8 @@
     "name": "Mineral Defense",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28009564",
-    "update_time": "2025-03-18 16:56:35",
+    "change_number": "28265213",
+    "update_time": "2025-04-02 17:48:30",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6274752237525523035",
-                    "size": "890425158",
-                    "download": "672293648"
+                    "gid": "294517459348845369",
+                    "size": "917675798",
+                    "download": "700031088"
+                },
+                "nightly": {
+                    "gid": "3566310034933850767",
+                    "size": "915625330",
+                    "download": "700080128"
                 }
             },
             "decryptionkey": "a7a9b39f854c3b38cfd2c6605ee1b6926b5799dd7e2f03d3b5a17c9d27f4c7f9"
@@ -42,17 +47,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6220393342844009085",
-                    "size": "797385233",
-                    "download": "585273472"
+                    "gid": "3644279254906966773",
+                    "size": "791686510",
+                    "download": "579701216"
+                },
+                "nightly": {
+                    "gid": "7217349235157205643",
+                    "size": "791589017",
+                    "download": "579322096"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17708910",
-                "timeupdated": "1741869991"
+                "buildid": "17894379",
+                "timeupdated": "1743147915"
+            },
+            "nightly": {
+                "buildid": "17952501",
+                "description": "Where the latest changes will be available. Has a greater chance of issues ands bugs.",
+                "timeupdated": "1743587303"
             }
         },
         "privatebranches": "1"
