@@ -4,17 +4,17 @@
     "name": "StarMade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27768337",
-    "update_time": "2025-03-04 14:28:45",
+    "change_number": "28202208",
+    "update_time": "2025-03-29 10:22:47",
     "depot": {
         "overridescddb": "1",
         "244771": {
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8127841426135315297",
-                    "size": "641145433",
-                    "download": "414722032"
+                    "gid": "8895246340792505936",
+                    "size": "654242683",
+                    "download": "427492320"
                 },
                 "launcherbeta": {
                     "gid": "8127841426135315297",
@@ -188,8 +188,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17584641",
-                "timeupdated": "1741069722"
+                "buildid": "17906461",
+                "timeupdated": "1743214964"
             },
             "launcherbeta": {
                 "buildid": "15524513",
