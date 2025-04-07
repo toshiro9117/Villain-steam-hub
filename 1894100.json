@@ -4,8 +4,8 @@
     "name": "Days with Evraco: The Blind witch in Blue Forest",
     "schinese_name": "我与苍蓝之森的盲眼魔女",
     "isfreeapp": "0",
-    "change_number": "26969513",
-    "update_time": "2025-01-13 17:08:42",
+    "change_number": "28246086",
+    "update_time": "2025-04-01 18:22:56",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,french,koreana,spanish,schinese,tchinese,thai,japanese",
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3646999405189757753",
-                    "size": "1326071995",
-                    "download": "1063582352"
+                    "gid": "7381011404093283682",
+                    "size": "1326078388",
+                    "download": "1063589104"
                 }
             },
             "decryptionkey": ""
@@ -121,8 +121,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16870686",
-                "timeupdated": "1735486802"
+                "buildid": "17937795",
+                "timeupdated": "1743502969"
             }
         }
     }
