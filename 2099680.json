@@ -4,8 +4,8 @@
     "name": "Rent A Car Simulator 24",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27947474",
-    "update_time": "2025-03-14 10:29:16",
+    "change_number": "28248307",
+    "update_time": "2025-04-01 20:38:03",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2099681": {
             "manifests": {
                 "public": {
-                    "gid": "2094475939495790018",
-                    "size": "4371911626",
-                    "download": "4033027904"
+                    "gid": "5096780381438423874",
+                    "size": "4372344583",
+                    "download": "4033361472"
                 }
             },
             "decryptionkey": "61e4dcf362cf08c756eff5ab9266ff8161c641590ef31363afd83d6ba2a3d025"
         },
         "branches": {
             "public": {
-                "buildid": "17355483",
-                "timeupdated": "1739468357"
+                "buildid": "17939374",
+                "timeupdated": "1743511074"
             }
         }
     }
