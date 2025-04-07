@@ -4,8 +4,8 @@
     "name": "Total War: PHARAOH",
     "schinese_name": "全面战争：法老",
     "isfreeapp": "0",
-    "change_number": "27991800",
-    "update_time": "2025-03-17 18:56:52",
+    "change_number": "28342298",
+    "update_time": "2025-04-07 17:02:54",
     "depot": {
         "workshopdepot": "1937780",
         "hasdepotsindlc": "0",
@@ -189,7 +189,7 @@
                     "download": "48"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9fd2b0d709fb1422aa89353bc77f92b8490579f724a72cf1d7c4f8f21eaf780b"
         },
         "2366644": {
             "config": {
@@ -225,9 +225,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7581221650368596294",
-                    "size": "204335475",
-                    "download": "57456496"
+                    "gid": "1128077100884847891",
+                    "size": "204350459",
+                    "download": "57465616"
                 }
             },
             "depotfromapp": "372530",
