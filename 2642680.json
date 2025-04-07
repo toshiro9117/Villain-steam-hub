@@ -4,8 +4,8 @@
     "name": "Half Sword Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24797573",
-    "update_time": "2024-08-15 17:25:05",
+    "change_number": "28331210",
+    "update_time": "2025-04-06 18:23:29",
     "depot": {
         "228989": {
             "config": {
@@ -27,18 +27,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6862758297285366977",
-                    "size": "1485330932",
-                    "download": "1365120304"
+                    "gid": "8124936617482048925",
+                    "size": "2662563274",
+                    "download": "2524840432"
                 }
-            },
-            "decryptionkey": "730e6f8f0beb385c1a1ed0596d231bd8fc5ebbcbf87c2c7ba445ff008662dc05"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "12746708",
-                "timeupdated": "1700450250"
+                "buildid": "17971282",
+                "timeupdated": "1743689653"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
