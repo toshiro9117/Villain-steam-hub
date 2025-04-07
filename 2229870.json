@@ -4,8 +4,8 @@
     "name": "Command & Conquer™: Generals",
     "schinese_name": "《命令与征服：将军》",
     "isfreeapp": "0",
-    "change_number": "27976584",
-    "update_time": "2025-03-16 07:21:29",
+    "change_number": "28215986",
+    "update_time": "2025-03-30 23:54:44",
     "depot": {
         "228990": {
             "config": {
@@ -62,7 +62,7 @@
                     "download": "305795232"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8a37d52a0732211131f79f6ffda71c8e87cadb3d3959b11ca7cb97c0f1c197ec"
         },
         "2229875": {
             "config": {
@@ -140,7 +140,7 @@
                     "download": "343271872"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "099fb65d8e703d24cd50da14af5857e205b83899a416bced0f17605148ec4e86"
         },
         "workshopdepot": "2229870",
         "branches": {
@@ -150,6 +150,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e56da05f484fd63b159695c9b615608953045e073bcc14ef453c5f73316bd3e9"
     }
 }
