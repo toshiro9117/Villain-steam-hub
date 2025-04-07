@@ -4,8 +4,8 @@
     "name": "Legacy: Steel & Sorcery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28001650",
-    "update_time": "2025-03-18 04:34:21",
+    "change_number": "28299232",
+    "update_time": "2025-04-04 08:10:11",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6850603382828465847",
-                    "size": "17715389911",
-                    "download": "16119280144"
+                    "gid": "3350996625509993123",
+                    "size": "17712210678",
+                    "download": "16118227392"
                 }
             },
             "decryptionkey": "a080d0b573b949016080909f58b6c1efbd2c40dfd4d331560cfbbe6a6ff1c8b8"
         },
         "branches": {
             "public": {
-                "buildid": "17732381",
-                "timeupdated": "1742001817"
+                "buildid": "17801187",
+                "timeupdated": "1742518722"
             }
         },
         "privatebranches": "1"
