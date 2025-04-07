@@ -4,33 +4,39 @@
     "name": "Undead Onslaught",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27722705",
-    "update_time": "2025-03-01 01:52:57",
+    "change_number": "28333613",
+    "update_time": "2025-04-07 00:04:40",
     "depot": {
         "2985841": {
+            "config": {
+                "oslist": "windows,linux"
+            },
             "manifests": {
                 "public": {
-                    "gid": "8281939064959336495",
-                    "size": "639292227",
-                    "download": "167638384"
-                },
-                "beta_v1.2.5": {
-                    "gid": "5506574615596093619",
-                    "size": "285507929",
-                    "download": "179337200"
+                    "gid": "3064894054196474657",
+                    "size": "818334664",
+                    "download": "209562656"
                 }
             },
             "decryptionkey": "e9af02e6c6b881fa85029e349913cafdedd808b4e65dd37ca48dcdf8532b5e16"
         },
+        "2985842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5710628557330531573",
+                    "size": "821989370",
+                    "download": "214462832"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "16866713",
-                "timeupdated": "1735404359"
-            },
-            "beta_v1.2.5": {
-                "buildid": "16621057",
-                "description": "Open beta for version 1.2.5",
-                "timeupdated": "1733265153"
+                "buildid": "17980833",
+                "timeupdated": "1743750322"
             }
         },
         "privatebranches": "1"
