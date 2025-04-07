@@ -4,8 +4,8 @@
     "name": "ENDER MAGNOLIA: Bloom in the Mist",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27959290",
-    "update_time": "2025-03-14 23:21:57",
+    "change_number": "28236773",
+    "update_time": "2025-04-01 05:51:55",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7989212302634430649",
-                    "size": "4952517668",
-                    "download": "4633823504"
+                    "gid": "6302303479193595075",
+                    "size": "4953323195",
+                    "download": "4634550688"
                 }
             },
             "decryptionkey": "935fccb2fcc5c04d8e1f15711fb86eeb0efc2bba42b9b452e559a9c053ab3d82"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4216593804766971722",
-                    "size": "4940387431",
-                    "download": "4543572144"
+                    "gid": "8985993170656685007",
+                    "size": "4941251484",
+                    "download": "4544267184"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17663283",
-                "timeupdated": "1741683955"
+                "buildid": "17867309",
+                "timeupdated": "1743053476"
             }
         },
         "privatebranches": "1"
