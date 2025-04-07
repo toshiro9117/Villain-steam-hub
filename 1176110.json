@@ -4,8 +4,8 @@
     "name": "AudioTheory Guitars",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27792574",
-    "update_time": "2025-03-05 18:31:24",
+    "change_number": "28246659",
+    "update_time": "2025-04-01 19:00:09",
     "depot": {
         "1176111": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "346873601873038493",
-                    "size": "348291558",
-                    "download": "121625824"
+                    "gid": "1342959541961119518",
+                    "size": "348292503",
+                    "download": "121628432"
                 }
             },
             "decryptionkey": ""
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2248325928334188022",
-                    "size": "334092931",
-                    "download": "115434400"
+                    "gid": "6181007720060670221",
+                    "size": "334094387",
+                    "download": "115434512"
                 }
             },
             "decryptionkey": "92d7c4fab9b2555d15bf769ea6a9a836099a4a0935a26dc06bd121c68057dcc1"
@@ -58,17 +58,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4866050697694265957",
-                    "size": "329600905",
-                    "download": "114041712"
+                    "gid": "54186548952568644",
+                    "size": "329601849",
+                    "download": "114043216"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17544816",
-                "timeupdated": "1740742964"
+                "buildid": "17937992",
+                "timeupdated": "1743505204"
             }
         },
         "privatebranches": "1"
