@@ -4,8 +4,8 @@
     "name": "E.E.R.I.E2",
     "schinese_name": "异变战区2",
     "isfreeapp": "0",
-    "change_number": "27197888",
-    "update_time": "2025-01-28 17:18:06",
+    "change_number": "28331223",
+    "update_time": "2025-04-06 18:25:24",
     "depot": {
         "2162781": {
             "manifests": {
@@ -56,6 +56,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "eed9b6412e7083ca2bc66b415f0bb32cdd7e0830f45d3008260cd3799b6cfe54"
+        "workshopdepotdecryptionkey": ""
     }
 }
