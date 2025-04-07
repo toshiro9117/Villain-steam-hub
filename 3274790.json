@@ -4,23 +4,23 @@
     "name": "Ultra Cop",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27943394",
-    "update_time": "2025-03-14 05:23:45",
+    "change_number": "28211775",
+    "update_time": "2025-03-30 11:16:59",
     "depot": {
         "3274791": {
             "manifests": {
                 "public": {
-                    "gid": "8070994229571579228",
-                    "size": "803403473",
-                    "download": "394071040"
+                    "gid": "1693031148802526225",
+                    "size": "805001945",
+                    "download": "394917552"
                 }
             },
             "decryptionkey": "829eac4a4583d8a7dc35830eb86498550cb13f09b6f5ad732339701984598b86"
         },
         "branches": {
             "public": {
-                "buildid": "17358137",
-                "timeupdated": "1739483122"
+                "buildid": "17822664",
+                "timeupdated": "1742678359"
             }
         }
     }
