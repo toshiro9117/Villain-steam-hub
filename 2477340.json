@@ -4,8 +4,8 @@
     "name": "Expeditions: A MudRunner Game",
     "schinese_name": "远征：泥泞奔驰游戏",
     "isfreeapp": "0",
-    "change_number": "28013023",
-    "update_time": "2025-03-18 20:36:18",
+    "change_number": "28342300",
+    "update_time": "2025-04-07 17:02:57",
     "depot": {
         "228989": {
             "config": {
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5259443035872171905",
-                    "size": "28637045456",
-                    "download": "20577324512"
+                    "gid": "7256513044542799281",
+                    "size": "28643357463",
+                    "download": "20581083440"
                 }
             },
             "decryptionkey": "22d4226d21a2b7bd6a16784f1790c3905b675a00a531aaca94c7ea7f0ec706cb"
         },
         "branches": {
             "public": {
-                "buildid": "17182680",
-                "timeupdated": "1740650291"
+                "buildid": "17850161",
+                "timeupdated": "1743584344"
             }
         },
         "privatebranches": "1"
