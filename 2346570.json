@@ -4,8 +4,8 @@
     "name": "Songs of Life",
     "schinese_name": "浮生游歌",
     "isfreeapp": "0",
-    "change_number": "27993535",
-    "update_time": "2025-03-17 20:56:49",
+    "change_number": "28308560",
+    "update_time": "2025-04-04 20:45:52",
     "depot": {
         "228989": {
             "config": {
@@ -18,17 +18,17 @@
         "2346571": {
             "manifests": {
                 "public": {
-                    "gid": "8155015510096879661",
-                    "size": "2535936991",
-                    "download": "1471556832"
+                    "gid": "4221164601640974131",
+                    "size": "2719468082",
+                    "download": "1617967360"
                 }
             },
             "decryptionkey": "9947669400a36595569a10a4899eed36ecf737127209b0f7643df3aa04f8221d"
         },
         "branches": {
             "public": {
-                "buildid": "17692653",
-                "timeupdated": "1741783379"
+                "buildid": "17984811",
+                "timeupdated": "1743770745"
             }
         },
         "privatebranches": "1"
