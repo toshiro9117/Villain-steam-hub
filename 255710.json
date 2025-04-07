@@ -4,8 +4,8 @@
     "name": "Cities: Skylines",
     "schinese_name": "城市：天际线",
     "isfreeapp": "0",
-    "change_number": "27951718",
-    "update_time": "2025-03-14 16:24:42",
+    "change_number": "28130622",
+    "update_time": "2025-03-25 21:58:26",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "255710",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5710104015581629842",
-                    "size": "16018528934",
-                    "download": "6034257056"
+                    "gid": "4329712469867681105",
+                    "size": "16246130231",
+                    "download": "6082576608"
                 }
             },
             "decryptionkey": "125653faaac1bad58ea92c82059dcbe10705c04cd5c97e847c4f68b535fe24a6"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7649965132016191889",
-                    "size": "16050579274",
-                    "download": "6139299776"
+                    "gid": "2289251709085018652",
+                    "size": "16278080499",
+                    "download": "6187600912"
                 }
             },
             "decryptionkey": "8b92cc0e5effe6aae01b10e49408f561ebd6a8b4f72c8d9534758e123eba3464"
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8782891173037276007",
-                    "size": "16009693141",
-                    "download": "5863096160"
+                    "gid": "7610638513553902521",
+                    "size": "16237029902",
+                    "download": "5911320912"
                 }
             },
             "decryptionkey": "7a309e01d09daf057aee177d1645ffb3233b7199a24da2fe28fbf4cb87ac5c91"
@@ -81,7 +81,7 @@
                     "download": "277873520"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e65d744bca9d5cb2a7fe1e16d8d3c2f8d4fafc219d4cc7bdd9ef5c03f89157ed"
         },
         "352511": {
             "dlcappid": "352511",
@@ -1330,7 +1330,7 @@
                     "download": "195958880"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "aecb31165cecf3d1c935739ad2765c565d179f2451ff53399ce210820de736dd"
         },
         "761949": {
             "dlcappid": "2955890",
@@ -1344,7 +1344,7 @@
                     "download": "195958880"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3ed87bc5fca2075331666dde80c712cb5a84d29f2e66728bec8f12f9fe316367"
         },
         "2955920": {
             "dlcappid": "2955920"
@@ -1354,26 +1354,47 @@
             "config": {
                 "oslist": "windows"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7959860532735839066",
+                    "size": "174326336",
+                    "download": "174556224"
+                }
+            },
+            "decryptionkey": "5b219e83029bfa53ed2586ba341bd8813ac71beb497b198d61d00ec6c91e9e47"
         },
         "346797": {
             "dlcappid": "2955920",
             "config": {
                 "oslist": "macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5351636751931478212",
+                    "size": "174326336",
+                    "download": "174556224"
+                }
+            },
+            "decryptionkey": "dbf8f5cb2b2f1c703af2f187c357b4c069261a71936c7d1a655b70aca0f11d32"
         },
         "346798": {
             "dlcappid": "2955920",
             "config": {
                 "oslist": "linux"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4803322028317682612",
+                    "size": "174326336",
+                    "download": "174556224"
+                }
+            },
+            "decryptionkey": "6dc83260866056a1a44a519862d65941625ada38d8bb9e81a3b8effc29b5f43b"
         },
         "branches": {
             "public": {
-                "buildid": "15573808",
-                "timeupdated": "1729756963"
+                "buildid": "17627823",
+                "timeupdated": "1742892997"
             }
         },
         "privatebranches": "1",
