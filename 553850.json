@@ -4,8 +4,8 @@
     "name": "HELLDIVERS™ 2",
     "schinese_name": "绝地潜兵2",
     "isfreeapp": "0",
-    "change_number": "28010737",
-    "update_time": "2025-03-18 18:00:25",
+    "change_number": "28344572",
+    "update_time": "2025-04-07 19:27:51",
     "depot": {
         "228984": {
             "config": {
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3427889304035379298",
-                    "size": "88737209",
-                    "download": "73605920"
+                    "gid": "5538509948253951362",
+                    "size": "88631327",
+                    "download": "73502928"
                 }
             },
             "decryptionkey": "6b40282b237b0cafc4d89014b5ec5f925f9aaa02f2d37f4d956acffdde2e0219"
@@ -59,9 +59,9 @@
             "dlcappid": "1999180",
             "manifests": {
                 "public": {
-                    "gid": "4944241374739439957",
-                    "size": "1761459237",
-                    "download": "607529280"
+                    "gid": "5840734694833824526",
+                    "size": "1746599228",
+                    "download": "607007552"
                 }
             },
             "decryptionkey": ""
@@ -69,9 +69,9 @@
         "553853": {
             "manifests": {
                 "public": {
-                    "gid": "1070759652195840517",
-                    "size": "98327236648",
-                    "download": "26462786512"
+                    "gid": "894088980511742516",
+                    "size": "98054572419",
+                    "download": "26454923824"
                 }
             },
             "decryptionkey": "5422d63966f1d6febad8f7e2d1bc3a1640844ae17bae7fc242dc6c1f97b99f3a"
@@ -189,8 +189,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17697821",
-                "timeupdated": "1742292020"
+                "buildid": "17959455",
+                "timeupdated": "1743757216"
             }
         },
         "privatebranches": "1",
