@@ -4,8 +4,8 @@
     "name": "The Coin Game",
     "schinese_name": "硬币游戏",
     "isfreeapp": "0",
-    "change_number": "27891548",
-    "update_time": "2025-03-11 21:33:02",
+    "change_number": "28193713",
+    "update_time": "2025-03-28 23:38:03",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "577180024992143128",
-                    "size": "4388573919",
-                    "download": "1378291552"
+                    "gid": "3495409927232323908",
+                    "size": "4784216050",
+                    "download": "1444879056"
                 }
             },
             "decryptionkey": "5eef890e869bba07fb135158a507ede6b276453d706d5c4e36f2ac5a66e43963"
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5948476972997444892",
-                    "size": "4493401959",
-                    "download": "1405945984"
+                    "gid": "8268134536508433387",
+                    "size": "4852436290",
+                    "download": "1462462848"
                 }
             },
             "decryptionkey": "8cd74454dd76b1413f9e9edce77dc07524709e46e9cca1523699953c636ad7dd"
         },
         "branches": {
             "public": {
-                "buildid": "16984283",
-                "timeupdated": "1737557981"
+                "buildid": "17870713",
+                "timeupdated": "1743170785"
             }
         },
         "privatebranches": "1"
