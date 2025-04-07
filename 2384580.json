@@ -4,8 +4,8 @@
     "name": "DYNASTY WARRIORS: ORIGINS",
     "schinese_name": "真・三国无双 起源",
     "isfreeapp": "0",
-    "change_number": "27979282",
-    "update_time": "2025-03-16 16:21:17",
+    "change_number": "28336648",
+    "update_time": "2025-04-07 07:08:13",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -18,9 +18,9 @@
         "2384581": {
             "manifests": {
                 "public": {
-                    "gid": "243534432946915042",
-                    "size": "53507313294",
-                    "download": "49440516512"
+                    "gid": "6859189858418177431",
+                    "size": "53525613305",
+                    "download": "49458930480"
                 }
             },
             "decryptionkey": "c9bfe8a78dc43f75438b3a8e602c7a322b0b53418f80be108058121a71371130"
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17360728",
-                "timeupdated": "1740099654"
+                "buildid": "17670200",
+                "timeupdated": "1742346047"
             }
         },
         "privatebranches": "1"
