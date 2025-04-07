@@ -4,8 +4,8 @@
     "name": "万象群侠传",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28002578",
-    "update_time": "2025-03-18 05:56:11",
+    "change_number": "28302193",
+    "update_time": "2025-04-04 13:06:11",
     "depot": {
         "baselanguages": "schinese",
         "3039501": {
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1928465358146205983",
-                    "size": "778863030",
-                    "download": "231111824"
+                    "gid": "1702344227671869168",
+                    "size": "808053362",
+                    "download": "233333200"
                 }
             },
             "decryptionkey": "52933c4abfccfaa0be28a1ff000ed5e5d54d002ce5c79bfa852b1195e226d4bd"
         },
         "branches": {
             "public": {
-                "buildid": "17736303",
-                "timeupdated": "1742035680"
+                "buildid": "17979966",
+                "timeupdated": "1743743167"
             }
         },
         "privatebranches": "1"
