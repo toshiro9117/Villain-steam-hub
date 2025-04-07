@@ -4,9 +4,10 @@
     "name": "Plants vs. Zombies: Battle for Neighborville",
     "schinese_name": "植物大战僵尸™: 和睦小镇保卫战",
     "isfreeapp": "0",
-    "change_number": "27982183",
-    "update_time": "2025-03-17 00:21:27",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:23",
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,arabic,brazilian,latam",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -22,9 +23,6 @@
             "sharedinstall": "1"
         },
         "1262241": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8124759833120741594",
@@ -229,7 +227,17 @@
             },
             "decryptionkey": "079e7f6c568d811949ae1e8f5eab4943ed10cda23a9691a9d5dd0c3af22a339f"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,arabic,brazilian,latam",
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
         "branches": {
             "public": {
                 "buildid": "13758236",
