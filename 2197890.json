@@ -4,8 +4,8 @@
     "name": "Paranormal Cleanup",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27063592",
-    "update_time": "2025-01-19 20:54:56",
+    "change_number": "28343956",
+    "update_time": "2025-04-07 18:45:07",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2197891": {
             "manifests": {
                 "public": {
-                    "gid": "436720555017770011",
-                    "size": "6640898403",
-                    "download": "6452849856"
+                    "gid": "16113068504161692",
+                    "size": "9705610108",
+                    "download": "9460776128"
                 }
             },
             "decryptionkey": "c4edc51ed5989640f604dab4ab2066669ea1ad25684d39142e6df692b201b729"
         },
         "branches": {
             "public": {
-                "buildid": "13114423",
-                "timeupdated": "1704687688"
+                "buildid": "18004002",
+                "timeupdated": "1743974472"
             }
         },
         "privatebranches": "1"
