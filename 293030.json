@@ -4,8 +4,8 @@
     "name": "Contagion Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27920121",
-    "update_time": "2025-03-13 05:54:37",
+    "change_number": "28326468",
+    "update_time": "2025-04-06 03:47:39",
     "depot": {
         "1004": {
             "config": {
@@ -78,9 +78,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6933001002290526224",
-                    "size": "15026267936",
-                    "download": "4845642864"
+                    "gid": "6917282455999999981",
+                    "size": "15444639949",
+                    "download": "4663620816"
                 }
             },
             "decryptionkey": "94abaa2865412cba984d605d0f47121545470bf5099541193b8863063f1bccf4"
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8200335281259975414",
-                    "size": "76688492",
-                    "download": "28998352"
+                    "gid": "4835929506061487844",
+                    "size": "76864730",
+                    "download": "29052048"
                 }
             },
             "decryptionkey": "8f42ee7a7bdcdfd1f305f8c1a33fe838b1985302f582a28d3d295762fc0c7df8"
@@ -115,8 +115,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16881797",
-                "timeupdated": "1735651050"
+                "buildid": "17958953",
+                "timeupdated": "1743621035"
             }
         },
         "privatebranches": "1"
