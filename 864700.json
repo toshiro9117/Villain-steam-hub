@@ -4,8 +4,8 @@
     "name": "Dinosaur Fossil Hunter",
     "schinese_name": "恐龙化石猎人 古生物学家模拟器 (Dinosaur Fossil Hunter)",
     "isfreeapp": "0",
-    "change_number": "26202857",
-    "update_time": "2024-11-15 08:20:51",
+    "change_number": "28235101",
+    "update_time": "2025-04-01 03:50:23",
     "depot": {
         "228989": {
             "config": {
@@ -57,6 +57,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0466b052d4cbd2c74ff4d7d254d96697c8b28b8fb6ce01bd8d56f49ba41bf391"
     }
 }
