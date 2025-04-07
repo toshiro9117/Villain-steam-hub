@@ -4,8 +4,8 @@
     "name": "Train Capacity 300%",
     "schinese_name": "満車率300%",
     "isfreeapp": "0",
-    "change_number": "27882144",
-    "update_time": "2025-03-11 09:23:04",
+    "change_number": "28124772",
+    "update_time": "2025-03-25 15:59:03",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -40,7 +40,7 @@
                     "download": "2746660720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "efaa05430af7075630959f729b725b8c4cb7242693c053d1842cf8762e034a18"
         },
         "2441573": {
             "config": {
