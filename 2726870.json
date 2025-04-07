@@ -4,8 +4,8 @@
     "name": "玩个Gui",
     "schinese_name": "玩个Gui",
     "isfreeapp": "0",
-    "change_number": "27992619",
-    "update_time": "2025-03-17 19:46:26",
+    "change_number": "28338746",
+    "update_time": "2025-04-07 11:14:20",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "2726870",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7626101270257171924",
-                    "size": "924196530",
-                    "download": "580210112"
+                    "gid": "5974628291774634998",
+                    "size": "925966543",
+                    "download": "581755840"
                 },
                 "alpha": {
                     "gid": "8067801232663293836",
@@ -31,8 +31,8 @@
         "2726872": {},
         "branches": {
             "public": {
-                "buildid": "17750964",
-                "timeupdated": "1742211981"
+                "buildid": "17936200",
+                "timeupdated": "1743496559"
             },
             "alpha": {
                 "buildid": "17705768",
