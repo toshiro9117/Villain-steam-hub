@@ -4,15 +4,15 @@
     "name": "Dungeon Tycoon",
     "schinese_name": "地下城资本家 (Dungeon Tycoon)",
     "isfreeapp": "0",
-    "change_number": "27975368",
-    "update_time": "2025-03-16 03:58:31",
+    "change_number": "28138049",
+    "update_time": "2025-03-26 05:14:12",
     "depot": {
         "2400771": {
             "manifests": {
                 "public": {
-                    "gid": "2409182793174743451",
-                    "size": "1433939427",
-                    "download": "296768576"
+                    "gid": "8605388045724946755",
+                    "size": "1433939107",
+                    "download": "296769568"
                 },
                 "open-beta": {
                     "gid": "6227919000725990711",
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17549829",
-                "timeupdated": "1740759871"
+                "buildid": "17768203",
+                "timeupdated": "1742314697"
             },
             "open-beta": {
                 "buildid": "16999629",
