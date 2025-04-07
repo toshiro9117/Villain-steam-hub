@@ -4,23 +4,23 @@
     "name": "Succubus Roulette",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27987674",
-    "update_time": "2025-03-17 12:57:19",
+    "change_number": "28324546",
+    "update_time": "2025-04-05 23:19:00",
     "depot": {
         "3339831": {
             "manifests": {
                 "public": {
-                    "gid": "7102321785832000661",
-                    "size": "142558675",
-                    "download": "93988272"
+                    "gid": "3901966485192329036",
+                    "size": "142976387",
+                    "download": "94140400"
                 }
             },
             "decryptionkey": "ff17dda86efd25bb8f5f5fec810fe0d03c57eda6f6a630713dec383a26fd062f"
         },
         "branches": {
             "public": {
-                "buildid": "17494369",
-                "timeupdated": "1740457722"
+                "buildid": "17944295",
+                "timeupdated": "1743534634"
             }
         }
     }
