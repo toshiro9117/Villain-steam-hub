@@ -4,8 +4,8 @@
     "name": "Like a Dragon: Ishin!",
     "schinese_name": "人中之龙 维新！极",
     "isfreeapp": "0",
-    "change_number": "27963653",
-    "update_time": "2025-03-15 03:22:29",
+    "change_number": "28115414",
+    "update_time": "2025-03-25 03:01:34",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5879049278161002062",
-                    "size": "62546327721",
-                    "download": "59988215136"
+                    "gid": "3104969324904098578",
+                    "size": "62554508553",
+                    "download": "59993274240"
                 }
             },
             "decryptionkey": "b6865a3777287943bedd9ec78a50d638f0eea4d711441035e656bcc633a83765"
@@ -39,8 +39,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "10920385",
-                "timeupdated": "1681434016"
+                "buildid": "17613625",
+                "timeupdated": "1742842887"
             }
         },
         "privatebranches": "1"
