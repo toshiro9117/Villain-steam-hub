@@ -4,8 +4,8 @@
     "name": "Command & Conquer™ Generals Zero Hour",
     "schinese_name": "《命令与征服：将军零点》",
     "isfreeapp": "0",
-    "change_number": "27896502",
-    "update_time": "2025-03-12 02:03:17",
+    "change_number": "28257781",
+    "update_time": "2025-04-02 07:11:44",
     "depot": {
         "228990": {
             "config": {
@@ -49,7 +49,7 @@
                     "download": "1088533616"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5a22d20b184793b3c70d55747268f79ca84a2fc0d8531ee6b2d3f61850d942c3"
         },
         "2732964": {
             "config": {
@@ -150,6 +150,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "d0f4c661ca5cfa5100b4b9f9112cfb4e5d0333e4cce7531fb9c4b6e7fad2aec6"
     }
 }
