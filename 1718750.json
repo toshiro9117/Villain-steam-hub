@@ -4,8 +4,8 @@
     "name": "SVFI - Professional",
     "schinese_name": "SVFI - 专业版",
     "isfreeapp": "0",
-    "change_number": "27827789",
-    "update_time": "2025-03-07 10:54:12",
+    "change_number": "28168871",
+    "update_time": "2025-03-27 19:46:42",
     "depot": {
         "1718751": {
             "config": {
@@ -24,9 +24,9 @@
                     "download": "1299005168"
                 },
                 "beta": {
-                    "gid": "207912025176487446",
-                    "size": "4041961683",
-                    "download": "3162716832"
+                    "gid": "4642818007919004038",
+                    "size": "4054168490",
+                    "download": "3174005056"
                 },
                 "beta-cu128": {
                     "gid": "6594889015049312211",
@@ -54,9 +54,9 @@
                     "download": "22166896"
                 },
                 "beta": {
-                    "gid": "2814993530722088955",
-                    "size": "50153472",
-                    "download": "22162176"
+                    "gid": "3386130750443404934",
+                    "size": "50156032",
+                    "download": "22164512"
                 },
                 "beta-cu128": {
                     "gid": "5489216402119484193",
@@ -78,9 +78,9 @@
                 "timeupdated": "1698293546"
             },
             "beta": {
-                "buildid": "17629270",
+                "buildid": "17881963",
                 "description": "SVFI Beta Test",
-                "timeupdated": "1741316040"
+                "timeupdated": "1743075989"
             },
             "beta-cu128": {
                 "buildid": "17366287",
