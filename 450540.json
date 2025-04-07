@@ -4,8 +4,8 @@
     "name": "Hot Dogs, Horseshoes & Hand Grenades",
     "schinese_name": "热狗，马蹄和手榴弹",
     "isfreeapp": "0",
-    "change_number": "28013765",
-    "update_time": "2025-03-18 21:21:59",
+    "change_number": "28252312",
+    "update_time": "2025-04-02 00:23:27",
     "depot": {
         "228986": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6610375686547862040",
-                    "size": "24297339077",
-                    "download": "16189586240"
+                    "gid": "3988545666173674353",
+                    "size": "24372890575",
+                    "download": "16209867088"
                 },
                 "update110": {
                     "gid": "7382673893389642246",
@@ -42,14 +42,14 @@
                     "download": "14584457216"
                 },
                 "alpha": {
-                    "gid": "6610375686547862040",
-                    "size": "24297339077",
-                    "download": "16189586240"
+                    "gid": "3988545666173674353",
+                    "size": "24372890575",
+                    "download": "16209867088"
                 },
                 "experimental": {
-                    "gid": "1886646665577919690",
-                    "size": "24402866279",
-                    "download": "16232069360"
+                    "gid": "3988545666173674353",
+                    "size": "24372890575",
+                    "download": "16209867088"
                 },
                 "update112": {
                     "gid": "554683791114262660",
@@ -77,8 +77,8 @@
         "workshopdepot": "450540",
         "branches": {
             "public": {
-                "buildid": "17206556",
-                "timeupdated": "1738377758"
+                "buildid": "17935349",
+                "timeupdated": "1743524601"
             },
             "update110": {
                 "buildid": "11871273",
@@ -91,14 +91,14 @@
                 "timeupdated": "1708739577"
             },
             "alpha": {
-                "buildid": "17206556",
+                "buildid": "17935349",
                 "description": "Mod Safe",
-                "timeupdated": "1738377740"
+                "timeupdated": "1743524581"
             },
             "experimental": {
-                "buildid": "17733096",
+                "buildid": "17935349",
                 "description": "NOT MOD SAFE!!!",
-                "timeupdated": "1742003276"
+                "timeupdated": "1743524506"
             },
             "update112": {
                 "buildid": "13549672",
