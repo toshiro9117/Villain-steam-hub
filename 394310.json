@@ -4,8 +4,8 @@
     "name": "Punch Club",
     "schinese_name": "拳击俱乐部",
     "isfreeapp": "0",
-    "change_number": "27103127",
-    "update_time": "2025-01-22 08:52:24",
+    "change_number": "28177260",
+    "update_time": "2025-03-28 03:16:19",
     "depot": {
         "baselanguages": "english,german,french,russian",
         "workshopdepot": "394310",
@@ -71,6 +71,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "7502d139a0a3bd12111c5f5bee7ca139b395d0bef2efec4217f6548c2083b928"
+        "workshopdepotdecryptionkey": ""
     }
 }
