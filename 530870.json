@@ -4,8 +4,8 @@
     "name": "Empyrion - Galactic Survival Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013746",
-    "update_time": "2025-03-18 21:18:47",
+    "change_number": "28300045",
+    "update_time": "2025-04-04 09:17:45",
     "depot": {
         "1004": {
             "config": {
@@ -59,9 +59,9 @@
         "530871": {
             "manifests": {
                 "public": {
-                    "gid": "8489387416774470470",
-                    "size": "18311676430",
-                    "download": "11191603264"
+                    "gid": "7181036662936270111",
+                    "size": "18404643260",
+                    "download": "11347447568"
                 },
                 "alpha10": {
                     "gid": "4139613444459975471",
@@ -104,17 +104,17 @@
                     "download": "3954029296"
                 },
                 "experimental": {
-                    "gid": "2770798345826460598",
-                    "size": "18404234534",
-                    "download": "11347050112"
+                    "gid": "7220454482383168136",
+                    "size": "18404638918",
+                    "download": "11347427696"
                 }
             },
             "decryptionkey": "c54d338ba26d66063170bac5269c438ec026d6943bc068c084cc9ac192150170"
         },
         "branches": {
             "public": {
-                "buildid": "16354429",
-                "timeupdated": "1733313561"
+                "buildid": "17955026",
+                "timeupdated": "1743672514"
             },
             "alpha10": {
                 "buildid": "4347212",
@@ -157,9 +157,9 @@
                 "timeupdated": "1560769269"
             },
             "experimental": {
-                "buildid": "17726042",
+                "buildid": "17851743",
                 "description": "Experimental branch",
-                "timeupdated": "1741970287"
+                "timeupdated": "1742909923"
             }
         },
         "privatebranches": "1"
