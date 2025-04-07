@@ -4,8 +4,8 @@
     "name": "Perfect Heist 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27940296",
-    "update_time": "2025-03-14 02:23:48",
+    "change_number": "28333088",
+    "update_time": "2025-04-06 22:48:19",
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5699313543082342056",
-                    "size": "9681354233",
-                    "download": "1564437648"
+                    "gid": "358239648044608692",
+                    "size": "9682234577",
+                    "download": "1563354048"
                 },
                 "raytracing-test": {
                     "gid": "1675624913230179514",
@@ -37,9 +37,9 @@
                     "download": "312851360"
                 },
                 "beta": {
-                    "gid": "212024182391120460",
-                    "size": "9682078395",
-                    "download": "1563316496"
+                    "gid": "358239648044608692",
+                    "size": "9682234577",
+                    "download": "1563354048"
                 },
                 "debug": {
                     "gid": "3887763586450822472",
@@ -80,8 +80,8 @@
         "workshopdepot": "1521580",
         "branches": {
             "public": {
-                "buildid": "17468582",
-                "timeupdated": "1740247767"
+                "buildid": "18002233",
+                "timeupdated": "1743950892"
             },
             "raytracing-test": {
                 "buildid": "7255059",
@@ -89,9 +89,9 @@
                 "timeupdated": "1629983385"
             },
             "beta": {
-                "buildid": "17713377",
+                "buildid": "18002233",
                 "description": "beta",
-                "timeupdated": "1741890207"
+                "timeupdated": "1743950856"
             },
             "debug": {
                 "buildid": "16646163",
