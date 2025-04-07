@@ -4,8 +4,8 @@
     "name": "Silica Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28007570",
-    "update_time": "2025-03-18 14:07:15",
+    "change_number": "28038674",
+    "update_time": "2025-03-20 03:03:54",
     "depot": {
         "1004": {
             "config": {
@@ -69,14 +69,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2412674601940913445",
-                    "size": "8154890571",
-                    "download": "3236896400"
-                },
-                "beta": {
                     "gid": "6465252650426174029",
                     "size": "7888566476",
                     "download": "3078888432"
+                },
+                "beta": {
+                    "gid": "5037698215414701912",
+                    "size": "7888567836",
+                    "download": "3078893696"
                 }
             },
             "decryptionkey": "a7df626c379d1ae106f0dcbb99b08f574a628a4b2b8b04cf5cc726164a5ba219"
@@ -87,27 +87,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5353096309918974697",
-                    "size": "8180603722",
-                    "download": "3241976768"
-                },
-                "beta": {
                     "gid": "5571938159480554137",
                     "size": "7855676805",
                     "download": "3056717904"
+                },
+                "beta": {
+                    "gid": "4166308539040723306",
+                    "size": "7855678165",
+                    "download": "3056723488"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16801601",
-                "timeupdated": "1734619647"
+                "buildid": "17759302",
+                "timeupdated": "1742309422"
             },
             "beta": {
-                "buildid": "17759302",
+                "buildid": "17784417",
                 "description": "Branch for Beta playtesting",
-                "timeupdated": "1742278028"
+                "timeupdated": "1742411029"
             }
         },
         "privatebranches": "1"
