@@ -4,8 +4,8 @@
     "name": "Mortal Kombat 1",
     "schinese_name": "真人快打 1 ",
     "isfreeapp": "0",
-    "change_number": "28013742",
-    "update_time": "2025-03-18 21:18:19",
+    "change_number": "28316148",
+    "update_time": "2025-04-05 04:10:29",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,polish,arabic,brazilian,latam",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5424370179668824360",
-                    "size": "110534735537",
-                    "download": "94368767008"
+                    "gid": "512005367846038723",
+                    "size": "115808390426",
+                    "download": "98857272384"
                 }
             },
             "decryptionkey": "d7c65f47842d7fe05e6489fd6f86355ebfb7a3f1261c503cdbeebaba66849d82"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4110867975535052553",
-                    "size": "26838105520",
-                    "download": "24996332768"
+                    "gid": "2741683106529194428",
+                    "size": "26956820650",
+                    "download": "25112807696"
                 }
             },
             "decryptionkey": "020f4d21f49e187c5ee0dc181a3d10cdc166bc935868f83e5add726947973b51"
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8481204586812521496",
-                    "size": "627937880",
-                    "download": "341699120"
+                    "gid": "8552604172369068290",
+                    "size": "610379640",
+                    "download": "334944000"
                 }
             },
             "decryptionkey": "2fb68660ef98508853b7901a8c4758d2811c558bc23eb52105126af40209be9c"
@@ -81,9 +81,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6210878443663598552",
-                    "size": "49735596508",
-                    "download": "47673689568"
+                    "gid": "4363176120155839027",
+                    "size": "49960734622",
+                    "download": "47895313808"
                 }
             },
             "decryptionkey": "881b5265b81aaa6e34ba005510561510c74dca7c4ddf56e688110dc4708702f7"
@@ -118,8 +118,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17269558",
-                "timeupdated": "1738861703"
+                "buildid": "17941244",
+                "timeupdated": "1743519358"
             }
         },
         "privatebranches": "1"
