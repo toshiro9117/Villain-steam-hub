@@ -4,8 +4,8 @@
     "name": "ChillPulse",
     "schinese_name": "Chill Pulse 心流小筑",
     "isfreeapp": "0",
-    "change_number": "27998858",
-    "update_time": "2025-03-18 01:25:03",
+    "change_number": "28262802",
+    "update_time": "2025-04-02 15:10:30",
     "depot": {
         "2826181": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3738769785442789786",
-                    "size": "308367337",
-                    "download": "289124880"
+                    "gid": "4732991329210555743",
+                    "size": "308368873",
+                    "download": "289125072"
                 }
             },
             "decryptionkey": "d45258f38e802c459905be85f6a018145885954c6c5084c3e5211cd61848929a"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9144400466845389143",
-                    "size": "331575426",
-                    "download": "294561696"
+                    "gid": "7657826162457439802",
+                    "size": "331593569",
+                    "download": "294557904"
                 }
             },
             "decryptionkey": "ee18b9b7c0913e5e5cc396b5443194a34c771f45420aae33ec4b20163b28c130"
         },
         "branches": {
             "public": {
-                "buildid": "17754865",
-                "timeupdated": "1742232298"
+                "buildid": "17771428",
+                "timeupdated": "1742332430"
             }
         }
     }
