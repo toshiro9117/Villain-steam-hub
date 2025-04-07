@@ -4,8 +4,8 @@
     "name": "Planetbase",
     "schinese_name": "星球基地",
     "isfreeapp": "0",
-    "change_number": "27109910",
-    "update_time": "2025-01-22 18:26:19",
+    "change_number": "28286637",
+    "update_time": "2025-04-03 18:34:06",
     "depot": {
         "baselanguages": "english,german,french,spanish",
         "workshopdepot": "403190",
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3792388824359637500",
-                    "size": "700198263",
-                    "download": "333862304"
+                    "gid": "3360976009895948170",
+                    "size": "700544911",
+                    "download": "333982704"
                 },
                 "experimental": {
-                    "gid": "3792388824359637500",
-                    "size": "700198263",
-                    "download": "333862304"
+                    "gid": "3360976009895948170",
+                    "size": "700544911",
+                    "download": "333982704"
                 },
                 "oldversion": {
                     "gid": "3330989669120227581",
@@ -38,14 +38,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1391192768431119641",
-                    "size": "704155682",
-                    "download": "335817888"
+                    "gid": "8847529840228800195",
+                    "size": "704276619",
+                    "download": "335917568"
                 },
                 "experimental": {
-                    "gid": "1391192768431119641",
-                    "size": "704155682",
-                    "download": "335817888"
+                    "gid": "8847529840228800195",
+                    "size": "704276619",
+                    "download": "335917568"
                 },
                 "oldversion": {
                     "gid": "2810492408550210286",
@@ -57,13 +57,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "14829412",
-                "timeupdated": "1725973025"
+                "buildid": "17966555",
+                "timeupdated": "1743676441"
             },
             "experimental": {
-                "buildid": "14829412",
+                "buildid": "17966555",
                 "description": "Experimental versions",
-                "timeupdated": "1719307881"
+                "timeupdated": "1743676338"
             },
             "oldversion": {
                 "buildid": "6317568",
@@ -72,6 +72,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e38d67aafa1754dba9dac6ccce399a0ae8261ef69ba79fe6f9997d4a00daa705"
+        "workshopdepotdecryptionkey": ""
     }
 }
