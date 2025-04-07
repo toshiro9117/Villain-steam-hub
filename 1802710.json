@@ -4,8 +4,8 @@
     "name": "Momentum Mod Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28002722",
-    "update_time": "2025-03-18 06:10:17",
+    "change_number": "28140613",
+    "update_time": "2025-03-26 09:03:52",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
         "228989": {
@@ -23,14 +23,9 @@
                     "download": "2021048736"
                 },
                 "0.10.0-pre": {
-                    "gid": "6260714489162739077",
-                    "size": "4228121626",
-                    "download": "2025956416"
-                },
-                "upcoming": {
-                    "gid": "8332217358963038859",
-                    "size": "4221656757",
-                    "download": "2024286736"
+                    "gid": "270430102456644835",
+                    "size": "4244388041",
+                    "download": "2029547008"
                 }
             },
             "decryptionkey": "efefa2a23c0112e13a7cd3198cd6120833afacadc276fda80874af59c1af0504"
@@ -46,14 +41,9 @@
                     "download": "110663840"
                 },
                 "0.10.0-pre": {
-                    "gid": "7993874803918239261",
-                    "size": "376558883",
-                    "download": "111308336"
-                },
-                "upcoming": {
-                    "gid": "2579399155721404307",
-                    "size": "367241507",
-                    "download": "108356640"
+                    "gid": "6550312960016072951",
+                    "size": "377168675",
+                    "download": "111556144"
                 }
             },
             "decryptionkey": "08d634f951ebc26371df13ec1e57280541c63f9818fefe7e4f82784d57a2d830"
@@ -69,14 +59,9 @@
                     "download": "220675088"
                 },
                 "0.10.0-pre": {
-                    "gid": "4704411719316004247",
-                    "size": "855058876",
-                    "download": "220578128"
-                },
-                "upcoming": {
-                    "gid": "2669288593390677698",
-                    "size": "812494692",
-                    "download": "208029264"
+                    "gid": "2523526513931294770",
+                    "size": "856030452",
+                    "download": "220944560"
                 }
             },
             "decryptionkey": ""
@@ -87,14 +72,9 @@
                 "timeupdated": "1735606624"
             },
             "0.10.0-pre": {
-                "buildid": "17757595",
+                "buildid": "17859471",
                 "description": "Prerelease 0.10.0 things",
-                "timeupdated": "1742249409"
-            },
-            "upcoming": {
-                "buildid": "16119672",
-                "description": "Upcoming Momentum updates, may be unstable!",
-                "timeupdated": "1729500962"
+                "timeupdated": "1742951028"
             }
         },
         "privatebranches": "1"
