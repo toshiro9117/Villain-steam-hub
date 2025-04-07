@@ -4,8 +4,8 @@
     "name": "Burnout™ Paradise Remastered",
     "schinese_name": "火爆狂飙：天堂 重制版",
     "isfreeapp": "0",
-    "change_number": "26961969",
-    "update_time": "2025-01-12 21:08:51",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:16",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish",
         "228988": {
@@ -23,9 +23,6 @@
             "sharedinstall": "1"
         },
         "1238081": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6052234672890207163",
@@ -138,6 +135,17 @@
                 }
             },
             "decryptionkey": "6de5c0798901524abd7e7e4c9ad8f5e4797b9538833e9aacc8151c82171d530b"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
