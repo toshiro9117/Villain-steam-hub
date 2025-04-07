@@ -4,22 +4,17 @@
     "name": "Gatekeeper",
     "schinese_name": "心门守卫",
     "isfreeapp": "0",
-    "change_number": "27980169",
-    "update_time": "2025-03-16 19:01:13",
+    "change_number": "28329598",
+    "update_time": "2025-04-06 13:10:52",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "2106671": {
             "manifests": {
                 "public": {
-                    "gid": "2382755527301538697",
-                    "size": "2801210151",
-                    "download": "1639906128"
-                },
-                "children-of-tarra-beta": {
-                    "gid": "5601125188128276728",
-                    "size": "2792557626",
-                    "download": "1633290624"
+                    "gid": "6865897602673168027",
+                    "size": "3115300883",
+                    "download": "1740076592"
                 }
             },
             "decryptionkey": "8020620a882ace556b89574d5c6bbce83c6d3034bf72959e40f2e0988702e7bc"
@@ -31,24 +26,14 @@
                     "gid": "7877669104065052789",
                     "size": "137586196",
                     "download": "134667840"
-                },
-                "children-of-tarra-beta": {
-                    "gid": "7877669104065052789",
-                    "size": "137586196",
-                    "download": "134667840"
                 }
             },
             "decryptionkey": "51627f4bbb1aacbdae1721d28a86576389b54b4953819b8347387cb000877884"
         },
         "branches": {
             "public": {
-                "buildid": "17536505",
-                "timeupdated": "1740686198"
-            },
-            "children-of-tarra-beta": {
-                "buildid": "17412541",
-                "description": "Children of Tarra Beta",
-                "timeupdated": "1739908878"
+                "buildid": "17839643",
+                "timeupdated": "1742839268"
             }
         },
         "privatebranches": "1"
