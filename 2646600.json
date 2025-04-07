@@ -1,11 +1,11 @@
 {
     "appid": "2646600",
     "type": "Demo",
-    "name": "Spilled! ",
+    "name": "Spilled! Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27859528",
-    "update_time": "2025-03-09 22:55:02",
+    "change_number": "28333273",
+    "update_time": "2025-04-06 23:16:48",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3948587606478457918",
-                    "size": "507231647",
-                    "download": "223946544"
+                    "gid": "4785998717711660524",
+                    "size": "495802251",
+                    "download": "223291072"
                 }
             }
         },
@@ -32,16 +32,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2626832671171378187",
-                    "size": "488303203",
-                    "download": "212920032"
+                    "gid": "7555835311224509424",
+                    "size": "479016131",
+                    "download": "214986768"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17611126",
-                "timeupdated": "1741215953"
+                "buildid": "17868986",
+                "timeupdated": "1743002187"
             }
         }
     }
