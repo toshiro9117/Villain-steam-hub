@@ -4,8 +4,8 @@
     "name": "Elin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006335",
-    "update_time": "2025-03-18 11:44:25",
+    "change_number": "28346120",
+    "update_time": "2025-04-07 21:08:02",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "workshopdepot": "2135150",
@@ -17,27 +17,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6102252734298146005",
-                    "size": "2936814423",
-                    "download": "1065220416"
+                    "gid": "8088805916402201393",
+                    "size": "2956915051",
+                    "download": "1072191536"
                 },
                 "nightly": {
-                    "gid": "3040086634689971639",
-                    "size": "2936925674",
-                    "download": "1065393680"
+                    "gid": "4527394666879678602",
+                    "size": "2956930754",
+                    "download": "1072218320"
                 }
             },
             "decryptionkey": "b800fa7ccfbea4d3c24ba4e8d50bdab1b39bf15b492ac44ad91b5af2af02cc14"
         },
         "branches": {
             "public": {
-                "buildid": "17619919",
-                "timeupdated": "1741266848"
+                "buildid": "18000364",
+                "timeupdated": "1743924741"
             },
             "nightly": {
-                "buildid": "17760304",
+                "buildid": "18011672",
                 "description": "Unstable Nightly Version",
-                "timeupdated": "1742269456"
+                "timeupdated": "1744031278"
             }
         },
         "privatebranches": "1",
