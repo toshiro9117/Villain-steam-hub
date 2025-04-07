@@ -4,8 +4,8 @@
     "name": "9 Days",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27852345",
-    "update_time": "2025-03-09 01:08:10",
+    "change_number": "28235865",
+    "update_time": "2025-04-01 04:45:18",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2172560698716354419",
-                    "size": "19787174907",
-                    "download": "19362665344"
+                    "gid": "6229408241396826161",
+                    "size": "19782058707",
+                    "download": "19357473744"
                 }
             },
             "decryptionkey": "6075ff50d6af9b4e3ee0b83bfaa817c49e920604c04e60014156c95331112e8c"
         },
         "branches": {
             "public": {
-                "buildid": "17643407",
-                "timeupdated": "1741400243"
+                "buildid": "17823950",
+                "timeupdated": "1742695581"
             }
         },
         "privatebranches": "1"
