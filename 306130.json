@@ -4,8 +4,8 @@
     "name": "The Elder Scrolls Online",
     "schinese_name": "《上古卷轴®OL》",
     "isfreeapp": "0",
-    "change_number": "27959290",
-    "update_time": "2025-03-14 23:21:48",
+    "change_number": "28052496",
+    "update_time": "2025-03-20 22:18:49",
     "depot": {
         "228983": {
             "config": {
@@ -38,17 +38,17 @@
         "306131": {
             "manifests": {
                 "public": {
-                    "gid": "2330277769385689566",
-                    "size": "146582407740",
-                    "download": "128262212208"
+                    "gid": "6791252740595289156",
+                    "size": "148245584426",
+                    "download": "129600531552"
                 }
             },
             "decryptionkey": "efe4e3dbd8640a7ad50003146af400ca0cfba95e16374e834ae08010ff8ec048"
         },
         "branches": {
             "public": {
-                "buildid": "16180846",
-                "timeupdated": "1730383367"
+                "buildid": "17780256",
+                "timeupdated": "1742480318"
             }
         },
         "privatebranches": "1"
