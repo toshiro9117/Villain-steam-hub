@@ -1,11 +1,11 @@
 {
     "appid": "1238040",
     "type": "Game",
-    "name": "Dragon Age II",
-    "schinese_name": "",
+    "name": "Dragon Age II: Ultimate Edition",
+    "schinese_name": "《龙腾世纪II》终极版",
     "isfreeapp": "0",
-    "change_number": "27272357",
-    "update_time": "2025-02-02 06:33:33",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:14",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian",
         "hasdepotsindlc": "1",
@@ -24,9 +24,6 @@
             "sharedinstall": "1"
         },
         "1238041": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6701893115208317717",
@@ -126,6 +123,17 @@
                 }
             },
             "decryptionkey": "9730ddfceb15ee498cff2852df766cd9d3579aff2e1756ee3c28b5dd72c27824"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
