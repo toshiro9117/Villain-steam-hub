@@ -4,8 +4,8 @@
     "name": "Whirligig",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27984217",
-    "update_time": "2025-03-17 05:13:01",
+    "change_number": "28335601",
+    "update_time": "2025-04-07 04:34:54",
     "depot": {
         "451651": {
             "config": {
@@ -102,6 +102,16 @@
                     "gid": "3102023442978890742",
                     "size": "1577725393",
                     "download": "465675488"
+                },
+                "whirligig_v5.563": {
+                    "gid": "2365036690848824138",
+                    "size": "1600380729",
+                    "download": "469361456"
+                },
+                "whirligig_v5.565": {
+                    "gid": "5440049223471182132",
+                    "size": "1603565397",
+                    "download": "469926288"
                 }
             },
             "decryptionkey": "d4004d944433e442ddc31f82d48f81dcd729b18d5212ce394f2d3cf3e53eb623"
@@ -194,6 +204,16 @@
                 "buildid": "17745007",
                 "description": "Chroma Key",
                 "timeupdated": "1742159577"
+            },
+            "whirligig_v5.563": {
+                "buildid": "17828466",
+                "description": "Browserupdate",
+                "timeupdated": "1742761197"
+            },
+            "whirligig_v5.565": {
+                "buildid": "18003864",
+                "description": "BigUpdate",
+                "timeupdated": "1743971690"
             }
         }
     }
