@@ -4,8 +4,8 @@
     "name": "The Coffin of Andy and Leyley",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27115151",
-    "update_time": "2025-01-23 00:21:55",
+    "change_number": "28343927",
+    "update_time": "2025-04-07 18:43:28",
     "depot": {
         "2378901": {
             "config": {
@@ -13,28 +13,29 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7982838317554904260",
-                    "size": "370743010",
-                    "download": "248388720"
+                    "gid": "736977287424974995",
+                    "size": "718770533",
+                    "download": "587139936"
                 },
-                "v2.0.11": {
-                    "gid": "5014339772439126100",
-                    "size": "370743613",
-                    "download": "250691568"
+                "borderless-fullscreen": {
+                    "gid": "8029757461315660157",
+                    "size": "718793798",
+                    "download": "587161920"
                 }
             },
             "decryptionkey": "7e8df27c22fc52c5f740357a93710dcdb613817ef5c9e61763f20eb28b73d525"
         },
         "branches": {
             "public": {
-                "buildid": "14910575",
-                "timeupdated": "1719951117"
+                "buildid": "17996594",
+                "timeupdated": "1743869441"
             },
-            "v2.0.11": {
-                "buildid": "13626464",
-                "description": "Previous stable build.",
-                "timeupdated": "1717018764"
+            "borderless-fullscreen": {
+                "buildid": "17994041",
+                "description": "Test build to check if borderless fullscreen avoids certain issues.",
+                "timeupdated": "1743834804"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
