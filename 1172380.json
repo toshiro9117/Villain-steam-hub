@@ -4,9 +4,11 @@
     "name": "STAR WARS Jedi: Fallen Order™ ",
     "schinese_name": "《星球大战 绝地：陨落的武士团™》",
     "isfreeapp": "0",
-    "change_number": "27771852",
-    "update_time": "2025-03-04 18:23:08",
+    "change_number": "28257774",
+    "update_time": "2025-04-02 07:11:08",
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "hasdepotsindlc": "1",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -21,12 +23,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
-        "hasdepotsindlc": "1",
         "1172381": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "1836009592314787599",
@@ -204,6 +201,17 @@
                 }
             },
             "decryptionkey": "253ab7e579624fcfe8433af8931a09bbad808c395057962384518b8e4a21a40a"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
