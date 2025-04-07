@@ -4,8 +4,8 @@
     "name": "Magical Girl Konoha",
     "schinese_name": "魔法少女木叶",
     "isfreeapp": "0",
-    "change_number": "28013770",
-    "update_time": "2025-03-18 21:23:20",
+    "change_number": "28342418",
+    "update_time": "2025-04-07 17:12:14",
     "depot": {
         "2529521": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "1103444656"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bd087c4d33428d6d5d53f233c147502651ed8bef4a0c894b20c99e0393013a90"
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
