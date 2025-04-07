@@ -4,15 +4,15 @@
     "name": "Megaloot",
     "schinese_name": "无尽劫掠",
     "isfreeapp": "0",
-    "change_number": "28008074",
-    "update_time": "2025-03-18 14:57:01",
+    "change_number": "28340324",
+    "update_time": "2025-04-07 14:31:09",
     "depot": {
         "2440381": {
             "manifests": {
                 "public": {
-                    "gid": "6097217096916487612",
-                    "size": "520307384",
-                    "download": "410535328"
+                    "gid": "5065779132547016363",
+                    "size": "520871264",
+                    "download": "410584896"
                 },
                 "1.14": {
                     "gid": "1316081310740320524",
@@ -20,9 +20,9 @@
                     "download": "409055488"
                 },
                 "public_testing_branch": {
-                    "gid": "2400151961417485691",
-                    "size": "520851296",
-                    "download": "410575424"
+                    "gid": "8673781302616095061",
+                    "size": "520893808",
+                    "download": "410597888"
                 }
             },
             "decryptionkey": "def2da358b14cdc00d139af62c7d7275bb0a1eab0c9409d162edcac2ad5842ea"
@@ -30,8 +30,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17536693",
-                "timeupdated": "1740687441"
+                "buildid": "17881724",
+                "timeupdated": "1743074545"
             },
             "1.14": {
                 "buildid": "16812491",
@@ -39,9 +39,9 @@
                 "timeupdated": "1740206780"
             },
             "public_testing_branch": {
-                "buildid": "17761641",
+                "buildid": "18007475",
                 "description": "Experimental",
-                "timeupdated": "1742281017"
+                "timeupdated": "1744007464"
             }
         }
     }
