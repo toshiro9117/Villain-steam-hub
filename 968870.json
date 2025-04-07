@@ -4,8 +4,8 @@
     "name": "Close to the Sun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27449616",
-    "update_time": "2025-02-13 08:22:12",
+    "change_number": "28170691",
+    "update_time": "2025-03-27 21:28:17",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish",
         "hasdepotsindlc": "1",
@@ -61,7 +61,7 @@
                     "download": "88930096"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e445a7ba63a93d4efc537da21c50309365368145effcdec519e0ed49e757d5dc"
         },
         "branches": {
             "public": {
