@@ -4,8 +4,8 @@
     "name": "Perfect Heist 2 Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27504966",
-    "update_time": "2025-02-17 02:09:37",
+    "change_number": "28312470",
+    "update_time": "2025-04-05 00:13:10",
     "depot": {
         "1004": {
             "config": {
@@ -52,9 +52,9 @@
         "1964151": {
             "manifests": {
                 "public": {
-                    "gid": "4133574433517649068",
-                    "size": "2817208471",
-                    "download": "498580448"
+                    "gid": "4889676062732572303",
+                    "size": "2817441434",
+                    "download": "498686192"
                 },
                 "debug": {
                     "gid": "4817629203441448132",
@@ -62,22 +62,22 @@
                     "download": "400421568"
                 },
                 "beta": {
-                    "gid": "4133574433517649068",
-                    "size": "2817208471",
-                    "download": "498580448"
+                    "gid": "4889676062732572303",
+                    "size": "2817441434",
+                    "download": "498686192"
                 },
                 "stable": {
-                    "gid": "4133574433517649068",
-                    "size": "2817208471",
-                    "download": "498580448"
+                    "gid": "4889676062732572303",
+                    "size": "2817441434",
+                    "download": "498686192"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17385146",
-                "timeupdated": "1739729372"
+                "buildid": "17987671",
+                "timeupdated": "1743783187"
             },
             "debug": {
                 "buildid": "9757148",
@@ -85,14 +85,14 @@
                 "timeupdated": "1666213435"
             },
             "beta": {
-                "buildid": "17385146",
+                "buildid": "17987671",
                 "description": "beta",
-                "timeupdated": "1739729286"
+                "timeupdated": "1743783152"
             },
             "stable": {
-                "buildid": "17385146",
+                "buildid": "17987671",
                 "description": "Same version as the default branch",
-                "timeupdated": "1739729297"
+                "timeupdated": "1743783159"
             }
         }
     }
