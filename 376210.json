@@ -4,8 +4,8 @@
     "name": "The Isle",
     "schinese_name": "岛",
     "isfreeapp": "0",
-    "change_number": "28007270",
-    "update_time": "2025-03-18 13:33:29",
+    "change_number": "28320365",
+    "update_time": "2025-04-05 12:10:19",
     "depot": {
         "228981": {
             "config": {
@@ -138,14 +138,14 @@
                     "download": "14333571856"
                 },
                 "evrima": {
-                    "gid": "2942340545593836517",
-                    "size": "5524779208",
-                    "download": "5195982416"
+                    "gid": "2590159205424344021",
+                    "size": "5526847265",
+                    "download": "5196487072"
                 },
                 "hordetesting": {
-                    "gid": "6217355737804126004",
-                    "size": "5933933471",
-                    "download": "5604277136"
+                    "gid": "7656208264566306664",
+                    "size": "5889329261",
+                    "download": "5558990960"
                 }
             },
             "decryptionkey": "ec98ff5da26fe8ed2ed0776bff3cf9b786d8942eafcf581c04401c7cf8621b54"
@@ -161,14 +161,14 @@
                 "timeupdated": "1699982621"
             },
             "evrima": {
-                "buildid": "17150370",
+                "buildid": "17964663",
                 "description": "EVRIMA Public Branch",
-                "timeupdated": "1738014360"
+                "timeupdated": "1743655845"
             },
             "hordetesting": {
-                "buildid": "17715650",
+                "buildid": "17815707",
                 "description": "Public Testing Branch",
-                "timeupdated": "1741902615"
+                "timeupdated": "1742597670"
             }
         },
         "privatebranches": "1",
