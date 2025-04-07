@@ -4,8 +4,8 @@
     "name": "Total War: PHARAOH DYNASTIES",
     "schinese_name": "全面战争：法老王朝",
     "isfreeapp": "0",
-    "change_number": "27991800",
-    "update_time": "2025-03-17 18:56:53",
+    "change_number": "28337524",
+    "update_time": "2025-04-07 08:58:13",
     "depot": {
         "workshopdepot": "2951630",
         "228988": {
@@ -77,7 +77,7 @@
                     "download": "48"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "38123e494e4d76ce29c3cd49671011b25ca04af9be38c305ac52082eaefe1962"
         },
         "2951635": {
             "config": {
@@ -250,9 +250,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7581221650368596294",
-                    "size": "204335475",
-                    "download": "57456496"
+                    "gid": "1128077100884847891",
+                    "size": "204350459",
+                    "download": "57465616"
                 }
             },
             "depotfromapp": "372530",
