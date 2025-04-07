@@ -4,8 +4,8 @@
     "name": "The Front",
     "schinese_name": "The Front 前线",
     "isfreeapp": "0",
-    "change_number": "27037990",
-    "update_time": "2025-01-17 15:03:56",
+    "change_number": "28066303",
+    "update_time": "2025-03-21 15:19:50",
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "2285151": {
             "manifests": {
                 "public": {
-                    "gid": "8233133217287132749",
-                    "size": "55948367975",
-                    "download": "52763599312"
+                    "gid": "5679462024106185267",
+                    "size": "56257543500",
+                    "download": "53127446768"
                 }
             },
             "decryptionkey": "1e7de60c1cc825964d43eb37232a95b15b7638fcd507b51001fa869d0a6fc67f"
@@ -41,8 +41,8 @@
         "workshopdepot": "2285150",
         "branches": {
             "public": {
-                "buildid": "17437209",
-                "timeupdated": "1740121329"
+                "buildid": "17802990",
+                "timeupdated": "1742541572"
             }
         },
         "privatebranches": "1",
