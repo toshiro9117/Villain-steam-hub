@@ -4,8 +4,8 @@
     "name": "Battle Brothers",
     "schinese_name": "战场兄弟 Battle Brothers",
     "isfreeapp": "0",
-    "change_number": "27992901",
-    "update_time": "2025-03-17 20:07:16",
+    "change_number": "28225972",
+    "update_time": "2025-03-31 18:14:25",
     "depot": {
         "baselanguages": "english",
         "228983": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8977077612802674522",
-                    "size": "1363029322",
-                    "download": "1133708384"
+                    "gid": "5758214011842950392",
+                    "size": "1384410064",
+                    "download": "1149683040"
                 },
                 "1.1.x": {
                     "gid": "7598099831852355230",
@@ -260,7 +260,7 @@
             "dlcappid": "1067750",
             "manifests": {
                 "public": {
-                    "gid": "66624925374145362",
+                    "gid": "9130251578971156366",
                     "size": "1526",
                     "download": "1136"
                 },
@@ -307,7 +307,7 @@
             "dlcappid": "1362330",
             "manifests": {
                 "public": {
-                    "gid": "191256620143658519",
+                    "gid": "9126913783522792180",
                     "size": "1522",
                     "download": "1120"
                 },
@@ -328,7 +328,7 @@
             "dlcappid": "1910050",
             "manifests": {
                 "public": {
-                    "gid": "791638025242219165",
+                    "gid": "4723208085527760083",
                     "size": "66946007",
                     "download": "65745056"
                 },
@@ -342,8 +342,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12000954",
-                "timeupdated": "1692693018"
+                "buildid": "17922897",
+                "timeupdated": "1743416059"
             },
             "1.1.x": {
                 "buildid": "2562010",
