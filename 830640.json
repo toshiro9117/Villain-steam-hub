@@ -4,8 +4,8 @@
     "name": "DayZ Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013376",
-    "update_time": "2025-03-18 20:57:19",
+    "change_number": "28287808",
+    "update_time": "2025-04-03 19:49:32",
     "depot": {
         "228983": {
             "config": {
@@ -59,17 +59,17 @@
         "830641": {
             "manifests": {
                 "public": {
-                    "gid": "7259413938650783351",
-                    "size": "543589287",
-                    "download": "242609968"
+                    "gid": "7550860595609393225",
+                    "size": "544899013",
+                    "download": "243777984"
                 }
             },
             "decryptionkey": "3e61bff301ba32c46755dfa2807e6b54e9482e44f9732d0a166ff258cc0a20c3"
         },
         "branches": {
             "public": {
-                "buildid": "17763630",
-                "timeupdated": "1742302625"
+                "buildid": "17921647",
+                "timeupdated": "1743680965"
             }
         },
         "privatebranches": "1"
