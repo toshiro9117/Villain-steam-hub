@@ -4,8 +4,8 @@
     "name": "EA SPORTS™ FIFA 23",
     "schinese_name": "EA SPORTS™《FIFA 23》",
     "isfreeapp": "0",
-    "change_number": "26719627",
-    "update_time": "2024-12-20 03:16:48",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:35",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,latam",
         "228988": {
@@ -414,6 +414,17 @@
                 }
             },
             "decryptionkey": "cfc6ac19afbbd65ce875f73b5960c3e396f791f1cb5f47bcb79dcc182e0f7040"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
