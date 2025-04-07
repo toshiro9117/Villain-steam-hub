@@ -4,8 +4,8 @@
     "name": "TransOcean: The Shipping Company",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25934516",
-    "update_time": "2024-10-29 00:16:09",
+    "change_number": "28197572",
+    "update_time": "2025-03-29 03:15:15",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "",
@@ -101,7 +101,7 @@
                     "download": "36864"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4466fe3b67b5d7054b66e3d82c4584c36bbe1e6e9a5088780d7dfe38312f9664"
         },
         "289936": {
             "config": {
@@ -205,7 +205,7 @@
                     "download": "38912"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "08f0fb64cfc64dd810066471df9c3fcfbde670ebdf8c81586e7c4311f6f33381"
         },
         "branches": {
             "public": {
