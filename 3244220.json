@@ -4,8 +4,8 @@
     "name": "A Game About Digging A Hole",
     "schinese_name": "掘地求财",
     "isfreeapp": "0",
-    "change_number": "27993085",
-    "update_time": "2025-03-17 20:22:29",
+    "change_number": "28233394",
+    "update_time": "2025-04-01 01:52:39",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3244221": {
             "manifests": {
                 "public": {
-                    "gid": "3324681923632172269",
-                    "size": "934483340",
-                    "download": "673835488"
+                    "gid": "7003077520451003577",
+                    "size": "934485388",
+                    "download": "673778288"
                 }
             },
             "decryptionkey": "4f1dcf1c8754ebe535efcdce9a662fc39701588510124052947612f1f24a795c"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german",
         "branches": {
             "public": {
-                "buildid": "17390618",
-                "timeupdated": "1739784477"
+                "buildid": "17793684",
+                "timeupdated": "1742471387"
             }
         },
         "privatebranches": "1"
