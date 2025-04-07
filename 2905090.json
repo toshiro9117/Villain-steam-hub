@@ -4,8 +4,8 @@
     "name": "UberSoldier",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27984972",
-    "update_time": "2025-03-17 06:57:35",
+    "change_number": "28293764",
+    "update_time": "2025-04-04 01:16:35",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,russian,polish,czech",
         "2905091": {
@@ -47,7 +47,7 @@
                     "download": "1963624448"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "298a2eb376b5189bcec50fc8a7fd3dbe1f8632187ee4aa47a1ddfad94e171b17"
         },
         "2905094": {
             "config": {
@@ -131,7 +131,7 @@
                     "download": "1951866064"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d018dbf314aa36e9fb982b1d330f80868c01fca7f483e1281fac6b072cf46754"
         },
         "branches": {
             "public": {
