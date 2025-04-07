@@ -4,8 +4,8 @@
     "name": "Infestation: The New Beginning",
     "schinese_name": "感染：生存故事",
     "isfreeapp": "1",
-    "change_number": "27762107",
-    "update_time": "2025-03-04 05:43:37",
+    "change_number": "28148293",
+    "update_time": "2025-03-26 19:24:01",
     "depot": {
         "overridescddb": "1",
         "228985": {
@@ -55,16 +55,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "300259845097965117",
-                    "size": "18682149455",
-                    "download": "15459474976"
+                    "gid": "2288563223100360351",
+                    "size": "18846064903",
+                    "download": "15554772000"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17580133",
-                "timeupdated": "1741038213"
+                "buildid": "17865852",
+                "timeupdated": "1742988236"
             }
         }
     }
