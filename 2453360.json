@@ -4,8 +4,8 @@
     "name": "鸡械绿洲",
     "schinese_name": "鸡械绿洲",
     "isfreeapp": "0",
-    "change_number": "28010343",
-    "update_time": "2025-03-18 17:35:54",
+    "change_number": "28046662",
+    "update_time": "2025-03-20 15:48:55",
     "depot": {
         "2453361": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7526853514282867686",
+                    "gid": "617190138737781222",
                     "size": "1381165056",
-                    "download": "311097584"
+                    "download": "311089008"
                 }
             },
             "decryptionkey": "c28f6652a67eef84e3fb87549167532fdbb74636978127507da233265dfee2bd"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "940088834945590043",
+                    "gid": "6954088383303327686",
                     "size": "1404647437",
-                    "download": "317924176"
+                    "download": "317931840"
                 }
             },
             "decryptionkey": "f1094c165f85c9d4a1114a63db62848ece4273c6f60268c0ca82e3c6303929fd"
         },
         "branches": {
             "public": {
-                "buildid": "17747707",
-                "timeupdated": "1742290548"
+                "buildid": "17790620",
+                "timeupdated": "1742456931"
             }
         },
         "privatebranches": "1"
