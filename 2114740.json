@@ -4,8 +4,8 @@
     "name": "Blasphemous 2",
     "schinese_name": "神之亵渎2",
     "isfreeapp": "0",
-    "change_number": "27238157",
-    "update_time": "2025-01-31 00:11:46",
+    "change_number": "28346848",
+    "update_time": "2025-04-07 21:54:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "228989": {
@@ -36,10 +36,20 @@
             },
             "decryptionkey": "503b5732abefe07001d4c001350558da4747a61c52562da4882858a9e2be2235"
         },
+        "2114742": {
+            "manifests": {
+                "public": {
+                    "gid": "8954525284424133301",
+                    "size": "13197618",
+                    "download": "13278320"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "16615599",
-                "timeupdated": "1733235021"
+                "buildid": "18012187",
+                "timeupdated": "1744034051"
             }
         },
         "privatebranches": "1"
