@@ -4,8 +4,8 @@
     "name": "Will You Wheel?",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976028",
-    "update_time": "2025-03-16 05:45:56",
+    "change_number": "28268103",
+    "update_time": "2025-04-02 20:28:35",
     "depot": {
         "2443771": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2636634626382526590",
-                    "size": "1531687313",
-                    "download": "322885536"
+                    "gid": "5966420045874297975",
+                    "size": "1498767681",
+                    "download": "304754160"
                 },
                 "beta": {
-                    "gid": "2295645322887327915",
-                    "size": "1530709406",
-                    "download": "309322128"
+                    "gid": "5966420045874297975",
+                    "size": "1498767681",
+                    "download": "304754160"
                 }
             },
             "decryptionkey": "1c42a49ebaaf7b18b33996dc75f9814e381d9c519605b8b927da430e6b96c74c"
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6925127704323715217",
+                    "gid": "4407121013711790050",
                     "size": "1565359869",
-                    "download": "315190464"
+                    "download": "315161888"
                 },
                 "beta": {
                     "gid": "4407121013711790050",
@@ -46,13 +46,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17625696",
-                "timeupdated": "1741294173"
+                "buildid": "17954590",
+                "timeupdated": "1743596910"
             },
             "beta": {
-                "buildid": "17739353",
+                "buildid": "17954589",
                 "description": "this will be betas of updates",
-                "timeupdated": "1742075153"
+                "timeupdated": "1743596904"
             }
         },
         "privatebranches": "1"
