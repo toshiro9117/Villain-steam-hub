@@ -4,8 +4,8 @@
     "name": "Primal Carnage: Extinction",
     "schinese_name": "原始杀戮：灭绝",
     "isfreeapp": "0",
-    "change_number": "27996572",
-    "update_time": "2025-03-17 23:09:23",
+    "change_number": "28039348",
+    "update_time": "2025-03-20 03:55:36",
     "depot": {
         "228983": {
             "config": {
@@ -52,9 +52,9 @@
         "321361": {
             "manifests": {
                 "public": {
-                    "gid": "2037284378324132971",
-                    "size": "12340213377",
-                    "download": "8982085600"
+                    "gid": "6286663088373705767",
+                    "size": "12340158957",
+                    "download": "8982040016"
                 },
                 "pre-v3": {
                     "gid": "664511832144855734",
@@ -67,8 +67,8 @@
         "workshopdepot": "321360",
         "branches": {
             "public": {
-                "buildid": "17751372",
-                "timeupdated": "1742224159"
+                "buildid": "17784350",
+                "timeupdated": "1742414104"
             },
             "pre-v3": {
                 "buildid": "14852435",
