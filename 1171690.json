@@ -4,8 +4,8 @@
     "name": "Wayfinder",
     "schinese_name": "寻路者",
     "isfreeapp": "0",
-    "change_number": "28012943",
-    "update_time": "2025-03-18 20:30:29",
+    "change_number": "28344788",
+    "update_time": "2025-04-07 19:42:15",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1171691": {
             "manifests": {
                 "public": {
-                    "gid": "677895519433491753",
-                    "size": "58681946834",
-                    "download": "50902812288"
+                    "gid": "3551545720438791443",
+                    "size": "58691357812",
+                    "download": "50908080976"
                 }
             },
             "decryptionkey": "b6cb674fb5083cf930aa7e0b0f245eeb14068f7cd60c8fdeafa3f4f5c8bd66e2"
         },
         "branches": {
             "public": {
-                "buildid": "17505294",
-                "timeupdated": "1740679603"
+                "buildid": "17931096",
+                "timeupdated": "1743711959"
             }
         },
         "privatebranches": "1"
