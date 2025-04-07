@@ -4,8 +4,8 @@
     "name": "SWORN",
     "schinese_name": "圣杯誓约",
     "isfreeapp": "0",
-    "change_number": "28006860",
-    "update_time": "2025-03-18 12:47:33",
+    "change_number": "28325332",
+    "update_time": "2025-04-06 01:11:33",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7597986525218499255",
-                    "size": "4837403012",
-                    "download": "2275481424"
+                    "gid": "995518720897906309",
+                    "size": "4986459875",
+                    "download": "2354962144"
                 }
             },
             "decryptionkey": "32467278867521bb7848990057535c82d0e863ccdfabefffa0cd87c75a6d6b56"
@@ -30,8 +30,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "17611241",
-                "timeupdated": "1741626171"
+                "buildid": "17974284",
+                "timeupdated": "1743706161"
             }
         },
         "privatebranches": "1"
