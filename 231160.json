@@ -4,8 +4,8 @@
     "name": "The Swapper",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27972462",
-    "update_time": "2025-03-15 21:13:57",
+    "change_number": "28270732",
+    "update_time": "2025-04-02 22:59:58",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -53,6 +53,11 @@
                     "gid": "9026791211683849690",
                     "size": "937384189",
                     "download": "0"
+                },
+                "beta2025": {
+                    "gid": "2698239627919030682",
+                    "size": "988885277",
+                    "download": "777608832"
                 }
             },
             "decryptionkey": "e6812325d6c6299b4f4c2af217c1061b5ef6a50bebc4707cd49ec680ac9fcfc7"
@@ -86,9 +91,14 @@
                     "gid": "2384454092173583244",
                     "size": "986282702",
                     "download": "0"
+                },
+                "beta2025": {
+                    "gid": "2384454092173583244",
+                    "size": "986282702",
+                    "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c305d349c6875a3cd806b81680dc9aa9a3808da01f740a381cda3e71c4f961fb"
         },
         "231163": {
             "config": {
@@ -119,9 +129,14 @@
                     "gid": "3655365630960712052",
                     "size": "979425224",
                     "download": "0"
+                },
+                "beta2025": {
+                    "gid": "3655365630960712052",
+                    "size": "979425224",
+                    "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fd030fd481bc1dab38c113c92e3b65ff30e650454ee193454e2991d5dfeebf8c"
         },
         "branches": {
             "public": {
@@ -141,6 +156,11 @@
             "public_beta": {
                 "buildid": "243151",
                 "description": "Public beta"
+            },
+            "beta2025": {
+                "buildid": "17956193",
+                "description": "Beta testing for new builds",
+                "timeupdated": "1743605995"
             }
         },
         "privatebranches": "1"
