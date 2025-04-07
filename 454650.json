@@ -4,8 +4,8 @@
     "name": "DRAGON BALL XENOVERSE 2",
     "schinese_name": "龙珠超宇宙2",
     "isfreeapp": "0",
-    "change_number": "28005725",
-    "update_time": "2025-03-18 10:44:03",
+    "change_number": "28319438",
+    "update_time": "2025-04-05 09:38:40",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228986": {
@@ -25,9 +25,9 @@
         "454651": {
             "manifests": {
                 "public": {
-                    "gid": "5522356754303651877",
-                    "size": "32324633215",
-                    "download": "27309242864"
+                    "gid": "2099150251478287769",
+                    "size": "32324652608",
+                    "download": "27309143744"
                 }
             },
             "decryptionkey": "f42c03be492cf6df28782bcf7630521712bb5425d268fcfc599731056ec1a21c"
@@ -35,9 +35,9 @@
         "454654": {
             "manifests": {
                 "public": {
-                    "gid": "6538793031163109302",
-                    "size": "77720070545",
-                    "download": "31983768320"
+                    "gid": "9090888333658976154",
+                    "size": "77720070565",
+                    "download": "31983371408"
                 }
             },
             "decryptionkey": ""
@@ -55,8 +55,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16225687",
-                "timeupdated": "1732064432"
+                "buildid": "17638626",
+                "timeupdated": "1742349601"
             }
         },
         "privatebranches": "1"
