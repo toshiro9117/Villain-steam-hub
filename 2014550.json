@@ -4,23 +4,23 @@
     "name": "Voidwrought",
     "schinese_name": "星穹遗迹",
     "isfreeapp": "0",
-    "change_number": "27772440",
-    "update_time": "2025-03-04 18:56:34",
+    "change_number": "28228759",
+    "update_time": "2025-03-31 21:24:44",
     "depot": {
         "2014551": {
             "manifests": {
                 "public": {
-                    "gid": "8793867162707335119",
-                    "size": "1827386577",
-                    "download": "1299826704"
+                    "gid": "660015679237291422",
+                    "size": "1831233595",
+                    "download": "1300021664"
                 }
             },
             "decryptionkey": "6d2ed618640bb062b370e4f15dc33c4cfddb5536b55bc4bf6b3d633885110588"
         },
         "branches": {
             "public": {
-                "buildid": "17503776",
-                "timeupdated": "1741085791"
+                "buildid": "17879227",
+                "timeupdated": "1743427480"
             }
         },
         "privatebranches": "1"
