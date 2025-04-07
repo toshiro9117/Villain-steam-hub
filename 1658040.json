@@ -4,15 +4,15 @@
     "name": "I Am Future: Cozy Apocalypse Survival",
     "schinese_name": "我是未来：悠闲末日生活",
     "isfreeapp": "0",
-    "change_number": "27952659",
-    "update_time": "2025-03-14 17:19:04",
+    "change_number": "28156510",
+    "update_time": "2025-03-27 03:41:39",
     "depot": {
         "1658041": {
             "manifests": {
                 "public": {
-                    "gid": "1515655381349263667",
-                    "size": "3898368458",
-                    "download": "1231476704"
+                    "gid": "627285454108301788",
+                    "size": "3912536464",
+                    "download": "1216140736"
                 }
             },
             "decryptionkey": "77ecb47b430884d91e502d8757a26fe9752a4334e7ca64047be83f04827aaf5d"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16849640",
-                "timeupdated": "1735147705"
+                "buildid": "17869742",
+                "timeupdated": "1743018095"
             }
         },
         "privatebranches": "1"
