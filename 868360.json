@@ -4,8 +4,8 @@
     "name": "Project Hospital",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27476015",
-    "update_time": "2025-02-14 17:17:35",
+    "change_number": "28346680",
+    "update_time": "2025-04-07 21:44:01",
     "depot": {
         "workshopdepot": "868360",
         "hasdepotsindlc": "1",
@@ -62,9 +62,9 @@
                     "download": "205213280"
                 },
                 "beta-patch-42-test": {
-                    "gid": "453253273810361092",
-                    "size": "980386991",
-                    "download": "205216496"
+                    "gid": "7178818363705911350",
+                    "size": "980388134",
+                    "download": "205217024"
                 }
             },
             "decryptionkey": "4f5081e288327046084fa377c67cd5aef2b6307d23a63f139938563ef44e5dab"
@@ -117,9 +117,9 @@
                     "download": "206257936"
                 },
                 "beta-patch-42-test": {
-                    "gid": "5109613752339576398",
-                    "size": "992323283",
-                    "download": "206426944"
+                    "gid": "1555285924497261809",
+                    "size": "992324426",
+                    "download": "206426816"
                 }
             },
             "decryptionkey": "d373db0fd7c1ee5ebf860648b90f34da40e3c9144b5c83a52abc4dc4cd51bcd5"
@@ -172,9 +172,9 @@
                     "download": "206512048"
                 },
                 "beta-patch-42-test": {
-                    "gid": "7622788783670777708",
-                    "size": "993311102",
-                    "download": "206603376"
+                    "gid": "3250394954169298989",
+                    "size": "993312245",
+                    "download": "206604096"
                 }
             },
             "decryptionkey": "f31e148df5675a1886aff8250ad2090f7713b0249f9ca221b9a696c3af9714a7"
@@ -269,12 +269,12 @@
                 "timeupdated": "1731672413"
             },
             "beta-patch-42-test": {
-                "buildid": "16378912",
+                "buildid": "18012061",
                 "description": "Pre-release test of patch 42",
-                "timeupdated": "1731417686"
+                "timeupdated": "1744033436"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ef496df548ac2ac235ec9f63c171bd7fe0c6654780bf83aa26a14d829cefd73e"
+        "workshopdepotdecryptionkey": ""
     }
 }
