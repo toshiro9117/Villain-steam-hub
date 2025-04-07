@@ -4,8 +4,8 @@
     "name": "DUSK",
     "schinese_name": "黄昏DUSK",
     "isfreeapp": "0",
-    "change_number": "27458690",
-    "update_time": "2025-02-13 20:15:33",
+    "change_number": "28315861",
+    "update_time": "2025-04-05 03:46:33",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,ukrainian,latam",
@@ -240,6 +240,6 @@
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": "e0af3173be392be10574cd5e69bc077c37718edf6ae6cfef1f04dec3352a91e1"
+        "workshopdepotdecryptionkey": ""
     }
 }
