@@ -4,8 +4,8 @@
     "name": "Battle Talent",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27960852",
-    "update_time": "2025-03-15 00:37:50",
+    "change_number": "28180561",
+    "update_time": "2025-03-28 07:30:45",
     "depot": {
         "baselanguages": "english,schinese",
         "1331511": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8250102048917040622",
-                    "size": "10269891402",
-                    "download": "4355827440"
+                    "gid": "3103916839813451613",
+                    "size": "10269891938",
+                    "download": "4355768480"
                 },
                 "v11p0": {
                     "gid": "8186553595831027849",
@@ -39,14 +39,14 @@
                     "download": "4187941360"
                 },
                 "temp": {
-                    "gid": "8250102048917040622",
-                    "size": "10269891402",
-                    "download": "4355827440"
+                    "gid": "3103916839813451613",
+                    "size": "10269891938",
+                    "download": "4355768480"
                 },
                 "test": {
-                    "gid": "8250102048917040622",
-                    "size": "10269891402",
-                    "download": "4355827440"
+                    "gid": "3103916839813451613",
+                    "size": "10269891938",
+                    "download": "4355768480"
                 },
                 "v11p7": {
                     "gid": "5812252158786590961",
@@ -73,8 +73,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17717941",
-                "timeupdated": "1741970235"
+                "buildid": "17790359",
+                "timeupdated": "1742455445"
             },
             "v11p0": {
                 "buildid": "11378924",
@@ -97,14 +97,14 @@
                 "timeupdated": "1741970200"
             },
             "temp": {
-                "buildid": "17717941",
+                "buildid": "17790359",
                 "description": "just used for bug fixed",
-                "timeupdated": "1741970266"
+                "timeupdated": "1742455522"
             },
             "test": {
-                "buildid": "17717941",
+                "buildid": "17790359",
                 "description": "test",
-                "timeupdated": "1741919954"
+                "timeupdated": "1742455554"
             },
             "v11p7": {
                 "buildid": "13666778",
