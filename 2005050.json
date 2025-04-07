@@ -4,8 +4,8 @@
     "name": "Dance Dash ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27946718",
-    "update_time": "2025-03-14 09:31:41",
+    "change_number": "28232465",
+    "update_time": "2025-04-01 00:44:42",
     "depot": {
         "228989": {
             "config": {
@@ -32,6 +32,11 @@
                     "size": "3261911190",
                     "download": "620831504"
                 },
+                "beta-moddable": {
+                    "gid": "5962569775078509394",
+                    "size": "1771076874",
+                    "download": "565768064"
+                },
                 "feature_newui": {
                     "gid": "2133457482040516297",
                     "size": "3887016457",
@@ -54,6 +59,11 @@
             "public": {
                 "buildid": "17716844",
                 "timeupdated": "1741915898"
+            },
+            "beta-moddable": {
+                "buildid": "17927724",
+                "description": "Moddable",
+                "timeupdated": "1743439478"
             },
             "feature_newui": {
                 "buildid": "16799661",
