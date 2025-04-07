@@ -4,8 +4,8 @@
     "name": "Command & Conquer 3: Kane's Wrath™",
     "schinese_name": "命令与征服3: 凯恩之怒",
     "isfreeapp": "0",
-    "change_number": "27892924",
-    "update_time": "2025-03-11 22:52:32",
+    "change_number": "28076034",
+    "update_time": "2025-03-22 00:24:47",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,polish,dutch,swedish,hungarian,czech",
@@ -175,7 +175,7 @@
                     "download": "5819008"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "db37690dfd510f2a638d62e55eeccbf125dcac5cf9fe643978b9b221239e9974"
         },
         "2845543": {
             "config": {
