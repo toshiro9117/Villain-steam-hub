@@ -4,8 +4,8 @@
     "name": "The Elder Scrolls V: Skyrim",
     "schinese_name": "上古卷轴5：天际",
     "isfreeapp": "0",
-    "change_number": "27103115",
-    "update_time": "2025-01-22 08:48:44",
+    "change_number": "28212034",
+    "update_time": "2025-03-30 12:14:33",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -572,6 +572,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "dfc29ff7b13c0f563bfeb626b3152104c598e23aab185b8820036275f91292df"
+        "workshopdepotdecryptionkey": ""
     }
 }
