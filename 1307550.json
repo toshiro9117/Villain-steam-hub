@@ -4,8 +4,8 @@
     "name": "Craftopia",
     "schinese_name": "Craftopia / 创世理想乡",
     "isfreeapp": "0",
-    "change_number": "28011315",
-    "update_time": "2025-03-18 18:38:10",
+    "change_number": "28342263",
+    "update_time": "2025-04-07 17:00:51",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "769019247534187772",
-                    "size": "24007259356",
-                    "download": "9134195520"
+                    "gid": "3111151976295610990",
+                    "size": "24007443591",
+                    "download": "9134298544"
                 },
                 "legacy": {
                     "gid": "9019849637081614226",
@@ -32,9 +32,9 @@
                     "download": "3640890576"
                 },
                 "alpha-unstable": {
-                    "gid": "3459199457941387438",
-                    "size": "24007366734",
-                    "download": "9134093504"
+                    "gid": "3111151976295610990",
+                    "size": "24007443591",
+                    "download": "9134298544"
                 }
             },
             "decryptionkey": "12f11842a788e0b656032cfbaf79b2ee2e74e3f7715e25ddd2efe5c0a33afc35"
@@ -61,8 +61,8 @@
         "workshopdepot": "1307550",
         "branches": {
             "public": {
-                "buildid": "17700448",
-                "timeupdated": "1741935603"
+                "buildid": "17921076",
+                "timeupdated": "1744016443"
             },
             "legacy": {
                 "buildid": "10827022",
@@ -70,8 +70,8 @@
                 "timeupdated": "1687512703"
             },
             "alpha-unstable": {
-                "buildid": "17763987",
-                "timeupdated": "1742294284"
+                "buildid": "17921076",
+                "timeupdated": "1743405236"
             }
         },
         "privatebranches": "1",
