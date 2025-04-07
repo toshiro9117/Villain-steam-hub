@@ -4,8 +4,8 @@
     "name": "Universe Sandbox",
     "schinese_name": "宇宙沙盘²",
     "isfreeapp": "0",
-    "change_number": "28007761",
-    "update_time": "2025-03-18 14:27:42",
+    "change_number": "28342418",
+    "update_time": "2025-04-07 17:12:01",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "230290",
@@ -258,7 +258,7 @@
         "branches": {
             "public": {
                 "buildid": "17715145",
-                "timeupdated": "1741902100"
+                "timeupdated": "1743701034"
             },
             "update-34.1.1": {
                 "buildid": "13730482",
