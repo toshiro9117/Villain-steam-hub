@@ -4,8 +4,8 @@
     "name": "Draconia Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27831286",
-    "update_time": "2025-03-07 16:26:13",
+    "change_number": "28269211",
+    "update_time": "2025-04-02 21:32:55",
     "depot": {
         "1004": {
             "config": {
@@ -56,12 +56,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4186348373309548966",
-                    "size": "760180983",
-                    "download": "531673824"
+                    "gid": "5808171892101648574",
+                    "size": "761433970",
+                    "download": "533416016"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "43c01e4193a322d5716917ce6189389d82b68f1f7d284ec5a39d75d465669d44"
         },
         "1956501": {
             "config": {
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5702736948207516190",
-                    "size": "1061337268",
-                    "download": "486371088"
+                    "gid": "1336335329006434968",
+                    "size": "1061918152",
+                    "download": "488080048"
                 }
             },
             "decryptionkey": ""
@@ -80,8 +80,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17632006",
-                "timeupdated": "1741335968"
+                "buildid": "17955391",
+                "timeupdated": "1743600770"
             }
         }
     }
