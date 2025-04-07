@@ -4,8 +4,8 @@
     "name": "Aloft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28003717",
-    "update_time": "2025-03-18 07:44:51",
+    "change_number": "28334067",
+    "update_time": "2025-04-07 01:10:53",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1660080",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4038808570493711161",
-                    "size": "13365295607",
-                    "download": "6308206640"
+                    "gid": "4103367128939433032",
+                    "size": "13403504665",
+                    "download": "6315772048"
                 }
             },
             "decryptionkey": "b31ceba7551b938f6ee5ac53d92c6bba9c6620164b2dedf36cf80fae8825b17e"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17686036",
-                "timeupdated": "1741804724"
+                "buildid": "17929516",
+                "timeupdated": "1743518170"
             }
         },
         "privatebranches": "1",
