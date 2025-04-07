@@ -4,8 +4,8 @@
     "name": "Waltz of the Wizard",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27954805",
-    "update_time": "2025-03-14 19:23:06",
+    "change_number": "28196615",
+    "update_time": "2025-03-29 02:15:31",
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6997140879820359070",
-                    "size": "7819808739",
-                    "download": "4162765760"
+                    "gid": "979505979759139899",
+                    "size": "7819776763",
+                    "download": "4162849968"
                 }
             },
             "decryptionkey": "22e4dc8fded362712da10517a0d040b3b16209ebefa394898fe37df1b34de209"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17365584",
-                "timeupdated": "1739533618"
+                "buildid": "17809754",
+                "timeupdated": "1742569147"
             }
         },
         "privatebranches": "1"
