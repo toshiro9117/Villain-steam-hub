@@ -4,8 +4,8 @@
     "name": "Volcano Princess",
     "schinese_name": "火山的女儿",
     "isfreeapp": "0",
-    "change_number": "27950719",
-    "update_time": "2025-03-14 15:21:11",
+    "change_number": "28030775",
+    "update_time": "2025-03-19 18:53:27",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4492599257754303257",
-                    "size": "5071110403",
-                    "download": "1104731792"
+                    "gid": "1325245108979624503",
+                    "size": "5066800241",
+                    "download": "1104664944"
                 }
             },
             "decryptionkey": "3a047ea5cbf7ba1277d2f1f7ed2016381bf2791e4678e42a7548f09fa03284e6"
         },
         "branches": {
             "public": {
-                "buildid": "17511825",
-                "timeupdated": "1740561150"
+                "buildid": "17778916",
+                "timeupdated": "1742381601"
             }
         },
         "privatebranches": "1"
