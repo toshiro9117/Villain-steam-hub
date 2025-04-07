@@ -4,8 +4,8 @@
     "name": "ContractVille",
     "schinese_name": "合同村",
     "isfreeapp": "0",
-    "change_number": "28012637",
-    "update_time": "2025-03-18 20:07:27",
+    "change_number": "28345349",
+    "update_time": "2025-04-07 20:18:19",
     "depot": {
         "228982": {
             "config": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6931402318411214378",
-                    "size": "21162990830",
-                    "download": "6815561088"
+                    "gid": "757655743672223184",
+                    "size": "20927730844",
+                    "download": "6760568192"
                 },
                 "old_public_0.5.2.3": {
                     "gid": "8407168977619223766",
@@ -55,8 +55,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17753479",
-                "timeupdated": "1742226581"
+                "buildid": "17991052",
+                "timeupdated": "1743803696"
             },
             "old_public_0.5.2.3": {
                 "buildid": "17285134",
