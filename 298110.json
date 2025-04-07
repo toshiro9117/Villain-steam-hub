@@ -4,8 +4,8 @@
     "name": "Far Cry 4",
     "schinese_name": "孤岛惊魂4",
     "isfreeapp": "0",
-    "change_number": "27950580",
-    "update_time": "2025-03-14 15:10:25",
+    "change_number": "28308460",
+    "update_time": "2025-04-04 20:39:30",
     "depot": {
         "baselanguages": "",
         "228983": {
@@ -32,9 +32,9 @@
         "298111": {
             "manifests": {
                 "public": {
-                    "gid": "4429920567751784363",
-                    "size": "28714248847",
-                    "download": "19648136768"
+                    "gid": "2105456758052215880",
+                    "size": "28887404527",
+                    "download": "19830371984"
                 }
             },
             "decryptionkey": "90765df7a812f66db8794bd7b41b398e9b12fe77ec22caaff1442644d2c2c91d"
@@ -42,9 +42,9 @@
         "298112": {
             "manifests": {
                 "public": {
-                    "gid": "7410145981583527729",
-                    "size": "802070846",
-                    "download": "513418784"
+                    "gid": "1721598166815779404",
+                    "size": "802070867",
+                    "download": "513418800"
                 }
             },
             "decryptionkey": "4f2126199ab0506f24ed8517d6b0e0c2ecf3a5cf4adbb2e5b32efbf21f3bb2e8"
@@ -52,9 +52,9 @@
         "298113": {
             "manifests": {
                 "public": {
-                    "gid": "7899953777863018300",
-                    "size": "6666032700",
-                    "download": "4216784288"
+                    "gid": "169231987088717034",
+                    "size": "6666724448",
+                    "download": "4200763968"
                 }
             },
             "decryptionkey": "e524b5855fe79757f864359e1de9606d4a0ab23ecd59b79f2af270bd97f497c8"
@@ -62,20 +62,20 @@
         "298114": {
             "manifests": {
                 "public": {
-                    "gid": "3861044786646333181",
-                    "size": "32687657771",
-                    "download": "20715116768"
+                    "gid": "4846718988665605838",
+                    "size": "32805337502",
+                    "download": "20956464544"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2218dbe36d21dd99bf8e46cbf5cb8e9c91897c36983a14363f38dd29d82e94d4"
         },
         "324341": {
             "dlcappid": "324341",
             "manifests": {
                 "public": {
-                    "gid": "5013727398231806871",
-                    "size": "2257196076",
-                    "download": "1876778416"
+                    "gid": "3810704983363922262",
+                    "size": "2257196082",
+                    "download": "1876778368"
                 }
             },
             "decryptionkey": "0a4894abdd94b40c7464d6beced29025b9b2c3b1476d44fdff2697e82edb34a9"
@@ -84,9 +84,9 @@
             "dlcappid": "324343",
             "manifests": {
                 "public": {
-                    "gid": "1186582994816706781",
-                    "size": "1162057331",
-                    "download": "965360768"
+                    "gid": "8840893055567759529",
+                    "size": "1120627795",
+                    "download": "934308640"
                 }
             },
             "decryptionkey": "8bcb7ae406c8a5325315decbe096d6b0afecf265d66514a10a1fe242be970690"
@@ -95,9 +95,9 @@
             "dlcappid": "324344",
             "manifests": {
                 "public": {
-                    "gid": "4261790023107314547",
-                    "size": "2480174047",
-                    "download": "2011885088"
+                    "gid": "4323357154106562145",
+                    "size": "2438744511",
+                    "download": "1980832960"
                 }
             },
             "decryptionkey": "47c247776a41ae1192804e89b02b35c7567a9f87b280d3e49bab395db669e1da"
@@ -115,8 +115,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11206634",
-                "timeupdated": "1683797649"
+                "buildid": "17981333",
+                "timeupdated": "1743770365"
             }
         },
         "privatebranches": "1"
