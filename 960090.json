@@ -4,8 +4,8 @@
     "name": "Bloons TD 6",
     "schinese_name": "气球塔防6",
     "isfreeapp": "0",
-    "change_number": "28007310",
-    "update_time": "2025-03-18 13:38:38",
+    "change_number": "28342000",
+    "update_time": "2025-04-07 16:44:09",
     "depot": {
         "hasdepotsindlc": "1",
         "960091": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6264464828396649625",
-                    "size": "2113237478",
-                    "download": "1600913776"
+                    "gid": "2628697465299761008",
+                    "size": "2164260887",
+                    "download": "1641216384"
                 }
             },
             "decryptionkey": "fa0fa5bda5003ddb011da9f8fd27d1680b2128487a5b03b752ad0772e0f52cd9"
@@ -31,17 +31,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1780545688222595181",
-                    "size": "2127766875",
-                    "download": "1603121088"
+                    "gid": "1584289957707580152",
+                    "size": "2178011500",
+                    "download": "1644616400"
                 }
             },
             "decryptionkey": "dd1593b861e9bd1297c007a48bc6c5d6e2a6a8b3ba8808d76534e20afe5012d6"
         },
         "branches": {
             "public": {
-                "buildid": "17540392",
-                "timeupdated": "1740709735"
+                "buildid": "17920639",
+                "timeupdated": "1743548674"
             }
         },
         "privatebranches": "1"
