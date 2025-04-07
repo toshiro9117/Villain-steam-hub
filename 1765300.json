@@ -4,8 +4,8 @@
     "name": "Ultimate Zombie Defense 2",
     "schinese_name": "终极僵尸防御2",
     "isfreeapp": "0",
-    "change_number": "27998422",
-    "update_time": "2025-03-18 00:56:28",
+    "change_number": "28260540",
+    "update_time": "2025-04-02 11:36:34",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam",
         "228988": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5358521840929606821",
-                    "size": "14716118650",
-                    "download": "12770432624"
+                    "gid": "425674012881858206",
+                    "size": "18353564829",
+                    "download": "15849183840"
                 }
             },
             "decryptionkey": "91d5ee6c2df3c69ec5ee6adb1ccd74bf45f8a311ffccfad5bdaa35aa0907bf5d"
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3241748526771337430",
-                    "size": "15061314952",
-                    "download": "12970911280"
+                    "gid": "3853541476743091754",
+                    "size": "18709591411",
+                    "download": "16057166384"
                 }
             },
             "decryptionkey": ""
@@ -46,8 +46,8 @@
         "workshopdepot": "1765300",
         "branches": {
             "public": {
-                "buildid": "17683211",
-                "timeupdated": "1741769372"
+                "buildid": "17870505",
+                "timeupdated": "1743070923"
             }
         },
         "privatebranches": "1",
