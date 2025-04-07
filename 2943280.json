@@ -4,16 +4,16 @@
     "name": "Dustland Delivery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010164",
-    "update_time": "2025-03-18 17:24:58",
+    "change_number": "28343739",
+    "update_time": "2025-04-07 18:30:04",
     "depot": {
         "workshopdepot": "2943280",
         "2943281": {
             "manifests": {
                 "public": {
-                    "gid": "5989435222622054014",
-                    "size": "2078174195",
-                    "download": "221423744"
+                    "gid": "3958583535451430203",
+                    "size": "2082712679",
+                    "download": "221009136"
                 }
             },
             "decryptionkey": "21e8caf4a1bbff8f83e2f1d46bdf17045d0466e7c9a319a99094e0bcd945b6d6"
@@ -22,21 +22,28 @@
             "dlcappid": "3404490",
             "manifests": {
                 "public": {
-                    "gid": "5303274178447187119",
-                    "size": "2078174195",
-                    "download": "221493520"
+                    "gid": "8050891872600745190",
+                    "size": "2082712679",
+                    "download": "221082416"
+                }
+            },
+            "decryptionkey": "631ba94966307eed6f069d2207d3148395e38f7ae53b2bf8b5e55e4d422062c6"
+        },
+        "3559340": {
+            "dlcappid": "3559340",
+            "manifests": {
+                "public": {
+                    "gid": "4451408466583502378",
+                    "size": "2082712679",
+                    "download": "221052032"
                 }
             },
             "decryptionkey": ""
         },
-        "3559340": {
-            "dlcappid": "3559340",
-            "manifests": {}
-        },
         "branches": {
             "public": {
-                "buildid": "17722653",
-                "timeupdated": "1741944633"
+                "buildid": "17966432",
+                "timeupdated": "1743667086"
             }
         },
         "privatebranches": "1",
