@@ -4,8 +4,8 @@
     "name": "GUILTY GEAR -STRIVE-",
     "schinese_name": "罪恶装备 -奋战-",
     "isfreeapp": "0",
-    "change_number": "27393577",
-    "update_time": "2025-02-10 11:12:22",
+    "change_number": "28257773",
+    "update_time": "2025-04-02 07:10:22",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8542742985979493080",
-                    "size": "29452973818",
-                    "download": "28100901744"
+                    "gid": "2239472466252571360",
+                    "size": "29780384186",
+                    "download": "28403869648"
                 }
             },
             "decryptionkey": "6a00a68034e78cffd8a0e7bb055e336446bf6b732c3605b5c96b73cffa5b3ecd"
@@ -38,8 +38,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16688233",
-                "timeupdated": "1734938685"
+                "buildid": "17410303",
+                "timeupdated": "1742801684"
             }
         },
         "privatebranches": "1"
