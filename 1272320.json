@@ -4,16 +4,16 @@
     "name": "Diplomacy is Not an Option",
     "schinese_name": "要战便战",
     "isfreeapp": "0",
-    "change_number": "27963703",
-    "update_time": "2025-03-15 03:24:59",
+    "change_number": "28320365",
+    "update_time": "2025-04-05 12:10:23",
     "depot": {
         "hasdepotsindlc": "0",
         "1272321": {
             "manifests": {
                 "public": {
-                    "gid": "2438190535269034458",
-                    "size": "11345021161",
-                    "download": "4623388176"
+                    "gid": "2504071485686938977",
+                    "size": "11345017855",
+                    "download": "4623378240"
                 }
             },
             "decryptionkey": "679b29b2f179a1a412570aecff5f975e3722b084a18733f963832690fcfd6005"
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17730390",
-                "timeupdated": "1741980295"
+                "buildid": "17781309",
+                "timeupdated": "1742464290"
             }
         },
         "privatebranches": "1"
