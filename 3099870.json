@@ -4,15 +4,20 @@
     "name": "Bussy Master: CLUB LEATHER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27415508",
-    "update_time": "2025-02-11 15:42:37",
+    "change_number": "28093016",
+    "update_time": "2025-03-23 11:39:02",
     "depot": {
         "3099871": {
             "manifests": {
                 "public": {
-                    "gid": "198983211407190327",
-                    "size": "1006113232",
-                    "download": "727533376"
+                    "gid": "6049947743887452843",
+                    "size": "1009344392",
+                    "download": "729777664"
+                },
+                "v2.01.1.05": {
+                    "gid": "6049947743887452843",
+                    "size": "1009344392",
+                    "download": "729777664"
                 },
                 "v2.00.1.04": {
                     "gid": "198983211407190327",
@@ -29,8 +34,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17317492",
-                "timeupdated": "1739257763"
+                "buildid": "17824146",
+                "timeupdated": "1742701138"
+            },
+            "v2.01.1.05": {
+                "buildid": "17824146",
+                "description": "v2.01.1.05",
+                "timeupdated": "1742697851"
             },
             "v2.00.1.04": {
                 "buildid": "17317492",
