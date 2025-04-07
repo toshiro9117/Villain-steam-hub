@@ -4,8 +4,8 @@
     "name": "Game Builder Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27542420",
-    "update_time": "2025-02-19 05:14:09",
+    "change_number": "28302171",
+    "update_time": "2025-04-04 13:04:24",
     "depot": {
         "hasdepotsindlc": "0",
         "2756471": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6684356899977642216",
-                    "size": "4088740099",
-                    "download": "3046605216"
+                    "gid": "4569461233626278127",
+                    "size": "3527943971",
+                    "download": "3011796480"
                 }
             },
             "decryptionkey": "5ba2bf00c1275bc74220c82caf964146dbe6a97258a8ca6abe209da8fa626122"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6191429703782373529",
-                    "size": "4118926606",
-                    "download": "3059201952"
+                    "gid": "7985333973906486607",
+                    "size": "3557393854",
+                    "download": "3023345296"
                 }
             },
             "decryptionkey": ""
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1211921173536596352",
-                    "size": "4146937911",
-                    "download": "3098237392"
+                    "gid": "6810125173615600153",
+                    "size": "3583267381",
+                    "download": "3063392944"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16436559",
-                "timeupdated": "1731864997"
+                "buildid": "17825883",
+                "timeupdated": "1742745932"
             }
         },
         "privatebranches": "1"
