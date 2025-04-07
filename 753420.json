@@ -4,8 +4,8 @@
     "name": "Dungreed",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27006130",
-    "update_time": "2025-01-15 19:15:07",
+    "change_number": "28325332",
+    "update_time": "2025-04-06 01:11:29",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -94,6 +94,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4dc83afd4d1be8fbaa16fd00fbc02f44a3bd9e79bba86aeac460f42966c34cff"
+        "workshopdepotdecryptionkey": ""
     }
 }
