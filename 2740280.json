@@ -4,8 +4,8 @@
     "name": "Tactic Boxing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27818196",
-    "update_time": "2025-03-07 00:08:11",
+    "change_number": "28332011",
+    "update_time": "2025-04-06 20:16:49",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2740281": {
             "manifests": {
                 "public": {
-                    "gid": "8530632304218067398",
-                    "size": "7983680379",
-                    "download": "2138902848"
+                    "gid": "8561106259973658577",
+                    "size": "6868243818",
+                    "download": "1850814336"
                 }
             },
             "decryptionkey": "ef29f751a9739d8085a82f083d762667ec556ed33dcdd3f5beda492efe955c55"
         },
         "branches": {
             "public": {
-                "buildid": "17137892",
-                "timeupdated": "1737916974"
+                "buildid": "17806999",
+                "timeupdated": "1742552462"
             }
         },
         "privatebranches": "1"
