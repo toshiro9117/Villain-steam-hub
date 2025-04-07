@@ -4,8 +4,8 @@
     "name": "Careening Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27768558",
-    "update_time": "2025-03-04 14:48:04",
+    "change_number": "28108066",
+    "update_time": "2025-03-24 20:12:14",
     "depot": {
         "228989": {
             "config": {
@@ -27,26 +27,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1493194374269931266",
-                    "size": "1076916048",
-                    "download": "936720144"
+                    "gid": "6233499136988493281",
+                    "size": "1075077213",
+                    "download": "935155728"
                 },
                 "testingbranch": {
-                    "gid": "1493194374269931266",
-                    "size": "1076916048",
-                    "download": "936720144"
+                    "gid": "6233499136988493281",
+                    "size": "1075077213",
+                    "download": "935155728"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17563310",
-                "timeupdated": "1741070878"
+                "buildid": "17831656",
+                "timeupdated": "1742818330"
             },
             "testingbranch": {
-                "buildid": "17563310",
+                "buildid": "17831656",
                 "description": "A Test Branch",
-                "timeupdated": "1740900411"
+                "timeupdated": "1742800504"
             }
         }
     }
