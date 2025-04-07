@@ -4,8 +4,8 @@
     "name": "Clank!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28009432",
-    "update_time": "2025-03-18 16:46:51",
+    "change_number": "28335961",
+    "update_time": "2025-04-07 05:17:26",
     "depot": {
         "1722871": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "635987927203522782",
-                    "size": "335694339",
-                    "download": "169894800"
+                    "gid": "6155230612645389642",
+                    "size": "333023656",
+                    "download": "169585664"
                 }
             },
             "decryptionkey": "8af2fdee75724efcc53f8c0ba0bbc226840f6c0395aabbdbdfa781ea1995bb51"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4434343573555363072",
-                    "size": "504396966",
-                    "download": "183086512"
+                    "gid": "2021339225062117669",
+                    "size": "503952964",
+                    "download": "183271152"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16807533",
-                "timeupdated": "1734713243"
+                "buildid": "17874236",
+                "timeupdated": "1743098231"
             }
         },
         "privatebranches": "1"
