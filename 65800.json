@@ -4,8 +4,8 @@
     "name": "Dungeon Defenders",
     "schinese_name": "地牢守护者",
     "isfreeapp": "0",
-    "change_number": "27971597",
-    "update_time": "2025-03-15 18:57:42",
+    "change_number": "28197382",
+    "update_time": "2025-03-29 03:00:17",
     "depot": {
         "228982": {
             "config": {
@@ -67,9 +67,9 @@
                     "download": "8001650352"
                 },
                 "returnia_beta": {
-                    "gid": "6958190077409485818",
-                    "size": "13363382243",
-                    "download": "9824517984"
+                    "gid": "1554594739838335117",
+                    "size": "13382489526",
+                    "download": "9831571120"
                 }
             },
             "decryptionkey": "13809c38aaacd4fc6cebccac1c55be5c391a624cedfbf8fc69d43bf78c542938"
@@ -139,9 +139,9 @@
                     "download": "189775040"
                 },
                 "returnia_beta": {
-                    "gid": "9057595281385368023",
-                    "size": "222966409",
-                    "download": "190131392"
+                    "gid": "7990627504473451508",
+                    "size": "222960200",
+                    "download": "190124544"
                 }
             },
             "dlcappid": "204381",
@@ -164,9 +164,9 @@
                     "download": "195352112"
                 },
                 "returnia_beta": {
-                    "gid": "6767698425044174360",
-                    "size": "214287435",
-                    "download": "194668848"
+                    "gid": "1231213416837189714",
+                    "size": "214287404",
+                    "download": "194669744"
                 }
             },
             "dlcappid": "204382",
@@ -189,9 +189,9 @@
                     "download": "235045536"
                 },
                 "returnia_beta": {
-                    "gid": "576028099833858544",
-                    "size": "253987587",
-                    "download": "235222016"
+                    "gid": "6030412429417664292",
+                    "size": "253986561",
+                    "download": "235214144"
                 }
             },
             "dlcappid": "204383",
@@ -412,9 +412,9 @@
                     "download": "257940176"
                 },
                 "returnia_beta": {
-                    "gid": "5945531639788237582",
-                    "size": "280607633",
-                    "download": "259024832"
+                    "gid": "4145019650290402712",
+                    "size": "280613864",
+                    "download": "259023088"
                 }
             },
             "dlcappid": "204384",
@@ -431,9 +431,9 @@
                 "timeupdated": "1739543538"
             },
             "returnia_beta": {
-                "buildid": "17736474",
+                "buildid": "17902792",
                 "description": "Beta for Returnia DLC",
-                "timeupdated": "1742036246"
+                "timeupdated": "1743188413"
             }
         },
         "privatebranches": "1"
