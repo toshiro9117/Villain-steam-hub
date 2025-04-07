@@ -4,23 +4,23 @@
     "name": "Gladio Mori",
     "schinese_name": "蠢蠢角斗士",
     "isfreeapp": "0",
-    "change_number": "27541691",
-    "update_time": "2025-02-19 04:16:22",
+    "change_number": "28332861",
+    "update_time": "2025-04-06 22:15:24",
     "depot": {
         "2689121": {
             "manifests": {
                 "public": {
-                    "gid": "5361024582850995474",
-                    "size": "401249021",
-                    "download": "122745440"
+                    "gid": "4631127530128419099",
+                    "size": "536024799",
+                    "download": "173546816"
                 }
             },
             "decryptionkey": "87cb2be56e4de79d17f5cb52efc521ae4a02a57f2195116339023ad0aa27c4be"
         },
         "branches": {
             "public": {
-                "buildid": "17290873",
-                "timeupdated": "1739012266"
+                "buildid": "17882381",
+                "timeupdated": "1743078980"
             }
         },
         "privatebranches": "1"
