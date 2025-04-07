@@ -4,8 +4,8 @@
     "name": "Yarimono",
     "schinese_name": "YARISUTEMESUBUTA ~ 一次性交易大师 ~",
     "isfreeapp": "0",
-    "change_number": "28007161",
-    "update_time": "2025-03-18 13:20:34",
+    "change_number": "28343170",
+    "update_time": "2025-04-07 17:58:40",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -74,7 +74,7 @@
                     "download": "716110720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8c29ea2b5027594c69bca1150c3c01415b8c9cee3009a20083de756a51ee5cac"
         },
         "branches": {
             "public": {
