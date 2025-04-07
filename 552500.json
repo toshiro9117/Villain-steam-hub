@@ -4,8 +4,8 @@
     "name": "Warhammer: Vermintide 2",
     "schinese_name": "战锤：末世鼠疫2",
     "isfreeapp": "0",
-    "change_number": "28012895",
-    "update_time": "2025-03-18 20:26:12",
+    "change_number": "28299192",
+    "update_time": "2025-04-04 08:10:45",
     "depot": {
         "228983": {
             "config": {
@@ -62,14 +62,14 @@
         "552501": {
             "manifests": {
                 "public": {
-                    "gid": "5978237621149313171",
-                    "size": "65912056961",
-                    "download": "42099683824"
+                    "gid": "3560519296238601309",
+                    "size": "65912057388",
+                    "download": "42099684288"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "5978237621149313171",
-                    "size": "65912056961",
-                    "download": "42099683824"
+                    "gid": "3560519296238601309",
+                    "size": "65912057388",
+                    "download": "42099684288"
                 }
             },
             "decryptionkey": "a7a75811b296249cb955e09881a66f2d253d083995ab0a749c6448e5ee6beee2"
@@ -92,14 +92,14 @@
         "552503": {
             "manifests": {
                 "public": {
-                    "gid": "2718232977451358708",
-                    "size": "284742854",
-                    "download": "70528784"
+                    "gid": "7984147419667742358",
+                    "size": "284742849",
+                    "download": "70528848"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "2718232977451358708",
-                    "size": "284742854",
-                    "download": "70528784"
+                    "gid": "7984147419667742358",
+                    "size": "284742849",
+                    "download": "70528848"
                 }
             },
             "decryptionkey": "dedd3fd14201a662940967a122b5f016d671e484a6b5e916669062f82007426a"
@@ -107,12 +107,12 @@
         "552504": {
             "manifests": {
                 "public": {
-                    "gid": "5661186120705998781",
+                    "gid": "2091602465282500222",
                     "size": "331311571",
                     "download": "78855424"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "5661186120705998781",
+                    "gid": "2091602465282500222",
                     "size": "331311571",
                     "download": "78855424"
                 }
@@ -144,13 +144,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17765404",
-                "timeupdated": "1742300764"
+                "buildid": "17879965",
+                "timeupdated": "1743065967"
             },
             "temporary_launcher_workaround": {
-                "buildid": "17765398",
+                "buildid": "17879949",
                 "description": "Bypass Launcher",
-                "timeupdated": "1742300695"
+                "timeupdated": "1743065892"
             }
         },
         "privatebranches": "1",
