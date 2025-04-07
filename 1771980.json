@@ -4,8 +4,8 @@
     "name": "The Operator",
     "schinese_name": "接线疑云 The Operator",
     "isfreeapp": "0",
-    "change_number": "27995704",
-    "update_time": "2025-03-17 22:34:47",
+    "change_number": "28096838",
+    "update_time": "2025-03-23 23:29:54",
     "depot": {
         "baselanguages": "english,french",
         "1771981": {
@@ -19,9 +19,9 @@
                     "download": "1224823248"
                 },
                 "beta": {
-                    "gid": "3249070521840919154",
-                    "size": "2425100824",
-                    "download": "1224823248"
+                    "gid": "805258986548842171",
+                    "size": "1905213683",
+                    "download": "697072928"
                 }
             },
             "decryptionkey": "a132c1c3d884ac55a44f68c500d37d3562afab6e6642d3051469f09a097274c3"
@@ -37,9 +37,9 @@
                     "download": "1235305280"
                 },
                 "beta": {
-                    "gid": "1752176067246835015",
-                    "size": "2465294049",
-                    "download": "1235305280"
+                    "gid": "665068496626060541",
+                    "size": "1945470540",
+                    "download": "707611392"
                 }
             },
             "decryptionkey": ""
@@ -55,9 +55,9 @@
                     "download": "624722256"
                 },
                 "beta": {
-                    "gid": "4833014472917027421",
-                    "size": "1813606510",
-                    "download": "624722256"
+                    "gid": "1691373775461388778",
+                    "size": "1884432126",
+                    "download": "691394352"
                 }
             },
             "decryptionkey": ""
@@ -68,9 +68,9 @@
                 "timeupdated": "1742220893"
             },
             "beta": {
-                "buildid": "17747709",
+                "buildid": "17827012",
                 "description": "beta branch to test the latest version",
-                "timeupdated": "1742190408"
+                "timeupdated": "1742743788"
             }
         },
         "privatebranches": "1"
