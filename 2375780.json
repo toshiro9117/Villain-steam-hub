@@ -4,8 +4,8 @@
     "name": "Beam Eye Tracker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27965684",
-    "update_time": "2025-03-15 05:46:50",
+    "change_number": "28146274",
+    "update_time": "2025-03-26 17:21:38",
     "depot": {
         "2375781": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "256668400"
                 },
                 "beta": {
-                    "gid": "5984374092279976702",
-                    "size": "597153005",
-                    "download": "256665584"
+                    "gid": "2495895271076465983",
+                    "size": "597168877",
+                    "download": "256668400"
                 }
             },
             "decryptionkey": "36327ca060d94c61bde1b0518cc17b2c9e035f7829155f0b90a846d24a27766c"
@@ -33,9 +33,9 @@
                 "timeupdated": "1741988805"
             },
             "beta": {
-                "buildid": "17706433",
+                "buildid": "17729831",
                 "description": "Public Beta version",
-                "timeupdated": "1741858900"
+                "timeupdated": "1742980891"
             }
         },
         "privatebranches": "1"
