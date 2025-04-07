@@ -4,8 +4,8 @@
     "name": "大侠立志传：碧血丹心",
     "schinese_name": "大侠立志传：碧血丹心",
     "isfreeapp": "0",
-    "change_number": "27902712",
-    "update_time": "2025-03-12 10:24:38",
+    "change_number": "28257774",
+    "update_time": "2025-04-02 07:11:13",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "workshopdepot": "1948980",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8938382478613677520",
-                    "size": "1948146084",
-                    "download": "1589498448"
+                    "gid": "4163076873235006062",
+                    "size": "1948145385",
+                    "download": "1589498944"
                 }
             },
             "decryptionkey": "e24e21853fcf27393c4424978740b631785a618ee8356eb9fa135070ade87f1b"
@@ -34,9 +34,9 @@
             "dlcappid": "2924120",
             "manifests": {
                 "public": {
-                    "gid": "3895072024303125819",
+                    "gid": "2389838211161023702",
                     "size": "212431319",
-                    "download": "171165952"
+                    "download": "171165984"
                 }
             },
             "decryptionkey": "1ee9dbc5a2205fa53b8290d7b9444ba5bcbee983bf5c04a92851b83c8edca2ce"
@@ -54,8 +54,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17673202",
-                "timeupdated": "1741746274"
+                "buildid": "17881339",
+                "timeupdated": "1743388119"
             }
         },
         "privatebranches": "1",
