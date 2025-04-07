@@ -4,8 +4,8 @@
     "name": "Ship Graveyard Simulator 2",
     "schinese_name": "船舶墓地模拟器2",
     "isfreeapp": "0",
-    "change_number": "28013273",
-    "update_time": "2025-03-18 20:51:13",
+    "change_number": "28346420",
+    "update_time": "2025-04-07 21:25:59",
     "depot": {
         "228981": {
             "config": {
@@ -66,9 +66,9 @@
         "2201941": {
             "manifests": {
                 "public": {
-                    "gid": "2959899645559836686",
-                    "size": "12999067249",
-                    "download": "12722378160"
+                    "gid": "8845633423027789888",
+                    "size": "13056631392",
+                    "download": "12779873152"
                 }
             },
             "decryptionkey": "786baefb7662e006fd710680e9ad8ad20bfc6b6ec4ce089d528438f1ae7b480a"
@@ -77,8 +77,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17707804",
-                "timeupdated": "1741875843"
+                "buildid": "17984890",
+                "timeupdated": "1743773852"
             }
         },
         "privatebranches": "1"
