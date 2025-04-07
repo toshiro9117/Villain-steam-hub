@@ -4,8 +4,8 @@
     "name": "Slipgate Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27974835",
-    "update_time": "2025-03-16 02:41:46",
+    "change_number": "28316107",
+    "update_time": "2025-04-05 04:06:52",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "236103222613442709",
-                    "size": "2871085990",
-                    "download": "895804528"
+                    "gid": "344308287853241077",
+                    "size": "2780731865",
+                    "download": "843192784"
                 }
             }
         },
@@ -36,16 +36,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6908563969327264144",
-                    "size": "2871085990",
-                    "download": "895804528"
+                    "gid": "4880975013417079401",
+                    "size": "2932213415",
+                    "download": "913644048"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16257105",
-                "timeupdated": "1730408897"
+                "buildid": "17990186",
+                "timeupdated": "1743797209"
             }
         }
     }
