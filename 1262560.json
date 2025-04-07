@@ -4,9 +4,10 @@
     "name": "Need for Speed™ Most Wanted",
     "schinese_name": "极品飞车：最高通缉",
     "isfreeapp": "0",
-    "change_number": "27392582",
-    "update_time": "2025-02-10 09:17:34",
+    "change_number": "28318665",
+    "update_time": "2025-04-05 08:10:08",
     "depot": {
+        "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,dutch,czech",
         "228990": {
             "config": {
                 "oslist": "windows"
@@ -14,11 +15,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,dutch,czech",
         "1262561": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8159337960243801699",
@@ -170,6 +167,17 @@
                 }
             },
             "decryptionkey": "f88be6a7f2c1edb2e5d6997388e72acade24f72a085fe1405e4f58f083e51f97"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
