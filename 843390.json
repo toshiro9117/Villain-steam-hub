@@ -4,9 +4,10 @@
     "name": "Vertigo 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27386314",
-    "update_time": "2025-02-09 18:25:53",
+    "change_number": "28181336",
+    "update_time": "2025-03-28 08:37:22",
     "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,dutch,ukrainian",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -39,7 +40,13 @@
             },
             "decryptionkey": "d6719362ab7b91b7b7ec67588c8c21cb1ba032f364c426766125ebaecd54b480"
         },
-        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,dutch,ukrainian",
+        "3305800": {
+            "dlcappid": "3305800",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "16682837",
@@ -60,6 +67,7 @@
                 "description": "Pre-bottomless update build from July 2023",
                 "timeupdated": "1740277541"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
