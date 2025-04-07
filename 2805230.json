@@ -4,8 +4,8 @@
     "name": "Backrooms: Last Room",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992519",
-    "update_time": "2025-03-17 19:38:43",
+    "change_number": "28331392",
+    "update_time": "2025-04-06 18:52:39",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -25,17 +25,17 @@
         "2805231": {
             "manifests": {
                 "public": {
-                    "gid": "9034381532293210775",
-                    "size": "3209909578",
-                    "download": "3059260976"
+                    "gid": "5334615455063589351",
+                    "size": "3808451738",
+                    "download": "3592522656"
                 }
             },
             "decryptionkey": "a01f3f89380ea090925946fac5eb6778db16b94a4da278b26e7147ef66d56549"
         },
         "branches": {
             "public": {
-                "buildid": "15522311",
-                "timeupdated": "1724870842"
+                "buildid": "17915925",
+                "timeupdated": "1743344787"
             }
         }
     }
