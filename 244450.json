@@ -4,8 +4,8 @@
     "name": "Men of War: Assault Squad 2",
     "schinese_name": "战争之人：突击小队2",
     "isfreeapp": "0",
-    "change_number": "27381654",
-    "update_time": "2025-02-09 04:18:26",
+    "change_number": "28132228",
+    "update_time": "2025-03-25 23:16:57",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "244450",
@@ -424,6 +424,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "27e32a61a66bf4b30a7e50e5afb66cd95fa9bcab911199c86d940ab1b428df44"
+        "workshopdepotdecryptionkey": ""
     }
 }
