@@ -4,23 +4,23 @@
     "name": "TCG Card Shop Simulator",
     "schinese_name": "卡牌店模拟器",
     "isfreeapp": "0",
-    "change_number": "27978202",
-    "update_time": "2025-03-16 12:20:43",
+    "change_number": "28278850",
+    "update_time": "2025-04-03 08:10:36",
     "depot": {
         "3070071": {
             "manifests": {
                 "public": {
-                    "gid": "3480195421970743745",
-                    "size": "3554670313",
-                    "download": "1108353328"
+                    "gid": "4335321487884939950",
+                    "size": "4040829665",
+                    "download": "1236375120"
                 }
             },
             "decryptionkey": "5c49dfd1ba36d4e81f59ad3a2cd714ec14bdb40ac41848727aca2dc9ed29c748"
         },
         "branches": {
             "public": {
-                "buildid": "17100544",
-                "timeupdated": "1737607910"
+                "buildid": "17846361",
+                "timeupdated": "1742875425"
             }
         },
         "privatebranches": "1"
