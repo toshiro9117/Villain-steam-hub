@@ -4,20 +4,20 @@
     "name": "Rogue Command",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27893500",
-    "update_time": "2025-03-11 23:21:02",
+    "change_number": "28305302",
+    "update_time": "2025-04-04 17:18:57",
     "depot": {
         "1461911": {
             "manifests": {
                 "public": {
-                    "gid": "8543717863631707226",
-                    "size": "4640423541",
-                    "download": "577758688"
+                    "gid": "7087411412692135012",
+                    "size": "4724826421",
+                    "download": "579441072"
                 },
                 "beta": {
-                    "gid": "8543717863631707226",
-                    "size": "4640423541",
-                    "download": "577758688"
+                    "gid": "3077896982667440131",
+                    "size": "4724841165",
+                    "download": "579407856"
                 }
             },
             "decryptionkey": "5b635c96f61959d88cc4b8ae99f6c35834a8948fe2528ea1974756c863d7b882"
@@ -25,13 +25,13 @@
         "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17659840",
-                "timeupdated": "1741601404"
+                "buildid": "17937203",
+                "timeupdated": "1743506392"
             },
             "beta": {
-                "buildid": "17659840",
+                "buildid": "17982365",
                 "description": "latest unstable version",
-                "timeupdated": "1741601377"
+                "timeupdated": "1743758329"
             }
         }
     }
