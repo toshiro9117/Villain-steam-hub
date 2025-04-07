@@ -4,8 +4,8 @@
     "name": "Vagrus - The Riven Realms",
     "schinese_name": "《瓦格鲁斯 - 万壑之地》",
     "isfreeapp": "0",
-    "change_number": "27960242",
-    "update_time": "2025-03-15 00:05:39",
+    "change_number": "28315381",
+    "update_time": "2025-04-05 03:10:40",
     "depot": {
         "909661": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8022842994561816078",
-                    "size": "4027810314",
-                    "download": "2375637056"
+                    "gid": "1785084487538870213",
+                    "size": "6769214957",
+                    "download": "4070696880"
                 },
                 "public_beta": {
-                    "gid": "2816532920440760940",
-                    "size": "6780357981",
-                    "download": "4082329280"
+                    "gid": "1785084487538870213",
+                    "size": "6769214957",
+                    "download": "4070696880"
                 }
             },
             "decryptionkey": "b78c9f863001a8a018cb92afa84b794a77c1c8bb300df1b381ae7a288f24700f"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1923559627463585983",
-                    "size": "4035690874",
-                    "download": "2382503792"
+                    "gid": "3205951557258614284",
+                    "size": "6776121246",
+                    "download": "4077207584"
                 },
                 "public_beta": {
-                    "gid": "2671343612691812967",
-                    "size": "6787296838",
-                    "download": "4088883680"
+                    "gid": "3205951557258614284",
+                    "size": "6776121246",
+                    "download": "4077207584"
                 }
             },
             "decryptionkey": ""
@@ -49,14 +49,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5087316982880009241",
-                    "size": "3998610006",
-                    "download": "2362537392"
+                    "gid": "1509116940351281764",
+                    "size": "6740825639",
+                    "download": "4057321120"
                 },
                 "public_beta": {
-                    "gid": "6304030428787897270",
-                    "size": "6748817850",
-                    "download": "4066255728"
+                    "gid": "1509116940351281764",
+                    "size": "6740825639",
+                    "download": "4057321120"
                 }
             },
             "decryptionkey": ""
@@ -65,7 +65,7 @@
             "dlcappid": "1761710",
             "manifests": {
                 "public": {
-                    "gid": "7813901669279554069",
+                    "gid": "689301461509361762",
                     "size": "191469618",
                     "download": "191203552"
                 },
@@ -82,13 +82,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16540163",
-                "timeupdated": "1732636951"
+                "buildid": "17987447",
+                "timeupdated": "1743789583"
             },
             "public_beta": {
-                "buildid": "17708463",
+                "buildid": "17987447",
                 "description": "Unfinished and buggy features; incomplete content, etc. - secure your save files, use at your own risk only. You may lose everything here.",
-                "timeupdated": "1741876393"
+                "timeupdated": "1743789405"
             }
         },
         "privatebranches": "1"
