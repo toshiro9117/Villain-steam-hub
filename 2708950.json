@@ -4,8 +4,8 @@
     "name": "Corruption Town",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27963267",
-    "update_time": "2025-03-15 03:00:04",
+    "change_number": "28254618",
+    "update_time": "2025-04-02 02:52:22",
     "depot": {
         "baselanguages": "english",
         "2708951": {
@@ -15,27 +15,27 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3285678465633378659",
+                    "size": "3689140093",
+                    "download": "1458188896"
+                },
+                "backup": {
                     "gid": "5794117771376744680",
                     "size": "3689152072",
                     "download": "1458237488"
-                },
-                "backup": {
-                    "gid": "8014623268706532387",
-                    "size": "3048813330",
-                    "download": "1180905056"
                 }
             },
             "decryptionkey": "6c6256dc770672ddf4140c20c4641576e8eb467bb291b04045a6967d8a9745b4"
         },
         "branches": {
             "public": {
-                "buildid": "17729986",
-                "timeupdated": "1741978638"
+                "buildid": "17785890",
+                "timeupdated": "1742419106"
             },
             "backup": {
-                "buildid": "16764078",
-                "description": "0.7i",
-                "timeupdated": "1741790517"
+                "buildid": "17729986",
+                "description": "0.8.2",
+                "timeupdated": "1742337395"
             }
         },
         "privatebranches": "1"
