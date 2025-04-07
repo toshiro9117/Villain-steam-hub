@@ -4,23 +4,23 @@
     "name": "Keeper's Toll",
     "schinese_name": "守护者之魂",
     "isfreeapp": "0",
-    "change_number": "27974232",
-    "update_time": "2025-03-16 01:17:10",
+    "change_number": "28274648",
+    "update_time": "2025-04-03 02:54:28",
     "depot": {
         "2002221": {
             "manifests": {
                 "public": {
-                    "gid": "4591273767541488017",
-                    "size": "1556265846",
-                    "download": "276972112"
+                    "gid": "6710152174216730312",
+                    "size": "1556266346",
+                    "download": "277113216"
                 }
             },
             "decryptionkey": "d4d948ea316e69a85da5404e1b7e1f1847c798bfb887b9d5ad83621f2e0f3339"
         },
         "branches": {
             "public": {
-                "buildid": "17737984",
-                "timeupdated": "1742059022"
+                "buildid": "17959054",
+                "timeupdated": "1743620063"
             }
         },
         "privatebranches": "1"
