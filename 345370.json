@@ -4,8 +4,8 @@
     "name": "TyranoBuilder Visual Novel Studio",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "22534048",
-    "update_time": "2024-05-24 05:57:12",
+    "change_number": "28285114",
+    "update_time": "2025-04-03 17:04:08",
     "depot": {
         "hasdepotsindlc": "1",
         "345371": {
@@ -92,6 +92,11 @@
                     "gid": "5506903433528862459",
                     "size": "999306545",
                     "download": "214301712"
+                },
+                "v3.00beta": {
+                    "gid": "2275659145057696606",
+                    "size": "1101013655",
+                    "download": "236708032"
                 }
             },
             "decryptionkey": "ec67d7097f3cbd7b2b2fbfcbaadd805fb26f28f043eed4203619ca5773dd824d"
@@ -180,6 +185,11 @@
                     "gid": "8219625205842173422",
                     "size": "1015226560",
                     "download": "173756368"
+                },
+                "v3.00beta": {
+                    "gid": "7277583375419520732",
+                    "size": "1089125134",
+                    "download": "219834496"
                 }
             },
             "decryptionkey": ""
@@ -269,9 +279,14 @@
                     "gid": "7834009943498738192",
                     "size": "1002142305",
                     "download": "217589168"
+                },
+                "v3.00beta": {
+                    "gid": "3460929305728712823",
+                    "size": "1119815063",
+                    "download": "255676896"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c4f9df83aa8475583cb43158b1affd24494481c9f54602f98e6ec1e6c56817a8"
         },
         "345374": {
             "config": {
@@ -358,6 +373,11 @@
                     "gid": "4556924642913624201",
                     "size": "1018069614",
                     "download": "177051936"
+                },
+                "v3.00beta": {
+                    "gid": "4988431335832242081",
+                    "size": "1108071279",
+                    "download": "238843008"
                 }
             },
             "decryptionkey": ""
@@ -428,6 +448,11 @@
                 "buildid": "9615274",
                 "description": "V2.04",
                 "timeupdated": "1664434819"
+            },
+            "v3.00beta": {
+                "buildid": "17967195",
+                "description": "Major update beta",
+                "timeupdated": "1743671043"
             }
         }
     }
