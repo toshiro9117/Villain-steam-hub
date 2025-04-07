@@ -4,8 +4,8 @@
     "name": "STONKS-9800: Stock Market Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010542",
-    "update_time": "2025-03-18 17:48:54",
+    "change_number": "28275885",
+    "update_time": "2025-04-03 04:21:09",
     "depot": {
         "baselanguages": "english,koreana,japanese,ukrainian",
         "workshopdepot": "1539140",
@@ -20,9 +20,9 @@
                     "download": "78153664"
                 },
                 "beta": {
-                    "gid": "4202155135382546695",
-                    "size": "101134893",
-                    "download": "78082848"
+                    "gid": "4844583303833453590",
+                    "size": "101190944",
+                    "download": "78110400"
                 },
                 "v.0.1": {
                     "gid": "3030159766078331891",
@@ -63,9 +63,9 @@
                     "download": "77564144"
                 },
                 "beta": {
-                    "gid": "5550766361562654765",
-                    "size": "99190553",
-                    "download": "77513760"
+                    "gid": "3957815457537231693",
+                    "size": "99237132",
+                    "download": "77533152"
                 },
                 "v.0.1": {
                     "gid": "7803828411245589805",
@@ -106,9 +106,9 @@
                     "download": "88263296"
                 },
                 "beta": {
-                    "gid": "2883480139678168296",
-                    "size": "142433249",
-                    "download": "88263296"
+                    "gid": "3518353201515763934",
+                    "size": "141456985",
+                    "download": "88123472"
                 },
                 "v.0.1": {
                     "gid": "6466909058159972148",
@@ -134,9 +134,9 @@
                 "timeupdated": "1737586061"
             },
             "beta": {
-                "buildid": "17763440",
+                "buildid": "17838922",
                 "description": "Branch with more frequent but possibly unstable updates",
-                "timeupdated": "1742291328"
+                "timeupdated": "1742835263"
             },
             "v.0.1": {
                 "buildid": "15061321",
