@@ -4,8 +4,8 @@
     "name": "Exodus from the Earth",
     "schinese_name": "逃离地球",
     "isfreeapp": "0",
-    "change_number": "28006416",
-    "update_time": "2025-03-18 11:55:05",
+    "change_number": "28179663",
+    "update_time": "2025-03-28 06:15:21",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,russian",
@@ -50,7 +50,7 @@
                     "download": "2575820336"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9f23b12bbaf7e4a62b185e82d19cb2d92716c5216a54a87de267926060308ba6"
         },
         "branches": {
             "public": {
