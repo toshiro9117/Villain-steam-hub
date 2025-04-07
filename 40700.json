@@ -4,8 +4,8 @@
     "name": "Machinarium",
     "schinese_name": "机械迷城 (Machinarium)",
     "isfreeapp": "0",
-    "change_number": "27951413",
-    "update_time": "2025-03-14 16:06:55",
+    "change_number": "28270683",
+    "update_time": "2025-04-02 22:56:58",
     "depot": {
         "40702": {
             "config": {
@@ -43,9 +43,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3658574386657440524",
-                    "size": "311767200",
-                    "download": "301997568"
+                    "gid": "2009437841385501498",
+                    "size": "315123712",
+                    "download": "303544432"
                 },
                 "legacy": {
                     "gid": "645634711973099289",
@@ -68,8 +68,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "12893158",
-                "timeupdated": "1701945959"
+                "buildid": "17721684",
+                "timeupdated": "1742903244"
             },
             "legacy": {
                 "buildid": "4293212",
