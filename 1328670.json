@@ -4,8 +4,8 @@
     "name": "Mass Effect™ Legendary Edition",
     "schinese_name": "《质量效应》传奇版",
     "isfreeapp": "0",
-    "change_number": "27866722",
-    "update_time": "2025-03-10 15:48:44",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:45",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish",
         "228988": {
@@ -23,9 +23,6 @@
             "sharedinstall": "1"
         },
         "1328671": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8624289317820175979",
@@ -138,6 +135,17 @@
                 }
             },
             "decryptionkey": "aa32bd82a4477fea9f805725a12c6514ef11cbc069f1029161abfde1451d9e22"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
