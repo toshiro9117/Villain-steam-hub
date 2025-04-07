@@ -4,8 +4,8 @@
     "name": "NEBULOUS Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28000582",
-    "update_time": "2025-03-18 03:12:12",
+    "change_number": "28324605",
+    "update_time": "2025-04-05 23:29:06",
     "depot": {
         "1004": {
             "config": {
@@ -61,9 +61,9 @@
                     "download": "1848365776"
                 },
                 "testing": {
-                    "gid": "1609207686560465949",
-                    "size": "2422154149",
-                    "download": "1848365776"
+                    "gid": "6160327428493901176",
+                    "size": "2422269449",
+                    "download": "1848468832"
                 }
             },
             "decryptionkey": ""
@@ -74,9 +74,9 @@
                 "timeupdated": "1742238728"
             },
             "testing": {
-                "buildid": "17746860",
+                "buildid": "17996385",
                 "description": "For public test builds of the dedicated server",
-                "timeupdated": "1742238707"
+                "timeupdated": "1743866942"
             }
         }
     }
