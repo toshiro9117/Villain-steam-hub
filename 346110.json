@@ -4,8 +4,8 @@
     "name": "ARK: Survival Evolved",
     "schinese_name": "方舟：生存进化",
     "isfreeapp": "0",
-    "change_number": "27488490",
-    "update_time": "2025-02-15 07:10:45",
+    "change_number": "28325332",
+    "update_time": "2025-04-06 01:11:27",
     "depot": {
         "depotdeltapatches": "1",
         "workshopdepot": "346110",
@@ -767,6 +767,13 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "3537070": {
+            "dlcappid": "3537070",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
