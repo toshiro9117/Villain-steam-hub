@@ -4,8 +4,8 @@
     "name": "Sid Meier's Civilization VII",
     "schinese_name": "席德·梅尔的文明VII",
     "isfreeapp": "0",
-    "change_number": "28009554",
-    "update_time": "2025-03-18 16:55:50",
+    "change_number": "28340506",
+    "update_time": "2025-04-07 14:52:20",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "1295661": {
@@ -14,14 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5357024556083078068",
-                    "size": "20726738349",
-                    "download": "16760368944"
+                    "gid": "5508748571861199555",
+                    "size": "20891626039",
+                    "download": "16783530384"
                 },
                 "console-compatible": {
-                    "gid": "5357024556083078068",
-                    "size": "20726738349",
-                    "download": "16760368944"
+                    "gid": "5508748571861199555",
+                    "size": "20891626039",
+                    "download": "16783530384"
+                },
+                "console-compatible-switch": {
+                    "gid": "5508748571861199555",
+                    "size": "20891626039",
+                    "download": "16783530384"
                 }
             },
             "decryptionkey": "59cf929fe0be7af1bba7498247138b359bcc8141d6921f65f06f5d3c4e604430"
@@ -33,14 +38,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "286378409708357516",
-                    "size": "1244739666",
-                    "download": "737338224"
+                    "gid": "5341048419205648407",
+                    "size": "1364228408",
+                    "download": "781376960"
                 },
                 "console-compatible": {
-                    "gid": "286378409708357516",
-                    "size": "1244739666",
-                    "download": "737338224"
+                    "gid": "5341048419205648407",
+                    "size": "1364228408",
+                    "download": "781376960"
+                },
+                "console-compatible-switch": {
+                    "gid": "5341048419205648407",
+                    "size": "1364228408",
+                    "download": "781376960"
                 }
             },
             "decryptionkey": "2d91bb0ac40f79f21d133921c8092cee1bbc5622c1e429d5d5e65a5543a440eb"
@@ -52,14 +62,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8177167292452217045",
-                    "size": "29260420893",
-                    "download": "15987604288"
+                    "gid": "963989298092155658",
+                    "size": "29462971903",
+                    "download": "16010402272"
                 },
                 "console-compatible": {
-                    "gid": "8177167292452217045",
-                    "size": "29260420893",
-                    "download": "15987604288"
+                    "gid": "963989298092155658",
+                    "size": "29462971903",
+                    "download": "16010402272"
+                },
+                "console-compatible-switch": {
+                    "gid": "963989298092155658",
+                    "size": "29462971903",
+                    "download": "16010402272"
                 }
             },
             "decryptionkey": "129446ed0c86a3cecf211aca2aca7c0ef0b14248fe2e7229afb79e90f2b07531"
@@ -76,14 +91,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5783515309388088000",
-                    "size": "236055732",
-                    "download": "30564384"
+                    "gid": "8565892578199266399",
+                    "size": "236833431",
+                    "download": "30780352"
                 },
                 "console-compatible": {
-                    "gid": "5783515309388088000",
-                    "size": "236055732",
-                    "download": "30564384"
+                    "gid": "8565892578199266399",
+                    "size": "236833431",
+                    "download": "30780352"
+                },
+                "console-compatible-switch": {
+                    "gid": "8565892578199266399",
+                    "size": "236833431",
+                    "download": "30780352"
                 }
             },
             "decryptionkey": "ad00cf603a7538a190b6f7e523a9f9b1ff48759aacb39f2b35a70c5302fcef37"
@@ -95,27 +115,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2706015831849960056",
-                    "size": "28833593021",
-                    "download": "15733980528"
+                    "gid": "5538722189891402402",
+                    "size": "29017580842",
+                    "download": "15756124576"
                 },
                 "console-compatible": {
-                    "gid": "2706015831849960056",
-                    "size": "28833593021",
-                    "download": "15733980528"
+                    "gid": "5538722189891402402",
+                    "size": "29017580842",
+                    "download": "15756124576"
+                },
+                "console-compatible-switch": {
+                    "gid": "5538722189891402402",
+                    "size": "29017580842",
+                    "download": "15756124576"
                 }
             },
             "decryptionkey": "68e1686bc8f5a23173a86f6a5c3fb61ae2714081bf956976f7f837a1f03a9779"
         },
         "branches": {
             "public": {
-                "buildid": "17525712",
-                "timeupdated": "1741100524"
+                "buildid": "17882850",
+                "timeupdated": "1743106113"
             },
             "console-compatible": {
-                "buildid": "17525712",
-                "description": "Maintains compatibility to live console builds but may be missing latest fixes and content. Switch may experience a delay.",
-                "timeupdated": "1741100591"
+                "buildid": "17882850",
+                "description": "Maintains compatibility to live PlayStation and Xbox builds but may be missing latest fixes and content.",
+                "timeupdated": "1743110548"
+            },
+            "console-compatible-switch": {
+                "buildid": "17882850",
+                "description": "Maintains compatibility to the live Switch build but may be missing latest fixes and content.",
+                "timeupdated": "1743713096"
             }
         },
         "privatebranches": "1"
