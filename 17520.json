@@ -4,8 +4,8 @@
     "name": "Synergy",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27716960",
-    "update_time": "2025-02-28 20:23:00",
+    "change_number": "28101293",
+    "update_time": "2025-03-24 09:57:24",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -15,9 +15,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3637440939892086343",
-                    "size": "736542781",
-                    "download": "330177792"
+                    "gid": "3351780534749169701",
+                    "size": "736208294",
+                    "download": "330144144"
                 },
                 "development_20.1": {
                     "gid": "2797977215120804872",
@@ -50,12 +50,11 @@
                     "download": "305583920"
                 },
                 "development": {
-                    "gid": "7631220257002074140",
-                    "size": "736208208",
-                    "download": "330144064"
+                    "gid": "3351780534749169701",
+                    "size": "736208294",
+                    "download": "330144144"
                 }
-            },
-            "decryptionkey": "79dec28a9ccea607779ffdd986dd6244ef741815c934b5b6d5f9e4e04531e179"
+            }
         },
         "17521": {
             "config": {
@@ -63,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2756859679000420541",
-                    "size": "147723682",
-                    "download": "50978896"
+                    "gid": "6903198116355090518",
+                    "size": "148348448",
+                    "download": "51202656"
                 },
                 "development_20.1": {
                     "gid": "4230377220192829374",
@@ -98,12 +97,11 @@
                     "download": "47633232"
                 },
                 "development": {
-                    "gid": "1178257078464494173",
-                    "size": "147724832",
-                    "download": "50994752"
+                    "gid": "6903198116355090518",
+                    "size": "148348448",
+                    "download": "51202656"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "17523": {
             "config": {
@@ -111,9 +109,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3541738353797471083",
-                    "size": "109402934",
-                    "download": "29338528"
+                    "gid": "2982103201324635446",
+                    "size": "110489458",
+                    "download": "29625520"
                 },
                 "development_20.1": {
                     "gid": "3876841529151801915",
@@ -146,12 +144,11 @@
                     "download": "34197712"
                 },
                 "development": {
-                    "gid": "4098667436963625129",
-                    "size": "110228710",
-                    "download": "29529040"
+                    "gid": "2982103201324635446",
+                    "size": "110489458",
+                    "download": "29625520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "17524": {
             "config": {
@@ -198,8 +195,7 @@
                     "size": "104199370",
                     "download": "21038288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "17525": {
             "config": {
@@ -208,8 +204,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16886127",
-                "timeupdated": "1735731331"
+                "buildid": "17830056",
+                "timeupdated": "1742781436"
             },
             "development_20.1": {
                 "buildid": "4561932",
@@ -238,12 +234,11 @@
                 "timeupdated": "1732755683"
             },
             "development": {
-                "buildid": "17060656",
+                "buildid": "17830056",
                 "description": "Latest Development Branch",
-                "timeupdated": "1737348725"
+                "timeupdated": "1742779407"
             }
         },
-        "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "privatebranches": "1"
     }
 }
