@@ -4,8 +4,8 @@
     "name": "Soulkin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27523715",
-    "update_time": "2025-02-18 05:52:34",
+    "change_number": "28316501",
+    "update_time": "2025-04-05 04:37:45",
     "depot": {
         "2849071": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6313320999841635610",
-                    "size": "882271109",
-                    "download": "403540032"
+                    "gid": "3218521835186458233",
+                    "size": "856247912",
+                    "download": "448682992"
                 }
             },
             "decryptionkey": "0531a680c23ad7bfa7df859129dcf85d223f7867d3acb417561aab63a38ba576"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4265931865299816012",
-                    "size": "985708330",
-                    "download": "426195984"
+                    "gid": "405634191515701151",
+                    "size": "708733079",
+                    "download": "269464832"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17398843",
-                "timeupdated": "1739829070"
+                "buildid": "17986789",
+                "timeupdated": "1743781948"
             }
         },
         "privatebranches": "1"
