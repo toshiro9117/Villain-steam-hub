@@ -4,16 +4,17 @@
     "name": "封神传God pass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27923337",
-    "update_time": "2025-03-13 09:05:42",
+    "change_number": "28323921",
+    "update_time": "2025-04-05 21:54:08",
     "depot": {
-        "baselanguages": "english,koreana,schinese,tchinese",
+        "baselanguages": "english,german,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
         "3241111": {
             "manifests": {
                 "public": {
-                    "gid": "8360379032415508835",
-                    "size": "381741321",
-                    "download": "278130928"
+                    "gid": "883182870695313603",
+                    "size": "381264901",
+                    "download": "277654608"
                 }
             },
             "decryptionkey": "87e5538fb4a5c525dacaa834224f334cc7c9106b1f4c15950a5909f01ca03f42"
@@ -25,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2214815181793314948",
-                    "size": "381745631",
-                    "download": "278133216"
+                    "gid": "5865648418211300817",
+                    "size": "381739785",
+                    "download": "278135952"
                 }
             },
             "decryptionkey": ""
@@ -60,6 +61,20 @@
             },
             "decryptionkey": ""
         },
+        "3241115": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8004716539639770780",
+                    "size": "561140784",
+                    "download": "446051824"
+                }
+            },
+            "decryptionkey": ""
+        },
         "3518770": {
             "dlcappid": "3518770",
             "config": {
@@ -69,18 +84,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5554260478595834641",
-                    "size": "407097518",
-                    "download": "292782160"
+                    "gid": "9079894358340117748",
+                    "size": "413011346",
+                    "download": "298142432"
                 }
             },
             "decryptionkey": ""
         },
-        "hasdepotsindlc": "1",
+        "3241116": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8497709977031600605",
+                    "size": "288868473",
+                    "download": "219764496"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17544203",
-                "timeupdated": "1740734453"
+                "buildid": "17996046",
+                "timeupdated": "1743860969"
             }
         },
         "appmanagesdlc": "1"
