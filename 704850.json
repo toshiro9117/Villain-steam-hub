@@ -4,8 +4,8 @@
     "name": "Thief Simulator",
     "schinese_name": "小偷模拟器",
     "isfreeapp": "0",
-    "change_number": "27973378",
-    "update_time": "2025-03-15 23:21:28",
+    "change_number": "28201129",
+    "update_time": "2025-03-29 08:15:25",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7388758060708331345",
-                    "size": "12228623169",
-                    "download": "4653324464"
+                    "gid": "5905302388927689467",
+                    "size": "12227740209",
+                    "download": "4652714496"
                 }
             },
             "decryptionkey": "c6eb71b65618938bcf35d976cdd952c08d6fc53d1617ec8a408d9e8aedf5fb6f"
@@ -65,8 +65,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16964125",
-                "timeupdated": "1736613983"
+                "buildid": "17795862",
+                "timeupdated": "1742898800"
             }
         },
         "privatebranches": "1"
