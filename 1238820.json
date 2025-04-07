@@ -4,8 +4,8 @@
     "name": "Battlefield 3™ ",
     "schinese_name": "《Battlefield 3™》",
     "isfreeapp": "0",
-    "change_number": "27993085",
-    "update_time": "2025-03-17 20:22:21",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:18",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,czech",
         "hasdepotsindlc": "1",
@@ -24,9 +24,6 @@
             "sharedinstall": "1"
         },
         "1238821": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "2323887222661731854",
@@ -178,6 +175,17 @@
                 }
             },
             "decryptionkey": "6efd055abfdab17b7718e75cba32d7f6410317c098f1636940b5351781cbc8fd"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
