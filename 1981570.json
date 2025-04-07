@@ -4,15 +4,15 @@
     "name": "Land of the Vikings",
     "schinese_name": "维京人之地",
     "isfreeapp": "0",
-    "change_number": "28010214",
-    "update_time": "2025-03-18 17:27:46",
+    "change_number": "28072118",
+    "update_time": "2025-03-21 21:05:27",
     "depot": {
         "1981571": {
             "manifests": {
                 "public": {
-                    "gid": "118451388612961920",
-                    "size": "10685214984",
-                    "download": "4182685344"
+                    "gid": "4960839235204385158",
+                    "size": "10703101304",
+                    "download": "4188883584"
                 },
                 "v8.1": {
                     "gid": "8105617138282253350",
@@ -26,8 +26,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "14905527",
-                "timeupdated": "1719927783"
+                "buildid": "17792045",
+                "timeupdated": "1742562319"
             },
             "v8.1": {
                 "buildid": "10954167",
