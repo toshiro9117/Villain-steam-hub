@@ -4,8 +4,8 @@
     "name": "Selaco",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27986042",
-    "update_time": "2025-03-17 09:37:57",
+    "change_number": "28327342",
+    "update_time": "2025-04-06 06:12:43",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1592280",
@@ -37,11 +37,6 @@
                     "download": "1165978544"
                 },
                 "publicbetabranch": {
-                    "gid": "1805225147038797455",
-                    "size": "119",
-                    "download": "160"
-                },
-                "publicbetabranch_oldengine": {
                     "gid": "1805225147038797455",
                     "size": "119",
                     "download": "160"
@@ -104,11 +99,6 @@
                     "size": "119",
                     "download": "160"
                 },
-                "publicbetabranch_oldengine": {
-                    "gid": "7016553806942110915",
-                    "size": "119",
-                    "download": "160"
-                },
                 "v0.83e": {
                     "gid": "2927818386359333071",
                     "size": "1198313006",
@@ -154,11 +144,6 @@
                     "size": "119",
                     "download": "160"
                 },
-                "publicbetabranch_oldengine": {
-                    "gid": "3360254732315248983",
-                    "size": "119",
-                    "download": "160"
-                },
                 "version_086": {
                     "gid": "3360254732315248983",
                     "size": "119",
@@ -192,11 +177,6 @@
                     "gid": "4463610628230077984",
                     "size": "48935375",
                     "download": "25759872"
-                },
-                "publicbetabranch_oldengine": {
-                    "gid": "2490335438662096214",
-                    "size": "47121280",
-                    "download": "24792080"
                 },
                 "v0.83e": {
                     "gid": "2735229461727600988",
@@ -247,11 +227,6 @@
                     "size": "39659066",
                     "download": "15520432"
                 },
-                "publicbetabranch_oldengine": {
-                    "gid": "2140102627086693842",
-                    "size": "38719763",
-                    "download": "14839792"
-                },
                 "v0.83e": {
                     "gid": "4799721018872158115",
                     "size": "65856860",
@@ -283,9 +258,9 @@
         "1592286": {
             "manifests": {
                 "public": {
-                    "gid": "4509018295709280779",
-                    "size": "1245617240",
-                    "download": "1232946688"
+                    "gid": "5750184303962064593",
+                    "size": "1249789612",
+                    "download": "1237010560"
                 },
                 "nextfest_demo": {
                     "gid": "5404565758744658604",
@@ -293,14 +268,9 @@
                     "download": "0"
                 },
                 "publicbetabranch": {
-                    "gid": "7329223535475395730",
-                    "size": "1245735644",
-                    "download": "1233066928"
-                },
-                "publicbetabranch_oldengine": {
-                    "gid": "2021142174116148561",
-                    "size": "1245625360",
-                    "download": "1232901408"
+                    "gid": "2389067654842195075",
+                    "size": "1250381533",
+                    "download": "1237615120"
                 },
                 "v0.83e": {
                     "gid": "2779831128478491081",
@@ -332,8 +302,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17700590",
-                "timeupdated": "1741876015"
+                "buildid": "17939838",
+                "timeupdated": "1743513696"
             },
             "early_access_launch_version": {
                 "buildid": "14555398",
@@ -346,14 +316,9 @@
                 "timeupdated": "1731423086"
             },
             "publicbetabranch": {
-                "buildid": "17746331",
+                "buildid": "17998384",
                 "description": "Engine Test [Unstable]",
-                "timeupdated": "1742175472"
-            },
-            "publicbetabranch_oldengine": {
-                "buildid": "17084091",
-                "description": "Same as Public Beta, but runs on our older engine",
-                "timeupdated": "1738006116"
+                "timeupdated": "1743891159"
             },
             "v0.83e": {
                 "buildid": "14878676",
