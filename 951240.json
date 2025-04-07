@@ -4,15 +4,15 @@
     "name": "Obenseuer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27938627",
-    "update_time": "2025-03-14 01:09:03",
+    "change_number": "28271685",
+    "update_time": "2025-04-02 23:51:20",
     "depot": {
         "951241": {
             "manifests": {
                 "public": {
-                    "gid": "6241281721655807966",
-                    "size": "8265596770",
-                    "download": "2519283280"
+                    "gid": "2634582685068497130",
+                    "size": "8315103705",
+                    "download": "2541898912"
                 },
                 "0.3.22": {
                     "gid": "8034410964783711415",
@@ -49,18 +49,28 @@
                     "size": "7748773021",
                     "download": "2316855568"
                 },
-                "playtestingpublic": {
+                "0.4.03": {
                     "gid": "6241281721655807966",
                     "size": "8265596770",
                     "download": "2519283280"
+                },
+                "0.4.04": {
+                    "gid": "2634582685068497130",
+                    "size": "8315103705",
+                    "download": "2541898912"
+                },
+                "playtestingpublic": {
+                    "gid": "1327837741854799714",
+                    "size": "8320906854",
+                    "download": "2544554096"
                 }
             },
             "decryptionkey": "b0fe62283d60a499922b010c213d2cd3768d69cef6cfa191e837f214ffd9de4f"
         },
         "branches": {
             "public": {
-                "buildid": "17711860",
-                "timeupdated": "1741885737"
+                "buildid": "17854044",
+                "timeupdated": "1743198127"
             },
             "0.3.22": {
                 "buildid": "12877186",
@@ -97,10 +107,20 @@
                 "description": "V. 0.4.02",
                 "timeupdated": "1741871346"
             },
-            "playtestingpublic": {
+            "0.4.03": {
                 "buildid": "17711860",
+                "description": "V. 0.4.03",
+                "timeupdated": "1742987282"
+            },
+            "0.4.04": {
+                "buildid": "17854044",
+                "description": "V. 0.4.04",
+                "timeupdated": "1743160006"
+            },
+            "playtestingpublic": {
+                "buildid": "17957103",
                 "description": "Public testing branch",
-                "timeupdated": "1741883518"
+                "timeupdated": "1743609076"
             }
         },
         "privatebranches": "1"
