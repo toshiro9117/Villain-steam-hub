@@ -4,8 +4,8 @@
     "name": "Big Helmet Heroes",
     "schinese_name": "大头盔英雄",
     "isfreeapp": "0",
-    "change_number": "27930058",
-    "update_time": "2025-03-13 17:47:21",
+    "change_number": "28309831",
+    "update_time": "2025-04-04 21:52:16",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2397251": {
             "manifests": {
                 "public": {
-                    "gid": "9212068583963071264",
-                    "size": "5482659679",
-                    "download": "4997315680"
+                    "gid": "7409672989443804479",
+                    "size": "5482001840",
+                    "download": "4995787392"
                 }
             },
             "decryptionkey": "6068937c03539ca8d38b46d48a053c01df7c3f0640ee8ce795ee6a0eacba5d54"
@@ -55,8 +55,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17693773",
-                "timeupdated": "1741787941"
+                "buildid": "17985859",
+                "timeupdated": "1743774731"
             }
         },
         "privatebranches": "1"
