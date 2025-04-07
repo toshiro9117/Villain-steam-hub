@@ -4,8 +4,8 @@
     "name": "Unravel",
     "schinese_name": "崩解",
     "isfreeapp": "0",
-    "change_number": "27252581",
-    "update_time": "2025-01-31 20:11:37",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:03",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,japanese",
         "228984": {
@@ -16,9 +16,6 @@
             "sharedinstall": "1"
         },
         "1225561": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "5981616259209544595",
@@ -105,6 +102,17 @@
                 }
             },
             "decryptionkey": "8e39bae3abf6c34f170191f927c295cb9179410e53c1bd6e83d0f1066c1fbb9d"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
