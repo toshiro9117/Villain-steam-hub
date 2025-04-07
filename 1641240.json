@@ -4,8 +4,8 @@
     "name": "Hero's Quest: Automatic Roguelite RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27879793",
-    "update_time": "2025-03-11 05:46:24",
+    "change_number": "28328077",
+    "update_time": "2025-04-06 08:16:50",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "900444695948393930",
-                    "size": "175411506",
-                    "download": "85430304"
+                    "gid": "7578850328509331136",
+                    "size": "178381063",
+                    "download": "86307120"
                 }
             },
             "decryptionkey": "8e52862193c91273023115a5a2624fdbb1affefabe3ddfcc52aa53081557ba54"
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7336090728020255083",
-                    "size": "403302286",
-                    "download": "112830336"
+                    "gid": "167348141333972795",
+                    "size": "383028777",
+                    "download": "110007824"
                 }
             },
             "decryptionkey": ""
@@ -50,17 +50,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9203086846403206157",
-                    "size": "273560888",
-                    "download": "92936368"
+                    "gid": "5574655463958297527",
+                    "size": "388287934",
+                    "download": "110199120"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15609418",
-                "timeupdated": "1725752246"
+                "buildid": "17855124",
+                "timeupdated": "1742921685"
             }
         },
         "privatebranches": "1"
