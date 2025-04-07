@@ -4,8 +4,8 @@
     "name": "NIMBY Rails",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27975661",
-    "update_time": "2025-03-16 04:49:24",
+    "change_number": "28344468",
+    "update_time": "2025-04-07 19:21:32",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1294529805733599413",
-                    "size": "47735258",
-                    "download": "28497488"
+                    "gid": "8041937776008370644",
+                    "size": "49029589",
+                    "download": "28961664"
                 },
                 "legacy-1.1.72": {
                     "gid": "8019443166103829947",
@@ -75,9 +75,9 @@
                     "download": "27483248"
                 },
                 "beta": {
-                    "gid": "463463785062952240",
-                    "size": "48964245",
-                    "download": "28941408"
+                    "gid": "4889746254824433587",
+                    "size": "49030613",
+                    "download": "28959504"
                 },
                 "legacy-1.11": {
                     "gid": "3603720532764904917",
@@ -98,6 +98,11 @@
                     "gid": "4739767277078529521",
                     "size": "47369524",
                     "download": "28398528"
+                },
+                "legacy-1.15": {
+                    "gid": "1294529805733599413",
+                    "size": "47735258",
+                    "download": "28497488"
                 }
             },
             "decryptionkey": "e4c5307d44d1e6057d21c3828bc766b625266bc61281e682b3ace83b0612f7d0"
@@ -186,6 +191,11 @@
                     "gid": "6100947858398220321",
                     "size": "27690419239",
                     "download": "26571697216"
+                },
+                "legacy-1.15": {
+                    "gid": "6100947858398220321",
+                    "size": "27690419239",
+                    "download": "26571697216"
                 }
             },
             "decryptionkey": "6aca6ce3dd1188b29e3251d88aeef183ffd6bfe5f89260be29c375811ba92903"
@@ -193,8 +203,8 @@
         "workshopdepot": "1134710",
         "branches": {
             "public": {
-                "buildid": "16986457",
-                "timeupdated": "1737974093"
+                "buildid": "17952641",
+                "timeupdated": "1743609006"
             },
             "legacy-1.1.72": {
                 "buildid": "6523525",
@@ -247,9 +257,9 @@
                 "timeupdated": "1697013982"
             },
             "beta": {
-                "buildid": "17738526",
+                "buildid": "18010498",
                 "description": "Public beta builds",
-                "timeupdated": "1742071761"
+                "timeupdated": "1744024882"
             },
             "legacy-1.11": {
                 "buildid": "13491612",
@@ -270,6 +280,11 @@
                 "buildid": "15982664",
                 "description": "Obsolete version 1.14",
                 "timeupdated": "1733132336"
+            },
+            "legacy-1.15": {
+                "buildid": "16986457",
+                "description": "Obsolete version 1.15",
+                "timeupdated": "1743415670"
             }
         },
         "privatebranches": "1",
