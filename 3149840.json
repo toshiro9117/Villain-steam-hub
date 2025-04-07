@@ -4,15 +4,15 @@
     "name": "Скуф на рыбалке",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28001455",
-    "update_time": "2025-03-18 04:20:54",
+    "change_number": "28339756",
+    "update_time": "2025-04-07 13:26:26",
     "depot": {
         "3149841": {
             "manifests": {
                 "public": {
-                    "gid": "4730016452687308558",
-                    "size": "662629611",
-                    "download": "267172720"
+                    "gid": "4969065839337980368",
+                    "size": "665782319",
+                    "download": "267887424"
                 }
             },
             "decryptionkey": "2f33b10d7294fd95579a4326817dd0dad7e062ebeaadd85abc56da16133b2df9"
@@ -20,8 +20,8 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "16973918",
-                "timeupdated": "1736591831"
+                "buildid": "18006929",
+                "timeupdated": "1744003581"
             }
         },
         "privatebranches": "1"
