@@ -4,8 +4,8 @@
     "name": "Rusty's Retirement",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27860751",
-    "update_time": "2025-03-10 02:05:43",
+    "change_number": "28261453",
+    "update_time": "2025-04-02 13:15:24",
     "depot": {
         "229006": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6452610647182154688",
-                    "size": "309963955",
-                    "download": "78096896"
+                    "gid": "5742048358592553233",
+                    "size": "319299003",
+                    "download": "78441344"
                 }
             },
             "decryptionkey": "87c44f717e4f4a2bc193e9fef7d8ddf9e01972a6fd582a8c6940c56c564e501e"
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5396577208463020113",
-                    "size": "302790152",
-                    "download": "75764640"
+                    "gid": "7296465479771365733",
+                    "size": "311991768",
+                    "download": "76094016"
                 }
             },
             "decryptionkey": "36002f9d0ef88f73fbfaa26203e579f6c53e4b234a6dea6004419be23d09b212"
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17237769",
-                "timeupdated": "1738673954"
+                "buildid": "17949525",
+                "timeupdated": "1743570917"
             }
         },
         "privatebranches": "1"
