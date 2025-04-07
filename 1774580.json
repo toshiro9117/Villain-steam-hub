@@ -4,8 +4,8 @@
     "name": "STAR WARS Jedi: Survivor™",
     "schinese_name": "星球大战 绝地：幸存者™",
     "isfreeapp": "0",
-    "change_number": "27819217",
-    "update_time": "2025-03-07 01:02:53",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:32",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,brazilian,latam",
         "228988": {
@@ -186,6 +186,17 @@
                     "download": "47456"
                 }
             },
+            "decryptionkey": ""
+        },
+        "3340993": {
+            "manifests": {
+                "public": {
+                    "gid": "7391006335970590892",
+                    "size": "236555914",
+                    "download": "238692096"
+                }
+            },
+            "depotfromapp": "3340990",
             "decryptionkey": ""
         },
         "branches": {
