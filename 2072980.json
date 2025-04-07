@@ -4,8 +4,8 @@
     "name": "FINAL KNIGHT",
     "schinese_name": "地下城骑士团",
     "isfreeapp": "0",
-    "change_number": "27963674",
-    "update_time": "2025-03-15 03:23:29",
+    "change_number": "28323700",
+    "update_time": "2025-04-05 21:17:12",
     "depot": {
         "baselanguages": "english,koreana",
         "2072981": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4827711916572567481",
-                    "size": "2083865458",
-                    "download": "645350464"
+                    "gid": "4633373753540004393",
+                    "size": "2114656682",
+                    "download": "651161856"
                 }
             },
             "decryptionkey": "ed2f903f534830206601542369719a93a978a1381a1cd76308784b5a560d0c3b"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17719720",
-                "timeupdated": "1741926155"
+                "buildid": "17981097",
+                "timeupdated": "1743751796"
             }
         }
     }
