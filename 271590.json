@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto V Legacy",
     "schinese_name": "Grand Theft Auto V 传承版",
     "isfreeapp": "0",
-    "change_number": "28003233",
-    "update_time": "2025-03-18 06:55:16",
+    "change_number": "28314615",
+    "update_time": "2025-04-05 02:18:30",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -79,9 +79,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3069743124386259608",
-                    "size": "229581068",
-                    "download": "186115536"
+                    "gid": "5718000260924391145",
+                    "size": "227436300",
+                    "download": "183968240"
                 }
             },
             "depotfromapp": "1899670",
