@@ -4,34 +4,32 @@
     "name": "ORDER 13 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726797",
-    "update_time": "2025-03-01 06:46:02",
+    "change_number": "28346089",
+    "update_time": "2025-04-07 21:05:34",
     "depot": {
         "3489661": {
             "manifests": {
                 "public": {
-                    "gid": "162287665717615881",
-                    "size": "4298845090",
-                    "download": "1600220960"
+                    "gid": "6742782905315375487",
+                    "size": "4298874953",
+                    "download": "1600235664"
                 }
-            },
-            "decryptionkey": "913902381c03455b7bcfea2c4df46c30c378a0521958864956c5bdec710e86ea"
+            }
         },
         "2259312": {
             "manifests": {
                 "public": {
-                    "gid": "770319212771810639",
-                    "size": "4653747232",
-                    "download": "1747712672"
+                    "gid": "7133635665050517984",
+                    "size": "4680214929",
+                    "download": "1750702032"
                 }
             },
-            "depotfromapp": "2259310",
-            "decryptionkey": ""
+            "depotfromapp": "2259310"
         },
         "branches": {
             "public": {
-                "buildid": "17458352",
-                "timeupdated": "1740158883"
+                "buildid": "17578286",
+                "timeupdated": "1741027955"
             }
         },
         "privatebranches": "1"
