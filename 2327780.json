@@ -4,8 +4,8 @@
     "name": "HAELE 3D - Feet Poses Pro - Drawing References",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27860705",
-    "update_time": "2025-03-10 02:02:28",
+    "change_number": "28326822",
+    "update_time": "2025-04-06 04:45:45",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2327781": {
             "manifests": {
                 "public": {
-                    "gid": "5298660017911704723",
-                    "size": "2039971993",
-                    "download": "1714554512"
+                    "gid": "3116564376347634590",
+                    "size": "2041609177",
+                    "download": "1715485168"
                 },
                 "v027latestue4build": {
                     "gid": "3771912227061548172",
@@ -58,8 +58,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17460596",
-                "timeupdated": "1740169608"
+                "buildid": "17997995",
+                "timeupdated": "1743885941"
             },
             "v027latestue4build": {
                 "buildid": "11621234",
