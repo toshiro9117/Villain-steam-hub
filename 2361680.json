@@ -4,8 +4,8 @@
     "name": "Path of Kung Fu",
     "schinese_name": "刀剑江湖路",
     "isfreeapp": "0",
-    "change_number": "28011187",
-    "update_time": "2025-03-18 18:28:49",
+    "change_number": "28213253",
+    "update_time": "2025-03-30 16:14:52",
     "depot": {
         "baselanguages": "schinese",
         "workshopdepot": "2361680",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "862705687382345509",
-                    "size": "11734047979",
-                    "download": "4537204112"
+                    "gid": "3076544575653028214",
+                    "size": "11742227523",
+                    "download": "4539972016"
                 }
             },
             "decryptionkey": "07a52ef0c4000ac45e3da0a62c446d7b48ca61f9cc84b39b7f27b2fa3a8350ef"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1631790172843384042",
-                    "size": "11734047979",
-                    "download": "4537337088"
+                    "gid": "5415817627440951801",
+                    "size": "11742227523",
+                    "download": "4540102960"
                 }
             },
             "decryptionkey": "7a25fdbc01e0976feba001688f5a6c52c29585d0a8965e3090d0b2ceefd84979"
         },
         "branches": {
             "public": {
-                "buildid": "17763838",
-                "timeupdated": "1742293723"
+                "buildid": "17802777",
+                "timeupdated": "1742526596"
             }
         },
         "privatebranches": "1",
