@@ -4,8 +4,8 @@
     "name": "Melatonin",
     "schinese_name": "褪黑素",
     "isfreeapp": "0",
-    "change_number": "27409878",
-    "update_time": "2025-02-11 06:38:59",
+    "change_number": "28278857",
+    "update_time": "2025-04-03 08:11:43",
     "depot": {
         "1585221": {
             "config": {
@@ -42,6 +42,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "dee34aa3f2083a395840095162b1f1815d077d360f56b41bee92b52cb13361f5"
+        "workshopdepotdecryptionkey": ""
     }
 }
