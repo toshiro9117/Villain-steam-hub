@@ -4,8 +4,8 @@
     "name": "Medieval Dynasty",
     "schinese_name": "中世纪王朝",
     "isfreeapp": "0",
-    "change_number": "27919941",
-    "update_time": "2025-03-13 05:52:37",
+    "change_number": "28277045",
+    "update_time": "2025-04-03 05:34:34",
     "depot": {
         "228988": {
             "config": {
@@ -25,9 +25,9 @@
         "1129581": {
             "manifests": {
                 "public": {
-                    "gid": "3302708926522863600",
-                    "size": "19467267923",
-                    "download": "12997674432"
+                    "gid": "3240667219521129126",
+                    "size": "19477296759",
+                    "download": "12997882752"
                 },
                 "pre_co-op": {
                     "gid": "1173791062572629702",
@@ -35,9 +35,9 @@
                     "download": "3413916528"
                 },
                 "public_testing": {
-                    "gid": "3302708926522863600",
-                    "size": "19467267923",
-                    "download": "12997674432"
+                    "gid": "3240667219521129126",
+                    "size": "19477296759",
+                    "download": "12997882752"
                 }
             },
             "decryptionkey": "1046c854c37b8fbffc2463ed255b11644eb113572b68ab4d509a5e09a9f47098"
@@ -128,8 +128,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17622060",
-                "timeupdated": "1741605281"
+                "buildid": "17810344",
+                "timeupdated": "1742824616"
             },
             "pre_co-op": {
                 "buildid": "11595403",
@@ -137,9 +137,9 @@
                 "timeupdated": "1702385380"
             },
             "public_testing": {
-                "buildid": "17622060",
+                "buildid": "17810344",
                 "description": "Public testing branch before public release",
-                "timeupdated": "1741605254"
+                "timeupdated": "1742826610"
             }
         },
         "privatebranches": "1"
