@@ -4,8 +4,8 @@
     "name": "Backrooms: Escape Together",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27998582",
-    "update_time": "2025-03-18 01:05:04",
+    "change_number": "28339941",
+    "update_time": "2025-04-07 13:52:28",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3035276442650736413",
-                    "size": "10245350175",
-                    "download": "9393681744"
+                    "gid": "252227711262278981",
+                    "size": "10247540778",
+                    "download": "9399008688"
                 },
                 "beta": {
-                    "gid": "4512765629188835432",
-                    "size": "10289487740",
-                    "download": "9437517296"
+                    "gid": "252227711262278981",
+                    "size": "10247540778",
+                    "download": "9399008688"
                 }
             },
             "decryptionkey": "cfcbb1b05a371faabeb03500c308dbae345a2c7d9a45417a910283c9201e084d"
@@ -48,27 +48,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3928393466769574985",
-                    "size": "21375674277",
-                    "download": "7957982672"
+                    "gid": "6866044377255604924",
+                    "size": "20151449702",
+                    "download": "7801338224"
                 },
                 "beta": {
-                    "gid": "6258231250883651350",
-                    "size": "21389239861",
-                    "download": "7971088448"
+                    "gid": "6866044377255604924",
+                    "size": "20151449702",
+                    "download": "7801338224"
                 }
             },
             "decryptionkey": "1038f744a70ce5b445cdbfc9ce77601ae45a36279d0a9ad02b59b714acfba762"
         },
         "branches": {
             "public": {
-                "buildid": "17644103",
-                "timeupdated": "1741407767"
+                "buildid": "17993907",
+                "timeupdated": "1743833429"
             },
             "beta": {
-                "buildid": "17721023",
+                "buildid": "17993907",
                 "description": "Beta builds for testing",
-                "timeupdated": "1741936034"
+                "timeupdated": "1743832560"
             }
         },
         "privatebranches": "1"
