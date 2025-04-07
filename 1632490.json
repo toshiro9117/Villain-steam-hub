@@ -4,8 +4,8 @@
     "name": "Shashingo: Learn Japanese with Photography",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27325139",
-    "update_time": "2025-02-05 20:09:07",
+    "change_number": "28342513",
+    "update_time": "2025-04-07 17:17:15",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "576695168"
                 },
                 "languages": {
-                    "gid": "8523473018276000697",
-                    "size": "870412707",
-                    "download": "578174368"
+                    "gid": "8148836104417389828",
+                    "size": "879716600",
+                    "download": "585739728"
                 }
             },
             "decryptionkey": "f67f17999240ddd63123856692f5911adb7ba0e5736260647bd33a52435d6ed3"
@@ -59,9 +59,9 @@
                 "timeupdated": "1725369628"
             },
             "languages": {
-                "buildid": "15879131",
+                "buildid": "18002496",
                 "description": "Community translated languages beta",
-                "timeupdated": "1727725851"
+                "timeupdated": "1743954373"
             }
         },
         "privatebranches": "1"
