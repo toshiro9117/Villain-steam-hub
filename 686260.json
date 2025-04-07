@@ -4,8 +4,8 @@
     "name": "Forged Battalion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27448174",
-    "update_time": "2025-02-13 06:23:11",
+    "change_number": "28291809",
+    "update_time": "2025-04-03 23:24:39",
     "depot": {
         "228983": {
             "config": {
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d196fd745fea73321d9304adaccafe22ed13f5c68000e37e1e093524b918b3d7"
+        "workshopdepotdecryptionkey": ""
     }
 }
