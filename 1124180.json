@@ -4,8 +4,8 @@
     "name": "Rail Route",
     "schinese_name": "铁路调度模拟器",
     "isfreeapp": "0",
-    "change_number": "28012144",
-    "update_time": "2025-03-18 19:33:45",
+    "change_number": "28322886",
+    "update_time": "2025-04-05 19:06:22",
     "depot": {
         "1124182": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2652154478766663615",
-                    "size": "717190095",
-                    "download": "366144208"
+                    "gid": "2210372385784702260",
+                    "size": "717202946",
+                    "download": "366157216"
                 },
                 "backwards": {
                     "gid": "2363736434745554034",
@@ -108,9 +108,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2345160915205974380",
-                    "size": "768318033",
-                    "download": "378120432"
+                    "gid": "724678514422411093",
+                    "size": "768334513",
+                    "download": "378128528"
                 },
                 "backwards": {
                     "gid": "8980331352606939868",
@@ -202,9 +202,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8965608819721728811",
-                    "size": "746579225",
-                    "download": "363369312"
+                    "gid": "2400761961983481482",
+                    "size": "746595168",
+                    "download": "363380096"
                 },
                 "backwards": {
                     "gid": "6942664869710475181",
@@ -292,8 +292,8 @@
         "workshopdepot": "1124180",
         "branches": {
             "public": {
-                "buildid": "17756109",
-                "timeupdated": "1742297617"
+                "buildid": "17985870",
+                "timeupdated": "1743851178"
             },
             "backwards": {
                 "buildid": "14562081",
