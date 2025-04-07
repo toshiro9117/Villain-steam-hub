@@ -4,8 +4,8 @@
     "name": "Pennon and Battle",
     "schinese_name": "旗帜与战火",
     "isfreeapp": "0",
-    "change_number": "27970613",
-    "update_time": "2025-03-15 16:24:26",
+    "change_number": "28242023",
+    "update_time": "2025-04-01 13:53:39",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "2915661": {
             "manifests": {
                 "public": {
-                    "gid": "5735021557557374577",
-                    "size": "1294079255",
-                    "download": "1083838336"
+                    "gid": "5119735886587321357",
+                    "size": "1332445467",
+                    "download": "1123707680"
                 }
             },
             "decryptionkey": "f0bf2571d787ba3210d43491c0d778fff7c3e19f2bf42ccb09f7ca2fac8f338c"
@@ -27,8 +27,8 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "17656479",
-                "timeupdated": "1741574423"
+                "buildid": "17934615",
+                "timeupdated": "1743486814"
             }
         }
     }
