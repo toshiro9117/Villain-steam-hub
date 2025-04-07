@@ -4,17 +4,17 @@
     "name": "Montezuma's Revenge The 40th Anniversary Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27909261",
-    "update_time": "2025-03-12 19:06:02",
+    "change_number": "28032887",
+    "update_time": "2025-03-19 21:13:32",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
         "3101231": {
             "manifests": {
                 "public": {
-                    "gid": "4203883203513102174",
-                    "size": "3748544328",
-                    "download": "1283564960"
+                    "gid": "6554916473401294941",
+                    "size": "3554164627",
+                    "download": "1206887584"
                 }
             },
             "decryptionkey": "9bd13e044af52db77039e2397c0db6bcd73af4ca72ca81a2e574a7e1bc5c9747"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17691441",
-                "timeupdated": "1741777416"
+                "buildid": "17780255",
+                "timeupdated": "1742390003"
             }
         },
         "privatebranches": "1"
