@@ -4,8 +4,8 @@
     "name": "Spear Song",
     "schinese_name": "棋枪颂歌",
     "isfreeapp": "0",
-    "change_number": "27104420",
-    "update_time": "2025-01-22 10:28:09",
+    "change_number": "28309100",
+    "update_time": "2025-04-04 21:14:40",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9039103492294579687",
-                    "size": "7542631763",
-                    "download": "4116144400"
+                    "gid": "4675302481646462517",
+                    "size": "6914188202",
+                    "download": "4263779920"
                 }
             },
             "decryptionkey": "a8335fae431b595479800b85ef52a9a758f66ad49ec5b4724823b5adbfa64c5f"
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16887373",
-                "timeupdated": "1735758944"
+                "buildid": "17985155",
+                "timeupdated": "1743772472"
             }
         }
     }
