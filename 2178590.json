@@ -4,8 +4,8 @@
     "name": "Coin Pusher Casino",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010800",
-    "update_time": "2025-03-18 18:04:11",
+    "change_number": "28346385",
+    "update_time": "2025-04-07 21:23:15",
     "depot": {
         "2178591": {
             "config": {
@@ -43,6 +43,20 @@
                     "download": "567017616"
                 }
             },
+            "decryptionkey": "05e85e3461f90333c6203be3a011a35032e1c5b7298210fab60283e1e3c74681"
+        },
+        "2178593": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "experimental": {
+                    "gid": "1503074349843879669",
+                    "size": "1071642653",
+                    "download": "572698240"
+                }
+            },
             "decryptionkey": ""
         },
         "branches": {
@@ -51,9 +65,9 @@
                 "timeupdated": "1741878358"
             },
             "experimental": {
-                "buildid": "17698790",
+                "buildid": "17872536",
                 "description": "Experimental updates",
-                "timeupdated": "1741861604"
+                "timeupdated": "1743019452"
             }
         },
         "privatebranches": "1"
