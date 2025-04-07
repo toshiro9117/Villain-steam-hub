@@ -4,8 +4,8 @@
     "name": "Mandragora Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26246176",
-    "update_time": "2024-11-18 23:00:07",
+    "change_number": "28346284",
+    "update_time": "2025-04-07 21:17:48",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,16 @@
         "2423721": {
             "manifests": {
                 "public": {
-                    "gid": "1249949275556507283",
-                    "size": "7284578726",
-                    "download": "6919569728"
+                    "gid": "5007551494241741275",
+                    "size": "5280364023",
+                    "download": "4964889520"
                 }
-            },
-            "decryptionkey": "0a103cdf3fdea3fa163e420434b88e25157b36261ef0d20b268df8ed96c9e2d0"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16011544",
-                "timeupdated": "1728662945"
+                "buildid": "17898440",
+                "timeupdated": "1743177110"
             }
         },
         "privatebranches": "1"
