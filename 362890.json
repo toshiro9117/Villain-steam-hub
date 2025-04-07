@@ -4,8 +4,8 @@
     "name": "Black Mesa",
     "schinese_name": "黑山",
     "isfreeapp": "0",
-    "change_number": "27103768",
-    "update_time": "2025-01-22 09:28:26",
+    "change_number": "28338618",
+    "update_time": "2025-04-07 11:02:08",
     "depot": {
         "228985": {
             "config": {
@@ -302,6 +302,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4b7e10266c887ed53367d047d2689b4361f00cd5d51cd85e4f6b01aeef7641bb"
+        "workshopdepotdecryptionkey": ""
     }
 }
