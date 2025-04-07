@@ -4,16 +4,16 @@
     "name": "Beat Saber",
     "schinese_name": "节奏光剑VR",
     "isfreeapp": "0",
-    "change_number": "28012893",
-    "update_time": "2025-03-18 20:26:09",
+    "change_number": "28346843",
+    "update_time": "2025-04-07 21:54:03",
     "depot": {
         "hasdepotsindlc": "1",
         "620981": {
             "manifests": {
                 "public": {
-                    "gid": "2468336483467342711",
-                    "size": "1513600713",
-                    "download": "1333543040"
+                    "gid": "3323243802033113443",
+                    "size": "1513562139",
+                    "download": "1333510304"
                 },
                 "1.34.2_legacy": {
                     "gid": "8045892568861450718",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17489406",
-                "timeupdated": "1740671492"
+                "buildid": "17796892",
+                "timeupdated": "1743515457"
             },
             "1.34.2_legacy": {
                 "buildid": "12890561",
