@@ -4,8 +4,8 @@
     "name": "Outworld Station Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537606",
-    "update_time": "2025-02-19 00:00:10",
+    "change_number": "28345795",
+    "update_time": "2025-04-07 20:47:53",
     "depot": {
         "228989": {
             "config": {
@@ -45,17 +45,16 @@
         "3449051": {
             "manifests": {
                 "public": {
-                    "gid": "8825957573634355705",
-                    "size": "2199681147",
-                    "download": "2027071344"
+                    "gid": "3000178196946998609",
+                    "size": "2676831480",
+                    "download": "2492518336"
                 }
-            },
-            "decryptionkey": "92827aa1132161e09de64b04b51fe0c86978a48f9ee30f3e175c57786a7b35eb"
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17438102",
-                "timeupdated": "1740052799"
+                "buildid": "18010564",
+                "timeupdated": "1744030068"
             }
         },
         "privatebranches": "1"
