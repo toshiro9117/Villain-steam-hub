@@ -4,8 +4,8 @@
     "name": "WindowBlinds 11",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27996341",
-    "update_time": "2025-03-17 22:56:44",
+    "change_number": "28277615",
+    "update_time": "2025-04-03 06:15:28",
     "depot": {
         "hasdepotsindlc": "0",
         "2294631": {
@@ -18,6 +18,11 @@
                     "gid": "6812635139090835251",
                     "size": "113765894",
                     "download": "99820816"
+                },
+                "opt-in": {
+                    "gid": "3685828556741715587",
+                    "size": "117679302",
+                    "download": "103530432"
                 }
             },
             "decryptionkey": "cf6248dbf8076c26632af280b88060fa36e03ec34b50ff2c184f8de45f01710f"
@@ -29,6 +34,11 @@
                     "gid": "1471425309553595212",
                     "size": "16607466",
                     "download": "15931424"
+                },
+                "opt-in": {
+                    "gid": "1471425309553595212",
+                    "size": "16607466",
+                    "download": "15931424"
                 }
             },
             "decryptionkey": "b70a5cf4cb24284a16675e683bc64f5d2b8b50887c7f5ba9c593ee7abe116694"
@@ -37,6 +47,11 @@
             "public": {
                 "buildid": "17069426",
                 "timeupdated": "1738346416"
+            },
+            "opt-in": {
+                "buildid": "17929429",
+                "description": "WindowBlinds Opt-in",
+                "timeupdated": "1743450215"
             }
         },
         "privatebranches": "1"
