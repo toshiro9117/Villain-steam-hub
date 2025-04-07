@@ -4,23 +4,23 @@
     "name": "Legacy of Kain™ Soul Reaver 1&2 Remastered",
     "schinese_name": "凯恩的遗产：灵魂掠夺者1&2重制版",
     "isfreeapp": "0",
-    "change_number": "28000605",
-    "update_time": "2025-03-18 03:13:54",
+    "change_number": "28250992",
+    "update_time": "2025-04-01 23:07:25",
     "depot": {
         "2521381": {
             "manifests": {
                 "public": {
-                    "gid": "4228391483761850066",
-                    "size": "10805352373",
-                    "download": "7461254832"
+                    "gid": "4291338010732135215",
+                    "size": "10970677715",
+                    "download": "7540573632"
                 }
             },
             "decryptionkey": "2587966585ac710c4512d39adb6aca7694ca672aedc3a168ce3c3845f3a03722"
         },
         "branches": {
             "public": {
-                "buildid": "16961337",
-                "timeupdated": "1738256477"
+                "buildid": "17692767",
+                "timeupdated": "1743520040"
             }
         },
         "privatebranches": "1"
