@@ -4,8 +4,8 @@
     "name": "Legends of Callasia",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "26550398",
-    "update_time": "2024-12-09 08:15:59",
+    "change_number": "28321814",
+    "update_time": "2025-04-05 16:16:21",
     "depot": {
         "438921": {
             "config": {
@@ -17,8 +17,7 @@
                     "size": "288086339",
                     "download": "257919920"
                 }
-            },
-            "decryptionkey": "eb427e6d9e7b596c09de4dd55b47138ab8f27100515ced0e9fcae2151c15a30c"
+            }
         },
         "438922": {
             "config": {
@@ -30,8 +29,7 @@
                     "size": "468227113",
                     "download": "438209600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "438923": {
             "config": {
