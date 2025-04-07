@@ -4,8 +4,8 @@
     "name": "Rebel Duet",
     "schinese_name": "叛逆二重奏",
     "isfreeapp": "0",
-    "change_number": "27500623",
-    "update_time": "2025-02-16 14:12:22",
+    "change_number": "28141922",
+    "update_time": "2025-03-26 11:09:51",
     "depot": {
         "2676931": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "3026867312"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ebca2fa5e9cd29f0e59441b6b08bae2f9d805faf740908ba064c4814fd936882"
         },
         "baselanguages": "english,schinese",
         "branches": {
