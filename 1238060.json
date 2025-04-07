@@ -4,8 +4,8 @@
     "name": "Dead Space™ 3",
     "schinese_name": "死亡空间3",
     "isfreeapp": "0",
-    "change_number": "27178544",
-    "update_time": "2025-01-27 14:20:10",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:15",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian",
         "hasdepotsindlc": "1",
@@ -24,9 +24,6 @@
             "sharedinstall": "1"
         },
         "1238061": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8808699598429326737",
@@ -113,6 +110,17 @@
                 }
             },
             "decryptionkey": "8084d68b25aed60a6912763f873cea7fb871a8eb9022e6b55aae2d423932dfc9"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
