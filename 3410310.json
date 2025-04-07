@@ -4,8 +4,8 @@
     "name": "Make Good Choices",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978098",
-    "update_time": "2025-03-16 11:55:41",
+    "change_number": "28325456",
+    "update_time": "2025-04-06 01:26:49",
     "depot": {
         "3410311": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5414203651243764687",
-                    "size": "2609458548",
-                    "download": "1046250816"
+                    "gid": "9062764495798674220",
+                    "size": "5163851356",
+                    "download": "1759157376"
                 }
             },
             "decryptionkey": "9f9fbe1a217b2aa27bb04ddf2d7bd856d6e606ccaf00ac26ce356bf794320a6c"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17180141",
-                "timeupdated": "1738212463"
+                "buildid": "17997037",
+                "timeupdated": "1743874005"
             }
         },
         "privatebranches": "1"
