@@ -4,8 +4,8 @@
     "name": "Total War: WARHAMMER III",
     "schinese_name": "全面战争：战锤3",
     "isfreeapp": "0",
-    "change_number": "28012422",
-    "update_time": "2025-03-18 19:53:23",
+    "change_number": "28337099",
+    "update_time": "2025-04-07 08:08:22",
     "depot": {
         "baselanguages": "english",
         "228983": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4019337468979036506",
-                    "size": "491367614",
-                    "download": "265098784"
+                    "gid": "6122111928263877236",
+                    "size": "498472238",
+                    "download": "268653008"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "3044333484848695442",
@@ -52,19 +52,19 @@
                     "download": "267760096"
                 },
                 "last_hotfix": {
-                    "gid": "5573291537662015381",
-                    "size": "502631614",
-                    "download": "271456528"
+                    "gid": "3135459426478936079",
+                    "size": "482539310",
+                    "download": "259102176"
                 },
                 "last_patch": {
-                    "gid": "3234449313696057207",
-                    "size": "488554150",
-                    "download": "264201936"
+                    "gid": "8967344368400041095",
+                    "size": "505796910",
+                    "download": "272218768"
                 },
                 "last_release": {
-                    "gid": "5573291537662015381",
-                    "size": "502631614",
-                    "download": "271456528"
+                    "gid": "3135459426478936079",
+                    "size": "482539310",
+                    "download": "259102176"
                 },
                 "last_update": {
                     "gid": "1430633323393601423",
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8131121218983144176",
-                    "size": "120691239504",
-                    "download": "77895989968"
+                    "gid": "1834230131537016823",
+                    "size": "120739033257",
+                    "download": "77922735360"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "215048428375258250",
@@ -105,19 +105,19 @@
                     "download": "69765365648"
                 },
                 "last_hotfix": {
-                    "gid": "4312461788094671005",
-                    "size": "120683278709",
-                    "download": "77893985824"
+                    "gid": "1734556656261746511",
+                    "size": "120739022785",
+                    "download": "77922748928"
                 },
                 "last_patch": {
-                    "gid": "2953381548527357910",
-                    "size": "121155340000",
-                    "download": "75945106144"
+                    "gid": "7978781633391378699",
+                    "size": "120739023456",
+                    "download": "77923791024"
                 },
                 "last_release": {
-                    "gid": "4312461788094671005",
-                    "size": "120683278709",
-                    "download": "77893985824"
+                    "gid": "1734556656261746511",
+                    "size": "120739022785",
+                    "download": "77922748928"
                 },
                 "last_update": {
                     "gid": "8449631994025136971",
@@ -851,9 +851,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "950371016797868950",
-                    "size": "72659874",
-                    "download": "3798528"
+                    "gid": "5332032182920663383",
+                    "size": "72784416",
+                    "download": "3762784"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "7258956335356851457",
@@ -861,19 +861,19 @@
                     "download": "7304064"
                 },
                 "last_hotfix": {
-                    "gid": "5057254357349121517",
-                    "size": "72659874",
-                    "download": "3798400"
+                    "gid": "6893682288602260210",
+                    "size": "72784416",
+                    "download": "3762608"
                 },
                 "last_patch": {
-                    "gid": "6180108927271360114",
-                    "size": "72254750",
-                    "download": "3889872"
+                    "gid": "9043289944327733192",
+                    "size": "72784416",
+                    "download": "3762144"
                 },
                 "last_release": {
-                    "gid": "5057254357349121517",
-                    "size": "72659874",
-                    "download": "3798400"
+                    "gid": "6893682288602260210",
+                    "size": "72784416",
+                    "download": "3762608"
                 },
                 "last_update": {
                     "gid": "6972731770484974930",
@@ -2631,9 +2631,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7581221650368596294",
-                    "size": "204335475",
-                    "download": "57456496"
+                    "gid": "1128077100884847891",
+                    "size": "204350459",
+                    "download": "57465616"
                 }
             },
             "depotfromapp": "372530",
@@ -2642,8 +2642,8 @@
         "workshopdepot": "1142710",
         "branches": {
             "public": {
-                "buildid": "17405919",
-                "timeupdated": "1739876256"
+                "buildid": "17967891",
+                "timeupdated": "1743673986"
             },
             "domesticated_1_3_retail": {
                 "buildid": "9616527",
@@ -2651,19 +2651,19 @@
                 "timeupdated": "1665069275"
             },
             "last_hotfix": {
-                "buildid": "17405953",
-                "description": "Rollback to 6.0.4 (Build #32070)",
-                "timeupdated": "1739876422"
+                "buildid": "17967913",
+                "description": "Rollback to 6.1.1 (Build #33773)",
+                "timeupdated": "1743674129"
             },
             "last_patch": {
-                "buildid": "17236562",
-                "description": "Rollback to 5.3.0 (Build #29748)",
-                "timeupdated": "1738666998"
+                "buildid": "17882879",
+                "description": "Rollback to 6.1.0 (Build #33629)",
+                "timeupdated": "1743080284"
             },
             "last_release": {
-                "buildid": "17405944",
-                "description": "Rollback to 6.0.4 (Build #32070)",
-                "timeupdated": "1739876388"
+                "buildid": "17967908",
+                "description": "Rollback to 6.1.1 (Build #33773)",
+                "timeupdated": "1743674087"
             },
             "last_update": {
                 "buildid": "17236548",
@@ -2687,6 +2687,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "ea64ef77605ae9352273e58066c4eeb8f461b8754e74e777fe291eadfc198b8f"
+        "workshopdepotdecryptionkey": ""
     }
 }
