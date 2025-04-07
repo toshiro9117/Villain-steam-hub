@@ -4,8 +4,8 @@
     "name": "Kiosk",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27918797",
-    "update_time": "2025-03-13 04:05:31",
+    "change_number": "28206758",
+    "update_time": "2025-03-29 22:38:40",
     "depot": {
         "3126332": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7686775685051797514",
-                    "size": "351469526",
-                    "download": "170993552"
+                    "gid": "5896326290995966429",
+                    "size": "352682829",
+                    "download": "171300320"
                 }
             },
             "decryptionkey": "c7ca641cf58761e53aa8e95f746dcfbe37093b8db75257bf29cff35dd6ff045f"
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1410824077910760897",
-                    "size": "346438841",
-                    "download": "163375136"
+                    "gid": "1923594335206201399",
+                    "size": "347626168",
+                    "download": "163672848"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17681366",
-                "timeupdated": "1741716438"
+                "buildid": "17910024",
+                "timeupdated": "1743259111"
             }
         },
         "privatebranches": "1"
