@@ -1,0 +1,67 @@
+{
+    "appid": "3164500",
+    "type": "Game",
+    "name": "Schedule I",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28343202",
+    "update_time": "2025-04-07 18:00:22",
+    "depot": {
+        "3164501": {
+            "manifests": {
+                "public": {
+                    "gid": "5367810750665617114",
+                    "size": "7332680341",
+                    "download": "1833029440"
+                },
+                "alternate": {
+                    "gid": "5056243939692419777",
+                    "size": "7298026057",
+                    "download": "1826066592"
+                },
+                "beta": {
+                    "gid": "4974649064988968058",
+                    "size": "7334221467",
+                    "download": "1831905184"
+                },
+                "alternate-beta": {
+                    "gid": "9078666451442518159",
+                    "size": "7299478735",
+                    "download": "1824939200"
+                },
+                "legacy": {
+                    "gid": "2585881814639348227",
+                    "size": "7314198269",
+                    "download": "1830111264"
+                }
+            },
+            "decryptionkey": "81d0de07788de885787b0519b9dabf51618be6cba9124497decf572ac96624f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17963912",
+                "timeupdated": "1743723979"
+            },
+            "alternate": {
+                "buildid": "17963930",
+                "description": "Less performant then the default version, but less prone to crashes.",
+                "timeupdated": "1743723965"
+            },
+            "beta": {
+                "buildid": "18009504",
+                "description": "Hosts the beta version of Schedule I. May be unstable.",
+                "timeupdated": "1744020003"
+            },
+            "alternate-beta": {
+                "buildid": "18009564",
+                "description": "Hosts the beta version of Schedule I in alternate mode. May be unstable.",
+                "timeupdated": "1744020012"
+            },
+            "legacy": {
+                "buildid": "17829447",
+                "description": "An older version of Schedule I.",
+                "timeupdated": "1743483594"
+            }
+        }
+    }
+}
