@@ -4,8 +4,8 @@
     "name": "Deconstruction Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "23939922",
-    "update_time": "2024-07-16 02:46:55",
+    "change_number": "28172182",
+    "update_time": "2025-03-27 22:52:55",
     "depot": {
         "228989": {
             "config": {
@@ -31,8 +31,7 @@
                     "size": "5301362783",
                     "download": "2135633824"
                 }
-            },
-            "decryptionkey": "ec6b2b94f45928dc4c8a74a9407b346c3b15f7751adaed7fc55066d9b5953a43"
+            }
         },
         "branches": {
             "public": {
