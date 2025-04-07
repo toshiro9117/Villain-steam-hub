@@ -4,8 +4,8 @@
     "name": "Dwarf Fortress",
     "schinese_name": "矮人要塞",
     "isfreeapp": "0",
-    "change_number": "27997300",
-    "update_time": "2025-03-17 23:52:54",
+    "change_number": "28316419",
+    "update_time": "2025-04-05 04:31:25",
     "depot": {
         "228989": {
             "config": {
@@ -18,19 +18,24 @@
         "975371": {
             "manifests": {
                 "public": {
-                    "gid": "7561160887427561872",
-                    "size": "1077209618",
-                    "download": "1017934560"
+                    "gid": "114582112524324024",
+                    "size": "1077213427",
+                    "download": "1017935872"
                 },
                 "beta": {
+                    "gid": "114582112524324024",
+                    "size": "1077213427",
+                    "download": "1017935872"
+                },
+                "experimental": {
+                    "gid": "2016303925661066285",
+                    "size": "1077688492",
+                    "download": "1018008592"
+                },
+                "51.08": {
                     "gid": "7561160887427561872",
                     "size": "1077209618",
                     "download": "1017934560"
-                },
-                "experimental": {
-                    "gid": "5854837792703099871",
-                    "size": "1077696201",
-                    "download": "1018011872"
                 },
                 "51.06": {
                     "gid": "5109394689032936687",
@@ -96,19 +101,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6390132049452748718",
-                    "size": "31524240",
-                    "download": "10005088"
+                    "gid": "5707904475516326828",
+                    "size": "31524752",
+                    "download": "10009696"
                 },
                 "beta": {
+                    "gid": "5707904475516326828",
+                    "size": "31524752",
+                    "download": "10009696"
+                },
+                "experimental": {
+                    "gid": "7651348840218720293",
+                    "size": "32149392",
+                    "download": "10224032"
+                },
+                "51.08": {
                     "gid": "6390132049452748718",
                     "size": "31524240",
                     "download": "10005088"
-                },
-                "experimental": {
-                    "gid": "6352694962568938801",
-                    "size": "32147344",
-                    "download": "10217456"
                 },
                 "51.06": {
                     "gid": "6005564250589505778",
@@ -164,19 +174,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6749084753057308955",
-                    "size": "42104373",
-                    "download": "12038128"
+                    "gid": "2971014726594284308",
+                    "size": "42125135",
+                    "download": "12042032"
                 },
                 "beta": {
+                    "gid": "2971014726594284308",
+                    "size": "42125135",
+                    "download": "12042032"
+                },
+                "experimental": {
+                    "gid": "2407361707462729299",
+                    "size": "44238722",
+                    "download": "12614688"
+                },
+                "51.08": {
                     "gid": "6749084753057308955",
                     "size": "42104373",
                     "download": "12038128"
-                },
-                "experimental": {
-                    "gid": "6346221116323474050",
-                    "size": "44213568",
-                    "download": "12607504"
                 },
                 "51.06": {
                     "gid": "4511668468551677496",
@@ -228,18 +243,23 @@
         },
         "branches": {
             "public": {
-                "buildid": "17707661",
-                "timeupdated": "1741864470"
+                "buildid": "17970169",
+                "timeupdated": "1743689028"
             },
             "beta": {
-                "buildid": "17707661",
+                "buildid": "17970169",
                 "description": "Public beta branch",
-                "timeupdated": "1741864450"
+                "timeupdated": "1743689008"
             },
             "experimental": {
-                "buildid": "17724232",
+                "buildid": "17970186",
                 "description": "for experimental features early in testing",
-                "timeupdated": "1741951721"
+                "timeupdated": "1743688998"
+            },
+            "51.08": {
+                "buildid": "17707661",
+                "description": "Version 51.08",
+                "timeupdated": "1743605242"
             },
             "51.06": {
                 "buildid": "17502209",
