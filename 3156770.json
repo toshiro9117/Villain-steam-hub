@@ -4,8 +4,8 @@
     "name": "Witchfire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008671",
-    "update_time": "2025-03-18 15:49:37",
+    "change_number": "28340632",
+    "update_time": "2025-04-07 15:02:45",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "3156771": {
             "manifests": {
                 "public": {
-                    "gid": "8312129349513627228",
-                    "size": "36734440120",
-                    "download": "36034656320"
+                    "gid": "1143178387645886986",
+                    "size": "36734559487",
+                    "download": "36034685952"
                 },
                 "preview": {
                     "gid": "3913986436619890413",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17727400",
-                "timeupdated": "1741972067"
+                "buildid": "17805395",
+                "timeupdated": "1742564312"
             },
             "preview": {
                 "buildid": "16791557",
