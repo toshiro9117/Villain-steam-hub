@@ -4,8 +4,8 @@
     "name": "Steam: Rails to Riches",
     "schinese_name": "蒸汽：致富之道",
     "isfreeapp": "0",
-    "change_number": "27984080",
-    "update_time": "2025-03-17 04:55:50",
+    "change_number": "28107282",
+    "update_time": "2025-03-24 19:18:46",
     "depot": {
         "595931": {
             "config": {
@@ -55,7 +55,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "21699e511368261f0183641a62ea951671a0bb611aec7d236f9686b1dc8a8bcb"
         },
         "596822": {
             "dlcappid": "596822",
@@ -66,7 +66,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "01f920e4dbf499baad71fcdcf4707b074a78290a612ac7c8117a47c611479737"
         },
         "596821": {
             "dlcappid": "596821",
@@ -77,7 +77,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cf42cc86b41e5715f9fc213bd880bee5cd5060a4532f004d54bf4fdf0a6b558e"
         },
         "596823": {
             "dlcappid": "596823",
@@ -88,7 +88,7 @@
                     "download": "64"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4ed5efcb3fd0988f9b78bbedb3dc522eb51a3bb25f3b2ea08165d791d474f665"
         },
         "759230": {
             "manifests": {
@@ -99,7 +99,7 @@
                 }
             },
             "dlcappid": "759230",
-            "decryptionkey": ""
+            "decryptionkey": "d10f64eaa31d0bc5f0174486ebff51436ca307e8ad747a4a4783985c2f7777c1"
         },
         "branches": {
             "public": {
