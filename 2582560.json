@@ -4,15 +4,15 @@
     "name": "EA SPORTS™ Madden NFL 25",
     "schinese_name": "麦登橄榄球25",
     "isfreeapp": "0",
-    "change_number": "27940522",
-    "update_time": "2025-03-14 02:37:54",
+    "change_number": "28297907",
+    "update_time": "2025-04-04 06:16:19",
     "depot": {
         "2582561": {
             "manifests": {
                 "public": {
-                    "gid": "2774533661164272884",
-                    "size": "58917803142",
-                    "download": "54892385664"
+                    "gid": "7125380246920756549",
+                    "size": "59308822686",
+                    "download": "55272842640"
                 }
             },
             "decryptionkey": "ac359dbd4e38d078bab3b059797599a3c7f41423406c468825b27386afce46c4"
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5429916605601222781",
-                    "size": "121620",
-                    "download": "29008"
+                    "gid": "7069948007096937545",
+                    "size": "119190",
+                    "download": "28224"
                 }
             },
             "decryptionkey": "833e8a4e1f351c4d37259578665fe7384c32bc36569fb9b7febd77aa7772735d"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17286015",
-                "timeupdated": "1739966409"
+                "buildid": "17713534",
+                "timeupdated": "1742986984"
             }
         },
         "privatebranches": "1"
