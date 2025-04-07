@@ -4,8 +4,8 @@
     "name": "Screeps: Arena",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27964290",
-    "update_time": "2025-03-15 04:06:39",
+    "change_number": "28316508",
+    "update_time": "2025-04-05 04:38:27",
     "depot": {
         "1137321": {
             "config": {
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5708845552876428293",
-                    "size": "80417588",
-                    "download": "28440608"
+                    "gid": "84647981482537231",
+                    "size": "123795270",
+                    "download": "72564304"
                 }
             },
             "decryptionkey": "7664f1ffcdb5f2e8b9d3804b28bafe37cf7b3f434bfd0c5159cfc7f0a89ea0a1"
@@ -66,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1100256438273600898",
-                    "size": "80417588",
-                    "download": "28440608"
+                    "gid": "5103222123470266337",
+                    "size": "123795270",
+                    "download": "72564304"
                 }
             },
             "decryptionkey": "fa0ca4ce4d370fc89381c0e4b378ab472d879cb06fff8de916328427e5414e2e"
@@ -127,8 +127,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17730853",
-                "timeupdated": "1741982793"
+                "buildid": "17990501",
+                "timeupdated": "1743799101"
             }
         },
         "privatebranches": "1"
