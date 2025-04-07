@@ -4,8 +4,8 @@
     "name": "World of Art - learn with Jigsaw Puzzles",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27496118",
-    "update_time": "2025-02-16 01:33:56",
+    "change_number": "28332208",
+    "update_time": "2025-04-06 20:43:38",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1303670",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "368154839218705831",
-                    "size": "4131845116",
-                    "download": "3065330080"
+                    "gid": "8821924656075135088",
+                    "size": "4134852713",
+                    "download": "3065677760"
                 }
             },
             "decryptionkey": "45714352c2e9f81eaa578b84056a3c1cd50418730254b654bd9ba26722aa7b0c"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7402287196064507961",
-                    "size": "4138073049",
-                    "download": "3066343088"
+                    "gid": "6470819448880156682",
+                    "size": "4141281144",
+                    "download": "3066637344"
                 }
             },
             "decryptionkey": ""
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6877275000161196932",
-                    "size": "4157108579",
-                    "download": "3073731536"
+                    "gid": "9068405435350851849",
+                    "size": "4161844265",
+                    "download": "3074833104"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16353622",
-                "timeupdated": "1731177753"
+                "buildid": "17857191",
+                "timeupdated": "1742933084"
             }
         },
         "privatebranches": "1",
