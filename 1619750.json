@@ -4,8 +4,8 @@
     "name": "Karryn's Prison",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976066",
-    "update_time": "2025-03-16 05:51:20",
+    "change_number": "28207574",
+    "update_time": "2025-03-30 00:16:03",
     "depot": {
         "workshopdepot": "1619750",
         "228990": {
@@ -21,8 +21,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1086828141815455509",
-                    "size": "1375059755",
+                    "gid": "5310553607559632011",
+                    "size": "1375059894",
                     "download": "1230758000"
                 }
             },
@@ -191,8 +191,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17739371",
-                "timeupdated": "1742075476"
+                "buildid": "18012390",
+                "timeupdated": "1744035156"
             }
         },
         "workshopdepotdecryptionkey": ""
