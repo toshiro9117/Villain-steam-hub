@@ -4,8 +4,8 @@
     "name": "MADNESS: Project Nexus",
     "schinese_name": "狂暴之徒：联合计划",
     "isfreeapp": "0",
-    "change_number": "27878644",
-    "update_time": "2025-03-11 04:17:25",
+    "change_number": "28332387",
+    "update_time": "2025-04-06 21:10:46",
     "depot": {
         "hasdepotsindlc": "0",
         "488861": {
@@ -19,9 +19,9 @@
                     "download": "2163751904"
                 },
                 "releasebeta": {
-                    "gid": "4649413409625861574",
-                    "size": "5696365461",
-                    "download": "2163872720"
+                    "gid": "8547138237624827550",
+                    "size": "5696365549",
+                    "download": "2163874576"
                 }
             },
             "decryptionkey": "d63cfdd3553f33bbd71bd9c5430eb5c4b09085a05e602d8ee428f1fef3399b75"
@@ -71,9 +71,9 @@
                 "timeupdated": "1734716220"
             },
             "releasebeta": {
-                "buildid": "17667077",
+                "buildid": "17974558",
                 "description": "For testing features before going live.",
-                "timeupdated": "1741637840"
+                "timeupdated": "1743706437"
             }
         },
         "privatebranches": "1",
