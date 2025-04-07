@@ -4,8 +4,8 @@
     "name": "InfraSpace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27184252",
-    "update_time": "2025-01-27 22:14:15",
+    "change_number": "28237258",
+    "update_time": "2025-04-01 06:21:21",
     "depot": {
         "baselanguages": "english,german,french,italian,schinese,russian",
         "workshopdepot": "1511460",
@@ -142,6 +142,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bd2a1848cfbc8274d57a153bbf2a85f3064603f479ceef6da9a7b442f21c35bb"
+        "workshopdepotdecryptionkey": ""
     }
 }
