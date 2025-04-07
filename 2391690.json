@@ -4,8 +4,8 @@
     "name": "Blue Maiden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27917025",
-    "update_time": "2025-03-13 02:09:00",
+    "change_number": "28334539",
+    "update_time": "2025-04-07 02:16:28",
     "depot": {
         "2391691": {
             "config": {
@@ -13,11 +13,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8776934387540335480",
-                    "size": "4530275637",
-                    "download": "1494191728"
-                },
-                "beta": {
                     "gid": "8776934387540335480",
                     "size": "4530275637",
                     "download": "1494191728"
@@ -34,11 +29,6 @@
                     "gid": "14765973389461013",
                     "size": "4535447164",
                     "download": "1497411664"
-                },
-                "beta": {
-                    "gid": "14765973389461013",
-                    "size": "4535447164",
-                    "download": "1497411664"
                 }
             },
             "decryptionkey": ""
@@ -47,12 +37,8 @@
             "public": {
                 "buildid": "17556876",
                 "timeupdated": "1740907024"
-            },
-            "beta": {
-                "buildid": "17556876",
-                "description": "Beta testing",
-                "timeupdated": "1740809507"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
