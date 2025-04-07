@@ -4,8 +4,8 @@
     "name": "Stoneshard",
     "schinese_name": "紫色晶石",
     "isfreeapp": "0",
-    "change_number": "28010080",
-    "update_time": "2025-03-18 17:21:43",
+    "change_number": "28296163",
+    "update_time": "2025-04-04 04:11:48",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "866920139644577121",
-                    "size": "582565061",
-                    "download": "315406208"
+                    "gid": "5017194891853916107",
+                    "size": "582165099",
+                    "download": "315519920"
                 },
                 "0.5.7.8": {
                     "gid": "2525867984631847641",
@@ -66,9 +66,9 @@
                     "download": "247551360"
                 },
                 "modbranch": {
-                    "gid": "2183158868364823694",
-                    "size": "492474851",
-                    "download": "302627504"
+                    "gid": "2406307178213202656",
+                    "size": "477750519",
+                    "download": "299144416"
                 }
             },
             "decryptionkey": "afd931e4303e3aa3d3d4c8d1d4f432b4095db76644eaf715d0703900ad65c562"
@@ -80,9 +80,9 @@
             "dlcappid": "1230230",
             "manifests": {
                 "public": {
-                    "gid": "3268240615885863868",
-                    "size": "185207851",
-                    "download": "148546320"
+                    "gid": "91055201846327395",
+                    "size": "192702702",
+                    "download": "154189376"
                 },
                 "0.5.7.8": {
                     "gid": "3268240615885863868",
@@ -144,9 +144,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8548745250957528299",
-                    "size": "474667942",
-                    "download": "297290592"
+                    "gid": "4905821619937184831",
+                    "size": "474425894",
+                    "download": "297466992"
                 },
                 "0.5.7.8.18": {
                     "gid": "8825422588154442435",
@@ -198,8 +198,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17743159",
-                "timeupdated": "1742134883"
+                "buildid": "17969558",
+                "timeupdated": "1743682159"
             },
             "0.5.7.8": {
                 "buildid": "4654278",
@@ -247,9 +247,9 @@
                 "timeupdated": "1734360003"
             },
             "modbranch": {
-                "buildid": "17755011",
+                "buildid": "17969543",
                 "description": "modbranch",
-                "timeupdated": "1742233024"
+                "timeupdated": "1743682061"
             }
         },
         "privatebranches": "1"
