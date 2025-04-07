@@ -4,8 +4,8 @@
     "name": "绝世好武功 The Matchless Kungfu",
     "schinese_name": "绝世好武功",
     "isfreeapp": "0",
-    "change_number": "27975106",
-    "update_time": "2025-03-16 03:21:09",
+    "change_number": "28068531",
+    "update_time": "2025-03-21 17:33:02",
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6960007070080367297",
-                    "size": "2676606773",
-                    "download": "2440299744"
+                    "gid": "9026904541591553497",
+                    "size": "2676576229",
+                    "download": "2440369280"
                 }
             },
             "decryptionkey": "d9d9203084ea5a76bb40325b0d450fda89e2f4b27f1c4a336f062110ed51c526"
@@ -39,8 +39,8 @@
         "workshopdepot": "1696440",
         "branches": {
             "public": {
-                "buildid": "17544963",
-                "timeupdated": "1740738141"
+                "buildid": "17806577",
+                "timeupdated": "1742549577"
             }
         },
         "privatebranches": "1",
