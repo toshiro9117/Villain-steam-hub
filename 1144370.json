@@ -4,8 +4,8 @@
     "name": "Levi Chronicles",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25592240",
-    "update_time": "2024-10-09 00:11:15",
+    "change_number": "28223058",
+    "update_time": "2025-03-31 14:42:53",
     "depot": {
         "228988": {
             "config": {
@@ -41,6 +41,7 @@
                 "buildid": "11787469",
                 "timeupdated": "1690330828"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
