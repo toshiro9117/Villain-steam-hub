@@ -4,8 +4,8 @@
     "name": "Supreme Ruler 2030",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27913096",
-    "update_time": "2025-03-12 22:33:43",
+    "change_number": "28157210",
+    "update_time": "2025-03-27 04:33:56",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,portuguese,brazilian",
         "workshopdepot": "2093410",
@@ -20,14 +20,14 @@
         "2093411": {
             "manifests": {
                 "public": {
-                    "gid": "1035569084631334858",
-                    "size": "1953740023",
-                    "download": "807007904"
+                    "gid": "5029487353694300868",
+                    "size": "1953463595",
+                    "download": "807004736"
                 },
                 "fasttrack": {
-                    "gid": "1035569084631334858",
-                    "size": "1953740023",
-                    "download": "807007904"
+                    "gid": "5029487353694300868",
+                    "size": "1953463595",
+                    "download": "807004736"
                 }
             },
             "decryptionkey": "7e018bfc03085dc2017cc87ba2fab9dbe5960c906e62588ac5b44b2301a9cb8f"
@@ -36,14 +36,14 @@
             "dlcappid": "2702500",
             "manifests": {
                 "public": {
-                    "gid": "1554069168715623711",
-                    "size": "218915522",
-                    "download": "105024688"
+                    "gid": "8281067843610118400",
+                    "size": "210463351",
+                    "download": "99747584"
                 },
                 "fasttrack": {
-                    "gid": "1554069168715623711",
-                    "size": "218915522",
-                    "download": "105024688"
+                    "gid": "8281067843610118400",
+                    "size": "210463351",
+                    "download": "99747584"
                 }
             },
             "decryptionkey": "e57e2ba3ce81269f58dab499f4cea75a58be0f6eed31a169d3a41061130e72bb"
@@ -52,14 +52,14 @@
             "dlcappid": "2648350",
             "manifests": {
                 "public": {
-                    "gid": "150357475178552162",
-                    "size": "42279332",
-                    "download": "17775968"
+                    "gid": "4581340405574144842",
+                    "size": "42273657",
+                    "download": "17799792"
                 },
                 "fasttrack": {
-                    "gid": "150357475178552162",
-                    "size": "42279332",
-                    "download": "17775968"
+                    "gid": "4581340405574144842",
+                    "size": "42273657",
+                    "download": "17799792"
                 }
             },
             "decryptionkey": ""
@@ -68,14 +68,14 @@
             "dlcappid": "2878250",
             "manifests": {
                 "public": {
-                    "gid": "344867822313140308",
-                    "size": "66835623",
-                    "download": "19003504"
+                    "gid": "9019009515396411163",
+                    "size": "75072675",
+                    "download": "23846224"
                 },
                 "fasttrack": {
-                    "gid": "344867822313140308",
-                    "size": "66835623",
-                    "download": "19003504"
+                    "gid": "9019009515396411163",
+                    "size": "75072675",
+                    "download": "23846224"
                 }
             },
             "decryptionkey": ""
@@ -84,27 +84,43 @@
             "dlcappid": "2878240",
             "manifests": {
                 "public": {
-                    "gid": "3338772526249358503",
-                    "size": "176636191",
-                    "download": "87257968"
+                    "gid": "7339128102742353910",
+                    "size": "167289055",
+                    "download": "81847328"
                 },
                 "fasttrack": {
-                    "gid": "3338772526249358503",
-                    "size": "176636191",
-                    "download": "87257968"
+                    "gid": "7339128102742353910",
+                    "size": "167289055",
+                    "download": "81847328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3592470": {
+            "dlcappid": "3592470",
+            "manifests": {
+                "public": {
+                    "gid": "2647472402687487214",
+                    "size": "850171",
+                    "download": "790960"
+                },
+                "fasttrack": {
+                    "gid": "2647472402687487214",
+                    "size": "850171",
+                    "download": "790960"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17622710",
-                "timeupdated": "1741279350"
+                "buildid": "17872762",
+                "timeupdated": "1743021231"
             },
             "fasttrack": {
-                "buildid": "17622710",
+                "buildid": "17872762",
                 "description": "Latest Updates Testing Branch",
-                "timeupdated": "1741279309"
+                "timeupdated": "1743021136"
             }
         },
         "workshopdepotdecryptionkey": "8471c7c884dffadff2dc077d81df518d7cb678c0d6a837f14e02a1894ea203d0"
