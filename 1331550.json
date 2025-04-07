@@ -4,8 +4,8 @@
     "name": "Big Ambitions",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008553",
-    "update_time": "2025-03-18 15:39:59",
+    "change_number": "28319917",
+    "update_time": "2025-04-05 10:51:43",
     "depot": {
         "hasdepotsindlc": "0",
         "1331551": {
@@ -48,6 +48,11 @@
                     "gid": "8677891119295239975",
                     "size": "4143656173",
                     "download": "1317372080"
+                },
+                "experimental": {
+                    "gid": "5312131649812071476",
+                    "size": "4419400161",
+                    "download": "1786289232"
                 }
             },
             "decryptionkey": "f3b44da48f4335a1dad963250d348f21e38cb27fbe8264e2cd0ebf217849a089"
@@ -92,6 +97,11 @@
                     "gid": "827173824414030890",
                     "size": "3932646438",
                     "download": "1210139472"
+                },
+                "experimental": {
+                    "gid": "484131154537638722",
+                    "size": "4218561489",
+                    "download": "1652813456"
                 }
             },
             "decryptionkey": "1547279019dc793ecffc735c9690f060ed6a8c2fd0145e1e4c605b795cc423d9"
@@ -130,6 +140,11 @@
                     "download": "0"
                 },
                 "ea-06": {
+                    "gid": "131293730837976135",
+                    "size": "0",
+                    "download": "0"
+                },
+                "experimental": {
                     "gid": "131293730837976135",
                     "size": "0",
                     "download": "0"
@@ -174,6 +189,11 @@
                     "gid": "4858057309773360011",
                     "size": "0",
                     "download": "0"
+                },
+                "experimental": {
+                    "gid": "4858057309773360011",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "decryptionkey": ""
@@ -213,6 +233,11 @@
                 "buildid": "16389127",
                 "description": "EA 0.6 (Old version)",
                 "timeupdated": "1734431863"
+            },
+            "experimental": {
+                "buildid": "17979012",
+                "description": "Use at own risk - Unstable!",
+                "timeupdated": "1743754643"
             }
         },
         "privatebranches": "1",
