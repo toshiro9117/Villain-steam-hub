@@ -4,8 +4,8 @@
     "name": "琉隐神渡 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27927300",
-    "update_time": "2025-03-13 14:53:49",
+    "change_number": "28138716",
+    "update_time": "2025-03-26 06:33:55",
     "depot": {
         "228988": {
             "config": {
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4627202738783043627",
+                    "gid": "9032672476529268127",
                     "size": "4415740850",
-                    "download": "4288292000"
+                    "download": "4288291840"
                 }
             }
         },
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17704689",
-                "timeupdated": "1741848824"
+                "buildid": "17776049",
+                "timeupdated": "1742364621"
             }
         }
     }
