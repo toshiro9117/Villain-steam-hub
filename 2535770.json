@@ -4,17 +4,17 @@
     "name": "黄毛漂流记",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531862",
-    "update_time": "2025-02-18 18:15:25",
+    "change_number": "28206951",
+    "update_time": "2025-03-29 23:00:33",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "0",
         "2535771": {
             "manifests": {
                 "public": {
-                    "gid": "8947595106750350302",
-                    "size": "1670580742",
-                    "download": "460469872"
+                    "gid": "976063852332339037",
+                    "size": "1670580739",
+                    "download": "460469888"
                 }
             },
             "decryptionkey": "e63408e639d3e5bac5344c02be0a9a0b2afdff7fbcc07353212f91fbf0efab01"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17405361",
-                "timeupdated": "1739873719"
+                "buildid": "17910143",
+                "timeupdated": "1743260429"
             }
         },
         "privatebranches": "1"
