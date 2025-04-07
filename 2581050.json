@@ -4,8 +4,8 @@
     "name": "神椿市協奏中。",
     "schinese_name": "神椿市协奏中。",
     "isfreeapp": "0",
-    "change_number": "27990835",
-    "update_time": "2025-03-17 17:51:59",
+    "change_number": "28219954",
+    "update_time": "2025-03-31 08:52:41",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "2581051": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8263294573116033456",
-                    "size": "11515447090",
-                    "download": "10612102288"
+                    "gid": "6629946266862827065",
+                    "size": "12463908278",
+                    "download": "11570740448"
                 }
             },
             "decryptionkey": "72c4e9e40b3dd0b48fb2712bf570f6390358e03f8bd98d8e8bed1a5f7bec4f2c"
         },
         "branches": {
             "public": {
-                "buildid": "17419456",
-                "timeupdated": "1740580285"
+                "buildid": "17749272",
+                "timeupdated": "1742997827"
             }
         },
         "privatebranches": "1"
