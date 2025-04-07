@@ -4,8 +4,8 @@
     "name": "Empyrion - Galactic Survival",
     "schinese_name": "帝国霸业：银河生存",
     "isfreeapp": "0",
-    "change_number": "28013689",
-    "update_time": "2025-03-18 21:15:58",
+    "change_number": "28300028",
+    "update_time": "2025-04-04 09:16:15",
     "depot": {
         "workshopdepot": "383120",
         "hasdepotsindlc": "1",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "512867035632909368",
-                    "size": "17098493637",
-                    "download": "9873130880"
+                    "gid": "3204593093713007999",
+                    "size": "17191569020",
+                    "download": "10028984304"
                 },
                 "alpha10": {
                     "gid": "8179705152781381799",
@@ -63,17 +63,17 @@
                     "download": "3985802592"
                 },
                 "experimental": {
-                    "gid": "3477800161884206872",
-                    "size": "17191148928",
-                    "download": "10028678448"
+                    "gid": "3874750359557769963",
+                    "size": "17191573931",
+                    "download": "10028961456"
                 }
             },
             "decryptionkey": "34c1757941c6a2a64511d2d07327a24569014d7bd684b4259ec76f37f7aedc55"
         },
         "branches": {
             "public": {
-                "buildid": "16354413",
-                "timeupdated": "1733313535"
+                "buildid": "17954998",
+                "timeupdated": "1743672481"
             },
             "alpha10": {
                 "buildid": "6475091",
@@ -111,9 +111,9 @@
                 "timeupdated": "1587836017"
             },
             "experimental": {
-                "buildid": "17726012",
+                "buildid": "17851724",
                 "description": "Experimental branch",
-                "timeupdated": "1741970275"
+                "timeupdated": "1742909914"
             }
         },
         "privatebranches": "1",
