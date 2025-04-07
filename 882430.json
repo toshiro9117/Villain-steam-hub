@@ -4,8 +4,8 @@
     "name": "Beasts of Bermuda Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006639",
-    "update_time": "2025-03-18 12:18:01",
+    "change_number": "28231545",
+    "update_time": "2025-03-31 23:53:15",
     "depot": {
         "1004": {
             "config": {
@@ -67,14 +67,14 @@
         "882431": {
             "manifests": {
                 "public": {
-                    "gid": "8402062198446347819",
-                    "size": "6677643929",
-                    "download": "5612817328"
+                    "gid": "5492066471454343145",
+                    "size": "10968495344",
+                    "download": "8437070304"
                 },
                 "tester": {
-                    "gid": "1480249533125786657",
-                    "size": "10253197524",
-                    "download": "7966116288"
+                    "gid": "5492066471454343145",
+                    "size": "10968495344",
+                    "download": "8437070304"
                 }
             },
             "decryptionkey": ""
@@ -85,14 +85,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6177998426856986181",
-                    "size": "270266792",
-                    "download": "81106384"
+                    "gid": "4981348859697288994",
+                    "size": "270394280",
+                    "download": "81119904"
                 },
                 "tester": {
-                    "gid": "1064519149841406085",
-                    "size": "270353832",
-                    "download": "81136928"
+                    "gid": "4981348859697288994",
+                    "size": "270394280",
+                    "download": "81119904"
                 }
             },
             "decryptionkey": ""
@@ -117,13 +117,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17416705",
-                "timeupdated": "1739938009"
+                "buildid": "17926449",
+                "timeupdated": "1743436377"
             },
             "tester": {
-                "buildid": "17760577",
+                "buildid": "17926449",
                 "description": "Tester branch",
-                "timeupdated": "1742271477"
+                "timeupdated": "1743433037"
             }
         },
         "privatebranches": "1"
