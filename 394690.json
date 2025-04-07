@@ -4,8 +4,8 @@
     "name": "Tower Unite",
     "schinese_name": "塔楼",
     "isfreeapp": "0",
-    "change_number": "28013818",
-    "update_time": "2025-03-18 21:24:21",
+    "change_number": "28346022",
+    "update_time": "2025-04-07 21:01:36",
     "depot": {
         "228989": {
             "config": {
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "419020369097748366",
-                    "size": "29046671843",
-                    "download": "27855254064"
+                    "gid": "2119257408134425934",
+                    "size": "29100996190",
+                    "download": "27902110064"
                 }
             },
             "decryptionkey": "be1149768a298865cf712fe8c1bb9ca533b6a528f7fb6c7fca4a3bd92b835223"
@@ -49,8 +49,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17733087",
-                "timeupdated": "1742004938"
+                "buildid": "17977638",
+                "timeupdated": "1743743057"
             }
         },
         "privatebranches": "1",
