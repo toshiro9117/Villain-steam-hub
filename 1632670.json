@@ -4,8 +4,8 @@
     "name": "Cave Guessers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26810313",
-    "update_time": "2024-12-29 21:40:33",
+    "change_number": "28092312",
+    "update_time": "2025-03-23 09:19:17",
     "depot": {
         "1632671": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "186616880"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f354a7a98a3fecaf7536de969a7c3073ac9c611733ba4721979d808188aeeca4"
         },
         "1632673": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "192726960"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4c2d4d72b4dd66968001752e9190ae8f5db087e2a831823765d58db6e67ab5e1"
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
         "workshopdepot": "1632670",
