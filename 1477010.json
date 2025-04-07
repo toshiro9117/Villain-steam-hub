@@ -4,8 +4,8 @@
     "name": "醉梦传说 ~ Tales of Heroes in Gensoukyo",
     "schinese_name": "醉梦传说 ~ Tales of Heroes in Gensoukyo",
     "isfreeapp": "0",
-    "change_number": "27728393",
-    "update_time": "2025-03-01 09:22:48",
+    "change_number": "28152244",
+    "update_time": "2025-03-26 23:25:53",
     "depot": {
         "1477011": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8297092979094244374",
-                    "size": "451367128",
-                    "download": "173694208"
+                    "gid": "5474874117230973982",
+                    "size": "451422459",
+                    "download": "173702976"
                 },
                 "beta": {
                     "gid": "7628464184750972855",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1038277890539662346",
-                    "size": "463285217",
-                    "download": "177348432"
+                    "gid": "8846959148909466061",
+                    "size": "463340548",
+                    "download": "177356384"
                 },
                 "beta": {
                     "gid": "4539692302535217788",
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "250013900827960776",
-                    "size": "454317091",
-                    "download": "173763616"
+                    "gid": "8214995744613028369",
+                    "size": "454372422",
+                    "download": "173771600"
                 },
                 "beta": {
                     "gid": "4675046821380973468",
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17474183",
-                "timeupdated": "1740323773"
+                "buildid": "17869094",
+                "timeupdated": "1743002747"
             },
             "beta": {
                 "buildid": "13922243",
