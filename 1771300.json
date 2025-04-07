@@ -4,8 +4,8 @@
     "name": "Kingdom Come: Deliverance II",
     "schinese_name": "天国：拯救2",
     "isfreeapp": "0",
-    "change_number": "28012468",
-    "update_time": "2025-03-18 19:57:05",
+    "change_number": "28340543",
+    "update_time": "2025-04-07 14:55:42",
     "depot": {
         "workshopdepot": "1771300",
         "baselanguages": "",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5622491739091904392",
-                    "size": "91658246",
-                    "download": "25136928"
+                    "gid": "7598101506006280793",
+                    "size": "91653126",
+                    "download": "25135840"
                 }
             },
             "decryptionkey": "41bc41c39ce79db318e98b533bab1fe71bfd294c4e8c90f90e4f8efa5fcc2a91"
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8633357772606952039",
-                    "size": "80488442224",
-                    "download": "77310312736"
+                    "gid": "7031049935658576488",
+                    "size": "80488444580",
+                    "download": "77310313904"
                 }
             },
             "decryptionkey": "397ab2e5c59bbb75f716c30dba3374be8af7ff49a2fc45c621e0bc23bafbd5f3"
@@ -49,9 +49,9 @@
             "dlcappid": "3406020",
             "manifests": {
                 "public": {
-                    "gid": "7761827193621830842",
-                    "size": "594066540",
-                    "download": "422229056"
+                    "gid": "4989776880978131557",
+                    "size": "594069814",
+                    "download": "422198240"
                 }
             },
             "decryptionkey": ""
@@ -142,8 +142,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17721645",
-                "timeupdated": "1741953379"
+                "buildid": "17777112",
+                "timeupdated": "1742486458"
             }
         },
         "privatebranches": "1",
