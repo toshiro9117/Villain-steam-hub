@@ -4,8 +4,8 @@
     "name": "Maniac",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27909100",
-    "update_time": "2025-03-12 18:53:45",
+    "change_number": "28165783",
+    "update_time": "2025-03-27 16:33:32",
     "depot": {
         "1482381": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "298006016"
                 },
                 "test": {
-                    "gid": "6352822428787748609",
-                    "size": "1368035737",
-                    "download": "303196768"
+                    "gid": "1585664862427268693",
+                    "size": "1368035698",
+                    "download": "303203152"
                 }
             },
             "decryptionkey": "0aef693e6ad6e947bb44801b47a8aab5af3daebdfdecf54a95ec4d092a669fa6"
@@ -46,9 +46,9 @@
                     "download": "236475120"
                 },
                 "test": {
-                    "gid": "2314775235011515302",
-                    "size": "1280649980",
-                    "download": "250301152"
+                    "gid": "3164176914058968276",
+                    "size": "1280649981",
+                    "download": "250301216"
                 }
             },
             "decryptionkey": "071d595bfd532b39a24f8f272b79c59559d5e15027fd0d9f5b8f0925a8ae6681"
@@ -69,9 +69,9 @@
                     "download": "208111856"
                 },
                 "test": {
-                    "gid": "8626886548668902184",
-                    "size": "1115180123",
-                    "download": "213017600"
+                    "gid": "7829434465405688494",
+                    "size": "1115180122",
+                    "download": "213016960"
                 }
             },
             "decryptionkey": "ddc7f708a6417af0b1289571d4929b376c6c339d5fd10538634f24e6a2526a4e"
@@ -88,9 +88,9 @@
                 "timeupdated": "1718106209"
             },
             "test": {
-                "buildid": "17691327",
+                "buildid": "17879670",
                 "description": "Testing",
-                "timeupdated": "1741776821"
+                "timeupdated": "1743064408"
             }
         },
         "privatebranches": "1",
