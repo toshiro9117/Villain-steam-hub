@@ -4,8 +4,8 @@
     "name": "Project Demigod",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27472420",
-    "update_time": "2025-02-14 11:56:26",
+    "change_number": "28318902",
+    "update_time": "2025-04-05 08:32:43",
     "depot": {
         "1646581": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8911457923534406907",
-                    "size": "5517671343",
-                    "download": "4610681936"
+                    "gid": "2081260260909146252",
+                    "size": "5221156020",
+                    "download": "4347931392"
                 }
             },
             "decryptionkey": "85c6ca70e330f208008e25aba7476ebd78b0029856ce59c477ee9ca5a8b68fe6"
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16780982",
-                "timeupdated": "1734490015"
+                "buildid": "17992072",
+                "timeupdated": "1743813158"
             }
         },
         "privatebranches": "1"
