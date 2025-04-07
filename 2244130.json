@@ -4,8 +4,8 @@
     "name": "Ratopia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27527970",
-    "update_time": "2025-02-18 12:52:17",
+    "change_number": "28342667",
+    "update_time": "2025-04-07 17:24:58",
     "depot": {
         "2244131": {
             "config": {
@@ -43,6 +43,7 @@
                 "timeupdated": "1739937348"
             }
         },
-        "workshopdepotdecryptionkey": "8ac54e69d00299cceca860052d27a678fc76c276af0bc21a351dc513f03de24b"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
