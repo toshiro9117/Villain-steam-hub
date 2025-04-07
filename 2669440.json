@@ -4,15 +4,15 @@
     "name": "元卡牌2MetaCard2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25897475",
-    "update_time": "2024-10-25 21:53:48",
+    "change_number": "28043304",
+    "update_time": "2025-03-20 09:56:47",
     "depot": {
         "2669441": {
             "manifests": {
                 "public": {
-                    "gid": "5394869212587092478",
-                    "size": "1248156497",
-                    "download": "303512832"
+                    "gid": "6818248496937755119",
+                    "size": "1239088645",
+                    "download": "301597456"
                 }
             },
             "decryptionkey": "c4125b3ef8521ae6cf11084f70ed64e938b317e6f1e3234e16611882c7cd02f7"
@@ -21,8 +21,8 @@
         "workshopdepot": "2669440",
         "branches": {
             "public": {
-                "buildid": "16181403",
-                "timeupdated": "1729864423"
+                "buildid": "17532575",
+                "timeupdated": "1740667121"
             }
         },
         "privatebranches": "1",
