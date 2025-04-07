@@ -4,8 +4,8 @@
     "name": "Pixel Composer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28009571",
-    "update_time": "2025-03-18 16:56:55",
+    "change_number": "28342720",
+    "update_time": "2025-04-07 17:27:39",
     "depot": {
         "workshopdepot": "2299510",
         "2299511": {
@@ -39,14 +39,14 @@
                     "download": "85357232"
                 },
                 "beta": {
-                    "gid": "7083361068228001410",
-                    "size": "313657716",
-                    "download": "99260608"
+                    "gid": "9131405699357090275",
+                    "size": "312993423",
+                    "download": "99011248"
                 },
                 "beta-nosteam": {
-                    "gid": "2479068054855484824",
-                    "size": "312877023",
-                    "download": "98944096"
+                    "gid": "56749065916271036",
+                    "size": "312212858",
+                    "download": "98708768"
                 }
             },
             "decryptionkey": "780887386de4e3ffa401f46b7a4c5b477a07e48ec2ec3db4f965648a24015397"
@@ -100,14 +100,14 @@
                 "timeupdated": "1727425366"
             },
             "beta": {
-                "buildid": "17690394",
+                "buildid": "17878052",
                 "description": "more frequent, less stable build",
-                "timeupdated": "1741771853"
+                "timeupdated": "1743056145"
             },
             "beta-nosteam": {
-                "buildid": "17690410",
+                "buildid": "17878204",
                 "description": "beta build without steam workshop, use for debugging",
-                "timeupdated": "1741771844"
+                "timeupdated": "1743056132"
             }
         },
         "privatebranches": "1",
