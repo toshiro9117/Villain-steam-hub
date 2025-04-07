@@ -4,8 +4,8 @@
     "name": " Survive the Nights Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27934479",
-    "update_time": "2025-03-13 22:06:53",
+    "change_number": "28323706",
+    "update_time": "2025-04-05 21:17:57",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6143609734615658283",
-                    "size": "808685219",
-                    "download": "466607984"
+                    "gid": "909237989928808768",
+                    "size": "819325600",
+                    "download": "472136496"
                 },
                 "experimentalwindows": {
                     "gid": "7282175433893886699",
@@ -69,9 +69,9 @@
                     "download": "971095184"
                 },
                 "experimental": {
-                    "gid": "6143609734615658283",
-                    "size": "808685219",
-                    "download": "466607984"
+                    "gid": "909237989928808768",
+                    "size": "819325600",
+                    "download": "472136496"
                 }
             },
             "decryptionkey": ""
@@ -83,9 +83,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6821042975185719673",
-                    "size": "820239640",
-                    "download": "501678960"
+                    "gid": "4332150716548365986",
+                    "size": "833133870",
+                    "download": "507914736"
                 },
                 "experimentalwindows": {
                     "gid": "4652151882370758544",
@@ -93,17 +93,17 @@
                     "download": "950174928"
                 },
                 "experimental": {
-                    "gid": "6821042975185719673",
-                    "size": "820239640",
-                    "download": "501678960"
+                    "gid": "4332150716548365986",
+                    "size": "833133870",
+                    "download": "507914736"
                 }
             },
             "decryptionkey": "fdaa8fa29d52330b37e9a243c0ff3d6181cef31718a1262dca88b0db537a5330"
         },
         "branches": {
             "public": {
-                "buildid": "17425418",
-                "timeupdated": "1739989011"
+                "buildid": "17988675",
+                "timeupdated": "1743859073"
             },
             "experimentalwindows": {
                 "buildid": "9754712",
@@ -111,9 +111,9 @@
                 "timeupdated": "1666272627"
             },
             "experimental": {
-                "buildid": "17425418",
+                "buildid": "17988675",
                 "description": "for testing",
-                "timeupdated": "1739988987"
+                "timeupdated": "1743859031"
             }
         },
         "privatebranches": "1"
