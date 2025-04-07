@@ -4,14 +4,14 @@
     "name": "Empyrion - Galactic Survival: Dark Faction",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27817020",
-    "update_time": "2025-03-06 23:08:36",
+    "change_number": "28210860",
+    "update_time": "2025-03-30 08:16:39",
     "depot": {
         "2765930": {
             "dlcappid": "2765930",
             "manifests": {
                 "public": {
-                    "gid": "4520814500473812756",
+                    "gid": "7226081050543363756",
                     "size": "1525403427",
                     "download": "1357354720"
                 },
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15653928",
-                "timeupdated": "1726133424"
+                "buildid": "17077455",
+                "timeupdated": "1742915314"
             },
             "experimental": {
                 "buildid": "17077455",
