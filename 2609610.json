@@ -4,23 +4,23 @@
     "name": "CONVRGENCE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28002212",
-    "update_time": "2025-03-18 05:20:48",
+    "change_number": "28205511",
+    "update_time": "2025-03-29 19:11:38",
     "depot": {
         "2609611": {
             "manifests": {
                 "public": {
-                    "gid": "670819945226162196",
-                    "size": "11654890247",
-                    "download": "5260786304"
+                    "gid": "176697061350744205",
+                    "size": "11654959999",
+                    "download": "5260809008"
                 }
             },
             "decryptionkey": "16946e2092c51648d3424fff2d873a1278386e7050edbb4ef7ab8dc071394faa"
         },
         "branches": {
             "public": {
-                "buildid": "17756929",
-                "timeupdated": "1742246443"
+                "buildid": "17785261",
+                "timeupdated": "1742414923"
             }
         },
         "privatebranches": "1"
