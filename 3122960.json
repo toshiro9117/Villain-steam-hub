@@ -4,8 +4,8 @@
     "name": "Goeland Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27997493",
-    "update_time": "2025-03-18 00:03:30",
+    "change_number": "28294226",
+    "update_time": "2025-04-04 01:45:45",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7214640245973001114",
-                    "size": "636702401",
-                    "download": "346048560"
+                    "gid": "1108601107979884520",
+                    "size": "645706918",
+                    "download": "353818096"
                 }
             }
         },
@@ -41,16 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7742516343908669727",
-                    "size": "561541561",
-                    "download": "368468832"
+                    "gid": "4493843243443242870",
+                    "size": "569817967",
+                    "download": "376621600"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17753891",
-                "timeupdated": "1742227300"
+                "buildid": "17888397",
+                "timeupdated": "1743105966"
             }
         }
     }
