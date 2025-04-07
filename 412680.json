@@ -4,8 +4,8 @@
     "name": "The Isle Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28007295",
-    "update_time": "2025-03-18 13:36:52",
+    "change_number": "28311651",
+    "update_time": "2025-04-04 23:31:25",
     "depot": {
         "412681": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "1048626048"
                 },
                 "evrima": {
-                    "gid": "4030749119880089996",
-                    "size": "941822754",
-                    "download": "750569088"
+                    "gid": "4205458443572850853",
+                    "size": "942346386",
+                    "download": "750615152"
                 }
             },
             "decryptionkey": "abe3e8ff4ed46a384307cbe0924d455dd904fbdd808c2f331a3cbb1214d013ee"
@@ -47,9 +47,9 @@
                     "download": "1268531152"
                 },
                 "evrima": {
-                    "gid": "2083677357871679558",
-                    "size": "875598955",
-                    "download": "630227840"
+                    "gid": "7872785571694865758",
+                    "size": "875725872",
+                    "download": "630253664"
                 }
             },
             "decryptionkey": "210e02c213ad49e7612862dc38ed7770405c91b32fee506ee50860dc45fa0ec2"
@@ -70,9 +70,9 @@
                 "timeupdated": "1699983388"
             },
             "evrima": {
-                "buildid": "17150378",
+                "buildid": "17964670",
                 "description": "evrima servers",
-                "timeupdated": "1738014402"
+                "timeupdated": "1743655887"
             }
         },
         "privatebranches": "1"
