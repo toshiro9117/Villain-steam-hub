@@ -4,8 +4,8 @@
     "name": "Superliminal",
     "schinese_name": "超阈限空间 Superliminal",
     "isfreeapp": "0",
-    "change_number": "27497216",
-    "update_time": "2025-02-16 04:15:23",
+    "change_number": "28177236",
+    "update_time": "2025-03-28 03:15:26",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian,ukrainian,latam",
         "workshopdepot": "1049410",
@@ -100,6 +100,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "b26cfedae29d54a4070130f05dc1ea5e88a4a14f1b3f38e899667e46856b0bb7"
+        "workshopdepotdecryptionkey": ""
     }
 }
