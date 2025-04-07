@@ -4,8 +4,8 @@
     "name": "Arma 3 Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27996700",
-    "update_time": "2025-03-17 23:17:39",
+    "change_number": "28344947",
+    "update_time": "2025-04-07 19:51:35",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -97,9 +97,9 @@
             },
             "manifests": {
                 "profiling": {
-                    "gid": "7888072713633080398",
-                    "size": "88987168",
-                    "download": "28555632"
+                    "gid": "8482134978883348419",
+                    "size": "89388064",
+                    "download": "28630816"
                 }
             },
             "decryptionkey": "76b442e78ff8126ce2e4f854993f7384a0fffceda12dc0a3e8a4640bf976ac0d"
@@ -110,9 +110,9 @@
             },
             "manifests": {
                 "profiling": {
-                    "gid": "1843508030295181773",
-                    "size": "122156528",
-                    "download": "37235936"
+                    "gid": "4229359324466651870",
+                    "size": "122070512",
+                    "download": "37246640"
                 }
             },
             "decryptionkey": "ebf7db80e48c073ff7e8d62fa0b08988de2c68e5311fbf9c9523513b15ae0290"
@@ -140,9 +140,9 @@
         "233793": {
             "manifests": {
                 "creatordlc": {
-                    "gid": "5551189543410228598",
-                    "size": "2658931561",
-                    "download": "2695318528"
+                    "gid": "1075735405939243140",
+                    "size": "2662009137",
+                    "download": "2697160064"
                 }
             },
             "decryptionkey": "3b83822676b30ed33e4ab826eaf36e155d05d0597e4e429ed3feb2d06466c752"
@@ -199,14 +199,14 @@
                 "timeupdated": "1732019890"
             },
             "creatordlc": {
-                "buildid": "17185314",
+                "buildid": "17852627",
                 "description": "Creator DLC Build",
-                "timeupdated": "1738245820"
+                "timeupdated": "1742910901"
             },
             "profiling": {
-                "buildid": "17619014",
+                "buildid": "18010829",
                 "description": "Performance Profiling Build",
-                "timeupdated": "1741262494"
+                "timeupdated": "1744026690"
             }
         },
         "privatebranches": "1"
