@@ -4,8 +4,8 @@
     "name": "NoOneSurvivedDedicatedServer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27141181",
-    "update_time": "2025-01-24 09:34:13",
+    "change_number": "28280688",
+    "update_time": "2025-04-03 10:59:15",
     "depot": {
         "1004": {
             "config": {
@@ -59,27 +59,37 @@
         "2329681": {
             "manifests": {
                 "public": {
+                    "gid": "7086885848646104625",
+                    "size": "5845087829",
+                    "download": "4874675232"
+                },
+                "0.0.8.6": {
                     "gid": "5614340942419649249",
                     "size": "5686959578",
                     "download": "4973996336"
                 },
                 "beta": {
-                    "gid": "9068669629886735126",
-                    "size": "6330780203",
-                    "download": "5512740608"
+                    "gid": "7086885848646104625",
+                    "size": "5845087829",
+                    "download": "4874675232"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3bdb3637c660a9b69792521ea5340430283405f16e5e37ed93e97a2ef7438941"
         },
         "branches": {
             "public": {
+                "buildid": "17963092",
+                "timeupdated": "1743648326"
+            },
+            "0.0.8.6": {
                 "buildid": "16832618",
-                "timeupdated": "1734937548"
+                "description": "0.0.8.6",
+                "timeupdated": "1743649150"
             },
             "beta": {
-                "buildid": "17112935",
+                "buildid": "17963092",
                 "description": "beta",
-                "timeupdated": "1737682448"
+                "timeupdated": "1743648311"
             }
         }
     }
