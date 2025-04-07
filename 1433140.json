@@ -4,8 +4,8 @@
     "name": "The Texas Chain Saw Massacre",
     "schinese_name": "德州电锯杀人狂",
     "isfreeapp": "0",
-    "change_number": "28001028",
-    "update_time": "2025-03-18 03:49:26",
+    "change_number": "28334646",
+    "update_time": "2025-04-07 02:29:59",
     "depot": {
         "228990": {
             "config": {
@@ -22,17 +22,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9035052638266818036",
-                    "size": "90913182403",
-                    "download": "40369083104"
+                    "gid": "2287270445707509827",
+                    "size": "77079821569",
+                    "download": "35690843376"
                 }
             },
             "decryptionkey": "333f806b286218fd908b89ab09f76d78ca28410ed7e235b95fbce1eddb1afa33"
         },
         "branches": {
             "public": {
-                "buildid": "17152111",
-                "timeupdated": "1738068725"
+                "buildid": "17630503",
+                "timeupdated": "1742471348"
             }
         },
         "privatebranches": "1"
