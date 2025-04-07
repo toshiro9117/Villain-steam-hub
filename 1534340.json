@@ -4,8 +4,8 @@
     "name": "Fida Puti Samurai",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28003186",
-    "update_time": "2025-03-18 06:51:06",
+    "change_number": "28275842",
+    "update_time": "2025-04-03 04:17:31",
     "depot": {
         "1534341": {
             "manifests": {
@@ -15,14 +15,14 @@
                     "download": "1364924144"
                 },
                 "risky": {
-                    "gid": "7063889011184970726",
-                    "size": "5579335594",
-                    "download": "1467897760"
+                    "gid": "701906513021451192",
+                    "size": "2744543488",
+                    "download": "1235053680"
                 },
                 "test": {
-                    "gid": "7063889011184970726",
-                    "size": "5579335594",
-                    "download": "1467897760"
+                    "gid": "701906513021451192",
+                    "size": "2744543488",
+                    "download": "1235053680"
                 }
             },
             "decryptionkey": "1a3b2d3914505a32f0ade9b93f0bde095532a7999cf12ac80066cab8406fc4c8"
@@ -33,14 +33,14 @@
                 "timeupdated": "1727965371"
             },
             "risky": {
-                "buildid": "17757937",
+                "buildid": "17960012",
                 "description": "Beta or something dude",
-                "timeupdated": "1742251850"
+                "timeupdated": "1743625035"
             },
             "test": {
-                "buildid": "17757937",
+                "buildid": "17960012",
                 "description": "for tests before publishing to main branch",
-                "timeupdated": "1742251860"
+                "timeupdated": "1743625047"
             }
         }
     }
