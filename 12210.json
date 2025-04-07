@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto IV: The Complete Edition",
     "schinese_name": "侠盗猎车手4：完整版",
     "isfreeapp": "0",
-    "change_number": "27971706",
-    "update_time": "2025-03-15 19:13:59",
+    "change_number": "28314615",
+    "update_time": "2025-04-05 02:18:28",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese",
@@ -123,9 +123,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3069743124386259608",
-                    "size": "229581068",
-                    "download": "186115536"
+                    "gid": "5718000260924391145",
+                    "size": "227436300",
+                    "download": "183968240"
                 }
             },
             "depotfromapp": "1899670",
