@@ -4,10 +4,11 @@
     "name": "Battlefield 4™ ",
     "schinese_name": "《Battlefield 4》™",
     "isfreeapp": "0",
-    "change_number": "28010080",
-    "update_time": "2025-03-18 17:21:49",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:20",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,czech,brazilian",
+        "hasdepotsindlc": "1",
         "228984": {
             "config": {
                 "oslist": "windows"
@@ -23,9 +24,6 @@
             "sharedinstall": "1"
         },
         "1238861": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "5790550315647961519",
@@ -191,7 +189,17 @@
             },
             "decryptionkey": "38f003a48cd1e5bc78b2bac043fa502b896d52c99e66199978cb29b2689f21ff"
         },
-        "hasdepotsindlc": "1",
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
         "branches": {
             "public": {
                 "buildid": "10351742",
