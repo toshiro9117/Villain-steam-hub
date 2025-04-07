@@ -4,8 +4,8 @@
     "name": "Wild Assault Demo",
     "schinese_name": "兽猎突袭 Demo",
     "isfreeapp": "0",
-    "change_number": "27998140",
-    "update_time": "2025-03-18 00:37:57",
+    "change_number": "28342656",
+    "update_time": "2025-04-07 17:24:15",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,thai,japanese,portuguese",
         "228989": {
@@ -115,22 +115,26 @@
         "2945287": {
             "config": {
                 "language": "thai"
-            }
+            },
+            "manifests": {}
         },
         "2945288": {
             "config": {
                 "language": "german"
-            }
+            },
+            "manifests": {}
         },
         "2945289": {
             "config": {
                 "language": "portuguese"
-            }
+            },
+            "manifests": {}
         },
         "3333920": {
             "config": {
                 "language": "french"
-            }
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
