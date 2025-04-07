@@ -4,15 +4,20 @@
     "name": "Infection Free Zone - Map Editor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27936276",
-    "update_time": "2025-03-13 23:31:22",
+    "change_number": "28251946",
+    "update_time": "2025-04-02 00:02:55",
     "depot": {
         "2202101": {
             "manifests": {
                 "public": {
-                    "gid": "3361248092856654521",
-                    "size": "604310247",
-                    "download": "276792848"
+                    "gid": "8282993627782966709",
+                    "size": "606153646",
+                    "download": "275315728"
+                },
+                "open_beta": {
+                    "gid": "134156622914230672",
+                    "size": "606403846",
+                    "download": "275319888"
                 },
                 "previous": {
                     "gid": "2115736171809715576",
@@ -24,8 +29,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16724148",
-                "timeupdated": "1734534512"
+                "buildid": "17942090",
+                "timeupdated": "1743523364"
+            },
+            "open_beta": {
+                "buildid": "17838460",
+                "description": "Builds still in testing",
+                "timeupdated": "1742915546"
             },
             "previous": {
                 "buildid": "15434180",
