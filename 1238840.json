@@ -1,11 +1,11 @@
 {
     "appid": "1238840",
     "type": "Game",
-    "name": "Battlefield 1 ™",
+    "name": "Battlefield™ 1",
     "schinese_name": "战地风云1",
     "isfreeapp": "0",
-    "change_number": "27993079",
-    "update_time": "2025-03-17 20:21:39",
+    "change_number": "28266725",
+    "update_time": "2025-04-02 19:11:39",
     "depot": {
         "228985": {
             "config": {
@@ -22,9 +22,6 @@
             "sharedinstall": "1"
         },
         "1238841": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "1819202721014430225",
@@ -202,6 +199,17 @@
                 }
             },
             "decryptionkey": "18125f3b57aa45e546e63f41fa0182224fe3a06ce4b0484f58d4769232ac4cfd"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
