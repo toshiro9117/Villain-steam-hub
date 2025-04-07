@@ -4,8 +4,8 @@
     "name": "Legion TD 2",
     "schinese_name": "军团战争2 / Legion TD 2",
     "isfreeapp": "0",
-    "change_number": "27907683",
-    "update_time": "2025-03-12 17:25:45",
+    "change_number": "28345614",
+    "update_time": "2025-04-07 20:35:47",
     "depot": {
         "228985": {
             "config": {
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1459266991056256361",
-                    "size": "2402089795",
-                    "download": "1520245744"
+                    "gid": "5693690909825165098",
+                    "size": "2405072188",
+                    "download": "1522124720"
                 },
                 "mactest": {
                     "gid": "1504953317752320179",
@@ -58,9 +58,9 @@
                     "download": "1386651920"
                 },
                 "public_test_realm": {
-                    "gid": "5257170656065753714",
-                    "size": "2401916326",
-                    "download": "1520213120"
+                    "gid": "8940105188551836791",
+                    "size": "2408121769",
+                    "download": "1523731840"
                 }
             },
             "decryptionkey": "8b591e56a834f70ff1bf49b14b99e2c490adca60ee83a708449f01edab91a597"
@@ -100,9 +100,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2460553208396252051",
-                    "size": "2522170729",
-                    "download": "1538191472"
+                    "gid": "2450379465846116187",
+                    "size": "2525152610",
+                    "download": "1540071664"
                 },
                 "mactest": {
                     "gid": "1338804715025716182",
@@ -115,9 +115,9 @@
                     "download": "1392591456"
                 },
                 "public_test_realm": {
-                    "gid": "3129225583046240992",
-                    "size": "2521997260",
-                    "download": "1538157248"
+                    "gid": "8001742737338963160",
+                    "size": "2528202191",
+                    "download": "1541678864"
                 }
             },
             "decryptionkey": "392006f5e4e2964f66056341e4f8cc8a45b3d9c85ee44f5ea0629153f2c6768e"
@@ -125,8 +125,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17690130",
-                "timeupdated": "1741771539"
+                "buildid": "17850720",
+                "timeupdated": "1742901778"
             },
             "mactest": {
                 "buildid": "6947310",
@@ -139,9 +139,9 @@
                 "timeupdated": "1682018606"
             },
             "public_test_realm": {
-                "buildid": "17636425",
+                "buildid": "18011344",
                 "description": "Public beta testing",
-                "timeupdated": "1741357304"
+                "timeupdated": "1744029340"
             }
         },
         "privatebranches": "1"
