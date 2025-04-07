@@ -4,8 +4,8 @@
     "name": "Hadean Tactics",
     "schinese_name": "冥狱战术 (Hadean Tactics)",
     "isfreeapp": "0",
-    "change_number": "27994581",
-    "update_time": "2025-03-17 21:36:56",
+    "change_number": "28209403",
+    "update_time": "2025-03-30 04:26:54",
     "depot": {
         "baselanguages": "english,german,spanish,schinese,tchinese,japanese,turkish,brazilian",
         "1260591": {
@@ -19,9 +19,9 @@
                     "download": "1123816208"
                 },
                 "public_beta": {
-                    "gid": "197357874446961132",
-                    "size": "1532690210",
-                    "download": "703320880"
+                    "gid": "4010931256118684955",
+                    "size": "1532690186",
+                    "download": "703325696"
                 }
             },
             "decryptionkey": "713a3afb76db28c62316451087cf527f8b3ff7d3f17a8ca92f9a5369f8858591"
@@ -37,9 +37,9 @@
                     "download": "1193011168"
                 },
                 "public_beta": {
-                    "gid": "3434916001890770308",
-                    "size": "1698398376",
-                    "download": "770222048"
+                    "gid": "2411245238724977951",
+                    "size": "1698398352",
+                    "download": "770228704"
                 }
             },
             "decryptionkey": "d913b50de6552fec5c65fd18011582ee6c4df531b1b52150bdaa02a9fe5cb885"
@@ -55,9 +55,9 @@
                     "download": "1133695056"
                 },
                 "public_beta": {
-                    "gid": "2588373948208746009",
-                    "size": "1563987522",
-                    "download": "712868912"
+                    "gid": "5877121603099076253",
+                    "size": "1563987498",
+                    "download": "712874480"
                 }
             },
             "decryptionkey": "1cd6ebd8af5e1c51d5a0f8b42a7bb56a3dcf8f91ac1920638dd17c14ab535025"
@@ -68,9 +68,9 @@
                 "timeupdated": "1736617377"
             },
             "public_beta": {
-                "buildid": "17751884",
+                "buildid": "17787829",
                 "description": "community feature testing",
-                "timeupdated": "1742218611"
+                "timeupdated": "1742431319"
             }
         },
         "privatebranches": "1"
