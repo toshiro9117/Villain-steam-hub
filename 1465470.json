@@ -4,8 +4,8 @@
     "name": "The Crust",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27765104",
-    "update_time": "2025-03-04 09:22:20",
+    "change_number": "28339261",
+    "update_time": "2025-04-07 12:16:38",
     "depot": {
         "228989": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4102503996075016729",
-                    "size": "5653144822",
-                    "download": "5435823504"
+                    "gid": "2105022846188629179",
+                    "size": "5653146890",
+                    "download": "5435856864"
                 },
                 "beta": {
-                    "gid": "4102503996075016729",
-                    "size": "5653144822",
-                    "download": "5435823504"
+                    "gid": "2105022846188629179",
+                    "size": "5653146890",
+                    "download": "5435856864"
                 },
                 "beta2": {
                     "gid": "6463814176579262651",
@@ -47,14 +47,14 @@
                     "download": "5015795808"
                 },
                 "previous": {
-                    "gid": "3478744155454468699",
-                    "size": "5653046988",
-                    "download": "5395362064"
+                    "gid": "4102503996075016729",
+                    "size": "5653144822",
+                    "download": "5435823504"
                 },
                 "previous2": {
-                    "gid": "347948368064146456",
-                    "size": "5545869225",
-                    "download": "5331899168"
+                    "gid": "7568821679839831726",
+                    "size": "5653121584",
+                    "download": "5435726624"
                 },
                 "previous3": {
                     "gid": "483460175671113234",
@@ -72,13 +72,13 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "17499538",
-                "timeupdated": "1740487586"
+                "buildid": "17851386",
+                "timeupdated": "1742905700"
             },
             "beta": {
-                "buildid": "17499538",
-                "description": "BETA 0.96.15 Beta",
-                "timeupdated": "1740486764"
+                "buildid": "17851386",
+                "description": "BETA 0.96.30 Beta",
+                "timeupdated": "1742905064"
             },
             "beta2": {
                 "buildid": "16861698",
@@ -91,14 +91,14 @@
                 "timeupdated": "1734114580"
             },
             "previous": {
-                "buildid": "17111904",
-                "description": "Previous 0.95.97",
-                "timeupdated": "1738289554"
+                "buildid": "17499538",
+                "description": "Previous 0.96.20",
+                "timeupdated": "1743175132"
             },
             "previous2": {
-                "buildid": "16895121",
-                "description": "0.95.66",
-                "timeupdated": "1736161806"
+                "buildid": "17388055",
+                "description": "0.96.18",
+                "timeupdated": "1743175205"
             },
             "previous3": {
                 "buildid": "16906012",
