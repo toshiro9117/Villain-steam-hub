@@ -4,8 +4,8 @@
     "name": "iZolated",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27987420",
-    "update_time": "2025-03-17 12:24:00",
+    "change_number": "28315824",
+    "update_time": "2025-04-05 03:43:24",
     "depot": {
         "hasdepotsindlc": "1",
         "2799361": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3290348459598204161",
-                    "size": "204502762",
-                    "download": "138101296"
+                    "gid": "615445725237957208",
+                    "size": "205865498",
+                    "download": "139046448"
                 }
             },
             "decryptionkey": "ea1f0620904fff182d0221468365d8a51b7880934704604c520a0b12da97386d"
         },
         "branches": {
             "public": {
-                "buildid": "17497270",
-                "timeupdated": "1740475996"
+                "buildid": "17775109",
+                "timeupdated": "1742356985"
             }
         }
     }
