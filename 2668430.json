@@ -4,8 +4,8 @@
     "name": "The Legend of Heroes: Trails through Daybreak II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27998800",
-    "update_time": "2025-03-18 01:21:23",
+    "change_number": "28332426",
+    "update_time": "2025-04-06 21:16:01",
     "depot": {
         "baselanguages": "english,japanese",
         "228989": {
@@ -18,9 +18,9 @@
         "2668431": {
             "manifests": {
                 "public": {
-                    "gid": "6810909281745305225",
-                    "size": "22899176574",
-                    "download": "22337514048"
+                    "gid": "2583156571697461779",
+                    "size": "22899330743",
+                    "download": "22337552128"
                 },
                 "version_1.1.2": {
                     "gid": "6182345655644506278",
@@ -46,6 +46,16 @@
                     "gid": "7193824809191352825",
                     "size": "22844911114",
                     "download": "22301933728"
+                },
+                "version_1.2.10": {
+                    "gid": "2583156571697461779",
+                    "size": "22899330743",
+                    "download": "22337552128"
+                },
+                "version_1.2.8": {
+                    "gid": "6810909281745305225",
+                    "size": "22899176574",
+                    "download": "22337514048"
                 }
             },
             "decryptionkey": "d906d39dfedc6954ef12ecff143e3141f6a4761422b6a638f64835b85d464a11"
@@ -79,6 +89,16 @@
                     "download": "48"
                 },
                 "version_1.1.8": {
+                    "gid": "5022343043971794244",
+                    "size": "12",
+                    "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "5022343043971794244",
+                    "size": "12",
+                    "download": "48"
+                },
+                "version_1.2.8": {
                     "gid": "5022343043971794244",
                     "size": "12",
                     "download": "48"
@@ -118,6 +138,16 @@
                     "gid": "5743732319124308027",
                     "size": "8",
                     "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "5743732319124308027",
+                    "size": "8",
+                    "download": "48"
+                },
+                "version_1.2.8": {
+                    "gid": "5743732319124308027",
+                    "size": "8",
+                    "download": "48"
                 }
             },
             "decryptionkey": "c264dc307994fc489aa4f3283d973425d9abdb5b3229fe3634058e292a66dd79"
@@ -151,6 +181,16 @@
                     "download": "4835952"
                 },
                 "version_1.1.8": {
+                    "gid": "130631155552844540",
+                    "size": "9000310",
+                    "download": "4835952"
+                },
+                "version_1.2.10": {
+                    "gid": "130631155552844540",
+                    "size": "9000310",
+                    "download": "4835952"
+                },
+                "version_1.2.8": {
                     "gid": "130631155552844540",
                     "size": "9000310",
                     "download": "4835952"
@@ -190,6 +230,16 @@
                     "gid": "4560113567592389887",
                     "size": "24544213",
                     "download": "24435840"
+                },
+                "version_1.2.10": {
+                    "gid": "4560113567592389887",
+                    "size": "24544213",
+                    "download": "24435840"
+                },
+                "version_1.2.8": {
+                    "gid": "4560113567592389887",
+                    "size": "24544213",
+                    "download": "24435840"
                 }
             },
             "decryptionkey": "21d4bdcf13fcc683f6a49020b1a6b3ec838c933db73d82bdd666da5666a27ece"
@@ -223,6 +273,16 @@
                     "download": "19506048"
                 },
                 "version_1.1.8": {
+                    "gid": "3909354162339291103",
+                    "size": "28103588",
+                    "download": "19506048"
+                },
+                "version_1.2.10": {
+                    "gid": "3909354162339291103",
+                    "size": "28103588",
+                    "download": "19506048"
+                },
+                "version_1.2.8": {
                     "gid": "3909354162339291103",
                     "size": "28103588",
                     "download": "19506048"
@@ -262,6 +322,16 @@
                     "gid": "9104757049382181944",
                     "size": "8",
                     "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "9104757049382181944",
+                    "size": "8",
+                    "download": "48"
+                },
+                "version_1.2.8": {
+                    "gid": "9104757049382181944",
+                    "size": "8",
+                    "download": "48"
                 }
             },
             "decryptionkey": "057dcdb7e54005dd5f0a7879139f1e87d50ddc2cafbdef1874605c90ce78e3b8"
@@ -295,6 +365,16 @@
                     "download": "48"
                 },
                 "version_1.1.8": {
+                    "gid": "5790521294674592925",
+                    "size": "8",
+                    "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "5790521294674592925",
+                    "size": "8",
+                    "download": "48"
+                },
+                "version_1.2.8": {
                     "gid": "5790521294674592925",
                     "size": "8",
                     "download": "48"
@@ -334,6 +414,16 @@
                     "gid": "9110657327467797821",
                     "size": "4",
                     "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "9110657327467797821",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.8": {
+                    "gid": "9110657327467797821",
+                    "size": "4",
+                    "download": "48"
                 }
             },
             "decryptionkey": "a211e3dcf4f72630a952fbc6ded735cddd3704cc3632ab259e6b0c5359365569"
@@ -367,6 +457,16 @@
                     "download": "48"
                 },
                 "version_1.1.8": {
+                    "gid": "6357375693334375611",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "6357375693334375611",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.8": {
                     "gid": "6357375693334375611",
                     "size": "4",
                     "download": "48"
@@ -406,6 +506,16 @@
                     "gid": "5242263999382897601",
                     "size": "4",
                     "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "5242263999382897601",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.8": {
+                    "gid": "5242263999382897601",
+                    "size": "4",
+                    "download": "48"
                 }
             },
             "decryptionkey": "08671e336223fe2b2a141104d683ad3c66b4d6a1122cce80e1e983112168d57f"
@@ -439,6 +549,16 @@
                     "download": "48"
                 },
                 "version_1.1.8": {
+                    "gid": "8161499644587117376",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "8161499644587117376",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.8": {
                     "gid": "8161499644587117376",
                     "size": "4",
                     "download": "48"
@@ -478,6 +598,16 @@
                     "gid": "7831284576376710877",
                     "size": "4",
                     "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "7831284576376710877",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.8": {
+                    "gid": "7831284576376710877",
+                    "size": "4",
+                    "download": "48"
                 }
             },
             "decryptionkey": "2dfdf31c5f41fec525ba10287791587715b24125581d05165dd0b228297b9cdf"
@@ -511,6 +641,16 @@
                     "download": "48"
                 },
                 "version_1.1.8": {
+                    "gid": "8969974942490179259",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "8969974942490179259",
+                    "size": "4",
+                    "download": "48"
+                },
+                "version_1.2.8": {
                     "gid": "8969974942490179259",
                     "size": "4",
                     "download": "48"
@@ -550,14 +690,24 @@
                     "gid": "9030204939961486267",
                     "size": "8",
                     "download": "48"
+                },
+                "version_1.2.10": {
+                    "gid": "9030204939961486267",
+                    "size": "8",
+                    "download": "48"
+                },
+                "version_1.2.8": {
+                    "gid": "9030204939961486267",
+                    "size": "8",
+                    "download": "48"
                 }
             },
             "decryptionkey": "23e1622d9d876eea0ec0f207b9e656d5659ae97f779874271cd40ec0a6e47080"
         },
         "branches": {
             "public": {
-                "buildid": "17745134",
-                "timeupdated": "1742232075"
+                "buildid": "17916475",
+                "timeupdated": "1743945332"
             },
             "version_1.1.2": {
                 "buildid": "17363788",
@@ -583,6 +733,16 @@
                 "buildid": "17530099",
                 "description": "version_1.1.8",
                 "timeupdated": "1740656211"
+            },
+            "version_1.2.10": {
+                "buildid": "17916475",
+                "description": "version_1.2.10",
+                "timeupdated": "1743945298"
+            },
+            "version_1.2.8": {
+                "buildid": "17745134",
+                "description": "version_1.2.8",
+                "timeupdated": "1742163734"
             }
         },
         "privatebranches": "1"
