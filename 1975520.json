@@ -4,15 +4,15 @@
     "name": "Astronomics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27976471",
-    "update_time": "2025-03-16 06:57:09",
+    "change_number": "28323669",
+    "update_time": "2025-04-05 21:12:28",
     "depot": {
         "1975521": {
             "manifests": {
                 "public": {
-                    "gid": "6936141598371979976",
-                    "size": "757044952",
-                    "download": "167081984"
+                    "gid": "792077964306394678",
+                    "size": "829391662",
+                    "download": "172931568"
                 },
                 "demo": {
                     "gid": "3142874900317064495",
@@ -20,17 +20,17 @@
                     "download": "188169040"
                 },
                 "previous-version": {
-                    "gid": "5497395828615687732",
-                    "size": "756957519",
-                    "download": "166997360"
+                    "gid": "2840604343150471237",
+                    "size": "829359942",
+                    "download": "172921424"
                 }
             },
             "decryptionkey": "074c4f2f2da1a4e2db3056bfe224889fe1dba950f6ed4134a952cc42c2161c46"
         },
         "branches": {
             "public": {
-                "buildid": "17610471",
-                "timeupdated": "1741211811"
+                "buildid": "17995902",
+                "timeupdated": "1743858745"
             },
             "demo": {
                 "buildid": "17255427",
@@ -38,9 +38,9 @@
                 "timeupdated": "1738778552"
             },
             "previous-version": {
-                "buildid": "17556697",
+                "buildid": "17990798",
                 "description": "The previous version to fallback to",
-                "timeupdated": "1741211796"
+                "timeupdated": "1743858655"
             }
         },
         "privatebranches": "1"
