@@ -4,8 +4,8 @@
     "name": "Empires Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28000807",
-    "update_time": "2025-03-18 03:29:44",
+    "change_number": "28324621",
+    "update_time": "2025-04-05 23:31:01",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "285897392"
                 },
                 "beta": {
-                    "gid": "7200748971571770463",
-                    "size": "875329597",
-                    "download": "285897392"
+                    "gid": "2316237869211694903",
+                    "size": "875335395",
+                    "download": "285898240"
                 }
             },
             "decryptionkey": ""
@@ -78,9 +78,9 @@
                     "download": "273201248"
                 },
                 "beta": {
-                    "gid": "8285986533333534754",
-                    "size": "846091047",
-                    "download": "273201248"
+                    "gid": "1142872284595181011",
+                    "size": "846096845",
+                    "download": "273202096"
                 }
             },
             "decryptionkey": ""
@@ -93,9 +93,9 @@
                     "download": "1499831344"
                 },
                 "beta": {
-                    "gid": "74438815836010051",
-                    "size": "4810653073",
-                    "download": "1499831344"
+                    "gid": "5202979732165561963",
+                    "size": "4810788353",
+                    "download": "1499882960"
                 }
             },
             "decryptionkey": ""
@@ -126,9 +126,9 @@
                     "download": "3454320"
                 },
                 "beta": {
-                    "gid": "2673411394703696594",
-                    "size": "14564648",
-                    "download": "3454320"
+                    "gid": "2424567008634881000",
+                    "size": "14606830",
+                    "download": "3461024"
                 }
             },
             "decryptionkey": ""
@@ -144,9 +144,9 @@
                     "download": "1883104"
                 },
                 "beta": {
-                    "gid": "5914371010993281028",
-                    "size": "6226944",
-                    "download": "1883104"
+                    "gid": "8961662463715065419",
+                    "size": "6242816",
+                    "download": "1888112"
                 }
             },
             "decryptionkey": ""
@@ -157,8 +157,8 @@
                 "timeupdated": "1729348409"
             },
             "beta": {
-                "buildid": "16107671",
-                "timeupdated": "1729347615"
+                "buildid": "17996340",
+                "timeupdated": "1743864575"
             }
         },
         "privatebranches": "1"
