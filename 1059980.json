@@ -4,8 +4,8 @@
     "name": "Just King",
     "schinese_name": "吾王保卫战 Just King",
     "isfreeapp": "0",
-    "change_number": "27969153",
-    "update_time": "2025-03-15 12:04:27",
+    "change_number": "28270202",
+    "update_time": "2025-04-02 22:30:51",
     "depot": {
         "baselanguages": "english",
         "1059981": {
@@ -14,9 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3791083574981778041",
-                    "size": "516596701",
-                    "download": "273905296"
+                    "gid": "987945837329517588",
+                    "size": "527053893",
+                    "download": "275621824"
+                },
+                "april_fools": {
+                    "gid": "8540273319229980820",
+                    "size": "527051797",
+                    "download": "275615120"
                 }
             },
             "decryptionkey": "34533a736ad588eadf3d54a4d396138ffd82c4c67a791cc8b5f6583289168abd"
@@ -24,8 +29,13 @@
         "workshopdepot": "1059980",
         "branches": {
             "public": {
-                "buildid": "17734572",
-                "timeupdated": "1742011459"
+                "buildid": "17947437",
+                "timeupdated": "1743604229"
+            },
+            "april_fools": {
+                "buildid": "17947811",
+                "description": "April Fools",
+                "timeupdated": "1743604184"
             }
         },
         "privatebranches": "1",
