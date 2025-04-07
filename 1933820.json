@@ -4,15 +4,15 @@
     "name": "SGS Korean War",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27786277",
-    "update_time": "2025-03-05 10:09:44",
+    "change_number": "28165193",
+    "update_time": "2025-03-27 15:51:08",
     "depot": {
         "1933821": {
             "manifests": {
                 "public": {
-                    "gid": "8695058080235733532",
-                    "size": "1091575491",
-                    "download": "894884384"
+                    "gid": "9107189202509837939",
+                    "size": "1091594292",
+                    "download": "894885264"
                 }
             },
             "decryptionkey": "3d918997ab933176bdf82ddaa5a95301f09add1988b12c55b9f5f6561af52ba5"
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17409735",
-                "timeupdated": "1739894624"
+                "buildid": "17879195",
+                "timeupdated": "1743061838"
             }
         },
         "privatebranches": "1"
