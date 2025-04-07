@@ -4,20 +4,20 @@
     "name": "初音ミク DLC",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27991554",
-    "update_time": "2025-03-17 18:38:33",
+    "change_number": "28223904",
+    "update_time": "2025-03-31 15:54:15",
     "depot": {
         "3359730": {
             "manifests": {
                 "public": {
-                    "gid": "2681813023634305286",
-                    "size": "8915348",
-                    "download": "9037296"
+                    "gid": "9216905361885018254",
+                    "size": "9528384",
+                    "download": "9659072"
                 },
                 "debug": {
-                    "gid": "7557542081556651372",
-                    "size": "9475135",
-                    "download": "9604848"
+                    "gid": "9216905361885018254",
+                    "size": "9528384",
+                    "download": "9659072"
                 },
                 "temp": {
                     "gid": "5802250238596820277",
@@ -30,13 +30,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17221901",
-                "timeupdated": "1738657080"
+                "buildid": "17807117",
+                "timeupdated": "1743407651"
             },
             "debug": {
-                "buildid": "17750252",
+                "buildid": "17807117",
                 "description": "debug",
-                "timeupdated": "1742207905"
+                "timeupdated": "1742552019"
             },
             "temp": {
                 "buildid": "16797213",
