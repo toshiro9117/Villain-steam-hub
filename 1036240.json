@@ -4,8 +4,8 @@
     "name": "Definitely Not Fried Chicken",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27895484",
-    "update_time": "2025-03-12 00:59:30",
+    "change_number": "28175721",
+    "update_time": "2025-03-28 01:34:04",
     "depot": {
         "1036241": {
             "config": {
@@ -13,27 +13,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4474052230458440945",
-                    "size": "1114625716",
-                    "download": "413166960"
+                    "gid": "7763754539285062585",
+                    "size": "1116027372",
+                    "download": "413627040"
                 },
                 "beta": {
-                    "gid": "4474052230458440945",
-                    "size": "1114625716",
-                    "download": "413166960"
+                    "gid": "7763754539285062585",
+                    "size": "1116027372",
+                    "download": "413627040"
                 }
             },
             "decryptionkey": "a2d7fd11ea51fcae3b1da992e7b95ccc29b8c7582dac6ddab38084e5eee9b0af"
         },
         "branches": {
             "public": {
-                "buildid": "15381372",
-                "timeupdated": "1724159018"
+                "buildid": "17886124",
+                "timeupdated": "1743096283"
             },
             "beta": {
-                "buildid": "15381372",
+                "buildid": "17886124",
                 "description": "Public Beta testing branch.",
-                "timeupdated": "1724159031"
+                "timeupdated": "1743096292"
             }
         },
         "privatebranches": "1"
