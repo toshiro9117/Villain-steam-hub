@@ -4,8 +4,8 @@
     "name": "命运游戏：逆时寻凶",
     "schinese_name": "命运游戏：逆时寻凶",
     "isfreeapp": "0",
-    "change_number": "28011001",
-    "update_time": "2025-03-18 18:15:41",
+    "change_number": "28283989",
+    "update_time": "2025-04-03 15:55:28",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6407481565343362712",
-                    "size": "46250725749",
-                    "download": "46616165120"
+                    "gid": "7204556418533299300",
+                    "size": "46250859121",
+                    "download": "46616197696"
                 }
             },
             "decryptionkey": "9806244e6731e75985e09bf1923f1be479cfecf397369c7541d0445150e9ea05"
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7450469649744722125",
-                    "size": "47639542646",
-                    "download": "47978309632"
+                    "gid": "3009089252640292661",
+                    "size": "47639724052",
+                    "download": "47978417440"
                 }
             },
             "decryptionkey": "c64b2b62154a9e7ac6f32b3bff9bedc1e32f8c6186e743a6125a389ffef50843"
         },
         "branches": {
             "public": {
-                "buildid": "17763795",
-                "timeupdated": "1742292935"
+                "buildid": "17864621",
+                "timeupdated": "1742980930"
             }
         }
     }
