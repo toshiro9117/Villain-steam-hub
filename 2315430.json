@@ -4,15 +4,15 @@
     "name": "The Executive - Movie Industry Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28002576",
-    "update_time": "2025-03-18 05:55:50",
+    "change_number": "28291334",
+    "update_time": "2025-04-03 22:58:20",
     "depot": {
         "2315431": {
             "manifests": {
                 "public": {
-                    "gid": "8908002899572053854",
-                    "size": "1273345471",
-                    "download": "293384544"
+                    "gid": "5225103690698903370",
+                    "size": "1273982816",
+                    "download": "293415344"
                 }
             },
             "decryptionkey": "3c10b450fd01b2a223c4efb4b565fafb56309518f23a7475025782f7137cee3c"
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1390878953645064238",
-                    "size": "1134960919",
-                    "download": "274457120"
+                    "gid": "6236900023817795363",
+                    "size": "1135598354",
+                    "download": "274489312"
                 }
             },
             "decryptionkey": ""
@@ -43,12 +43,14 @@
             },
             "decryptionkey": ""
         },
+        "workshopdepot": "2315430",
         "branches": {
             "public": {
-                "buildid": "17728343",
-                "timeupdated": "1741981556"
+                "buildid": "17812474",
+                "timeupdated": "1742578193"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
