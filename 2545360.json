@@ -4,8 +4,8 @@
     "name": "Lonely Mountains: Snow Riders",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013553",
-    "update_time": "2025-03-18 21:07:05",
+    "change_number": "28343974",
+    "update_time": "2025-04-07 18:46:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,polish,brazilian",
         "2545361": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3985982029105717675",
-                    "size": "1339251399",
-                    "download": "1002690464"
+                    "gid": "172911503784728572",
+                    "size": "1339251294",
+                    "download": "1002688752"
                 }
             },
             "decryptionkey": "097b0ce09326208a8d662ac6de3f39f1cc1f8bad9caaecd6ffb87937706620d8"
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17638568",
-                "timeupdated": "1741602301"
+                "buildid": "17792748",
+                "timeupdated": "1742485561"
             }
         },
         "privatebranches": "1"
