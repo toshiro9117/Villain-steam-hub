@@ -4,8 +4,8 @@
     "name": "Way of the Samurai 4",
     "schinese_name": "侍道4",
     "isfreeapp": "0",
-    "change_number": "27058816",
-    "update_time": "2025-01-19 04:53:45",
+    "change_number": "28301258",
+    "update_time": "2025-04-04 11:11:34",
     "depot": {
         "228990": {
             "config": {
@@ -35,6 +35,7 @@
             "public": {
                 "buildid": "805241"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
