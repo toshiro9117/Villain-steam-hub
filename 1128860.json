@@ -4,8 +4,8 @@
     "name": "Men of War II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27271794",
-    "update_time": "2025-02-02 05:11:35",
+    "change_number": "28132191",
+    "update_time": "2025-03-25 23:14:53",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "1128861": {
@@ -176,6 +176,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e384715e6bf11b2b5ddbf7fbfcd9404ed9309515f9935c17a00fe9b5432485e2"
+        "workshopdepotdecryptionkey": ""
     }
 }
