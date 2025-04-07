@@ -4,8 +4,8 @@
     "name": "Hero's Hour",
     "schinese_name": "英雄之时",
     "isfreeapp": "0",
-    "change_number": "27984491",
-    "update_time": "2025-03-17 05:50:21",
+    "change_number": "28309400",
+    "update_time": "2025-04-04 21:32:13",
     "depot": {
         "workshopdepot": "1656780",
         "1656781": {
@@ -14,24 +14,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2959035301796375706",
-                    "size": "435296074",
-                    "download": "347233696"
-                },
-                "beta_for_next_major_update": {
-                    "gid": "119683170807627265",
-                    "size": "387739718",
-                    "download": "298920368"
+                    "gid": "2879117547885801593",
+                    "size": "387745137",
+                    "download": "298902960"
                 },
                 "previous-update-v2.6.3": {
                     "gid": "3956804688650139151",
                     "size": "418596057",
                     "download": "335188064"
                 },
-                "public_beta": {
-                    "gid": "2126646195277109406",
+                "previous-update-v2.7.2": {
+                    "gid": "7653571135902811162",
                     "size": "435296074",
-                    "download": "347219744"
+                    "download": "347233360"
+                },
+                "public_beta": {
+                    "gid": "3897961909864772091",
+                    "size": "387827132",
+                    "download": "298920752"
                 }
             },
             "decryptionkey": "37cddf2853d31ece5c8318b58d1ff89c02ce22cb6b91c1fc0a5ef8d24ad05779"
@@ -44,12 +44,12 @@
                     "size": "1500076451",
                     "download": "1287498896"
                 },
-                "beta_for_next_major_update": {
+                "previous-update-v2.6.3": {
                     "gid": "3512273515017943855",
                     "size": "1500076451",
                     "download": "1287498896"
                 },
-                "previous-update-v2.6.3": {
+                "previous-update-v2.7.2": {
                     "gid": "3512273515017943855",
                     "size": "1500076451",
                     "download": "1287498896"
@@ -69,23 +69,23 @@
         },
         "branches": {
             "public": {
-                "buildid": "16732327",
-                "timeupdated": "1734078143"
-            },
-            "beta_for_next_major_update": {
-                "buildid": "17745217",
-                "description": "Beta for v2.8",
-                "timeupdated": "1742161817"
+                "buildid": "17810964",
+                "timeupdated": "1742570756"
             },
             "previous-update-v2.6.3": {
                 "buildid": "15507918",
                 "description": "This branch holds the previous update for use in case of compatibility issues",
                 "timeupdated": "1724776227"
             },
+            "previous-update-v2.7.2": {
+                "buildid": "17811201",
+                "description": "This branch holds the previous update for use in case of compatibility issues",
+                "timeupdated": "1742571628"
+            },
             "public_beta": {
-                "buildid": "16425181",
+                "buildid": "17985587",
                 "description": "Early bug fixes",
-                "timeupdated": "1731701997"
+                "timeupdated": "1743773529"
             }
         },
         "privatebranches": "1",
