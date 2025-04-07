@@ -4,8 +4,8 @@
     "name": "REMEDIUM: Sentinels",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26601468",
-    "update_time": "2024-12-12 07:15:27",
+    "change_number": "28169187",
+    "update_time": "2025-03-27 20:07:09",
     "depot": {
         "228988": {
             "config": {
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7414691049442640849",
-                    "size": "2121213704",
-                    "download": "656170336"
+                    "gid": "2409183856378008188",
+                    "size": "2569635952",
+                    "download": "885524176"
                 },
                 "1.20.03": {
                     "gid": "5360326222433263942",
@@ -85,8 +85,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12505845",
-                "timeupdated": "1698008591"
+                "buildid": "17881550",
+                "timeupdated": "1743075591"
             },
             "1.20.03": {
                 "buildid": "11948856",
