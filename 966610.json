@@ -4,15 +4,15 @@
     "name": "FPS Monitor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27938942",
-    "update_time": "2025-03-14 01:20:32",
+    "change_number": "28294022",
+    "update_time": "2025-04-04 01:31:51",
     "depot": {
         "966611": {
             "manifests": {
                 "public": {
-                    "gid": "3083363877039418375",
-                    "size": "19733733",
-                    "download": "14575776"
+                    "gid": "136261403847538457",
+                    "size": "20200051",
+                    "download": "14597648"
                 },
                 "build-5100": {
                     "gid": "2484030987805326523",
@@ -20,9 +20,9 @@
                     "download": "10615456"
                 },
                 "beta": {
-                    "gid": "3083363877039418375",
-                    "size": "19733733",
-                    "download": "14575776"
+                    "gid": "136261403847538457",
+                    "size": "20200051",
+                    "download": "14597648"
                 },
                 "oldsign": {
                     "gid": "4763954203324136267",
@@ -34,16 +34,16 @@
         },
         "branches": {
             "public": {
-                "buildid": "17710872",
-                "timeupdated": "1741886425"
+                "buildid": "17973714",
+                "timeupdated": "1743701505"
             },
             "build-5100": {
                 "buildid": "4268251",
                 "timeupdated": "1579960140"
             },
             "beta": {
-                "buildid": "17710872",
-                "timeupdated": "1741878825"
+                "buildid": "17973714",
+                "timeupdated": "1743701450"
             },
             "oldsign": {
                 "buildid": "12692372",
