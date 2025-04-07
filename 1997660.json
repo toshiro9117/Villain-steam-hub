@@ -4,8 +4,8 @@
     "name": "GreedFall II: The Dying World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27994911",
-    "update_time": "2025-03-17 21:58:07",
+    "change_number": "28342415",
+    "update_time": "2025-04-07 17:10:31",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
         "228988": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4844406903671200552",
-                    "size": "28476062188",
-                    "download": "26926941648"
+                    "gid": "7728076242098631068",
+                    "size": "33304563695",
+                    "download": "31301982176"
                 }
             },
             "decryptionkey": "e9c32558a9b3073d7a33535e53f219071acd9c48e1180848a5a41324fb1f2707"
         },
         "branches": {
             "public": {
-                "buildid": "15930204",
-                "timeupdated": "1728914625"
+                "buildid": "17811695",
+                "timeupdated": "1743067799"
             }
         },
         "privatebranches": "1"
