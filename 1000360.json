@@ -4,8 +4,8 @@
     "name": "Hellish Quart",
     "schinese_name": "地狱击剑",
     "isfreeapp": "0",
-    "change_number": "27754341",
-    "update_time": "2025-03-03 21:29:57",
+    "change_number": "28342210",
+    "update_time": "2025-04-07 16:57:04",
     "depot": {
         "1000361": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4214414956368329275",
-                    "size": "14908900548",
-                    "download": "7660676304"
+                    "gid": "3266310218810277505",
+                    "size": "15581713826",
+                    "download": "8078111536"
                 },
                 "oldversion": {
                     "gid": "5123359371692701402",
@@ -49,17 +49,17 @@
                     "download": "7027029872"
                 },
                 "test": {
-                    "gid": "5364196779921148786",
-                    "size": "14908959220",
-                    "download": "7660684784"
+                    "gid": "3266310218810277505",
+                    "size": "15581713826",
+                    "download": "8078111536"
                 }
             },
             "decryptionkey": "b5b97451061159abe6184f5c46e24d7d3a1898c26611b7dce09483c6b5843f79"
         },
         "branches": {
             "public": {
-                "buildid": "17574612",
-                "timeupdated": "1741008590"
+                "buildid": "18008661",
+                "timeupdated": "1744016219"
             },
             "oldversion": {
                 "buildid": "6425228",
@@ -92,9 +92,9 @@
                 "timeupdated": "1732986994"
             },
             "test": {
-                "buildid": "17573166",
+                "buildid": "18008661",
                 "description": "Beta",
-                "timeupdated": "1741000536"
+                "timeupdated": "1744014947"
             }
         },
         "privatebranches": "1"
