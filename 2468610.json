@@ -4,8 +4,8 @@
     "name": "The Night Shift",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27994986",
-    "update_time": "2025-03-17 22:02:41",
+    "change_number": "28172815",
+    "update_time": "2025-03-27 23:19:56",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4333665429680928509",
-                    "size": "3969197107",
-                    "download": "3662119392"
+                    "gid": "120411943274829160",
+                    "size": "4168456093",
+                    "download": "3857920928"
                 }
             },
             "decryptionkey": "d12d39c3e06e346270c9c9ffe7ca2ee439e19183d96ecf49ca32af53efb2899e"
@@ -44,8 +44,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17752386",
-                "timeupdated": "1742220155"
+                "buildid": "17882512",
+                "timeupdated": "1743078839"
             }
         },
         "privatebranches": "1"
