@@ -4,17 +4,17 @@
     "name": "Soldiers: Heroes of World War II",
     "schinese_name": "士兵：二战英雄",
     "isfreeapp": "0",
-    "change_number": "27989229",
-    "update_time": "2025-03-17 15:54:36",
+    "change_number": "28307272",
+    "update_time": "2025-04-04 19:21:42",
     "depot": {
         "overridescddb": "1",
         "11481": {
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "9054118055487200692",
-                    "size": "1571910156",
-                    "download": "1538233808"
+                    "gid": "2485896040438457672",
+                    "size": "1571912488",
+                    "download": "1538235744"
                 },
                 "old_version": {
                     "gid": "5421709221901619544",
@@ -58,7 +58,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0ec4b698e79e78b6d6ea6ea5a25101eb50f93ad50977affc1542ba0e1b9cbe9a"
         },
         "11484": {
             "config": {
@@ -131,13 +131,13 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d37554cd9a2e2407757d14044c6c1a5f50b029f5a4486ce5a8bb504595663839"
         },
         "workshopdepot": "11480",
         "branches": {
             "public": {
-                "buildid": "17442454",
-                "timeupdated": "1740147071"
+                "buildid": "17748618",
+                "timeupdated": "1742482647"
             },
             "old_version": {
                 "buildid": "315092",
