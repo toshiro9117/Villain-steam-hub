@@ -4,8 +4,8 @@
     "name": "Age of Wonders 4",
     "schinese_name": "奇迹时代4",
     "isfreeapp": "0",
-    "change_number": "28009486",
-    "update_time": "2025-03-18 16:49:00",
+    "change_number": "28305205",
+    "update_time": "2025-04-04 17:12:35",
     "depot": {
         "workshopdepot": "1669000",
         "228988": {
@@ -32,19 +32,14 @@
         "1669001": {
             "manifests": {
                 "public": {
-                    "gid": "2905216876039285653",
-                    "size": "21083206686",
-                    "download": "11799568208"
-                },
-                "ogre_beta": {
-                    "gid": "2528648931204626884",
-                    "size": "22660873799",
-                    "download": "12716243600"
+                    "gid": "684063244085583064",
+                    "size": "25673176396",
+                    "download": "14321493648"
                 },
                 "open_beta": {
-                    "gid": "2905216876039285653",
-                    "size": "21083206686",
-                    "download": "11799568208"
+                    "gid": "684063244085583064",
+                    "size": "25673176396",
+                    "download": "14321493648"
                 }
             },
             "decryptionkey": "c9f8c2fa2410e5cdca74811acc196b199d9831a62e6f4365e521fcadca9d12a5"
@@ -56,19 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1238965807205551613",
-                    "size": "361044230",
-                    "download": "116443840"
-                },
-                "ogre_beta": {
-                    "gid": "4350649312085592728",
-                    "size": "357835198",
-                    "download": "116402656"
+                    "gid": "455797235417324229",
+                    "size": "358076862",
+                    "download": "116469760"
                 },
                 "open_beta": {
-                    "gid": "1238965807205551613",
-                    "size": "361044230",
-                    "download": "116443840"
+                    "gid": "455797235417324229",
+                    "size": "358076862",
+                    "download": "116469760"
                 }
             },
             "decryptionkey": "c4f706f7261dee685e2d74998d61a7b4fb175bb47659cce89b560f89fe30ff61"
@@ -80,11 +70,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7902137162789066396",
-                    "size": "265079343",
-                    "download": "93406720"
-                },
-                "ogre_beta": {
                     "gid": "7902137162789066396",
                     "size": "265079343",
                     "download": "93406720"
@@ -105,11 +90,6 @@
                     "size": "163176",
                     "download": "164768"
                 },
-                "ogre_beta": {
-                    "gid": "2865807012584769022",
-                    "size": "163176",
-                    "download": "164768"
-                },
                 "open_beta": {
                     "gid": "2865807012584769022",
                     "size": "163176",
@@ -122,11 +102,6 @@
             "dlcappid": "2257990",
             "manifests": {
                 "public": {
-                    "gid": "3586028993103183297",
-                    "size": "161493",
-                    "download": "163056"
-                },
-                "ogre_beta": {
                     "gid": "3586028993103183297",
                     "size": "161493",
                     "download": "163056"
@@ -147,11 +122,6 @@
                     "size": "145854",
                     "download": "147392"
                 },
-                "ogre_beta": {
-                    "gid": "1952808027203437358",
-                    "size": "145854",
-                    "download": "147392"
-                },
                 "open_beta": {
                     "gid": "1952808027203437358",
                     "size": "145854",
@@ -164,11 +134,6 @@
             "dlcappid": "2367860",
             "manifests": {
                 "public": {
-                    "gid": "7815419419515787571",
-                    "size": "184113",
-                    "download": "186208"
-                },
-                "ogre_beta": {
                     "gid": "7815419419515787571",
                     "size": "184113",
                     "download": "186208"
@@ -189,11 +154,6 @@
                     "size": "177441",
                     "download": "179296"
                 },
-                "ogre_beta": {
-                    "gid": "3447008450579376002",
-                    "size": "177441",
-                    "download": "179296"
-                },
                 "open_beta": {
                     "gid": "3447008450579376002",
                     "size": "177441",
@@ -206,11 +166,6 @@
             "dlcappid": "2401850",
             "manifests": {
                 "public": {
-                    "gid": "4962773803312409013",
-                    "size": "174865",
-                    "download": "176720"
-                },
-                "ogre_beta": {
                     "gid": "4962773803312409013",
                     "size": "174865",
                     "download": "176720"
@@ -231,11 +186,6 @@
                     "size": "169789",
                     "download": "171696"
                 },
-                "ogre_beta": {
-                    "gid": "7513830674370079236",
-                    "size": "169789",
-                    "download": "171696"
-                },
                 "open_beta": {
                     "gid": "7513830674370079236",
                     "size": "169789",
@@ -248,11 +198,6 @@
             "dlcappid": "3119880",
             "manifests": {
                 "public": {
-                    "gid": "5200052240744467692",
-                    "size": "152039",
-                    "download": "153488"
-                },
-                "ogre_beta": {
                     "gid": "5200052240744467692",
                     "size": "152039",
                     "download": "153488"
@@ -273,11 +218,6 @@
                     "size": "171549",
                     "download": "173328"
                 },
-                "ogre_beta": {
-                    "gid": "8430218516059799238",
-                    "size": "171549",
-                    "download": "173328"
-                },
                 "open_beta": {
                     "gid": "8430218516059799238",
                     "size": "171549",
@@ -286,23 +226,34 @@
             },
             "decryptionkey": "efa7dbf9c27c1c8fe6553dab29b0e257ecb8c3a3235765ae79671ff744affd13"
         },
+        "3181500": {
+            "dlcappid": "3181500",
+            "manifests": {
+                "public": {
+                    "gid": "5177705880271432925",
+                    "size": "158543",
+                    "download": "159872"
+                },
+                "open_beta": {
+                    "gid": "5177705880271432925",
+                    "size": "158543",
+                    "download": "159872"
+                }
+            },
+            "decryptionkey": "f597777e5312438bf357be4399b5be50ebe4b75a469dd5afcb5093d146926979"
+        },
         "branches": {
             "public": {
-                "buildid": "16937090",
-                "timeupdated": "1736776691"
-            },
-            "ogre_beta": {
-                "buildid": "17754803",
-                "description": "Open Beta for the Ogre Update",
-                "timeupdated": "1742287734"
+                "buildid": "17951901",
+                "timeupdated": "1743685096"
             },
             "open_beta": {
-                "buildid": "16937090",
+                "buildid": "17951901",
                 "description": "Branch for pre-release Testing",
-                "timeupdated": "1736776967"
+                "timeupdated": "1743757950"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "af2a71eb151a9b1847e1be622c9084650267ff44d0f8a29cf9c516b8aaf92284"
     }
 }
