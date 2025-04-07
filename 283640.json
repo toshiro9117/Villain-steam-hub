@@ -4,8 +4,8 @@
     "name": "Salt and Sanctuary",
     "schinese_name": "盐与避难所",
     "isfreeapp": "0",
-    "change_number": "27338524",
-    "update_time": "2025-02-06 12:17:59",
+    "change_number": "28220120",
+    "update_time": "2025-03-31 09:15:03",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "283640",
@@ -223,6 +223,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "0c3c2c56a8df985c617281eae93106e8f5911cdfce75b27c5847702eadf42aea"
+        "workshopdepotdecryptionkey": ""
     }
 }
