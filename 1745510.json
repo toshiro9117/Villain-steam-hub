@@ -4,8 +4,8 @@
     "name": "Lunacid",
     "schinese_name": "月下之癫",
     "isfreeapp": "0",
-    "change_number": "27268514",
-    "update_time": "2025-02-01 21:11:34",
+    "change_number": "28168416",
+    "update_time": "2025-03-27 19:14:48",
     "depot": {
         "1745511": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "750101776"
                 },
                 "beta": {
-                    "gid": "7028806158525731106",
-                    "size": "1536743926",
-                    "download": "749787232"
+                    "gid": "7264668308304794181",
+                    "size": "1536198638",
+                    "download": "749597072"
                 }
             },
             "decryptionkey": "d07aafcd878b15a1b9e8c79d8197df4971a4392d31c00e32580055c4f5a9b012"
@@ -32,9 +32,9 @@
                 "timeupdated": "1736281070"
             },
             "beta": {
-                "buildid": "17051112",
+                "buildid": "17853577",
                 "description": "open-beta",
-                "timeupdated": "1737217676"
+                "timeupdated": "1742915492"
             }
         },
         "privatebranches": "1"
