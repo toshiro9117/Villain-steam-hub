@@ -4,8 +4,8 @@
     "name": "Ships At Sea",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28012321",
-    "update_time": "2025-03-18 19:45:49",
+    "change_number": "28275257",
+    "update_time": "2025-04-03 03:34:57",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1266542": {
             "manifests": {
                 "public": {
-                    "gid": "7060189100221924795",
-                    "size": "21757147421",
-                    "download": "21123899152"
+                    "gid": "9145541411531525161",
+                    "size": "21757175999",
+                    "download": "21123919664"
                 },
                 "v0.7.2": {
                     "gid": "8127388064333360896",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17729054",
-                "timeupdated": "1741975370"
+                "buildid": "17809737",
+                "timeupdated": "1742573158"
             },
             "v0.7.2": {
                 "buildid": "14922988",
