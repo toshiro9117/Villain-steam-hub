@@ -4,8 +4,8 @@
     "name": "Body Pay",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27946614",
-    "update_time": "2025-03-14 09:24:13",
+    "change_number": "28143787",
+    "update_time": "2025-03-26 14:16:46",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "2909171": {
@@ -14,18 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3872271888380869993",
-                    "size": "1501220053",
-                    "download": "235552640"
+                    "gid": "1828966272371463730",
+                    "size": "1516665237",
+                    "download": "236270224"
                 }
             },
             "decryptionkey": "7cbbaf548fcb7e13b3f988bc1ddf128dc062f4751b682542c931e7780643fe58"
         },
         "branches": {
             "public": {
-                "buildid": "17689906",
-                "timeupdated": "1741915447"
+                "buildid": "17804692",
+                "timeupdated": "1742539043"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
