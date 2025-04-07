@@ -4,8 +4,8 @@
     "name": "KARMA: The Dark World Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27993720",
-    "update_time": "2025-03-17 21:07:49",
+    "change_number": "28257225",
+    "update_time": "2025-04-02 06:49:00",
     "depot": {
         "228989": {
             "config": {
@@ -31,17 +31,18 @@
         "3035191": {
             "manifests": {
                 "public": {
-                    "gid": "6608641504020017108",
-                    "size": "13790633284",
-                    "download": "12900919552"
+                    "gid": "3749741410686743013",
+                    "size": "26907583076",
+                    "download": "25172152384"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16160939",
-                "timeupdated": "1729758720"
+                "buildid": "17836041",
+                "timeupdated": "1742900899"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
