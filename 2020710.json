@@ -4,8 +4,8 @@
     "name": "Havendock",
     "schinese_name": "海港物语 Havendock",
     "isfreeapp": "0",
-    "change_number": "27979396",
-    "update_time": "2025-03-16 16:43:38",
+    "change_number": "28225395",
+    "update_time": "2025-03-31 17:34:27",
     "depot": {
         "baselanguages": "english",
         "2020711": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5405086276641800667",
-                    "size": "1283665726",
-                    "download": "379478496"
+                    "gid": "4688232436733212863",
+                    "size": "1284379892",
+                    "download": "380257424"
                 },
                 "experimental": {
-                    "gid": "7256627580756166860",
-                    "size": "1283679380",
-                    "download": "379484656"
+                    "gid": "7737047564749533166",
+                    "size": "1285113152",
+                    "download": "380197440"
                 }
             },
             "decryptionkey": "93bce109acdd17cf295a57e249841decc07e5a373ae984d23781b2ef3ef3505f"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6070579431775911810",
-                    "size": "1301900333",
-                    "download": "383689888"
+                    "gid": "813677342460628948",
+                    "size": "1308505922",
+                    "download": "387535936"
                 },
                 "experimental": {
-                    "gid": "5722146945574320671",
-                    "size": "1304735136",
-                    "download": "386492256"
+                    "gid": "8504895774825289473",
+                    "size": "1308505862",
+                    "download": "387534864"
                 }
             },
             "decryptionkey": "4d148624a81eee8d397c9103e183f5839e303ef4ec7856fb46407791c65e7432"
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5169258133528007982",
-                    "size": "1408817614",
-                    "download": "440675504"
+                    "gid": "3121624777019100158",
+                    "size": "1410378290",
+                    "download": "441464384"
                 },
                 "experimental": {
-                    "gid": "4097195843003019706",
-                    "size": "1405193895",
-                    "download": "439913392"
+                    "gid": "6221042788436203019",
+                    "size": "1410374246",
+                    "download": "441463888"
                 }
             },
             "decryptionkey": "6c349d7950be7d4323683c009f1c319577e117e6fe076b927dd7d1c955f1ab16"
         },
         "branches": {
             "public": {
-                "buildid": "17721631",
-                "timeupdated": "1741939282"
+                "buildid": "17915895",
+                "timeupdated": "1743344264"
             },
             "experimental": {
-                "buildid": "17712203",
+                "buildid": "17915805",
                 "description": "Windows experimental builds",
-                "timeupdated": "1741884652"
+                "timeupdated": "1743343281"
             }
         },
         "privatebranches": "1"
