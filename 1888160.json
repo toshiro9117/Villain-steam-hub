@@ -4,8 +4,8 @@
     "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
     "schinese_name": "机战佣兵™VI 境界天火™",
     "isfreeapp": "0",
-    "change_number": "27511307",
-    "update_time": "2025-02-17 15:47:53",
+    "change_number": "28066898",
+    "update_time": "2025-03-21 16:01:45",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1888161": {
             "manifests": {
                 "public": {
-                    "gid": "3339994579733749042",
-                    "size": "64871242724",
-                    "download": "51758357312"
+                    "gid": "7943054933176037434",
+                    "size": "64859465070",
+                    "download": "51750332672"
                 }
             },
             "decryptionkey": "2cbbae38e8fbb1cffbba8ca059d96e8b2ee29f77fdce9a9f47e666d333366341"
@@ -34,9 +34,9 @@
         "1888162": {
             "manifests": {
                 "public": {
-                    "gid": "3788712443412176765",
-                    "size": "804301830",
-                    "download": "269657888"
+                    "gid": "6990028244031835311",
+                    "size": "891685222",
+                    "download": "345925712"
                 }
             },
             "decryptionkey": ""
@@ -44,9 +44,9 @@
         "1888163": {
             "manifests": {
                 "public": {
-                    "gid": "774384944539893028",
-                    "size": "111444504",
-                    "download": "46833776"
+                    "gid": "4086806342453674707",
+                    "size": "111414296",
+                    "download": "46799584"
                 }
             },
             "decryptionkey": "62410873212f70aa077827699bc4f786c4eefdd31e94201dfc9de87a63d491b8"
@@ -54,9 +54,9 @@
         "1888164": {
             "manifests": {
                 "public": {
-                    "gid": "2147981816808642113",
-                    "size": "111444504",
-                    "download": "46833776"
+                    "gid": "4332146420922602944",
+                    "size": "111414296",
+                    "download": "46799584"
                 }
             },
             "decryptionkey": "347a0ccf0383122fcfc3fc32a9e06d397e3b39da49a87e3404dae449bac0b8bf"
@@ -75,8 +75,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "16161094",
-                "timeupdated": "1730192430"
+                "buildid": "17493473",
+                "timeupdated": "1742544100"
             }
         },
         "privatebranches": "1"
