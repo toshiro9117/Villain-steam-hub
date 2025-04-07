@@ -4,8 +4,8 @@
     "name": "Marvel Rivals Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27947480",
-    "update_time": "2025-03-14 10:29:39",
+    "change_number": "28289003",
+    "update_time": "2025-04-03 21:02:35",
     "depot": {
         "228989": {
             "config": {
@@ -34,9 +34,9 @@
         "2936122": {
             "manifests": {
                 "public": {
-                    "gid": "8861590467249577745",
-                    "size": "59738647999",
-                    "download": "47839928688"
+                    "gid": "440944987779545351",
+                    "size": "65006703092",
+                    "download": "52694273984"
                 }
             },
             "decryptionkey": ""
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16866402",
-                "timeupdated": "1735398910"
+                "buildid": "17970306",
+                "timeupdated": "1743685351"
             }
         },
         "privatebranches": "1"
