@@ -4,8 +4,8 @@
     "name": "SpiderHeck",
     "schinese_name": "蜘蛛侠客 (SpiderHeck)",
     "isfreeapp": "0",
-    "change_number": "26907547",
-    "update_time": "2025-01-08 20:17:05",
+    "change_number": "28053153",
+    "update_time": "2025-03-20 22:53:47",
     "depot": {
         "228989": {
             "config": {
@@ -45,6 +45,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "72662b6e778d4f1da470370c1fb0d09a7ab4ce973cc03bb96e3f5a12b6ae4a1d"
+        "workshopdepotdecryptionkey": ""
     }
 }
