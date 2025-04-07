@@ -4,8 +4,8 @@
     "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
     "schinese_name": "人中之龙7外传 无名之龙",
     "isfreeapp": "0",
-    "change_number": "27304144",
-    "update_time": "2025-02-04 17:37:44",
+    "change_number": "28115401",
+    "update_time": "2025-03-25 03:00:25",
     "depot": {
         "228989": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4690972963020273116",
-                    "size": "93721525181",
-                    "download": "70533256352"
+                    "gid": "357163534041889933",
+                    "size": "93695762973",
+                    "download": "70517459824"
                 }
             },
             "decryptionkey": "98c80a1e378de4c0c534551cba0c53e74326cd8ff2f9360ad6fa4f5588a4729e"
@@ -31,8 +31,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "13843181",
-                "timeupdated": "1711677611"
+                "buildid": "17235513",
+                "timeupdated": "1742842817"
             }
         },
         "privatebranches": "1"
