@@ -4,8 +4,8 @@
     "name": "恐龙岛 3.0",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26768490",
-    "update_time": "2024-12-24 09:39:18",
+    "change_number": "28221399",
+    "update_time": "2025-03-31 11:19:47",
     "depot": {
         "2894941": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "12069174512"
                 },
                 "broadcast": {
-                    "gid": "6183122586942130412",
-                    "size": "14400978630",
-                    "download": "12066228048"
+                    "gid": "2970625336030962895",
+                    "size": "14405853347",
+                    "download": "12069516528"
                 }
             },
             "decryptionkey": "e4107699c22962672c79a95a8c09f87fe53609c7d331d2111705c579f6549d67"
@@ -28,9 +28,9 @@
                 "timeupdated": "1735004353"
             },
             "broadcast": {
-                "buildid": "16230556",
+                "buildid": "17919928",
                 "description": "BD版",
-                "timeupdated": "1730256044"
+                "timeupdated": "1743391183"
             }
         },
         "privatebranches": "1"
