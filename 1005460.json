@@ -4,8 +4,8 @@
     "name": "NationWar2",
     "schinese_name": "国战2:列国志传 | 春秋霸业",
     "isfreeapp": "0",
-    "change_number": "27989928",
-    "update_time": "2025-03-17 16:50:25",
+    "change_number": "28321487",
+    "update_time": "2025-04-05 15:25:02",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "1005461": {
             "manifests": {
                 "public": {
-                    "gid": "4140179983893486387",
-                    "size": "3454852722",
-                    "download": "2711709808"
+                    "gid": "4637599080201562741",
+                    "size": "3454852714",
+                    "download": "2711709440"
                 },
                 "0.17.0": {
                     "gid": "8333257423072779224",
@@ -61,8 +61,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "17749064",
-                "timeupdated": "1742201413"
+                "buildid": "17994256",
+                "timeupdated": "1743837898"
             },
             "0.17.0": {
                 "buildid": "15479127",
