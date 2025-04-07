@@ -4,8 +4,8 @@
     "name": "Starship Troopers: Extermination",
     "schinese_name": "星河战队：灭绝",
     "isfreeapp": "0",
-    "change_number": "28005188",
-    "update_time": "2025-03-18 09:51:22",
+    "change_number": "28324023",
+    "update_time": "2025-04-05 22:07:38",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1268751": {
             "manifests": {
                 "public": {
-                    "gid": "1267598986719660391",
-                    "size": "9585670009",
-                    "download": "9046080512"
+                    "gid": "7347286582521853172",
+                    "size": "9421955816",
+                    "download": "8852221856"
                 }
             },
             "decryptionkey": "4c9adfd6fcc55cac391befdc3c63c0bd233339efd4b1d755bbf24f3170ed86e8"
         },
         "branches": {
             "public": {
-                "buildid": "17345345",
-                "timeupdated": "1739988099"
+                "buildid": "17872009",
+                "timeupdated": "1743180480"
             }
         },
         "privatebranches": "1"
