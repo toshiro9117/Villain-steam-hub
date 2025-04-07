@@ -4,8 +4,8 @@
     "name": "Cozy Solitaire",
     "schinese_name": "悠享纸牌",
     "isfreeapp": "0",
-    "change_number": "28003250",
-    "update_time": "2025-03-18 06:56:14",
+    "change_number": "28088349",
+    "update_time": "2025-03-22 23:44:03",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "89933366673085296",
-                    "size": "54644345",
-                    "download": "43786752"
+                    "gid": "7714044354461845173",
+                    "size": "55987411",
+                    "download": "44379936"
                 }
             },
             "decryptionkey": "80554c66b4b33ada3fea50de7fccf1d1006aa3f2d99ba9a7c98a9ad380aacbcb"
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8335831754282098633",
-                    "size": "312073444",
-                    "download": "132954032"
+                    "gid": "7961507443134558501",
+                    "size": "318043443",
+                    "download": "135033712"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17121664",
-                "timeupdated": "1737736418"
+                "buildid": "17821181",
+                "timeupdated": "1742658238"
             }
         },
         "privatebranches": "1"
