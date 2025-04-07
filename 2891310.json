@@ -4,8 +4,8 @@
     "name": "Genome Guardian",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27999734",
-    "update_time": "2025-03-18 02:16:37",
+    "change_number": "28275990",
+    "update_time": "2025-04-03 04:27:27",
     "depot": {
         "2891311": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2852784264310388053",
-                    "size": "618854550",
-                    "download": "535027424"
+                    "gid": "185589946812918612",
+                    "size": "618791705",
+                    "download": "534944736"
                 }
             },
             "decryptionkey": "34a5853f3137451b58cbf5c4c335dcf39541f070cbfe7d5d24d51466f2bfd86f"
         },
         "branches": {
             "public": {
-                "buildid": "17755407",
-                "timeupdated": "1742235392"
+                "buildid": "17798684",
+                "timeupdated": "1743506061"
             }
         },
         "privatebranches": "1"
