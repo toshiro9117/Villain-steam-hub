@@ -4,23 +4,23 @@
     "name": "Nine-Ball Roulette",
     "schinese_name": "九球轮盘赌",
     "isfreeapp": "0",
-    "change_number": "27985255",
-    "update_time": "2025-03-17 07:48:19",
+    "change_number": "28333718",
+    "update_time": "2025-04-07 00:18:12",
     "depot": {
         "3376251": {
             "manifests": {
                 "public": {
-                    "gid": "7371089208736218254",
-                    "size": "1064254168",
-                    "download": "582792864"
+                    "gid": "7389291101722169993",
+                    "size": "1068440872",
+                    "download": "583737456"
                 }
             },
             "decryptionkey": "b8e4a7ce69ae5aef69562f43522ae837dd6bb3b36efb3a3d923d874afa21397d"
         },
         "branches": {
             "public": {
-                "buildid": "17745753",
-                "timeupdated": "1742168895"
+                "buildid": "17991956",
+                "timeupdated": "1743810714"
             }
         }
     }
