@@ -4,8 +4,8 @@
     "name": "Sun Haven",
     "schinese_name": "太阳避难所",
     "isfreeapp": "0",
-    "change_number": "27975113",
-    "update_time": "2025-03-16 03:21:36",
+    "change_number": "28328344",
+    "update_time": "2025-04-06 09:11:26",
     "depot": {
         "hasdepotsindlc": "0",
         "1432861": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5775779456146140427",
-                    "size": "9053075331",
-                    "download": "939686112"
+                    "gid": "3469225655894756949",
+                    "size": "9144209171",
+                    "download": "1016224976"
                 },
                 "patch1.3stable": {
                     "gid": "139086255618073369",
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4883608081336629665",
-                    "size": "9041235323",
-                    "download": "934732640"
+                    "gid": "7684235660335612359",
+                    "size": "1499122133",
+                    "download": "1036110544"
                 },
                 "patch1.3stable": {
                     "gid": "113387688628337721",
@@ -94,8 +94,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17735039",
-                "timeupdated": "1742019168"
+                "buildid": "17859470",
+                "timeupdated": "1742947294"
             },
             "patch1.3stable": {
                 "buildid": "12594992",
