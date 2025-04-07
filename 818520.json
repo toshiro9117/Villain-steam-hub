@@ -4,8 +4,8 @@
     "name": "Builders Of Egypt",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27855903",
-    "update_time": "2025-03-09 11:08:14",
+    "change_number": "28211764",
+    "update_time": "2025-03-30 11:15:56",
     "depot": {
         "228988": {
             "config": {
@@ -53,9 +53,9 @@
                     "download": "15239918096"
                 },
                 "patch_test": {
-                    "gid": "6507086336905146924",
-                    "size": "15951468287",
-                    "download": "15239918096"
+                    "gid": "1724704613452294519",
+                    "size": "15908426329",
+                    "download": "15198746848"
                 },
                 "previous_version": {
                     "gid": "7340372777229545706",
@@ -72,9 +72,9 @@
                 "timeupdated": "1740765031"
             },
             "patch_test": {
-                "buildid": "17549922",
+                "buildid": "17868041",
                 "description": "The latest patch is being tested here. Warning, there may be bugs!",
-                "timeupdated": "1740760834"
+                "timeupdated": "1743008034"
             },
             "previous_version": {
                 "buildid": "17457264",
