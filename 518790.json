@@ -4,8 +4,8 @@
     "name": "theHunter: Call of the Wild™",
     "schinese_name": "《猎人：荒野的召唤™》",
     "isfreeapp": "0",
-    "change_number": "28013629",
-    "update_time": "2025-03-18 21:12:02",
+    "change_number": "28341946",
+    "update_time": "2025-04-07 16:40:05",
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3466981071601414888",
-                    "size": "101055062327",
-                    "download": "50247606000"
+                    "gid": "4295767479001478234",
+                    "size": "100592523231",
+                    "download": "50099965760"
                 }
             },
             "decryptionkey": "c56059a25b086342342b536c815b9903ee3faa35b8358fe7556346fe60a9081e"
@@ -51,17 +51,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7479773104771938090",
-                    "size": "2273722376",
-                    "download": "441873296"
+                    "gid": "4661567639330929105",
+                    "size": "2755103538",
+                    "download": "548567040"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16762551",
-                "timeupdated": "1734515937"
+                "buildid": "17534747",
+                "timeupdated": "1742896788"
             }
         },
         "privatebranches": "1"
