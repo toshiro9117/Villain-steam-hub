@@ -4,8 +4,8 @@
     "name": "Sengoku Dynasty",
     "schinese_name": "战国王朝 - Sengoku Dynasty",
     "isfreeapp": "0",
-    "change_number": "28013420",
-    "update_time": "2025-03-18 20:58:52",
+    "change_number": "28346593",
+    "update_time": "2025-04-07 21:38:22",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7203277066738208765",
-                    "size": "19690446755",
-                    "download": "10719857216"
+                    "gid": "6488844432286674268",
+                    "size": "19975371550",
+                    "download": "10965230224"
                 }
             },
             "decryptionkey": "f2e8eeb7cc1689a1ea8d6629b4508f6e7fecbce67e6f357edf333595eb339b5c"
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "258417966671524953",
-                    "size": "224457229",
-                    "download": "209769680"
+                    "gid": "6526575232393551523",
+                    "size": "117677446",
+                    "download": "112224784"
                 }
             },
             "decryptionkey": "18ec3a5505eba0fcd5921c7b689e7e8c9e1a0ff493714a27b24b3a7956a4e5bc"
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17409442",
-                "timeupdated": "1739893161"
+                "buildid": "17884921",
+                "timeupdated": "1743089498"
             }
         },
         "privatebranches": "1"
