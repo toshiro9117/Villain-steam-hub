@@ -4,13 +4,13 @@
     "name": "JR EAST Train Simulator: Tokaido Freight Line (Nebukawa to Shinagawa,Tokyo） E257-2000,5500 Series",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008339",
-    "update_time": "2025-03-18 15:21:24",
+    "change_number": "28125301",
+    "update_time": "2025-03-25 16:30:09",
     "depot": {
         "3390941": {
             "manifests": {
                 "public": {
-                    "gid": "1169945483405098499",
+                    "gid": "6915651803402844757",
                     "size": "391592832",
                     "download": "215079808"
                 }
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17452580",
-                "timeupdated": "1740646496"
+                "buildid": "17761876",
+                "timeupdated": "1742891403"
             }
         },
         "privatebranches": "1"
