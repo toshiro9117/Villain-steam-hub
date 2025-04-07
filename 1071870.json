@@ -4,8 +4,8 @@
     "name": "Biped",
     "schinese_name": "只只大冒险",
     "isfreeapp": "0",
-    "change_number": "27530382",
-    "update_time": "2025-02-18 16:37:24",
+    "change_number": "28344197",
+    "update_time": "2025-04-07 19:02:21",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6509945418138815626",
-                    "size": "4559387132",
-                    "download": "1580071872"
+                    "gid": "7542808206490832843",
+                    "size": "4554910897",
+                    "download": "1583991712"
                 },
                 "betterping": {
                     "gid": "1704305488791824478",
@@ -66,8 +66,8 @@
         "workshopdepot": "1071870",
         "branches": {
             "public": {
-                "buildid": "16581518",
-                "timeupdated": "1732898300"
+                "buildid": "18008604",
+                "timeupdated": "1744023732"
             },
             "betterping": {
                 "buildid": "4909209",
