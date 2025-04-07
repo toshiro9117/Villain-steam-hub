@@ -4,8 +4,8 @@
     "name": "NARAKA: BLADEPOINT - Test Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27885144",
-    "update_time": "2025-03-11 14:20:12",
+    "change_number": "28147301",
+    "update_time": "2025-03-26 18:20:31",
     "depot": {
         "228988": {
             "config": {
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2186561598666119177",
-                    "size": "56671526862",
-                    "download": "46781564816"
+                    "gid": "7159576691501376310",
+                    "size": "57401359875",
+                    "download": "47345863344"
                 }
             },
             "decryptionkey": ""
@@ -47,9 +47,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3753115725675076563",
-                    "size": "56671526862",
-                    "download": "46779439488"
+                    "gid": "2285448111241075703",
+                    "size": "57401359875",
+                    "download": "47343738000"
                 }
             },
             "decryptionkey": "fa0ee1e4e4066c5cfe77245a593169087339d8cf516dececec2731caddf129d7"
@@ -57,8 +57,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "17634507",
-                "timeupdated": "1741347654"
+                "buildid": "17865264",
+                "timeupdated": "1742984427"
             }
         }
     }
