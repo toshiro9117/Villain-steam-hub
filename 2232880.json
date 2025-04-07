@@ -4,25 +4,25 @@
     "name": "灵兽江湖",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010866",
-    "update_time": "2025-03-18 18:07:25",
+    "change_number": "28338690",
+    "update_time": "2025-04-07 11:10:16",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "schinese",
         "2232882": {
             "manifests": {
                 "public": {
-                    "gid": "8237623917782231321",
-                    "size": "2612182029",
-                    "download": "1635628048"
+                    "gid": "1946621557840847046",
+                    "size": "2707527314",
+                    "download": "1720496048"
                 }
             },
             "decryptionkey": "71d9f856e62caa4bf86b498cab27355028f4af93ca0b6abfaea4a2c7296c8d0d"
         },
         "branches": {
             "public": {
-                "buildid": "17763633",
-                "timeupdated": "1742292431"
+                "buildid": "18006276",
+                "timeupdated": "1743995409"
             }
         },
         "privatebranches": "1"
