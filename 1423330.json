@@ -4,8 +4,8 @@
     "name": "Ancient Warfare: The Han Dynasty",
     "schinese_name": "横戈",
     "isfreeapp": "0",
-    "change_number": "27912222",
-    "update_time": "2025-03-12 21:51:52",
+    "change_number": "28209327",
+    "update_time": "2025-03-30 04:16:27",
     "depot": {
         "1423331": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2801590822325430658",
-                    "size": "22473474058",
-                    "download": "10327322720"
+                    "gid": "4007564757404397126",
+                    "size": "22654267012",
+                    "download": "10289597392"
                 },
                 "legacy_version": {
                     "gid": "3129377948637109937",
@@ -23,9 +23,9 @@
                     "download": "9417960080"
                 },
                 "preview_version": {
-                    "gid": "4007564757404397126",
-                    "size": "22654267012",
-                    "download": "10289597392"
+                    "gid": "5494332463713242426",
+                    "size": "22665660004",
+                    "download": "10307521888"
                 },
                 "test_version": {
                     "gid": "3129377948637109937",
@@ -39,8 +39,8 @@
         "workshopdepot": "1423330",
         "branches": {
             "public": {
-                "buildid": "17414807",
-                "timeupdated": "1740195572"
+                "buildid": "17689734",
+                "timeupdated": "1742518757"
             },
             "legacy_version": {
                 "sc_schinese": "西域版",
@@ -49,9 +49,9 @@
                 "timeupdated": "1722090201"
             },
             "preview_version": {
-                "buildid": "17689734",
+                "buildid": "17876168",
                 "description": "先锋版",
-                "timeupdated": "1741787506"
+                "timeupdated": "1743123505"
             },
             "test_version": {
                 "buildid": "14807105",
