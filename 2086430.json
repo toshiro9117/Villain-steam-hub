@@ -4,8 +4,8 @@
     "name": "NIMRODS",
     "schinese_name": "NIMRODS: 枪匠幸存者",
     "isfreeapp": "0",
-    "change_number": "28005394",
-    "update_time": "2025-03-18 10:09:19",
+    "change_number": "28327064",
+    "update_time": "2025-04-06 05:23:04",
     "depot": {
         "2086432": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7664126511242703418",
-                    "size": "841369914",
-                    "download": "184760640"
+                    "gid": "6755658796398302155",
+                    "size": "911415601",
+                    "download": "215579856"
                 }
             },
             "decryptionkey": "027b957a020894379976c203d53558eacd1459e14c73fd73986c6e45e423fd19"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6903273690915922511",
-                    "size": "1028588872",
-                    "download": "215554672"
+                    "gid": "6537557791037059745",
+                    "size": "1134632019",
+                    "download": "251438560"
                 }
             },
             "decryptionkey": ""
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17445167",
-                "timeupdated": "1740089185"
+                "buildid": "17994788",
+                "timeupdated": "1743888180"
             }
         },
         "privatebranches": "1"
