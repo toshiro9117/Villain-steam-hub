@@ -4,8 +4,8 @@
     "name": "G String",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28001963",
-    "update_time": "2025-03-18 05:00:37",
+    "change_number": "28062443",
+    "update_time": "2025-03-21 09:19:49",
     "depot": {
         "228985": {
             "config": {
@@ -31,9 +31,9 @@
         "1224601": {
             "manifests": {
                 "public": {
-                    "gid": "4516661319154152292",
-                    "size": "12167187726",
-                    "download": "5961546832"
+                    "gid": "829732955927396245",
+                    "size": "12167190195",
+                    "download": "5961547744"
                 },
                 "previous": {
                     "gid": "140413733362970425",
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17716268",
-                "timeupdated": "1741906248"
+                "buildid": "17802251",
+                "timeupdated": "1742519983"
             },
             "previous": {
                 "buildid": "5714414",
