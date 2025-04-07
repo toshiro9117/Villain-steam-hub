@@ -4,8 +4,8 @@
     "name": "Conan Exiles - Public Beta Client",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27771027",
-    "update_time": "2025-03-04 17:33:40",
+    "change_number": "28046332",
+    "update_time": "2025-03-20 15:22:11",
     "depot": {
         "228986": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3839266541206736292",
-                    "size": "92009024482",
-                    "download": "57734942416"
+                    "gid": "2258901516701765070",
+                    "size": "113223088205",
+                    "download": "70140675408"
                 }
             },
             "decryptionkey": "148be429147b66017ae568eff3a28fe80d384e6ea1a6e48d2ec0cc6711e6ffd2"
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3621342737228301766",
-                    "size": "123511706",
-                    "download": "41061920"
+                    "gid": "6418604546377544946",
+                    "size": "122110985",
+                    "download": "40606096"
                 }
             },
             "decryptionkey": "80f7f1f6004dc0278bdeb3d0cc5cd1a191127c0668f5e02325e1769fe4f29c40"
@@ -64,8 +64,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17586187",
-                "timeupdated": "1741079140"
+                "buildid": "17790820",
+                "timeupdated": "1742455326"
             }
         },
         "privatebranches": "1",
