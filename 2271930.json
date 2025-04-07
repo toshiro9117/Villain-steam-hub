@@ -4,8 +4,8 @@
     "name": "IfSunSets",
     "schinese_name": "落日余晖",
     "isfreeapp": "0",
-    "change_number": "28012010",
-    "update_time": "2025-03-18 19:26:09",
+    "change_number": "28342433",
+    "update_time": "2025-04-07 17:13:28",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2444666286112036797",
-                    "size": "19414293399",
-                    "download": "18682301856"
+                    "gid": "6194231198256971773",
+                    "size": "19400281988",
+                    "download": "18658968480"
                 }
             },
             "decryptionkey": "a9c8ce48855c73a5fa7beb2422ba11ac8bd612529feb8e8bd8a06cb0004652f2"
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,koreana,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17763229",
-                "timeupdated": "1742296928"
+                "buildid": "17965354",
+                "timeupdated": "1743671586"
             }
         },
         "privatebranches": "1"
