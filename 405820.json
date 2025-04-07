@@ -4,8 +4,8 @@
     "name": "Turok",
     "schinese_name": "恐龙猎人",
     "isfreeapp": "0",
-    "change_number": "28011298",
-    "update_time": "2025-03-18 18:36:53",
+    "change_number": "28343699",
+    "update_time": "2025-04-07 18:27:02",
     "depot": {
         "workshopdepot": "405820",
         "228989": {
@@ -41,9 +41,9 @@
                     "download": "348316208"
                 },
                 "beta": {
-                    "gid": "3906953481484246331",
-                    "size": "394928033",
-                    "download": "348347984"
+                    "gid": "5216852851384912422",
+                    "size": "394961447",
+                    "download": "348288048"
                 },
                 "kex3": {
                     "gid": "1213146553431068036",
@@ -105,9 +105,9 @@
                 "timeupdated": "1740775891"
             },
             "beta": {
-                "buildid": "17729617",
+                "buildid": "17937894",
                 "description": "Public Beta",
-                "timeupdated": "1741979540"
+                "timeupdated": "1743526252"
             },
             "kex3": {
                 "buildid": "17730046",
