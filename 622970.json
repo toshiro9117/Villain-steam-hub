@@ -4,8 +4,8 @@
     "name": "Pavlov VR Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27945001",
-    "update_time": "2025-03-14 07:22:03",
+    "change_number": "28342302",
+    "update_time": "2025-04-07 17:03:03",
     "depot": {
         "1004": {
             "config": {
@@ -60,25 +60,15 @@
                     "size": "8708181025",
                     "download": "1829282528"
                 },
-                "beta_server": {
-                    "gid": "2574992561859345758",
-                    "size": "1944942831",
-                    "download": "399402416"
-                },
                 "legacy": {
                     "gid": "6227886927471103421",
                     "size": "3116916540",
                     "download": "769319520"
                 },
                 "shack": {
-                    "gid": "641529823629300712",
-                    "size": "3401582166",
-                    "download": "907737504"
-                },
-                "shack_beta": {
-                    "gid": "510778677660452160",
-                    "size": "1852138741",
-                    "download": "384684432"
+                    "gid": "955141064887647172",
+                    "size": "3394838133",
+                    "download": "907109648"
                 }
             },
             "decryptionkey": ""
@@ -89,23 +79,14 @@
                 "buildid": "17506499",
                 "timeupdated": "1740526630"
             },
-            "beta_server": {
-                "buildid": "11886699",
-                "timeupdated": "1691521177"
-            },
             "legacy": {
                 "buildid": "8076883",
                 "description": "Update 28 with Workshop",
                 "timeupdated": "1686261512"
             },
             "shack": {
-                "buildid": "17506900",
-                "timeupdated": "1740526855"
-            },
-            "shack_beta": {
-                "buildid": "12137074",
-                "description": "beta",
-                "timeupdated": "1694544278"
+                "buildid": "17977495",
+                "timeupdated": "1743729479"
             }
         },
         "privatebranches": "1",
