@@ -4,8 +4,8 @@
     "name": "Tales And Tactics",
     "schinese_name": "传说与战术自走棋",
     "isfreeapp": "0",
-    "change_number": "27946516",
-    "update_time": "2025-03-14 09:17:26",
+    "change_number": "28336474",
+    "update_time": "2025-04-07 06:36:11",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,schinese",
@@ -41,9 +41,9 @@
                     "download": "2440391232"
                 },
                 "experimental": {
-                    "gid": "8291787886720619329",
-                    "size": "3853749089",
-                    "download": "3208211312"
+                    "gid": "2726086552814761698",
+                    "size": "3964323525",
+                    "download": "3230786240"
                 }
             },
             "decryptionkey": "b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36"
@@ -65,9 +65,9 @@
                 "timeupdated": "1698421659"
             },
             "experimental": {
-                "buildid": "15936721",
+                "buildid": "17949546",
                 "description": "Pre-Release Stability Testing",
-                "timeupdated": "1728091902"
+                "timeupdated": "1743571716"
             }
         },
         "privatebranches": "1"
