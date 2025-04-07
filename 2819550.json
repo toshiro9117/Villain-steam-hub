@@ -4,8 +4,8 @@
     "name": "Temtem: Swarm Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006989",
-    "update_time": "2025-03-18 13:02:25",
+    "change_number": "28301712",
+    "update_time": "2025-04-04 12:02:26",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "2510961": {
             "manifests": {
                 "public": {
-                    "gid": "4004512929102689179",
-                    "size": "8349379288",
-                    "download": "2032118464"
+                    "gid": "7510205226887018098",
+                    "size": "7996833924",
+                    "download": "2018240096"
                 }
             },
             "depotfromapp": "2510960"
