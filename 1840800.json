@@ -4,8 +4,8 @@
     "name": "Headquarters: World War II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992885",
-    "update_time": "2025-03-17 20:06:07",
+    "change_number": "28307407",
+    "update_time": "2025-04-04 19:32:01",
     "depot": {
         "228989": {
             "config": {
@@ -31,19 +31,14 @@
         "1840801": {
             "manifests": {
                 "public": {
-                    "gid": "8179429498996854105",
-                    "size": "26072921848",
-                    "download": "12077713712"
-                },
-                "beta": {
-                    "gid": "3286329030045212897",
-                    "size": "28099307228",
-                    "download": "13290791488"
+                    "gid": "4753171768569013870",
+                    "size": "26070257859",
+                    "download": "12079174016"
                 },
                 "openbeta": {
-                    "gid": "3286329030045212897",
-                    "size": "28099307228",
-                    "download": "13290791488"
+                    "gid": "4306372083260931382",
+                    "size": "26881791193",
+                    "download": "12389644464"
                 }
             },
             "decryptionkey": "ff2d8c45c35e81391fda349955290d9ec6bb2125325841f63df17a59d559fcd1"
@@ -51,19 +46,14 @@
         "1840802": {
             "manifests": {
                 "public": {
-                    "gid": "2631914834312517170",
-                    "size": "42580013",
-                    "download": "35469808"
-                },
-                "beta": {
-                    "gid": "8630226028093283388",
-                    "size": "42171518",
-                    "download": "35064656"
+                    "gid": "798043004586038774",
+                    "size": "42582336",
+                    "download": "35471552"
                 },
                 "openbeta": {
-                    "gid": "8630226028093283388",
-                    "size": "42171518",
-                    "download": "35064656"
+                    "gid": "3478643460228913416",
+                    "size": "42588690",
+                    "download": "35476592"
                 }
             },
             "decryptionkey": "02d4624618c1b7a31579dc43a230a772f6573474738baadaec47e45debe14e0c"
@@ -72,19 +62,14 @@
             "dlcappid": "3047640",
             "manifests": {
                 "public": {
-                    "gid": "3899602805837461101",
-                    "size": "2408268471",
-                    "download": "1194559952"
-                },
-                "beta": {
-                    "gid": "2594767687951438187",
-                    "size": "2793588330",
-                    "download": "1516918720"
+                    "gid": "1782778401599206756",
+                    "size": "2410807317",
+                    "download": "1194663600"
                 },
                 "openbeta": {
-                    "gid": "2594767687951438187",
-                    "size": "2793588330",
-                    "download": "1516918720"
+                    "gid": "1782778401599206756",
+                    "size": "2410807317",
+                    "download": "1194663600"
                 }
             },
             "decryptionkey": "ccef1868801a9d1b50abe1161a90efdac4950ad7f57b5b04aa4f1704da6a178e"
@@ -93,27 +78,27 @@
             "dlcappid": "3295310",
             "manifests": {
                 "public": {
-                    "gid": "6626968672211802224",
-                    "size": "1300924652",
-                    "download": "702683856"
+                    "gid": "1839571456079579218",
+                    "size": "1304418374",
+                    "download": "703075776"
+                },
+                "openbeta": {
+                    "gid": "1839571456079579218",
+                    "size": "1304418374",
+                    "download": "703075776"
                 }
             },
             "decryptionkey": "27d046f37b398876ab45a3f5e257a42e0b33f68061aef514b37fdb669e4b3559"
         },
         "branches": {
             "public": {
-                "buildid": "17334889",
-                "timeupdated": "1739888375"
-            },
-            "beta": {
-                "buildid": "16644702",
-                "description": "Open Beta",
-                "timeupdated": "1733924705"
+                "buildid": "17751198",
+                "timeupdated": "1742484635"
             },
             "openbeta": {
-                "buildid": "16644702",
-                "description": "v1.01.02",
-                "timeupdated": "1734516170"
+                "buildid": "17981795",
+                "description": "v1.03.00",
+                "timeupdated": "1743766073"
             }
         },
         "privatebranches": "1"
