@@ -4,8 +4,8 @@
     "name": "BLADECHIMERA",
     "schinese_name": "幻刃奇美拉",
     "isfreeapp": "0",
-    "change_number": "28010347",
-    "update_time": "2025-03-18 17:36:21",
+    "change_number": "28141847",
+    "update_time": "2025-03-26 11:01:52",
     "depot": {
         "228983": {
             "config": {
@@ -31,17 +31,17 @@
         "2671231": {
             "manifests": {
                 "public": {
-                    "gid": "8018641918980313292",
-                    "size": "298803005",
-                    "download": "189866016"
+                    "gid": "8837355044644873689",
+                    "size": "298813885",
+                    "download": "189864640"
                 }
             },
             "decryptionkey": "83393dbe4d646f58e4904203ccee9e147af7a942cdec79617be2e13061f0f3ea"
         },
         "branches": {
             "public": {
-                "buildid": "16916277",
-                "timeupdated": "1737014131"
+                "buildid": "17763303",
+                "timeupdated": "1742958109"
             }
         },
         "privatebranches": "1"
