@@ -4,8 +4,8 @@
     "name": "都市小面馆",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27846501",
-    "update_time": "2025-03-08 10:01:09",
+    "change_number": "28340047",
+    "update_time": "2025-04-07 14:02:44",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1972760082833531679",
-                    "size": "797580213",
-                    "download": "665020800"
+                    "gid": "7935731438864571101",
+                    "size": "801949486",
+                    "download": "669263872"
                 }
             },
             "decryptionkey": "29aeceb12333cfe23137c838f957b19d5d2d27758ceb55b80990d797d11e2fd6"
@@ -37,8 +37,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "17588100",
-                "timeupdated": "1741399265"
+                "buildid": "17939235",
+                "timeupdated": "1743510210"
             }
         },
         "privatebranches": "1"
