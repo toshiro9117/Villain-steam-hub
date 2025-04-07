@@ -4,8 +4,8 @@
     "name": "Shattered Pixel Dungeon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27937298",
-    "update_time": "2025-03-14 00:21:36",
+    "change_number": "28155187",
+    "update_time": "2025-03-27 02:12:36",
     "depot": {
         "1769171": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6927819310641223629",
-                    "size": "122992321",
-                    "download": "105176400"
+                    "gid": "517724325589653607",
+                    "size": "122997640",
+                    "download": "105182000"
                 },
                 "beta": {
-                    "gid": "6927819310641223629",
-                    "size": "122992321",
-                    "download": "105176400"
+                    "gid": "517724325589653607",
+                    "size": "122997640",
+                    "download": "105182000"
                 }
             },
             "decryptionkey": "16fd8f03cbefeee50bcd0bee58adf8fa760e02ad522cd43ff176adc6809fe459"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7259493269442150865",
-                    "size": "128262357",
-                    "download": "103264064"
+                    "gid": "6571463272562178533",
+                    "size": "128270563",
+                    "download": "103272496"
                 },
                 "beta": {
-                    "gid": "7259493269442150865",
-                    "size": "128262357",
-                    "download": "103264064"
+                    "gid": "6571463272562178533",
+                    "size": "128270563",
+                    "download": "103272496"
                 }
             },
             "decryptionkey": "437b34162453cb091719a785061a77e63a466a4aff5e80e6e5c239d950349bc5"
@@ -49,27 +49,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5919757566263061806",
-                    "size": "135046363",
-                    "download": "107960128"
+                    "gid": "807678386525290044",
+                    "size": "135051624",
+                    "download": "107964640"
                 },
                 "beta": {
-                    "gid": "5919757566263061806",
-                    "size": "135046363",
-                    "download": "107960128"
+                    "gid": "807678386525290044",
+                    "size": "135051624",
+                    "download": "107964640"
                 }
             },
             "decryptionkey": "d1735f3afa87ecbf4b228220e1738c6eaf9ee9840229767e0694ec13bf87614f"
         },
         "branches": {
             "public": {
-                "buildid": "17681903",
-                "timeupdated": "1741882875"
+                "buildid": "17799758",
+                "timeupdated": "1742574057"
             },
             "beta": {
-                "buildid": "17681903",
+                "buildid": "17799758",
                 "description": "Get access to updates early, but in a rougher state.",
-                "timeupdated": "1741718930"
+                "timeupdated": "1742502260"
             }
         },
         "privatebranches": "1"
