@@ -4,16 +4,16 @@
     "name": "Just a To the Moon Series Beach Episode",
     "schinese_name": "Just a To the Moon Series Beach Episode 《去月球系列海滩特别篇》",
     "isfreeapp": "0",
-    "change_number": "27854287",
-    "update_time": "2025-03-09 06:20:26",
+    "change_number": "28179052",
+    "update_time": "2025-03-28 05:24:18",
     "depot": {
         "baselanguages": "english,schinese",
         "2159211": {
             "manifests": {
                 "public": {
-                    "gid": "5619979373207099763",
-                    "size": "371865798",
-                    "download": "317239776"
+                    "gid": "6517088516454192556",
+                    "size": "371865800",
+                    "download": "317239792"
                 }
             },
             "decryptionkey": "73397dd1a442cac0d9326fe03e0381a4e15d66da98452a08af8695bc16c57a3e"
@@ -85,8 +85,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17501505",
-                "timeupdated": "1740496338"
+                "buildid": "17889149",
+                "timeupdated": "1743110654"
             }
         },
         "privatebranches": "1"
