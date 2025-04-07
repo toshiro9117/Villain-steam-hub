@@ -4,8 +4,8 @@
     "name": "The Wandering Village",
     "schinese_name": "漂泊牧歌 (The Wandering Village)",
     "isfreeapp": "0",
-    "change_number": "27994614",
-    "update_time": "2025-03-17 21:39:04",
+    "change_number": "28342854",
+    "update_time": "2025-04-07 17:36:43",
     "depot": {
         "baselanguages": "english",
         "1121641": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "302909280429371722",
-                    "size": "1066314051",
-                    "download": "595937856"
+                    "gid": "7354834932995745190",
+                    "size": "1066278804",
+                    "download": "596031760"
                 },
                 "0.7.10": {
                     "gid": "8586433450967879182",
@@ -30,9 +30,9 @@
                     "download": "560566416"
                 },
                 "testing": {
-                    "gid": "7842999209862261003",
-                    "size": "1066307672",
-                    "download": "596210704"
+                    "gid": "5517078853224564113",
+                    "size": "1185983873",
+                    "download": "714880368"
                 }
             },
             "decryptionkey": "589062032126cb115e44bf22b1f1a7e84ac07202db9d7e297972cc12130c256b"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6038039024575580501",
-                    "size": "1090423754",
-                    "download": "603160256"
+                    "gid": "4123906519468052964",
+                    "size": "1090395099",
+                    "download": "603163632"
                 },
                 "0.7.10": {
                     "gid": "3707043484615100741",
@@ -58,9 +58,9 @@
                     "download": "567715584"
                 },
                 "testing": {
-                    "gid": "7264544894352930349",
-                    "size": "1088283999",
-                    "download": "603095024"
+                    "gid": "6296113997776778167",
+                    "size": "1207952784",
+                    "download": "722228432"
                 }
             },
             "decryptionkey": "bbb6ebc0721460dbc0155d9b26c55231535405d93f38fb6e50872d0803db0fed"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4129525847801658196",
-                    "size": "1055247738",
-                    "download": "592527328"
+                    "gid": "7715048532918901488",
+                    "size": "1055253509",
+                    "download": "592909632"
                 },
                 "0.7.10": {
                     "gid": "5876566717160321931",
@@ -87,9 +87,9 @@
                     "download": "557270240"
                 },
                 "testing": {
-                    "gid": "948032293315065302",
-                    "size": "1055255938",
-                    "download": "592670384"
+                    "gid": "3223117083882353695",
+                    "size": "1174909122",
+                    "download": "711772672"
                 }
             },
             "decryptionkey": "89b00047847f1d8ba2672409d955a16b87f2fba17d5104e7d52f2eb93b0ef7d2"
@@ -101,9 +101,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7762851310242688738",
-                    "size": "1109318699",
-                    "download": "597412896"
+                    "gid": "1374091909079195155",
+                    "size": "1109307615",
+                    "download": "597417520"
                 },
                 "0.7.10": {
                     "gid": "1180632521157116919",
@@ -116,9 +116,9 @@
                     "download": "561553008"
                 },
                 "testing": {
-                    "gid": "242852040826183736",
-                    "size": "1109339200",
-                    "download": "597327968"
+                    "gid": "8563278112547290871",
+                    "size": "1228950995",
+                    "download": "716487952"
                 }
             },
             "decryptionkey": "bdd41c80e89da770cf45077f31fabce93992c2a99fde9378afdc725375bdee4e"
@@ -151,8 +151,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17750164",
-                "timeupdated": "1742216576"
+                "buildid": "17952297",
+                "timeupdated": "1743597468"
             },
             "0.7.10": {
                 "buildid": "14920448",
@@ -165,9 +165,9 @@
                 "timeupdated": "1742207260"
             },
             "testing": {
-                "buildid": "17711776",
+                "buildid": "17983103",
                 "description": "Early testing for upcoming patches",
-                "timeupdated": "1741883454"
+                "timeupdated": "1743768452"
             }
         },
         "privatebranches": "1"
