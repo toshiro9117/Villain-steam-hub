@@ -4,8 +4,8 @@
     "name": "Euro Fishing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27164511",
-    "update_time": "2025-01-25 23:26:01",
+    "change_number": "28057957",
+    "update_time": "2025-03-21 03:04:06",
     "depot": {
         "baselanguages": "english,german,french,russian,polish,hungarian,czech",
         "228984": {
@@ -82,7 +82,7 @@
                     "download": "306856928"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "58eaf140ba7675bf13369494a2690c944a54a610aa14cf20b37b58bbeecb989b"
         },
         "321472": {
             "dlcappid": "321472",
@@ -93,7 +93,7 @@
                     "download": "394758640"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4290b0af3262fafd749b0566f693fcc1488748874875aea0e9dbc005dd8267e1"
         },
         "321473": {
             "dlcappid": "321473",
@@ -115,7 +115,7 @@
                     "download": "803901792"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "978661d6c0f24bea5ee88e7dbb7a9d1ad74c6bcd4d3259eebd58e1fc7d715249"
         },
         "321475": {
             "dlcappid": "321475",
@@ -137,7 +137,7 @@
                     "download": "874467344"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0aa1427141bd9b88ea28fc80d5e6c66eb0e00facba9e7952d0e31f68e88ff5b2"
         },
         "321478": {
             "manifests": {
@@ -148,7 +148,7 @@
                 }
             },
             "dlcappid": "321478",
-            "decryptionkey": ""
+            "decryptionkey": "d04679469b40ea6af586771a0a8d570f968fdfefbeaadbc34d460aed8321c2c3"
         },
         "branches": {
             "public": {
