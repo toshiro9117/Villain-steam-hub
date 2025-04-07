@@ -4,8 +4,8 @@
     "name": "Copycat",
     "schinese_name": "冒牌猫谜",
     "isfreeapp": "0",
-    "change_number": "27967433",
-    "update_time": "2025-03-15 08:28:32",
+    "change_number": "28305228",
+    "update_time": "2025-04-04 17:14:48",
     "depot": {
         "1622351": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "866521737067175234",
-                    "size": "18243940310",
-                    "download": "5458093616"
+                    "gid": "6745877642721611747",
+                    "size": "18903974478",
+                    "download": "5780285616"
                 }
             },
             "decryptionkey": "83b37bc19503c3a2c210e8599e1fdf1bfad5725707f83548d46c1429e1d49efa"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8933316225040358368",
-                    "size": "18103197035",
-                    "download": "5311044944"
+                    "gid": "8880883005286893056",
+                    "size": "18765207179",
+                    "download": "5632911760"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17652512",
-                "timeupdated": "1741569333"
+                "buildid": "17982304",
+                "timeupdated": "1743758081"
             }
         },
         "privatebranches": "1"
