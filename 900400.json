@@ -4,8 +4,8 @@
     "name": "Sacred Fire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27716761",
-    "update_time": "2025-02-28 20:11:27",
+    "change_number": "28138001",
+    "update_time": "2025-03-26 05:09:54",
     "depot": {
         "900401": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6701930395197568983",
-                    "size": "801283848",
-                    "download": "471534416"
+                    "gid": "8425629846908253637",
+                    "size": "870905440",
+                    "download": "520129744"
                 },
                 "sacredfire252": {
                     "gid": "7293642973048464583",
@@ -76,9 +76,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "78310292881854947",
-                    "size": "795165043",
-                    "download": "470051824"
+                    "gid": "5803509245386463562",
+                    "size": "864786635",
+                    "download": "518537392"
                 },
                 "sacredfire252": {
                     "gid": "4198657696814462909",
@@ -139,9 +139,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1783982282769748474",
-                    "size": "803781535",
-                    "download": "471265984"
+                    "gid": "5698077516428613154",
+                    "size": "873403639",
+                    "download": "519860912"
                 },
                 "sacredfire252": {
                     "gid": "3443959698531167737",
@@ -198,8 +198,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11506256",
-                "timeupdated": "1687183166"
+                "buildid": "17691177",
+                "timeupdated": "1741776004"
             },
             "sacredfire252": {
                 "buildid": "7554587",
