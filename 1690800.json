@@ -4,8 +4,8 @@
     "name": "Satisfactory Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28005284",
-    "update_time": "2025-03-18 09:59:51",
+    "change_number": "28342454",
+    "update_time": "2025-04-07 17:13:39",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "2654820800"
                 },
                 "experimental": {
-                    "gid": "6532689015814846961",
-                    "size": "13235542849",
-                    "download": "2682294736"
+                    "gid": "441852958547039485",
+                    "size": "13400661355",
+                    "download": "2718937536"
                 }
             },
             "decryptionkey": "3ced83d42c2942b25490dfd60bfb055b506c6a23c24651d19db8bc90c005adff"
@@ -78,9 +78,9 @@
                     "download": "1189969616"
                 },
                 "experimental": {
-                    "gid": "3988927638335940677",
-                    "size": "4222280147",
-                    "download": "1188360320"
+                    "gid": "6648632053005325531",
+                    "size": "4375231265",
+                    "download": "1233932128"
                 }
             },
             "decryptionkey": "a294c2888bd47bdfff6d5c3b004542c13949bfd54879e9f41836195f840fbfa0"
@@ -91,8 +91,8 @@
                 "timeupdated": "1734694759"
             },
             "experimental": {
-                "buildid": "17680986",
-                "timeupdated": "1741715799"
+                "buildid": "17972965",
+                "timeupdated": "1743757805"
             }
         },
         "privatebranches": "1"
