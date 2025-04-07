@@ -4,8 +4,8 @@
     "name": "Dome Keeper",
     "schinese_name": "Dome Keeper 穹顶守护者",
     "isfreeapp": "0",
-    "change_number": "27926616",
-    "update_time": "2025-03-13 13:45:04",
+    "change_number": "28319031",
+    "update_time": "2025-04-05 08:46:10",
     "depot": {
         "workshopdepot": "1637320",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3175951021758543310",
-                    "size": "1078482168",
-                    "download": "687718784"
+                    "gid": "7201876055613165076",
+                    "size": "1080934072",
+                    "download": "689740144"
                 },
                 "legacy-godot3": {
                     "gid": "2833824279411023352",
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3437986951788477491",
-                    "size": "1084498800",
-                    "download": "688576368"
+                    "gid": "8014061858022968987",
+                    "size": "1086950720",
+                    "download": "690590464"
                 },
                 "legacy-godot3": {
                     "gid": "2036629495710834763",
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3716898901698890242",
-                    "size": "1149024136",
-                    "download": "702194832"
+                    "gid": "4205013018217982803",
+                    "size": "1151476056",
+                    "download": "704247440"
                 },
                 "legacy-godot3": {
                     "gid": "1860162588277815837",
@@ -84,8 +84,8 @@
         "1637324": {},
         "branches": {
             "public": {
-                "buildid": "16802329",
-                "timeupdated": "1734622811"
+                "buildid": "17779621",
+                "timeupdated": "1742398730"
             },
             "legacy-godot3": {
                 "buildid": "13431135",
