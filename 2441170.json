@@ -4,8 +4,8 @@
     "name": "MagicShop2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27984069",
-    "update_time": "2025-03-17 04:53:41",
+    "change_number": "28336699",
+    "update_time": "2025-04-07 07:14:55",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2441171": {
             "manifests": {
                 "public": {
-                    "gid": "2643933176593119031",
-                    "size": "5262615834",
-                    "download": "4948106176"
+                    "gid": "3558681523991989000",
+                    "size": "5701072589",
+                    "download": "5333149216"
                 }
             },
             "decryptionkey": "c51f8c407a5471645fbe34dd790416f2e82522f60f19a089aa8198ebcf9b297c"
         },
         "branches": {
             "public": {
-                "buildid": "17744899",
-                "timeupdated": "1742158416"
+                "buildid": "17798087",
+                "timeupdated": "1742492066"
             }
         }
     }
