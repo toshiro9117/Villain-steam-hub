@@ -4,8 +4,8 @@
     "name": "Torque Drift 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27432185",
-    "update_time": "2025-02-12 11:51:38",
+    "change_number": "28339037",
+    "update_time": "2025-04-07 11:48:17",
     "depot": {
         "228989": {
             "config": {
@@ -28,8 +28,7 @@
                     "size": "66634340866",
                     "download": "65496042592"
                 }
-            },
-            "decryptionkey": "bcdc7ce9427633eb341bfb74bdd12bd2c7cb389d4141853156720501d5136f5f"
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,latam",
         "branches": {
