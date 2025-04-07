@@ -4,8 +4,8 @@
     "name": "Granblue Fantasy Versus: Rising",
     "schinese_name": "碧蓝幻想Versus：崛起",
     "isfreeapp": "0",
-    "change_number": "28010874",
-    "update_time": "2025-03-18 18:07:34",
+    "change_number": "28300656",
+    "update_time": "2025-04-04 10:17:32",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2157561": {
             "manifests": {
                 "public": {
-                    "gid": "2186274389246490751",
-                    "size": "21683122799",
-                    "download": "20306964176"
+                    "gid": "8107666505863826833",
+                    "size": "21683191923",
+                    "download": "20306801984"
                 }
             },
             "decryptionkey": "ffd9dda329bdf010ea5cf3d9006024b8a321b4678cdee77fa6f753ee3e54b855"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,spanish,japanese,portuguese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17640563",
-                "timeupdated": "1741914587"
+                "buildid": "17827931",
+                "timeupdated": "1742951487"
             }
         },
         "privatebranches": "1"
