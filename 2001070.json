@@ -4,20 +4,20 @@
     "name": "Heart of the Machine",
     "schinese_name": "人工智能的选择 Heart of the Machine",
     "isfreeapp": "0",
-    "change_number": "28007161",
-    "update_time": "2025-03-18 13:20:33",
+    "change_number": "28293657",
+    "update_time": "2025-04-04 01:10:27",
     "depot": {
         "2001071": {
             "manifests": {
                 "public": {
-                    "gid": "6907028799086029030",
-                    "size": "145038709",
-                    "download": "79149760"
+                    "gid": "2767739710345579597",
+                    "size": "145363785",
+                    "download": "79228224"
                 },
                 "older_but_stable": {
-                    "gid": "8299157959389115755",
-                    "size": "145090722",
-                    "download": "79297968"
+                    "gid": "4464496418793584485",
+                    "size": "145368224",
+                    "download": "79502304"
                 }
             },
             "decryptionkey": "1a1bb30e75dac9319e59c05cd2cf671bd58d69622641a320a63a2bd9665ce7a4"
@@ -25,14 +25,14 @@
         "2001072": {
             "manifests": {
                 "public": {
-                    "gid": "7118673697444141651",
-                    "size": "315513312",
-                    "download": "81758624"
+                    "gid": "4133269009237469387",
+                    "size": "315542496",
+                    "download": "81759648"
                 },
                 "older_but_stable": {
-                    "gid": "6256515117209191997",
-                    "size": "315513312",
-                    "download": "81758800"
+                    "gid": "6582544043720062891",
+                    "size": "315533280",
+                    "download": "81758992"
                 }
             },
             "decryptionkey": "d99c074ccbebc30d9fd3c7e65ee1025c781f28985577c017a291b232cd65f927"
@@ -43,14 +43,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4142638272152076647",
-                    "size": "3557686076",
-                    "download": "1715861104"
+                    "gid": "3474731527183738900",
+                    "size": "3557744467",
+                    "download": "1715986720"
                 },
                 "older_but_stable": {
-                    "gid": "6048826296552263034",
-                    "size": "3557657404",
-                    "download": "1715858496"
+                    "gid": "6266191827135584137",
+                    "size": "3557693244",
+                    "download": "1715861936"
                 }
             },
             "decryptionkey": "dfdd7b00971120c31672747d712438f1195956496423bc46bf525178e8924d34"
@@ -61,27 +61,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8614624964782940863",
-                    "size": "3752944916",
-                    "download": "1743304848"
+                    "gid": "5355980725211846867",
+                    "size": "3753003307",
+                    "download": "1743427616"
                 },
                 "older_but_stable": {
-                    "gid": "2012609546068345997",
-                    "size": "3752916244",
-                    "download": "1743302240"
+                    "gid": "5919841599522035482",
+                    "size": "3752952084",
+                    "download": "1743305680"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17679689",
-                "timeupdated": "1741709159"
+                "buildid": "17874748",
+                "timeupdated": "1743033067"
             },
             "older_but_stable": {
-                "buildid": "17606819",
+                "buildid": "17798571",
                 "description": "The most recent known-good build prior to the actual build",
-                "timeupdated": "1741709138"
+                "timeupdated": "1743033045"
             }
         },
         "privatebranches": "1"
