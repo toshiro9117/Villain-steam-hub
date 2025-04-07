@@ -4,8 +4,8 @@
     "name": "Paradise Marsh",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27716259",
-    "update_time": "2025-02-28 19:43:32",
+    "change_number": "28252577",
+    "update_time": "2025-04-02 00:40:47",
     "depot": {
         "1709171": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1082060847746343205",
-                    "size": "421900905",
-                    "download": "262432464"
+                    "gid": "6956637543627753565",
+                    "size": "422042617",
+                    "download": "262484384"
                 }
             },
             "decryptionkey": ""
@@ -64,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17546077",
-                "timeupdated": "1740743005"
+                "buildid": "17942528",
+                "timeupdated": "1743525639"
             }
         },
         "privatebranches": "1"
