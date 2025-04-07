@@ -4,8 +4,8 @@
     "name": "Fuga Melodies of Steel 2 - Demo",
     "schinese_name": "战场的赋格曲2 体验版",
     "isfreeapp": "0",
-    "change_number": "27430137",
-    "update_time": "2025-02-12 08:43:04",
+    "change_number": "28279361",
+    "update_time": "2025-04-03 09:00:23",
     "depot": {
         "228988": {
             "config": {
@@ -28,12 +28,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1709556718529737291",
-                    "size": "3489861223",
-                    "download": "1569947168"
+                    "gid": "2059278071544842424",
+                    "size": "3493956114",
+                    "download": "1570526208"
                 }
-            },
-            "decryptionkey": "49ee9124044c0a6138c883ba250a52ce073fd750461ed01194ff7003ab39a374"
+            }
         },
         "2512712": {
             "config": {
@@ -45,8 +44,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "15722672",
-                "timeupdated": "1730941480"
+                "buildid": "17329077",
+                "timeupdated": "1743642019"
             }
         },
         "privatebranches": "1"
