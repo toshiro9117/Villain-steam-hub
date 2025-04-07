@@ -4,8 +4,8 @@
     "name": "Fall Guys",
     "schinese_name": "糖豆人",
     "isfreeapp": "0",
-    "change_number": "27953271",
-    "update_time": "2025-03-14 17:51:33",
+    "change_number": "28343005",
+    "update_time": "2025-04-07 17:47:57",
     "depot": {
         "228989": {
             "config": {
@@ -17,17 +17,17 @@
         "1097151": {
             "manifests": {
                 "public": {
-                    "gid": "3018561164260187613",
-                    "size": "7579634955",
-                    "download": "6209565824"
+                    "gid": "4040175459828593816",
+                    "size": "7654178260",
+                    "download": "6271897760"
                 }
             },
             "decryptionkey": "243e7ffcd6bbd15f3976f648f7d851f975219f7a995ffb32e404e7a94e84dae9"
         },
         "branches": {
             "public": {
-                "buildid": "17553163",
-                "timeupdated": "1741859724"
+                "buildid": "17666429",
+                "timeupdated": "1743498196"
             }
         },
         "privatebranches": "1"
