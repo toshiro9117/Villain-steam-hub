@@ -4,8 +4,8 @@
     "name": "Trainz Plus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27926820",
-    "update_time": "2025-03-13 14:07:57",
+    "change_number": "28224768",
+    "update_time": "2025-03-31 16:50:56",
     "depot": {
         "1904162": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6858410657613132405",
-                    "size": "14675520039",
-                    "download": "14153503808"
+                    "gid": "3426556214549961949",
+                    "size": "14676733483",
+                    "download": "14153606688"
                 }
             },
             "decryptionkey": "ea625171be4081cd1e629fb7e00e4b74125b070815dbeb501171fa7443d91a41"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2964128185146673257",
-                    "size": "14587357051",
-                    "download": "14114623008"
+                    "gid": "7077339854254322472",
+                    "size": "14588620703",
+                    "download": "14114731504"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16924462",
-                "timeupdated": "1737087121"
+                "buildid": "17671257",
+                "timeupdated": "1742516686"
             }
         },
         "privatebranches": "1"
