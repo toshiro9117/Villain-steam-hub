@@ -4,8 +4,8 @@
     "name": "Ancient Warfare 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27963560",
-    "update_time": "2025-03-15 03:15:42",
+    "change_number": "28332084",
+    "update_time": "2025-04-06 20:28:50",
     "depot": {
         "228983": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "781677542873762795",
-                    "size": "1226899337",
-                    "download": "476397968"
+                    "gid": "5964722696510900367",
+                    "size": "1226309578",
+                    "download": "476587056"
                 }
             },
             "decryptionkey": "c8f981d7497778a947599dc4f4b1d07c0cd20f9f5ea08e91b1b7db7404294c1c"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7869703091491157773",
-                    "size": "1206752026",
-                    "download": "470520464"
+                    "gid": "8343124297159687656",
+                    "size": "1206188010",
+                    "download": "470792144"
                 }
             },
             "decryptionkey": "921fc7f159ff6fc15ea537dd6df7c952b2cb16aa6d46359c990c354769e3059b"
@@ -70,20 +70,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7338191570545578996",
-                    "size": "1261918052",
-                    "download": "489410672"
+                    "gid": "6289570728214283047",
+                    "size": "1261070356",
+                    "download": "489612864"
                 }
             },
             "decryptionkey": "4b4826fd1970815daae691ede9e20008c75da687de1672ea22a070537ee9c1b1"
         },
         "branches": {
             "public": {
-                "buildid": "17726713",
-                "timeupdated": "1741962865"
+                "buildid": "18001617",
+                "timeupdated": "1743942526"
             }
         },
-        "privatebranches": "1",
         "workshopdepotdecryptionkey": ""
     }
 }
