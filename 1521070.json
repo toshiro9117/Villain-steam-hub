@@ -4,8 +4,8 @@
     "name": "The Pegasus Expedition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531805",
-    "update_time": "2025-02-18 18:10:39",
+    "change_number": "28337703",
+    "update_time": "2025-04-07 09:17:33",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "1521071": {
             "manifests": {
                 "public": {
-                    "gid": "8995396310821386882",
-                    "size": "4455093921",
-                    "download": "2774794256"
+                    "gid": "7279487099915122561",
+                    "size": "4455095625",
+                    "download": "2774788960"
                 }
             },
             "decryptionkey": "8f76773f0e7e283836a1885f8d45acc7487c1dba017803d7e8e0cc98e4922a1c"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17405298",
-                "timeupdated": "1740147583"
+                "buildid": "17515151",
+                "timeupdated": "1740665002"
             }
         },
         "privatebranches": "1"
