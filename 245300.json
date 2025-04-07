@@ -4,8 +4,8 @@
     "name": "Disney Epic Mickey 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27983848",
-    "update_time": "2025-03-17 04:21:42",
+    "change_number": "28082149",
+    "update_time": "2025-03-22 08:15:29",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,dutch,hungarian,czech,brazilian,greek,latam",
@@ -69,7 +69,7 @@
                     "download": "4039288848"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4631e282b8c71f9c735a4db177f871132c5eb5872b2004941cd4de67dbf32294"
         },
         "245304": {
             "config": {
@@ -160,7 +160,7 @@
                     "download": "4039319728"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5505ce473e2e866ae22b9b18c7fc933d73ea31f1edff0cf5385df2f821cc4aa1"
         },
         "branches": {
             "public": {
