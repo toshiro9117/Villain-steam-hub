@@ -4,8 +4,8 @@
     "name": "Mount & Blade II: Bannerlord",
     "schinese_name": "骑马与砍杀2：霸主",
     "isfreeapp": "0",
-    "change_number": "28004599",
-    "update_time": "2025-03-18 09:02:26",
+    "change_number": "28345148",
+    "update_time": "2025-04-07 20:04:30",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "778291566662837149",
+                    "gid": "7715826813941628873",
                     "size": "4739136022",
-                    "download": "3659929552"
+                    "download": "3659929456"
                 },
                 "beta": {
                     "gid": "5548336836091492652",
@@ -163,9 +163,9 @@
                     "download": "3659929840"
                 },
                 "v1.2.12": {
-                    "gid": "778291566662837149",
+                    "gid": "7715826813941628873",
                     "size": "4739136022",
-                    "download": "3659929552"
+                    "download": "3659929456"
                 }
             },
             "decryptionkey": "b6cfe4c61b9f19a7399a290c50b3dc18052f63b095401ffb3aa8286277597365"
@@ -178,9 +178,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4067181865176684988",
-                    "size": "47533967672",
-                    "download": "34648397168"
+                    "gid": "8103544507708340413",
+                    "size": "47534070243",
+                    "download": "34648576192"
                 },
                 "beta": {
                     "gid": "7148913992773962525",
@@ -313,17 +313,17 @@
                     "download": "34648406784"
                 },
                 "v1.2.12": {
-                    "gid": "4067181865176684988",
-                    "size": "47533967672",
-                    "download": "34648397168"
+                    "gid": "8103544507708340413",
+                    "size": "47534070243",
+                    "download": "34648576192"
                 }
             },
             "decryptionkey": "16a71c423df683e98af58e40c60a6fc8087dc360f977a73c7d138e8d26b99062"
         },
         "branches": {
             "public": {
-                "buildid": "16570121",
-                "timeupdated": "1733138937"
+                "buildid": "17802013",
+                "timeupdated": "1742551765"
             },
             "beta": {
                 "buildid": "15164289",
@@ -457,9 +457,9 @@
                 "timeupdated": "1723206183"
             },
             "v1.2.12": {
-                "buildid": "16570121",
+                "buildid": "17802013",
                 "description": "v1.2.12",
-                "timeupdated": "1733139000"
+                "timeupdated": "1742551798"
             }
         },
         "privatebranches": "1",
