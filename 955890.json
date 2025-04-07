@@ -4,8 +4,8 @@
     "name": "War Platform",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27850418",
-    "update_time": "2025-03-08 19:55:20",
+    "change_number": "28332961",
+    "update_time": "2025-04-06 22:30:26",
     "depot": {
         "hasdepotsindlc": "1",
         "955892": {
@@ -24,9 +24,9 @@
         "955891": {
             "manifests": {
                 "public": {
-                    "gid": "4636776826421536536",
-                    "size": "20870871881",
-                    "download": "6929351696"
+                    "gid": "4257583237428946730",
+                    "size": "20999212997",
+                    "download": "6973140912"
                 }
             },
             "decryptionkey": ""
@@ -77,8 +77,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17565372",
-                "timeupdated": "1740923202"
+                "buildid": "18002155",
+                "timeupdated": "1743949822"
             }
         }
     }
