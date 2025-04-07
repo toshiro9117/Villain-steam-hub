@@ -4,8 +4,8 @@
     "name": "Tavern Talk",
     "schinese_name": "魔饮心语",
     "isfreeapp": "0",
-    "change_number": "27979677",
-    "update_time": "2025-03-16 17:29:54",
+    "change_number": "28213493",
+    "update_time": "2025-03-30 17:11:23",
     "depot": {
         "2076141": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "527753194238617097",
-                    "size": "680817274",
-                    "download": "407492528"
+                    "gid": "6436363229796908225",
+                    "size": "691956641",
+                    "download": "407262240"
                 }
             },
             "decryptionkey": "38c00b2e11a56563435dc1469d94558e9c10aa7b35096d267019be9fd87ec844"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2714671597350417710",
-                    "size": "782972520",
-                    "download": "429494592"
+                    "gid": "9063830359890556058",
+                    "size": "793185757",
+                    "download": "429088800"
                 }
             },
             "decryptionkey": "56978492b8bf6780f27db8b2a51a8673d6c317d0c16be12425ce6d0a85249607"
@@ -49,8 +49,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17498576",
-                "timeupdated": "1740557591"
+                "buildid": "17853138",
+                "timeupdated": "1743149785"
             }
         },
         "privatebranches": "1"
