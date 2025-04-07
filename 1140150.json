@@ -4,8 +4,8 @@
     "name": "东方光耀夜 ~ Lost Branch of Legend",
     "schinese_name": "东方光耀夜 ~ Lost Branch of Legend",
     "isfreeapp": "0",
-    "change_number": "27518089",
-    "update_time": "2025-02-17 23:22:11",
+    "change_number": "28334536",
+    "update_time": "2025-04-07 02:15:59",
     "depot": {
         "hasdepotsindlc": "0",
         "1140151": {
@@ -14,11 +14,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3013704308788490575",
-                    "size": "4501696985",
-                    "download": "1335801040"
+                    "gid": "2629362747195347895",
+                    "size": "5004627048",
+                    "download": "1612172016"
                 },
                 "beta": {
+                    "gid": "2629362747195347895",
+                    "size": "5004627048",
+                    "download": "1612172016"
+                },
+                "stable": {
                     "gid": "2292257629735309070",
                     "size": "4687580537",
                     "download": "1482801888"
@@ -32,11 +37,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3855726895160531915",
-                    "size": "4495627296",
-                    "download": "1334594480"
+                    "gid": "1307612600036169898",
+                    "size": "4998462622",
+                    "download": "1610943888"
                 },
                 "beta": {
+                    "gid": "1307612600036169898",
+                    "size": "4998462622",
+                    "download": "1610943888"
+                },
+                "stable": {
                     "gid": "748592179681331698",
                     "size": "4681349339",
                     "download": "1481597280"
@@ -47,13 +57,18 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "15061973",
-                "timeupdated": "1721218639"
+                "buildid": "17996711",
+                "timeupdated": "1743869462"
             },
             "beta": {
+                "buildid": "17996711",
+                "description": "v1.7.0",
+                "timeupdated": "1743869393"
+            },
+            "stable": {
                 "buildid": "17394991",
                 "description": "v1.6.1",
-                "timeupdated": "1739805715"
+                "timeupdated": "1742692492"
             }
         },
         "privatebranches": "1"
