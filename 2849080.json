@@ -4,8 +4,8 @@
     "name": "Kingdom Rush 5: Alliance TD",
     "schinese_name": "王国保卫战 5：联盟",
     "isfreeapp": "0",
-    "change_number": "27999994",
-    "update_time": "2025-03-18 02:33:49",
+    "change_number": "28170088",
+    "update_time": "2025-03-27 20:58:27",
     "depot": {
         "228988": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2100462919727972686",
-                    "size": "1030978105",
-                    "download": "1022854256"
+                    "gid": "3999098676329848321",
+                    "size": "1118521295",
+                    "download": "1110597904"
                 },
                 "beta": {
                     "gid": "9135767889170780576",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5784737105813418242",
-                    "size": "1041804565",
-                    "download": "1025880048"
+                    "gid": "6933902194005201888",
+                    "size": "1129321680",
+                    "download": "1113616320"
                 },
                 "beta": {
                     "gid": "2514517421171967269",
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17285507",
-                "timeupdated": "1739116896"
+                "buildid": "17729415",
+                "timeupdated": "1743077774"
             },
             "beta": {
                 "buildid": "17211106",
