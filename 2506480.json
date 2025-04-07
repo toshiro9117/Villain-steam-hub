@@ -4,23 +4,23 @@
     "name": "Clue/Cluedo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27950069",
-    "update_time": "2025-03-14 14:26:19",
+    "change_number": "28341393",
+    "update_time": "2025-04-07 15:59:20",
     "depot": {
         "2506481": {
             "manifests": {
                 "public": {
-                    "gid": "1243567342058557879",
-                    "size": "2201178427",
-                    "download": "1775125216"
+                    "gid": "1424853568127035616",
+                    "size": "4361010636",
+                    "download": "3686679904"
                 }
             },
             "decryptionkey": "7121a4ab19d5ec332a0f39b06ce5a28df4aef2d556b8913b9b5dbf83305bee8e"
         },
         "branches": {
             "public": {
-                "buildid": "16777967",
-                "timeupdated": "1734626061"
+                "buildid": "17943830",
+                "timeupdated": "1744012752"
             }
         },
         "privatebranches": "1"
