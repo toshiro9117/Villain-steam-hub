@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Battlesector",
     "schinese_name": "战锤40,000：战区",
     "isfreeapp": "0",
-    "change_number": "28012610",
-    "update_time": "2025-03-18 20:05:59",
+    "change_number": "28345271",
+    "update_time": "2025-04-07 20:14:05",
     "depot": {
         "229006": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7531163722573150467",
-                    "size": "12256010063",
-                    "download": "8490987600"
+                    "gid": "5112717317835706941",
+                    "size": "12125472451",
+                    "download": "8374920208"
                 },
                 "legacy": {
                     "gid": "4993111080546118130",
@@ -35,9 +35,9 @@
         "1295502": {
             "manifests": {
                 "public": {
-                    "gid": "2248442860872576706",
-                    "size": "51642454",
-                    "download": "47642784"
+                    "gid": "8860682129620236916",
+                    "size": "51704113",
+                    "download": "47680960"
                 },
                 "legacy": {
                     "gid": "6164202536364982493",
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17143406",
-                "timeupdated": "1738073019"
+                "buildid": "17969944",
+                "timeupdated": "1743776170"
             },
             "legacy": {
                 "buildid": "10675170",
