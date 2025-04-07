@@ -4,8 +4,8 @@
     "name": "FATE: Reawakened",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27999330",
-    "update_time": "2025-03-18 01:56:37",
+    "change_number": "28337705",
+    "update_time": "2025-04-07 09:17:53",
     "depot": {
         "3030722": {},
         "3030724": {
@@ -25,9 +25,9 @@
         "3030723": {
             "manifests": {
                 "public": {
-                    "gid": "4348512087612809570",
-                    "size": "2626005705",
-                    "download": "1223415456"
+                    "gid": "1091433185189382248",
+                    "size": "2629620593",
+                    "download": "1224710320"
                 }
             },
             "decryptionkey": "d925533af99c1e945956c6294e981eb95863ab700955a2065244b84092708f5b"
@@ -52,8 +52,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17396848",
-                "timeupdated": "1739883151"
+                "buildid": "17883897",
+                "timeupdated": "1743084902"
             }
         },
         "privatebranches": "1"
