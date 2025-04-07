@@ -4,8 +4,8 @@
     "name": "Sex Formula",
     "schinese_name": "性爱方程式",
     "isfreeapp": "0",
-    "change_number": "27985448",
-    "update_time": "2025-03-17 08:20:53",
+    "change_number": "28330169",
+    "update_time": "2025-04-06 15:17:28",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2889661": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8291111203728185837",
-                    "size": "30343765200",
-                    "download": "6567404048"
+                    "gid": "6306149307702579483",
+                    "size": "30390671038",
+                    "download": "6580860560"
                 }
             },
             "decryptionkey": "8de65c7822383b2d93b5dc0b44e946ab936809a2da93c49d043f289e50f957a7"
         },
         "branches": {
             "public": {
-                "buildid": "17145523",
-                "timeupdated": "1737987511"
+                "buildid": "17939635",
+                "timeupdated": "1743513166"
             }
         }
     }
