@@ -4,8 +4,8 @@
     "name": "Squirrelmageddon!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27868350",
-    "update_time": "2025-03-10 17:31:06",
+    "change_number": "28329399",
+    "update_time": "2025-04-06 12:29:46",
     "depot": {
         "228989": {
             "config": {
@@ -33,9 +33,9 @@
                     "download": "32106802928"
                 },
                 "beta": {
-                    "gid": "4757075781685106130",
-                    "size": "32419949881",
-                    "download": "31578130176"
+                    "gid": "7565126033773836735",
+                    "size": "32429044233",
+                    "download": "31587169728"
                 },
                 "betamaps": {
                     "gid": "1212616776754252041",
@@ -57,9 +57,9 @@
                 "timeupdated": "1737191870"
             },
             "beta": {
-                "buildid": "17658019",
+                "buildid": "17999436",
                 "description": "Testing Branch",
-                "timeupdated": "1741599059"
+                "timeupdated": "1743913782"
             },
             "betamaps": {
                 "buildid": "14655383",
