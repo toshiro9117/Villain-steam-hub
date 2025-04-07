@@ -4,8 +4,8 @@
     "name": "NAVYFIELD",
     "schinese_name": "舰队使命 大海战2",
     "isfreeapp": "0",
-    "change_number": "27899775",
-    "update_time": "2025-03-12 06:17:01",
+    "change_number": "28257285",
+    "update_time": "2025-04-02 07:05:26",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese,tchinese,japanese",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "92322396108425671",
-                    "size": "4190489783",
-                    "download": "1253833472"
+                    "gid": "1114108228803403832",
+                    "size": "4190498991",
+                    "download": "1253840720"
                 }
             },
             "decryptionkey": "fd169fe2762885367f82cc2ce9b42784e0e704658c9047899fca0559bf4c7897"
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7221504360533832154",
-                    "size": "4190439418",
-                    "download": "1253823280"
+                    "gid": "2226183946570864258",
+                    "size": "4190448626",
+                    "download": "1253830528"
                 }
             },
             "decryptionkey": "2bd2ff579b8d223afc7d56dcf1843668603b06b84b8cea5eb1ba53e4ca4de1e7"
@@ -72,12 +72,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9025464035287696325",
-                    "size": "4190387702",
-                    "download": "1253305280"
+                    "gid": "665617396858730592",
+                    "size": "4190396910",
+                    "download": "1253312528"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7ff4895fb08a8444e02a52ab6d7036d3520bc0ab103d43ee830924c350a74ff2"
         },
         "675567": {
             "config": {
@@ -86,17 +86,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6750080756687530529",
-                    "size": "4190528191",
-                    "download": "1254705248"
+                    "gid": "865155780932010458",
+                    "size": "4190537399",
+                    "download": "1254712496"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cf6c01dce05526baf1686a236cad1f351563997879da25550b23a2c28bf0caf4"
         },
         "branches": {
             "public": {
-                "buildid": "17684064",
-                "timeupdated": "1741731414"
+                "buildid": "17946174",
+                "timeupdated": "1743546069"
             }
         }
     }
