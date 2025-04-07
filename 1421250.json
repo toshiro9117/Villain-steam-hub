@@ -4,8 +4,8 @@
     "name": "Tiny Bunny",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28010140",
-    "update_time": "2025-03-18 17:24:25",
+    "change_number": "28310887",
+    "update_time": "2025-04-04 22:49:00",
     "depot": {
         "1421251": {
             "config": {
@@ -19,6 +19,13 @@
                 }
             },
             "decryptionkey": "26c7441369eb15b5a36a102139161693464b46afa6f77cc7744ea95f920ece2c"
+        },
+        "1421252": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
