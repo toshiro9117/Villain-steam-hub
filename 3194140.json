@@ -4,8 +4,8 @@
     "name": "Cozy Sudoku",
     "schinese_name": "悠享数独",
     "isfreeapp": "0",
-    "change_number": "27841078",
-    "update_time": "2025-03-08 02:09:02",
+    "change_number": "28087756",
+    "update_time": "2025-03-22 22:20:20",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
         "228990": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3902669220856381793",
-                    "size": "43496118",
-                    "download": "34123168"
+                    "gid": "2784304156659946795",
+                    "size": "44005933",
+                    "download": "34371312"
                 }
             },
             "decryptionkey": "d9cb1d9252cb59c4d11609d4135650b1b5145d165f29e16d55d1f2e671a218c0"
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5266993762116344665",
-                    "size": "300990237",
-                    "download": "123326880"
+                    "gid": "8073092677241896535",
+                    "size": "306126983",
+                    "download": "125065408"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16715252",
-                "timeupdated": "1733969007"
+                "buildid": "17820771",
+                "timeupdated": "1742653155"
             }
         }
     }
