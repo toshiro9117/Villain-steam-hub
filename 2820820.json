@@ -4,15 +4,15 @@
     "name": "Jotunnslayer: Hordes of Hel",
     "schinese_name": "巨人杀手：暗黑之潮",
     "isfreeapp": "0",
-    "change_number": "28006431",
-    "update_time": "2025-03-18 11:56:17",
+    "change_number": "28338400",
+    "update_time": "2025-04-07 10:35:17",
     "depot": {
         "2820821": {
             "manifests": {
                 "public": {
-                    "gid": "2270150403755723679",
-                    "size": "13657918008",
-                    "download": "4344463904"
+                    "gid": "788228441449180709",
+                    "size": "13768977056",
+                    "download": "4415366304"
                 }
             },
             "decryptionkey": "6c3ca2723bed87cab9ee1a573779e7cd92ddfaa4f61727af0e5f5219c736611d"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "17706383",
-                "timeupdated": "1741858216"
+                "buildid": "17968408",
+                "timeupdated": "1743676634"
             }
         },
         "privatebranches": "1"
