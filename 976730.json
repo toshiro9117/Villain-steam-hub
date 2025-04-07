@@ -4,8 +4,8 @@
     "name": "Halo: The Master Chief Collection",
     "schinese_name": "光环：士官长合集",
     "isfreeapp": "0",
-    "change_number": "27725450",
-    "update_time": "2025-03-01 04:51:52",
+    "change_number": "28314443",
+    "update_time": "2025-04-05 02:07:38",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
@@ -325,6 +325,6 @@
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": "ee5f1e5eb0e59c3f87d057221ed6493922c26bff40909dfb132627ff7ebb6436"
+        "workshopdepotdecryptionkey": ""
     }
 }
