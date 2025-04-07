@@ -4,8 +4,8 @@
     "name": "ARK: Survival Ascended",
     "schinese_name": "方舟: 生存飞升",
     "isfreeapp": "0",
-    "change_number": "28006362",
-    "update_time": "2025-03-18 11:46:49",
+    "change_number": "28346585",
+    "update_time": "2025-04-07 21:37:54",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,danish,dutch,turkish,brazilian",
         "hasdepotsindlc": "1",
@@ -26,9 +26,9 @@
         "2399831": {
             "manifests": {
                 "public": {
-                    "gid": "1663769110344026883",
-                    "size": "224341639916",
-                    "download": "200971535312"
+                    "gid": "3723934903731394658",
+                    "size": "224322173234",
+                    "download": "202081069872"
                 },
                 "public_test_realm": {
                     "gid": "4220789890992984378",
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17755497",
-                "timeupdated": "1742238098"
+                "buildid": "17931624",
+                "timeupdated": "1743530918"
             },
             "public_test_realm": {
                 "buildid": "14738062",
