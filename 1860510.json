@@ -4,8 +4,8 @@
     "name": "Total Conflict: Resistance",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28001530",
-    "update_time": "2025-03-18 04:25:07",
+    "change_number": "28330702",
+    "update_time": "2025-04-06 16:55:13",
     "depot": {
         "228988": {
             "config": {
@@ -31,14 +31,14 @@
         "1860511": {
             "manifests": {
                 "public": {
-                    "gid": "6772844290001150347",
-                    "size": "34068364831",
-                    "download": "32895953808"
+                    "gid": "6036188982712982964",
+                    "size": "33702197826",
+                    "download": "32531495440"
                 },
                 "beta_test": {
-                    "gid": "6772844290001150347",
-                    "size": "34068364831",
-                    "download": "32895953808"
+                    "gid": "6036188982712982964",
+                    "size": "33702197826",
+                    "download": "32531495440"
                 }
             },
             "decryptionkey": "6da400d94115d37c6474b287e5f8e41e78ec2083d54ff7dffd6d1b3b2dc8dc0d"
@@ -46,13 +46,13 @@
         "workshopdepot": "1860510",
         "branches": {
             "public": {
-                "buildid": "17755383",
-                "timeupdated": "1742243101"
+                "buildid": "18000273",
+                "timeupdated": "1743929709"
             },
             "beta_test": {
-                "buildid": "17755383",
+                "buildid": "18000273",
                 "description": "0.85 SDK",
-                "timeupdated": "1742235261"
+                "timeupdated": "1743923077"
             }
         },
         "privatebranches": "1",
