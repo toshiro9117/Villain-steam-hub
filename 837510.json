@@ -4,8 +4,8 @@
     "name": "Pixel Game Maker MV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27924256",
-    "update_time": "2025-03-13 10:20:43",
+    "change_number": "28302327",
+    "update_time": "2025-04-04 13:21:37",
     "depot": {
         "baselanguages": "english,japanese",
         "hasdepotsindlc": "1",
@@ -230,12 +230,12 @@
             "1.0.6-switch": {
                 "buildid": "13942922",
                 "description": "for Nintendo Switch - 1.0.6.11",
-                "timeupdated": "1722595101"
+                "timeupdated": "1743744094"
             },
             "1.0.6-switch-beta": {
                 "buildid": "16809228",
                 "description": "1.0.6.13 Beta ver",
-                "timeupdated": "1735090702"
+                "timeupdated": "1743743991"
             }
         },
         "privatebranches": "1",
