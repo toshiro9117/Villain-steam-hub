@@ -4,8 +4,8 @@
     "name": "Tower Unite Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28011615",
-    "update_time": "2025-03-18 18:59:48",
+    "change_number": "28343575",
+    "update_time": "2025-04-07 18:19:16",
     "depot": {
         "1004": {
             "config": {
@@ -91,17 +91,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5133913206581254701",
-                    "size": "4546012927",
-                    "download": "1041066928"
+                    "gid": "4023504515277879229",
+                    "size": "4597374460",
+                    "download": "1052225808"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17734962",
-                "timeupdated": "1742022631"
+                "buildid": "17978492",
+                "timeupdated": "1743742440"
             }
         },
         "privatebranches": "1"
