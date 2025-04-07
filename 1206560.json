@@ -4,8 +4,8 @@
     "name": "WorldBox - God Simulator",
     "schinese_name": "世界盒子-上帝模拟器",
     "isfreeapp": "0",
-    "change_number": "27378135",
-    "update_time": "2025-02-08 20:18:00",
+    "change_number": "28331347",
+    "update_time": "2025-04-06 18:45:44",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,greek,ukrainian,latam,vietnamese",
         "1206561": {
@@ -115,6 +115,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "bc4a616c22736f244adab2bf84e39ac6a3b332aee5024f19644e363dda04739e"
+        "workshopdepotdecryptionkey": ""
     }
 }
