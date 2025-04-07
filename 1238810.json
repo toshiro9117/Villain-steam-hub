@@ -4,9 +4,10 @@
     "name": "Battlefield™ V",
     "schinese_name": "《战地风云 5》",
     "isfreeapp": "0",
-    "change_number": "27291788",
-    "update_time": "2025-02-04 00:00:14",
+    "change_number": "28339617",
+    "update_time": "2025-04-07 13:10:26",
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -15,9 +16,6 @@
             "sharedinstall": "1"
         },
         "1238811": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6721650049133320511",
@@ -209,7 +207,17 @@
             },
             "decryptionkey": "cfee412ddf5154c1ddf30ed4cea51d36180406740e7ea8d313d15ba175839b32"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
         "branches": {
             "public": {
                 "buildid": "15984572",
