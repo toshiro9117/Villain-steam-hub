@@ -4,8 +4,8 @@
     "name": "Mount & Blade II: Bannerlord - Modding Kit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26451482",
-    "update_time": "2024-12-05 09:44:18",
+    "change_number": "28069244",
+    "update_time": "2025-03-21 18:11:13",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1393601": {
             "manifests": {
                 "public": {
-                    "gid": "5846210017306853308",
-                    "size": "27242991132",
-                    "download": "21648394352"
+                    "gid": "8643848823806207847",
+                    "size": "27243179593",
+                    "download": "21648590912"
                 },
                 "e1.7.2": {
                     "gid": "6512999185622937601",
@@ -134,17 +134,17 @@
                     "download": "21648404832"
                 },
                 "v1.2.12": {
-                    "gid": "5846210017306853308",
-                    "size": "27242991132",
-                    "download": "21648394352"
+                    "gid": "8643848823806207847",
+                    "size": "27243179593",
+                    "download": "21648590912"
                 }
             },
             "decryptionkey": "5b54e5bcd1d142744e6ffe9885406d5d50844e5cecd8c8b9a6c024d8bfa08287"
         },
         "branches": {
             "public": {
-                "buildid": "16579233",
-                "timeupdated": "1733139099"
+                "buildid": "17805495",
+                "timeupdated": "1742551845"
             },
             "e1.7.2": {
                 "buildid": "8948342",
@@ -252,9 +252,9 @@
                 "timeupdated": "1723207875"
             },
             "v1.2.12": {
-                "buildid": "16579233",
+                "buildid": "17805495",
                 "description": "v1.2.12",
-                "timeupdated": "1733139140"
+                "timeupdated": "1742551869"
             }
         },
         "privatebranches": "1"
