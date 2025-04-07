@@ -4,8 +4,8 @@
     "name": "Survive the Nights",
     "schinese_name": "生存之夜",
     "isfreeapp": "0",
-    "change_number": "27957034",
-    "update_time": "2025-03-14 21:20:42",
+    "change_number": "28323788",
+    "update_time": "2025-04-05 21:33:51",
     "depot": {
         "541301": {
             "config": {
@@ -38,19 +38,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7761687602836812310",
-                    "size": "11898695789",
-                    "download": "4489843536"
+                    "gid": "764466747527039030",
+                    "size": "11715138952",
+                    "download": "4539027472"
                 },
                 "demo": {
-                    "gid": "5638132670537327527",
-                    "size": "5532150535",
-                    "download": "2558776320"
+                    "gid": "7494501376936862552",
+                    "size": "5546530641",
+                    "download": "2563774704"
                 },
                 "experimental": {
-                    "gid": "7761687602836812310",
-                    "size": "11898695789",
-                    "download": "4489843536"
+                    "gid": "764466747527039030",
+                    "size": "11715138952",
+                    "download": "4539027472"
                 }
             },
             "decryptionkey": "e108e3e856b5624a39650b492d6fe4fc7d5f3818db8ea9cab1c8e4560fa39f7e"
@@ -64,18 +64,18 @@
         "workshopdepot": "541300",
         "branches": {
             "public": {
-                "buildid": "17425302",
-                "timeupdated": "1739989992"
+                "buildid": "17988571",
+                "timeupdated": "1743860023"
             },
             "demo": {
-                "buildid": "17725786",
+                "buildid": "17988845",
                 "description": "Testing the demo build",
-                "timeupdated": "1741958436"
+                "timeupdated": "1743789001"
             },
             "experimental": {
-                "buildid": "17425302",
+                "buildid": "17988571",
                 "description": "Most up to date testing branch. In here things will be more broken than in the public branch. Expect more DB resets and a lot more bugs. Be in here if you're hunting for the newest issues.",
-                "timeupdated": "1739989966"
+                "timeupdated": "1743859986"
             }
         },
         "privatebranches": "1",
