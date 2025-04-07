@@ -4,8 +4,8 @@
     "name": "Borderlands 2 RU",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 01:00:03",
+    "change_number": "28274510",
+    "update_time": "2025-04-03 02:45:29",
     "depot": {
         "overridescddb": "1",
         "preloadonly": "1",
@@ -415,7 +415,7 @@
                 }
             },
             "dlcappid": "254180",
-            "decryptionkey": ""
+            "decryptionkey": "669c38c545f5ecd44a7b5807613535fe13f03bd74d4f3905b330a4a66fe52d56"
         },
         "254181": {
             "manifests": {
@@ -426,7 +426,7 @@
                 }
             },
             "dlcappid": "254181",
-            "decryptionkey": ""
+            "decryptionkey": "2beddf84425f92b9f97f2217846a4c1168767411479fb572793580189b6a97cd"
         },
         "254182": {
             "manifests": {
@@ -437,7 +437,7 @@
                 }
             },
             "dlcappid": "254182",
-            "decryptionkey": ""
+            "decryptionkey": "f9485d075f9e71df94c42cbfbeb0458746410059c04c21a97cfee10547462dc7"
         },
         "254183": {
             "manifests": {
@@ -448,7 +448,7 @@
                 }
             },
             "dlcappid": "254183",
-            "decryptionkey": ""
+            "decryptionkey": "36f86dec9623383a5d331bccccd5f201c5d00cabbee1226eef1aa7bedd863205"
         },
         "254184": {
             "manifests": {
@@ -459,7 +459,7 @@
                 }
             },
             "dlcappid": "254184",
-            "decryptionkey": ""
+            "decryptionkey": "c9c2e8eec03894637a0dcaf1e81741ddd306bd25810187ec849697d5b897053b"
         },
         "254185": {
             "manifests": {
@@ -470,7 +470,7 @@
                 }
             },
             "dlcappid": "254185",
-            "decryptionkey": ""
+            "decryptionkey": "ce54aeb74021a94c870187cc4c28b29007bb9cfc67ad9af0cf02bcd49ed045e5"
         },
         "257330": {
             "manifests": {
