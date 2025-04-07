@@ -4,8 +4,8 @@
     "name": "Monster Hunter: World",
     "schinese_name": "怪物猎人：世界",
     "isfreeapp": "0",
-    "change_number": "26998573",
-    "update_time": "2025-01-15 08:20:35",
+    "change_number": "28213253",
+    "update_time": "2025-03-30 16:14:45",
     "depot": {
         "depotdeltapatches": "1",
         "workshopdepot": "582010",
@@ -65,6 +65,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "0891b9c128dc04f20718b3ff6be13d601741e81b7a80bec80d3b9b9f70542ab9"
+        "workshopdepotdecryptionkey": ""
     }
 }
