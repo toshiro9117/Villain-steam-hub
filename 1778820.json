@@ -4,8 +4,8 @@
     "name": "TEKKEN 8",
     "schinese_name": "铁拳8",
     "isfreeapp": "0",
-    "change_number": "28010916",
-    "update_time": "2025-03-18 18:10:56",
+    "change_number": "28340455",
+    "update_time": "2025-04-07 14:47:54",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -25,9 +25,9 @@
         "1778821": {
             "manifests": {
                 "public": {
-                    "gid": "7000741429297019044",
-                    "size": "122087516211",
-                    "download": "106419510832"
+                    "gid": "6237379241359280413",
+                    "size": "123919142232",
+                    "download": "107946217488"
                 }
             },
             "decryptionkey": "c7c87be587ce9a828a290d82a8650ff9edd77f53919f2f8d2f686f1e586417b7"
@@ -35,9 +35,9 @@
         "1778822": {
             "manifests": {
                 "public": {
-                    "gid": "5636337394271059615",
-                    "size": "1680869607",
-                    "download": "301899520"
+                    "gid": "7811260501322567716",
+                    "size": "1683336231",
+                    "download": "301521952"
                 }
             },
             "decryptionkey": ""
@@ -46,9 +46,9 @@
             "dlcappid": "2497260",
             "manifests": {
                 "public": {
-                    "gid": "6065253676267578229",
-                    "size": "105",
-                    "download": "80"
+                    "gid": "9013304300055115218",
+                    "size": "16777568",
+                    "download": "17007216"
                 }
             },
             "decryptionkey": ""
@@ -81,8 +81,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17670654",
-                "timeupdated": "1741658401"
+                "buildid": "17747603",
+                "timeupdated": "1743458419"
             }
         },
         "privatebranches": "1"
