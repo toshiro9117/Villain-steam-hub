@@ -4,8 +4,8 @@
     "name": "Her Heart's Desire: A Landlord Epic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28005159",
-    "update_time": "2025-03-18 09:47:52",
+    "change_number": "28249264",
+    "update_time": "2025-04-01 21:33:08",
     "depot": {
         "1632752": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "2330261216"
                 },
                 "beta": {
-                    "gid": "888221471759035581",
-                    "size": "4674517731",
-                    "download": "4376907472"
+                    "gid": "4649690528912607642",
+                    "size": "5041570215",
+                    "download": "4729916480"
                 }
             },
             "decryptionkey": "6706c417a8f4e42eb7b6e345b8d9bbebb280e830ac8a1617baba3b703daa64ac"
@@ -28,9 +28,9 @@
                 "timeupdated": "1711636144"
             },
             "beta": {
-                "buildid": "17759457",
+                "buildid": "17940220",
                 "description": "Beta",
-                "timeupdated": "1742262465"
+                "timeupdated": "1743514380"
             }
         }
     }
