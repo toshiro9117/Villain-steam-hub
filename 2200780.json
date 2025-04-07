@@ -4,8 +4,8 @@
     "name": "My dream setup",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27739855",
-    "update_time": "2025-03-02 15:28:19",
+    "change_number": "28285059",
+    "update_time": "2025-04-03 17:01:01",
     "depot": {
         "2200781": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3978839970713489195",
-                    "size": "3097745486",
-                    "download": "1102800736"
+                    "gid": "9093553636001001975",
+                    "size": "3161804405",
+                    "download": "1138509968"
                 }
             },
             "decryptionkey": "29406521ce5331ba5fdd43d43177449ef8464b67e6b6de257c894a5dbdb26cb1"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7270539836015342461",
-                    "size": "3120194105",
-                    "download": "1109350400"
+                    "gid": "369743143936814669",
+                    "size": "3185266308",
+                    "download": "1145184928"
                 }
             },
             "decryptionkey": "112155b443b5d2147602ac203014c4d4baeb01b241d22704420be8135a38f04a"
         },
         "branches": {
             "public": {
-                "buildid": "17563724",
-                "timeupdated": "1740900495"
+                "buildid": "17967114",
+                "timeupdated": "1743670855"
             }
         },
         "privatebranches": "1"
