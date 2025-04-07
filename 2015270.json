@@ -4,8 +4,8 @@
     "name": "Rotwood",
     "schinese_name": "熔炉密林",
     "isfreeapp": "0",
-    "change_number": "28009673",
-    "update_time": "2025-03-18 17:01:47",
+    "change_number": "28342294",
+    "update_time": "2025-04-07 17:02:24",
     "depot": {
         "228989": {
             "config": {
@@ -17,27 +17,27 @@
         "2015271": {
             "manifests": {
                 "public": {
-                    "gid": "8035687147450632423",
-                    "size": "1005001425",
-                    "download": "967514816"
+                    "gid": "8801846167317766202",
+                    "size": "1038533700",
+                    "download": "1000478768"
                 },
                 "publicbeta": {
-                    "gid": "5820395176695466414",
-                    "size": "1036053878",
-                    "download": "998342144"
+                    "gid": "939488001597460836",
+                    "size": "1037243852",
+                    "download": "999487296"
                 }
             },
             "decryptionkey": "52e97957aab04bacd50fec8149cc4c447b6cfdf455482b37ab728cb7d14779fe"
         },
         "branches": {
             "public": {
-                "buildid": "17327215",
-                "timeupdated": "1739311386"
+                "buildid": "17889655",
+                "timeupdated": "1743116345"
             },
             "publicbeta": {
-                "buildid": "17732682",
+                "buildid": "17772622",
                 "description": "Public-facing beta tests for upcoming update",
-                "timeupdated": "1741997627"
+                "timeupdated": "1742343145"
             }
         },
         "privatebranches": "1"
