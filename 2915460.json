@@ -4,9 +4,10 @@
     "name": "OneShot: World Machine Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978205",
-    "update_time": "2025-03-16 12:21:06",
+    "change_number": "28341003",
+    "update_time": "2025-04-07 15:32:23",
     "depot": {
+        "baselanguages": "english,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -28,7 +29,13 @@
             },
             "decryptionkey": "022099f7246ff72908c4a31e8fec337cfc87537266af23bd5ff99d327fc1ecb4"
         },
-        "baselanguages": "english,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
+        "2915462": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "16833112",
