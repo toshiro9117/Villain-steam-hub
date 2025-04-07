@@ -4,8 +4,8 @@
     "name": "FREEDOM WARS Remastered",
     "schinese_name": "自由战争 Remastered",
     "isfreeapp": "0",
-    "change_number": "28006837",
-    "update_time": "2025-03-18 12:44:03",
+    "change_number": "28336828",
+    "update_time": "2025-04-07 07:31:13",
     "depot": {
         "228985": {
             "config": {
@@ -32,9 +32,9 @@
         "3004101": {
             "manifests": {
                 "public": {
-                    "gid": "7951023704301005655",
-                    "size": "11859038569",
-                    "download": "11165576848"
+                    "gid": "2625376418703830798",
+                    "size": "11903970308",
+                    "download": "11208981888"
                 }
             },
             "decryptionkey": "a4dcf5fa4a35b461898f324cadee75e864b642d9e6e96bea6210671255187917"
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17433277",
-                "timeupdated": "1741053604"
+                "buildid": "17803306",
+                "timeupdated": "1743732020"
             }
         },
         "privatebranches": "1"
