@@ -4,8 +4,8 @@
     "name": "Godrop",
     "schinese_name": "宇宙魔弹哥卓普",
     "isfreeapp": "0",
-    "change_number": "26224892",
-    "update_time": "2024-11-16 17:26:58",
+    "change_number": "28103613",
+    "update_time": "2025-03-24 14:48:45",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -33,9 +33,9 @@
         "2657311": {
             "manifests": {
                 "public": {
-                    "gid": "5265553080499042355",
-                    "size": "1190069794",
-                    "download": "1074539872"
+                    "gid": "9174735001095318068",
+                    "size": "1190060997",
+                    "download": "1074521680"
                 }
             },
             "decryptionkey": "efcbc3f0f5b2689d083f0e1ca5fc5202c68fb3e184f11a11fe897b35231fdc62"
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16181099",
-                "timeupdated": "1729862836"
+                "buildid": "17832051",
+                "timeupdated": "1742798920"
             }
         }
     }
