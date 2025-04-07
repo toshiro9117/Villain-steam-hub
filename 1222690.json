@@ -4,8 +4,8 @@
     "name": "Dragon Age™ Inquisition",
     "schinese_name": "《龙腾世纪审判》",
     "isfreeapp": "0",
-    "change_number": "27734897",
-    "update_time": "2025-03-02 01:22:54",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:01",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish,brazilian",
@@ -45,9 +45,6 @@
             "sharedinstall": "1"
         },
         "1222691": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6654432343229856467",
@@ -174,6 +171,17 @@
                 }
             },
             "decryptionkey": "55ef26436f62c1abd06bd35e3dac4826f8b7ebcedd9e7242eb671600e99773bb"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
