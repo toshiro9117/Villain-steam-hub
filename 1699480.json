@@ -4,8 +4,8 @@
     "name": "KLETKA",
     "schinese_name": "笼子",
     "isfreeapp": "0",
-    "change_number": "27852300",
-    "update_time": "2025-03-09 01:01:51",
+    "change_number": "28330381",
+    "update_time": "2025-04-06 15:56:33",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "workshopdepot": "1699480",
@@ -30,14 +30,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9065003115003484065",
-                    "size": "1453843408",
-                    "download": "1092403280"
+                    "gid": "1336930133208079611",
+                    "size": "1517547789",
+                    "download": "1153224848"
                 },
                 "beta-test": {
-                    "gid": "9065003115003484065",
-                    "size": "1453843408",
-                    "download": "1092403280"
+                    "gid": "1336930133208079611",
+                    "size": "1517547789",
+                    "download": "1153224848"
                 }
             },
             "decryptionkey": "c68d3843c14b9584d5c8707632ad7c1876efeb1528e0b97802b47663295ec466"
@@ -49,27 +49,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8487882445548642478",
-                    "size": "3197412531",
-                    "download": "1198242288"
+                    "gid": "1391716154706273473",
+                    "size": "3152229020",
+                    "download": "1404175984"
                 },
                 "beta-test": {
-                    "gid": "8487882445548642478",
-                    "size": "3197412531",
-                    "download": "1198242288"
+                    "gid": "1391716154706273473",
+                    "size": "3152229020",
+                    "download": "1404175984"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17624289",
-                "timeupdated": "1741286737"
+                "buildid": "17949711",
+                "timeupdated": "1743571654"
             },
             "beta-test": {
-                "buildid": "17624289",
+                "buildid": "17949711",
                 "description": "For beta testers",
-                "timeupdated": "1741344414"
+                "timeupdated": "1743571674"
             }
         },
         "privatebranches": "1",
