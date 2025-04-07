@@ -4,8 +4,8 @@
     "name": "JIANGHU CHRONICLES",
     "schinese_name": "江湖录",
     "isfreeapp": "0",
-    "change_number": "27978269",
-    "update_time": "2025-03-16 12:41:46",
+    "change_number": "28208439",
+    "update_time": "2025-03-30 02:15:22",
     "depot": {
         "baselanguages": "schinese",
         "1909841": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4373564700325092146",
-                    "size": "3910678293",
-                    "download": "1145392688"
+                    "gid": "6544474940079149965",
+                    "size": "3913278105",
+                    "download": "1145358448"
                 },
                 "v0.7.5.5": {
                     "gid": "7189122062071165414",
@@ -31,8 +31,8 @@
         "workshopdepot": "1909840",
         "branches": {
             "public": {
-                "buildid": "17740892",
-                "timeupdated": "1742100100"
+                "buildid": "17821497",
+                "timeupdated": "1742662623"
             },
             "v0.7.5.5": {
                 "buildid": "16882307",
