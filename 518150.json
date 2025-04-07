@@ -4,8 +4,8 @@
     "name": "Intruder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28000233",
-    "update_time": "2025-03-18 02:48:52",
+    "change_number": "28328565",
+    "update_time": "2025-04-06 09:58:08",
     "depot": {
         "228989": {
             "config": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7392020626894069403",
-                    "size": "6315198391",
-                    "download": "1412923392"
+                    "gid": "8306662925730026631",
+                    "size": "6561906090",
+                    "download": "1496294896"
                 }
             },
             "decryptionkey": ""
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8831457647140318915",
-                    "size": "6651457195",
-                    "download": "1554632608"
+                    "gid": "5433007471234380378",
+                    "size": "6898164884",
+                    "download": "1637495024"
                 }
             },
             "decryptionkey": "2ed850e7cc8b07415d7a61ec0298fbe0b5efaf01883c715b0097edfe16d860e3"
         },
         "branches": {
             "public": {
-                "buildid": "17754461",
-                "timeupdated": "1742237327"
+                "buildid": "17942605",
+                "timeupdated": "1743536885"
             }
         },
         "privatebranches": "1",
