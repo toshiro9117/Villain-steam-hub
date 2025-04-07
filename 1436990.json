@@ -4,8 +4,8 @@
     "name": "Feign",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27955571",
-    "update_time": "2025-03-14 20:07:27",
+    "change_number": "28195532",
+    "update_time": "2025-03-29 01:06:59",
     "depot": {
         "baselanguages": "english",
         "1436991": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1869182760779232371",
-                    "size": "512434240",
-                    "download": "73549568"
+                    "gid": "3486344291847757346",
+                    "size": "516583848",
+                    "download": "73705456"
                 }
             },
             "decryptionkey": "6565aea4417dd0ea5c0ef0e7cfedae34723da97dfbb9656f34f27cfb73fe2af8"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5288149148453231984",
-                    "size": "512434240",
-                    "download": "73487936"
+                    "gid": "726849927518527097",
+                    "size": "516583848",
+                    "download": "73644544"
                 }
             },
             "decryptionkey": "3680620184ee4df7dc49e48da6a0010221342c24be3a074d06e92c51151398bf"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8359431363840948215",
-                    "size": "502370942",
-                    "download": "73517648"
+                    "gid": "2113603857996923214",
+                    "size": "506520550",
+                    "download": "73673504"
                 }
             },
             "decryptionkey": "c046e9e4bf5e86095f1f6d88924da4870357b892cc0711428eb31d57850afd23"
@@ -59,17 +59,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1980146841707633566",
-                    "size": "502370942",
-                    "download": "73482064"
+                    "gid": "1956162294160429821",
+                    "size": "506520550",
+                    "download": "73636992"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17724782",
-                "timeupdated": "1741954041"
+                "buildid": "17901424",
+                "timeupdated": "1743181614"
             }
         },
         "privatebranches": "1"
