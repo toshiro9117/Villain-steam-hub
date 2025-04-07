@@ -4,8 +4,8 @@
     "name": "Deadeye Deepfake Simulacrum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27767750",
-    "update_time": "2025-03-04 13:35:52",
+    "change_number": "28084896",
+    "update_time": "2025-03-22 14:46:14",
     "depot": {
         "baselanguages": "english",
         "1545991": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7602155163963245083",
-                    "size": "1409401638",
-                    "download": "392820864"
+                    "gid": "4539453085024891145",
+                    "size": "1409641098",
+                    "download": "392688064"
                 }
             },
             "decryptionkey": "c1423b26c8f601a3b2d9d27b3dc2750d2104b9336dab2feb761582d257270f7a"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3904172945579464010",
-                    "size": "1425788232",
-                    "download": "392423952"
+                    "gid": "8340222692805861000",
+                    "size": "1426028516",
+                    "download": "392495440"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7690240860042020683",
-                    "size": "1448541386",
-                    "download": "386814928"
+                    "gid": "3582802886696606581",
+                    "size": "1448734662",
+                    "download": "387100416"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17584152",
-                "timeupdated": "1741066548"
+                "buildid": "17818681",
+                "timeupdated": "1742625968"
             }
         }
     }
