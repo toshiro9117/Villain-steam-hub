@@ -4,8 +4,8 @@
     "name": "Fury Unleashed",
     "schinese_name": "恶棍英雄",
     "isfreeapp": "0",
-    "change_number": "27152688",
-    "update_time": "2025-01-25 00:27:29",
+    "change_number": "28013765",
+    "update_time": "2025-03-18 21:22:00",
     "depot": {
         "workshopdepot": "465200",
         "465201": {
@@ -57,6 +57,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "002e7f7046f8ae3aa54693f9d0b6bfce33f3529f90a455efe1c170e181f7efa6"
+        "workshopdepotdecryptionkey": ""
     }
 }
