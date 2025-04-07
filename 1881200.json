@@ -4,8 +4,8 @@
     "name": "TRYP FPV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28011014",
-    "update_time": "2025-03-18 18:17:13",
+    "change_number": "28290662",
+    "update_time": "2025-04-03 22:24:38",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4169951940837485813",
-                    "size": "20312961135",
-                    "download": "15546295872"
+                    "gid": "5040858185941274449",
+                    "size": "20615437851",
+                    "download": "15723418928"
                 },
                 "local": {
                     "gid": "249051706036711052",
@@ -86,8 +86,8 @@
         "workshopdepot": "1881200",
         "branches": {
             "public": {
-                "buildid": "17310168",
-                "timeupdated": "1739209729"
+                "buildid": "17900614",
+                "timeupdated": "1743177957"
             },
             "local": {
                 "buildid": "8140096",
