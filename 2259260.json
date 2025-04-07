@@ -4,8 +4,8 @@
     "name": "Tyrant's Realm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013655",
-    "update_time": "2025-03-18 21:13:59",
+    "change_number": "28346284",
+    "update_time": "2025-04-07 21:17:44",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2259261": {
             "manifests": {
                 "public": {
-                    "gid": "1983283088878889028",
-                    "size": "1069130256",
-                    "download": "863492720"
+                    "gid": "4858466030976131076",
+                    "size": "1069182768",
+                    "download": "863525424"
                 }
             },
             "decryptionkey": "aa2650859aadcdbb629fb0a080eec79020ca4840d4d6e1da873f965d7f9c420d"
         },
         "branches": {
             "public": {
-                "buildid": "17704155",
-                "timeupdated": "1741845094"
+                "buildid": "17950153",
+                "timeupdated": "1743674458"
             }
         },
         "privatebranches": "1"
