@@ -4,8 +4,8 @@
     "name": "Project L33T",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27984095",
-    "update_time": "2025-03-17 04:57:03",
+    "change_number": "28306289",
+    "update_time": "2025-04-04 18:19:17",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2803361": {
             "manifests": {
                 "public": {
-                    "gid": "9022069704868165915",
-                    "size": "23016580145",
-                    "download": "21589242384"
+                    "gid": "4298519220002514457",
+                    "size": "22983807639",
+                    "download": "21575948752"
                 }
             },
             "decryptionkey": "6baf81f704f545a4cdd39adc0400334745f08d31ed765e00b6ac7a213ddcdcf6"
         },
         "branches": {
             "public": {
-                "buildid": "17118884",
-                "timeupdated": "1737738731"
+                "buildid": "17979757",
+                "timeupdated": "1743761951"
             }
         },
         "privatebranches": "1"
