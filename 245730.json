@@ -4,8 +4,8 @@
     "name": "Flashback",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27908290",
-    "update_time": "2025-03-12 18:01:09",
+    "change_number": "28160026",
+    "update_time": "2025-03-27 08:26:26",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,dutch,brazilian",
@@ -32,7 +32,7 @@
                     "download": "2537548688"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8d971573ab8fbe4840c759b35b84bb7917f81d5c065f2040d3218cb7e0ad5738"
         },
         "1716751": {
             "manifests": {
