@@ -4,8 +4,8 @@
     "name": "Shieldwall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27997480",
-    "update_time": "2025-03-18 00:02:37",
+    "change_number": "28205854",
+    "update_time": "2025-03-29 20:33:57",
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2111010488665826689",
-                    "size": "7917468036",
-                    "download": "2613686944"
+                    "gid": "3494197066367392513",
+                    "size": "7963698424",
+                    "download": "2632519424"
                 },
                 "v.0.9.1": {
                     "gid": "1999128339798063999",
@@ -54,8 +54,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "10831463",
-                "timeupdated": "1681842073"
+                "buildid": "17753905",
+                "timeupdated": "1742669255"
             },
             "v.0.9.1": {
                 "buildid": "6781333",
@@ -72,7 +72,6 @@
                 "description": "Alpha 4",
                 "timeupdated": "1731245255"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
