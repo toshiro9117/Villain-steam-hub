@@ -4,8 +4,8 @@
     "name": "太吾绘卷 The Scroll Of Taiwu",
     "schinese_name": "太吾绘卷 ",
     "isfreeapp": "0",
-    "change_number": "28011534",
-    "update_time": "2025-03-18 18:53:51",
+    "change_number": "28286727",
+    "update_time": "2025-04-03 18:40:34",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "schinese",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1023226592277382775",
-                    "size": "3592209180",
-                    "download": "2870417088"
+                    "gid": "9111731626440817268",
+                    "size": "3782044815",
+                    "download": "3013833952"
                 },
                 "frame-test": {
                     "gid": "6687659281010261726",
@@ -43,9 +43,9 @@
                     "download": "267279840"
                 },
                 "test": {
-                    "gid": "1023226592277382775",
-                    "size": "3592209180",
-                    "download": "2870417088"
+                    "gid": "9111731626440817268",
+                    "size": "3782044815",
+                    "download": "3013833952"
                 }
             },
             "decryptionkey": "7de3577779d63fd52db715a1898f8353eb0f5f4096ab3391f77b582621e1adb8"
@@ -92,8 +92,8 @@
         "workshopdepot": "838350",
         "branches": {
             "public": {
-                "buildid": "17330837",
-                "timeupdated": "1739349458"
+                "buildid": "17968080",
+                "timeupdated": "1743676830"
             },
             "frame-test": {
                 "buildid": "13865514",
@@ -111,9 +111,9 @@
                 "timeupdated": "1721638999"
             },
             "test": {
-                "buildid": "17330837",
+                "buildid": "17968080",
                 "description": "测试分支",
-                "timeupdated": "1739349431"
+                "timeupdated": "1743676783"
             }
         },
         "privatebranches": "1",
