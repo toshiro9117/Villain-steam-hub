@@ -4,8 +4,8 @@
     "name": "Parking World: Build & Manage",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27917643",
-    "update_time": "2025-03-13 02:45:21",
+    "change_number": "28303347",
+    "update_time": "2025-04-04 15:05:29",
     "depot": {
         "228990": {
             "config": {
@@ -17,17 +17,17 @@
         "2551571": {
             "manifests": {
                 "public": {
-                    "gid": "2661098693895852377",
-                    "size": "5929576315",
-                    "download": "2978437568"
+                    "gid": "6262027791202689244",
+                    "size": "4286423928",
+                    "download": "2478465728"
                 }
             },
             "decryptionkey": "7f8cc23534f4143d80aea505f42bb83dcb942de1b8d0e07b629ce3b9dfa2e6a2"
         },
         "branches": {
             "public": {
-                "buildid": "17171258",
-                "timeupdated": "1738241811"
+                "buildid": "17836570",
+                "timeupdated": "1742900415"
             }
         },
         "privatebranches": "1"
