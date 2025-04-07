@@ -4,8 +4,8 @@
     "name": "Tom Clancy's Rainbow Six Siege",
     "schinese_name": "彩虹六号®：围攻",
     "isfreeapp": "0",
-    "change_number": "28005924",
-    "update_time": "2025-03-18 11:02:05",
+    "change_number": "28314674",
+    "update_time": "2025-04-05 02:23:43",
     "depot": {
         "depotdeltapatches": "1",
         "baselanguages": "",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8542711540144632540",
-                    "size": "56749537216",
-                    "download": "54600454912"
+                    "gid": "1501131478465634136",
+                    "size": "54949456303",
+                    "download": "52920869984"
                 },
                 "local": {
                     "gid": "6496702401580528635",
@@ -320,9 +320,9 @@
         "377237": {
             "manifests": {
                 "public": {
-                    "gid": "6764165128845305373",
-                    "size": "5692865",
-                    "download": "5120944"
+                    "gid": "5364283617704741131",
+                    "size": "5688821",
+                    "download": "5120288"
                 },
                 "local": {
                     "gid": "5608840892135065296",
@@ -335,9 +335,9 @@
         "377238": {
             "manifests": {
                 "public": {
-                    "gid": "5834248758473369633",
-                    "size": "5515702",
-                    "download": "5060928"
+                    "gid": "2261137557446399051",
+                    "size": "5511658",
+                    "download": "5060272"
                 },
                 "local": {
                     "gid": "7697308153387164771",
@@ -351,9 +351,9 @@
             "dlcappid": "377560",
             "manifests": {
                 "public": {
-                    "gid": "2607280485967462998",
-                    "size": "33458192384",
-                    "download": "33604099040"
+                    "gid": "7550031824678426425",
+                    "size": "33483358208",
+                    "download": "33628226928"
                 },
                 "local": {
                     "gid": "5520132953269810419",
@@ -438,8 +438,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17590475",
-                "timeupdated": "1741099320"
+                "buildid": "17939881",
+                "timeupdated": "1743512706"
             },
             "local": {
                 "buildid": "2203564",
