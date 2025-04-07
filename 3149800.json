@@ -4,15 +4,15 @@
     "name": "勾八公主狂想曲（J8 Princess Rhapsody）",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978202",
-    "update_time": "2025-03-16 12:20:44",
+    "change_number": "28068754",
+    "update_time": "2025-03-21 17:44:21",
     "depot": {
         "3149801": {
             "manifests": {
                 "public": {
-                    "gid": "5638807628083389110",
-                    "size": "1908628133",
-                    "download": "962563600"
+                    "gid": "5093581404030233827",
+                    "size": "1913774913",
+                    "download": "966391536"
                 },
                 "test": {
                     "gid": "3076057611361044460",
@@ -25,8 +25,8 @@
         "baselanguages": "english,schinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16688131",
-                "timeupdated": "1733798979"
+                "buildid": "17805894",
+                "timeupdated": "1742550256"
             },
             "test": {
                 "buildid": "17432881",
