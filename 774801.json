@@ -4,8 +4,8 @@
     "name": "Crab Champions",
     "schinese_name": "螃蟹冠军",
     "isfreeapp": "0",
-    "change_number": "27985602",
-    "update_time": "2025-03-17 08:40:50",
+    "change_number": "28298307",
+    "update_time": "2025-04-04 06:49:49",
     "depot": {
         "baselanguages": "english",
         "774803": {
@@ -14,27 +14,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1452070012564796633",
-                    "size": "1859631032",
-                    "download": "1751496368"
+                    "gid": "3380205502637293767",
+                    "size": "1907074470",
+                    "download": "1798833472"
                 },
                 "beta": {
-                    "gid": "8427971323360399179",
-                    "size": "1890300046",
-                    "download": "1782047296"
+                    "gid": "3380205502637293767",
+                    "size": "1907074470",
+                    "download": "1798833472"
                 }
             },
             "decryptionkey": "4d6ebe88cccaf7a68764d8cb7920d2df3756ca029f4f690113fcc02dc41bac1d"
         },
         "branches": {
             "public": {
-                "buildid": "15559235",
-                "timeupdated": "1725210444"
+                "buildid": "17976780",
+                "timeupdated": "1743720211"
             },
             "beta": {
-                "buildid": "17746002",
+                "buildid": "17976780",
                 "description": "The latest version of Crab Champions- back up your save before downloading!",
-                "timeupdated": "1742172046"
+                "timeupdated": "1743720584"
             }
         },
         "privatebranches": "1"
