@@ -4,8 +4,8 @@
     "name": "Ballionaire",
     "schinese_name": "弹球亿万富翁",
     "isfreeapp": "0",
-    "change_number": "27985097",
-    "update_time": "2025-03-17 07:20:55",
+    "change_number": "28294312",
+    "update_time": "2025-04-04 01:52:12",
     "depot": {
         "2667121": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5482985770150180569",
-                    "size": "392187264",
-                    "download": "224483472"
+                    "gid": "7798390385398323986",
+                    "size": "404090288",
+                    "download": "236048992"
                 }
             },
             "decryptionkey": "ed94256223a144a0297adfcfdafe9d6c1c50ba8fa61f41c978b601c82fe0da81"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4378155221645269111",
-                    "size": "388041300",
-                    "download": "221828944"
+                    "gid": "3722860413230780720",
+                    "size": "399944836",
+                    "download": "233399536"
                 }
             },
             "decryptionkey": ""
@@ -37,8 +37,8 @@
         "workshopdepot": "2667120",
         "branches": {
             "public": {
-                "buildid": "17696600",
-                "timeupdated": "1741802026"
+                "buildid": "17962354",
+                "timeupdated": "1743678083"
             }
         },
         "privatebranches": "1",
