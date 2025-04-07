@@ -4,8 +4,8 @@
     "name": "A Way Out",
     "schinese_name": "逃出生天",
     "isfreeapp": "0",
-    "change_number": "27964753",
-    "update_time": "2025-03-15 04:40:31",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:02",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian",
         "228985": {
@@ -142,6 +142,17 @@
                 }
             },
             "decryptionkey": "1016cf4d540f6220afb5e18e6e3194b269abe6006996f4966e29728a29a65809"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
