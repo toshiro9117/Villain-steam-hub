@@ -4,8 +4,8 @@
     "name": "BrokenLore: LOW",
     "schinese_name": "破碎怪谈：雾雨村",
     "isfreeapp": "0",
-    "change_number": "27999330",
-    "update_time": "2025-03-18 01:56:36",
+    "change_number": "28222099",
+    "update_time": "2025-03-31 12:52:19",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3014521": {
             "manifests": {
                 "public": {
-                    "gid": "1335741274883585167",
-                    "size": "10697057039",
-                    "download": "10098663440"
+                    "gid": "3449954644181937582",
+                    "size": "10942301420",
+                    "download": "10322048544"
                 }
             },
             "decryptionkey": "9ebdfdd344e8831199145bd672e2c82a848e9f03b3e1bb68b32b81ff733ccaa7"
         },
         "branches": {
             "public": {
-                "buildid": "17531179",
-                "timeupdated": "1740663657"
+                "buildid": "17778853",
+                "timeupdated": "1742380635"
             }
         }
     }
