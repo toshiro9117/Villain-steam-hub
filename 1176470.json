@@ -4,8 +4,8 @@
     "name": "Terra Invicta",
     "schinese_name": "地球不屈 Terra Invicta",
     "isfreeapp": "0",
-    "change_number": "28000357",
-    "update_time": "2025-03-18 02:57:41",
+    "change_number": "28317115",
+    "update_time": "2025-04-05 05:36:22",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -24,24 +24,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8041600014467518075",
-                    "size": "25933484692",
-                    "download": "21291163280"
+                    "gid": "4630235076020109702",
+                    "size": "26087123544",
+                    "download": "21405480544"
                 },
                 "beta-release": {
-                    "gid": "7596723235766781656",
-                    "size": "26087054113",
-                    "download": "21405469968"
+                    "gid": "4320975340694513016",
+                    "size": "26087133201",
+                    "download": "21405483008"
                 },
                 "validation-release": {
-                    "gid": "7596723235766781656",
-                    "size": "26087054113",
-                    "download": "21405469968"
+                    "gid": "4320975340694513016",
+                    "size": "26087133201",
+                    "download": "21405483008"
                 },
                 "experimental": {
-                    "gid": "2441054786576567198",
-                    "size": "26087079706",
-                    "download": "21405479088"
+                    "gid": "4320975340694513016",
+                    "size": "26087133201",
+                    "download": "21405483008"
                 },
                 "rollback-0-3-107": {
                     "gid": "4660062986234302257",
@@ -92,6 +92,11 @@
                     "gid": "2645230615506934570",
                     "size": "25346973197",
                     "download": "20770516192"
+                },
+                "rollback-0-4-38": {
+                    "gid": "8041600014467518075",
+                    "size": "25933484692",
+                    "download": "21291163280"
                 }
             },
             "decryptionkey": "32afe0ca44ac3ee8659bb2d081a83e48b296b6a04937ad62f469dff1a46068e3"
@@ -174,29 +179,34 @@
                     "gid": "2471507827232603259",
                     "size": "2280670951",
                     "download": "2022149792"
+                },
+                "rollback-0-4-38": {
+                    "gid": "2471507827232603259",
+                    "size": "2280670951",
+                    "download": "2022149792"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15747128",
-                "timeupdated": "1726689582"
+                "buildid": "17945206",
+                "timeupdated": "1743616681"
             },
             "beta-release": {
-                "buildid": "17696962",
-                "description": "0.4.69",
-                "timeupdated": "1742066372"
+                "buildid": "17989774",
+                "description": "0.4.79",
+                "timeupdated": "1743802562"
             },
             "validation-release": {
-                "buildid": "17696962",
-                "description": "0.4.69",
-                "timeupdated": "1741805907"
+                "buildid": "17989774",
+                "description": "0.4.79",
+                "timeupdated": "1743802431"
             },
             "experimental": {
-                "buildid": "17753328",
-                "description": "0.4.71",
-                "timeupdated": "1742237734"
+                "buildid": "17989774",
+                "description": "0.4.79",
+                "timeupdated": "1743802421"
             },
             "rollback-0-3-107": {
                 "buildid": "15747238",
@@ -247,6 +257,11 @@
                 "buildid": "15747316",
                 "description": "0.4.26",
                 "timeupdated": "1726690605"
+            },
+            "rollback-0-4-38": {
+                "buildid": "15747128",
+                "description": "0.4.38",
+                "timeupdated": "1743452954"
             }
         },
         "privatebranches": "1",
