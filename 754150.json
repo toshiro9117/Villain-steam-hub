@@ -4,8 +4,8 @@
     "name": "Rolling Line",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006782",
-    "update_time": "2025-03-18 12:36:36",
+    "change_number": "28340312",
+    "update_time": "2025-04-07 14:29:42",
     "depot": {
         "754151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5584644760030918494",
-                    "size": "1625968244",
-                    "download": "655308880"
+                    "gid": "7357588808386931259",
+                    "size": "1625968268",
+                    "download": "655308448"
                 },
                 "rolling_line_1x": {
                     "gid": "2580503137338381975",
@@ -33,9 +33,9 @@
                     "download": "673907008"
                 },
                 "testing": {
-                    "gid": "5584644760030918494",
-                    "size": "1625968244",
-                    "download": "655308880"
+                    "gid": "8495957854271457460",
+                    "size": "1626140964",
+                    "download": "655358880"
                 }
             },
             "decryptionkey": "ad04c94991815777be39a3c6261cdd6935c1c1cebb3a87006759ec3dce5edc7e"
@@ -43,8 +43,8 @@
         "workshopdepot": "754150",
         "branches": {
             "public": {
-                "buildid": "17760658",
-                "timeupdated": "1742272591"
+                "buildid": "17775220",
+                "timeupdated": "1742357994"
             },
             "rolling_line_1x": {
                 "buildid": "14063262",
@@ -62,9 +62,9 @@
                 "timeupdated": "1675919663"
             },
             "testing": {
-                "buildid": "17760658",
+                "buildid": "18007449",
                 "description": "Update testing branch",
-                "timeupdated": "1742272340"
+                "timeupdated": "1744007377"
             }
         },
         "privatebranches": "1",
