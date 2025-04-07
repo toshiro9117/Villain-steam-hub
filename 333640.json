@@ -4,8 +4,8 @@
     "name": "Caves of Qud",
     "schinese_name": "猜想之穴",
     "isfreeapp": "0",
-    "change_number": "27974422",
-    "update_time": "2025-03-16 01:42:37",
+    "change_number": "28295847",
+    "update_time": "2025-04-04 03:46:28",
     "depot": {
         "workshopdepot": "333640",
         "hasdepotsindlc": "0",
@@ -95,9 +95,9 @@
                     "download": "850393984"
                 },
                 "beta": {
-                    "gid": "2512061033036203717",
-                    "size": "1277536008",
-                    "download": "853656080"
+                    "gid": "6208239022643592858",
+                    "size": "1399676140",
+                    "download": "939834112"
                 }
             },
             "decryptionkey": "dfa108b3e863b583a4e9f5c4fc602f2f16e97315239913e06a4612f9c6349fff"
@@ -188,9 +188,9 @@
                     "download": "844600272"
                 },
                 "beta": {
-                    "gid": "8636110694082991871",
-                    "size": "1249149297",
-                    "download": "850604896"
+                    "gid": "1948515380923491679",
+                    "size": "1371289445",
+                    "download": "936787936"
                 }
             },
             "decryptionkey": "4a233a3d219ce8a7545847bc4511e7851296b4bf58fdf4c488331515f6288be7"
@@ -281,9 +281,9 @@
                     "download": "839062752"
                 },
                 "beta": {
-                    "gid": "4701128325021649171",
-                    "size": "1273655378",
-                    "download": "843816288"
+                    "gid": "2763010978998464133",
+                    "size": "1395795510",
+                    "download": "930002944"
                 }
             },
             "decryptionkey": "bbc326e4462b214e78177f87ab19f17aa09b86bc373fd6f9440f2757711f90f5"
@@ -307,7 +307,7 @@
                     "download": "51440"
                 },
                 "beta": {
-                    "gid": "130172052667399714",
+                    "gid": "8893803301824573414",
                     "size": "87741",
                     "download": "51440"
                 }
@@ -395,9 +395,9 @@
                 "timeupdated": "1734552256"
             },
             "beta": {
-                "buildid": "17643368",
+                "buildid": "17874966",
                 "description": "beta",
-                "timeupdated": "1742060553"
+                "timeupdated": "1743034428"
             }
         },
         "privatebranches": "1",
