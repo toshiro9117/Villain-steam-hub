@@ -4,15 +4,15 @@
     "name": "Love with Furry",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27962838",
-    "update_time": "2025-03-15 02:28:36",
+    "change_number": "28078066",
+    "update_time": "2025-03-22 02:15:48",
     "depot": {
         "1807451": {
             "manifests": {
                 "public": {
-                    "gid": "4110849125442848312",
+                    "gid": "5174651899793369128",
                     "size": "498736245",
-                    "download": "48938288"
+                    "download": "48938240"
                 }
             },
             "decryptionkey": "fe37135106d89a8d3897dc5db80b5bf44d4a714085f107015dff6524e93b2cea"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7844375",
-                "timeupdated": "1638915996"
+                "buildid": "17809486",
+                "timeupdated": "1742563603"
             }
         }
     }
