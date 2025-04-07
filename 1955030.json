@@ -4,8 +4,8 @@
     "name": "SCP: EVENT CLASSIFIED",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27971403",
-    "update_time": "2025-03-15 18:24:45",
+    "change_number": "28331160",
+    "update_time": "2025-04-06 18:17:11",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "3843391616"
                 },
                 "testing": {
-                    "gid": "6598801299945735546",
-                    "size": "27374809582",
-                    "download": "6638186928"
+                    "gid": "2717777327364439194",
+                    "size": "27388466209",
+                    "download": "6641370272"
                 }
             },
             "decryptionkey": "b69bfad6726d5251f0cf12650b4772039a75d5d4054ba802b572b6888c12e7b6"
@@ -35,9 +35,9 @@
                 "timeupdated": "1714347059"
             },
             "testing": {
-                "buildid": "17561577",
+                "buildid": "17993184",
                 "description": "Debug Build For Testers",
-                "timeupdated": "1740872345"
+                "timeupdated": "1743823929"
             }
         }
     }
