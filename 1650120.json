@@ -4,15 +4,15 @@
     "name": "Football, Tactics & Glory: Manager's Journey",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27235102",
-    "update_time": "2025-01-30 21:05:47",
+    "change_number": "28116165",
+    "update_time": "2025-03-25 03:52:27",
     "depot": {
         "1650120": {
             "manifests": {
                 "public": {
-                    "gid": "38902748453294913",
-                    "size": "1965656184",
-                    "download": "840250512"
+                    "gid": "841994126556098621",
+                    "size": "1966219238",
+                    "download": "840299360"
                 }
             },
             "dlcappid": "1650120",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16952512",
-                "timeupdated": "1736432564"
+                "buildid": "17840803",
+                "timeupdated": "1742845942"
             }
         },
         "privatebranches": "1"
