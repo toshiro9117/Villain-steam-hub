@@ -4,8 +4,8 @@
     "name": "Conan Exiles Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28003864",
-    "update_time": "2025-03-18 07:55:57",
+    "change_number": "28336655",
+    "update_time": "2025-04-07 07:08:46",
     "depot": {
         "1004": {
             "config": {
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7766800518953292997",
-                    "size": "4362655618",
-                    "download": "1785085536"
+                    "gid": "8835075846005401158",
+                    "size": "4434320262",
+                    "download": "1828962144"
                 }
             },
             "decryptionkey": "f55c3e712ca3baf14da3e30c692f9b628b999e144b6570916b42db300bad2e64"
@@ -100,8 +100,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17032817",
-                "timeupdated": "1738241176"
+                "buildid": "17669810",
+                "timeupdated": "1742906733"
             }
         },
         "privatebranches": "1"
