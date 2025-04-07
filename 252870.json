@@ -4,8 +4,8 @@
     "name": "PULSAR: Lost Colony",
     "schinese_name": "脉冲星：失去的殖民地",
     "isfreeapp": "0",
-    "change_number": "27983259",
-    "update_time": "2025-03-17 02:56:31",
+    "change_number": "28314550",
+    "update_time": "2025-04-05 02:15:09",
     "depot": {
         "228985": {
             "config": {
@@ -45,19 +45,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1147904534665658423",
-                    "size": "5950221176",
-                    "download": "2874232736"
+                    "gid": "8615811211172103852",
+                    "size": "5931335256",
+                    "download": "2856897088"
                 },
                 "advancetesting": {
-                    "gid": "1147904534665658423",
-                    "size": "5950221176",
-                    "download": "2874232736"
+                    "gid": "8615811211172103852",
+                    "size": "5931335256",
+                    "download": "2856897088"
                 },
                 "mono": {
-                    "gid": "3875645724425999494",
-                    "size": "5925912185",
-                    "download": "2868169024"
+                    "gid": "7900977578365696093",
+                    "size": "5907020437",
+                    "download": "2850804016"
                 }
             },
             "decryptionkey": "6c05ecaa0bbb97919e27b86f0207cd578f42f66a6f47f97008f8829ac35fac3a"
@@ -69,19 +69,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3297689166319910265",
-                    "size": "5767765544",
-                    "download": "2810942048"
+                    "gid": "5714635392994823588",
+                    "size": "5767976337",
+                    "download": "2811039360"
                 },
                 "advancetesting": {
-                    "gid": "3297689166319910265",
-                    "size": "5767765544",
-                    "download": "2810942048"
+                    "gid": "5714635392994823588",
+                    "size": "5767976337",
+                    "download": "2811039360"
                 },
                 "mono": {
-                    "gid": "7336325753422426292",
-                    "size": "5743932896",
-                    "download": "2805924544"
+                    "gid": "3991985265353988923",
+                    "size": "5744128465",
+                    "download": "2805971120"
                 }
             },
             "decryptionkey": ""
@@ -93,19 +93,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7792267286826697743",
-                    "size": "5855910907",
-                    "download": "2843043760"
+                    "gid": "2314021303603240246",
+                    "size": "5837025887",
+                    "download": "2825679952"
                 },
                 "advancetesting": {
-                    "gid": "7792267286826697743",
-                    "size": "5855910907",
-                    "download": "2843043760"
+                    "gid": "2314021303603240246",
+                    "size": "5837025887",
+                    "download": "2825679952"
                 },
                 "mono": {
-                    "gid": "6963648955553097135",
-                    "size": "5817186742",
-                    "download": "2836570272"
+                    "gid": "5052844937639774455",
+                    "size": "5798294794",
+                    "download": "2819204416"
                 }
             },
             "decryptionkey": ""
@@ -113,18 +113,18 @@
         "workshopdepot": "252870",
         "branches": {
             "public": {
-                "buildid": "15626924",
-                "timeupdated": "1725739694"
+                "buildid": "17812536",
+                "timeupdated": "1742581237"
             },
             "advancetesting": {
-                "buildid": "15626924",
+                "buildid": "17812536",
                 "description": "Public Advance Testing Branch",
-                "timeupdated": "1725738298"
+                "timeupdated": "1742580858"
             },
             "mono": {
-                "buildid": "15626930",
+                "buildid": "17812556",
                 "description": "Mono branch",
-                "timeupdated": "1725739676"
+                "timeupdated": "1742581225"
             }
         },
         "privatebranches": "1",
