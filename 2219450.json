@@ -4,23 +4,23 @@
     "name": "Seer's Gambit",
     "schinese_name": "勇者的残局：自走棋",
     "isfreeapp": "0",
-    "change_number": "27252854",
-    "update_time": "2025-01-31 20:29:24",
+    "change_number": "28064202",
+    "update_time": "2025-03-21 11:51:18",
     "depot": {
         "2219451": {
             "manifests": {
                 "public": {
-                    "gid": "779565013258469095",
-                    "size": "1152733499",
-                    "download": "401457488"
+                    "gid": "7190138622737212856",
+                    "size": "1153355355",
+                    "download": "401470576"
                 }
             },
             "decryptionkey": "981b8780fc1f05ca0e740a0930cf3492d294bd6a0b985911928c02544d1dbe2b"
         },
         "branches": {
             "public": {
-                "buildid": "17196218",
-                "timeupdated": "1738326559"
+                "buildid": "17514694",
+                "timeupdated": "1740574780"
             }
         },
         "privatebranches": "1"
