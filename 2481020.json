@@ -4,8 +4,8 @@
     "name": "Vampire Therapist",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28001895",
-    "update_time": "2025-03-18 04:56:24",
+    "change_number": "28334067",
+    "update_time": "2025-04-07 01:11:00",
     "depot": {
         "2481021": {
             "config": {
@@ -45,6 +45,9 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "3643880": {
+            "dlcappid": "3643880"
         },
         "branches": {
             "public": {
