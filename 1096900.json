@@ -4,8 +4,8 @@
     "name": "RPG Maker MZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27992876",
-    "update_time": "2025-03-17 20:05:26",
+    "change_number": "28284704",
+    "update_time": "2025-04-03 16:38:31",
     "depot": {
         "workshopdepot": "1096900",
         "hasdepotsindlc": "1",
@@ -958,6 +958,11 @@
                 }
             },
             "decryptionkey": "5233d31f92e8b2f91d5a48cd1d506ba7e35da02ecf3d8d77ef9b0a9344144758"
+        },
+        "1350871": {
+            "config": {
+                "language": "polish"
+            }
         },
         "branches": {
             "public": {
