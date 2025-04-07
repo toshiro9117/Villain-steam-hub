@@ -4,8 +4,8 @@
     "name": "Conan Exiles",
     "schinese_name": "流放者柯南",
     "isfreeapp": "0",
-    "change_number": "28003842",
-    "update_time": "2025-03-18 07:53:46",
+    "change_number": "28336639",
+    "update_time": "2025-04-07 07:06:45",
     "depot": {
         "depotdeltapatches": "1",
         "workshopdepot": "440900",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4632005977228240543",
-                    "size": "113255271742",
-                    "download": "70143586288"
+                    "gid": "2507971549942679073",
+                    "size": "115902848791",
+                    "download": "71922912752"
                 }
             },
             "decryptionkey": "57ff2e2d0f7c2740c0c36426359060ef90b3367394dae24b861efff0752010fd"
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8191671765611074144",
-                    "size": "122254985",
-                    "download": "40630304"
+                    "gid": "7128027383239567406",
+                    "size": "122354825",
+                    "download": "40657808"
                 }
             },
             "decryptionkey": "c4039510426aa98899efbe92e3777309401d95e2b341f6605db10afee7e2f7a9"
@@ -86,8 +86,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17586195",
-                "timeupdated": "1741079189"
+                "buildid": "17669764",
+                "timeupdated": "1742907598"
             }
         },
         "privatebranches": "1",
