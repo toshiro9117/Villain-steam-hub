@@ -4,8 +4,8 @@
     "name": "巴哈姆特2-龍之新娘(Bahamut2-dragon's bride)",
     "schinese_name": "巴哈姆特2-龙之新娘",
     "isfreeapp": "0",
-    "change_number": "27994674",
-    "update_time": "2025-03-17 21:42:46",
+    "change_number": "28306099",
+    "update_time": "2025-04-04 18:07:58",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
@@ -97,12 +97,12 @@
                     "download": "805659280"
                 },
                 "alphatest": {
-                    "gid": "7505843826821806136",
-                    "size": "1245444907",
-                    "download": "805659280"
+                    "gid": "7606102061932786188",
+                    "size": "1245444740",
+                    "download": "805659264"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9d82a5f08fb3c9bdb47a698b6c29891392448bab20be52bf72e14cc7c4f07115"
         },
         "1673196": {
             "config": {
@@ -140,7 +140,7 @@
                     "download": "688768544"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "27e45281de3cc74261cd1df99f16c185d13a6504174b9faeb110efd1e8d6af6e"
         },
         "1673198": {
             "config": {
@@ -167,9 +167,9 @@
                 "timeupdated": "1742218962"
             },
             "alphatest": {
-                "buildid": "17751962",
+                "buildid": "17983004",
                 "description": "Steam Deck Test Branch",
-                "timeupdated": "1742217642"
+                "timeupdated": "1743761274"
             }
         }
     }
