@@ -4,8 +4,8 @@
     "name": "SCP: Secret Laboratory Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28011507",
-    "update_time": "2025-03-18 18:51:37",
+    "change_number": "28345870",
+    "update_time": "2025-04-07 20:52:20",
     "depot": {
         "1004": {
             "config": {
@@ -83,9 +83,9 @@
                     "download": "328187552"
                 },
                 "labapi-beta": {
-                    "gid": "1429960657914648293",
-                    "size": "706501932",
-                    "download": "328179744"
+                    "gid": "8314963197265792319",
+                    "size": "706596510",
+                    "download": "328191328"
                 },
                 "pluginapi-beta": {
                     "gid": "4496340679897500550",
@@ -93,9 +93,9 @@
                     "download": "322662320"
                 },
                 "early-server-build": {
-                    "gid": "2700964584772285872",
-                    "size": "706339539",
-                    "download": "328187552"
+                    "gid": "2235228911368637324",
+                    "size": "706176070",
+                    "download": "328120848"
                 },
                 "experimental": {
                     "gid": "6653509882635869815",
@@ -117,9 +117,9 @@
                     "download": "151333872"
                 },
                 "labapi-beta": {
-                    "gid": "2151204859911701670",
-                    "size": "509008727",
-                    "download": "151323888"
+                    "gid": "6147685802517243229",
+                    "size": "509103289",
+                    "download": "151349168"
                 },
                 "pluginapi-beta": {
                     "gid": "2669158276392828339",
@@ -127,9 +127,9 @@
                     "download": "149238864"
                 },
                 "early-server-build": {
-                    "gid": "388641503046878417",
-                    "size": "508846342",
-                    "download": "151333872"
+                    "gid": "1554471492275346117",
+                    "size": "508682857",
+                    "download": "151258592"
                 },
                 "experimental": {
                     "gid": "3246599415988350471",
@@ -137,7 +137,7 @@
                     "download": "150046512"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5c21d5386b3b032c2fc0366220de297253db782d4dbcb236fd48db3ec7dfe61b"
         },
         "branches": {
             "public": {
@@ -145,9 +145,9 @@
                 "timeupdated": "1737057334"
             },
             "labapi-beta": {
-                "buildid": "17299862",
+                "buildid": "17988540",
                 "description": "Early testing for the LabAPI modding framework.",
-                "timeupdated": "1739214350"
+                "timeupdated": "1743805714"
             },
             "pluginapi-beta": {
                 "buildid": "12081119",
@@ -155,9 +155,9 @@
                 "timeupdated": "1693593482"
             },
             "early-server-build": {
-                "buildid": "17005897",
+                "buildid": "17770058",
                 "description": "Access to server builds before clients release",
-                "timeupdated": "1736895601"
+                "timeupdated": "1742583687"
             },
             "experimental": {
                 "buildid": "16863304",
