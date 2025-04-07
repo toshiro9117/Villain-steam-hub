@@ -4,8 +4,8 @@
     "name": "UNDERWARD",
     "schinese_name": "UNDERWARD: 运送实验怪物的人",
     "isfreeapp": "0",
-    "change_number": "27969128",
-    "update_time": "2025-03-15 12:01:01",
+    "change_number": "28338034",
+    "update_time": "2025-04-07 09:58:49",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "423705722471941698",
-                    "size": "7147938375",
-                    "download": "6558430352"
+                    "gid": "4485823326134077419",
+                    "size": "7148514713",
+                    "download": "6559132640"
                 }
             },
             "decryptionkey": "8cbe99cf4196809afbd529cb0abf66e2898f3e6c4693ce21949d9fd01c7547e4"
         },
         "branches": {
             "public": {
-                "buildid": "17720329",
-                "timeupdated": "1741931441"
+                "buildid": "17896890",
+                "timeupdated": "1743490477"
             }
         },
         "privatebranches": "1"
