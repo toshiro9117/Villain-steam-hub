@@ -4,8 +4,8 @@
     "name": "EA SPORTS™ FIFA 21 ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26904557",
-    "update_time": "2025-01-08 16:15:24",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:43",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,latam",
         "228984": {
@@ -44,9 +44,6 @@
             "sharedinstall": "1"
         },
         "1313861": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "735211253194835338",
@@ -328,6 +325,17 @@
                 }
             },
             "decryptionkey": "cc9518550ca2467650177949e714e993d5c5140a39f1bbb0fb46ff6e5c81e19b"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
