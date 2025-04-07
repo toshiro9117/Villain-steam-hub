@@ -4,8 +4,8 @@
     "name": "Ostranauts",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27840320",
-    "update_time": "2025-03-08 01:28:04",
+    "change_number": "28277324",
+    "update_time": "2025-04-03 05:54:50",
     "depot": {
         "hasdepotsindlc": "1",
         "1022981": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5864828031556429240",
-                    "size": "1114987700",
-                    "download": "594769472"
+                    "gid": "2740532038598150909",
+                    "size": "1134999448",
+                    "download": "616331648"
                 },
                 "legacy_08": {
                     "gid": "5612901336894896219",
@@ -50,12 +50,12 @@
                     "download": "376196304"
                 },
                 "public_test": {
-                    "gid": "5864828031556429240",
-                    "size": "1114987700",
-                    "download": "594769472"
+                    "gid": "2581524208243451936",
+                    "size": "1136162148",
+                    "download": "616634400"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "23cc5af30ebc1c8e4c2abf3e5b4114dbf78fffbb24855fa3ac13ed24a116c3ab"
         },
         "1022982": {
             "config": {
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4697629821450743975",
-                    "size": "1120145588",
-                    "download": "596130192"
+                    "gid": "8257013066939841558",
+                    "size": "1140157336",
+                    "download": "617693056"
                 },
                 "legacy_09": {
                     "gid": "8678957602337891004",
@@ -94,17 +94,17 @@
                     "download": "377432992"
                 },
                 "public_test": {
-                    "gid": "4697629821450743975",
-                    "size": "1120145588",
-                    "download": "596130192"
+                    "gid": "1727368910722226514",
+                    "size": "1141320036",
+                    "download": "618002080"
                 }
             },
             "decryptionkey": "076062f175ac5ad3eb3c620073f57acb90bb47aa2b176446df99b9eca4ea54ef"
         },
         "branches": {
             "public": {
-                "buildid": "17628055",
-                "timeupdated": "1741368474"
+                "buildid": "17889198",
+                "timeupdated": "1743111186"
             },
             "legacy_08": {
                 "buildid": "8509981",
@@ -137,9 +137,9 @@
                 "timeupdated": "1723666219"
             },
             "public_test": {
-                "buildid": "17628055",
+                "buildid": "17961113",
                 "description": "Public beta/testing",
-                "timeupdated": "1741308242"
+                "timeupdated": "1743630874"
             }
         },
         "privatebranches": "1"
