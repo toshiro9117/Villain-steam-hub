@@ -4,15 +4,15 @@
     "name": "JR EAST Train Simulator: Takasaki Line (Ueno to Takasaki) E233-3000 series",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008354",
-    "update_time": "2025-03-18 15:22:20",
+    "change_number": "28125314",
+    "update_time": "2025-03-25 16:30:41",
     "depot": {
         "2844541": {
             "manifests": {
                 "public": {
-                    "gid": "2252949373737623480",
-                    "size": "643985216",
-                    "download": "473015472"
+                    "gid": "8945582749231191767",
+                    "size": "644008976",
+                    "download": "473039920"
                 }
             },
             "dlcappid": "2844540",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17525857",
-                "timeupdated": "1740646524"
+                "buildid": "17761886",
+                "timeupdated": "1742891433"
             }
         },
         "privatebranches": "1"
