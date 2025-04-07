@@ -4,8 +4,8 @@
     "name": "Project Arrhythmia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27942654",
-    "update_time": "2025-03-14 04:38:24",
+    "change_number": "28234768",
+    "update_time": "2025-04-01 03:25:53",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "440310",
@@ -33,11 +33,6 @@
                     "gid": "6301140160103406095",
                     "size": "191177386",
                     "download": "91220512"
-                },
-                "legacy": {
-                    "gid": "6301140160103406095",
-                    "size": "191177386",
-                    "download": "91220512"
                 }
             },
             "decryptionkey": ""
@@ -55,14 +50,9 @@
                     "download": "465682064"
                 },
                 "alpha": {
-                    "gid": "8218160622303805467",
-                    "size": "854280621",
-                    "download": "465870800"
-                },
-                "legacy": {
-                    "gid": "3847052676031552747",
-                    "size": "218783235",
-                    "download": "109563776"
+                    "gid": "5155641040877184331",
+                    "size": "885498984",
+                    "download": "492525536"
                 }
             },
             "decryptionkey": "751393c24525029f71ff78d38785beb04b3206384961c2cb01a0223eb9519f43"
@@ -80,14 +70,9 @@
                 "timeupdated": "1737141643"
             },
             "alpha": {
-                "buildid": "17714828",
+                "buildid": "17920330",
                 "description": "Preview new features, patches before they hit the default branch!",
-                "timeupdated": "1741898210"
-            },
-            "legacy": {
-                "buildid": "4933708",
-                "description": "Very old version of the game for those that crave it.",
-                "timeupdated": "1638566233"
+                "timeupdated": "1743395806"
             }
         },
         "privatebranches": "1",
