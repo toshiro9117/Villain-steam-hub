@@ -4,8 +4,8 @@
     "name": "Dust to the End",
     "schinese_name": "尘末(Dust to the End)",
     "isfreeapp": "0",
-    "change_number": "26923423",
-    "update_time": "2025-01-09 20:15:56",
+    "change_number": "28145262",
+    "update_time": "2025-03-26 16:15:45",
     "depot": {
         "1074071": {
             "manifests": {
@@ -27,6 +27,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "e06297c1c1acd7ed61c5274a52f9ac6246e1bd8ad1a0e7ce5b09d45e08c17915"
+        "workshopdepotdecryptionkey": ""
     }
 }
