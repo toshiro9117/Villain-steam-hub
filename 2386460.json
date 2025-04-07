@@ -4,8 +4,8 @@
     "name": "Tree It",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27851401",
-    "update_time": "2025-03-08 22:41:15",
+    "change_number": "28181100",
+    "update_time": "2025-03-28 08:15:55",
     "depot": {
         "228982": {
             "config": {
@@ -36,14 +36,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3374170178974095738",
+                    "size": "1005108013",
+                    "download": "826913648"
+                },
+                "dec-24": {
                     "gid": "3351425870040779287",
                     "size": "1013920387",
                     "download": "830386320"
-                },
-                "beta": {
-                    "gid": "4188760247821466142",
-                    "size": "1005351114",
-                    "download": "827042384"
                 },
                 "sep-24": {
                     "gid": "5514734729797297814",
@@ -70,13 +70,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16876024",
-                "timeupdated": "1735640351"
+                "buildid": "17825321",
+                "timeupdated": "1742742744"
             },
-            "beta": {
-                "buildid": "17647112",
-                "description": "For testing",
-                "timeupdated": "1741444871"
+            "dec-24": {
+                "buildid": "16876024",
+                "description": " Tree It dec 24, 2024 1.362",
+                "timeupdated": "1742742796"
             },
             "sep-24": {
                 "buildid": "15701055",
