@@ -4,23 +4,23 @@
     "name": "Old Market Simulator",
     "schinese_name": "菜市场模拟器",
     "isfreeapp": "0",
-    "change_number": "27954001",
-    "update_time": "2025-03-14 18:37:27",
+    "change_number": "28293596",
+    "update_time": "2025-04-04 01:06:41",
     "depot": {
         "2878421": {
             "manifests": {
                 "public": {
-                    "gid": "5420823121648683597",
-                    "size": "1566347369",
-                    "download": "483949712"
+                    "gid": "3455645822864169861",
+                    "size": "1566347449",
+                    "download": "483949808"
                 }
             },
             "decryptionkey": "4576f91c200141b0609fc6250aec2ddf4604ec5031f650f201d4b8114744ef0b"
         },
         "branches": {
             "public": {
-                "buildid": "17505971",
-                "timeupdated": "1740520118"
+                "buildid": "17899312",
+                "timeupdated": "1743172654"
             }
         },
         "privatebranches": "1"
