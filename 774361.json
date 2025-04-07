@@ -4,16 +4,15 @@
     "name": "Blasphemous",
     "schinese_name": "神之亵渎",
     "isfreeapp": "0",
-    "change_number": "27748772",
-    "update_time": "2025-03-03 13:22:39",
+    "change_number": "28346877",
+    "update_time": "2025-04-07 21:55:41",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
         "hasdepotsindlc": "0",
         "774362": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -27,8 +26,7 @@
         "774363": {
             "config": {
                 "oslist": "macos",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -42,8 +40,7 @@
         "774364": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -57,8 +54,7 @@
         "774365": {
             "dlcappid": "1143853",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "manifests": {
                 "public": {
@@ -72,8 +68,7 @@
         "774366": {
             "dlcappid": "1143853",
             "config": {
-                "oslist": "macos",
-                "language": ""
+                "oslist": "macos"
             },
             "manifests": {
                 "public": {
@@ -87,8 +82,7 @@
         "774367": {
             "dlcappid": "1143853",
             "config": {
-                "oslist": "linux",
-                "language": ""
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
@@ -103,8 +97,7 @@
             "dlcappid": "1146990",
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -118,8 +111,7 @@
         "774369": {
             "dlcappid": "1146990",
             "config": {
-                "oslist": "macos",
-                "language": ""
+                "oslist": "macos"
             },
             "manifests": {
                 "public": {
@@ -133,8 +125,7 @@
         "774370": {
             "dlcappid": "1146990",
             "config": {
-                "oslist": "linux",
-                "language": ""
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
@@ -147,9 +138,6 @@
         },
         "1143850": {
             "dlcappid": "1143850",
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "3317964550509557174",
@@ -161,9 +149,6 @@
         },
         "1143851": {
             "dlcappid": "1143851",
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6736759184537561598",
@@ -173,10 +158,20 @@
             },
             "decryptionkey": "5069e7a80c60cb1e87e237739720a7dee49178f81b14c5290401aed931c8b9e1"
         },
+        "1143854": {
+            "manifests": {
+                "public": {
+                    "gid": "7538235104894025746",
+                    "size": "5818257",
+                    "download": "5884384"
+                }
+            },
+            "decryptionkey": "7d3b229e73e5756b4152675ce1fd12d0318ca3f4f74269d6b93fa41f1cb6a6c3"
+        },
         "branches": {
             "public": {
-                "buildid": "8733427",
-                "timeupdated": "1652439868"
+                "buildid": "18012205",
+                "timeupdated": "1744034134"
             }
         },
         "privatebranches": "1"
