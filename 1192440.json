@@ -4,8 +4,8 @@
     "name": "The Monster Breeder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27971838",
-    "update_time": "2025-03-15 19:33:03",
+    "change_number": "28258648",
+    "update_time": "2025-04-02 08:24:31",
     "depot": {
         "baselanguages": "english",
         "1192441": {
@@ -26,9 +26,9 @@
         "1192442": {
             "manifests": {
                 "full-release-test": {
-                    "gid": "972984055269620466",
-                    "size": "17870779610",
-                    "download": "6435112688"
+                    "gid": "7047766454260570576",
+                    "size": "17876542982",
+                    "download": "6443745648"
                 }
             },
             "decryptionkey": ""
@@ -39,9 +39,9 @@
                 "timeupdated": "1684974901"
             },
             "full-release-test": {
-                "buildid": "17736653",
+                "buildid": "17947231",
                 "description": "The Monster Breeder full release test branch",
-                "timeupdated": "1742038378"
+                "timeupdated": "1743553466"
             }
         }
     }
