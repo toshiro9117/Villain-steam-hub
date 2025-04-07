@@ -4,8 +4,8 @@
     "name": "CYBRID",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27489726",
-    "update_time": "2025-02-15 09:14:19",
+    "change_number": "28344509",
+    "update_time": "2025-04-07 19:23:50",
     "depot": {
         "228988": {
             "config": {
@@ -61,6 +61,7 @@
                 "description": "testnewliv",
                 "timeupdated": "1699438958"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
