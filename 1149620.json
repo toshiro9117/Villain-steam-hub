@@ -4,8 +4,8 @@
     "name": "Gas Station Simulator",
     "schinese_name": "加油站大亨",
     "isfreeapp": "0",
-    "change_number": "28011774",
-    "update_time": "2025-03-18 19:08:57",
+    "change_number": "28342324",
+    "update_time": "2025-04-07 17:04:32",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,turkish",
         "hasdepotsindlc": "1",
@@ -256,7 +256,7 @@
                     "download": "277975760"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "505eac0ad2793193b10c693e3121593f075636e9bfb9cae6314d1298a1b013ff"
         },
         "3014631": {
             "dlcappid": "3014630",
@@ -271,6 +271,19 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "3543920": {
+            "dlcappid": "3543920",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "3543921": {
+            "dlcappid": "3543920",
+            "config": {
+                "oslist": "macos"
+            }
         },
         "branches": {
             "public": {
