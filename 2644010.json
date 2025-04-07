@@ -4,11 +4,11 @@
     "name": "Nebel Geisterjäger ~ The First Lamb",
     "schinese_name": "Nebel Geisterjäger ~ 零号羔羊",
     "isfreeapp": "0",
-    "change_number": "27790280",
-    "update_time": "2025-03-05 16:01:28",
+    "change_number": "28164998",
+    "update_time": "2025-03-27 15:37:25",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
-        "hasdepotsindlc": "1",
+        "hasdepotsindlc": "0",
         "2644011": {
             "config": {
                 "oslist": "windows"
@@ -61,10 +61,21 @@
             },
             "decryptionkey": "204b2794a923da83673e84faefa06f2bef277959d6436994dd155e2b57898df8"
         },
+        "3610850": {
+            "dlcappid": "3610850",
+            "manifests": {
+                "public": {
+                    "gid": "2834121622855439076",
+                    "size": "1729911353",
+                    "download": "1699452368"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "14920118",
-                "timeupdated": "1720016378"
+                "buildid": "17879041",
+                "timeupdated": "1743061042"
             }
         }
     }
