@@ -4,8 +4,8 @@
     "name": "Ostalgie: The Berlin Wall",
     "schinese_name": "东德情结：柏林墙",
     "isfreeapp": "0",
-    "change_number": "27989724",
-    "update_time": "2025-03-17 16:35:38",
+    "change_number": "28323981",
+    "update_time": "2025-04-05 22:02:37",
     "depot": {
         "228985": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8506526001552332670",
-                    "size": "3354448395",
-                    "download": "1304741680"
+                    "gid": "372883568586134586",
+                    "size": "3355254915",
+                    "download": "1305413408"
                 }
             },
             "decryptionkey": "eba58582ab0dbc0d16691378ef2a05090b6b8568d9cd652ee7cf2048714e830a"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8106912266303489482",
-                    "size": "1391908088",
-                    "download": "1037517248"
+                    "gid": "3688831900857638761",
+                    "size": "1392714608",
+                    "download": "1037600224"
                 }
             },
             "decryptionkey": ""
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8608461557095702164",
-                    "size": "1396523017",
-                    "download": "1038902096"
+                    "gid": "6989480572164727980",
+                    "size": "1397329537",
+                    "download": "1038983744"
                 }
             },
             "decryptionkey": ""
@@ -75,9 +75,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2683405907647323376",
-                    "size": "1545267897",
-                    "download": "1103585552"
+                    "gid": "8868348845036618276",
+                    "size": "1546084145",
+                    "download": "1103668608"
                 }
             },
             "decryptionkey": ""
@@ -128,8 +128,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17748950",
-                "timeupdated": "1742200532"
+                "buildid": "17996108",
+                "timeupdated": "1743861753"
             }
         }
     }
