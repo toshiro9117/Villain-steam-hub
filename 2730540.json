@@ -4,8 +4,8 @@
     "name": "Card-en-Ciel",
     "schinese_name": "Card-en-Ciel 天穹卡牌录",
     "isfreeapp": "0",
-    "change_number": "27530562",
-    "update_time": "2025-02-18 16:50:21",
+    "change_number": "28285129",
+    "update_time": "2025-04-03 17:04:48",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "hasdepotsindlc": "1",
@@ -26,17 +26,17 @@
         "2730541": {
             "manifests": {
                 "public": {
-                    "gid": "766946187179049913",
-                    "size": "5180792607",
-                    "download": "5158008096"
+                    "gid": "404339922970628310",
+                    "size": "5397215883",
+                    "download": "5376821952"
                 }
             },
             "decryptionkey": "bb15eb56e2ff9e3d98cd71816938db84ca3be50a6482bbfdf6c0748d91d2c06e"
         },
         "branches": {
             "public": {
-                "buildid": "17088878",
-                "timeupdated": "1738224021"
+                "buildid": "17965554",
+                "timeupdated": "1743671083"
             }
         },
         "privatebranches": "1"
