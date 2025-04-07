@@ -4,8 +4,8 @@
     "name": "The Riftbreaker",
     "schinese_name": "The Riftbreaker 银河破裂者",
     "isfreeapp": "0",
-    "change_number": "28012841",
-    "update_time": "2025-03-18 20:21:15",
+    "change_number": "28304213",
+    "update_time": "2025-04-04 16:11:07",
     "depot": {
         "workshopdepot": "780310",
         "228989": {
@@ -25,9 +25,9 @@
         "780311": {
             "manifests": {
                 "public": {
-                    "gid": "4724141416777116110",
-                    "size": "10511541675",
-                    "download": "9980118128"
+                    "gid": "4851228726124059536",
+                    "size": "10521290344",
+                    "download": "9989904960"
                 }
             },
             "decryptionkey": "623a98fe4783fbd1075071352beb0f614db19e74f7b053d39b8114cec14a62ec"
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17574852",
-                "timeupdated": "1741013379"
+                "buildid": "17794406",
+                "timeupdated": "1742482510"
             }
         },
         "privatebranches": "1",
