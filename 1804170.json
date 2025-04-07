@@ -4,8 +4,8 @@
     "name": "Mimicry",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27538970",
-    "update_time": "2025-02-19 01:22:46",
+    "change_number": "28297860",
+    "update_time": "2025-04-04 06:12:48",
     "depot": {
         "1804171": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "480000863060022185",
-                    "size": "785469104",
-                    "download": "574437824"
+                    "gid": "6453545168904243063",
+                    "size": "786585154",
+                    "download": "575116496"
                 }
             },
             "decryptionkey": "32ec26fa58bf833319faa48806099cfff9c9e5606aef188ed57fb068abdc0449"
         },
         "branches": {
             "public": {
-                "buildid": "17406828",
-                "timeupdated": "1739899362"
+                "buildid": "17951572",
+                "timeupdated": "1743718363"
             }
         }
     }
