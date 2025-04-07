@@ -4,8 +4,8 @@
     "name": "Baldur's Gate 3",
     "schinese_name": "博德之门3",
     "isfreeapp": "0",
-    "change_number": "28010547",
-    "update_time": "2025-03-18 17:49:22",
+    "change_number": "28287498",
+    "update_time": "2025-04-03 19:30:29",
     "depot": {
         "baselanguages": "",
         "228989": {
@@ -24,7 +24,7 @@
         },
         "1086941": {
             "config": {
-                "oslist": "windows"
+                "oslist": "windows,linux"
             },
             "manifests": {
                 "public": {
@@ -43,7 +43,7 @@
         "1086942": {
             "config": {
                 "language": "english",
-                "oslist": "windows"
+                "oslist": "windows,linux"
             },
             "manifests": {
                 "public": {
@@ -702,6 +702,20 @@
                 }
             },
             "decryptionkey": "21915761f183b3b468040d6cc77d6c1e08827d1e3db7aa89c0cf72c6a77a1472"
+        },
+        "2330359": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {}
+        },
+        "2378501": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
