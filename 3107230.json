@@ -4,8 +4,8 @@
     "name": "Pantheon: Rise of the Fallen",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27974110",
-    "update_time": "2025-03-16 00:58:42",
+    "change_number": "28313135",
+    "update_time": "2025-04-05 00:55:04",
     "depot": {
         "3107231": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2631334554738007128",
-                    "size": "7265074137",
-                    "download": "6238095136"
+                    "gid": "2810144337314445283",
+                    "size": "7097118334",
+                    "download": "6113205344"
                 }
             },
             "decryptionkey": "e01badbf7c87775d1e879fd200eefee17fbbf84a35fdfb298424804440496a99"
         },
         "branches": {
             "public": {
-                "buildid": "17609498",
-                "timeupdated": "1741205980"
+                "buildid": "17985918",
+                "timeupdated": "1743785700"
             }
         }
     }
