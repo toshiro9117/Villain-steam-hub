@@ -4,8 +4,8 @@
     "name": "Anime City",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27454862",
-    "update_time": "2025-02-13 16:14:33",
+    "change_number": "28143271",
+    "update_time": "2025-03-26 13:27:41",
     "depot": {
         "2215411": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4168955691983404721",
-                    "size": "2545272538",
-                    "download": "1434539392"
+                    "gid": "2223875476265257555",
+                    "size": "2591415006",
+                    "download": "1455148112"
                 }
             },
             "decryptionkey": "b090727fcb6bb092c00b7bc369fb46591475f68e015203840045f0838429c1e8"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4347935372518513571",
-                    "size": "2579242437",
-                    "download": "1446199984"
+                    "gid": "2220921826363616957",
+                    "size": "2626203127",
+                    "download": "1467588160"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17440142",
-                "timeupdated": "1740060025"
+                "buildid": "17831409",
+                "timeupdated": "1742792671"
             }
         }
     }
