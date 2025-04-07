@@ -4,8 +4,8 @@
     "name": "Tiny Glade",
     "schinese_name": "林间小世界",
     "isfreeapp": "0",
-    "change_number": "27955237",
-    "update_time": "2025-03-14 19:49:33",
+    "change_number": "28318689",
+    "update_time": "2025-04-05 08:10:30",
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5283902136686400523",
-                    "size": "2475071866",
-                    "download": "1330607888"
+                    "gid": "2693167547300432593",
+                    "size": "2475009914",
+                    "download": "1330588656"
                 },
                 "beta-1_13_0": {
                     "gid": "8842829929210206983",
@@ -37,9 +37,9 @@
                     "download": "1340232224"
                 },
                 "testing": {
-                    "gid": "5283902136686400523",
-                    "size": "2475071866",
-                    "download": "1330607888"
+                    "gid": "2693167547300432593",
+                    "size": "2475009914",
+                    "download": "1330588656"
                 }
             },
             "decryptionkey": "a64cc2160b07e8fd86f1a2f001987b46e6760e59b3e0ac07915743a4eb695bac"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8821215773037375640",
-                    "size": "2562492532",
-                    "download": "1335273040"
+                    "gid": "3114081683394066473",
+                    "size": "2562496652",
+                    "download": "1335272640"
                 },
                 "beta-1_13_0": {
                     "gid": "5893050644304887348",
@@ -66,17 +66,17 @@
                     "download": "1344904880"
                 },
                 "testing": {
-                    "gid": "8821215773037375640",
-                    "size": "2562492532",
-                    "download": "1335273040"
+                    "gid": "3114081683394066473",
+                    "size": "2562496652",
+                    "download": "1335272640"
                 }
             },
             "decryptionkey": "ef668181df894c351bdd06264513360aebd32539049befc1f36deae429957b8c"
         },
         "branches": {
             "public": {
-                "buildid": "17666280",
-                "timeupdated": "1741635927"
+                "buildid": "17954093",
+                "timeupdated": "1743596316"
             },
             "beta-1_13_0": {
                 "buildid": "17646389",
@@ -89,9 +89,9 @@
                 "timeupdated": "1741446586"
             },
             "testing": {
-                "buildid": "17666280",
+                "buildid": "17954093",
                 "description": "Pre-release testing (unstable)",
-                "timeupdated": "1741633402"
+                "timeupdated": "1743595062"
             }
         },
         "privatebranches": "1"
