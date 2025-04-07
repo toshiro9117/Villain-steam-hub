@@ -4,8 +4,8 @@
     "name": "FAIRY TAIL 2",
     "schinese_name": "妖精的尾巴2",
     "isfreeapp": "0",
-    "change_number": "27972986",
-    "update_time": "2025-03-15 22:26:23",
+    "change_number": "28337459",
+    "update_time": "2025-04-07 08:50:20",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "3002851": {
             "manifests": {
                 "public": {
-                    "gid": "4884414385296250657",
-                    "size": "15650483966",
-                    "download": "12210775248"
+                    "gid": "8335800424820372378",
+                    "size": "15650483893",
+                    "download": "12210775760"
                 }
             },
             "decryptionkey": "e948f2d613815929e41d2ea8914218fc1071df961d38a2f8e0336060c00fdb6c"
@@ -27,8 +27,8 @@
         "baselanguages": "english,french,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17525057",
-                "timeupdated": "1741827152"
+                "buildid": "17805473",
+                "timeupdated": "1743987016"
             }
         },
         "privatebranches": "1"
