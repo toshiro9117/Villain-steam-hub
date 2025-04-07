@@ -4,8 +4,8 @@
     "name": "学生时代",
     "schinese_name": "学生时代",
     "isfreeapp": "0",
-    "change_number": "28009556",
-    "update_time": "2025-03-18 16:56:15",
+    "change_number": "28183083",
+    "update_time": "2025-03-28 11:09:59",
     "depot": {
         "baselanguages": "schinese",
         "1991041": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6856210636527179227",
-                    "size": "2415587887",
-                    "download": "1967127280"
+                    "gid": "9109121603292066375",
+                    "size": "2569927823",
+                    "download": "2097150560"
                 },
                 "local": {
                     "gid": "963990996678586610",
@@ -24,9 +24,9 @@
                     "download": "186771040"
                 },
                 "test": {
-                    "gid": "5234957014174795144",
-                    "size": "2429767932",
-                    "download": "1978134576"
+                    "gid": "9109121603292066375",
+                    "size": "2569927823",
+                    "download": "2097150560"
                 }
             },
             "decryptionkey": "db44c404057a2295a7c0d1dcfcba71f1a9486672998b2012d88d9d1a6edc72b9"
@@ -35,8 +35,8 @@
         "workshopdepot": "1991040",
         "branches": {
             "public": {
-                "buildid": "17545874",
-                "timeupdated": "1741948787"
+                "buildid": "17892207",
+                "timeupdated": "1743131383"
             },
             "local": {
                 "buildid": "9964151",
@@ -45,12 +45,12 @@
                 "timeupdated": "1668737126"
             },
             "test": {
-                "buildid": "17725464",
+                "buildid": "17892207",
                 "description": "测试版",
-                "timeupdated": "1741957542"
+                "timeupdated": "1743131393"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "96c8b9fd0203b756007339afcf9049714caa1a3a9af688f949b066a8655f62e3"
     }
 }
