@@ -4,8 +4,8 @@
     "name": "Reus 2",
     "schinese_name": "造物主 2",
     "isfreeapp": "0",
-    "change_number": "27970920",
-    "update_time": "2025-03-15 16:58:20",
+    "change_number": "28231350",
+    "update_time": "2025-03-31 23:43:30",
     "depot": {
         "baselanguages": "english",
         "1875061": {
@@ -15,14 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7441434525595195972",
-                    "size": "3135046625",
-                    "download": "664383936"
-                },
-                "experimental": {
-                    "gid": "3032736548429683886",
-                    "size": "3143762285",
-                    "download": "666165920"
+                    "gid": "6538332986719873821",
+                    "size": "3143810169",
+                    "download": "666205072"
                 },
                 "v1.5": {
                     "gid": "5595917679743044397",
@@ -39,14 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4103718429535270541",
-                    "size": "3161650478",
-                    "download": "672580432"
-                },
-                "experimental": {
-                    "gid": "7122762995553935335",
-                    "size": "3170400104",
-                    "download": "674357424"
+                    "gid": "5473008796187222016",
+                    "size": "3170415840",
+                    "download": "674398432"
                 },
                 "v1.5": {
                     "gid": "8131679422765366420",
@@ -64,11 +54,6 @@
                     "size": "1736868590",
                     "download": "1554107456"
                 },
-                "experimental": {
-                    "gid": "3896516526556556967",
-                    "size": "1736868590",
-                    "download": "1554107456"
-                },
                 "v1.5": {
                     "gid": "3896516526556556967",
                     "size": "1736868590",
@@ -79,13 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17692410",
-                "timeupdated": "1741792679"
-            },
-            "experimental": {
-                "buildid": "17733235",
-                "description": "Unstable preview build for testing out upcoming updates.",
-                "timeupdated": "1742029095"
+                "buildid": "17794622",
+                "timeupdated": "1742477062"
             },
             "v1.5": {
                 "buildid": "17094140",
