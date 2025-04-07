@@ -4,8 +4,8 @@
     "name": "TheoTown",
     "schinese_name": "西奥小镇",
     "isfreeapp": "0",
-    "change_number": "27990928",
-    "update_time": "2025-03-17 17:57:55",
+    "change_number": "28342411",
+    "update_time": "2025-04-07 17:09:23",
     "depot": {
         "baselanguages": "english",
         "1084021": {
@@ -19,9 +19,9 @@
                     "download": "145391520"
                 },
                 "beta": {
-                    "gid": "1238355067875322078",
-                    "size": "225155166",
-                    "download": "145391520"
+                    "gid": "5942443585832632357",
+                    "size": "225381866",
+                    "download": "145617856"
                 }
             },
             "decryptionkey": "53cf5369fb7f8fcacfe7efc6a6a640c7eeaddaa4cbcc283666eab8fbb1e0bd95"
@@ -37,9 +37,9 @@
                     "download": "149464784"
                 },
                 "beta": {
-                    "gid": "4993289965996889929",
-                    "size": "251021640",
-                    "download": "149464784"
+                    "gid": "4373766306240696557",
+                    "size": "251248340",
+                    "download": "149691072"
                 }
             },
             "decryptionkey": "763370776404b2a8d74f827a2c6d2d78c3c78f09f1c84716c6132cea41ec391b"
@@ -55,9 +55,9 @@
                     "download": "119876048"
                 },
                 "beta": {
-                    "gid": "6644371398849567115",
-                    "size": "121624319",
-                    "download": "119876048"
+                    "gid": "8234540821051749299",
+                    "size": "121851019",
+                    "download": "120102080"
                 }
             },
             "decryptionkey": "cc1ec45db95ff8755bdce02c1ecc91357a849f489c8bc19660d0d960cd77bd0a"
@@ -69,9 +69,9 @@
                 "timeupdated": "1742205468"
             },
             "beta": {
-                "buildid": "17725358",
+                "buildid": "18009019",
                 "description": "Branch for testing new features",
-                "timeupdated": "1741956569"
+                "timeupdated": "1744016958"
             }
         },
         "privatebranches": "1"
