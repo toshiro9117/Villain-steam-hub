@@ -4,8 +4,8 @@
     "name": "Dodge Show",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27987969",
-    "update_time": "2025-03-17 13:35:46",
+    "change_number": "28240614",
+    "update_time": "2025-04-01 11:25:12",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2947216308978945015",
-                    "size": "289145354",
-                    "download": "187238688"
+                    "gid": "1820427940215201830",
+                    "size": "295197986",
+                    "download": "191000816"
                 }
             },
             "decryptionkey": "3fdd981cd05b208700be5f5f40c77df32a7b1d254c8f69c6857f4774cfe48f44"
         },
         "branches": {
             "public": {
-                "buildid": "17735973",
-                "timeupdated": "1742029181"
+                "buildid": "17933691",
+                "timeupdated": "1743477907"
             }
         }
     }
