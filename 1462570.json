@@ -4,8 +4,8 @@
     "name": "Lost in Random™",
     "schinese_name": "迷失随机",
     "isfreeapp": "0",
-    "change_number": "27913728",
-    "update_time": "2025-03-12 23:08:13",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:47",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,japanese",
         "228988": {
@@ -102,6 +102,17 @@
                 }
             },
             "decryptionkey": "4daf71b2bc3a0520e515deb9acfc9933a6c5ddbe9f7a808a362b2eadb57653ac"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
