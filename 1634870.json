@@ -4,8 +4,8 @@
     "name": "Open Brush",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27520424",
-    "update_time": "2025-02-18 01:47:20",
+    "change_number": "28325814",
+    "update_time": "2025-04-06 02:15:47",
     "depot": {
         "228985": {
             "config": {
@@ -44,9 +44,9 @@
                     "download": "127620272"
                 },
                 "beta": {
-                    "gid": "3675002771840140832",
+                    "gid": "541660367734740254",
                     "size": "841738300",
-                    "download": "232862192"
+                    "download": "232862112"
                 }
             },
             "decryptionkey": "95056ac1f7768c1b835f3df160a994e48263a083e2cfb07453f2937b6f015b0f"
@@ -62,9 +62,9 @@
                     "download": "233374928"
                 },
                 "beta": {
-                    "gid": "654719081663114556",
-                    "size": "874299207",
-                    "download": "242223760"
+                    "gid": "2284561068417930054",
+                    "size": "874307398",
+                    "download": "242225120"
                 }
             },
             "decryptionkey": ""
@@ -80,9 +80,9 @@
                     "download": "222313840"
                 },
                 "beta": {
-                    "gid": "7592977787249175121",
+                    "gid": "1106271411584068697",
                     "size": "848689825",
-                    "download": "231000048"
+                    "download": "231000064"
                 }
             },
             "decryptionkey": ""
@@ -98,9 +98,9 @@
                 "timeupdated": "1675978906"
             },
             "beta": {
-                "buildid": "17424071",
+                "buildid": "17997261",
                 "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
-                "timeupdated": "1739976290"
+                "timeupdated": "1743876926"
             }
         }
     }
