@@ -4,8 +4,8 @@
     "name": "Space Haven",
     "schinese_name": "太空避风港",
     "isfreeapp": "0",
-    "change_number": "27066367",
-    "update_time": "2025-01-20 04:10:09",
+    "change_number": "28345627",
+    "update_time": "2025-04-07 20:36:44",
     "depot": {
         "228988": {
             "config": {
@@ -57,9 +57,9 @@
                     "download": "223043504"
                 },
                 "unstable_work_in_progress": {
-                    "gid": "630925734085668380",
-                    "size": "254440399",
-                    "download": "225116960"
+                    "gid": "7202733096423907653",
+                    "size": "259889919",
+                    "download": "230612656"
                 }
             },
             "decryptionkey": "753e99e967ee48a9e571f9b8d087bf5c16b888de6b5d0382dfe0d6377da80033"
@@ -107,9 +107,9 @@
                     "download": "222389888"
                 },
                 "unstable_work_in_progress": {
-                    "gid": "5194758807740878783",
-                    "size": "255673397",
-                    "download": "224463344"
+                    "gid": "7139414168886062750",
+                    "size": "261122917",
+                    "download": "229959040"
                 }
             },
             "decryptionkey": "de481d6749d72fd59dfc99a7ea1e9a9fc186a69268d327b5734abdad5d70ec27"
@@ -157,9 +157,9 @@
                     "download": "359092112"
                 },
                 "unstable_work_in_progress": {
-                    "gid": "7604243746361653163",
-                    "size": "515741020",
-                    "download": "361165568"
+                    "gid": "3906848981878494021",
+                    "size": "521190540",
+                    "download": "366661264"
                 }
             },
             "decryptionkey": "ea5660cf4ce78ce15573642c1437a35f7f6644c479fa8b9ad9d8fca51d75b85b"
@@ -199,9 +199,9 @@
                 "timeupdated": "1719481820"
             },
             "unstable_work_in_progress": {
-                "buildid": "16996578",
+                "buildid": "18011302",
                 "description": "Some assets might be missing. Crashes are expected!",
-                "timeupdated": "1736841285"
+                "timeupdated": "1744029399"
             }
         },
         "privatebranches": "1"
