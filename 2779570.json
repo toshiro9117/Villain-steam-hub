@@ -4,8 +4,8 @@
     "name": "Archons",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28009430",
-    "update_time": "2025-03-18 16:46:45",
+    "change_number": "28342225",
+    "update_time": "2025-04-07 16:58:20",
     "depot": {
         "228989": {
             "config": {
@@ -27,18 +27,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "723833375431908470",
-                    "size": "1268096311",
-                    "download": "1079896960"
+                    "gid": "4516375953960549868",
+                    "size": "1268115162",
+                    "download": "1079861984"
                 }
             },
             "decryptionkey": "8841014dc6c7e84abc5540cf428d6541e5356e33b43ceda85af5332e4e1d4be7"
         },
         "branches": {
             "public": {
-                "buildid": "16849742",
-                "timeupdated": "1735140884"
+                "buildid": "17857968",
+                "timeupdated": "1742937604"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
