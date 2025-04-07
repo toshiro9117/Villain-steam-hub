@@ -4,8 +4,8 @@
     "name": "Simulator of Ukraine 1991",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27367974",
-    "update_time": "2025-02-08 01:37:40",
+    "change_number": "28297680",
+    "update_time": "2025-04-04 05:57:53",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1975965062887741729",
-                    "size": "1581621236",
-                    "download": "51857840"
+                    "gid": "4880811092736280144",
+                    "size": "1581621452",
+                    "download": "51857776"
                 }
             },
             "decryptionkey": "e41b7386ee9735c75be0b9d3d55c15001c2d7a1e6bb73a12435d74709d749320"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17283323",
-                "timeupdated": "1738949857"
+                "buildid": "17482698",
+                "timeupdated": "1740397655"
             }
         }
     }
