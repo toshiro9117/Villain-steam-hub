@@ -4,8 +4,8 @@
     "name": "Pocket Bravery",
     "schinese_name": "口袋勇士",
     "isfreeapp": "0",
-    "change_number": "27912524",
-    "update_time": "2025-03-12 22:04:17",
+    "change_number": "28317754",
+    "update_time": "2025-04-05 06:35:16",
     "depot": {
         "1555151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1891035155860130851",
-                    "size": "12483946891",
-                    "download": "5203107952"
+                    "gid": "4245126458635502916",
+                    "size": "25637840656",
+                    "download": "5642994928"
                 }
             },
             "decryptionkey": "37d31394e432fa3ada0d373f6c218f586289479813fae0a0c5f0ba477a899496"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4568045926327062632",
-                    "size": "12485487702",
-                    "download": "5207064608"
+                    "gid": "5717509887926456735",
+                    "size": "12485490566",
+                    "download": "5207066368"
                 }
             },
             "decryptionkey": ""
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "517913230770395857",
-                    "size": "12501241640",
-                    "download": "5198265904"
+                    "gid": "229518295949934941",
+                    "size": "12501245016",
+                    "download": "5198266336"
                 }
             },
             "decryptionkey": ""
@@ -66,7 +66,7 @@
                     "download": "5776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4fff15819b1eabb1a7c6e026625b130a3398919024ccffcf33f711058e3c0b42"
         },
         "3348110": {
             "dlcappid": "3348110",
@@ -77,13 +77,13 @@
                     "download": "3776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "60f734dbe9f4ea6ad3bcc983af452ade387b9b364b8012fa0e08bd526e74f210"
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17284792",
-                "timeupdated": "1738959883"
+                "buildid": "17678120",
+                "timeupdated": "1742815122"
             }
         },
         "privatebranches": "1"
