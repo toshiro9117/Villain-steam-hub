@@ -4,8 +4,8 @@
     "name": "Black The Fall",
     "schinese_name": "黑色：坠落",
     "isfreeapp": "0",
-    "change_number": "27966769",
-    "update_time": "2025-03-15 07:22:14",
+    "change_number": "28150930",
+    "update_time": "2025-03-26 22:15:34",
     "depot": {
         "228986": {
             "config": {
@@ -86,7 +86,7 @@
                 }
             },
             "dlcappid": "654540",
-            "decryptionkey": ""
+            "decryptionkey": "791ac1a1a86f37ffffa6ba24c3d0ce3862b4449936889836e08d3b97586fc6f5"
         },
         "branches": {
             "public": {
