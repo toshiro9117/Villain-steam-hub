@@ -4,15 +4,15 @@
     "name": "Etrian Odyssey HD",
     "schinese_name": "世界树的迷宫 HD REMASTER",
     "isfreeapp": "0",
-    "change_number": "27990798",
-    "update_time": "2025-03-17 17:49:35",
+    "change_number": "28257113",
+    "update_time": "2025-04-02 05:59:47",
     "depot": {
         "1868182": {
             "manifests": {
                 "public": {
-                    "gid": "1183762333350076885",
-                    "size": "1136892497",
-                    "download": "629486096"
+                    "gid": "7981659904489093288",
+                    "size": "1135498321",
+                    "download": "628606592"
                 }
             },
             "decryptionkey": "970d28732ebb844489f167ca395fa07ef3878ccf53e28628975fa17a2f1ab40d"
@@ -31,8 +31,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "11680483",
-                "timeupdated": "1741989742"
+                "buildid": "17748882",
+                "timeupdated": "1743544780"
             }
         },
         "privatebranches": "1"
