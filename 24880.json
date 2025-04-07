@@ -4,8 +4,8 @@
     "name": "The Saboteur",
     "schinese_name": "《破坏者》",
     "isfreeapp": "0",
-    "change_number": "27856420",
-    "update_time": "2025-03-09 13:02:00",
+    "change_number": "28212035",
+    "update_time": "2025-03-30 12:14:55",
     "depot": {
         "228981": {
             "config": {
@@ -111,7 +111,7 @@
                     "download": "599161072"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4b01ec3c9478d96fad66963f082d92b016d3f1ce6250ca5fd49d381be07fc89b"
         },
         "branches": {
             "public": {
