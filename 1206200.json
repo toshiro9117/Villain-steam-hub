@@ -4,8 +4,8 @@
     "name": "Conan Exiles: Isle of Siptah",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28003879",
-    "update_time": "2025-03-18 07:58:16",
+    "change_number": "28336672",
+    "update_time": "2025-04-07 07:10:47",
     "depot": {
         "1206200": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2789732616544293819",
-                    "size": "4373647008",
-                    "download": "3510899264"
+                    "gid": "2653724365428442326",
+                    "size": "4373826588",
+                    "download": "3511252608"
                 }
             },
             "dlcappid": "1206200",
@@ -23,8 +23,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17032843",
-                "timeupdated": "1738241983"
+                "buildid": "17669851",
+                "timeupdated": "1742907611"
             }
         },
         "privatebranches": "1"
