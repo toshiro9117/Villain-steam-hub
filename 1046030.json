@@ -4,8 +4,8 @@
     "name": "ISLANDERS",
     "schinese_name": "岛上居民",
     "isfreeapp": "0",
-    "change_number": "27774242",
-    "update_time": "2025-03-04 21:02:45",
+    "change_number": "28252735",
+    "update_time": "2025-04-02 00:50:38",
     "depot": {
         "228990": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4089494597588283672",
-                    "size": "644055065",
-                    "download": "267876048"
+                    "gid": "3301101123772349192",
+                    "size": "698502301",
+                    "download": "270927264"
                 },
                 "public_beta": {
                     "gid": "6390485028993280220",
@@ -96,9 +96,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4880282025429866213",
-                    "size": "668485728",
-                    "download": "275359216"
+                    "gid": "1298122687058836910",
+                    "size": "722976529",
+                    "download": "278455680"
                 },
                 "public_beta": {
                     "gid": "7286291415986740812",
@@ -110,8 +110,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12722568",
-                "timeupdated": "1700741018"
+                "buildid": "17942654",
+                "timeupdated": "1743526202"
             },
             "public_beta": {
                 "buildid": "5975123",
