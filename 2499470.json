@@ -4,8 +4,8 @@
     "name": "Pumping Simulator 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26806819",
-    "update_time": "2024-12-29 05:41:24",
+    "change_number": "28133280",
+    "update_time": "2025-03-26 00:10:24",
     "depot": {
         "228990": {
             "config": {
@@ -17,17 +17,17 @@
         "2499471": {
             "manifests": {
                 "public": {
-                    "gid": "3167244264127338340",
-                    "size": "7032450799",
-                    "download": "2174834816"
+                    "gid": "1874408360580658963",
+                    "size": "7033257398",
+                    "download": "2195133600"
                 }
             },
             "decryptionkey": "ce51bb1be6fb214a9e0607240e38f892a836c472795de236e298e82261dc9f35"
         },
         "branches": {
             "public": {
-                "buildid": "16867478",
-                "timeupdated": "1735422023"
+                "buildid": "17491747",
+                "timeupdated": "1740442015"
             }
         },
         "privatebranches": "1"
