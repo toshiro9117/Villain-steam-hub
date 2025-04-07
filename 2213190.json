@@ -4,16 +4,16 @@
     "name": "DEATH NOTE Killer Within",
     "schinese_name": "DEATH NOTE 暗影任务",
     "isfreeapp": "0",
-    "change_number": "27904978",
-    "update_time": "2025-03-12 14:08:13",
+    "change_number": "28314442",
+    "update_time": "2025-04-05 02:07:39",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese",
         "2213191": {
             "manifests": {
                 "public": {
-                    "gid": "3411386546214578587",
-                    "size": "2424810223",
-                    "download": "1266434896"
+                    "gid": "8510730855260823435",
+                    "size": "2505696520",
+                    "download": "1332180976"
                 }
             },
             "decryptionkey": "3b495753bf48e7803ff65df07e33617fafd8b3c45399248e31402c428eb5bd51"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16951028",
-                "timeupdated": "1738191531"
+                "buildid": "17529293",
+                "timeupdated": "1742853490"
             }
         },
         "privatebranches": "1"
