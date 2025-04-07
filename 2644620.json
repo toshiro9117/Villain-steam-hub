@@ -4,8 +4,8 @@
     "name": "The Backrooms: Escape",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27907003",
-    "update_time": "2025-03-12 16:46:07",
+    "change_number": "28111453",
+    "update_time": "2025-03-24 23:22:07",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8812517425139389327",
-                    "size": "7948852717",
-                    "download": "7872586288"
+                    "gid": "1399842587956954206",
+                    "size": "7946210317",
+                    "download": "7869983680"
                 },
                 "ue4-v.1.2.3": {
                     "gid": "7585396364955566012",
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17684021",
-                "timeupdated": "1741769163"
+                "buildid": "17832911",
+                "timeupdated": "1742829688"
             },
             "ue4-v.1.2.3": {
                 "buildid": "13002452",
