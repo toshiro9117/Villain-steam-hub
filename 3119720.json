@@ -4,20 +4,20 @@
     "name": "Barro 2024",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28004284",
-    "update_time": "2025-03-18 08:33:50",
+    "change_number": "28158486",
+    "update_time": "2025-03-27 06:15:14",
     "depot": {
         "3119721": {
             "manifests": {
                 "public": {
-                    "gid": "6111532015984169033",
-                    "size": "2562761311",
-                    "download": "659890496"
+                    "gid": "2911438484514415161",
+                    "size": "2599694703",
+                    "download": "677461168"
                 },
                 "pre_release": {
-                    "gid": "8464271817889634564",
+                    "gid": "2911438484514415161",
                     "size": "2599694703",
-                    "download": "677467936"
+                    "download": "677461168"
                 }
             },
             "decryptionkey": "cc275f98756c1c37b18cd77da7096ded0c7f534430753a41df0682bf434a4fbe"
@@ -39,13 +39,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17740191",
-                "timeupdated": "1742094287"
+                "buildid": "17773335",
+                "timeupdated": "1742385286"
             },
             "pre_release": {
-                "buildid": "17758846",
+                "buildid": "17773335",
                 "description": "pre_release",
-                "timeupdated": "1742258025"
+                "timeupdated": "1742344353"
             }
         }
     }
