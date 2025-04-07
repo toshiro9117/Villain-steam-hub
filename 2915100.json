@@ -4,8 +4,8 @@
     "name": "Echoes of Elysium Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28011904",
-    "update_time": "2025-03-18 19:18:12",
+    "change_number": "28307252",
+    "update_time": "2025-04-04 19:20:30",
     "depot": {
         "1004": {
             "config": {
@@ -56,20 +56,15 @@
                     "size": "505561857",
                     "download": "155776912"
                 },
+                "internal": {
+                    "gid": "1728037168514083465",
+                    "size": "1428776993",
+                    "download": "409048560"
+                },
                 "local": {
                     "gid": "2909032919417718062",
                     "size": "3092335",
                     "download": "605600"
-                },
-                "internal": {
-                    "gid": "5886012813996032528",
-                    "size": "1420350405",
-                    "download": "407404240"
-                },
-                "v0.6.0": {
-                    "gid": "175875687661122607",
-                    "size": "1395163045",
-                    "download": "391272160"
                 },
                 "v0.7.0": {
                     "gid": "5446802998674452210",
@@ -77,9 +72,9 @@
                     "download": "395586912"
                 },
                 "v0.8.0": {
-                    "gid": "6988032492321648678",
+                    "gid": "7759659139198195360",
                     "size": "1420350405",
-                    "download": "407403472"
+                    "download": "407403520"
                 }
             },
             "decryptionkey": ""
@@ -89,21 +84,16 @@
                 "buildid": "13909059",
                 "timeupdated": "1711934293"
             },
+            "internal": {
+                "buildid": "17983878",
+                "description": "Internal Build",
+                "timeupdated": "1743765625"
+            },
             "local": {
                 "buildid": "14011964",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
                 "timeupdated": "1712765583"
-            },
-            "internal": {
-                "buildid": "17764551",
-                "description": "Internal Build",
-                "timeupdated": "1742296685"
-            },
-            "v0.6.0": {
-                "buildid": "17002466",
-                "description": "v0.6.0 Alpha",
-                "timeupdated": "1736873623"
             },
             "v0.7.0": {
                 "buildid": "17191230",
@@ -111,9 +101,9 @@
                 "timeupdated": "1738278734"
             },
             "v0.8.0": {
-                "buildid": "17759384",
+                "buildid": "17772711",
                 "description": "v0.8.0 Alpha",
-                "timeupdated": "1742261860"
+                "timeupdated": "1742340369"
             }
         }
     }
