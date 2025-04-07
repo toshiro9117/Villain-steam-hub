@@ -4,8 +4,8 @@
     "name": "The Brew Barons",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27427524",
-    "update_time": "2025-02-12 04:57:51",
+    "change_number": "28021048",
+    "update_time": "2025-03-19 05:00:42",
     "depot": {
         "1636711": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "1297546960"
                 },
                 "localization": {
-                    "gid": "5682048221937641049",
-                    "size": "3922710090",
-                    "download": "1741897872"
+                    "gid": "7029928706137398358",
+                    "size": "4030964842",
+                    "download": "1745575408"
                 }
             },
             "decryptionkey": "4b89b9f61f17df4f8fc72e79e1ec6edb272ca29a9ed84979d5189c943c0b433a"
@@ -41,9 +41,9 @@
                 "timeupdated": "1739307467"
             },
             "localization": {
-                "buildid": "17217656",
+                "buildid": "17771288",
                 "description": "localization testing",
-                "timeupdated": "1738528791"
+                "timeupdated": "1742331634"
             }
         }
     }
