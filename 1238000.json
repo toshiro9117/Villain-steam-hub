@@ -4,9 +4,11 @@
     "name": "Mass Effect™: Andromeda",
     "schinese_name": "《Mass Effect™：Andromeda》豪华版内容",
     "isfreeapp": "0",
-    "change_number": "26949958",
-    "update_time": "2025-01-11 08:08:42",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:12",
     "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian",
         "228983": {
             "config": {
                 "oslist": "windows"
@@ -42,11 +44,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "hasdepotsindlc": "1",
         "1238001": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "6296001788461090948",
@@ -160,7 +158,17 @@
             },
             "decryptionkey": "46bdf4027fbce17b6740c9736955b649d5156b31c8251da82ea6c977175fbf6d"
         },
-        "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian",
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
         "branches": {
             "public": {
                 "buildid": "10351505",
