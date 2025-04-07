@@ -4,8 +4,8 @@
     "name": "Valiant Hearts: Coming Home",
     "schinese_name": "勇敢的心：叶落归根",
     "isfreeapp": "0",
-    "change_number": "28012472",
-    "update_time": "2025-03-18 19:56:54",
+    "change_number": "28204426",
+    "update_time": "2025-03-29 16:15:12",
     "depot": {
         "228983": {
             "config": {
@@ -24,9 +24,9 @@
         "2741361": {
             "manifests": {
                 "public": {
-                    "gid": "6363425040246467019",
-                    "size": "1647780431",
-                    "download": "1274218000"
+                    "gid": "7040257267569042858",
+                    "size": "1844415028",
+                    "download": "1484333376"
                 }
             },
             "decryptionkey": "bdf619a0696d63c3f117ca0ee19d9cafd50b5f42396506f674aa947b728c8d57"
@@ -45,8 +45,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "14055772",
-                "timeupdated": "1715652693"
+                "buildid": "17792962",
+                "timeupdated": "1743143470"
             }
         },
         "privatebranches": "1"
