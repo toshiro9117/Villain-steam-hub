@@ -4,8 +4,8 @@
     "name": "Mirror's Edge™ Catalyst",
     "schinese_name": "镜之边缘：催化剂",
     "isfreeapp": "0",
-    "change_number": "27384769",
-    "update_time": "2025-02-09 13:26:46",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:08",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,brazilian",
         "228984": {
@@ -30,9 +30,6 @@
             "sharedinstall": "1"
         },
         "1233571": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "1179845959259191368",
@@ -171,6 +168,17 @@
                 }
             },
             "decryptionkey": "ceefca4eb050e65558ce6123b162b90ce47e852604aded4ed021eb6f82aa1df1"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
