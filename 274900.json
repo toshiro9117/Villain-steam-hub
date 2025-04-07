@@ -4,11 +4,9 @@
     "name": "Murder Miners",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27498936",
-    "update_time": "2025-02-16 08:11:18",
+    "change_number": "28327647",
+    "update_time": "2025-04-06 07:06:24",
     "depot": {
-        "overridescddb": "1",
-        "markdlcdepots": "1",
         "228990": {
             "config": {
                 "oslist": "windows"
@@ -16,7 +14,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "229002": {
+        "229007": {
             "config": {
                 "oslist": "windows"
             },
@@ -30,6 +28,8 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
         "274901": {
             "systemdefined": "1",
             "config": {
@@ -42,14 +42,14 @@
                     "download": "334365328"
                 },
                 "update40-beta": {
-                    "gid": "1350481353475952095",
-                    "size": "842399575",
-                    "download": "451243264"
+                    "gid": "4295283659184832105",
+                    "size": "1097893992",
+                    "download": "597642816"
                 },
                 "update40-beta-fna": {
-                    "gid": "1350481353475952095",
-                    "size": "842399575",
-                    "download": "451243264"
+                    "gid": "4295283659184832105",
+                    "size": "1097893992",
+                    "download": "597642816"
                 },
                 "update40-beta-legacy": {
                     "gid": "2211744450817107270",
@@ -77,9 +77,9 @@
                     "download": "42844896"
                 },
                 "beta": {
-                    "gid": "1350481353475952095",
-                    "size": "842399575",
-                    "download": "451243264"
+                    "gid": "4295283659184832105",
+                    "size": "1097893992",
+                    "download": "597642816"
                 },
                 "egghunt": {
                     "gid": "626448641272506025",
@@ -100,14 +100,14 @@
                     "download": "366784368"
                 },
                 "update40-beta": {
-                    "gid": "3180081817056766101",
-                    "size": "869882144",
-                    "download": "458712272"
+                    "gid": "3357864247690363102",
+                    "size": "1125376698",
+                    "download": "605069792"
                 },
                 "update40-beta-fna": {
-                    "gid": "3180081817056766101",
-                    "size": "869882144",
-                    "download": "458712272"
+                    "gid": "3357864247690363102",
+                    "size": "1125376698",
+                    "download": "605069792"
                 },
                 "update40-beta-legacy": {
                     "gid": "3848088715687456066",
@@ -135,9 +135,9 @@
                     "download": "168248848"
                 },
                 "beta": {
-                    "gid": "3180081817056766101",
-                    "size": "869882144",
-                    "download": "458712272"
+                    "gid": "3357864247690363102",
+                    "size": "1125376698",
+                    "download": "605069792"
                 },
                 "egghunt": {
                     "gid": "5932270581273574566",
@@ -158,14 +158,14 @@
                     "download": "376622688"
                 },
                 "update40-beta": {
-                    "gid": "8804636512226780912",
-                    "size": "910423890",
-                    "download": "465673040"
+                    "gid": "5241707220161051743",
+                    "size": "1165948398",
+                    "download": "612080880"
                 },
                 "update40-beta-fna": {
-                    "gid": "8804636512226780912",
-                    "size": "910423890",
-                    "download": "465673040"
+                    "gid": "5241707220161051743",
+                    "size": "1165948398",
+                    "download": "612080880"
                 },
                 "update40-beta-legacy": {
                     "gid": "5121402883524822866",
@@ -193,9 +193,9 @@
                     "download": "172606432"
                 },
                 "beta": {
-                    "gid": "8804636512226780912",
-                    "size": "910423890",
-                    "download": "465673040"
+                    "gid": "5241707220161051743",
+                    "size": "1165948398",
+                    "download": "612080880"
                 },
                 "egghunt": {
                     "gid": "4645859308252203954",
@@ -203,23 +203,23 @@
                     "download": "221691856"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "01393a1f9722aa0693dfa21044ca3973ab8ddf9dc662e74be52249443d338caf"
         },
         "workshopdepot": "274900",
         "branches": {
             "public": {
                 "buildid": "15765242",
-                "timeupdated": "1740226545"
+                "timeupdated": "1743893574"
             },
             "update40-beta": {
-                "buildid": "17380947",
+                "buildid": "17998578",
                 "description": "Update 40 Public Beta Build",
-                "timeupdated": "1739664520"
+                "timeupdated": "1743894233"
             },
             "update40-beta-fna": {
-                "buildid": "17380947",
+                "buildid": "17998578",
                 "description": "FNA Update 40 Public Beta Build",
-                "timeupdated": "1739664613"
+                "timeupdated": "1743894312"
             },
             "update40-beta-legacy": {
                 "buildid": "16513204",
@@ -247,8 +247,8 @@
                 "timeupdated": "1738603943"
             },
             "beta": {
-                "buildid": "17380947",
-                "timeupdated": "1739664647"
+                "buildid": "17998578",
+                "timeupdated": "1743894378"
             },
             "egghunt": {
                 "buildid": "10961357",
