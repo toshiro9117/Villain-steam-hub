@@ -4,8 +4,8 @@
     "name": "Calculate It",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27880796",
-    "update_time": "2025-03-11 07:20:24",
+    "change_number": "28325302",
+    "update_time": "2025-04-06 01:07:08",
     "depot": {
         "3043741": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "87404416"
                 },
                 "beta": {
-                    "gid": "2743302181390233911",
-                    "size": "235634142",
-                    "download": "87399280"
+                    "gid": "8009442051009377874",
+                    "size": "259173581",
+                    "download": "111138560"
                 }
             },
             "decryptionkey": "dc9904d451a767bb28a0f1e19500c127bec5da7b99512b21b4ecf6b9da0fcdff"
@@ -28,9 +28,9 @@
                 "timeupdated": "1737628542"
             },
             "beta": {
-                "buildid": "17181405",
+                "buildid": "17996958",
                 "description": "Beta branch",
-                "timeupdated": "1738223014"
+                "timeupdated": "1743872807"
             }
         }
     }
