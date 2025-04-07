@@ -4,8 +4,8 @@
     "name": "Military Conflict: Vietnam",
     "schinese_name": "军事冲突：越南",
     "isfreeapp": "0",
-    "change_number": "27857703",
-    "update_time": "2025-03-09 17:25:28",
+    "change_number": "28312001",
+    "update_time": "2025-04-04 23:49:54",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,polish,czech,turkish,brazilian,ukrainian,vietnamese",
         "workshopdepot": "1012110",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1004388875633487454",
-                    "size": "23182206518",
-                    "download": "10210040208"
+                    "gid": "7310844089485522658",
+                    "size": "23305830068",
+                    "download": "10258733952"
                 }
             },
             "decryptionkey": "cbc5b812e9be7c6d177cef1dd0db8c45d057d2cc1b24bdde7fd70a011b394cdb"
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3839425850257265088",
-                    "size": "23226621814",
-                    "download": "10211811776"
+                    "gid": "2919692938599442815",
+                    "size": "23350275796",
+                    "download": "10260517120"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17651740",
-                "timeupdated": "1741512325"
+                "buildid": "17987383",
+                "timeupdated": "1743781787"
             }
         },
         "workshopdepotdecryptionkey": "a93d85b18f48771cc6875074b5fa6fa65b56550ab887b7e25fde78da9427baa7"
