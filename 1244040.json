@@ -4,8 +4,8 @@
     "name": "Crocotile 3D",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27879086",
-    "update_time": "2025-03-11 04:48:22",
+    "change_number": "28216719",
+    "update_time": "2025-03-31 01:32:12",
     "depot": {
         "baselanguages": "english",
         "1244041": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5699436025979040658",
-                    "size": "417358593",
-                    "download": "128558160"
+                    "gid": "1372223179758486844",
+                    "size": "417366647",
+                    "download": "128562928"
                 },
                 "linuxold": {
                     "gid": "812907830567094140",
@@ -25,12 +25,12 @@
                     "download": "128529504"
                 },
                 "windows7": {
-                    "gid": "7522080608454216339",
-                    "size": "376454235",
-                    "download": "118516256"
+                    "gid": "8890587549593482081",
+                    "size": "376462289",
+                    "download": "118520976"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8877a5d1d085f8bd3e30d677f45757104a120dafa811cf8b8a7d94e0d6cd2bf8"
         },
         "1244042": {
             "config": {
@@ -38,14 +38,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3342750177512446863",
-                    "size": "559119657",
-                    "download": "143245216"
+                    "gid": "7217811679869530591",
+                    "size": "559127711",
+                    "download": "143249968"
                 },
                 "linuxold": {
-                    "gid": "1043850913939939927",
-                    "size": "470244146",
-                    "download": "121535536"
+                    "gid": "7364769173380946615",
+                    "size": "470252200",
+                    "download": "121540384"
                 },
                 "windows7": {
                     "gid": "8330586534653523443",
@@ -61,9 +61,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5173753086290773627",
-                    "size": "389851820",
-                    "download": "123466640"
+                    "gid": "840854182388436507",
+                    "size": "389880615",
+                    "download": "123472912"
                 },
                 "linuxold": {
                     "gid": "2612294452657614072",
@@ -85,9 +85,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1586545446800944651",
-                    "size": "463131710",
-                    "download": "137945456"
+                    "gid": "6567982964354960061",
+                    "size": "463139764",
+                    "download": "137950240"
                 },
                 "linuxold": {
                     "gid": "3631286047134423366",
@@ -95,27 +95,27 @@
                     "download": "137919488"
                 },
                 "windows7": {
-                    "gid": "1769224649638642914",
-                    "size": "376454235",
-                    "download": "118516256"
+                    "gid": "4048252947421177339",
+                    "size": "376462289",
+                    "download": "118520976"
                 }
             },
             "decryptionkey": "ac90285d5c5308df897fabd50d4683ed2641b00ddf71bb98fdf07e72f3343708"
         },
         "branches": {
             "public": {
-                "buildid": "17667510",
-                "timeupdated": "1741639697"
+                "buildid": "17916775",
+                "timeupdated": "1743355927"
             },
             "linuxold": {
-                "buildid": "17667257",
+                "buildid": "17916695",
                 "description": "support for older linux",
-                "timeupdated": "1741638403"
+                "timeupdated": "1743355078"
             },
             "windows7": {
-                "buildid": "17667287",
+                "buildid": "17916679",
                 "description": "windows 7",
-                "timeupdated": "1741638579"
+                "timeupdated": "1743354946"
             }
         },
         "privatebranches": "1"
