@@ -4,15 +4,15 @@
     "name": "ULTRAKILL",
     "schinese_name": "疯狂连杀",
     "isfreeapp": "0",
-    "change_number": "28001455",
-    "update_time": "2025-03-18 04:20:40",
+    "change_number": "28217408",
+    "update_time": "2025-03-31 03:06:02",
     "depot": {
         "1229491": {
             "manifests": {
                 "public": {
-                    "gid": "6859921640085403063",
-                    "size": "2753801833",
-                    "download": "2070163232"
+                    "gid": "6093621263526928435",
+                    "size": "2780996809",
+                    "download": "2086731552"
                 }
             },
             "decryptionkey": "347634f48592b176da96c10b8afe6898527aa5c218d89930f9d6e5b6d5e7c8ba"
@@ -20,8 +20,8 @@
         "workshopdepot": "1229490",
         "branches": {
             "public": {
-                "buildid": "17568250",
-                "timeupdated": "1740960150"
+                "buildid": "17867434",
+                "timeupdated": "1743002722"
             }
         },
         "privatebranches": "1",
