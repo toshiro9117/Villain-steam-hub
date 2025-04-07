@@ -4,8 +4,8 @@
     "name": "Unity of Command II",
     "schinese_name": "统一指挥2",
     "isfreeapp": "0",
-    "change_number": "27999285",
-    "update_time": "2025-03-18 01:53:23",
+    "change_number": "28309300",
+    "update_time": "2025-04-04 21:26:10",
     "depot": {
         "workshopdepot": "809230",
         "228986": {
@@ -76,9 +76,9 @@
                     "download": "134492288"
                 },
                 "beta": {
-                    "gid": "674982527168096262",
-                    "size": "570786593",
-                    "download": "134550560"
+                    "gid": "7355401646624621256",
+                    "size": "570787174",
+                    "download": "134552048"
                 }
             },
             "decryptionkey": ""
@@ -270,9 +270,9 @@
                 "timeupdated": "1657641430"
             },
             "beta": {
-                "buildid": "17504138",
+                "buildid": "17903501",
                 "description": "Branch with untested beta features",
-                "timeupdated": "1740509209"
+                "timeupdated": "1743192401"
             }
         },
         "privatebranches": "1",
