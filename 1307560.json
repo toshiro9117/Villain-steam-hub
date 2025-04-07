@@ -4,8 +4,8 @@
     "name": "DEMON'S SWORD SNAKES",
     "schinese_name": "DEMON'S SWORD SNAKES ～诅咒之蛇的美梦～",
     "isfreeapp": "0",
-    "change_number": "27403193",
-    "update_time": "2025-02-10 23:38:45",
+    "change_number": "28206040",
+    "update_time": "2025-03-29 21:11:37",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "1307561": {
@@ -20,7 +20,7 @@
                     "download": "130130592"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a98045a2a4fe5b1e73db842edfe61606f136ab5dbea276a87ab6dd8651e493df"
         },
         "1307562": {
             "config": {
@@ -48,7 +48,7 @@
                     "download": "129644624"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "54d0291dedccc208f667f02a1c48ffd0ee7ac606a0fbef6dba459d7fc76a12f2"
         },
         "branches": {
             "public": {
