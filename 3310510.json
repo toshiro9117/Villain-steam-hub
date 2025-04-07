@@ -4,8 +4,8 @@
     "name": "Top Sellers - Ecommerce Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27718327",
-    "update_time": "2025-02-28 21:48:35",
+    "change_number": "28115241",
+    "update_time": "2025-03-25 02:52:09",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3310511": {
             "manifests": {
                 "public": {
-                    "gid": "4321529648216357352",
-                    "size": "3554287350",
-                    "download": "3378568480"
+                    "gid": "8041944340769444218",
+                    "size": "3587155293",
+                    "download": "3409453248"
                 }
             },
             "decryptionkey": "d07a514eb529ce1f5d66b1ec7790545184b3c8a6f4405ac46c3d923acd7ef0f3"
         },
         "branches": {
             "public": {
-                "buildid": "17220980",
-                "timeupdated": "1738566313"
+                "buildid": "17838438",
+                "timeupdated": "1742842322"
             }
         }
     }
