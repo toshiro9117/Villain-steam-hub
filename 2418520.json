@@ -4,8 +4,8 @@
     "name": "Farm Together 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27833395",
-    "update_time": "2025-03-07 18:40:31",
+    "change_number": "28291237",
+    "update_time": "2025-04-03 22:52:49",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2418521": {
             "manifests": {
                 "public": {
-                    "gid": "7056857004173643101",
-                    "size": "838084568",
-                    "download": "460504112"
+                    "gid": "7929317890036181107",
+                    "size": "872022792",
+                    "download": "473176832"
                 }
             },
             "decryptionkey": "b6dcb6a58e587a247bf3b0b52bd350fd82061e80a8241d850b7c960e1a1d71ba"
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2572303947476173982",
-                    "size": "876245747",
-                    "download": "472274608"
+                    "gid": "1808839523696506618",
+                    "size": "908703902",
+                    "download": "484161728"
                 }
             },
             "decryptionkey": "e5ad2ced2bcacfc70ee06a58946c9578454480ca23214852204bc8a3a3247300"
         },
         "branches": {
             "public": {
-                "buildid": "17633655",
-                "timeupdated": "1741344024"
+                "buildid": "17971796",
+                "timeupdated": "1743691962"
             }
         },
         "privatebranches": "1"
