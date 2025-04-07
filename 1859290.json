@@ -4,8 +4,8 @@
     "name": "Crypto Miner Tycoon Simulator",
     "schinese_name": "挖矿大亨模拟器 Crypto Miner Tycoon Simulator",
     "isfreeapp": "0",
-    "change_number": "27711097",
-    "update_time": "2025-02-28 16:40:06",
+    "change_number": "28215564",
+    "update_time": "2025-03-30 22:51:10",
     "depot": {
         "1859291": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "d42a88e6f2eeb07eda776f5f658f636b91a91283397a9a5f5e010269fd5dae10"
+        "workshopdepotdecryptionkey": ""
     }
 }
