@@ -4,8 +4,8 @@
     "name": "Fuga: Melodies of Steel 2",
     "schinese_name": "战场的赋格曲2",
     "isfreeapp": "0",
-    "change_number": "27489726",
-    "update_time": "2025-02-15 09:14:28",
+    "change_number": "28279348",
+    "update_time": "2025-04-03 08:59:43",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "81761116740408159",
-                    "size": "4693541811",
-                    "download": "2105988544"
+                    "gid": "4797392160149472982",
+                    "size": "4695021482",
+                    "download": "2106202992"
                 }
             },
             "decryptionkey": "a3eed706af860ca6badcea021697204628ef454677796100251d8f23d47010c8"
@@ -101,8 +101,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15722564",
-                "timeupdated": "1730941428"
+                "buildid": "17329070",
+                "timeupdated": "1743641980"
             }
         },
         "privatebranches": "1"
