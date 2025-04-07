@@ -4,8 +4,8 @@
     "name": "SCS Workshop Uploader",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27868983",
-    "update_time": "2025-03-10 18:13:07",
+    "change_number": "28242624",
+    "update_time": "2025-04-01 14:46:26",
     "depot": {
         "421801": {
             "manifests": {
@@ -133,9 +133,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1080115108819579962",
-                    "size": "40645184",
-                    "download": "9128416"
+                    "gid": "3386611512040924142",
+                    "size": "41267776",
+                    "download": "9306320"
                 },
                 "legacy_compatibility_branch": {
                     "gid": "4364620367063851331",
@@ -238,22 +238,22 @@
                     "download": "9128416"
                 },
                 "154_compatibility_branch": {
-                    "gid": "6795586868754676237",
-                    "size": "41232960",
-                    "download": "9292704"
+                    "gid": "3386611512040924142",
+                    "size": "41267776",
+                    "download": "9306320"
                 },
                 "public_beta": {
-                    "gid": "6795586868754676237",
-                    "size": "41232960",
-                    "download": "9292704"
+                    "gid": "3386611512040924142",
+                    "size": "41267776",
+                    "download": "9306320"
                 }
             },
             "decryptionkey": "555d6febd54bed2b443c7a68371865ec898abc5f46f0fcc88b3661cfb76174a7"
         },
         "branches": {
             "public": {
-                "buildid": "16524062",
-                "timeupdated": "1732781570"
+                "buildid": "17880540",
+                "timeupdated": "1743489982"
             },
             "legacy_compatibility_branch": {
                 "buildid": "17575531",
@@ -356,14 +356,14 @@
                 "timeupdated": "1732552109"
             },
             "154_compatibility_branch": {
-                "buildid": "17659842",
+                "buildid": "17880540",
                 "description": "1.54 compatibility branch",
-                "timeupdated": "1741601571"
+                "timeupdated": "1743069583"
             },
             "public_beta": {
-                "buildid": "17659842",
+                "buildid": "17880540",
                 "description": "1.54 support branch (beta)",
-                "timeupdated": "1741601583"
+                "timeupdated": "1743069562"
             }
         },
         "privatebranches": "1"
