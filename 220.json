@@ -4,8 +4,8 @@
     "name": "Half-Life 2",
     "schinese_name": "半条命2",
     "isfreeapp": "0",
-    "change_number": "27425834",
-    "update_time": "2025-02-12 02:44:33",
+    "change_number": "28055109",
+    "update_time": "2025-03-21 00:33:10",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -581,6 +581,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "c9adc9c18fccfe63c2ea938ddce901fff46d8bbdc78f4799623a656698df312c"
+        "workshopdepotdecryptionkey": ""
     }
 }
