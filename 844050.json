@@ -4,8 +4,8 @@
     "name": "Desert Child",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26596121",
-    "update_time": "2024-12-12 00:11:31",
+    "change_number": "28138219",
+    "update_time": "2025-03-26 05:24:55",
     "depot": {
         "hasdepotsindlc": "0",
         "844051": {
@@ -32,7 +32,7 @@
                     "download": "107790976"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "42d9c333997cba424d603fe04ed18a8d39717820494f0623ddafbad594ec0bdf"
         },
         "844053": {
             "config": {
@@ -45,7 +45,7 @@
                     "download": "100271616"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7c8af7781edc71e7c0e1b0702c1dc47d9e4008fca06a85d892b4442dce7e844e"
         },
         "961400": {
             "manifests": {
