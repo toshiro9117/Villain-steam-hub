@@ -4,8 +4,8 @@
     "name": "Mia and the Dragon Princess",
     "schinese_name": "米娅与龙公主",
     "isfreeapp": "0",
-    "change_number": "26399665",
-    "update_time": "2024-12-05 06:12:15",
+    "change_number": "28306025",
+    "update_time": "2025-04-04 18:03:29",
     "depot": {
         "1837581": {
             "manifests": {
@@ -24,9 +24,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4483885823498704108",
-                    "size": "206200261",
-                    "download": "85444992"
+                    "gid": "392301550948527095",
+                    "size": "206986728",
+                    "download": "85584912"
                 }
             },
             "decryptionkey": ""
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5823611485088470187",
-                    "size": "221336061",
-                    "download": "89751520"
+                    "gid": "1938016486815764460",
+                    "size": "222196216",
+                    "download": "89870112"
                 }
             },
             "decryptionkey": "de0727f8183733a7cb27bc3493e629132a0dd2f8d15535e18c22f2428d50209b"
@@ -51,17 +51,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7216047595785482317",
-                    "size": "236505084",
-                    "download": "96202352"
+                    "gid": "7657043573252489557",
+                    "size": "237335165",
+                    "download": "96625088"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14386851",
-                "timeupdated": "1715941736"
+                "buildid": "17982394",
+                "timeupdated": "1743761004"
             }
         },
         "privatebranches": "1"
