@@ -4,8 +4,8 @@
     "name": "Astro Colony",
     "schinese_name": "星际殖民地",
     "isfreeapp": "0",
-    "change_number": "27533764",
-    "update_time": "2025-02-18 20:15:43",
+    "change_number": "28236755",
+    "update_time": "2025-04-01 05:49:36",
     "depot": {
         "228989": {
             "config": {
@@ -39,6 +39,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "4c743c925e94f40532b6cd515a6d0e1ca81519a089659bf4ea86c0219ad3237c"
+        "workshopdepotdecryptionkey": ""
     }
 }
