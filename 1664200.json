@@ -4,8 +4,8 @@
     "name": "Duelists of Eden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27918336",
-    "update_time": "2025-03-13 03:30:25",
+    "change_number": "28236756",
+    "update_time": "2025-04-01 05:51:48",
     "depot": {
         "baselanguages": "english,japanese",
         "228988": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7703615160988360887",
-                    "size": "534978839",
-                    "download": "272137088"
+                    "gid": "552790725518283061",
+                    "size": "535701805",
+                    "download": "272869680"
                 },
                 "multi-keyboard": {
                     "gid": "7572701459277840373",
@@ -32,9 +32,9 @@
                     "download": "271916288"
                 },
                 "previous-build": {
-                    "gid": "7004129057733235252",
-                    "size": "534834816",
-                    "download": "272025904"
+                    "gid": "5600305198729160725",
+                    "size": "534884200",
+                    "download": "272050848"
                 },
                 "public-beta": {
                     "gid": "4895657014056361555",
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "209736305652620940",
-                    "size": "563056629",
-                    "download": "279561936"
+                    "gid": "6668012573609083213",
+                    "size": "563773033",
+                    "download": "280291952"
                 },
                 "multi-keyboard": {
                     "gid": "8269222959452729511",
@@ -65,9 +65,9 @@
                     "download": "255485344"
                 },
                 "previous-build": {
-                    "gid": "2361711818871823592",
-                    "size": "562909377",
-                    "download": "279442784"
+                    "gid": "3221281398626242992",
+                    "size": "562961318",
+                    "download": "279479152"
                 },
                 "public-beta": {
                     "gid": "6311952292155711418",
@@ -88,9 +88,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8631661871760877070",
-                    "size": "575409561",
-                    "download": "271312976"
+                    "gid": "7386791963149658152",
+                    "size": "576132344",
+                    "download": "272039408"
                 },
                 "multi-keyboard": {
                     "gid": "3976201654486641188",
@@ -98,9 +98,9 @@
                     "download": "247228416"
                 },
                 "previous-build": {
-                    "gid": "102181222614917414",
-                    "size": "575265522",
-                    "download": "271195008"
+                    "gid": "1993435926384833031",
+                    "size": "575315448",
+                    "download": "271225520"
                 },
                 "public-beta": {
                     "gid": "7307068594382165472",
@@ -117,8 +117,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17282840",
-                "timeupdated": "1738948088"
+                "buildid": "17930820",
+                "timeupdated": "1743457736"
             },
             "multi-keyboard": {
                 "buildid": "15960660",
@@ -126,9 +126,9 @@
                 "timeupdated": "1728348795"
             },
             "previous-build": {
-                "buildid": "16837001",
+                "buildid": "17837864",
                 "description": "previous build for watching old replays",
-                "timeupdated": "1740432771"
+                "timeupdated": "1743457140"
             },
             "public-beta": {
                 "buildid": "17698113",
