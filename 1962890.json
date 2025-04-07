@@ -4,8 +4,8 @@
     "name": "IN HEAT: Lustful Nights",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978086",
-    "update_time": "2025-03-16 11:53:46",
+    "change_number": "28320365",
+    "update_time": "2025-04-05 12:10:26",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4620391475195245470",
-                    "size": "2404060460",
-                    "download": "1951977280"
+                    "gid": "1574178055163096325",
+                    "size": "2402439859",
+                    "download": "1951303712"
                 }
             },
             "decryptionkey": "ab7e60c39d99bce5621360d6d477edde9c110013223eb43348075d88a8d8ac4a"
@@ -33,12 +33,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "96813308643295085",
-                    "size": "2538544880",
-                    "download": "1988526960"
+                    "gid": "3706226240525549024",
+                    "size": "2535854305",
+                    "download": "1988073424"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "60717376a71cf4201f92d9a5b64cc89b8cdb76d48ac2a3ecaeb022a01b2d3c37"
         },
         "1962891": {
             "config": {
@@ -46,17 +46,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2696222988174348927",
-                    "size": "2359188460",
-                    "download": "1865373472"
+                    "gid": "474130763324247907",
+                    "size": "2355130650",
+                    "download": "1864533264"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2fdfc7628e972abce5c5f744fccec79a1c0f4cd3e4782b58c608fcd0e44d4457"
         },
         "branches": {
             "public": {
-                "buildid": "17740778",
-                "timeupdated": "1742097221"
+                "buildid": "17956728",
+                "timeupdated": "1743609088"
             }
         },
         "privatebranches": "1"
