@@ -4,8 +4,8 @@
     "name": "The Living Remain",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27987654",
-    "update_time": "2025-03-17 12:55:50",
+    "change_number": "28346275",
+    "update_time": "2025-04-07 21:17:09",
     "depot": {
         "hasdepotsindlc": "0",
         "594221": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8834675910827944883",
-                    "size": "16229555180",
-                    "download": "7433765568"
+                    "gid": "5936436197401720327",
+                    "size": "20654666121",
+                    "download": "11106637408"
                 }
             },
             "decryptionkey": "e12024e39b25cbe4f3e5527a7b3420f1f793e10cf567702bc9ebea4afff06fd6"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14516093",
-                "timeupdated": "1719454850"
+                "buildid": "17887903",
+                "timeupdated": "1743103070"
             }
         },
         "privatebranches": "1"
