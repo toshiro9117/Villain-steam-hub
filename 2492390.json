@@ -4,17 +4,17 @@
     "name": "Logiart Grimoire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26601468",
-    "update_time": "2024-12-12 07:16:21",
+    "change_number": "28061075",
+    "update_time": "2025-03-21 07:14:41",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "hasdepotsindlc": "1",
         "2492392": {
             "manifests": {
                 "public": {
-                    "gid": "5056843083412075090",
-                    "size": "816122941",
-                    "download": "522634048"
+                    "gid": "7360697535565184864",
+                    "size": "816122944",
+                    "download": "522633936"
                 }
             },
             "decryptionkey": "339472ad51cec8d17a8ce990fa1597634a3c33243a6a0ebd323a83f574520cd7"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16546041",
-                "timeupdated": "1733104759"
+                "buildid": "17759789",
+                "timeupdated": "1742273773"
             }
         },
         "privatebranches": "1"
