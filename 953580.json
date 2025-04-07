@@ -4,8 +4,8 @@
     "name": "Tourist Bus Simulator",
     "schinese_name": "旅游巴士模拟",
     "isfreeapp": "0",
-    "change_number": "28004896",
-    "update_time": "2025-03-18 09:25:21",
+    "change_number": "28301023",
+    "update_time": "2025-04-04 10:55:06",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,swedish,hungarian,turkish,brazilian",
         "workshopdepot": "953580",
@@ -19,9 +19,9 @@
         "953581": {
             "manifests": {
                 "public": {
-                    "gid": "5108421609812091779",
-                    "size": "29889261912",
-                    "download": "24962284816"
+                    "gid": "2077230366960739797",
+                    "size": "27286042077",
+                    "download": "22656814112"
                 },
                 "previous_1_3": {
                     "gid": "9044737762770234673",
@@ -29,14 +29,14 @@
                     "download": "10656355664"
                 },
                 "beta": {
-                    "gid": "3403287336595137118",
-                    "size": "27443155909",
-                    "download": "22807287680"
+                    "gid": "2077230366960739797",
+                    "size": "27286042077",
+                    "download": "22656814112"
                 },
                 "local": {
-                    "gid": "3486145005790272739",
-                    "size": "27286042077",
-                    "download": "22661094560"
+                    "gid": "1786960364580667905",
+                    "size": "27057882503",
+                    "download": "22338412624"
                 },
                 "previousversion": {
                     "gid": "8317958934215622199",
@@ -314,7 +314,7 @@
             "dlcappid": "1840750",
             "manifests": {
                 "public": {
-                    "gid": "815857994361691752",
+                    "gid": "7975570310966908318",
                     "size": "30572833",
                     "download": "23142816"
                 },
@@ -324,9 +324,9 @@
                     "download": "23142816"
                 },
                 "local": {
-                    "gid": "7975570310966908318",
-                    "size": "30572833",
-                    "download": "23142816"
+                    "gid": "7318118593820184828",
+                    "size": "30572828",
+                    "download": "23143504"
                 }
             },
             "decryptionkey": ""
@@ -339,7 +339,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4979430217737186214",
+                    "gid": "9213767621758843290",
                     "size": "0",
                     "download": "0"
                 },
@@ -360,19 +360,19 @@
             "dlcappid": "2295460",
             "manifests": {
                 "public": {
-                    "gid": "3723227509686963909",
-                    "size": "180808758",
-                    "download": "153372928"
-                },
-                "beta": {
-                    "gid": "8448079091180394680",
-                    "size": "180808758",
-                    "download": "153372448"
-                },
-                "local": {
                     "gid": "8299126853509996560",
                     "size": "180808758",
                     "download": "153372336"
+                },
+                "beta": {
+                    "gid": "8299126853509996560",
+                    "size": "180808758",
+                    "download": "153372336"
+                },
+                "local": {
+                    "gid": "538813052848006126",
+                    "size": "180809102",
+                    "download": "153376592"
                 }
             },
             "decryptionkey": "ada5ac12a67ebd1ad59fb2d2268ab7020c53aebf5107c91829620c5f9f329a2a"
@@ -381,19 +381,19 @@
             "dlcappid": "2295461",
             "manifests": {
                 "public": {
-                    "gid": "8838788046019814056",
-                    "size": "175547382",
-                    "download": "149497408"
-                },
-                "beta": {
-                    "gid": "2446633170524492662",
-                    "size": "175547382",
-                    "download": "149496896"
-                },
-                "local": {
                     "gid": "238482087814657338",
                     "size": "175547382",
                     "download": "149496768"
+                },
+                "beta": {
+                    "gid": "238482087814657338",
+                    "size": "175547382",
+                    "download": "149496768"
+                },
+                "local": {
+                    "gid": "8811833233972256568",
+                    "size": "175547722",
+                    "download": "149510352"
                 }
             },
             "decryptionkey": "235ff4e195531d1614867902d5825e994f13fa9b67e82626e67686b4d20c330c"
@@ -402,19 +402,19 @@
             "dlcappid": "2295462",
             "manifests": {
                 "public": {
-                    "gid": "456269965377158774",
-                    "size": "175547274",
-                    "download": "149000240"
-                },
-                "beta": {
-                    "gid": "3344758603357981803",
-                    "size": "175547274",
-                    "download": "148999680"
-                },
-                "local": {
                     "gid": "1351335576080176780",
                     "size": "175547274",
                     "download": "148999712"
+                },
+                "beta": {
+                    "gid": "1351335576080176780",
+                    "size": "175547274",
+                    "download": "148999712"
+                },
+                "local": {
+                    "gid": "9221231695508569436",
+                    "size": "175547618",
+                    "download": "149013328"
                 }
             },
             "decryptionkey": "196247529527339b4a0f5d6675369fb72408e1f26bc8049ed6809ffb25b12c2a"
@@ -423,19 +423,19 @@
             "dlcappid": "2295463",
             "manifests": {
                 "public": {
-                    "gid": "3310160562724757569",
+                    "gid": "7336745557288960181",
                     "size": "97221590",
-                    "download": "83251344"
+                    "download": "83252064"
                 },
                 "beta": {
-                    "gid": "8314540969299458264",
+                    "gid": "7336745557288960181",
                     "size": "97221590",
-                    "download": "83251488"
+                    "download": "83252064"
                 },
                 "local": {
-                    "gid": "8924255878081395622",
-                    "size": "97221590",
-                    "download": "83252080"
+                    "gid": "4948779840935597936",
+                    "size": "97221594",
+                    "download": "83269968"
                 }
             },
             "decryptionkey": "f6f37acf6fbfc664b95dfd4578712b10a2f3ca00403e566b80021710549b6b34"
@@ -443,19 +443,19 @@
         "1026751": {
             "manifests": {
                 "public": {
-                    "gid": "2053343277114261031",
-                    "size": "102433525",
-                    "download": "89532672"
-                },
-                "beta": {
-                    "gid": "5183937493377598047",
-                    "size": "102433525",
-                    "download": "89534192"
-                },
-                "local": {
                     "gid": "163323209732098990",
                     "size": "102433525",
                     "download": "89534160"
+                },
+                "beta": {
+                    "gid": "163323209732098990",
+                    "size": "102433525",
+                    "download": "89534160"
+                },
+                "local": {
+                    "gid": "5549358237020293879",
+                    "size": "102433593",
+                    "download": "89547680"
                 }
             },
             "decryptionkey": "dbcd300d2528c1fdff04b43a1911f3860c9d1d61c0d12d367db3f1ff58923245"
@@ -463,41 +463,41 @@
         "1026752": {
             "manifests": {
                 "public": {
-                    "gid": "7792651784455836814",
-                    "size": "105476669",
-                    "download": "87818848"
-                },
-                "beta": {
-                    "gid": "7910890060174715749",
-                    "size": "105476941",
-                    "download": "87815072"
-                },
-                "local": {
                     "gid": "4905165358809824059",
                     "size": "105476941",
                     "download": "87817104"
+                },
+                "beta": {
+                    "gid": "4905165358809824059",
+                    "size": "105476941",
+                    "download": "87817104"
+                },
+                "local": {
+                    "gid": "3505890258857348973",
+                    "size": "105476945",
+                    "download": "88059168"
                 }
             },
             "decryptionkey": "169c6ec413903a9efe4b281b6c17e80ce076d8f1b6e19053351649aa8560380e"
         },
         "branches": {
             "public": {
-                "buildid": "16766820",
-                "timeupdated": "1734439265"
+                "buildid": "17759291",
+                "timeupdated": "1742465452"
             },
             "previous_1_3": {
                 "buildid": "4474069",
                 "timeupdated": "1575903152"
             },
             "beta": {
-                "buildid": "17492229",
-                "timeupdated": "1740570569"
+                "buildid": "17759291",
+                "timeupdated": "1742311209"
             },
             "local": {
-                "buildid": "17759149",
+                "buildid": "17978943",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1742260236"
+                "timeupdated": "1743734483"
             },
             "previousversion": {
                 "buildid": "7519665",
