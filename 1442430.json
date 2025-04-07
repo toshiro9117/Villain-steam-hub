@@ -4,8 +4,8 @@
     "name": "Storage Hunter",
     "schinese_name": "仓库猎人模拟器",
     "isfreeapp": "0",
-    "change_number": "28013585",
-    "update_time": "2025-03-18 21:09:00",
+    "change_number": "28346156",
+    "update_time": "2025-04-07 21:13:09",
     "depot": {
         "228984": {
             "config": {
@@ -49,17 +49,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "225671790556751182",
-                    "size": "11106589723",
-                    "download": "8859355904"
+                    "gid": "1184800148634250323",
+                    "size": "11120874309",
+                    "download": "8866196800"
                 }
             },
             "decryptionkey": "2143ac048a0302d64fe1279b0b62672b0ffcb1f10350c672b96c89f5be2d01f1"
         },
         "branches": {
             "public": {
-                "buildid": "17621241",
-                "timeupdated": "1741696574"
+                "buildid": "17854436",
+                "timeupdated": "1743071009"
             }
         },
         "privatebranches": "1"
