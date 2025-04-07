@@ -4,8 +4,8 @@
     "name": "3DMark Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013323",
-    "update_time": "2025-03-18 20:53:40",
+    "change_number": "28344311",
+    "update_time": "2025-04-07 19:10:21",
     "depot": {
         "overridescddb": "1",
         "hasdepotsindlc": "0",
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5288614009521539417",
-                    "size": "510018593",
-                    "download": "258865936"
+                    "gid": "3307473714744211066",
+                    "size": "510018734",
+                    "download": "258291536"
                 }
             },
             "depotfromapp": "223850"
@@ -115,9 +115,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9207309143485574117",
-                    "size": "3416876",
-                    "download": "2903200"
+                    "gid": "5141829934139970249",
+                    "size": "3420972",
+                    "download": "2907072"
                 }
             }
         },
@@ -206,8 +206,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17658901",
-                "timeupdated": "1741596321"
+                "buildid": "17952863",
+                "timeupdated": "1743588948"
             }
         },
         "privatebranches": "1"
