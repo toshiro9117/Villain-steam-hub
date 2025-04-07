@@ -4,8 +4,8 @@
     "name": "Dawn of Man",
     "schinese_name": "人类黎明",
     "isfreeapp": "0",
-    "change_number": "26998583",
-    "update_time": "2025-01-15 08:21:02",
+    "change_number": "28208717",
+    "update_time": "2025-03-30 02:52:12",
     "depot": {
         "baselanguages": "english,german,french,spanish",
         "workshopdepot": "858810",
@@ -59,6 +59,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "cab80d4065b0fb0eb10b3003c0f495f81f99b6e7dc75e880a72f0789137ce47c"
+        "workshopdepotdecryptionkey": ""
     }
 }
