@@ -4,15 +4,15 @@
     "name": "Artist Life Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27537137",
-    "update_time": "2025-02-18 23:32:43",
+    "change_number": "28310292",
+    "update_time": "2025-04-04 22:17:29",
     "depot": {
         "1643181": {
             "manifests": {
                 "public": {
-                    "gid": "7827638060176530086",
-                    "size": "2263613751",
-                    "download": "1729705680"
+                    "gid": "6676601144822560870",
+                    "size": "2263605414",
+                    "download": "1729692256"
                 }
             },
             "decryptionkey": "8b25816dad947330e965111923dcaff941c73016cdbeb9ea45de209fa126b444"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17408321",
-                "timeupdated": "1739892759"
+                "buildid": "17849686",
+                "timeupdated": "1742903662"
             }
         },
         "privatebranches": "1"
