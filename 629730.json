@@ -4,8 +4,8 @@
     "name": "Blade & Sorcery",
     "schinese_name": "刀剑与魔法",
     "isfreeapp": "0",
-    "change_number": "28005197",
-    "update_time": "2025-03-18 09:52:07",
+    "change_number": "28344751",
+    "update_time": "2025-04-07 19:39:34",
     "depot": {
         "629731": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "361377523484471309",
-                    "size": "15683573535",
-                    "download": "13540532608"
+                    "gid": "8939472161053281300",
+                    "size": "15686217264",
+                    "download": "13542757232"
                 },
                 "steamvrbug_test": {
                     "gid": "8345298112427557375",
@@ -72,8 +72,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17357568",
-                "timeupdated": "1740568168"
+                "buildid": "17890712",
+                "timeupdated": "1743441852"
             },
             "steamvrbug_test": {
                 "buildid": "15916696",
