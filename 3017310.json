@@ -4,8 +4,8 @@
     "name": "Soulmask Dedicated Server For Windows",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27927512",
-    "update_time": "2025-03-13 15:10:03",
+    "change_number": "28226203",
+    "update_time": "2025-03-31 18:31:40",
     "depot": {
         "1004": {
             "config": {
@@ -66,17 +66,17 @@
         "3017311": {
             "manifests": {
                 "public": {
-                    "gid": "442779234353553598",
-                    "size": "1324327528",
-                    "download": "1152304096"
+                    "gid": "2745046080320204726",
+                    "size": "1325648220",
+                    "download": "1152938400"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17704844",
-                "timeupdated": "1741849800"
+                "buildid": "17923313",
+                "timeupdated": "1743417094"
             }
         }
     }
