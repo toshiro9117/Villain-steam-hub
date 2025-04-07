@@ -4,8 +4,8 @@
     "name": "Lutnak·Quest",
     "schinese_name": "艾莱茵的冒险之旅",
     "isfreeapp": "0",
-    "change_number": "27926280",
-    "update_time": "2025-03-13 13:12:08",
+    "change_number": "28215179",
+    "update_time": "2025-03-30 21:55:45",
     "depot": {
         "2766941": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6566777844588506083",
-                    "size": "1283509715",
-                    "download": "1099675088"
+                    "gid": "495599588030815176",
+                    "size": "1284241776",
+                    "download": "1108953808"
                 }
             },
             "decryptionkey": "7d1e17f9eab10d36b46553e0befa9ce8fda7a62004cc89777ffa37b730dce806"
@@ -66,8 +66,8 @@
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17702581",
-                "timeupdated": "1741834612"
+                "buildid": "17791728",
+                "timeupdated": "1742460844"
             }
         }
     }
