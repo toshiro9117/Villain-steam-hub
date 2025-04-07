@@ -4,8 +4,8 @@
     "name": "Bioweaver",
     "schinese_name": "原点计划：血肉工匠",
     "isfreeapp": "0",
-    "change_number": "27928651",
-    "update_time": "2025-03-13 16:30:16",
+    "change_number": "28338811",
+    "update_time": "2025-04-07 11:22:18",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "3177970",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3445564270353100917",
-                    "size": "708469693",
-                    "download": "477766016"
+                    "gid": "7807106715465258796",
+                    "size": "708470208",
+                    "download": "477765744"
                 }
             },
             "decryptionkey": "559e6e3450ca7058329648e9292f360d400970bf869e4a68440e07912d3ac476"
@@ -30,12 +30,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5312766644235786273",
-                    "size": "682406850",
-                    "download": "458870016"
+                    "gid": "6798003399374958567",
+                    "size": "682404955",
+                    "download": "458871424"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cac467301f8871e1599a50e2c350b2b16b9ef3adf04cbbd932dd4a6d22fc479c"
         },
         "3177973": {
             "config": {
@@ -44,20 +44,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5898105108806849399",
-                    "size": "693513908",
-                    "download": "473913360"
+                    "gid": "6297483501705785741",
+                    "size": "693514770",
+                    "download": "473912960"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c0227822f255bb0836dc6ea94d39abc7a62fb9ba541ea8d3162b11962a12fb92"
         },
         "3177974": {
             "manifests": {}
         },
         "branches": {
             "public": {
-                "buildid": "17705688",
-                "timeupdated": "1741854611"
+                "buildid": "18006350",
+                "timeupdated": "1743996133"
             }
         },
         "privatebranches": "1",
