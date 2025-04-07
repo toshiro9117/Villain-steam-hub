@@ -4,8 +4,8 @@
     "name": "Dismantling Workshop of Bio-Girl",
     "schinese_name": "生械娘的解体工房",
     "isfreeapp": "0",
-    "change_number": "27849341",
-    "update_time": "2025-03-08 17:09:07",
+    "change_number": "28124564",
+    "update_time": "2025-03-25 15:47:28",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "3246451": {
@@ -62,7 +62,7 @@
                     "download": "180897552"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b1c49de547fd17cdb0c1f7bce050856384d523841ef8353b9c1dfd4ca9a3be44"
         },
         "branches": {
             "public": {
