@@ -4,8 +4,8 @@
     "name": "Spirit City: Lofi Sessions",
     "schinese_name": "精神城市：洛菲会议",
     "isfreeapp": "0",
-    "change_number": "28001619",
-    "update_time": "2025-03-18 04:31:54",
+    "change_number": "28323919",
+    "update_time": "2025-04-05 21:54:02",
     "depot": {
         "2113851": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3379919386257051357",
-                    "size": "2284735861",
-                    "download": "1935578112"
+                    "gid": "4448523906965760352",
+                    "size": "2681351534",
+                    "download": "2316372752"
                 }
             },
             "decryptionkey": "c96341ff6c37bb63b6a46045e820f5c956aeea66a47703fb62c8476f09300ae9"
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17224910",
-                "timeupdated": "1738598123"
+                "buildid": "17941493",
+                "timeupdated": "1743521553"
             }
         },
         "privatebranches": "1"
