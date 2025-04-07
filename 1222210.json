@@ -4,8 +4,8 @@
     "name": "Extremely Realistic Siege Warfare Simulator",
     "schinese_name": "超逼真的攻城模拟器",
     "isfreeapp": "0",
-    "change_number": "28005255",
-    "update_time": "2025-03-18 09:57:48",
+    "change_number": "28322453",
+    "update_time": "2025-04-05 17:56:16",
     "depot": {
         "workshopdepot": "1222210",
         "1222211": {
@@ -19,9 +19,9 @@
                     "download": "864791840"
                 },
                 "daily_build": {
-                    "gid": "5429626609508979464",
-                    "size": "2110205910",
-                    "download": "750191904"
+                    "gid": "6174001685450419362",
+                    "size": "2105280899",
+                    "download": "749395600"
                 }
             },
             "decryptionkey": "27572203026f59c1b4f19745987f1f1358d36c7da909806d65d0d2b1dcc7b9d5"
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "daily_build": {
-                    "gid": "4360514575125029786",
-                    "size": "2110205910",
-                    "download": "750095616"
+                    "gid": "3786818952421110734",
+                    "size": "2105280899",
+                    "download": "748222528"
                 }
             },
             "decryptionkey": ""
@@ -45,9 +45,9 @@
                 "timeupdated": "1717745156"
             },
             "daily_build": {
-                "buildid": "17721445",
+                "buildid": "17938713",
                 "description": "New features in testing. This version is compatible with mobile players.",
-                "timeupdated": "1741938198"
+                "timeupdated": "1743574428"
             }
         },
         "privatebranches": "1",
