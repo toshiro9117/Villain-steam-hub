@@ -4,15 +4,15 @@
     "name": "108 Silly Ways to Die",
     "schinese_name": "杠精的108种死法",
     "isfreeapp": "0",
-    "change_number": "28006520",
-    "update_time": "2025-03-18 12:03:41",
+    "change_number": "28215571",
+    "update_time": "2025-03-30 22:51:40",
     "depot": {
         "3159901": {
             "manifests": {
                 "public": {
-                    "gid": "4468634334550349722",
-                    "size": "22879344285",
-                    "download": "21582784672"
+                    "gid": "8747532868645753375",
+                    "size": "22853257482",
+                    "download": "21556424384"
                 }
             },
             "decryptionkey": "de7ec94f1484dcc239b0bd407445682237a6ac1da0497d4278cb0f3945341a2e"
@@ -20,8 +20,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17336852",
-                "timeupdated": "1739367959"
+                "buildid": "17781102",
+                "timeupdated": "1742451091"
             }
         },
         "privatebranches": "1"
