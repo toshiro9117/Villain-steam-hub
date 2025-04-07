@@ -4,8 +4,8 @@
     "name": "Resident Evil 6",
     "schinese_name": "生化危机6",
     "isfreeapp": "0",
-    "change_number": "27507708",
-    "update_time": "2025-02-17 08:17:51",
+    "change_number": "28052526",
+    "update_time": "2025-03-20 22:21:48",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
@@ -32,7 +32,7 @@
                     "download": "14650551680"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6a1e95acc180950d80167ccc4f012db4f7db4bd51e7816f2a00359383633a0bf"
         },
         "221043": {
             "manifests": {
@@ -42,7 +42,7 @@
                     "download": "14852545968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "02962ce3b494d53c57bd61a826554005fb222503e6c0060bd26e2cc579a50b77"
         },
         "228580": {
             "dlcappid": "228580",
@@ -75,7 +75,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ce138b6addc4abf27fdae757fee938ddc6cc2a0fc526ddb484c39f0b022293f3"
         },
         "232510": {
             "dlcappid": "232510",
@@ -155,7 +155,7 @@
                     "download": "15068368576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3dd6e6a48115cfd940f98db42ea65096953bfeb0f276b9920dac8b314ac80baf"
         },
         "branches": {
             "public": {
