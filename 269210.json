@@ -4,8 +4,8 @@
     "name": "Hero Siege",
     "schinese_name": "攻城英雄",
     "isfreeapp": "0",
-    "change_number": "27996363",
-    "update_time": "2025-03-17 22:58:03",
+    "change_number": "28292657",
+    "update_time": "2025-04-04 00:10:49",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -42,9 +42,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "6137758803517828419",
-                    "size": "2999678856",
-                    "download": "1395841712"
+                    "gid": "1852031075682113934",
+                    "size": "3000281051",
+                    "download": "1395996240"
                 },
                 "herosiege1": {
                     "gid": "7623323863527142409",
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17753108",
-                "timeupdated": "1742223474"
+                "buildid": "17971002",
+                "timeupdated": "1743688403"
             },
             "herosiege1": {
                 "buildid": "10881969",
