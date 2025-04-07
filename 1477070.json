@@ -4,8 +4,8 @@
     "name": "Depersonalization",
     "schinese_name": "人格解体",
     "isfreeapp": "0",
-    "change_number": "27954863",
-    "update_time": "2025-03-14 19:25:50",
+    "change_number": "28243179",
+    "update_time": "2025-04-01 15:27:40",
     "depot": {
         "workshopdepot": "1477070",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1079933121086745347",
-                    "size": "7740536727",
-                    "download": "2315908336"
+                    "gid": "5544623054659089954",
+                    "size": "7744484361",
+                    "download": "2316037232"
                 }
             },
             "decryptionkey": "63af1726fe45a06ec8cd5967b11f3a797596cb2e54d8140b5ac001b223c7695d"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "354591670846586174",
-                    "size": "7741848093",
-                    "download": "2322346480"
+                    "gid": "271734291116837827",
+                    "size": "7745643371",
+                    "download": "2322517568"
                 }
             },
             "decryptionkey": "28cb1c1403a7b5dbec2782fe7baab195c2b178703615cfbe88028adde05a4ac9"
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17724202",
-                "timeupdated": "1741951545"
+                "buildid": "17848616",
+                "timeupdated": "1742891408"
             }
         },
         "privatebranches": "1",
