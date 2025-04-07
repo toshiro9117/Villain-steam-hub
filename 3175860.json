@@ -4,8 +4,8 @@
     "name": "Driving Is Hard",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27994892",
-    "update_time": "2025-03-17 21:57:25",
+    "change_number": "28331853",
+    "update_time": "2025-04-06 19:57:42",
     "depot": {
         "baselanguages": "english",
         "3175861": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6974650364118263264",
-                    "size": "1667343941",
-                    "download": "1235128912"
+                    "gid": "1241067618959293755",
+                    "size": "1772361811",
+                    "download": "1394120048"
                 }
             },
             "decryptionkey": "1f54e0f21259d580e51e729346b6575b40001019724d7f2079cac7b0deb65172"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2862512245482395207",
-                    "size": "1848230178",
-                    "download": "1325009696"
+                    "gid": "5591976857571628440",
+                    "size": "1988276508",
+                    "download": "1517683504"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "77a64f97a30abca4f1e9baa0f725a0510090a80d9aeb12255170eb6eeb5f33e1"
         },
         "branches": {
             "public": {
-                "buildid": "17647252",
-                "timeupdated": "1741452334"
+                "buildid": "17994691",
+                "timeupdated": "1743855517"
             }
         }
     }
