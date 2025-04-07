@@ -4,8 +4,8 @@
     "name": "The Stone of Madness",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013568",
-    "update_time": "2025-03-18 21:07:54",
+    "change_number": "28345675",
+    "update_time": "2025-04-07 20:39:53",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "228988": {
@@ -25,9 +25,9 @@
         "1309711": {
             "manifests": {
                 "public": {
-                    "gid": "3192539977575889220",
-                    "size": "8851951566",
-                    "download": "2804528048"
+                    "gid": "8409644377550460625",
+                    "size": "8907962672",
+                    "download": "2839456416"
                 }
             },
             "decryptionkey": "4eea7bd27bc388f4046d14a4fb7146c911e7d0902f5c583a4c17266cea77c1e9"
@@ -38,12 +38,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5375447057410492069",
-                    "size": "9241150999",
-                    "download": "3139762096"
+                    "gid": "3939490951582116681",
+                    "size": "9420305109",
+                    "download": "3291225424"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fd9807d6059b3cce8fbd8c22d44efdfca9eab4a76c4e1cff8209c4894d0513fc"
         },
         "3392529": {
             "dlcappid": "3392520",
@@ -58,8 +58,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17326649",
-                "timeupdated": "1739305283"
+                "buildid": "17922209",
+                "timeupdated": "1743410330"
             }
         },
         "privatebranches": "1"
