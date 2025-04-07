@@ -4,8 +4,8 @@
     "name": "Last Oasis - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27874396",
-    "update_time": "2025-03-10 23:51:29",
+    "change_number": "28323275",
+    "update_time": "2025-04-05 20:11:47",
     "depot": {
         "1004": {
             "config": {
@@ -70,19 +70,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4235468552697095123",
-                    "size": "3744885409",
-                    "download": "732466784"
+                    "gid": "6938494240865470325",
+                    "size": "7345230227",
+                    "download": "1333917568"
                 },
                 "classic": {
                     "gid": "1066263781797053033",
                     "size": "5578105247",
                     "download": "1024879328"
-                },
-                "sdktest": {
-                    "gid": "6149513585136915120",
-                    "size": "7344760955",
-                    "download": "1333860720"
                 }
             },
             "decryptionkey": "dbb7ce6c6eef269cd9b5c64dea8f4b37f5ed5993d173b8aaa88a98e8c23b4777"
@@ -94,37 +89,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2662079354345910486",
-                    "size": "4081790300",
-                    "download": "741666368"
+                    "gid": "1253600512319466592",
+                    "size": "7553022352",
+                    "download": "1313602720"
                 },
                 "classic": {
                     "gid": "1229449101651237669",
                     "size": "5929391951",
                     "download": "1043690416"
-                },
-                "sdktest": {
-                    "gid": "4748012669482715159",
-                    "size": "7552734149",
-                    "download": "1313566816"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "10003499",
-                "timeupdated": "1669246773"
+                "buildid": "17945565",
+                "timeupdated": "1743541873"
             },
             "classic": {
                 "buildid": "9193201",
                 "description": "Classic S4",
                 "timeupdated": "1658846235"
-            },
-            "sdktest": {
-                "buildid": "17647072",
-                "description": "SDK Test Server",
-                "timeupdated": "1741444033"
             }
         },
         "privatebranches": "1"
