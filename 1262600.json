@@ -4,9 +4,10 @@
     "name": "Need for Speed™ Rivals",
     "schinese_name": "极品飞车18：宿敌",
     "isfreeapp": "0",
-    "change_number": "27982183",
-    "update_time": "2025-03-17 00:21:28",
+    "change_number": "28236475",
+    "update_time": "2025-04-01 05:29:28",
     "depot": {
+        "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,dutch,brazilian",
         "228984": {
             "config": {
                 "oslist": "windows"
@@ -21,11 +22,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,dutch,brazilian",
         "1262601": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "2622729052377377290",
@@ -177,6 +174,17 @@
                 }
             },
             "decryptionkey": "9d2162574361aa8a1c5bf66ff4e8754755cd78924666f3495fc800721c7c98c9"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "8338176014021574110",
+                    "size": "236555927",
+                    "download": "238692112"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
         },
         "branches": {
             "public": {
