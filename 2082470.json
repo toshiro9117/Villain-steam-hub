@@ -4,8 +4,8 @@
     "name": "VEIN Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28005945",
-    "update_time": "2025-03-18 11:04:27",
+    "change_number": "28344879",
+    "update_time": "2025-04-07 19:47:48",
     "depot": {
         "228989": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4584128631301869476",
-                    "size": "52483027561",
-                    "download": "17288378544"
+                    "gid": "7415640997585282578",
+                    "size": "53482312181",
+                    "download": "17525616912"
                 },
                 "experimental": {
-                    "gid": "2543392978788935743",
-                    "size": "53190818357",
-                    "download": "17471717232"
+                    "gid": "4639297321101250753",
+                    "size": "53957017849",
+                    "download": "17756879904"
                 }
             }
         },
@@ -44,27 +44,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7750352361888108197",
-                    "size": "49521833466",
-                    "download": "16733903312"
+                    "gid": "5976526949668419753",
+                    "size": "50386421235",
+                    "download": "16939746672"
                 },
                 "experimental": {
-                    "gid": "6178564661935678096",
-                    "size": "50109559833",
-                    "download": "16885849008"
+                    "gid": "5488951368844555513",
+                    "size": "50795679242",
+                    "download": "17158639488"
                 }
             }
         },
         "workshopdepot": "2082470",
         "branches": {
             "public": {
-                "buildid": "17623817",
-                "timeupdated": "1741285188"
+                "buildid": "17971705",
+                "timeupdated": "1743691803"
             },
             "experimental": {
-                "buildid": "17760024",
+                "buildid": "18010785",
                 "description": "Bleeding-edge updates, unstable",
-                "timeupdated": "1742267064"
+                "timeupdated": "1744026463"
             }
         },
         "privatebranches": "1"
