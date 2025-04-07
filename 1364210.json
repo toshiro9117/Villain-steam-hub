@@ -4,8 +4,8 @@
     "name": "City Bus Manager",
     "schinese_name": "城市巴士经理",
     "isfreeapp": "0",
-    "change_number": "27529202",
-    "update_time": "2025-02-18 15:03:29",
+    "change_number": "28343159",
+    "update_time": "2025-04-07 17:57:48",
     "depot": {
         "hasdepotsindlc": "1",
         "1364212": {
@@ -57,6 +57,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "a2f63ad9fdb4aad94b825ce27fa4b82ea6327ee0eb2fb35cd62da5406b738ae3"
+        "workshopdepotdecryptionkey": ""
     }
 }
