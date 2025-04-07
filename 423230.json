@@ -4,8 +4,8 @@
     "name": "Furi",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27876708",
-    "update_time": "2025-03-11 02:02:47",
+    "change_number": "28178434",
+    "update_time": "2025-03-28 04:41:27",
     "depot": {
         "baselanguages": "english,french,italian,spanish,russian,japanese,dutch,brazilian",
         "228985": {
@@ -25,6 +25,7 @@
             },
             "decryptionkey": "156dd9e4eb8c7891a53e579ff33bf7aac55c26b1d5de6153aa1fe3688d04fffd"
         },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "8943087",
