@@ -4,8 +4,8 @@
     "name": "Spin Rhythm XD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27988321",
-    "update_time": "2025-03-17 14:21:46",
+    "change_number": "28342106",
+    "update_time": "2025-04-07 16:50:31",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "hasdepotsindlc": "1",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3546695776785407582",
-                    "size": "1121845013",
-                    "download": "918394896"
+                    "gid": "5865963768045243186",
+                    "size": "1165355663",
+                    "download": "948685200"
                 },
                 "update16": {
                     "gid": "3967904376693158476",
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "772453060841265175",
-                    "size": "1113872828",
-                    "download": "925886768"
+                    "gid": "934827518702748887",
+                    "size": "1153402779",
+                    "download": "956047984"
                 },
                 "update16": {
                     "gid": "8189507720046916176",
@@ -66,9 +66,9 @@
             "dlcappid": "1668790",
             "manifests": {
                 "public": {
-                    "gid": "2052352720918009819",
-                    "size": "120912884",
-                    "download": "117278016"
+                    "gid": "5003848624956969108",
+                    "size": "129059382",
+                    "download": "123254848"
                 },
                 "update16": {
                     "gid": "8307690183691697815",
@@ -87,9 +87,9 @@
             "dlcappid": "1668791",
             "manifests": {
                 "public": {
-                    "gid": "4558804745297557413",
-                    "size": "93173822",
-                    "download": "88011616"
+                    "gid": "2936661210911198710",
+                    "size": "104291893",
+                    "download": "95663616"
                 },
                 "update16": {
                     "gid": "6077303655533095131",
@@ -102,15 +102,15 @@
                     "download": "88011616"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "64a1081e7e6d408a166bf3cf058fd384486eef13abdcbbc477f3dec90267f5a2"
         },
         "1664540": {
             "dlcappid": "1664540",
             "manifests": {
                 "public": {
-                    "gid": "4448660817873807239",
-                    "size": "23864550",
-                    "download": "15719856"
+                    "gid": "2035226493708135611",
+                    "size": "31922878",
+                    "download": "19360448"
                 },
                 "vr_disabled": {
                     "gid": "4448660817873807239",
@@ -118,19 +118,26 @@
                     "download": "15719856"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1f2524ed33a3c11d30d6f2fff2588dd755f3580da01c0c112cdbb63faa8f6f05"
         },
         "1058833": {
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6125445772991970315",
+                    "size": "1129915540",
+                    "download": "943073472"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16230431",
-                "timeupdated": "1730273032"
+                "buildid": "18007865",
+                "timeupdated": "1744015826"
             },
             "update16": {
                 "buildid": "8197193",
