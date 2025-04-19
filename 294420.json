@@ -4,8 +4,8 @@
     "name": "7 Days to Die Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28331554",
-    "update_time": "2025-04-06 19:12:06",
+    "change_number": "28518906",
+    "update_time": "2025-04-17 08:29:50",
     "depot": {
         "228983": {
             "config": {
@@ -36,11 +36,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7308623185810907579",
-                    "size": "17833211985",
-                    "download": "11877178112"
+                    "gid": "6718131435641091070",
+                    "size": "17833405490",
+                    "download": "11876786848"
                 },
                 "latest_experimental": {
+                    "gid": "6718131435641091070",
+                    "size": "17833405490",
+                    "download": "11876786848"
+                },
+                "v1.4": {
                     "gid": "6718131435641091070",
                     "size": "17833405490",
                     "download": "11876786848"
@@ -139,11 +144,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4914552804596026286",
-                    "size": "11855736747",
-                    "download": "7266698544"
+                    "gid": "4337473738794231947",
+                    "size": "11855698597",
+                    "download": "7266745312"
                 },
                 "latest_experimental": {
+                    "gid": "4337473738794231947",
+                    "size": "11855698597",
+                    "download": "7266745312"
+                },
+                "v1.4": {
                     "gid": "4337473738794231947",
                     "size": "11855698597",
                     "download": "7266745312"
@@ -233,13 +243,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17249542",
-                "timeupdated": "1739383097"
+                "buildid": "17990043",
+                "timeupdated": "1744394487"
             },
             "latest_experimental": {
                 "buildid": "17990043",
                 "description": "Unstable build",
                 "timeupdated": "1743806796"
+            },
+            "v1.4": {
+                "buildid": "17990043",
+                "description": "Version 1.4 Stable",
+                "timeupdated": "1744394206"
             },
             "v1.3": {
                 "buildid": "17249542",
