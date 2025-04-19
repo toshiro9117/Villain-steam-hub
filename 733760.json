@@ -4,8 +4,8 @@
     "name": "MegaRace 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27531836",
-    "update_time": "2025-02-18 18:13:47",
+    "change_number": "28454538",
+    "update_time": "2025-04-14 00:07:59",
     "depot": {
         "733761": {
             "config": {
@@ -46,8 +46,7 @@
                     "size": "949569703",
                     "download": "762534144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "733764": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "923024107",
                     "download": "761515936"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "733765": {
             "config": {
@@ -74,8 +72,7 @@
                     "size": "971305021",
                     "download": "784266512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "733766": {
             "config": {
@@ -88,8 +85,7 @@
                     "size": "925889203",
                     "download": "761872000"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
