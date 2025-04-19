@@ -4,8 +4,8 @@
     "name": "The Front Linux Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27037995",
-    "update_time": "2025-01-17 15:04:36",
+    "change_number": "28401596",
+    "update_time": "2025-04-10 15:07:57",
     "depot": {
         "baselanguages": "english",
         "1004": {
@@ -58,17 +58,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2280801278843499243",
-                    "size": "2988393741",
-                    "download": "2732874256"
+                    "gid": "1252754276518757712",
+                    "size": "3032051951",
+                    "download": "2775063440"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "72568c39b722a644d52d51eb43afcf3deab2cf852c7b2c7f018cdeea571e1805"
         },
         "branches": {
             "public": {
-                "buildid": "17437276",
-                "timeupdated": "1740121457"
+                "buildid": "17950608",
+                "timeupdated": "1744268859"
             }
         }
     }
