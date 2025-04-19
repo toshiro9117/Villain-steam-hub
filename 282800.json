@@ -4,8 +4,8 @@
     "name": "100% Orange Juice",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336788",
-    "update_time": "2025-04-07 07:25:09",
+    "change_number": "28531242",
+    "update_time": "2025-04-17 22:36:48",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1874612033309253600",
-                    "size": "41786192",
-                    "download": "13820000"
+                    "gid": "8799323665608464682",
+                    "size": "63211604",
+                    "download": "22046000"
                 },
                 "legacy_3.23.1": {
                     "gid": "1404488458413730498",
@@ -50,17 +50,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "78412405398099402",
-                    "size": "38063096",
-                    "download": "11600624"
+                    "gid": "2614226265980591947",
+                    "size": "41623800",
+                    "download": "12442496"
                 },
                 "legacy_3.23.1": {
                     "gid": "230338898967177283",
                     "size": "25443224",
                     "download": "8009072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "282803": {
             "config": {
@@ -68,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8496317539415289041",
-                    "size": "1760565859",
-                    "download": "1667248560"
+                    "gid": "3761403510395030466",
+                    "size": "1760784417",
+                    "download": "1667226336"
                 },
                 "legacy_3.23.1": {
                     "gid": "7640951944759810439",
@@ -86,17 +85,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "316327967293422670",
-                    "size": "1793054359",
-                    "download": "1653079792"
+                    "gid": "2684735433196840202",
+                    "size": "1799131327",
+                    "download": "1654404784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "18004830",
-                "timeupdated": "1743981904"
+                "buildid": "18162734",
+                "timeupdated": "1745018614"
             },
             "legacy_3.23.1": {
                 "buildid": "16098648",
