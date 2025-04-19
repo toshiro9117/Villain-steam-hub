@@ -4,8 +4,8 @@
     "name": "Spilled! Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333273",
-    "update_time": "2025-04-06 23:16:48",
+    "change_number": "28392316",
+    "update_time": "2025-04-10 02:08:16",
     "depot": {
         "228990": {
             "config": {
@@ -24,7 +24,8 @@
                     "size": "495802251",
                     "download": "223291072"
                 }
-            }
+            },
+            "decryptionkey": "e1009850cb0a4d8f2c8aa91d072bf3fbdc7367baef753e4c83c681b1de525b1d"
         },
         "2646601": {
             "config": {
