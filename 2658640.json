@@ -4,8 +4,8 @@
     "name": "Oasis Mission",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335475",
-    "update_time": "2025-04-07 04:16:56",
+    "change_number": "28483412",
+    "update_time": "2025-04-15 17:08:38",
     "depot": {
         "2658641": {
             "config": {
@@ -61,8 +61,7 @@
                     "size": "1974183431",
                     "download": "1159255760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,swedish,turkish,brazilian",
         "hasdepotsindlc": "0",
