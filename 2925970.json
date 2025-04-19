@@ -1,0 +1,29 @@
+{
+    "appid": "2925970",
+    "type": "Game",
+    "name": "The Unholy Priest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28519826",
+    "update_time": "2025-04-17 09:48:22",
+    "depot": {
+        "baselanguages": "english",
+        "2925971": {
+            "manifests": {
+                "public": {
+                    "gid": "6529862900932835147",
+                    "size": "7121162073",
+                    "download": "2996374080"
+                }
+            },
+            "decryptionkey": "2516af666d3a9476d2bd66de2549e8549633b1051f2c6bac4dca318725e1b622"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18137273",
+                "timeupdated": "1744854499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
