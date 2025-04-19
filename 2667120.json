@@ -4,8 +4,8 @@
     "name": "Ballionaire",
     "schinese_name": "弹球亿万富翁",
     "isfreeapp": "0",
-    "change_number": "28294312",
-    "update_time": "2025-04-04 01:52:12",
+    "change_number": "28469085",
+    "update_time": "2025-04-14 23:08:02",
     "depot": {
         "2667121": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "399944836",
                     "download": "233399536"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,schinese",
         "workshopdepot": "2667120",
