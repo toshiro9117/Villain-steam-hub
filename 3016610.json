@@ -4,8 +4,8 @@
     "name": "Bopp File",
     "schinese_name": "波普档案",
     "isfreeapp": "0",
-    "change_number": "26782053",
-    "update_time": "2024-12-25 23:23:48",
+    "change_number": "28383258",
+    "update_time": "2025-04-09 17:46:28",
     "depot": {
         "228989": {
             "config": {
@@ -32,17 +32,17 @@
         "3016611": {
             "manifests": {
                 "public": {
-                    "gid": "1402334418772057819",
-                    "size": "3693619805",
-                    "download": "3460814368"
+                    "gid": "330613298493669003",
+                    "size": "4091976132",
+                    "download": "3800896288"
                 }
             },
             "decryptionkey": "60937b43e073402885bbb33c7dc6ca59bbf7193d9756c4d5b5e88a0c26a31154"
         },
         "branches": {
             "public": {
-                "buildid": "16392951",
-                "timeupdated": "1731506311"
+                "buildid": "18038885",
+                "timeupdated": "1744191984"
             }
         }
     }
