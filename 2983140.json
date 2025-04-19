@@ -4,8 +4,8 @@
     "name": "无罪之庭/Trials of Innocence",
     "schinese_name": "无罪之庭",
     "isfreeapp": "0",
-    "change_number": "28335017",
-    "update_time": "2025-04-07 03:16:52",
+    "change_number": "28479938",
+    "update_time": "2025-04-15 13:09:26",
     "depot": {
         "2983141": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5117177918046653729",
+                    "size": "1413887683",
+                    "download": "980333856"
+                },
+                "1.2.2.510_release": {
                     "gid": "8044812448938579497",
                     "size": "1413874395",
                     "download": "980268688"
-                },
-                "1.2.2.510_release": {
-                    "gid": "4631268566787013754",
-                    "size": "1407662659",
-                    "download": "976490112"
                 },
                 "1.2.2.508_release": {
                     "gid": "9073105968489174229",
@@ -42,13 +42,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17996628",
-                "timeupdated": "1743886000"
+                "buildid": "18075299",
+                "timeupdated": "1744409186"
             },
             "1.2.2.510_release": {
-                "buildid": "17941472",
+                "buildid": "17996628",
                 "description": "不出错的版本",
-                "timeupdated": "1743620326"
+                "timeupdated": "1744274516"
             },
             "1.2.2.508_release": {
                 "buildid": "17885990",
