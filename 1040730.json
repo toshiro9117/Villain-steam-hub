@@ -4,8 +4,8 @@
     "name": "ZUSI 3 - Aerosoft Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28316244",
-    "update_time": "2025-04-05 04:18:18",
+    "change_number": "28522346",
+    "update_time": "2025-04-17 13:43:50",
     "depot": {
         "228990": {
             "config": {
@@ -17,17 +17,17 @@
         "1040731": {
             "manifests": {
                 "public": {
-                    "gid": "5765613700244312891",
-                    "size": "10556251330",
-                    "download": "3036014288"
+                    "gid": "6454928400486416718",
+                    "size": "10869185617",
+                    "download": "3198316256"
                 }
             },
             "decryptionkey": "c5b3b28e4505b43631d0f7d2f350534de914ecf27c9b27517622c56b767dc1d1"
         },
         "branches": {
             "public": {
-                "buildid": "17899431",
-                "timeupdated": "1743402349"
+                "buildid": "18026615",
+                "timeupdated": "1744868626"
             }
         }
     }
