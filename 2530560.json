@@ -1,0 +1,43 @@
+{
+    "appid": "2530560",
+    "type": "Game",
+    "name": "Rusty Rabbit",
+    "schinese_name": "锈兔异途 / Rusty Rabbit",
+    "isfreeapp": "0",
+    "change_number": "28545265",
+    "update_time": "2025-04-18 16:00:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2530561": {
+            "manifests": {
+                "public": {
+                    "gid": "8737412325325365907",
+                    "size": "22845641098",
+                    "download": "8765919760"
+                }
+            },
+            "decryptionkey": "8c0fa80b5a03553119bc455a56201365fb3e38750e25a1478dbfb53b9f2b7ac6"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "17933916",
+                "timeupdated": "1743998220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
