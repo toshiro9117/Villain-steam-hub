@@ -4,8 +4,8 @@
     "name": "Wizardry 8",
     "schinese_name": "巫术8",
     "isfreeapp": "0",
-    "change_number": "28201127",
-    "update_time": "2025-03-29 08:14:40",
+    "change_number": "28435710",
+    "update_time": "2025-04-12 02:55:19",
     "depot": {
         "228990": {
             "config": {
@@ -65,8 +65,7 @@
                     "size": "2117461613",
                     "download": "1276528368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
