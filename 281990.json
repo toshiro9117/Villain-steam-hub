@@ -4,8 +4,8 @@
     "name": "Stellaris",
     "schinese_name": "群星",
     "isfreeapp": "0",
-    "change_number": "28304070",
-    "update_time": "2025-04-04 16:01:30",
+    "change_number": "28480835",
+    "update_time": "2025-04-15 14:30:41",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -6542,6 +6542,10 @@
                 }
             },
             "decryptionkey": "ea43c617350d094f3e4e1bc8f237e397f15d90468eda42799a1563fdca3824c1"
+        },
+        "3417840": {
+            "dlcappid": "3417840",
+            "manifests": {}
         },
         "branches": {
             "public": {
