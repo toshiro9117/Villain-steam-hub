@@ -4,8 +4,8 @@
     "name": "Clank!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335961",
-    "update_time": "2025-04-07 05:17:26",
+    "change_number": "28546195",
+    "update_time": "2025-04-18 17:02:38",
     "depot": {
         "1722871": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "503952964",
                     "download": "183271152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
