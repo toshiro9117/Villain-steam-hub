@@ -1,0 +1,58 @@
+{
+    "appid": "2449450",
+    "type": "Game",
+    "name": "Clonizer",
+    "schinese_name": "外星殖民公司",
+    "isfreeapp": "0",
+    "change_number": "28549663",
+    "update_time": "2025-04-18 21:01:05",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,turkish",
+        "2449451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5731110108671913524",
+                    "size": "2413571672",
+                    "download": "350618400"
+                }
+            },
+            "decryptionkey": "e851bbdba1f73973a79770edf9d279583741bc2a4d5b6dae4ad4edeaf7f01b5b"
+        },
+        "2449452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8622615641410654942",
+                    "size": "2430521885",
+                    "download": "357205424"
+                }
+            }
+        },
+        "2449453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1798847970250435204",
+                    "size": "2407089163",
+                    "download": "345296176"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18158468",
+                "timeupdated": "1744987192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
