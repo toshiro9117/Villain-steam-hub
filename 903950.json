@@ -4,8 +4,8 @@
     "name": "Last Oasis",
     "schinese_name": "最后的绿洲",
     "isfreeapp": "0",
-    "change_number": "28275122",
-    "update_time": "2025-04-03 03:27:04",
+    "change_number": "28539599",
+    "update_time": "2025-04-18 07:20:39",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6086372743302901374",
-                    "size": "25556680576",
-                    "download": "24447482768"
+                    "gid": "1235229228866797440",
+                    "size": "25380662440",
+                    "download": "24288980448"
                 },
                 "classic": {
                     "gid": "541509903396589753",
@@ -50,8 +50,8 @@
         "workshopdepot": "903950",
         "branches": {
             "public": {
-                "buildid": "17885973",
-                "timeupdated": "1743093928"
+                "buildid": "18149472",
+                "timeupdated": "1744924098"
             },
             "classic": {
                 "buildid": "9193433",
@@ -60,6 +60,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a39a9f264facd3db4228bf3c299cf2640bb4dda8d0f3b9f1840e46bbd5fde00b"
     }
 }
