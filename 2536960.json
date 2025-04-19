@@ -4,8 +4,8 @@
     "name": "Shadowveil: Legend of The Five Rings",
     "schinese_name": "暗影帷幕：《五轮传奇》",
     "isfreeapp": "0",
-    "change_number": "28346769",
-    "update_time": "2025-04-07 21:49:29",
+    "change_number": "28549201",
+    "update_time": "2025-04-18 20:23:57",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -32,9 +32,9 @@
         "2536961": {
             "manifests": {
                 "public": {
-                    "gid": "5302829533292245504",
-                    "size": "8614285714",
-                    "download": "8077360096"
+                    "gid": "4668444332179524851",
+                    "size": "8377885327",
+                    "download": "7845233152"
                 },
                 "backup1.0.0": {
                     "gid": "2554737527435014843",
@@ -60,14 +60,24 @@
                     "gid": "5302829533292245504",
                     "size": "8614285714",
                     "download": "8077360096"
+                },
+                "backup1.0.5": {
+                    "gid": "3177732698052835192",
+                    "size": "8378467827",
+                    "download": "7845389872"
+                },
+                "backup1.0.6": {
+                    "gid": "4668444332179524851",
+                    "size": "8377885327",
+                    "download": "7845233152"
                 }
             },
             "decryptionkey": "3df080decc628928621080b03652e6b736eb4d35e609da5e4d94a2c8877c5457"
         },
         "branches": {
             "public": {
-                "buildid": "17884970",
-                "timeupdated": "1743158038"
+                "buildid": "18126000",
+                "timeupdated": "1744810943"
             },
             "backup1.0.0": {
                 "buildid": "17549197",
@@ -93,6 +103,16 @@
                 "buildid": "17884970",
                 "description": "Patch 1.0.4",
                 "timeupdated": "1743158117"
+            },
+            "backup1.0.5": {
+                "buildid": "18039162",
+                "description": "Patch 1.0.5",
+                "timeupdated": "1744268367"
+            },
+            "backup1.0.6": {
+                "buildid": "18126000",
+                "description": "Patch 1.0.6",
+                "timeupdated": "1744810963"
             }
         },
         "privatebranches": "1"
