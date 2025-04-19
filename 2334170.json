@@ -4,8 +4,8 @@
     "name": "Metal Bringer",
     "schinese_name": "机兵大乱战",
     "isfreeapp": "0",
-    "change_number": "28338195",
-    "update_time": "2025-04-07 10:16:57",
+    "change_number": "28545517",
+    "update_time": "2025-04-18 16:12:38",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2334171": {
             "manifests": {
                 "public": {
-                    "gid": "2856223585441083825",
-                    "size": "697326522",
-                    "download": "567855120"
+                    "gid": "3164897833336850267",
+                    "size": "721685114",
+                    "download": "592162592"
                 }
             },
             "decryptionkey": "6b4aeb7d33b96812418e9faca0fbb58ecf40aba22bbb22d599c6136bb4e6422c"
@@ -34,8 +34,8 @@
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17701697",
-                "timeupdated": "1741921438"
+                "buildid": "18005863",
+                "timeupdated": "1744168382"
             }
         },
         "privatebranches": "1"
