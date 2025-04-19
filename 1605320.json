@@ -4,8 +4,8 @@
     "name": "Unusual Findings",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26614346",
-    "update_time": "2024-12-13 00:08:22",
+    "change_number": "28412751",
+    "update_time": "2025-04-11 01:07:51",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -32,8 +32,7 @@
                     "size": "1539856591",
                     "download": "805068368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1605323": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "1561040453",
                     "download": "812380528"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
