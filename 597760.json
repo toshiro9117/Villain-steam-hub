@@ -4,220 +4,16 @@
     "name": "Yuppie Psycho",
     "schinese_name": "雅皮士精神",
     "isfreeapp": "0",
-    "change_number": "28210843",
-    "update_time": "2025-03-30 08:15:10",
+    "change_number": "28549268",
+    "update_time": "2025-04-18 20:30:06",
     "depot": {
+        "baselanguages": "english,french,spanish",
         "229020": {
             "config": {
                 "oslist": "windows"
             },
             "depotfromapp": "228980",
             "sharedinstall": "1"
-        },
-        "baselanguages": "english,french,spanish",
-        "597761": {
-            "config": {
-                "oslist": "linux",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "1351905015452327057",
-                    "size": "1558425718",
-                    "download": "1371545664"
-                },
-                "legacy": {
-                    "gid": "1725413172645028773",
-                    "size": "1722805980",
-                    "download": "1501558512"
-                },
-                "pre_dlc": {
-                    "gid": "5403679347819402972",
-                    "size": "868716885",
-                    "download": "715923552"
-                },
-                "previous": {
-                    "gid": "3401985337004140230",
-                    "size": "1528087861",
-                    "download": "1372132224"
-                },
-                "beta": {
-                    "gid": "4970034257250830500",
-                    "size": "1558481994",
-                    "download": "1371572896"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "597764": {
-            "config": {
-                "oslist": "macos",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "7901905973969654305",
-                    "size": "1564402322",
-                    "download": "1372404576"
-                },
-                "legacy": {
-                    "gid": "1003323509786167856",
-                    "size": "1698673788",
-                    "download": "1490975584"
-                },
-                "pre_dlc": {
-                    "gid": "7782559096966465423",
-                    "size": "842989750",
-                    "download": "713283536"
-                },
-                "previous": {
-                    "gid": "8119940230440597141",
-                    "size": "1576886219",
-                    "download": "1389848352"
-                },
-                "beta": {
-                    "gid": "5634843069832722650",
-                    "size": "1564147199",
-                    "download": "1372364576"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "597762": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "8582896589921945849",
-                    "size": "1570478148",
-                    "download": "1374648176"
-                },
-                "legacy": {
-                    "gid": "1910729223043041536",
-                    "size": "1753684356",
-                    "download": "1556044832"
-                },
-                "pre_dlc": {
-                    "gid": "3494743632977565891",
-                    "size": "990149405",
-                    "download": "767717680"
-                },
-                "previous": {
-                    "gid": "110353088058372472",
-                    "size": "1538800694",
-                    "download": "1375126128"
-                },
-                "beta": {
-                    "gid": "2093199224140379763",
-                    "size": "1570738305",
-                    "download": "1374744624"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "597765": {
-            "config": {
-                "oslist": "linux",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "6829538036025830438",
-                    "size": "1558425718",
-                    "download": "1371545696"
-                },
-                "legacy": {
-                    "gid": "1063913757655172916",
-                    "size": "1722805980",
-                    "download": "1501558544"
-                },
-                "pre_dlc": {
-                    "gid": "7653933639930648552",
-                    "size": "868716885",
-                    "download": "715923584"
-                },
-                "previous": {
-                    "gid": "77495474086043725",
-                    "size": "1528087861",
-                    "download": "1372132256"
-                },
-                "beta": {
-                    "gid": "6447146012078369732",
-                    "size": "1558481994",
-                    "download": "1371572928"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "597766": {
-            "config": {
-                "oslist": "macos",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "2334751877080868168",
-                    "size": "1564402322",
-                    "download": "1372404608"
-                },
-                "legacy": {
-                    "gid": "6207579638108018711",
-                    "size": "1698673788",
-                    "download": "1490975616"
-                },
-                "pre_dlc": {
-                    "gid": "4348878749035896992",
-                    "size": "842989750",
-                    "download": "713283568"
-                },
-                "previous": {
-                    "gid": "2660294602888780300",
-                    "size": "1576886219",
-                    "download": "1389848384"
-                },
-                "beta": {
-                    "gid": "6707503305549891884",
-                    "size": "1564147199",
-                    "download": "1372364608"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "597763": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "1973294602626867069",
-                    "size": "1570478148",
-                    "download": "1374648288"
-                },
-                "legacy": {
-                    "gid": "7654328876821239205",
-                    "size": "1753684356",
-                    "download": "1556044864"
-                },
-                "pre_dlc": {
-                    "gid": "1329518623376590327",
-                    "size": "990149405",
-                    "download": "767717712"
-                },
-                "previous": {
-                    "gid": "3980999718368155528",
-                    "size": "1538800694",
-                    "download": "1375126240"
-                },
-                "beta": {
-                    "gid": "5830564633659795213",
-                    "size": "1570738305",
-                    "download": "1374744736"
-                }
-            },
-            "decryptionkey": "98012e3a67f3ccd1b00ddf05828a8b4b0f8cdf08f96fd0f644680db7dc0471cb"
         },
         "597767": {
             "config": {
@@ -249,6 +45,11 @@
                     "gid": "1255562614409822785",
                     "size": "1558481994",
                     "download": "1371572976"
+                },
+                "previous_2_x": {
+                    "gid": "4103123344052764285",
+                    "size": "1558425718",
+                    "download": "1371545744"
                 }
             },
             "decryptionkey": "3495b90fa17cdad0d768467ebd5223eee0eecaca9c056fda4a6375a77f0e973f"
@@ -280,6 +81,11 @@
                     "download": "1389848432"
                 },
                 "beta": {
+                    "gid": "2501903391592343895",
+                    "size": "1564147199",
+                    "download": "1372364656"
+                },
+                "previous_2_x": {
                     "gid": "2501903391592343895",
                     "size": "1564147199",
                     "download": "1372364656"
@@ -317,10 +123,16 @@
                     "gid": "7186905718464983532",
                     "size": "1570738305",
                     "download": "1374744784"
+                },
+                "previous_2_x": {
+                    "gid": "80403378122705302",
+                    "size": "1570478148",
+                    "download": "1374648336"
                 }
             },
             "decryptionkey": "b8f9f19de2d90aaee5a4287d6bd25f636116b2a36e25470d8ce368e496be7e34"
         },
+        "workshopdepot": "597760",
         "branches": {
             "public": {
                 "buildid": "14148849",
@@ -345,8 +157,14 @@
                 "buildid": "17782649",
                 "description": "feeling adventurous ?",
                 "timeupdated": "1742400216"
+            },
+            "previous_2_x": {
+                "buildid": "18070623",
+                "description": "Last 2.5+ version",
+                "timeupdated": "1744369425"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8f10657e6d26862fb7052c5ff85f70a6629fb5442e7955c151c741a47ebd5a5e"
     }
 }
