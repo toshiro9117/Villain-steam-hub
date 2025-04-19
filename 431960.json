@@ -4,8 +4,8 @@
     "name": "Wallpaper Engine",
     "schinese_name": "Wallpaper Engine：壁纸引擎",
     "isfreeapp": "0",
-    "change_number": "28341636",
-    "update_time": "2025-04-07 16:18:06",
+    "change_number": "28495509",
+    "update_time": "2025-04-16 05:02:43",
     "depot": {
         "workshopdepot": "431960",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
@@ -18,9 +18,9 @@
                     "download": "271191248"
                 },
                 "beta": {
-                    "gid": "2051474598246560964",
-                    "size": "628645086",
-                    "download": "271387536"
+                    "gid": "7611042905975565140",
+                    "size": "628958639",
+                    "download": "271496352"
                 },
                 "previous": {
                     "gid": "5465725012314299548",
@@ -46,9 +46,9 @@
                     "download": "1417712"
                 },
                 "beta": {
-                    "gid": "7747385459092485492",
-                    "size": "7174621",
-                    "download": "1419296"
+                    "gid": "1754970719069376982",
+                    "size": "7180442",
+                    "download": "1420064"
                 },
                 "previous": {
                     "gid": "1677112453947627885",
@@ -69,9 +69,9 @@
                 "timeupdated": "1739980819"
             },
             "beta": {
-                "buildid": "18008463",
+                "buildid": "18119402",
                 "description": "public beta testing, preview for next update",
-                "timeupdated": "1744013881"
+                "timeupdated": "1744750957"
             },
             "previous": {
                 "buildid": "14603215",
@@ -86,6 +86,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "db983bc58a8cb46d89d1d70cc962cc733956e6124c4025a0c932f82b3c37144a"
     }
 }
