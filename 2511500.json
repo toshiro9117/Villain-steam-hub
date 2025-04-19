@@ -4,8 +4,8 @@
     "name": "Dominions 6",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28034008",
-    "update_time": "2025-03-19 22:28:03",
+    "change_number": "28366550",
+    "update_time": "2025-04-08 21:36:48",
     "depot": {
         "228983": {
             "config": {
@@ -32,6 +32,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "05c2f1798694459e11e20ab9299dd447f44ec3327fd3ee8bbdb004b7d48af94f"
     }
 }
