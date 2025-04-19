@@ -1,0 +1,58 @@
+{
+    "appid": "1683270",
+    "type": "Game",
+    "name": "Recall: Empty Wishes",
+    "schinese_name": "Recall: Empty Wishes 空愿",
+    "isfreeapp": "0",
+    "change_number": "28359058",
+    "update_time": "2025-04-08 13:24:27",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1683271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8826770290099083759",
+                    "size": "1951955765",
+                    "download": "1010502320"
+                }
+            },
+            "decryptionkey": "ffcc2ffc643c0355e43412ef4764633a20166c9fc1ba264d2d367554cba4eecf"
+        },
+        "1683272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9118244756696620502",
+                    "size": "1977193137",
+                    "download": "1018737312"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17487868",
+                "timeupdated": "1740426018"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
