@@ -4,8 +4,8 @@
     "name": "Glyphica: Typing Survival",
     "schinese_name": "指尖疾速：打字狂潮",
     "isfreeapp": "0",
-    "change_number": "28305325",
-    "update_time": "2025-04-04 17:20:38",
+    "change_number": "28547249",
+    "update_time": "2025-04-18 18:07:18",
     "depot": {
         "2400161": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3145236521630170227",
-                    "size": "141289134",
-                    "download": "133020864"
+                    "gid": "3596088386638288993",
+                    "size": "141289453",
+                    "download": "133021072"
                 },
                 "demo_test": {
                     "gid": "7082400121264790897",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1229890384770592148",
-                    "size": "153506262",
-                    "download": "134358064"
+                    "gid": "5986964693012707608",
+                    "size": "153506581",
+                    "download": "134358304"
                 },
                 "demo_test": {
                     "gid": "2786582678930205952",
@@ -60,13 +60,12 @@
                     "size": "119662745",
                     "download": "100174208"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17982375",
-                "timeupdated": "1743758430"
+                "buildid": "18054471",
+                "timeupdated": "1744279623"
             },
             "demo_test": {
                 "buildid": "15611210",
