@@ -1,0 +1,27 @@
+{
+    "appid": "3460190",
+    "type": "Game",
+    "name": "Color Madness",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28505594",
+    "update_time": "2025-04-16 18:12:47",
+    "depot": {
+        "3460191": {
+            "manifests": {
+                "public": {
+                    "gid": "570705153009953401",
+                    "size": "142870299",
+                    "download": "96591632"
+                }
+            },
+            "decryptionkey": "72fedbd6c1ded132a91511fe71679346209b288521b210522f1e7b7214938539"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16988795",
+                "timeupdated": "1736784345"
+            }
+        }
+    }
+}
