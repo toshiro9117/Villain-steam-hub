@@ -4,8 +4,8 @@
     "name": "SNØ: Ultimate Freeriding",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323678",
-    "update_time": "2025-04-05 21:14:14",
+    "change_number": "28494844",
+    "update_time": "2025-04-16 04:12:44",
     "depot": {
         "workshopdepot": "2943150",
         "2943151": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7231086583008345066",
-                    "size": "448049686",
-                    "download": "182855104"
+                    "gid": "4858364779506079350",
+                    "size": "455425986",
+                    "download": "183251504"
                 }
             },
             "decryptionkey": "83d9416c7201258e613cdf22fcf65d51464cc090bbd6ca77845acfc71cfc8467"
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2452320151665063689",
-                    "size": "472082258",
-                    "download": "191001216"
+                    "gid": "9211183570885678225",
+                    "size": "479555178",
+                    "download": "191454432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17995515",
-                "timeupdated": "1743858849"
+                "buildid": "18118694",
+                "timeupdated": "1744747958"
             }
         },
         "privatebranches": "1",
