@@ -4,15 +4,15 @@
     "name": "Blood West",
     "schinese_name": "血色西部",
     "isfreeapp": "0",
-    "change_number": "28344372",
-    "update_time": "2025-04-07 19:14:59",
+    "change_number": "28534149",
+    "update_time": "2025-04-18 00:59:38",
     "depot": {
         "1587131": {
             "manifests": {
                 "public": {
-                    "gid": "3347967943106255998",
-                    "size": "3868688087",
-                    "download": "3083806736"
+                    "gid": "6533448734175798049",
+                    "size": "3476921903",
+                    "download": "2654634448"
                 }
             },
             "decryptionkey": "d3b09a2ce3e50bcdc756c824fc4c55fb27e7ce2af1e9f9d43b89f4781acf8383"
@@ -21,17 +21,17 @@
             "dlcappid": "3158590",
             "manifests": {
                 "public": {
-                    "gid": "7895554583121232717",
-                    "size": "674397150",
-                    "download": "530137744"
+                    "gid": "1316312890200041254",
+                    "size": "523924247",
+                    "download": "406212368"
                 }
             },
             "decryptionkey": "ce8e093dd1f41a4afbd46af1e713952ba4c7aacc718a1980b319ddf880e57b71"
         },
         "branches": {
             "public": {
-                "buildid": "17530059",
-                "timeupdated": "1740690003"
+                "buildid": "18112013",
+                "timeupdated": "1744797738"
             }
         },
         "privatebranches": "1"
