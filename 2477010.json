@@ -4,8 +4,8 @@
     "name": "Ticket to Ride®",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341253",
-    "update_time": "2025-04-07 15:51:10",
+    "change_number": "28523918",
+    "update_time": "2025-04-17 15:39:39",
     "depot": {
         "2477011": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "337481080060479732",
-                    "size": "2230971122",
-                    "download": "822524512"
+                    "gid": "9362213108161834",
+                    "size": "2284792960",
+                    "download": "860155552"
                 }
             },
             "decryptionkey": "3615b8a0e6ab3df569fe773332ea74f8ce43b1467cc2a0c1cb310980d24fb274"
@@ -26,17 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8915746981473067138",
-                    "size": "1589722973",
-                    "download": "774285664"
+                    "gid": "8715339706522234137",
+                    "size": "1639745596",
+                    "download": "811208592"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17621916",
-                "timeupdated": "1741603082"
+                "buildid": "17855541",
+                "timeupdated": "1744293496"
             }
         },
         "privatebranches": "1"
