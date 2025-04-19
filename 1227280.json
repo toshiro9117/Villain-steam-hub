@@ -4,8 +4,8 @@
     "name": "Despot's Game: Dystopian Battle Simulator",
     "schinese_name": "暴君的游戏：反乌托邦战斗模拟器",
     "isfreeapp": "0",
-    "change_number": "26906793",
-    "update_time": "2025-01-08 19:13:20",
+    "change_number": "28532917",
+    "update_time": "2025-04-17 23:59:44",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "1227281": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7248839733492194503",
-                    "size": "889367301",
-                    "download": "467272224"
+                    "gid": "5492526285385687061",
+                    "size": "889479946",
+                    "download": "467312496"
                 }
             },
             "decryptionkey": "f6b8483daa9da8b2fca74a261f724862b1e09a920d884ef03160ffc9e1c8f47e"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2442174144292465872",
-                    "size": "1007394148",
-                    "download": "493492720"
+                    "gid": "3131133317431037177",
+                    "size": "1007433219",
+                    "download": "493499360"
                 }
             },
             "decryptionkey": "7610180bde14d5f4665caa9491bf55f14799b599bfe8cf27f405d8ae4da477c0"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "360642658874991946",
-                    "size": "917753793",
-                    "download": "469724064"
+                    "gid": "1145163196080957658",
+                    "size": "917785254",
+                    "download": "469691216"
                 }
             },
             "decryptionkey": "3b85d0e0a8ae0bbe91bd7dfa72f3eee65537ebe31f57b4ebd4412ee23f62dc0f"
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2668468432814154971",
-                    "size": "285156",
-                    "download": "287776"
+                    "gid": "1184512941248361316",
+                    "size": "285155",
+                    "download": "287760"
                 }
             },
             "decryptionkey": "9b6b37ef9629904d6ce5e579749a7ad0c95429eeee0368f8e4bce050f66338fb"
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8392554941902141833",
-                    "size": "285359",
-                    "download": "287808"
+                    "gid": "6700235012444652880",
+                    "size": "285259",
+                    "download": "287792"
                 }
             },
             "decryptionkey": "443a642e3574f91b8b8b8cbb0dc7f274430fbc1fc2439af753000720992d8fbd"
@@ -82,17 +82,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3721479115791356645",
-                    "size": "285157",
-                    "download": "287744"
+                    "gid": "400584777290314738",
+                    "size": "285155",
+                    "download": "287728"
                 }
             },
             "decryptionkey": "55a6ad9e5383911b47e3e2f53034a7428979a406c6e32911c3e008cd5391539c"
         },
         "branches": {
             "public": {
-                "buildid": "16644393",
-                "timeupdated": "1733414429"
+                "buildid": "18133983",
+                "timeupdated": "1744905578"
             }
         },
         "privatebranches": "1"
