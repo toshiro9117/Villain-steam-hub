@@ -4,8 +4,8 @@
     "name": "Mark of the Deep Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28049359",
-    "update_time": "2025-03-20 18:55:31",
+    "change_number": "28360325",
+    "update_time": "2025-04-08 15:17:02",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "3904623857",
                     "download": "1669892096"
                 }
-            }
+            },
+            "decryptionkey": "62bbc10dd83d0a14835d36824e4372655a7f90d2dd60aec409d743dbcf3ce00f"
         },
         "branches": {
             "public": {
