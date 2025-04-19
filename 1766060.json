@@ -4,8 +4,8 @@
     "name": "HumanitZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344494",
-    "update_time": "2025-04-07 19:22:57",
+    "change_number": "28541934",
+    "update_time": "2025-04-18 10:58:04",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1766061": {
             "manifests": {
                 "public": {
-                    "gid": "5084157217815529564",
-                    "size": "23001266393",
-                    "download": "21435928224"
+                    "gid": "2225425523228144576",
+                    "size": "27315281481",
+                    "download": "25670048432"
                 },
                 ".911": {
                     "gid": "8091995319916460044",
@@ -53,18 +53,23 @@
                     "size": "23677333338",
                     "download": "22027511248"
                 },
-                "experimental": {
+                ".916": {
                     "gid": "5084157217815529564",
                     "size": "23001266393",
                     "download": "21435928224"
+                },
+                "experimental": {
+                    "gid": "2225425523228144576",
+                    "size": "27315281481",
+                    "download": "25670048432"
                 }
             },
             "decryptionkey": "33229ac4689c705f913fd8f448d3f896fe128255629ad018dca089578dbf85c3"
         },
         "branches": {
             "public": {
-                "buildid": "17529661",
-                "timeupdated": "1740655837"
+                "buildid": "18152217",
+                "timeupdated": "1744945081"
             },
             ".911": {
                 "buildid": "14995981",
@@ -91,10 +96,15 @@
                 "description": "Previous Branch .915",
                 "timeupdated": "1739835071"
             },
-            "experimental": {
+            ".916": {
                 "buildid": "17529661",
+                "description": "Previous Branch .916",
+                "timeupdated": "1744405761"
+            },
+            "experimental": {
+                "buildid": "18152217",
                 "description": "Experimental [WIP]",
-                "timeupdated": "1740655779"
+                "timeupdated": "1744945046"
             }
         },
         "privatebranches": "1"
