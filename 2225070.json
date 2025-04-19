@@ -4,8 +4,8 @@
     "name": "Trackmania",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28281426",
-    "update_time": "2025-04-03 12:11:07",
+    "change_number": "28531541",
+    "update_time": "2025-04-17 22:53:12",
     "depot": {
         "2225071": {
             "config": {
@@ -28,7 +28,8 @@
                     "download": "241746080"
                 }
             },
-            "depotfromapp": "1716750"
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,czech,turkish,brazilian",
         "branches": {
