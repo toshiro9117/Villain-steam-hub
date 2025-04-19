@@ -4,8 +4,8 @@
     "name": "BrVR Backrooms Virtual Reality",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28313656",
-    "update_time": "2025-04-05 01:20:33",
+    "change_number": "28445622",
+    "update_time": "2025-04-12 23:32:02",
     "depot": {
         "228988": {
             "config": {
@@ -53,9 +53,9 @@
                     "download": "14446090128"
                 },
                 "beta": {
-                    "gid": "6601442010192264372",
-                    "size": "66166557215",
-                    "download": "64890592480"
+                    "gid": "7387901726768768249",
+                    "size": "66416909807",
+                    "download": "65141145264"
                 }
             },
             "decryptionkey": "c2178484cc234e2a5d06369a3b59ccbc23eb78ffb79ed31c4808e3931cb7f37e"
@@ -76,9 +76,9 @@
                 "timeupdated": "1691788112"
             },
             "beta": {
-                "buildid": "17988466",
+                "buildid": "18159639",
                 "description": "Beta updates",
-                "timeupdated": "1743787226"
+                "timeupdated": "1745001957"
             }
         },
         "privatebranches": "1"
