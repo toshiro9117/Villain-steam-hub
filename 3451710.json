@@ -4,8 +4,8 @@
     "name": "Crash and Conquer Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335948",
-    "update_time": "2025-04-07 05:16:37",
+    "change_number": "28534128",
+    "update_time": "2025-04-18 00:58:57",
     "depot": {
         "228989": {
             "config": {
@@ -29,16 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4535243037709907056",
-                    "size": "4263696717",
-                    "download": "4050681680"
+                    "gid": "6085708251987045300",
+                    "size": "4276384742",
+                    "download": "4063516496"
                 }
-            }
+            },
+            "decryptionkey": "637a6c3a1cfe3faf4bc1b50e5dabec5606a661c19d6cc827a820613bc5b6b911"
         },
         "branches": {
             "public": {
-                "buildid": "17997216",
-                "timeupdated": "1743877256"
+                "buildid": "18162348",
+                "timeupdated": "1745012234"
             }
         }
     }
