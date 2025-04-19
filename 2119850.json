@@ -4,15 +4,15 @@
     "name": "Maki: Paw of Fury",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28203357",
-    "update_time": "2025-03-29 13:16:45",
+    "change_number": "28402047",
+    "update_time": "2025-04-10 15:34:03",
     "depot": {
         "2119851": {
             "manifests": {
                 "public": {
-                    "gid": "6005673018956658915",
-                    "size": "2059842661",
-                    "download": "509969424"
+                    "gid": "7701905915627885444",
+                    "size": "2210567078",
+                    "download": "659810432"
                 },
                 "local": {
                     "gid": "285471756149233021",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16403837",
-                "timeupdated": "1731662545"
+                "buildid": "17693342",
+                "timeupdated": "1744270438"
             },
             "local": {
                 "buildid": "9590504",
