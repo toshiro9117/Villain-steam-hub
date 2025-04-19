@@ -4,8 +4,8 @@
     "name": "Bonfire Peaks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28300626",
-    "update_time": "2025-04-04 10:14:23",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:19",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -53,8 +53,7 @@
                     "size": "589861071",
                     "download": "438704288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1147893": {
             "config": {
@@ -76,8 +75,7 @@
                     "size": "658920660",
                     "download": "455922224"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
