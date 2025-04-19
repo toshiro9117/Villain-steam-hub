@@ -4,8 +4,8 @@
     "name": "Goblin Gangbang 🧟🍆👩",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28007168",
-    "update_time": "2025-03-18 13:21:52",
+    "change_number": "28455878",
+    "update_time": "2025-04-14 03:08:28",
     "depot": {
         "2576041": {
             "config": {
@@ -13,7 +13,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7451041404074324435",
+                    "gid": "1304763537942200669",
                     "size": "774570782",
                     "download": "715250736"
                 }
@@ -26,17 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8851356120270759285",
+                    "gid": "8921128903992524699",
                     "size": "762020279",
                     "download": "710556912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14715903",
-                "timeupdated": "1718353475"
+                "buildid": "18010933",
+                "timeupdated": "1744027214"
             }
         }
     }
