@@ -4,8 +4,8 @@
     "name": "Forza Motorsport",
     "schinese_name": "Forza Motorsport 极限竞速",
     "isfreeapp": "0",
-    "change_number": "28077635",
-    "update_time": "2025-03-22 01:55:44",
+    "change_number": "28472884",
+    "update_time": "2025-04-15 02:55:23",
     "depot": {
         "228989": {
             "config": {
@@ -17,17 +17,17 @@
         "2440511": {
             "manifests": {
                 "public": {
-                    "gid": "5685807585255308088",
-                    "size": "137654737374",
-                    "download": "133839316240"
+                    "gid": "129598873522938533",
+                    "size": "138383463602",
+                    "download": "134539201072"
                 }
             },
             "decryptionkey": "c7f1787c2ad76d9b13d4db530c1ee953f08e63cb69b9a59c619dcca4736f10c0"
         },
         "branches": {
             "public": {
-                "buildid": "17495068",
-                "timeupdated": "1741626058"
+                "buildid": "17807406",
+                "timeupdated": "1744045304"
             }
         },
         "privatebranches": "1"
