@@ -4,8 +4,8 @@
     "name": "PGA TOUR 2K25 First Look",
     "schinese_name": "PGA TOUR 2K25 抢先体验",
     "isfreeapp": "0",
-    "change_number": "28345812",
-    "update_time": "2025-04-07 20:49:05",
+    "change_number": "28549633",
+    "update_time": "2025-04-18 20:59:23",
     "depot": {
         "228983": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "29878867934",
                     "download": "27779952560"
                 }
-            }
+            },
+            "decryptionkey": "cfd30bba743df834ad53f490daeb26ed12ce4c41c3e62bc7f9850bddfbb67315"
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
