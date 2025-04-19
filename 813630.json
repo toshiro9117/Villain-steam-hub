@@ -4,11 +4,10 @@
     "name": "Supraland",
     "schinese_name": "苏普拉兰",
     "isfreeapp": "0",
-    "change_number": "27338521",
-    "update_time": "2025-02-06 12:17:25",
+    "change_number": "28516126",
+    "update_time": "2025-04-17 04:31:51",
     "depot": {
-        "hasdepotsindlc": "1",
-        "228988": {
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -22,6 +21,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "hasdepotsindlc": "1",
         "813631": {
             "config": {
                 "oslist": "windows",
