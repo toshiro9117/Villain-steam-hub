@@ -4,8 +4,8 @@
     "name": "Rail Route",
     "schinese_name": "铁路调度模拟器",
     "isfreeapp": "0",
-    "change_number": "28322886",
-    "update_time": "2025-04-05 19:06:22",
+    "change_number": "28545321",
+    "update_time": "2025-04-18 16:04:04",
     "depot": {
         "1124182": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2210372385784702260",
+                    "gid": "1452789731039103596",
                     "size": "717202946",
-                    "download": "366157216"
+                    "download": "366157472"
                 },
                 "backwards": {
                     "gid": "2363736434745554034",
@@ -108,9 +108,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "724678514422411093",
+                    "gid": "7373889526239491298",
                     "size": "768334513",
-                    "download": "378128528"
+                    "download": "378131008"
                 },
                 "backwards": {
                     "gid": "8980331352606939868",
@@ -202,9 +202,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2400761961983481482",
+                    "gid": "8571837639757013237",
                     "size": "746595168",
-                    "download": "363380096"
+                    "download": "363382208"
                 },
                 "backwards": {
                     "gid": "6942664869710475181",
@@ -292,8 +292,8 @@
         "workshopdepot": "1124180",
         "branches": {
             "public": {
-                "buildid": "17985870",
-                "timeupdated": "1743851178"
+                "buildid": "18023324",
+                "timeupdated": "1744127180"
             },
             "backwards": {
                 "buildid": "14562081",
@@ -377,6 +377,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "dc3cca428261e662f28d43a2c0fea65b846eb96d77a9ffbbac897c9f5ad902b2"
     }
 }
