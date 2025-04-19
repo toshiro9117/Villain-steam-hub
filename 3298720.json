@@ -1,0 +1,27 @@
+{
+    "appid": "3298720",
+    "type": "Game",
+    "name": "Fish Shop Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28530402",
+    "update_time": "2025-04-17 21:58:39",
+    "depot": {
+        "3298721": {
+            "manifests": {
+                "public": {
+                    "gid": "6361705830704443386",
+                    "size": "1539730750",
+                    "download": "754944784"
+                }
+            },
+            "decryptionkey": "3a588c3230c008e9b4e2146d016f727727c257b4b6b89da44a23338f18ea14cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18065600",
+                "timeupdated": "1744339945"
+            }
+        }
+    }
+}
