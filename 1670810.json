@@ -4,20 +4,20 @@
     "name": "Life Not Supported",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28227516",
-    "update_time": "2025-03-31 20:01:57",
+    "change_number": "28456364",
+    "update_time": "2025-04-14 04:18:50",
     "depot": {
         "1670811": {
             "manifests": {
                 "public": {
-                    "gid": "5414577414857908042",
-                    "size": "1859043813",
-                    "download": "1355738800"
+                    "gid": "7110047169961435321",
+                    "size": "1859050091",
+                    "download": "1355756368"
                 },
                 "beta": {
-                    "gid": "5414577414857908042",
-                    "size": "1859043813",
-                    "download": "1355738800"
+                    "gid": "7110047169961435321",
+                    "size": "1859050091",
+                    "download": "1355756368"
                 }
             },
             "decryptionkey": "9af7226fc4ed01e6b84a5ebdaeaf6d1030af8bb8d19e4e599ffa5442266647f1"
@@ -28,27 +28,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1950761989791436756",
-                    "size": "1877136225",
-                    "download": "1365118976"
+                    "gid": "6233517956510841430",
+                    "size": "1877124688",
+                    "download": "1365117712"
                 },
                 "beta": {
-                    "gid": "1950761989791436756",
-                    "size": "1877136225",
-                    "download": "1365118976"
+                    "gid": "6233517956510841430",
+                    "size": "1877124688",
+                    "download": "1365117712"
                 }
             },
             "decryptionkey": "27e4d583ca64d113e00b1a6557a2344a4eb5698393d4a00a3564564be416c922"
         },
         "branches": {
             "public": {
-                "buildid": "17923099",
-                "timeupdated": "1743422508"
+                "buildid": "18072058",
+                "timeupdated": "1744575522"
             },
             "beta": {
-                "buildid": "17923099",
+                "buildid": "18072058",
                 "description": "Use to test the latest stuff!",
-                "timeupdated": "1743415335"
+                "timeupdated": "1744376129"
             }
         }
     }
