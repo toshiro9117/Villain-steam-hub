@@ -4,8 +4,8 @@
     "name": "Koi Farm",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25662910",
-    "update_time": "2024-10-11 23:50:00",
+    "change_number": "28424298",
+    "update_time": "2025-04-11 16:06:28",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam",
         "hasdepotsindlc": "0",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2344503477465998492",
-                    "size": "314392338",
-                    "download": "134105664"
+                    "gid": "5687199669336997949",
+                    "size": "314336539",
+                    "download": "134094832"
                 },
                 "beta": {
-                    "gid": "2344503477465998492",
-                    "size": "314392338",
-                    "download": "134105664"
+                    "gid": "5687199669336997949",
+                    "size": "314336539",
+                    "download": "134094832"
                 }
             },
             "decryptionkey": "e98c51085fd53e20c763f8600cd14f251a51b2fa35a36f6d4981284ef2bff056"
@@ -35,17 +35,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6475082431065093497",
-                    "size": "325639865",
-                    "download": "131939840"
+                    "gid": "8692841209939490353",
+                    "size": "325584066",
+                    "download": "131929008"
                 },
                 "beta": {
-                    "gid": "6475082431065093497",
-                    "size": "325639865",
-                    "download": "131939840"
+                    "gid": "8692841209939490353",
+                    "size": "325584066",
+                    "download": "131929008"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1518813": {
             "config": {
@@ -63,18 +62,17 @@
                     "size": "319218897",
                     "download": "133513584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14233916",
-                "timeupdated": "1714578588"
+                "buildid": "18058366",
+                "timeupdated": "1744297838"
             },
             "beta": {
-                "buildid": "14233911",
+                "buildid": "18037987",
                 "description": "beta versions",
-                "timeupdated": "1714578542"
+                "timeupdated": "1744187607"
             }
         }
     }
