@@ -4,23 +4,23 @@
     "name": "The Last Man Survivor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28187221",
-    "update_time": "2025-03-28 17:19:20",
+    "change_number": "28538004",
+    "update_time": "2025-04-18 04:59:05",
     "depot": {
         "2250081": {
             "manifests": {
                 "public": {
-                    "gid": "7002999378398073221",
-                    "size": "5372731709",
-                    "download": "1237328160"
+                    "gid": "2529304575547565108",
+                    "size": "5624849581",
+                    "download": "1388275568"
                 }
             },
             "decryptionkey": "33a51e40db645494995e7ae1b6c3e7e1891053746cb0e27fa1dc6e60052659af"
         },
         "branches": {
             "public": {
-                "buildid": "17104517",
-                "timeupdated": "1737632374"
+                "buildid": "18131564",
+                "timeupdated": "1744887327"
             }
         }
     }
