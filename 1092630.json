@@ -4,8 +4,8 @@
     "name": "Rogue Glitch Ultra",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27398760",
-    "update_time": "2025-02-10 18:51:44",
+    "change_number": "28540905",
+    "update_time": "2025-04-18 09:22:10",
     "depot": {
         "1092632": {
             "config": {
@@ -50,8 +50,7 @@
                     "size": "218471072",
                     "download": "92869184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2698210": {
             "dlcappid": "2698210",
@@ -115,8 +114,7 @@
                     "size": "379089499",
                     "download": "162434784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
