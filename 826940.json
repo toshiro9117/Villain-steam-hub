@@ -4,8 +4,8 @@
     "name": "Maid of Sker",
     "schinese_name": "斯盖尔之女",
     "isfreeapp": "0",
-    "change_number": "28344218",
-    "update_time": "2025-04-07 19:03:37",
+    "change_number": "28492412",
+    "update_time": "2025-04-16 01:29:27",
     "depot": {
         "228990": {
             "config": {
@@ -48,8 +48,7 @@
                     "size": "11531886032",
                     "download": "4708044224"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
