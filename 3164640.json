@@ -4,24 +4,24 @@
     "name": "Days In Palis",
     "schinese_name": "欲望都市帕里斯 - 与众多美女的亲密接触",
     "isfreeapp": "0",
-    "change_number": "28259543",
-    "update_time": "2025-04-02 09:50:16",
+    "change_number": "28543163",
+    "update_time": "2025-04-18 13:03:39",
     "depot": {
         "baselanguages": "english,schinese",
         "3164641": {
             "manifests": {
                 "public": {
-                    "gid": "7681692658231600106",
-                    "size": "2626902431",
-                    "download": "2418550496"
+                    "gid": "4575401503756414445",
+                    "size": "3930168355",
+                    "download": "3726500672"
                 }
             },
             "decryptionkey": "e8110420e1f1bf532420da54f98179d0cf76a2ae67e120ec6f303e16b772c4e7"
         },
         "branches": {
             "public": {
-                "buildid": "17039511",
-                "timeupdated": "1737114973"
+                "buildid": "18054925",
+                "timeupdated": "1744281645"
             }
         }
     }
