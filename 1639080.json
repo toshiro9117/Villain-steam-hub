@@ -4,8 +4,8 @@
     "name": "Sandwalkers",
     "schinese_name": "沙行者 (Sandwalkers)",
     "isfreeapp": "0",
-    "change_number": "28346565",
-    "update_time": "2025-04-07 21:36:50",
+    "change_number": "28546752",
+    "update_time": "2025-04-18 17:33:59",
     "depot": {
         "1639081": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6716074610159945099",
-                    "size": "1557258427",
-                    "download": "493358784"
+                    "gid": "284779933209334578",
+                    "size": "1932557255",
+                    "download": "712557968"
                 }
             },
             "decryptionkey": "bcd3da063c1d570ea26c3100e5cfb754972c13e4b2a5a9f5b1c5b44b2b7d4b71"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5456169317674948093",
-                    "size": "1666414529",
-                    "download": "512644512"
+                    "gid": "9146093645148441195",
+                    "size": "2040695880",
+                    "download": "731793072"
                 }
             },
             "decryptionkey": "6e337aaad4d09643b639a7a475462aa5af07237cc303b89ba035f00a82c90b72"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3623349782937963684",
-                    "size": "1532012941",
-                    "download": "491029264"
+                    "gid": "1171531531719514731",
+                    "size": "1907407169",
+                    "download": "710454944"
                 }
             },
             "decryptionkey": "717bcd1860e2cbbeb0ceba1839843d88100addfe1f61ddd52ab76fcae2bc4857"
         },
         "branches": {
             "public": {
-                "buildid": "17881431",
-                "timeupdated": "1743075365"
+                "buildid": "18155968",
+                "timeupdated": "1744968835"
             }
         },
         "privatebranches": "1"
