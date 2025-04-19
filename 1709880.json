@@ -4,8 +4,8 @@
     "name": "Loco Motive",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339621",
-    "update_time": "2025-04-07 13:11:11",
+    "change_number": "28520791",
+    "update_time": "2025-04-17 11:10:47",
     "depot": {
         "1709881": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "758622139",
                     "download": "38962736"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
