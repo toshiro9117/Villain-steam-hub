@@ -4,8 +4,8 @@
     "name": "Artifact Seeker: Resurrection",
     "schinese_name": "神器行者: 重生",
     "isfreeapp": "0",
-    "change_number": "28346151",
-    "update_time": "2025-04-07 21:10:53",
+    "change_number": "28546241",
+    "update_time": "2025-04-18 17:05:46",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian,latam",
         "3054611": {
@@ -47,8 +47,7 @@
                     "size": "1122648955",
                     "download": "918083520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3229410": {
             "dlcappid": "3229410",
