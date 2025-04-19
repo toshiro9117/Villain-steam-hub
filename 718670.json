@@ -2,10 +2,10 @@
     "appid": "718670",
     "type": "Game",
     "name": "Cultist Simulator",
-    "schinese_name": "密教模拟器",
+    "schinese_name": "《密教模拟器 (Cultist Simulator)》",
     "isfreeapp": "0",
-    "change_number": "28335907",
-    "update_time": "2025-04-07 05:11:15",
+    "change_number": "28517901",
+    "update_time": "2025-04-17 07:04:19",
     "depot": {
         "hasdepotsindlc": "1",
         "718671": {
@@ -117,6 +117,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "330e56718beb0870998bd42ad67b000888f9623075f7493a163f2a8671e3a159"
     }
 }
