@@ -4,8 +4,8 @@
     "name": "Tropico 6",
     "schinese_name": "海岛大亨6",
     "isfreeapp": "0",
-    "change_number": "28318689",
-    "update_time": "2025-04-05 08:10:23",
+    "change_number": "28454013",
+    "update_time": "2025-04-13 22:55:22",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "492720",
@@ -295,6 +295,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3d5a3467d900e030ecfe1b205db124966a55bec80fe529a0610d96892ee59e50"
     }
 }
