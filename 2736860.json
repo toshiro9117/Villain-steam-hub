@@ -4,8 +4,8 @@
     "name": "The Bibites: Digital Life",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335900",
-    "update_time": "2025-04-07 05:10:31",
+    "change_number": "28385540",
+    "update_time": "2025-04-09 20:11:11",
     "depot": {
         "workshopdepot": "2736860",
         "2736861": {
@@ -49,8 +49,7 @@
                     "size": "167008380",
                     "download": "53956592"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2736864": {
             "config": {
@@ -63,8 +62,7 @@
                     "size": "193814450",
                     "download": "47209616"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
