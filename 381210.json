@@ -4,8 +4,8 @@
     "name": "Dead by Daylight",
     "schinese_name": "黎明杀机",
     "isfreeapp": "0",
-    "change_number": "28300286",
-    "update_time": "2025-04-04 09:43:42",
+    "change_number": "28531619",
+    "update_time": "2025-04-17 22:57:02",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9094702741448466381",
-                    "size": "51276406108",
-                    "download": "51162916864"
+                    "gid": "4460915808866129417",
+                    "size": "51367501825",
+                    "download": "51254188560"
+                },
+                "public-test": {
+                    "gid": "7612424245585399763",
+                    "size": "51362650996",
+                    "download": "51238117264"
                 }
             },
             "decryptionkey": "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca"
@@ -41,14 +46,24 @@
                     "gid": "5921550076694751899",
                     "size": "31578081",
                     "download": "31327728"
+                },
+                "public-test": {
+                    "gid": "5921550076694751899",
+                    "size": "31578081",
+                    "download": "31327728"
                 }
             },
             "decryptionkey": "d514d170477029b1fc73e157f9550e3591facfc4508a7568deaf4599fc3a54b4"
         },
         "branches": {
             "public": {
-                "buildid": "17875051",
-                "timeupdated": "1743609484"
+                "buildid": "18064212",
+                "timeupdated": "1744901796"
+            },
+            "public-test": {
+                "buildid": "18079124",
+                "description": "Public Branch (on PTB environment) for Actual PTB",
+                "timeupdated": "1744729174"
             }
         },
         "privatebranches": "1"
