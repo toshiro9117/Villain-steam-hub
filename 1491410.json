@@ -4,8 +4,8 @@
     "name": "Eternal Strands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343588",
-    "update_time": "2025-04-07 18:19:53",
+    "change_number": "28549567",
+    "update_time": "2025-04-18 20:52:34",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5359380157756385892",
-                    "size": "19507114918",
-                    "download": "8889065824"
+                    "gid": "9065974771262786098",
+                    "size": "20655925647",
+                    "download": "9405716608"
                 }
             },
             "decryptionkey": "e4195a57e3f14ccbdf4be2fa5c576bb10366f40df6a80f47b31f6d71e918cdc4"
         },
         "branches": {
             "public": {
-                "buildid": "17538428",
-                "timeupdated": "1741103807"
+                "buildid": "18049929",
+                "timeupdated": "1744729577"
             }
         },
         "privatebranches": "1"
