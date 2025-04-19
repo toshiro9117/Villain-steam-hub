@@ -4,8 +4,8 @@
     "name": "装甲红锋 Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28247489",
-    "update_time": "2025-04-01 19:51:40",
+    "change_number": "28365043",
+    "update_time": "2025-04-08 20:10:36",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3045431": {
             "manifests": {
                 "public": {
-                    "gid": "8409524761777373065",
-                    "size": "26204851096",
-                    "download": "23925814800"
+                    "gid": "8680158419506979443",
+                    "size": "26198967437",
+                    "download": "23924483952"
                 }
             },
             "decryptionkey": "921a900f083ce10155e970faae1765011f609987242ef36e91646130dfe2139c"
         },
         "branches": {
             "public": {
-                "buildid": "17938934",
-                "timeupdated": "1743508260"
+                "buildid": "18025636",
+                "timeupdated": "1744114232"
             }
         }
     }
