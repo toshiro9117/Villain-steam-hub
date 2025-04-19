@@ -4,8 +4,8 @@
     "name": "Baldur's Gate: Enhanced Edition",
     "schinese_name": "博德之门：增强版",
     "isfreeapp": "0",
-    "change_number": "28289012",
-    "update_time": "2025-04-03 21:02:50",
+    "change_number": "28491634",
+    "update_time": "2025-04-16 00:51:04",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -213,6 +213,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4e0b2a31f4ddfbacaad8a5461b1b9f2301368ca6d7ce4692e94a552e7c97a0a1"
     }
 }
