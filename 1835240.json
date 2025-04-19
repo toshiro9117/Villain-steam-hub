@@ -4,8 +4,8 @@
     "name": "Spiritfall",
     "schinese_name": "圣灵降临",
     "isfreeapp": "0",
-    "change_number": "28345290",
-    "update_time": "2025-04-07 20:15:04",
+    "change_number": "28470795",
+    "update_time": "2025-04-15 00:46:36",
     "depot": {
         "1835241": {
             "config": {
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8944950044479759965",
-                    "size": "1494880997",
-                    "download": "1114132608"
+                    "gid": "1497521505632597403",
+                    "size": "1494836380",
+                    "download": "1114113504"
                 }
             },
             "decryptionkey": "b9ba45bbc2bbbd83dcb47489b866aabeb1bbeb0858143ecc58a601d7b73de57b"
@@ -36,8 +36,8 @@
         "baselanguages": "english,french,koreana,schinese,japanese,latam",
         "branches": {
             "public": {
-                "buildid": "18011093",
-                "timeupdated": "1744028096"
+                "buildid": "18102103",
+                "timeupdated": "1744649176"
             }
         },
         "privatebranches": "1"
