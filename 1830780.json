@@ -4,8 +4,8 @@
     "name": "Hentai Houseparty: Gyaru Gangbang",
     "schinese_name": "辣妹连续中出",
     "isfreeapp": "0",
-    "change_number": "27278593",
-    "update_time": "2025-02-03 01:11:46",
+    "change_number": "28508629",
+    "update_time": "2025-04-16 21:12:21",
     "depot": {
         "1830781": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7005219081804033921",
-                    "size": "1214008950",
-                    "download": "1083051904"
+                    "gid": "7884066348826693249",
+                    "size": "1214865959",
+                    "download": "1082835824"
                 }
             },
             "decryptionkey": "40a3c68a844974a7828431bfbd5e95e95a87887654bc3dfeadd635245b9618ca"
@@ -30,13 +30,12 @@
                     "size": "1164124005",
                     "download": "1068576544"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16837939",
-                "timeupdated": "1736347332"
+                "buildid": "17518400",
+                "timeupdated": "1740600864"
             }
         },
         "privatebranches": "1"
