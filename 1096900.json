@@ -4,8 +4,8 @@
     "name": "RPG Maker MZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28284704",
-    "update_time": "2025-04-03 16:38:31",
+    "change_number": "28519668",
+    "update_time": "2025-04-17 09:34:47",
     "depot": {
         "workshopdepot": "1096900",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6190084706930748803",
-                    "size": "1386230322",
-                    "download": "551966864"
+                    "gid": "4792606066803803263",
+                    "size": "1386354783",
+                    "download": "552093600"
                 },
                 "open_beta": {
                     "gid": "6079101619291717509",
@@ -89,9 +89,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1214869113392314953",
-                    "size": "1388119760",
-                    "download": "552508320"
+                    "gid": "7738006489883129109",
+                    "size": "1388245041",
+                    "download": "552654096"
                 },
                 "open_beta": {
                     "gid": "8069604215811858356",
@@ -962,12 +962,20 @@
         "1350871": {
             "config": {
                 "language": "polish"
-            }
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6905075256391201450",
+                    "size": "1386354789",
+                    "download": "551465760"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17303774",
-                "timeupdated": "1739757604"
+                "buildid": "18018503",
+                "timeupdated": "1744098955"
             },
             "open_beta": {
                 "buildid": "9915362",
@@ -1031,6 +1039,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "205433af9183a07d23c8fff9e978864645b3df1c15db98142d45de296b3554e3"
     }
 }
