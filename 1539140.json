@@ -4,8 +4,8 @@
     "name": "STONKS-9800: Stock Market Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28275885",
-    "update_time": "2025-04-03 04:21:09",
+    "change_number": "28540267",
+    "update_time": "2025-04-18 08:20:04",
     "depot": {
         "baselanguages": "english,koreana,japanese,ukrainian",
         "workshopdepot": "1539140",
@@ -92,8 +92,7 @@
                     "size": "99405886",
                     "download": "77564144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1539144": {
             "config": {
@@ -125,8 +124,7 @@
                     "size": "142433249",
                     "download": "88263296"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
