@@ -4,8 +4,8 @@
     "name": "Darwinia",
     "schinese_name": "达尔文",
     "isfreeapp": "0",
-    "change_number": "28335463",
-    "update_time": "2025-04-07 04:15:39",
+    "change_number": "28357902",
+    "update_time": "2025-04-08 11:12:45",
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
                     "download": "35384192"
                 },
                 "beta": {
-                    "gid": "1537280189867910129",
-                    "size": "92085798",
-                    "download": "49043424"
+                    "gid": "7610087232890576569",
+                    "size": "91971385",
+                    "download": "49022832"
                 },
                 "previous": {
                     "gid": "6542716366779683761",
@@ -60,9 +60,9 @@
                     "download": "0"
                 },
                 "beta": {
-                    "gid": "7224524581144292171",
-                    "size": "63500844",
-                    "download": "43310720"
+                    "gid": "3163436960926926794",
+                    "size": "63486862",
+                    "download": "43301600"
                 },
                 "previous": {
                     "gid": "5047540950553447760",
@@ -89,9 +89,9 @@
                     "download": "0"
                 },
                 "beta": {
-                    "gid": "67366736950614379",
-                    "size": "68212519",
-                    "download": "43807088"
+                    "gid": "1375185164456264127",
+                    "size": "68175743",
+                    "download": "43805216"
                 },
                 "previous": {
                     "gid": "654008265121917707",
@@ -128,9 +128,9 @@
                 "timeupdated": "1623656172"
             },
             "beta": {
-                "buildid": "17738176",
+                "buildid": "18020192",
                 "description": "Prerelease Open Beta",
-                "timeupdated": "1742061228"
+                "timeupdated": "1744081961"
             },
             "previous": {
                 "buildid": "14033910",
