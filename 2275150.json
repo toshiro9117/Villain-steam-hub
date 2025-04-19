@@ -4,8 +4,8 @@
     "name": "SLUDGE LIFE 2",
     "schinese_name": "污泥人生2",
     "isfreeapp": "0",
-    "change_number": "28210840",
-    "update_time": "2025-03-30 08:14:51",
+    "change_number": "28361222",
+    "update_time": "2025-04-08 16:16:42",
     "depot": {
         "2275151": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "1193316624",
                     "download": "480984896"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
