@@ -4,8 +4,8 @@
     "name": "异世界生存指南(美食猎人)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28322291",
-    "update_time": "2025-04-05 17:32:10",
+    "change_number": "28486686",
+    "update_time": "2025-04-15 20:30:41",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3074021": {
             "manifests": {
                 "public": {
-                    "gid": "314628785193627779",
-                    "size": "17099074237",
-                    "download": "12532492448"
+                    "gid": "1833537940049697505",
+                    "size": "17170612545",
+                    "download": "12589269680"
                 }
             },
             "decryptionkey": "c349fd0b61413ccd60be941cc56222d310ef992cc81982bd590b83f4d845b03b"
@@ -34,8 +34,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17994839",
-                "timeupdated": "1743845526"
+                "buildid": "18027077",
+                "timeupdated": "1744121319"
             }
         }
     }
