@@ -4,8 +4,8 @@
     "name": "Haste",
     "schinese_name": "救命！怎么又塌了!",
     "isfreeapp": "0",
-    "change_number": "28342415",
-    "update_time": "2025-04-07 17:10:29",
+    "change_number": "28542608",
+    "update_time": "2025-04-18 12:04:00",
     "depot": {
         "workshopdepot": "1796470",
         "1796471": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6945785904000187110",
-                    "size": "5361431831",
-                    "download": "1893454336"
+                    "gid": "8779729642434314865",
+                    "size": "5408923955",
+                    "download": "1926518864"
                 }
             },
             "decryptionkey": "1be44ffc3d55a3bfef475a9ca61508d531a7ff622c0d1ae83629e6b393fa0932"
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8747903958963608066",
-                    "size": "5237693998",
-                    "download": "1815940464"
+                    "gid": "8349812536215332819",
+                    "size": "5285169286",
+                    "download": "1848902336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1796473": {
             "config": {
@@ -43,18 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1725500927005858403",
-                    "size": "5262193084",
-                    "download": "1832657328"
+                    "gid": "4060473742594710907",
+                    "size": "5309669340",
+                    "download": "1865620928"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,swedish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17990327",
-                "timeupdated": "1743798137"
+                "buildid": "18143563",
+                "timeupdated": "1744892115"
             }
         },
         "privatebranches": "1",
