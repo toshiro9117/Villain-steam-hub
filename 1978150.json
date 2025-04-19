@@ -4,8 +4,8 @@
     "name": "Kamaeru: A Frog Refuge",
     "schinese_name": "Kamaeru: 世蛙桃源",
     "isfreeapp": "0",
-    "change_number": "28150261",
-    "update_time": "2025-03-26 21:34:12",
+    "change_number": "28396269",
+    "update_time": "2025-04-10 07:08:21",
     "depot": {
         "1978151": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "488357012",
                     "download": "398030880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1978153": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "851204736",
                     "download": "491062880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
