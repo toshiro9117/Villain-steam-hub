@@ -4,16 +4,16 @@
     "name": "Dustland Delivery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343739",
-    "update_time": "2025-04-07 18:30:04",
+    "change_number": "28548974",
+    "update_time": "2025-04-18 20:07:44",
     "depot": {
         "workshopdepot": "2943280",
         "2943281": {
             "manifests": {
                 "public": {
-                    "gid": "3958583535451430203",
-                    "size": "2082712679",
-                    "download": "221009136"
+                    "gid": "5596497878525999973",
+                    "size": "2082788527",
+                    "download": "221007008"
                 }
             },
             "decryptionkey": "21e8caf4a1bbff8f83e2f1d46bdf17045d0466e7c9a319a99094e0bcd945b6d6"
@@ -22,9 +22,9 @@
             "dlcappid": "3404490",
             "manifests": {
                 "public": {
-                    "gid": "8050891872600745190",
-                    "size": "2082712679",
-                    "download": "221082416"
+                    "gid": "2832488378523004753",
+                    "size": "2082788527",
+                    "download": "221084304"
                 }
             },
             "decryptionkey": "631ba94966307eed6f069d2207d3148395e38f7ae53b2bf8b5e55e4d422062c6"
@@ -33,17 +33,17 @@
             "dlcappid": "3559340",
             "manifests": {
                 "public": {
-                    "gid": "4451408466583502378",
-                    "size": "2082712679",
-                    "download": "221052032"
+                    "gid": "993920387311074106",
+                    "size": "2082788527",
+                    "download": "221049216"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f02790760e408469ab1876819a79a8c300be8458df2bf791add6694342e7f3b3"
         },
         "branches": {
             "public": {
-                "buildid": "17966432",
-                "timeupdated": "1743667086"
+                "buildid": "18157378",
+                "timeupdated": "1744978060"
             }
         },
         "privatebranches": "1",
