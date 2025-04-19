@@ -4,8 +4,8 @@
     "name": "MASH VP! Re:VISION",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339302",
-    "update_time": "2025-04-07 12:22:45",
+    "change_number": "28531651",
+    "update_time": "2025-04-17 22:58:57",
     "depot": {
         "2928332": {
             "config": {
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8733699486974843608",
-                    "size": "2851947422",
-                    "download": "2421852288"
+                    "gid": "3547181660794230722",
+                    "size": "2921497792",
+                    "download": "2479827680"
                 }
             },
             "decryptionkey": ""
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6715897957874178602",
-                    "size": "2649888302",
-                    "download": "2217460640"
+                    "gid": "1053320325131635167",
+                    "size": "2876667808",
+                    "download": "2434568800"
                 }
             },
             "decryptionkey": "40d25c8256f47fcde8f3d12e46e422d0e1d99d49b2a887f8a56202fb1e9bcaaf"
@@ -64,8 +64,8 @@
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "18006693",
-                "timeupdated": "1743999759"
+                "buildid": "18144758",
+                "timeupdated": "1744897080"
             }
         }
     }
