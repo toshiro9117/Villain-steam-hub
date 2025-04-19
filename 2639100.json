@@ -4,23 +4,23 @@
     "name": "Inari",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28262805",
-    "update_time": "2025-04-02 15:11:10",
+    "change_number": "28404312",
+    "update_time": "2025-04-10 17:46:54",
     "depot": {
         "2639101": {
             "manifests": {
                 "public": {
-                    "gid": "2289784503186442643",
-                    "size": "11438408750",
-                    "download": "1807178560"
+                    "gid": "4161348225931473101",
+                    "size": "11438633510",
+                    "download": "1805528688"
                 }
             },
             "decryptionkey": "21f31c8adf14db935b09d4d1a9ea8e781df503db08605f5daa84515f3dd6f10c"
         },
         "branches": {
             "public": {
-                "buildid": "17860557",
-                "timeupdated": "1743380040"
+                "buildid": "18054144",
+                "timeupdated": "1744278409"
             }
         }
     }
