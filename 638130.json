@@ -4,8 +4,8 @@
     "name": "Sweet Surrender",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339680",
-    "update_time": "2025-04-07 13:18:57",
+    "change_number": "28543303",
+    "update_time": "2025-04-18 13:19:56",
     "depot": {
         "638131": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "310790656"
                 },
                 "beta": {
-                    "gid": "9033078451082121194",
-                    "size": "795478885",
-                    "download": "311410896"
+                    "gid": "255663783393793558",
+                    "size": "795516893",
+                    "download": "311479216"
                 }
             },
             "decryptionkey": "5615ea884347bde14995453ad1306768beaf4db9839003c70dc5e3df7505f99f"
@@ -28,9 +28,9 @@
                 "timeupdated": "1739875205"
             },
             "beta": {
-                "buildid": "17867928",
+                "buildid": "18013645",
                 "description": "Beta Branch",
-                "timeupdated": "1743065396"
+                "timeupdated": "1744486662"
             }
         },
         "privatebranches": "1"
