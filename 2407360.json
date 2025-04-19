@@ -4,8 +4,8 @@
     "name": "IfSunSets: Prologue",
     "schinese_name": "落日余晖：序幕",
     "isfreeapp": "0",
-    "change_number": "28324083",
-    "update_time": "2025-04-05 22:16:33",
+    "change_number": "28434038",
+    "update_time": "2025-04-12 01:09:12",
     "depot": {
         "228990": {
             "config": {
@@ -24,7 +24,8 @@
                     "size": "17398888975",
                     "download": "16665956288"
                 }
-            }
+            },
+            "decryptionkey": "8d0df49ace6eaecf31506f9b8121f04fecf57948c917af8c4f58dcda3b90ea50"
         },
         "baselanguages": "english,german,koreana,schinese,tchinese,japanese",
         "branches": {
