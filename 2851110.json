@@ -4,8 +4,8 @@
     "name": "Golden Warden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28212319",
-    "update_time": "2025-03-30 13:17:35",
+    "change_number": "28520251",
+    "update_time": "2025-04-17 10:23:30",
     "depot": {
         "2851111": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3038754957053546940",
-                    "size": "224150817",
-                    "download": "164445104"
+                    "gid": "6266702435760220160",
+                    "size": "224151585",
+                    "download": "164444912"
                 }
             },
             "decryptionkey": "6718e61ce79ef7d7d856bf2d86783274b7d6155e9552bb92b05d47ea07c4d5ab"
         },
         "branches": {
             "public": {
-                "buildid": "17725356",
-                "timeupdated": "1741956668"
+                "buildid": "18137791",
+                "timeupdated": "1744856604"
             }
         }
     }
