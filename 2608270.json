@@ -4,8 +4,8 @@
     "name": "Intravenous 2",
     "schinese_name": "静脉注射2",
     "isfreeapp": "0",
-    "change_number": "28346151",
-    "update_time": "2025-04-07 21:10:37",
+    "change_number": "28453125",
+    "update_time": "2025-04-13 20:43:15",
     "depot": {
         "workshopdepot": "2608270",
         "228989": {
@@ -30,9 +30,9 @@
                     "download": "1012947056"
                 },
                 "test": {
-                    "gid": "7083338586183130747",
-                    "size": "1005549849",
-                    "download": "1012947056"
+                    "gid": "4787328789358903539",
+                    "size": "1005550299",
+                    "download": "1012947936"
                 }
             },
             "decryptionkey": "65303bb0b084fda7e68b6e2dc146d2d0e42df675c4fd522649ad8dc41cea69e5"
@@ -68,9 +68,9 @@
                     "download": "615098160"
                 },
                 "test": {
-                    "gid": "8287400407266370957",
-                    "size": "619682325",
-                    "download": "615098160"
+                    "gid": "6859268308833605133",
+                    "size": "619681623",
+                    "download": "615097424"
                 }
             },
             "decryptionkey": "0dea1e881b2c4b6b457f09a52489a01823c4a3982790d26a13c6856e38b19003"
@@ -81,9 +81,9 @@
                 "timeupdated": "1743528871"
             },
             "test": {
-                "buildid": "17943091",
+                "buildid": "18053993",
                 "description": "upcoming update voluntary testing",
-                "timeupdated": "1743528795"
+                "timeupdated": "1744277529"
             }
         },
         "privatebranches": "1",
