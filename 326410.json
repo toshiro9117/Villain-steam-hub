@@ -4,8 +4,8 @@
     "name": "Windward",
     "schinese_name": "迎风起航",
     "isfreeapp": "0",
-    "change_number": "27746631",
-    "update_time": "2025-03-03 08:35:11",
+    "change_number": "28549636",
+    "update_time": "2025-04-18 20:59:48",
     "depot": {
         "228983": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "127096911",
                     "download": "62196240"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "326413": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "128864944",
                     "download": "62500432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "326410",
         "branches": {
