@@ -4,8 +4,8 @@
     "name": "东方光耀夜 ~ Lost Branch of Legend",
     "schinese_name": "东方光耀夜 ~ Lost Branch of Legend",
     "isfreeapp": "0",
-    "change_number": "28334536",
-    "update_time": "2025-04-07 02:15:59",
+    "change_number": "28546837",
+    "update_time": "2025-04-18 17:40:33",
     "depot": {
         "hasdepotsindlc": "0",
         "1140151": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2629362747195347895",
-                    "size": "5004627048",
-                    "download": "1612172016"
+                    "gid": "94413278489725291",
+                    "size": "4902088154",
+                    "download": "1622878592"
                 },
                 "beta": {
-                    "gid": "2629362747195347895",
-                    "size": "5004627048",
-                    "download": "1612172016"
+                    "gid": "94413278489725291",
+                    "size": "4902088154",
+                    "download": "1622878592"
                 },
                 "stable": {
                     "gid": "2292257629735309070",
@@ -37,14 +37,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1307612600036169898",
-                    "size": "4998462622",
-                    "download": "1610943888"
+                    "gid": "2059468131388841272",
+                    "size": "4895936176",
+                    "download": "1621862704"
                 },
                 "beta": {
-                    "gid": "1307612600036169898",
-                    "size": "4998462622",
-                    "download": "1610943888"
+                    "gid": "2059468131388841272",
+                    "size": "4895936176",
+                    "download": "1621862704"
                 },
                 "stable": {
                     "gid": "748592179681331698",
@@ -57,13 +57,13 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "17996711",
-                "timeupdated": "1743869462"
+                "buildid": "18154621",
+                "timeupdated": "1744960352"
             },
             "beta": {
-                "buildid": "17996711",
-                "description": "v1.7.0",
-                "timeupdated": "1743869393"
+                "buildid": "18154621",
+                "description": "v1.7.1",
+                "timeupdated": "1744960317"
             },
             "stable": {
                 "buildid": "17394991",
