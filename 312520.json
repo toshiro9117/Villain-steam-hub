@@ -4,17 +4,17 @@
     "name": "Rain World",
     "schinese_name": "雨世界",
     "isfreeapp": "0",
-    "change_number": "28284284",
-    "update_time": "2025-04-03 16:10:21",
+    "change_number": "28494621",
+    "update_time": "2025-04-16 03:59:19",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "312521": {
             "manifests": {
                 "public": {
-                    "gid": "3181703530272683978",
-                    "size": "4111834939",
-                    "download": "2821614544"
+                    "gid": "8166643505761973033",
+                    "size": "4111934378",
+                    "download": "2821636960"
                 },
                 "classic": {
                     "gid": "6365756072218008879",
@@ -42,8 +42,8 @@
         "workshopdepot": "312520",
         "branches": {
             "public": {
-                "buildid": "17906300",
-                "timeupdated": "1743213571"
+                "buildid": "18118000",
+                "timeupdated": "1744747154"
             },
             "classic": {
                 "buildid": "1748904",
@@ -67,6 +67,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ef800a2479027ef2829d53f0c9cccd74da5c5f7fa82e5bb626c069cd07cd2b99"
     }
 }
