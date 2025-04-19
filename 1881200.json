@@ -4,8 +4,8 @@
     "name": "TRYP FPV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28290662",
-    "update_time": "2025-04-03 22:24:38",
+    "change_number": "28527368",
+    "update_time": "2025-04-17 19:04:23",
     "depot": {
         "228989": {
             "config": {
@@ -102,6 +102,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5604928acd37b25aa69d51e601d849afa1d4172149dcfcd5820ff1bc7db4d15a"
     }
 }
