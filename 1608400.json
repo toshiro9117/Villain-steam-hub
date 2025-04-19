@@ -4,8 +4,8 @@
     "name": "Vermillion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28117180",
-    "update_time": "2025-03-25 05:03:22",
+    "change_number": "28365497",
+    "update_time": "2025-04-08 20:37:00",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1608401": {
             "manifests": {
                 "public": {
-                    "gid": "3667654761000392420",
-                    "size": "2329483625",
-                    "download": "914907952"
+                    "gid": "2915289846614705610",
+                    "size": "2346510096",
+                    "download": "921845248"
                 }
             },
             "decryptionkey": "a90a70cee56fe34d1297c3ad2a6aab2587a671e7ba0815ce6f4ad80f32231c92"
@@ -34,11 +34,11 @@
         "workshopdepot": "1608400",
         "branches": {
             "public": {
-                "buildid": "17841487",
-                "timeupdated": "1742850085"
+                "buildid": "18025890",
+                "timeupdated": "1744115803"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "59785fac9c09d9ac272dbb8870ca08f0a894c60782c8f062de2706dfdb36161f"
     }
 }
