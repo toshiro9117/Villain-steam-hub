@@ -4,23 +4,23 @@
     "name": "Unreal Lust Theory",
     "schinese_name": "虚幻情欲理论",
     "isfreeapp": "0",
-    "change_number": "28291662",
-    "update_time": "2025-04-03 23:17:20",
+    "change_number": "28549348",
+    "update_time": "2025-04-18 20:34:47",
     "depot": {
         "2573101": {
             "manifests": {
                 "public": {
-                    "gid": "2184880163428767750",
-                    "size": "2168855667",
-                    "download": "1993896752"
+                    "gid": "2670522962282575631",
+                    "size": "2898462099",
+                    "download": "2710280640"
                 }
             },
             "decryptionkey": "55faf9612bc73e5ca55e53e175eb0ecf4a6fdbc64ccabe334445f8c10c1dfdb2"
         },
         "branches": {
             "public": {
-                "buildid": "17811515",
-                "timeupdated": "1742573153"
+                "buildid": "18162223",
+                "timeupdated": "1745011354"
             }
         }
     }
