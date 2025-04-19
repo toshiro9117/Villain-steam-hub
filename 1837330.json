@@ -4,8 +4,8 @@
     "name": "Gibbon: Beyond the Trees",
     "schinese_name": "长臂猿传奇：丛林之外",
     "isfreeapp": "0",
-    "change_number": "26981328",
-    "update_time": "2025-01-14 09:09:41",
+    "change_number": "28405794",
+    "update_time": "2025-04-10 19:10:57",
     "depot": {
         "1837331": {
             "config": {
@@ -41,8 +41,7 @@
                     "size": "1328945725",
                     "download": "761230016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,turkish,arabic,brazilian,latam",
         "branches": {
