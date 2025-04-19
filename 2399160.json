@@ -4,8 +4,8 @@
     "name": "Soulash 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28329001",
-    "update_time": "2025-04-06 11:16:59",
+    "change_number": "28423128",
+    "update_time": "2025-04-11 15:12:34",
     "depot": {
         "228989": {
             "config": {
@@ -32,6 +32,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0e94c16e2603283cd8ef4881f9f10778b515079f4ae7546d8897aa570aa87863"
     }
 }
