@@ -4,8 +4,8 @@
     "name": "Pixel Game Engine",
     "schinese_name": "像素游戏引擎",
     "isfreeapp": "0",
-    "change_number": "27789919",
-    "update_time": "2025-03-05 15:32:38",
+    "change_number": "28480855",
+    "update_time": "2025-04-15 14:32:46",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,swedish,arabic",
         "2109341": {
@@ -21,11 +21,13 @@
             },
             "decryptionkey": "aacc45fc5857358445ba12066bd74d2cc28c9a31e23a82b9c69a492f3ca5adbe"
         },
+        "workshopdepot": "2109340",
         "branches": {
             "public": {
                 "buildid": "17600443",
                 "timeupdated": "1741159955"
             }
-        }
+        },
+        "workshopdepotdecryptionkey": ""
     }
 }
