@@ -4,8 +4,8 @@
     "name": "Universe For Sale",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28272192",
-    "update_time": "2025-04-03 00:19:18",
+    "change_number": "28431786",
+    "update_time": "2025-04-11 23:08:38",
     "depot": {
         "baselanguages": "english,italian",
         "1627843": {
@@ -23,8 +23,7 @@
                     "size": "1526469267",
                     "download": "1185531728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1627842": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "1579625591",
                     "download": "1188032480"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
