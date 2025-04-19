@@ -4,8 +4,8 @@
     "name": "Age of Mythology: Retold",
     "schinese_name": "神话时代：重述版",
     "isfreeapp": "0",
-    "change_number": "28344747",
-    "update_time": "2025-04-07 19:39:21",
+    "change_number": "28548605",
+    "update_time": "2025-04-18 19:40:15",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1068240035697453427",
-                    "size": "25263910183",
-                    "download": "11894262016"
+                    "gid": "8211897419297435269",
+                    "size": "25264174789",
+                    "download": "11894132128"
                 }
             },
             "decryptionkey": "802af330b3164b4c3b78d2f3b015e1017979ec6738f5d952aeb72eb14a138f19"
@@ -179,8 +179,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17895579",
-                "timeupdated": "1743613904"
+                "buildid": "18008223",
+                "timeupdated": "1744218467"
             }
         },
         "privatebranches": "1"
