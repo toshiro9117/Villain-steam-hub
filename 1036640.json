@@ -4,8 +4,8 @@
     "name": "RPG Developer Bakin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28340162",
-    "update_time": "2025-04-07 14:15:47",
+    "change_number": "28547813",
+    "update_time": "2025-04-18 18:42:25",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,japanese",
@@ -27,9 +27,9 @@
         "1036641": {
             "manifests": {
                 "public": {
-                    "gid": "4359479521382709362",
-                    "size": "8196849389",
-                    "download": "2146191232"
+                    "gid": "3233197304216987020",
+                    "size": "8196855193",
+                    "download": "2146189456"
                 },
                 "ver1.0.15": {
                     "gid": "6268989584704739775",
@@ -136,8 +136,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17963762",
-                "timeupdated": "1743665959"
+                "buildid": "18130663",
+                "timeupdated": "1744867875"
             },
             "ver1.0.15": {
                 "buildid": "10128116",
@@ -241,6 +241,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "940971cdec07b5b8c365d69f84a6fe6c1ecdd53f3bfd00fb81a6b6b2ae19ec5d"
     }
 }
