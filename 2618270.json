@@ -4,8 +4,8 @@
     "name": "Project Werewulf Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28215567",
-    "update_time": "2025-03-30 22:51:26",
+    "change_number": "28469521",
+    "update_time": "2025-04-14 23:39:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,16 +24,17 @@
         "2618271": {
             "manifests": {
                 "public": {
-                    "gid": "5947293977039223651",
-                    "size": "10608442872",
-                    "download": "9507510640"
+                    "gid": "6967874693206160636",
+                    "size": "8169858831",
+                    "download": "7576341072"
                 }
-            }
+            },
+            "decryptionkey": "78069c5d6e67f7967aec6a99fc41bd7ddb25723f7498399a267991589cf692c2"
         },
         "branches": {
             "public": {
-                "buildid": "16314704",
-                "timeupdated": "1730900039"
+                "buildid": "18101008",
+                "timeupdated": "1744645156"
             }
         }
     }
