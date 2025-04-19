@@ -4,8 +4,8 @@
     "name": "三国仁义传 the Romantic of Righteousness: SanGuo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28251362",
-    "update_time": "2025-04-01 23:27:13",
+    "change_number": "28441854",
+    "update_time": "2025-04-12 14:11:30",
     "depot": {
         "baselanguages": "schinese",
         "228988": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9173918044485501139",
-                    "size": "6578969361",
-                    "download": "6278674832"
+                    "gid": "1493725007065766605",
+                    "size": "6579226665",
+                    "download": "6278883104"
                 }
             },
             "decryptionkey": "5f1b50a5ed79920bac34674621d1a36e66f39c8e5e7db1a825f4dfc4ea4e75d6"
@@ -38,8 +38,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17941541",
-                "timeupdated": "1743521230"
+                "buildid": "18081508",
+                "timeupdated": "1744438286"
             }
         }
     }
