@@ -4,8 +4,8 @@
     "name": "Frostpunk 2",
     "schinese_name": "冰汽时代2",
     "isfreeapp": "0",
-    "change_number": "28341991",
-    "update_time": "2025-04-07 16:43:22",
+    "change_number": "28549731",
+    "update_time": "2025-04-18 21:05:15",
     "depot": {
         "workshopdepot": "1601580",
         "228988": {
@@ -106,6 +106,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b188b56eb26beef5cc8940334590f6202b960b404f64fc45efd499e5b8fa8446"
     }
 }
