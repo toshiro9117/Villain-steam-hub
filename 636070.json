@@ -4,8 +4,8 @@
     "name": "Corridor Z",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27220568",
-    "update_time": "2025-01-30 00:12:15",
+    "change_number": "28447725",
+    "update_time": "2025-04-13 04:07:44",
     "depot": {
         "636071": {
             "config": {
@@ -19,7 +19,7 @@
                     "download": "207814816"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f36ed0f8218fc3dc58a89d9201890b50bb82ee3dd73ad7609ff95e0a81d8ad12"
         },
         "636072": {
             "config": {
@@ -46,8 +46,7 @@
                     "size": "505075398",
                     "download": "211651024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "636074": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "541899895",
                     "download": "224764448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
