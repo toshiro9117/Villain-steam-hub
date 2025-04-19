@@ -4,8 +4,8 @@
     "name": "DayZ Experimental Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28170070",
-    "update_time": "2025-03-27 20:57:31",
+    "change_number": "28486172",
+    "update_time": "2025-04-15 19:59:13",
     "depot": {
         "228983": {
             "config": {
@@ -59,17 +59,17 @@
         "2909701": {
             "manifests": {
                 "public": {
-                    "gid": "2849146918620456557",
-                    "size": "546683707",
-                    "download": "244830816"
+                    "gid": "2371368068848993327",
+                    "size": "539339013",
+                    "download": "244084800"
                 }
             },
             "decryptionkey": "88a0e30fada436450021104b41d2bc9d78a9d081725d24844c31995a3da93e15"
         },
         "branches": {
             "public": {
-                "buildid": "17866891",
-                "timeupdated": "1743080246"
+                "buildid": "18100287",
+                "timeupdated": "1744718348"
             }
         },
         "privatebranches": "1"
