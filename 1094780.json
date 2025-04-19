@@ -4,8 +4,8 @@
     "name": "Fisher Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28308471",
-    "update_time": "2025-04-04 20:40:33",
+    "change_number": "28483959",
+    "update_time": "2025-04-15 17:42:02",
     "depot": {
         "workshopdepot": "1094780",
         "1094781": {
@@ -16,9 +16,9 @@
                     "download": "22485737424"
                 },
                 "openbeta": {
-                    "gid": "8768190188442121104",
-                    "size": "26334195858",
-                    "download": "23525864688"
+                    "gid": "6777668175165719961",
+                    "size": "26355272407",
+                    "download": "23527018560"
                 }
             },
             "decryptionkey": "4bb3628dc1eb56e6e42becfe2801675a4102c378dcf1941b150fd58c9bb84bd9"
@@ -32,12 +32,12 @@
                 "timeupdated": "1742398453"
             },
             "openbeta": {
-                "buildid": "17984301",
+                "buildid": "18110989",
                 "description": "Open Client Beta",
-                "timeupdated": "1743770426"
+                "timeupdated": "1744710100"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a602e7add7705c1ccd13fddf271696bd872eb5bd8eb2ab4cff20ccdbb0b867eb"
     }
 }
