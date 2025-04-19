@@ -4,8 +4,8 @@
     "name": "Voxile",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339657",
-    "update_time": "2025-04-07 13:15:59",
+    "change_number": "28545265",
+    "update_time": "2025-04-18 16:00:55",
     "depot": {
         "2283581": {
             "config": {
@@ -18,14 +18,14 @@
                     "download": "213412528"
                 },
                 "devtest": {
-                    "gid": "2916219398239510644",
-                    "size": "1079989286",
-                    "download": "244760176"
+                    "gid": "8448062009999317403",
+                    "size": "792356685",
+                    "download": "245187344"
                 },
                 "earlytest": {
-                    "gid": "2916219398239510644",
-                    "size": "1079989286",
-                    "download": "244760176"
+                    "gid": "8448062009999317403",
+                    "size": "792356685",
+                    "download": "245187344"
                 },
                 "last_old_worlds": {
                     "gid": "5705626228557329003",
@@ -41,14 +41,14 @@
                 "timeupdated": "1742494805"
             },
             "devtest": {
-                "buildid": "17958273",
+                "buildid": "18133833",
                 "description": "for devs only, no testers",
-                "timeupdated": "1743614621"
+                "timeupdated": "1744831327"
             },
             "earlytest": {
-                "buildid": "17958273",
+                "buildid": "18133833",
                 "description": "EarlyTest",
-                "timeupdated": "1743614700"
+                "timeupdated": "1744831467"
             },
             "last_old_worlds": {
                 "buildid": "14227051",
