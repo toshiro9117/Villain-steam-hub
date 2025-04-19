@@ -4,8 +4,8 @@
     "name": "Golf It!",
     "schinese_name": "Golf It!高尔夫吧！",
     "isfreeapp": "0",
-    "change_number": "27435908",
-    "update_time": "2025-02-12 17:11:47",
+    "change_number": "28504838",
+    "update_time": "2025-04-16 17:35:57",
     "depot": {
         "baselanguages": "english,german",
         "workshopdepot": "571740",
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4150425313465161408",
-                    "size": "17174870384",
-                    "download": "5132915072"
+                    "gid": "5146576184865608738",
+                    "size": "17228102605",
+                    "download": "5157173456"
                 },
                 "legacy": {
                     "gid": "8449571964449759195",
@@ -68,9 +68,9 @@
                     "download": "3742176640"
                 },
                 "beta": {
-                    "gid": "4150425313465161408",
-                    "size": "17174870384",
-                    "download": "5132915072"
+                    "gid": "5146576184865608738",
+                    "size": "17228102605",
+                    "download": "5157173456"
                 }
             },
             "decryptionkey": "d4d913d1500f6fb2f6555dc308aa9d6dc8174a7fc345fec224d964c6ed298e8b"
@@ -81,9 +81,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8816651923000822739",
-                    "size": "19595586647",
-                    "download": "5989957424"
+                    "gid": "7001656727259101581",
+                    "size": "19678425096",
+                    "download": "6019387024"
                 },
                 "legacy": {
                     "gid": "3054868429790070529",
@@ -91,26 +91,26 @@
                     "download": "4510137696"
                 },
                 "beta": {
-                    "gid": "8816651923000822739",
-                    "size": "19595586647",
-                    "download": "5989957424"
+                    "gid": "7001656727259101581",
+                    "size": "19678425096",
+                    "download": "6019387024"
                 }
             },
             "decryptionkey": "c035eba8156fad45f156d0941e520d8ba14372c9fd7ecac112734079a9cc6f01"
         },
         "branches": {
             "public": {
-                "buildid": "17324994",
-                "timeupdated": "1739351503"
+                "buildid": "17485275",
+                "timeupdated": "1740410234"
             },
             "legacy": {
                 "buildid": "8637417",
                 "timeupdated": "1692379805"
             },
             "beta": {
-                "buildid": "17324994",
+                "buildid": "17485275",
                 "description": "Test new Versions before release!",
-                "timeupdated": "1739295791"
+                "timeupdated": "1740409434"
             }
         },
         "privatebranches": "1",
