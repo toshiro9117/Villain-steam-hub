@@ -4,8 +4,8 @@
     "name": "Euro Truck Simulator 2",
     "schinese_name": "欧洲卡车模拟2",
     "isfreeapp": "0",
-    "change_number": "28310816",
-    "update_time": "2025-04-04 22:44:07",
+    "change_number": "28537415",
+    "update_time": "2025-04-18 04:15:06",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -446,14 +446,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3938169953241195944",
-                    "size": "66120762",
-                    "download": "20306640"
+                    "gid": "827825136862931586",
+                    "size": "66409530",
+                    "download": "20386240"
                 },
                 "public_beta": {
-                    "gid": "3938169953241195944",
-                    "size": "66120762",
-                    "download": "20306640"
+                    "gid": "827825136862931586",
+                    "size": "66409530",
+                    "download": "20386240"
                 },
                 "oculus": {
                     "gid": "4694906742983800568",
@@ -12611,13 +12611,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17924515",
-                "timeupdated": "1743489384"
+                "buildid": "18149250",
+                "timeupdated": "1744920900"
             },
             "public_beta": {
-                "buildid": "17924515",
+                "buildid": "18149250",
                 "description": "Open Beta for game version 1.54",
-                "timeupdated": "1743489341"
+                "timeupdated": "1744920853"
             },
             "oculus": {
                 "buildid": "17928938",
