@@ -4,24 +4,24 @@
     "name": "ARK: Astraeos",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346064",
-    "update_time": "2025-04-07 21:04:45",
+    "change_number": "28517298",
+    "update_time": "2025-04-17 06:07:59",
     "depot": {
         "3483400": {
             "dlcappid": "3483400",
             "manifests": {
                 "public": {
-                    "gid": "8501508661242194866",
-                    "size": "6175299633",
-                    "download": "5635567760"
+                    "gid": "1557948909731843566",
+                    "size": "6202570557",
+                    "download": "5653866544"
                 }
             },
             "decryptionkey": "8f2706fe64f86426091cbb9a23dedbc3ec0c53a78877abb9b549edded5f436ea"
         },
         "branches": {
             "public": {
-                "buildid": "17886218",
-                "timeupdated": "1743109579"
+                "buildid": "18068184",
+                "timeupdated": "1744841276"
             }
         },
         "privatebranches": "1"
