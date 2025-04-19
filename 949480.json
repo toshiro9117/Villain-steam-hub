@@ -4,8 +4,8 @@
     "name": "BROK the InvestiGator",
     "schinese_name": "BROK the InvestiGator 鳄鱼侦探布罗格",
     "isfreeapp": "0",
-    "change_number": "28330789",
-    "update_time": "2025-04-06 17:10:42",
+    "change_number": "28465045",
+    "update_time": "2025-04-14 18:58:52",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2016998396044216404",
-                    "size": "2433768168",
-                    "download": "2148234288"
+                    "gid": "1287772633440728547",
+                    "size": "2449792000",
+                    "download": "2163048176"
                 },
                 "32bit": {
                     "gid": "8888103650104402991",
@@ -96,8 +96,8 @@
         "workshopdepot": "949480",
         "branches": {
             "public": {
-                "buildid": "17211792",
-                "timeupdated": "1738510533"
+                "buildid": "18097900",
+                "timeupdated": "1744628325"
             },
             "32bit": {
                 "buildid": "9514517",
