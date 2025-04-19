@@ -4,8 +4,8 @@
     "name": "Burger Shop 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336288",
-    "update_time": "2025-04-07 06:05:40",
+    "change_number": "28411234",
+    "update_time": "2025-04-10 23:58:34",
     "depot": {
         "2505571": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "864017558759763756",
-                    "size": "77991917",
-                    "download": "70845136"
+                    "gid": "4091002869390461599",
+                    "size": "78171103",
+                    "download": "71012736"
                 },
                 "beta": {
-                    "gid": "4494645873845128827",
-                    "size": "78171526",
-                    "download": "71012720"
+                    "gid": "4091002869390461599",
+                    "size": "78171103",
+                    "download": "71012736"
                 }
             },
             "decryptionkey": "37130c3d1cef8499046837217b86c1be5fc653ca4a8065c063b9e22f32bd15cc"
@@ -31,27 +31,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6874789143084748236",
-                    "size": "82603153",
-                    "download": "71684704"
+                    "gid": "4104118833407122879",
+                    "size": "82776739",
+                    "download": "71853760"
                 },
                 "beta": {
-                    "gid": "125541884109104583",
-                    "size": "82776650",
-                    "download": "71852992"
+                    "gid": "4104118833407122879",
+                    "size": "82776739",
+                    "download": "71853760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17838792",
-                "timeupdated": "1742835231"
+                "buildid": "18013734",
+                "timeupdated": "1744300710"
             },
             "beta": {
-                "buildid": "18004472",
+                "buildid": "18013734",
                 "description": "Early Early Access (for testing new Early Access builds)",
-                "timeupdated": "1743977136"
+                "timeupdated": "1744044252"
             }
         },
         "privatebranches": "1"
