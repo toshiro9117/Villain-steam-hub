@@ -4,8 +4,8 @@
     "name": "Brick Rigs",
     "schinese_name": "砖厂Brick Rigs",
     "isfreeapp": "0",
-    "change_number": "28265796",
-    "update_time": "2025-04-02 18:16:58",
+    "change_number": "28537269",
+    "update_time": "2025-04-18 04:04:25",
     "depot": {
         "workshopdepot": "552100",
         "228988": {
@@ -38,9 +38,9 @@
                     "download": "1429133088"
                 },
                 "experimental": {
-                    "gid": "6579074036481288258",
-                    "size": "2124102644",
-                    "download": "604373136"
+                    "gid": "397580511527403890",
+                    "size": "2137107514",
+                    "download": "614623584"
                 }
             },
             "decryptionkey": "2655dc8f6778dc013bae87f3f20881b6b118c6beaca59114be62b0dd6a551679"
@@ -57,12 +57,12 @@
                 "timeupdated": "1626329088"
             },
             "experimental": {
-                "buildid": "15224196",
+                "buildid": "18128448",
                 "description": "Public testing branch",
-                "timeupdated": "1722504602"
+                "timeupdated": "1744805931"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4441e860755bebd2b198de7489e21091698ed3f64abd9601bfe60b6fb9b7319d"
     }
 }
