@@ -4,23 +4,23 @@
     "name": "Castle Of Alchemists",
     "schinese_name": "炼金要塞 Castle Of Alchemists",
     "isfreeapp": "0",
-    "change_number": "28323615",
-    "update_time": "2025-04-05 21:04:43",
+    "change_number": "28531350",
+    "update_time": "2025-04-17 22:42:32",
     "depot": {
         "1724771": {
             "manifests": {
                 "public": {
-                    "gid": "4086461814905736236",
-                    "size": "3647237925",
-                    "download": "246931408"
+                    "gid": "830882856801969935",
+                    "size": "4048601933",
+                    "download": "290437776"
                 }
             },
             "decryptionkey": "11df170a07e820b570926cef24458f4bae5f93d2fe798173b2b7c274910fbde1"
         },
         "branches": {
             "public": {
-                "buildid": "16378447",
-                "timeupdated": "1731417788"
+                "buildid": "18145506",
+                "timeupdated": "1744900948"
             }
         },
         "privatebranches": "1"
