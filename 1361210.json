@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Darktide",
     "schinese_name": "战锤40K：暗潮",
     "isfreeapp": "0",
-    "change_number": "28314184",
-    "update_time": "2025-04-05 01:52:10",
+    "change_number": "28535882",
+    "update_time": "2025-04-18 02:37:16",
     "depot": {
         "228983": {
             "config": {
@@ -31,9 +31,9 @@
         "1361211": {
             "manifests": {
                 "public": {
-                    "gid": "6459660931232601405",
-                    "size": "75928203207",
-                    "download": "62453008432"
+                    "gid": "4744431053483341316",
+                    "size": "75935525459",
+                    "download": "62497195584"
                 }
             },
             "decryptionkey": "91a13a5dcfb61da0b70e706684905b0c2aa90d8287d89e17507c0b94bc0f6e62"
@@ -51,9 +51,9 @@
         "1361213": {
             "manifests": {
                 "public": {
-                    "gid": "5197580824913951820",
-                    "size": "216813509",
-                    "download": "105426768"
+                    "gid": "5497373709190673007",
+                    "size": "216806853",
+                    "download": "105429152"
                 }
             },
             "decryptionkey": "5b665c11f3ab71ed186993ab184691c52af53a8d86ffd0c2fd8fbc8ec33b757d"
@@ -61,9 +61,9 @@
         "1361214": {
             "manifests": {
                 "public": {
-                    "gid": "5596263402525162841",
-                    "size": "433389236",
-                    "download": "143901840"
+                    "gid": "4147929099512556910",
+                    "size": "433329225",
+                    "download": "143866256"
                 }
             },
             "decryptionkey": ""
@@ -71,8 +71,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17902960",
-                "timeupdated": "1743507131"
+                "buildid": "18102718",
+                "timeupdated": "1744804910"
             }
         },
         "privatebranches": "1"
