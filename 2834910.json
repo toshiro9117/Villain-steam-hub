@@ -4,8 +4,8 @@
     "name": "Rocksmith+",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27908290",
-    "update_time": "2025-03-12 18:01:58",
+    "change_number": "28531541",
+    "update_time": "2025-04-17 22:53:16",
     "depot": {
         "228989": {
             "config": {
@@ -37,7 +37,8 @@
                     "download": "241746080"
                 }
             },
-            "depotfromapp": "1716750"
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
         },
         "branches": {
             "public": {
