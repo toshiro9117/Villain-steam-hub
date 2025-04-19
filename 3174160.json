@@ -1,0 +1,27 @@
+{
+    "appid": "3174160",
+    "type": "Game",
+    "name": "Paws and Whiskers",
+    "schinese_name": "猫鼠乱斗",
+    "isfreeapp": "0",
+    "change_number": "28501020",
+    "update_time": "2025-04-16 13:08:02",
+    "depot": {
+        "3174161": {
+            "manifests": {
+                "public": {
+                    "gid": "4621309995043811532",
+                    "size": "1855078538",
+                    "download": "309867104"
+                }
+            },
+            "decryptionkey": "fb97c1a6e7432638f9efa539bdcb582ae38c0c0e8e0e0771e571a4f34a48e666"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18067551",
+                "timeupdated": "1744354379"
+            }
+        }
+    }
+}
