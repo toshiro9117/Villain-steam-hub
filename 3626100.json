@@ -1,0 +1,31 @@
+{
+    "appid": "3626100",
+    "type": "Game",
+    "name": "EXIT",
+    "schinese_name": "安全出口",
+    "isfreeapp": "0",
+    "change_number": "28549905",
+    "update_time": "2025-04-18 21:18:17",
+    "depot": {
+        "3626101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2011056214760402819",
+                    "size": "1030821120",
+                    "download": "390219280"
+                }
+            },
+            "decryptionkey": "8c0eddedde8d00a9976c8d822346b4a9e00e878cc3372a4e017c82545e3d9b5a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18164490",
+                "timeupdated": "1745033273"
+            }
+        }
+    }
+}
