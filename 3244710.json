@@ -1,0 +1,27 @@
+{
+    "appid": "3244710",
+    "type": "Game",
+    "name": "Archaeology - Post-Apocalypse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28414754",
+    "update_time": "2025-04-11 03:11:19",
+    "depot": {
+        "3244711": {
+            "manifests": {
+                "public": {
+                    "gid": "8336369124455683613",
+                    "size": "1882423096",
+                    "download": "384409440"
+                }
+            },
+            "decryptionkey": "c4f2e190af836dd0fdbb493af88a758b86c4e62559f23891eff580167b4c36f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17581426",
+                "timeupdated": "1741046485"
+            }
+        }
+    }
+}
