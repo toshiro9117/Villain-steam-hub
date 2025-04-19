@@ -4,8 +4,8 @@
     "name": "PGA TOUR 2K25",
     "schinese_name": "《PGA TOUR 2K25》",
     "isfreeapp": "0",
-    "change_number": "28342959",
-    "update_time": "2025-04-07 17:43:57",
+    "change_number": "28547092",
+    "update_time": "2025-04-18 17:58:16",
     "depot": {
         "228983": {
             "config": {
@@ -24,9 +24,9 @@
         "2385531": {
             "manifests": {
                 "public": {
-                    "gid": "1163662554840515412",
-                    "size": "30747154324",
-                    "download": "28596079008"
+                    "gid": "6623619015267728579",
+                    "size": "31452170694",
+                    "download": "29303501200"
                 }
             },
             "decryptionkey": "891c9c194df2d680a3dbe94e736933f9252184a9680761d1cd6cef9fd178a77a"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17801365",
-                "timeupdated": "1742580124"
+                "buildid": "17964284",
+                "timeupdated": "1744124466"
             }
         },
         "privatebranches": "1"
