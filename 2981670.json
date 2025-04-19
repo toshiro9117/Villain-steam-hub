@@ -4,8 +4,8 @@
     "name": "The King is Watching Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28076340",
-    "update_time": "2025-03-22 00:41:32",
+    "change_number": "28365887",
+    "update_time": "2025-04-08 21:00:48",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "144653761",
                     "download": "104849328"
                 }
-            }
+            },
+            "decryptionkey": "1b58e14d917a10caa557452bb38b652fa76224989c771f61c5356eb1227ba1f5"
         },
         "branches": {
             "public": {
