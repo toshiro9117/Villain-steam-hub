@@ -4,8 +4,8 @@
     "name": "The Classrooms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28318140",
-    "update_time": "2025-04-05 07:13:12",
+    "change_number": "28513981",
+    "update_time": "2025-04-17 02:09:48",
     "depot": {
         "2099111": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "10863690081",
                     "download": "3965568016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
