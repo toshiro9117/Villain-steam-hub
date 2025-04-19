@@ -1,0 +1,33 @@
+{
+    "appid": "2463800",
+    "type": "Game",
+    "name": "Iron Saga VS",
+    "schinese_name": "机动战队VS",
+    "isfreeapp": "0",
+    "change_number": "28526822",
+    "update_time": "2025-04-17 18:29:36",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2463801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2980740374046011025",
+                    "size": "4713677906",
+                    "download": "4135040864"
+                }
+            },
+            "decryptionkey": "8cdcbb70a237c9400218b90880a7eabf73d24271972575a40238baa5ba28f3bb"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18142095",
+                "timeupdated": "1744885771"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
