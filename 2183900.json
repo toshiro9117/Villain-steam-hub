@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Space Marine 2",
     "schinese_name": "战锤40K：星际战士2",
     "isfreeapp": "0",
-    "change_number": "28345615",
-    "update_time": "2025-04-07 20:35:56",
+    "change_number": "28547648",
+    "update_time": "2025-04-18 18:30:42",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,czech,turkish,brazilian,ukrainian,latam",
         "228989": {
@@ -18,9 +18,9 @@
         "2183901": {
             "manifests": {
                 "public": {
-                    "gid": "8176256360667315907",
-                    "size": "75532538961",
-                    "download": "60433125632"
+                    "gid": "71995976867795550",
+                    "size": "77798385338",
+                    "download": "62403599712"
                 }
             },
             "decryptionkey": "8df236a6a5084039477362b31157e7e0eb66554a744762d6782c544ab64d0c4e"
@@ -29,9 +29,9 @@
             "dlcappid": "3202690",
             "manifests": {
                 "public": {
-                    "gid": "2777231195927801489",
-                    "size": "101484822882",
-                    "download": "102010246736"
+                    "gid": "5856343828878282898",
+                    "size": "105342674227",
+                    "download": "105902333600"
                 }
             },
             "decryptionkey": "00c47f82b08192958b11307abb87c755003eb8dfae75063373e379c296b26083"
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17586882",
-                "timeupdated": "1741082134"
+                "buildid": "18039771",
+                "timeupdated": "1744707308"
             }
         },
         "privatebranches": "1"
