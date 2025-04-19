@@ -1,0 +1,46 @@
+{
+    "appid": "1312900",
+    "type": "Game",
+    "name": "Deep Dark Forest",
+    "schinese_name": "深暗森林 Deep Dark Forest",
+    "isfreeapp": "0",
+    "change_number": "28546214",
+    "update_time": "2025-04-18 17:03:58",
+    "depot": {
+        "1312901": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5363976141482409686",
+                    "size": "1417004071",
+                    "download": "411895376"
+                }
+            },
+            "decryptionkey": "c61c80d332d48ad0b007208e6697311d3de94f48685dee62aecec591bb64252c"
+        },
+        "1312902": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2351107835764221523",
+                    "size": "1416953391",
+                    "download": "412976208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18145166",
+                "timeupdated": "1744899232"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
