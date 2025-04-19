@@ -4,8 +4,8 @@
     "name": "Eco Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28320341",
-    "update_time": "2025-04-05 12:04:33",
+    "change_number": "28521382",
+    "update_time": "2025-04-17 12:05:23",
     "depot": {
         "1004": {
             "config": {
@@ -285,8 +285,7 @@
                     "size": "256728095",
                     "download": "86486064"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "739595": {
             "config": {
@@ -360,8 +359,7 @@
                     "size": "293925491",
                     "download": "86523328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "739591": {
             "config": {
