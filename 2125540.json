@@ -4,8 +4,8 @@
     "name": "Kādomon: Hyper Auto Battlers",
     "schinese_name": "卡多梦:超能自走棋",
     "isfreeapp": "0",
-    "change_number": "28346014",
-    "update_time": "2025-04-07 21:00:56",
+    "change_number": "28538004",
+    "update_time": "2025-04-18 04:59:03",
     "depot": {
         "228990": {
             "config": {
@@ -17,27 +17,27 @@
         "2125542": {
             "manifests": {
                 "public": {
-                    "gid": "1521837138239073075",
-                    "size": "2879811558",
-                    "download": "553043280"
+                    "gid": "6524426410215851285",
+                    "size": "3004830013",
+                    "download": "581336544"
                 },
                 "experimental": {
-                    "gid": "1892807665218725920",
-                    "size": "2880529214",
-                    "download": "553092256"
+                    "gid": "1205086195454566862",
+                    "size": "2891538835",
+                    "download": "554988384"
                 }
             },
             "decryptionkey": "03a982baa6facb2d155f1c861f5e2155178d77af05bd836c26d8898cfcd8f910"
         },
         "branches": {
             "public": {
-                "buildid": "16236084",
-                "timeupdated": "1730289398"
+                "buildid": "18144046",
+                "timeupdated": "1744898377"
             },
             "experimental": {
-                "buildid": "17101058",
+                "buildid": "18109224",
                 "description": "Public Experimental Branch (Updates may have stability issues)",
-                "timeupdated": "1738166746"
+                "timeupdated": "1744697287"
             }
         },
         "privatebranches": "1"
