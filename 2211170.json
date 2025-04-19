@@ -4,8 +4,8 @@
     "name": "Unrailed 2: Back on Track",
     "schinese_name": "一起开火车2：汽笛重鸣",
     "isfreeapp": "0",
-    "change_number": "28313130",
-    "update_time": "2025-04-05 00:54:46",
+    "change_number": "28517479",
+    "update_time": "2025-04-17 06:23:45",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2378697186179033180",
-                    "size": "568043371",
-                    "download": "420426000"
+                    "gid": "8413523087908285615",
+                    "size": "567414527",
+                    "download": "416243888"
                 },
                 "community-cup-japan": {
                     "gid": "9157307307623154147",
@@ -38,9 +38,9 @@
                     "download": "314083616"
                 },
                 "experimental": {
-                    "gid": "2378697186179033180",
-                    "size": "568043371",
-                    "download": "420426000"
+                    "gid": "2420152924644422876",
+                    "size": "571241603",
+                    "download": "422926896"
                 },
                 "last-default": {
                     "gid": "4610484088443080318",
@@ -67,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8963240514882423471",
-                    "size": "568683718",
-                    "download": "370266592"
+                    "gid": "52507849432916701",
+                    "size": "570049982",
+                    "download": "371932256"
                 },
                 "community-cup-japan": {
                     "gid": "298633845571471003",
@@ -77,9 +77,9 @@
                     "download": "270367168"
                 },
                 "experimental": {
-                    "gid": "8963240514882423471",
-                    "size": "568683718",
-                    "download": "370266592"
+                    "gid": "6746222917341225300",
+                    "size": "572294310",
+                    "download": "373058576"
                 },
                 "last-default": {
                     "gid": "9179172666149704046",
@@ -96,8 +96,7 @@
                     "size": "566776927",
                     "download": "366092832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3393870": {
             "dlcappid": "3393870",
@@ -132,8 +131,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17814344",
-                "timeupdated": "1742812891"
+                "buildid": "18135183",
+                "timeupdated": "1744842218"
             },
             "community-cup-japan": {
                 "buildid": "16644570",
@@ -141,9 +140,9 @@
                 "timeupdated": "1733409422"
             },
             "experimental": {
-                "buildid": "17814344",
+                "buildid": "18059577",
                 "description": "Test new features early on!",
-                "timeupdated": "1742808835"
+                "timeupdated": "1744303708"
             },
             "last-default": {
                 "buildid": "17485059",
