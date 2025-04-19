@@ -1,0 +1,37 @@
+{
+    "appid": "1609400",
+    "type": "Demo",
+    "name": "Mortal Sin Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28439278",
+    "update_time": "2025-04-12 08:00:53",
+    "depot": {
+        "1494811": {
+            "manifests": {
+                "public": {
+                    "gid": "2191398413956563223",
+                    "size": "4410777537",
+                    "download": "2083890656"
+                }
+            },
+            "depotfromapp": "1494810",
+            "decryptionkey": "0a511e83da83f4164929f78b0220da9474d343cbf334e814f37b5731de7196be"
+        },
+        "1609401": {
+            "manifests": {
+                "public": {
+                    "gid": "8360417894851989413",
+                    "size": "3473683589",
+                    "download": "1622261792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8948198",
+                "timeupdated": "1655372925"
+            }
+        }
+    }
+}
