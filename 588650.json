@@ -4,8 +4,8 @@
     "name": "Dead Cells",
     "schinese_name": "死亡细胞",
     "isfreeapp": "0",
-    "change_number": "28318689",
-    "update_time": "2025-04-05 08:10:24",
+    "change_number": "28502300",
+    "update_time": "2025-04-16 15:04:02",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian",
         "workshopdepot": "588650",
@@ -934,8 +934,7 @@
                     "size": "1185032015",
                     "download": "1120878256"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1046443": {
             "config": {
@@ -1002,8 +1001,7 @@
                     "size": "1185784481",
                     "download": "1122279568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
