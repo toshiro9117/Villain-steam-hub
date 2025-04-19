@@ -4,8 +4,8 @@
     "name": "GameCreator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344810",
-    "update_time": "2025-04-07 19:43:49",
+    "change_number": "28459327",
+    "update_time": "2025-04-14 11:08:51",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "1570131": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3211447900277096983",
-                    "size": "3301205648",
-                    "download": "2444039424"
+                    "gid": "1380109061649826721",
+                    "size": "3301297405",
+                    "download": "2443546064"
                 }
             },
             "decryptionkey": "c05c2202f6994fc6709ebbafc1ca8ce0ae4bb46dc36a9518061e6e532ab368a9"
@@ -172,8 +172,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18010734",
-                "timeupdated": "1744026224"
+                "buildid": "18067456",
+                "timeupdated": "1744353637"
             }
         },
         "privatebranches": "1"
