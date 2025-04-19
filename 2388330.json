@@ -4,8 +4,8 @@
     "name": "RetroArch - VirtualXT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28283804",
-    "update_time": "2025-04-03 15:46:38",
+    "change_number": "28545178",
+    "update_time": "2025-04-18 15:54:54",
     "depot": {
         "2388330": {
             "config": {
@@ -19,7 +19,7 @@
                     "download": "210864"
                 },
                 "nightly": {
-                    "gid": "288291437828742827",
+                    "gid": "7735162716742024208",
                     "size": "483693",
                     "download": "210704"
                 }
@@ -61,8 +61,7 @@
                     "download": "271264"
                 }
             },
-            "dlcappid": "2388330",
-            "decryptionkey": ""
+            "dlcappid": "2388330"
         },
         "branches": {
             "public": {
@@ -70,9 +69,9 @@
                 "timeupdated": "1736093730"
             },
             "nightly": {
-                "buildid": "17966272",
+                "buildid": "18155020",
                 "description": "Nightly unstable builds",
-                "timeupdated": "1743666389"
+                "timeupdated": "1744962887"
             }
         },
         "privatebranches": "1"
