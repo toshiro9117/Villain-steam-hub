@@ -1,0 +1,28 @@
+{
+    "appid": "2769070",
+    "type": "Game",
+    "name": "Ultimate Hero",
+    "schinese_name": "大比斗传说",
+    "isfreeapp": "0",
+    "change_number": "28548837",
+    "update_time": "2025-04-18 19:59:45",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2769071": {
+            "manifests": {
+                "public": {
+                    "gid": "9130849087885010276",
+                    "size": "1291756997",
+                    "download": "501590320"
+                }
+            },
+            "decryptionkey": "db3b1bc89e7fa02dd540b91fa670bf2c274362de407f47af1b0f7ac4c71c4f01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18164469",
+                "timeupdated": "1745033098"
+            }
+        }
+    }
+}
