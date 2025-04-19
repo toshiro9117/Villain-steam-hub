@@ -4,15 +4,15 @@
     "name": "Monster Girls and the Mysterious Adventure Remastered Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341619",
-    "update_time": "2025-04-07 16:17:38",
+    "change_number": "28361958",
+    "update_time": "2025-04-08 17:02:15",
     "depot": {
         "3491231": {
             "manifests": {
                 "public": {
-                    "gid": "4460955343261355531",
-                    "size": "1588790031",
-                    "download": "1196998512"
+                    "gid": "8235463479724796869",
+                    "size": "1588807634",
+                    "download": "1197010624"
                 }
             },
             "decryptionkey": "94ea08de4830399e2e476fad6a57cc42988b803ef8ac8b3b28f0cd12d344d414"
@@ -20,8 +20,8 @@
         "baselanguages": "english,japanese",
         "branches": {
             "public": {
-                "buildid": "17999615",
-                "timeupdated": "1743926484"
+                "buildid": "18008340",
+                "timeupdated": "1744102929"
             }
         },
         "privatebranches": "1"
