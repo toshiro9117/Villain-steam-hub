@@ -4,8 +4,8 @@
     "name": "Intruder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328565",
-    "update_time": "2025-04-06 09:58:08",
+    "change_number": "28542079",
+    "update_time": "2025-04-18 11:12:14",
     "depot": {
         "228989": {
             "config": {
@@ -27,8 +27,7 @@
                     "size": "6561906090",
                     "download": "1496294896"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "518153": {
             "config": {
