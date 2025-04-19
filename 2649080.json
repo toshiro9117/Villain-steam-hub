@@ -4,8 +4,8 @@
     "name": "Coffee Caravan",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28318689",
-    "update_time": "2025-04-05 08:10:37",
+    "change_number": "28438059",
+    "update_time": "2025-04-12 05:52:28",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,czech,turkish,brazilian",
         "2649081": {
@@ -31,8 +31,7 @@
                     "size": "361014567",
                     "download": "119024336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
