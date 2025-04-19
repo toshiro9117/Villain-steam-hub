@@ -4,8 +4,8 @@
     "name": "名利游戏",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27373232",
-    "update_time": "2025-02-08 08:24:56",
+    "change_number": "28483564",
+    "update_time": "2025-04-15 17:17:04",
     "depot": {
         "2758001": {
             "manifests": {
@@ -16,6 +16,12 @@
                 }
             },
             "decryptionkey": "70d82cd1e81fe339eb087ae9438c39ee6e0540ab7f6efeaab136e4ca57f85199"
+        },
+        "2758002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
