@@ -4,8 +4,8 @@
     "name": "Ballex²: The Hanging Gardens",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28170747",
-    "update_time": "2025-03-27 21:32:07",
+    "change_number": "28476143",
+    "update_time": "2025-04-15 07:09:50",
     "depot": {
         "workshopdepot": "1383570",
         "hasdepotsindlc": "1",
@@ -46,6 +46,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "90d5c21d0953ddfd5836fe12b173bd8a7883a7c26a4c763f0f7b718eea429a2c"
     }
 }
