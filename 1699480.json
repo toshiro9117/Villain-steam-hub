@@ -4,8 +4,8 @@
     "name": "KLETKA",
     "schinese_name": "笼子",
     "isfreeapp": "0",
-    "change_number": "28330381",
-    "update_time": "2025-04-06 15:56:33",
+    "change_number": "28534121",
+    "update_time": "2025-04-18 00:58:54",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "workshopdepot": "1699480",
@@ -35,9 +35,9 @@
                     "download": "1153224848"
                 },
                 "beta-test": {
-                    "gid": "1336930133208079611",
-                    "size": "1517547789",
-                    "download": "1153224848"
+                    "gid": "4195819174679531251",
+                    "size": "1525475309",
+                    "download": "1160784704"
                 }
             },
             "decryptionkey": "c68d3843c14b9584d5c8707632ad7c1876efeb1528e0b97802b47663295ec466"
@@ -54,12 +54,11 @@
                     "download": "1404175984"
                 },
                 "beta-test": {
-                    "gid": "1391716154706273473",
-                    "size": "3152229020",
-                    "download": "1404175984"
+                    "gid": "3251501831854074779",
+                    "size": "3165265266",
+                    "download": "1414498784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -67,9 +66,9 @@
                 "timeupdated": "1743571654"
             },
             "beta-test": {
-                "buildid": "17949711",
+                "buildid": "18147114",
                 "description": "For beta testers",
-                "timeupdated": "1743571674"
+                "timeupdated": "1744909110"
             }
         },
         "privatebranches": "1",
