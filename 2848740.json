@@ -4,20 +4,20 @@
     "name": "OverRider",
     "schinese_name": "超控行者",
     "isfreeapp": "0",
-    "change_number": "28307101",
-    "update_time": "2025-04-04 19:11:09",
+    "change_number": "28546890",
+    "update_time": "2025-04-18 17:44:39",
     "depot": {
         "2848741": {
             "manifests": {
                 "public": {
-                    "gid": "3668209252890148017",
-                    "size": "1888998123",
-                    "download": "1541850160"
+                    "gid": "2850560419181808975",
+                    "size": "3143300718",
+                    "download": "1791364624"
                 },
                 "beta-test": {
-                    "gid": "8322039563662690077",
-                    "size": "1914122923",
-                    "download": "1561217360"
+                    "gid": "8640722906852392165",
+                    "size": "3143471170",
+                    "download": "1792639040"
                 },
                 "fulllog-debug-test": {
                     "gid": "741960398502402365",
@@ -29,13 +29,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17705275",
-                "timeupdated": "1742182949"
+                "buildid": "18123662",
+                "timeupdated": "1744780152"
             },
             "beta-test": {
-                "buildid": "17983750",
+                "buildid": "18156102",
                 "description": "beta-test",
-                "timeupdated": "1743765063"
+                "timeupdated": "1744969470"
             },
             "fulllog-debug-test": {
                 "buildid": "16623853",
