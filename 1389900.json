@@ -4,24 +4,24 @@
     "name": "大鹏 - The Roc",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28330164",
-    "update_time": "2025-04-06 15:16:55",
+    "change_number": "28432639",
+    "update_time": "2025-04-11 23:53:27",
     "depot": {
         "hasdepotsindlc": "1",
         "1389901": {
             "manifests": {
                 "public": {
-                    "gid": "248127559381738017",
-                    "size": "3752474560",
-                    "download": "3251164624"
+                    "gid": "3481688433649897145",
+                    "size": "4703176580",
+                    "download": "4043325408"
                 }
             },
             "decryptionkey": "0d3f41a038925beb2bdc9d47b00056266c2c470979e22ba69912965e1362b116"
         },
         "branches": {
             "public": {
-                "buildid": "17081060",
-                "timeupdated": "1737483147"
+                "buildid": "18074077",
+                "timeupdated": "1744386622"
             }
         },
         "privatebranches": "1"
