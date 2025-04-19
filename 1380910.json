@@ -4,8 +4,8 @@
     "name": "Stardeus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339427",
-    "update_time": "2025-04-07 12:42:10",
+    "change_number": "28546406",
+    "update_time": "2025-04-18 17:13:38",
     "depot": {
         "workshopdepot": "1380910",
         "1380916": {
@@ -19,20 +19,15 @@
                     "size": "1109343943",
                     "download": "816030608"
                 },
-                "v0_12_pre": {
-                    "gid": "3935191460052376097",
-                    "size": "1109343943",
-                    "download": "816030608"
+                "v0_13_pre": {
+                    "gid": "6602051196250297474",
+                    "size": "1230723511",
+                    "download": "898215600"
                 },
                 "old_version": {
                     "gid": "6502997912531897074",
                     "size": "1107709968",
                     "download": "815780784"
-                },
-                "v0_13_pre": {
-                    "gid": "960594696816992564",
-                    "size": "1193441800",
-                    "download": "880034336"
                 },
                 "v0_11_x": {
                     "gid": "4792750749902448691",
@@ -108,20 +103,15 @@
                     "size": "1115692121",
                     "download": "815074592"
                 },
-                "v0_12_pre": {
-                    "gid": "9023339619509164199",
-                    "size": "1115692121",
-                    "download": "815074592"
+                "v0_13_pre": {
+                    "gid": "8284322478398605093",
+                    "size": "1235179664",
+                    "download": "897433072"
                 },
                 "old_version": {
                     "gid": "8685201561502073656",
                     "size": "1114058146",
                     "download": "814821360"
-                },
-                "v0_13_pre": {
-                    "gid": "6448603361015996775",
-                    "size": "1197897889",
-                    "download": "879259728"
                 },
                 "v0_11_x": {
                     "gid": "2795925867766373584",
@@ -197,20 +187,15 @@
                     "size": "1142555261",
                     "download": "824083056"
                 },
-                "v0_12_pre": {
-                    "gid": "6898184846931296823",
-                    "size": "1142555261",
-                    "download": "824083056"
+                "v0_13_pre": {
+                    "gid": "3548246781374957125",
+                    "size": "1256378404",
+                    "download": "905494336"
                 },
                 "old_version": {
                     "gid": "1465349126761757801",
                     "size": "1140921798",
                     "download": "823832368"
-                },
-                "v0_13_pre": {
-                    "gid": "8799239481746436613",
-                    "size": "1219072461",
-                    "download": "887316752"
                 },
                 "v0_11_x": {
                     "gid": "1182157069388221926",
@@ -281,20 +266,15 @@
                 "buildid": "17586024",
                 "timeupdated": "1741078570"
             },
-            "v0_12_pre": {
-                "buildid": "17586024",
-                "description": "Experimental updates for v0.12",
-                "timeupdated": "1741078487"
+            "v0_13_pre": {
+                "buildid": "18158575",
+                "description": "Ship Combat update preview",
+                "timeupdated": "1744985936"
             },
             "old_version": {
                 "buildid": "17437973",
                 "description": "Previous build",
                 "timeupdated": "1741077608"
-            },
-            "v0_13_pre": {
-                "buildid": "18006719",
-                "description": "v0.13 major update preview",
-                "timeupdated": "1744000926"
             },
             "v0_11_x": {
                 "buildid": "16224192",
@@ -358,6 +338,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "db52f988b2a6aaf9ec1482474b9b214e7c4a249e0529177f1b87d7ed6e053ef8"
     }
 }
