@@ -1,0 +1,47 @@
+{
+    "appid": "2918410",
+    "type": "Game",
+    "name": "Tower of Mask",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28545365",
+    "update_time": "2025-04-18 16:06:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2918411": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "514530544172318124",
+                    "size": "3959687364",
+                    "download": "3707678784"
+                }
+            },
+            "decryptionkey": "1f284fac92d3917d156bc005b8b4cbcd3437430e372592529da6448c62c1625c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18154940",
+                "timeupdated": "1744963584"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
