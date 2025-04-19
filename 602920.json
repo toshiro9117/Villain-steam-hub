@@ -4,8 +4,8 @@
     "name": "Sketch! Run!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28092624",
-    "update_time": "2025-03-23 10:18:25",
+    "change_number": "28430528",
+    "update_time": "2025-04-11 22:07:12",
     "depot": {
         "228986": {
             "shareddepottype": "commonredist",
@@ -36,8 +36,7 @@
                     "size": "914302909",
                     "download": "270727088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "602923": {
             "config": {
