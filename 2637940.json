@@ -1,0 +1,28 @@
+{
+    "appid": "2637940",
+    "type": "Game",
+    "name": "Used Cars Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28549663",
+    "update_time": "2025-04-18 21:01:08",
+    "depot": {
+        "2637941": {
+            "manifests": {
+                "public": {
+                    "gid": "5630954450388631183",
+                    "size": "16662858210",
+                    "download": "8659259152"
+                }
+            },
+            "decryptionkey": "56d2f745877aba504b691efdce96381d17cb378d8a816e741d27ebcc9328e7cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18146091",
+                "timeupdated": "1744972133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
