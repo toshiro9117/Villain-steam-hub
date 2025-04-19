@@ -4,8 +4,8 @@
     "name": "Scoot",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28321149",
-    "update_time": "2025-04-05 14:19:57",
+    "change_number": "28492543",
+    "update_time": "2025-04-16 01:38:48",
     "depot": {
         "1494841": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "764583656033434747",
-                    "size": "2569498714",
-                    "download": "1021112656"
+                    "gid": "8197827950474904256",
+                    "size": "2569502130",
+                    "download": "1021122864"
                 }
             },
             "decryptionkey": "eb14283ecc75934fce88f8dc7b3eeeee8e138990a7befcdcc3b80a618755a353"
         },
         "branches": {
             "public": {
-                "buildid": "17993962",
-                "timeupdated": "1743833990"
+                "buildid": "18117107",
+                "timeupdated": "1744738724"
             }
         },
         "privatebranches": "1"
