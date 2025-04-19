@@ -4,8 +4,8 @@
     "name": "Sensual Adventures - Treasure Island",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344396",
-    "update_time": "2025-04-07 19:16:36",
+    "change_number": "28524471",
+    "update_time": "2025-04-17 16:11:45",
     "depot": {
         "228989": {
             "config": {
@@ -31,17 +31,17 @@
         "2757821": {
             "manifests": {
                 "public": {
-                    "gid": "3751548846714099031",
-                    "size": "6401484440",
-                    "download": "5535776560"
+                    "gid": "2415937337474238270",
+                    "size": "6403137413",
+                    "download": "5537997520"
                 }
             },
             "decryptionkey": "21327821c613e14063d8ec3e05e2e3cdbedbdeb5e1050c9f57bda3d3848d91b0"
         },
         "branches": {
             "public": {
-                "buildid": "17985800",
-                "timeupdated": "1743774416"
+                "buildid": "18072656",
+                "timeupdated": "1744379262"
             }
         }
     }
