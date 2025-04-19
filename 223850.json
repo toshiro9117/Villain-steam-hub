@@ -4,8 +4,8 @@
     "name": "3DMark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344311",
-    "update_time": "2025-04-07 19:10:20",
+    "change_number": "28524815",
+    "update_time": "2025-04-17 16:31:43",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -522,8 +522,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2783060": {
             "dlcappid": "2783060",
@@ -577,8 +576,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "223862": {
             "config": {
@@ -590,8 +588,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "223863": {
             "config": {
@@ -604,8 +601,7 @@
                     "size": "1637",
                     "download": "1152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "425830": {
             "dlcappid": "425830",
