@@ -4,8 +4,8 @@
     "name": "Toy Shire",
     "schinese_name": "玩具郡 Toy Shire",
     "isfreeapp": "0",
-    "change_number": "28152413",
-    "update_time": "2025-03-26 23:36:51",
+    "change_number": "28527438",
+    "update_time": "2025-04-17 19:08:11",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "2361460",
@@ -32,8 +32,7 @@
                     "size": "2630978985",
                     "download": "936034704"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2361463": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "2529330113",
                     "download": "883685008"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
