@@ -1,0 +1,57 @@
+{
+    "appid": "2285940",
+    "type": "Game",
+    "name": "Hollow Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28536213",
+    "update_time": "2025-04-18 02:58:05",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish",
+        "2285941": {},
+        "2285942": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "822301323629159428",
+                    "size": "1441833350",
+                    "download": "121037776"
+                }
+            },
+            "decryptionkey": "ac0883ea64c687445fb1b7de9b83d174ed78d2542886907bd59362adba8c033a"
+        },
+        "2285943": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6700110799528606243",
+                    "size": "1467938648",
+                    "download": "128450592"
+                }
+            }
+        },
+        "2285944": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8145361556552822399",
+                    "size": "1481428327",
+                    "download": "121003280"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18101050",
+                "timeupdated": "1744655784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
