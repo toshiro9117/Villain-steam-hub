@@ -4,8 +4,8 @@
     "name": "Brotato",
     "schinese_name": "土豆兄弟(Brotato)",
     "isfreeapp": "0",
-    "change_number": "28287361",
-    "update_time": "2025-04-03 19:23:10",
+    "change_number": "28530369",
+    "update_time": "2025-04-17 21:56:14",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1942280",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7066593810868515140",
-                    "size": "207449152",
-                    "download": "136521856"
+                    "gid": "911894105946713949",
+                    "size": "207449547",
+                    "download": "136521536"
                 },
                 "modding": {
                     "gid": "1686462306304678426",
@@ -30,9 +30,9 @@
                     "download": "88781184"
                 },
                 "beta": {
-                    "gid": "7066593810868515140",
-                    "size": "207449152",
-                    "download": "136521856"
+                    "gid": "911894105946713949",
+                    "size": "207449547",
+                    "download": "136521536"
                 },
                 "reset": {
                     "gid": "8348398703013273744",
@@ -59,14 +59,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6048006230601418283",
-                    "size": "55315312",
-                    "download": "52502752"
+                    "gid": "3461758174235909350",
+                    "size": "55315344",
+                    "download": "52502848"
                 },
                 "beta": {
-                    "gid": "6048006230601418283",
-                    "size": "55315312",
-                    "download": "52502752"
+                    "gid": "3461758174235909350",
+                    "size": "55315344",
+                    "download": "52502848"
                 },
                 "v1.1.0.0-compat": {
                     "gid": "8743804879875762247",
@@ -83,8 +83,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17967920",
-                "timeupdated": "1743679381"
+                "buildid": "18040785",
+                "timeupdated": "1744201528"
             },
             "modding": {
                 "buildid": "12879113",
@@ -97,9 +97,9 @@
                 "timeupdated": "1701779214"
             },
             "beta": {
-                "buildid": "17967920",
+                "buildid": "18040785",
                 "description": "Test new updates before they go public, may be unstable",
-                "timeupdated": "1743679358"
+                "timeupdated": "1744201503"
             },
             "reset": {
                 "buildid": "16182449",
@@ -118,6 +118,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bf5b1b4f28c4d1839b85a86e3bfdabc5435f8cc848ca968aec505c86c6ecb52e"
     }
 }
