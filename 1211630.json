@@ -4,8 +4,8 @@
     "name": "The Jackbox Party Pack 7",
     "schinese_name": "杰克盒子的派对游戏包7",
     "isfreeapp": "0",
-    "change_number": "26986474",
-    "update_time": "2025-01-14 17:09:46",
+    "change_number": "28492331",
+    "update_time": "2025-04-16 01:23:55",
     "depot": {
         "228985": {
             "config": {
@@ -92,8 +92,7 @@
                     "size": "2417646994",
                     "download": "2169052320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1211635": {
             "config": {
@@ -111,8 +110,7 @@
                     "size": "52876917",
                     "download": "27209568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2828508": {
             "manifests": {
