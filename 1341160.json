@@ -4,8 +4,8 @@
     "name": "Infinite Tournament Paintball",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28312083",
-    "update_time": "2025-04-04 23:53:36",
+    "change_number": "28435921",
+    "update_time": "2025-04-12 03:02:01",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2611904380439529049",
-                    "size": "18397098795",
-                    "download": "6790840320"
+                    "gid": "5339317707528740591",
+                    "size": "18513908971",
+                    "download": "6806556624"
                 },
                 "playtest": {
-                    "gid": "2611904380439529049",
-                    "size": "18397098795",
-                    "download": "6790840320"
+                    "gid": "5339317707528740591",
+                    "size": "18513908971",
+                    "download": "6806556624"
                 }
             },
             "decryptionkey": ""
@@ -48,14 +48,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6149305085937166102",
-                    "size": "18397098795",
-                    "download": "6790840320"
+                    "gid": "3584548326133544970",
+                    "size": "18513908971",
+                    "download": "6806556624"
                 },
                 "playtest": {
-                    "gid": "6149305085937166102",
-                    "size": "18397098795",
-                    "download": "6790840320"
+                    "gid": "3584548326133544970",
+                    "size": "18513908971",
+                    "download": "6806556624"
                 }
             },
             "decryptionkey": "7dfd2c1d0a80f14ba8a05f58e2240bb9e57b0d67ffe3c0ddc0b88668248eeaa5"
@@ -67,14 +67,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8639835246541551340",
-                    "size": "18397098795",
-                    "download": "6790840320"
+                    "gid": "7310673290312874736",
+                    "size": "18513908971",
+                    "download": "6806556624"
                 },
                 "playtest": {
-                    "gid": "8639835246541551340",
-                    "size": "18397098795",
-                    "download": "6790840320"
+                    "gid": "7310673290312874736",
+                    "size": "18513908971",
+                    "download": "6806556624"
                 }
             },
             "decryptionkey": "17e73ef8c3f9e0161b787a57a0034b8868d017e9ef4257df27e7791aa0b7e1c9"
@@ -86,13 +86,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17977893",
-                "timeupdated": "1743782008"
+                "buildid": "18048063",
+                "timeupdated": "1744398116"
             },
             "playtest": {
-                "buildid": "17977893",
+                "buildid": "18048063",
                 "description": "Alpha Testing",
-                "timeupdated": "1743781990"
+                "timeupdated": "1744398099"
             }
         },
         "privatebranches": "1"
