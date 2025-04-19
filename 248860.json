@@ -4,8 +4,8 @@
     "name": "NEO Scavenger",
     "schinese_name": "末日拾荒者",
     "isfreeapp": "0",
-    "change_number": "27132057",
-    "update_time": "2025-01-23 22:25:53",
+    "change_number": "28375427",
+    "update_time": "2025-04-09 07:02:35",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -43,8 +43,7 @@
                     "size": "218501662",
                     "download": "178186592"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "248863": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "198385106",
                     "download": "168701936"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
