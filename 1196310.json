@@ -4,8 +4,8 @@
     "name": "Fantasy Grounds VTT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28271558",
-    "update_time": "2025-04-02 23:44:46",
+    "change_number": "28495811",
+    "update_time": "2025-04-16 05:28:31",
     "depot": {
         "1196311": {
             "config": {
@@ -41,8 +41,7 @@
                     "size": "43621633",
                     "download": "37642480"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1196313": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "30513713",
                     "download": "30010624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
