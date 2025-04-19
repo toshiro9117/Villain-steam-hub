@@ -4,8 +4,8 @@
     "name": "Plague Inc: Evolved",
     "schinese_name": "瘟疫公司：物竞天择",
     "isfreeapp": "0",
-    "change_number": "28308057",
-    "update_time": "2025-04-04 20:14:17",
+    "change_number": "28410985",
+    "update_time": "2025-04-10 23:46:19",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6009722768169515096",
-                    "size": "1093384260",
-                    "download": "397832656"
+                    "gid": "1752000341490744572",
+                    "size": "1095896075",
+                    "download": "399584592"
                 },
                 "macos32bit": {
                     "gid": "7138113657418458676",
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "116431937198945972",
-                    "size": "1097622237",
-                    "download": "399189280"
+                    "gid": "2958597192848429529",
+                    "size": "1099553614",
+                    "download": "400810416"
                 },
                 "macos32bit": {
                     "gid": "4799434891344152036",
@@ -85,9 +85,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1739838149153098616",
-                    "size": "1107595376",
-                    "download": "400106880"
+                    "gid": "3348516516908531559",
+                    "size": "1110347089",
+                    "download": "401874528"
                 },
                 "macos32bit": {
                     "gid": "6466737531201556693",
@@ -146,8 +146,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17183545",
-                "timeupdated": "1738673592"
+                "buildid": "18058692",
+                "timeupdated": "1744299975"
             },
             "macos32bit": {
                 "buildid": "4950777",
@@ -161,6 +161,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "540f338bcb2eb1e9d469f9302ea6b60481008cef56be0e01e378a92f72041732"
     }
 }
