@@ -4,8 +4,8 @@
     "name": "CAR TUNE: Project",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28295073",
-    "update_time": "2025-04-04 02:45:49",
+    "change_number": "28548225",
+    "update_time": "2025-04-18 19:10:06",
     "depot": {
         "baselanguages": "english,polish",
         "228990": {
@@ -44,6 +44,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7bb72e1e84dea8743e599624eb05910ca2970232ad0d7f7ff93f2fab64aeb6e1"
     }
 }
