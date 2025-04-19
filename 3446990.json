@@ -1,0 +1,32 @@
+{
+    "appid": "3446990",
+    "type": "Game",
+    "name": "FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28547402",
+    "update_time": "2025-04-18 18:16:16",
+    "depot": {
+        "3446991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2242346990925398481",
+                    "size": "555455033",
+                    "download": "457376832"
+                }
+            },
+            "decryptionkey": "cabf7221107201a9e744be0d683615f2d83f6b9bd598bd7fcc4e90bd3d293010"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18083599",
+                "timeupdated": "1744463319"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
