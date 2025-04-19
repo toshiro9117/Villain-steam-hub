@@ -4,8 +4,8 @@
     "name": "Paint the Town Red",
     "schinese_name": "血染小镇",
     "isfreeapp": "0",
-    "change_number": "28288115",
-    "update_time": "2025-04-03 20:10:17",
+    "change_number": "28489458",
+    "update_time": "2025-04-15 22:55:23",
     "depot": {
         "workshopdepot": "337320",
         "228983": {
@@ -386,6 +386,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5415cf42e2c18b8ea0882dfddad6c5281bf9a516c416c9bd436a10327788937b"
     }
 }
