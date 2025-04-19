@@ -4,8 +4,8 @@
     "name": "Worlds of Aria",
     "schinese_name": "阿瑞亚之旅",
     "isfreeapp": "0",
-    "change_number": "28269661",
-    "update_time": "2025-04-02 22:01:14",
+    "change_number": "28486471",
+    "update_time": "2025-04-15 20:18:48",
     "depot": {
         "228989": {
             "config": {
@@ -38,8 +38,7 @@
                     "size": "3379975678",
                     "download": "1060656880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
