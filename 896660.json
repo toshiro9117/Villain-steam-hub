@@ -4,8 +4,8 @@
     "name": "Valheim Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344364",
-    "update_time": "2025-04-07 19:14:30",
+    "change_number": "28508461",
+    "update_time": "2025-04-16 21:03:57",
     "depot": {
         "1004": {
             "config": {
@@ -135,8 +135,7 @@
                     "size": "2992056594",
                     "download": "1515050912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
