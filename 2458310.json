@@ -4,8 +4,8 @@
     "name": "New Arc Line",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28290484",
-    "update_time": "2025-04-03 22:16:36",
+    "change_number": "28532126",
+    "update_time": "2025-04-17 23:19:41",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2458311": {
             "manifests": {
                 "public": {
-                    "gid": "7869931848568719369",
-                    "size": "16676019110",
-                    "download": "15749248304"
+                    "gid": "745533987125454072",
+                    "size": "16859682982",
+                    "download": "15938616528"
                 }
             },
             "decryptionkey": "740287d3e7e0577a8b76b098bece3977a4074bffde7a2e61fed1c5c561602f55"
         },
         "branches": {
             "public": {
-                "buildid": "16988661",
-                "timeupdated": "1737382651"
+                "buildid": "18023821",
+                "timeupdated": "1744646564"
             }
         },
         "privatebranches": "1"
