@@ -4,8 +4,8 @@
     "name": "Liftoff",
     "schinese_name": "起飞：FPV无人机赛车",
     "isfreeapp": "0",
-    "change_number": "28341450",
-    "update_time": "2025-04-07 16:04:57",
+    "change_number": "28536652",
+    "update_time": "2025-04-18 03:24:35",
     "depot": {
         "workshopdepot": "410340",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4366101608122324149",
-                    "size": "18435515869",
-                    "download": "14363511424"
+                    "gid": "3785241649681752816",
+                    "size": "21620193112",
+                    "download": "16679126944"
                 },
                 "liftoff_1.2.11": {
                     "gid": "3038741536474241787",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7064709562927555289",
-                    "size": "18058934474",
-                    "download": "14128825776"
+                    "gid": "8055958786969871572",
+                    "size": "21139173930",
+                    "download": "16389639920"
                 },
                 "liftoff_1.2.11": {
                     "gid": "2980891517134947244",
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "217795083851254278",
-                    "size": "18368428483",
-                    "download": "14322811888"
+                    "gid": "2705297377438097745",
+                    "size": "21541075517",
+                    "download": "16630890000"
                 },
                 "liftoff_1.2.11": {
                     "gid": "8362714863796629720",
@@ -125,8 +125,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17959422",
-                "timeupdated": "1744013089"
+                "buildid": "18148198",
+                "timeupdated": "1744917869"
             },
             "liftoff_1.2.11": {
                 "buildid": "4910637",
@@ -145,6 +145,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7cbe184b90a8017eb8cda92d33215be543620191be96cd5ea7bd93925365b252"
     }
 }
