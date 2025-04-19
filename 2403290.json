@@ -4,17 +4,17 @@
     "name": "Boyhood's End",
     "schinese_name": "少年的终结",
     "isfreeapp": "0",
-    "change_number": "28325381",
-    "update_time": "2025-04-06 01:18:55",
+    "change_number": "28548864",
+    "update_time": "2025-04-18 20:01:02",
     "depot": {
         "baselanguages": "english,koreana,schinese,japanese",
         "hasdepotsindlc": "1",
         "2403291": {
             "manifests": {
                 "public": {
-                    "gid": "1103881793759139662",
-                    "size": "1269658231",
-                    "download": "901043952"
+                    "gid": "3037524496832082337",
+                    "size": "1273539394",
+                    "download": "904822496"
                 }
             },
             "decryptionkey": "feaae982c0d913479fa740be39d5956d7e1efe8cb99b3a8e0b906382f7d40918"
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17988268",
-                "timeupdated": "1743787479"
+                "buildid": "18152737",
+                "timeupdated": "1744977658"
             }
         },
         "privatebranches": "1"
