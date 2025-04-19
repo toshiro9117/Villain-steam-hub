@@ -4,8 +4,8 @@
     "name": "Copycat",
     "schinese_name": "冒牌猫谜",
     "isfreeapp": "0",
-    "change_number": "28305228",
-    "update_time": "2025-04-04 17:14:48",
+    "change_number": "28503210",
+    "update_time": "2025-04-16 15:57:09",
     "depot": {
         "1622351": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "18765207179",
                     "download": "5632911760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
