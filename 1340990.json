@@ -4,8 +4,8 @@
     "name": "Rise of the Ronin",
     "schinese_name": "浪人崛起",
     "isfreeapp": "0",
-    "change_number": "28332389",
-    "update_time": "2025-04-06 21:11:24",
+    "change_number": "28520238",
+    "update_time": "2025-04-17 10:22:30",
     "depot": {
         "baselanguages": "english,japanese",
         "228989": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7330726372159845030",
-                    "size": "14015359680",
-                    "download": "11549219072"
+                    "gid": "2450763767568900615",
+                    "size": "14015520544",
+                    "download": "11549222448"
                 },
                 "local": {
                     "gid": "2002201883212437940",
@@ -60,9 +60,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "242030438281801349",
-                    "size": "350267848",
-                    "download": "200766096"
+                    "gid": "7912780773089858760",
+                    "size": "350281160",
+                    "download": "200813840"
                 },
                 "local": {
                     "gid": "2006517770707670320",
@@ -194,8 +194,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17780839",
-                "timeupdated": "1742894819"
+                "buildid": "17968862",
+                "timeupdated": "1744272926"
             },
             "local": {
                 "buildid": "16122430",
