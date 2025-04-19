@@ -1,0 +1,43 @@
+{
+    "appid": "1372150",
+    "type": "Game",
+    "name": "Fish Game",
+    "schinese_name": "养鱼模拟器",
+    "isfreeapp": "0",
+    "change_number": "28427380",
+    "update_time": "2025-04-11 19:09:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1372151": {
+            "manifests": {
+                "public": {
+                    "gid": "4521657947547876905",
+                    "size": "7080990593",
+                    "download": "1909434112"
+                }
+            },
+            "decryptionkey": "efb8b3757e6c420a126256c4a626da290ffc10e1e96099b695be927020130fb6"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17990404",
+                "timeupdated": "1743798695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
