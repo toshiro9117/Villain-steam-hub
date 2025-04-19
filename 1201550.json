@@ -4,8 +4,8 @@
     "name": "Mad Experiments: Escape Room",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27978090",
-    "update_time": "2025-03-16 11:54:49",
+    "change_number": "28458080",
+    "update_time": "2025-04-14 08:35:11",
     "depot": {
         "228988": {
             "config": {
@@ -62,8 +62,7 @@
                     "size": "3901103046",
                     "download": "2351333216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1201553": {
             "config": {
@@ -76,8 +75,7 @@
                     "size": "3956363764",
                     "download": "2364868016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
