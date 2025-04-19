@@ -4,8 +4,8 @@
     "name": "Wild Assault Demo",
     "schinese_name": "兽猎突袭 Demo",
     "isfreeapp": "0",
-    "change_number": "28342656",
-    "update_time": "2025-04-07 17:24:15",
+    "change_number": "28403922",
+    "update_time": "2025-04-10 17:25:30",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,thai,japanese,portuguese",
         "228989": {
@@ -50,7 +50,8 @@
                     "size": "24040752117",
                     "download": "18035519776"
                 }
-            }
+            },
+            "decryptionkey": "4e3b38767354aa100154e148147f93cb93835a4b259ee2301fff590ea231f778"
         },
         "2945282": {
             "config": {
@@ -62,7 +63,8 @@
                     "size": "34714817",
                     "download": "32141056"
                 }
-            }
+            },
+            "decryptionkey": "40d27506766267e300c55a33e13b94654252f229ca2b1ea89078c23dc8449a4e"
         },
         "2945283": {
             "config": {
@@ -74,7 +76,8 @@
                     "size": "52276858",
                     "download": "48177456"
                 }
-            }
+            },
+            "decryptionkey": "440c21d757b8a9f6d642c7219c115d23d780a4a1fd21091b52d06ddb8f95d06e"
         },
         "2945284": {
             "config": {
@@ -98,7 +101,8 @@
                     "size": "34714817",
                     "download": "32141056"
                 }
-            }
+            },
+            "decryptionkey": "902429aae8593436bca2a3d3fe98ae7f601728c9e0b4df6d40d6af93216993da"
         },
         "2945286": {
             "config": {
