@@ -4,8 +4,8 @@
     "name": "PixARK Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27950510",
-    "update_time": "2025-03-14 15:04:30",
+    "change_number": "28523743",
+    "update_time": "2025-04-17 15:29:18",
     "depot": {
         "1004": {
             "config": {
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "84045704365282717",
-                    "size": "2703322096",
-                    "download": "943419264"
+                    "gid": "5243533338683016241",
+                    "size": "2703539928",
+                    "download": "943498128"
                 }
             },
             "decryptionkey": "4a07063f5021a72df1b577dc36a46314222e3a8ff8b6c5df9d9eff3fda91423b"
         },
         "branches": {
             "public": {
-                "buildid": "17705783",
-                "timeupdated": "1741935866"
+                "buildid": "18125824",
+                "timeupdated": "1744874953"
             }
         },
         "privatebranches": "1"
