@@ -4,8 +4,8 @@
     "name": "三国志潜龙在渊",
     "schinese_name": "三国志潜龙在渊",
     "isfreeapp": "0",
-    "change_number": "28332524",
-    "update_time": "2025-04-06 21:28:59",
+    "change_number": "28454983",
+    "update_time": "2025-04-14 01:02:51",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "875198624457216105",
-                    "size": "1090726298",
-                    "download": "763549632"
+                    "gid": "5197984463073805762",
+                    "size": "1107560539",
+                    "download": "764740192"
                 }
             },
             "decryptionkey": "043b18feb8b6efd5d18f96151a75ecb6d99b3559630a69fe5f54c2da4f4cb4b0"
@@ -32,17 +32,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4446918455592171742",
-                    "size": "1100032657",
-                    "download": "772106304"
+                    "gid": "6503856748845847891",
+                    "size": "1116857280",
+                    "download": "773443472"
                 }
             },
             "decryptionkey": "f7c798f4412ec1c1e7c94869fad5d3ba3b965ff130ac78ce4b14f7b2249fc961"
         },
         "branches": {
             "public": {
-                "buildid": "17983375",
-                "timeupdated": "1743763343"
+                "buildid": "18090757",
+                "timeupdated": "1744563768"
             }
         }
     }
