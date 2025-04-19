@@ -4,8 +4,8 @@
     "name": "Perfect Heist 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333088",
-    "update_time": "2025-04-06 22:48:19",
+    "change_number": "28348962",
+    "update_time": "2025-04-07 23:51:08",
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "358239648044608692",
+                    "gid": "6668173684121805962",
                     "size": "9682234577",
-                    "download": "1563354048"
+                    "download": "1563328992"
                 },
                 "raytracing-test": {
                     "gid": "1675624913230179514",
@@ -37,9 +37,9 @@
                     "download": "312851360"
                 },
                 "beta": {
-                    "gid": "358239648044608692",
+                    "gid": "6668173684121805962",
                     "size": "9682234577",
-                    "download": "1563354048"
+                    "download": "1563328992"
                 },
                 "debug": {
                     "gid": "3887763586450822472",
@@ -74,14 +74,13 @@
                     "size": "9194314901",
                     "download": "1481754128"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1521580",
         "branches": {
             "public": {
-                "buildid": "18002233",
-                "timeupdated": "1743950892"
+                "buildid": "18013487",
+                "timeupdated": "1744041063"
             },
             "raytracing-test": {
                 "buildid": "7255059",
@@ -89,9 +88,9 @@
                 "timeupdated": "1629983385"
             },
             "beta": {
-                "buildid": "18002233",
+                "buildid": "18013487",
                 "description": "beta",
-                "timeupdated": "1743950856"
+                "timeupdated": "1744040564"
             },
             "debug": {
                 "buildid": "16646163",
