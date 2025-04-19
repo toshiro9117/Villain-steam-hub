@@ -4,8 +4,8 @@
     "name": "Omega Crafter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28260994",
-    "update_time": "2025-04-02 12:24:14",
+    "change_number": "28458896",
+    "update_time": "2025-04-14 10:17:42",
     "depot": {
         "2262083": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "2180677332",
                     "download": "1317748768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
