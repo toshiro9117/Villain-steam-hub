@@ -4,8 +4,8 @@
     "name": "Asa-Chan Wants to Go Home!",
     "schinese_name": "浅沼小姐想要回家！",
     "isfreeapp": "0",
-    "change_number": "26538207",
-    "update_time": "2024-12-07 17:16:13",
+    "change_number": "28493361",
+    "update_time": "2025-04-16 02:29:53",
     "depot": {
         "2646241": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2088660972991801365",
-                    "size": "284232273",
-                    "download": "268865472"
+                    "gid": "2940954510357133931",
+                    "size": "328781256",
+                    "download": "277385360"
                 }
             },
             "decryptionkey": "02897262b9562f49f6f8f553e65438ff0496bd038da17a051d8f998764799ca6"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14732011",
-                "timeupdated": "1718553100"
+                "buildid": "18089687",
+                "timeupdated": "1744549813"
             }
         }
     }
