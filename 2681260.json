@@ -4,8 +4,8 @@
     "name": "Smash and Bash Monsters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25533982",
-    "update_time": "2024-10-04 21:10:11",
+    "change_number": "28376102",
+    "update_time": "2025-04-09 08:01:29",
     "depot": {
         "2681262": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "287400712",
                     "download": "141476752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
