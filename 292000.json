@@ -4,8 +4,8 @@
     "name": "No More Room in Hell 2",
     "schinese_name": "地狱已满2",
     "isfreeapp": "0",
-    "change_number": "28343383",
-    "update_time": "2025-04-07 18:10:50",
+    "change_number": "28549801",
+    "update_time": "2025-04-18 21:10:59",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,brazilian",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8925433120383436560",
-                    "size": "19209391355",
-                    "download": "16208435168"
+                    "gid": "847279179621562000",
+                    "size": "23496653125",
+                    "download": "19804353760"
                 }
             },
             "decryptionkey": "2bb3dfcc7245e9a85e6adcb82c91257dfd6e3ca66bdc188476820020395cc812"
@@ -44,17 +44,17 @@
             "dlcappid": "3320920",
             "manifests": {
                 "public": {
-                    "gid": "5801079770678352575",
-                    "size": "20652536167",
-                    "download": "17129049120"
+                    "gid": "978509032697383946",
+                    "size": "24696373983",
+                    "download": "20520442640"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17677095",
-                "timeupdated": "1742306055"
+                "buildid": "18158035",
+                "timeupdated": "1744987215"
             }
         },
         "privatebranches": "1"
