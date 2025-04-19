@@ -4,8 +4,8 @@
     "name": "Chicken Invaders 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27495073",
-    "update_time": "2025-02-15 23:13:15",
+    "change_number": "28465739",
+    "update_time": "2025-04-14 19:47:07",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,polish",
         "377461": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4433642740698888223",
-                    "size": "4845374",
-                    "download": "1409840"
+                    "gid": "1556957621938142452",
+                    "size": "4858502",
+                    "download": "1421440"
                 },
                 "episode_beta": {
-                    "gid": "4433642740698888223",
-                    "size": "4845374",
-                    "download": "1409840"
+                    "gid": "1556957621938142452",
+                    "size": "4858502",
+                    "download": "1421440"
                 }
             },
             "decryptionkey": "8d3ee5689f1a879a89fc788b30b4f478a9c2efb8ce3a899e3b9ffb50b29857d7"
@@ -91,7 +91,7 @@
                     "download": "23269696"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0fa0375e9b733f293c798739ffeb22978978716a084100fda32d2c8ba0e1d108"
         },
         "378621": {
             "dlcappid": "378621",
@@ -107,7 +107,7 @@
                     "download": "23734432"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "08585a4c4a32ffc682a6357abd23bf24998791a48d4a6efef0fcf5282ea2771c"
         },
         "377465": {
             "dlcappid": "378620",
@@ -116,17 +116,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1022948312334800157",
-                    "size": "4849982",
-                    "download": "1437152"
+                    "gid": "1253525593956606190",
+                    "size": "4863622",
+                    "download": "1452432"
                 },
                 "episode_beta": {
-                    "gid": "1022948312334800157",
-                    "size": "4849982",
-                    "download": "1437152"
+                    "gid": "1253525593956606190",
+                    "size": "4863622",
+                    "download": "1452432"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1a1981eb9fe66fd380ef83564554ef4eb6e520d1784d4b8722283892dd23eb53"
         },
         "377466": {
             "dlcappid": "378620",
@@ -144,8 +144,7 @@
                     "size": "5886511",
                     "download": "1427248"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "377467": {
             "dlcappid": "378620",
@@ -163,8 +162,7 @@
                     "size": "12094864",
                     "download": "3502496"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "377468": {
             "dlcappid": "378621",
@@ -173,17 +171,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6455486316833293977",
-                    "size": "4846910",
-                    "download": "1430272"
+                    "gid": "5192126969819246300",
+                    "size": "4860038",
+                    "download": "1441280"
                 },
                 "episode_beta": {
-                    "gid": "6455486316833293977",
-                    "size": "4846910",
-                    "download": "1430272"
+                    "gid": "5192126969819246300",
+                    "size": "4860038",
+                    "download": "1441280"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ef34a05f1c7617ff0b8e2a8dd35840db988c502a7e1adde663a0dda8e215cce2"
         },
         "377469": {
             "dlcappid": "378621",
@@ -201,8 +199,7 @@
                     "size": "5886513",
                     "download": "1426816"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "378622": {
             "dlcappid": "378621",
@@ -220,8 +217,7 @@
                     "size": "11802672",
                     "download": "3196912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "378623": {
             "manifests": {
@@ -244,27 +240,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5516495717912997308",
-                    "size": "19227447",
-                    "download": "4229616"
+                    "gid": "4789568095852724791",
+                    "size": "19271991",
+                    "download": "4233264"
                 },
                 "episode_beta": {
-                    "gid": "5516495717912997308",
-                    "size": "19227447",
-                    "download": "4229616"
+                    "gid": "4789568095852724791",
+                    "size": "19271991",
+                    "download": "4233264"
                 }
             },
             "decryptionkey": "b6c46eb8454b998ddff8c2b65bba7e270d9204f8ce82a792fe4ad1a5651d049b"
         },
         "branches": {
             "public": {
-                "buildid": "17438307",
-                "timeupdated": "1740059510"
+                "buildid": "18089948",
+                "timeupdated": "1744631221"
             },
             "episode_beta": {
-                "buildid": "17438307",
+                "buildid": "18089948",
                 "description": "CIep3",
-                "timeupdated": "1740051403"
+                "timeupdated": "1744552986"
             }
         },
         "privatebranches": "1"
