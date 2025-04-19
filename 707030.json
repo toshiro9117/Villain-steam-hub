@@ -4,8 +4,8 @@
     "name": "POSTAL 4: No Regerts",
     "schinese_name": "喋血街头4：无悔",
     "isfreeapp": "0",
-    "change_number": "28253273",
-    "update_time": "2025-04-02 01:22:00",
+    "change_number": "28406581",
+    "update_time": "2025-04-10 19:58:59",
     "depot": {
         "228988": {
             "config": {
@@ -49,9 +49,9 @@
                     "download": "17469519184"
                 },
                 "publicbeta": {
-                    "gid": "8842889008141388228",
-                    "size": "21397236321",
-                    "download": "19902723584"
+                    "gid": "9006054178391462940",
+                    "size": "21377991176",
+                    "download": "19882836688"
                 }
             },
             "decryptionkey": "38ee1fb59b81a7d21d1c9f20eefc9553df6be37e46d44e7e7418a4fad814eb27"
@@ -82,9 +82,9 @@
                 "timeupdated": "1743093588"
             },
             "publicbeta": {
-                "buildid": "17942949",
+                "buildid": "18040601",
                 "description": "For public beta testing",
-                "timeupdated": "1743528083"
+                "timeupdated": "1744211325"
             }
         },
         "privatebranches": "1"
