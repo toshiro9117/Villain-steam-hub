@@ -4,8 +4,8 @@
     "name": "RUNNING WITH RIFLES",
     "schinese_name": "小兵步枪",
     "isfreeapp": "0",
-    "change_number": "28001882",
-    "update_time": "2025-03-18 04:54:53",
+    "change_number": "28527794",
+    "update_time": "2025-04-17 19:29:07",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "270150",
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "383959978866482916",
-                    "size": "2517423478",
-                    "download": "1469782896"
+                    "gid": "5618588344094660679",
+                    "size": "2528509483",
+                    "download": "1475037392"
                 },
                 "1.97": {
                     "gid": "1474334660032353965",
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "635998302153544760",
-                    "size": "2538752465",
-                    "download": "1478132144"
+                    "gid": "6476996880139252539",
+                    "size": "2549838470",
+                    "download": "1483386640"
                 },
                 "1.97": {
                     "gid": "1846337327634571551",
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7954129145395337592",
-                    "size": "2952412791",
-                    "download": "1497515584"
+                    "gid": "4734557463919507751",
+                    "size": "2963498796",
+                    "download": "1502770080"
                 },
                 "1.97": {
                     "gid": "7799449541465645231",
@@ -170,8 +170,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17535283",
-                "timeupdated": "1740679637"
+                "buildid": "18143273",
+                "timeupdated": "1744889343"
             },
             "1.97": {
                 "buildid": "13126560",
@@ -180,6 +180,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "1881e7332d8420d5bcf2c48276958737fb5b8304197282b5bc2402365375c2ae"
     }
 }
