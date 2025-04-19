@@ -4,8 +4,8 @@
     "name": "DAVE THE DIVER",
     "schinese_name": "潜水员戴夫 DAVE THE DIVER",
     "isfreeapp": "0",
-    "change_number": "28342346",
-    "update_time": "2025-04-07 17:05:28",
+    "change_number": "28544921",
+    "update_time": "2025-04-18 15:38:42",
     "depot": {
         "baselanguages": "english",
         "1868141": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7380859001826027695",
-                    "size": "2928263724",
-                    "download": "2279334832"
+                    "gid": "4862276333358258203",
+                    "size": "3316924953",
+                    "download": "2432326448"
                 }
             },
             "decryptionkey": "dec1482ee88e2a62d7fddedf0e75c6abdef55d2884440de6508bef83044198d8"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "543986071272294672",
-                    "size": "3433874712",
-                    "download": "2346175600"
+                    "gid": "8918512478877659146",
+                    "size": "3452626090",
+                    "download": "2356034416"
                 }
             },
             "decryptionkey": "f55cec1c353af17ba294e0bc3c1af6766a91b76e97d59d44425873918058d6c5"
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4601295752502381046",
-                    "size": "28718155",
-                    "download": "21045520"
+                    "gid": "7642279457042793130",
+                    "size": "28719909",
+                    "download": "21044976"
                 }
             },
             "decryptionkey": "0f12757b1a8cc78265828ba98e12b673ff97e942bbfd3ae07eca6d10f6b8dfcf"
@@ -69,9 +69,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6006332928101851349",
-                    "size": "28717195",
-                    "download": "21054480"
+                    "gid": "7093100958390271678",
+                    "size": "28718640",
+                    "download": "21052928"
                 }
             },
             "decryptionkey": "794d4476c6913ad8568af8bf1303f216b1f16b3d6041f62834536fe460d661dd"
@@ -83,9 +83,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5336291521302219749",
-                    "size": "77141541",
-                    "download": "68650160"
+                    "gid": "6914487845343094735",
+                    "size": "76942459",
+                    "download": "68416288"
                 }
             },
             "decryptionkey": "a5e4472216eb53c5abc48c617b42bc740a1fac4adf25659c183015a27f8849fb"
@@ -97,9 +97,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7119888563448799754",
-                    "size": "77142800",
-                    "download": "68660912"
+                    "gid": "4594674084458115449",
+                    "size": "76944344",
+                    "download": "68428672"
                 }
             },
             "decryptionkey": "a6863e71aca974796ecc6423cb6d8b9820fd11e9df7f06bcbaa7a1926227f77d"
@@ -109,19 +109,32 @@
             "config": {
                 "oslist": "windows"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5567210601568861502",
+                    "size": "189430227",
+                    "download": "174086480"
+                }
+            },
+            "decryptionkey": "5dbf7b425cf6ac47d95a2abe30926e2c845f6b9fbf05903c27837624a56b6b66"
         },
         "3543181": {
             "dlcappid": "3543180",
             "config": {
                 "oslist": "macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3987663342270933966",
+                    "size": "188880288",
+                    "download": "173613088"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16984561",
-                "timeupdated": "1736756976"
+                "buildid": "18125132",
+                "timeupdated": "1744792297"
             }
         },
         "privatebranches": "1"
