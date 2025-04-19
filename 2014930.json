@@ -4,8 +4,8 @@
     "name": "A Last Will and Testament",
     "schinese_name": "遗嘱：冒险",
     "isfreeapp": "0",
-    "change_number": "28197588",
-    "update_time": "2025-03-29 03:16:26",
+    "change_number": "28494258",
+    "update_time": "2025-04-16 03:30:14",
     "depot": {
         "baselanguages": "english",
         "2014931": {
@@ -47,8 +47,7 @@
                     "size": "2264995422",
                     "download": "723470832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2014934": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "2300497579",
                     "download": "725935584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
