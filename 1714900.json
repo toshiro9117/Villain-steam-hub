@@ -4,8 +4,8 @@
     "name": "First Dwarf",
     "schinese_name": "《矮人元祖》 (First Dwarf)",
     "isfreeapp": "0",
-    "change_number": "28290649",
-    "update_time": "2025-04-03 22:24:13",
+    "change_number": "28534031",
+    "update_time": "2025-04-18 00:54:02",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1714901": {
             "manifests": {
                 "public": {
-                    "gid": "1317261170409217676",
-                    "size": "9323709026",
-                    "download": "4159770864"
+                    "gid": "2472627010182491163",
+                    "size": "9367118870",
+                    "download": "4173109488"
                 }
             },
             "decryptionkey": "4a350b16170b0b8dedd4a037757b361c684d522266a79073451d057a9bb0a361"
         },
         "branches": {
             "public": {
-                "buildid": "17969388",
-                "timeupdated": "1743690247"
+                "buildid": "18144838",
+                "timeupdated": "1744908838"
             }
         },
         "privatebranches": "1"
