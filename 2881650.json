@@ -4,8 +4,8 @@
     "name": "Content Warning",
     "schinese_name": "前方高能",
     "isfreeapp": "0",
-    "change_number": "28318697",
-    "update_time": "2025-04-05 08:11:19",
+    "change_number": "28418124",
+    "update_time": "2025-04-11 07:33:53",
     "depot": {
         "2881651": {
             "config": {
@@ -30,6 +30,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "15741ea62a9248f4e82cc309ad2ba5de4c40f5dc429fd65389e31054b284fd60"
     }
 }
