@@ -4,8 +4,8 @@
     "name": "Forgive Me Father 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28227555",
-    "update_time": "2025-03-31 20:04:16",
+    "change_number": "28514821",
+    "update_time": "2025-04-17 03:04:12",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2272251": {
             "manifests": {
                 "public": {
-                    "gid": "3315651884429434463",
-                    "size": "8438513074",
-                    "download": "7947693152"
+                    "gid": "4518380546291687187",
+                    "size": "8578887124",
+                    "download": "8118257424"
                 }
             },
             "decryptionkey": "baf5fc4fa3c34c4aeb5144bd32e44e94faa17af0db343b1ef4006fd1ffe273c4"
@@ -54,8 +54,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16301995",
-                "timeupdated": "1730991650"
+                "buildid": "17924305",
+                "timeupdated": "1744646309"
             }
         },
         "privatebranches": "1"
