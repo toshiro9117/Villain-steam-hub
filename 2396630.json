@@ -4,8 +4,8 @@
     "name": "Unsupervised",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27824107",
-    "update_time": "2025-03-07 06:09:21",
+    "change_number": "28458341",
+    "update_time": "2025-04-14 09:10:38",
     "depot": {
         "2396631": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "14604368",
                     "download": "4524512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2396633": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "244937169",
                     "download": "74143040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
