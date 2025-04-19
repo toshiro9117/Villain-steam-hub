@@ -4,8 +4,8 @@
     "name": "Mother Machine",
     "schinese_name": "遵命！机母大人",
     "isfreeapp": "0",
-    "change_number": "28342765",
-    "update_time": "2025-04-07 17:30:02",
+    "change_number": "28536854",
+    "update_time": "2025-04-18 03:36:17",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8340726834218752504",
-                    "size": "19179568865",
-                    "download": "18732850480"
+                    "gid": "1521975111884074978",
+                    "size": "19179464429",
+                    "download": "18734081120"
                 }
             },
             "decryptionkey": "af26c56a40d4adfa8da15282c080280dc0d9b9b6cb9e16decd832f14bd83d3a0"
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "17950259",
-                "timeupdated": "1743577686"
+                "buildid": "18043114",
+                "timeupdated": "1744275662"
             }
         },
         "privatebranches": "1"
