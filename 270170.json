@@ -4,8 +4,8 @@
     "name": "Depression Quest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28071287",
-    "update_time": "2025-03-21 20:18:18",
+    "change_number": "28447218",
+    "update_time": "2025-04-13 02:55:21",
     "depot": {
         "overridescddb": "1",
         "270172": {
@@ -33,8 +33,7 @@
                     "size": "129535044",
                     "download": "82854352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "270174": {
             "config": {
@@ -47,8 +46,7 @@
                     "size": "135905672",
                     "download": "85521408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
