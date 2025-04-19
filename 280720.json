@@ -4,8 +4,8 @@
     "name": "Imagine Earth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28345681",
-    "update_time": "2025-04-07 20:40:09",
+    "change_number": "28514270",
+    "update_time": "2025-04-17 02:26:59",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,czech,turkish,brazilian",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3726825237233751226",
-                    "size": "1204686904",
-                    "download": "1023606240"
+                    "gid": "4619594835132503236",
+                    "size": "1204729047",
+                    "download": "1023678880"
                 },
                 "windows7": {
                     "gid": "2600225817670377064",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8954870011821122431",
-                    "size": "1238432868",
-                    "download": "1029010800"
+                    "gid": "2809721595693862940",
+                    "size": "1139751925",
+                    "download": "1009768288"
                 },
                 "windows7": {
                     "gid": "8869179559076508013",
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18011137",
-                "timeupdated": "1744029602"
+                "buildid": "18132558",
+                "timeupdated": "1744828016"
             },
             "windows7": {
                 "buildid": "17469031",
@@ -77,6 +77,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "262c046d9ba341258d045f9ecd1b00f50d71ee8f67bab7f9b3bbccb42908c9bc"
     }
 }
