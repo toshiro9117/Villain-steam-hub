@@ -4,16 +4,16 @@
     "name": "Placid Plastic Duck Simulator",
     "schinese_name": "小黄鸭模拟器",
     "isfreeapp": "0",
-    "change_number": "28323259",
-    "update_time": "2025-04-05 20:10:21",
+    "change_number": "28488175",
+    "update_time": "2025-04-15 21:47:35",
     "depot": {
         "hasdepotsindlc": "1",
         "1999361": {
             "manifests": {
                 "public": {
-                    "gid": "1706435075172371307",
-                    "size": "768761760",
-                    "download": "508354816"
+                    "gid": "3127350204487891314",
+                    "size": "769412949",
+                    "download": "508731520"
                 }
             },
             "decryptionkey": "94fcfd7f59f9ac37455bcc52ba13256f048e99597905c3aa24243781b7b8b928"
@@ -39,7 +39,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1132010021360211092",
+                    "gid": "4344121955397706295",
                     "size": "278108581",
                     "download": "271218144"
                 }
@@ -67,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3851729036380500557",
-                    "size": "205402847",
-                    "download": "196150848"
+                    "gid": "172433405865277021",
+                    "size": "205402846",
+                    "download": "196151008"
                 }
             },
             "decryptionkey": "bbdf140bd786d1172ced70e6583012eba91e52be855f948c199f19266d190132"
@@ -109,9 +109,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6369522175243961981",
-                    "size": "108802956",
-                    "download": "104521920"
+                    "gid": "2435608849032882109",
+                    "size": "108802953",
+                    "download": "104521872"
                 }
             },
             "decryptionkey": "69bb536573de7b2b53a20e8f7f8cce3926f5f1d7514fd77ba97a891b42146d4b"
@@ -132,8 +132,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17956875",
-                "timeupdated": "1743668481"
+                "buildid": "18110933",
+                "timeupdated": "1744724847"
             }
         },
         "privatebranches": "1"
