@@ -4,8 +4,8 @@
     "name": "Unheim",
     "schinese_name": "UNHEIM / 怪怖",
     "isfreeapp": "0",
-    "change_number": "28288230",
-    "update_time": "2025-04-03 20:17:22",
+    "change_number": "28517901",
+    "update_time": "2025-04-17 07:04:24",
     "depot": {
         "2686111": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "4581340504",
                     "download": "2152267040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
