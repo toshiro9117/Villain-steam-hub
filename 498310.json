@@ -4,8 +4,8 @@
     "name": "RPG in a Box",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328655",
-    "update_time": "2025-04-06 10:11:56",
+    "change_number": "28542449",
+    "update_time": "2025-04-18 11:49:39",
     "depot": {
         "498311": {
             "config": {
@@ -58,8 +58,7 @@
                     "size": "102522429",
                     "download": "26331104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "498315": {
             "config": {
@@ -72,8 +71,7 @@
                     "size": "796584765",
                     "download": "442499408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "498316": {
             "config": {
@@ -100,8 +98,7 @@
                     "size": "99657391",
                     "download": "25898768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "498310",
         "branches": {
