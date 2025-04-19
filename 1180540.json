@@ -4,8 +4,8 @@
     "name": "Puddle Knights",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26919662",
-    "update_time": "2025-01-09 15:13:59",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:21",
     "depot": {
         "1180541": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "312621441",
                     "download": "167453760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
