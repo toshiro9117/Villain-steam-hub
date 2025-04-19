@@ -4,8 +4,8 @@
     "name": "Plains of Pain (Dedicated Server)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323909",
-    "update_time": "2025-04-05 21:52:48",
+    "change_number": "28447510",
+    "update_time": "2025-04-13 03:31:04",
     "depot": {
         "1004": {
             "config": {
@@ -68,17 +68,16 @@
                     "download": "200157328"
                 },
                 "devtest": {
-                    "gid": "7459435992914912805",
-                    "size": "520786076",
-                    "download": "213130688"
+                    "gid": "5405020597321764820",
+                    "size": "516461894",
+                    "download": "210155776"
                 },
                 "test": {
                     "gid": "2670311480874287994",
                     "size": "530239999",
                     "download": "200157328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2227362": {
             "config": {
@@ -110,9 +109,9 @@
                 "timeupdated": "1736512330"
             },
             "devtest": {
-                "buildid": "17996063",
+                "buildid": "18083272",
                 "description": "Devtest",
-                "timeupdated": "1743861163"
+                "timeupdated": "1744486260"
             },
             "test": {
                 "buildid": "16964335",
