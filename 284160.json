@@ -4,8 +4,8 @@
     "name": "BeamNG.drive",
     "schinese_name": "车祸模拟器 - BeamNG.drive",
     "isfreeapp": "0",
-    "change_number": "28344031",
-    "update_time": "2025-04-07 18:50:48",
+    "change_number": "28536426",
+    "update_time": "2025-04-18 03:10:51",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "284160",
@@ -28,9 +28,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2248608840633863319",
-                    "size": "57812095583",
-                    "download": "18244119072"
+                    "gid": "5999992157778164633",
+                    "size": "57825916235",
+                    "download": "18244979040"
                 },
                 "0.14.0.5-dx10": {
                     "gid": "2059577517073902777",
@@ -57,8 +57,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17983474",
-                "timeupdated": "1743770560"
+                "buildid": "18054998",
+                "timeupdated": "1744291476"
             },
             "0.14.0.5-dx10": {
                 "buildid": "3511710",
@@ -81,6 +81,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "10c614fbabbde67d0375ae04f35cbc597f9f49f6addbe766465e77ba7cb4a9bb"
     }
 }
