@@ -4,8 +4,8 @@
     "name": "60 Seconds! Reatomized",
     "schinese_name": "60秒！重制版",
     "isfreeapp": "0",
-    "change_number": "28268290",
-    "update_time": "2025-04-02 20:38:15",
+    "change_number": "28546033",
+    "update_time": "2025-04-18 16:48:45",
     "depot": {
         "1012881": {
             "config": {
@@ -49,6 +49,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9604cb48ff5dc92f51032d77feb0ee97e2f4b4f1ebca130c1dd7d0a11984046c"
     }
 }
