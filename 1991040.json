@@ -4,8 +4,8 @@
     "name": "学生时代",
     "schinese_name": "学生时代",
     "isfreeapp": "0",
-    "change_number": "28183083",
-    "update_time": "2025-03-28 11:09:59",
+    "change_number": "28452509",
+    "update_time": "2025-04-13 18:55:19",
     "depot": {
         "baselanguages": "schinese",
         "1991041": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9109121603292066375",
-                    "size": "2569927823",
-                    "download": "2097150560"
+                    "gid": "3115474459787826024",
+                    "size": "2569959330",
+                    "download": "2097097920"
                 },
                 "local": {
                     "gid": "963990996678586610",
@@ -24,9 +24,9 @@
                     "download": "186771040"
                 },
                 "test": {
-                    "gid": "9109121603292066375",
-                    "size": "2569927823",
-                    "download": "2097150560"
+                    "gid": "3115474459787826024",
+                    "size": "2569959330",
+                    "download": "2097097920"
                 }
             },
             "decryptionkey": "db44c404057a2295a7c0d1dcfcba71f1a9486672998b2012d88d9d1a6edc72b9"
@@ -35,8 +35,8 @@
         "workshopdepot": "1991040",
         "branches": {
             "public": {
-                "buildid": "17892207",
-                "timeupdated": "1743131383"
+                "buildid": "18054030",
+                "timeupdated": "1744281176"
             },
             "local": {
                 "buildid": "9964151",
@@ -45,9 +45,9 @@
                 "timeupdated": "1668737126"
             },
             "test": {
-                "buildid": "17892207",
+                "buildid": "18054030",
                 "description": "测试版",
-                "timeupdated": "1743131393"
+                "timeupdated": "1744281191"
             }
         },
         "privatebranches": "1",
