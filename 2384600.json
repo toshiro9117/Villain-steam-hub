@@ -1,0 +1,58 @@
+{
+    "appid": "2384600",
+    "type": "Game",
+    "name": "Monster College",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28464997",
+    "update_time": "2025-04-14 18:55:37",
+    "depot": {
+        "baselanguages": "english",
+        "2384602": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8266256939413231151",
+                    "size": "4936298002",
+                    "download": "4812976336"
+                }
+            }
+        },
+        "2384601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "283880029359610538",
+                    "size": "4941760589",
+                    "download": "4811322160"
+                }
+            },
+            "decryptionkey": "ed1624f29073628f5ba1bbde4ba9a4b1416104d2480e065d87b11ed307051291"
+        },
+        "2384603": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7851318872245024203",
+                    "size": "4968111571",
+                    "download": "4821984880"
+                }
+            }
+        },
+        "workshopdepot": "2384600",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17077385",
+                "timeupdated": "1737462842"
+            }
+        },
+        "workshopdepotdecryptionkey": "db482c2101b9ca33d545b3eab31510aae912036c1ae6b8dcd04d951cd1a0be06"
+    }
+}
