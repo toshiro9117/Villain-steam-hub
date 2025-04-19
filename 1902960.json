@@ -2,10 +2,10 @@
     "appid": "1902960",
     "type": "Game",
     "name": "Lost Records: Bloom & Rage",
-    "schinese_name": "奇异人生",
+    "schinese_name": "失落的记录：绽放与愤怒",
     "isfreeapp": "0",
-    "change_number": "28342953",
-    "update_time": "2025-04-07 17:43:07",
+    "change_number": "28548855",
+    "update_time": "2025-04-18 20:00:51",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1902961": {
             "manifests": {
                 "public": {
-                    "gid": "3351884712118725767",
-                    "size": "46303979513",
-                    "download": "42323831456"
+                    "gid": "6723248033339284152",
+                    "size": "57791865054",
+                    "download": "52659242176"
                 }
             },
             "decryptionkey": "abad4c4c537119525145d83f5b7fe9761125627d17fc04758be2de4d40de12ed"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17773289",
-                "timeupdated": "1742476964"
+                "buildid": "18103654",
+                "timeupdated": "1744732190"
             }
         },
         "privatebranches": "1"
