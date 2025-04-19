@@ -4,8 +4,8 @@
     "name": "Age of Wonders 4",
     "schinese_name": "奇迹时代4",
     "isfreeapp": "0",
-    "change_number": "28305205",
-    "update_time": "2025-04-04 17:12:35",
+    "change_number": "28531236",
+    "update_time": "2025-04-17 22:36:28",
     "depot": {
         "workshopdepot": "1669000",
         "228988": {
@@ -32,14 +32,14 @@
         "1669001": {
             "manifests": {
                 "public": {
-                    "gid": "684063244085583064",
-                    "size": "25673176396",
-                    "download": "14321493648"
+                    "gid": "4780273739440295813",
+                    "size": "25676785570",
+                    "download": "14322080928"
                 },
                 "open_beta": {
-                    "gid": "684063244085583064",
-                    "size": "25673176396",
-                    "download": "14321493648"
+                    "gid": "9077094078295482414",
+                    "size": "25661151350",
+                    "download": "14311456752"
                 }
             },
             "decryptionkey": "c9f8c2fa2410e5cdca74811acc196b199d9831a62e6f4365e521fcadca9d12a5"
@@ -51,36 +51,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "455797235417324229",
-                    "size": "358076862",
-                    "download": "116469760"
+                    "gid": "6847581836963238046",
+                    "size": "358220734",
+                    "download": "116520640"
                 },
                 "open_beta": {
-                    "gid": "455797235417324229",
-                    "size": "358076862",
-                    "download": "116469760"
+                    "gid": "871858719719282006",
+                    "size": "358218686",
+                    "download": "116512640"
                 }
             },
             "decryptionkey": "c4f706f7261dee685e2d74998d61a7b4fb175bb47659cce89b560f89fe30ff61"
-        },
-        "1669003": {
-            "config": {
-                "oslist": "windows",
-                "steamdeck": "1"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "7902137162789066396",
-                    "size": "265079343",
-                    "download": "93406720"
-                },
-                "open_beta": {
-                    "gid": "7902137162789066396",
-                    "size": "265079343",
-                    "download": "93406720"
-                }
-            },
-            "decryptionkey": "4e0c9944c366619c4a03d69bc8d7f7fb779486be8779a93b0dc01b1c59b35173"
         },
         "2257970": {
             "dlcappid": "2257970",
@@ -244,13 +225,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17951901",
-                "timeupdated": "1743685096"
+                "buildid": "18043454",
+                "timeupdated": "1744721860"
             },
             "open_beta": {
-                "buildid": "17951901",
+                "buildid": "18145121",
                 "description": "Branch for pre-release Testing",
-                "timeupdated": "1743757950"
+                "timeupdated": "1744900584"
             }
         },
         "privatebranches": "1",
