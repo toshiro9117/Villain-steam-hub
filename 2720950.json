@@ -4,8 +4,8 @@
     "name": "Grunn",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27113235",
-    "update_time": "2025-01-22 22:21:51",
+    "change_number": "28474240",
+    "update_time": "2025-04-15 04:30:13",
     "depot": {
         "2720951": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "443820173",
                     "download": "359946112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,dutch,brazilian",
         "branches": {
