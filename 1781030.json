@@ -4,8 +4,8 @@
     "name": "Fishing Paradiso",
     "schinese_name": "钓鱼天堂",
     "isfreeapp": "0",
-    "change_number": "28156976",
-    "update_time": "2025-03-27 04:15:49",
+    "change_number": "28450070",
+    "update_time": "2025-04-13 11:07:42",
     "depot": {
         "1781032": {
             "config": {
@@ -18,8 +18,7 @@
                     "size": "172406164",
                     "download": "129086400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1781031": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "142255848",
                     "download": "116930128"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,turkish,brazilian,latam,vietnamese",
         "branches": {
