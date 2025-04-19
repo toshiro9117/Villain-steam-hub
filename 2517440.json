@@ -4,8 +4,8 @@
     "name": "Mini City: Mayhem",
     "schinese_name": "迷你城市",
     "isfreeapp": "0",
-    "change_number": "28093448",
-    "update_time": "2025-03-23 13:25:47",
+    "change_number": "28487941",
+    "update_time": "2025-04-15 21:35:50",
     "depot": {
         "2517441": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "1240009811",
                     "download": "428334976"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2517443": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "1216214083",
                     "download": "420288544"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
