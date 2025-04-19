@@ -4,8 +4,8 @@
     "name": "Ambidextro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346151",
-    "update_time": "2025-04-07 21:11:15",
+    "change_number": "28513455",
+    "update_time": "2025-04-17 01:37:59",
     "depot": {
         "baselanguages": "english",
         "3445581": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3894503373916096964",
-                    "size": "200516160",
-                    "download": "121408160"
+                    "gid": "3203622119420923589",
+                    "size": "202448660",
+                    "download": "122862704"
                 }
             },
             "decryptionkey": ""
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7686458863298778621",
-                    "size": "203247760",
-                    "download": "122040992"
+                    "gid": "4762482215226261083",
+                    "size": "195467444",
+                    "download": "122394080"
                 }
             },
             "decryptionkey": "86dc6cbfea22e6552e75979de093cfb92aeb610555d73ec461c55569975187e4"
@@ -42,12 +42,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5885891634654595621",
-                    "size": "181143388",
-                    "download": "117264704"
+                    "gid": "7281591910603660995",
+                    "size": "182590352",
+                    "download": "118617072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3445584": {
             "config": {
@@ -55,17 +54,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6286966565862895137",
-                    "size": "421484702",
-                    "download": "291114816"
+                    "gid": "7693543690209290389",
+                    "size": "268559932",
+                    "download": "137849664"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17925713",
-                "timeupdated": "1743429472"
+                "buildid": "18132575",
+                "timeupdated": "1744825075"
             }
         }
     }
