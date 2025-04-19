@@ -1,0 +1,52 @@
+{
+    "appid": "3295810",
+    "type": "Game",
+    "name": "Remote Reaper: FPV Drone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28507555",
+    "update_time": "2025-04-16 20:12:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3295811": {
+            "manifests": {
+                "public": {
+                    "gid": "9175246956452954772",
+                    "size": "6708477444",
+                    "download": "6230171840"
+                },
+                "previous_version": {
+                    "gid": "4095499178582608603",
+                    "size": "6423789644",
+                    "download": "6120456288"
+                }
+            },
+            "decryptionkey": "4a8df46aa3941b6d0ec45d942dd64737d7285738346853b18cb8da07266f0358"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18160339",
+                "timeupdated": "1745000484"
+            },
+            "previous_version": {
+                "buildid": "18070535",
+                "description": "Previous stable version of the game",
+                "timeupdated": "1744998947"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
