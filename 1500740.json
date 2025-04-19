@@ -4,8 +4,8 @@
     "name": "Snail Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28260661",
-    "update_time": "2025-04-02 11:50:59",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:23",
     "depot": {
         "baselanguages": "english",
         "1500742": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6482892963188876005",
-                    "size": "898470115",
-                    "download": "216464608"
+                    "gid": "1091438945557393759",
+                    "size": "906421907",
+                    "download": "223953120"
                 },
                 "1.0.0-rebooted": {
                     "gid": "2002374695577154531",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9122208548647642317",
-                    "size": "927848442",
-                    "download": "224691168"
+                    "gid": "8940023349582937278",
+                    "size": "935809194",
+                    "download": "232186608"
                 },
                 "1.0.0-rebooted": {
                     "gid": "3514344312518024205",
@@ -61,14 +61,13 @@
                     "size": "836656000",
                     "download": "286024352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17948875",
-                "timeupdated": "1743565855"
+                "buildid": "18017112",
+                "timeupdated": "1744060737"
             },
             "1.0.0-rebooted": {
                 "buildid": "16466012",
