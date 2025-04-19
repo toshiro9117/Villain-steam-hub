@@ -4,23 +4,23 @@
     "name": "METAL SUITS: Counter-attack",
     "schinese_name": "铁血机甲: 反攻",
     "isfreeapp": "0",
-    "change_number": "28227338",
-    "update_time": "2025-03-31 19:51:24",
+    "change_number": "28519733",
+    "update_time": "2025-04-17 09:41:05",
     "depot": {
         "2093801": {
             "manifests": {
                 "public": {
-                    "gid": "1577943995323673198",
-                    "size": "1444665321",
-                    "download": "345789344"
+                    "gid": "5194925089482726986",
+                    "size": "1444725673",
+                    "download": "345800528"
                 }
             },
             "decryptionkey": "4da581b9f61c51a79d3a81defa888299c496d7ea9da4aebac59891d9ff431dd0"
         },
         "branches": {
             "public": {
-                "buildid": "17863034",
-                "timeupdated": "1742974106"
+                "buildid": "18095090",
+                "timeupdated": "1744854061"
             }
         },
         "privatebranches": "1"
