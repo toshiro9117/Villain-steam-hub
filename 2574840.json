@@ -4,8 +4,8 @@
     "name": "Go For A Punch! Saki Sanobashi",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27849337",
-    "update_time": "2025-03-08 17:08:53",
+    "change_number": "28443886",
+    "update_time": "2025-04-12 19:22:53",
     "depot": {
         "baselanguages": "english,spanish,schinese,japanese,turkish,latam",
         "2574843": {
@@ -15,12 +15,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7805064215858420727",
-                    "size": "519876569",
-                    "download": "365797392"
+                    "gid": "3070210358634430274",
+                    "size": "520109973",
+                    "download": "365809136"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4405c3ea1ee49605310d77fad526e4077de85c4457ee5abf94585b662a527307"
         },
         "2574842": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8630207245027553552",
-                    "size": "519879453",
-                    "download": "365798048"
+                    "gid": "458914341901898369",
+                    "size": "520098731",
+                    "download": "365798096"
                 }
             },
             "decryptionkey": ""
@@ -121,8 +121,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17327266",
-                "timeupdated": "1739308943"
+                "buildid": "18083123",
+                "timeupdated": "1744456969"
             }
         }
     }
