@@ -4,8 +4,8 @@
     "name": "My Yandere Sister loves me too much!",
     "schinese_name": "病娇姐姐的「性爱」囚禁 ",
     "isfreeapp": "0",
-    "change_number": "25599213",
-    "update_time": "2024-10-09 02:28:43",
+    "change_number": "28412927",
+    "update_time": "2025-04-11 01:16:08",
     "depot": {
         "1426091": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4715780835920629583",
-                    "size": "620062634",
-                    "download": "470325344"
+                    "gid": "4299550891056634016",
+                    "size": "568597553",
+                    "download": "457901456"
                 }
             },
             "decryptionkey": "1bda40da75f5af72d4e96c47fd3216d3f63ac3ea1bbd8c3c1b9f1b160f498b4c"
@@ -30,13 +30,12 @@
                     "size": "521333338",
                     "download": "444288016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "8016705",
-                "timeupdated": "1642106599"
+                "buildid": "14758154",
+                "timeupdated": "1744305364"
             }
         },
         "privatebranches": "1"
