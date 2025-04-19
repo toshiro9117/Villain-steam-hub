@@ -4,10 +4,10 @@
     "name": "Premium Bowling",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28133463",
-    "update_time": "2025-03-26 00:20:08",
+    "change_number": "28371242",
+    "update_time": "2025-04-09 01:59:59",
     "depot": {
-        "228988": {
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -68,8 +68,7 @@
                     "size": "3618746534",
                     "download": "1240184224"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
