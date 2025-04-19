@@ -4,8 +4,8 @@
     "name": "Star Traders: Frontiers",
     "schinese_name": "星际贸易：前沿",
     "isfreeapp": "0",
-    "change_number": "27853697",
-    "update_time": "2025-03-09 04:42:51",
+    "change_number": "28377542",
+    "update_time": "2025-04-09 10:17:48",
     "depot": {
         "hasdepotsindlc": "0",
         "workshopdepot": "335620",
@@ -22,17 +22,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2134270435727193179",
-                    "size": "360826552",
-                    "download": "287697552"
+                    "gid": "3555058995985179812",
+                    "size": "362198752",
+                    "download": "289044624"
                 },
                 "macos_legacy": {
                     "gid": "9159283462575776845",
                     "size": "329551094",
                     "download": "281109488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335621": {
             "config": {
@@ -40,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2069406436428250211",
-                    "size": "344593889",
-                    "download": "315217776"
+                    "gid": "921158616841016658",
+                    "size": "345967110",
+                    "download": "316554208"
                 },
                 "macos_legacy": {
                     "gid": "4265853423276177915",
@@ -59,17 +58,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3358144487769701750",
-                    "size": "443508431",
-                    "download": "336095408"
+                    "gid": "6354672980457296856",
+                    "size": "444878720",
+                    "download": "337423376"
                 },
                 "macos_legacy": {
                     "gid": "3336597720972692846",
                     "size": "441656855",
                     "download": "334625488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335624": {
             "config": {
@@ -78,17 +76,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1798252265784569446",
-                    "size": "470304462",
-                    "download": "337964080"
+                    "gid": "2199335199359975716",
+                    "size": "471687947",
+                    "download": "339300192"
                 },
                 "macos_legacy": {
                     "gid": "8774250622056180412",
                     "size": "468303990",
                     "download": "336465040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335625": {
             "config": {
@@ -96,9 +93,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6744933712985970875",
-                    "size": "344602081",
-                    "download": "313122448"
+                    "gid": "8063712166604098950",
+                    "size": "345975302",
+                    "download": "314457040"
                 },
                 "macos_legacy": {
                     "gid": "1744483469484396667",
@@ -114,17 +111,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "639454007813255750",
-                    "size": "360713991",
-                    "download": "285506192"
+                    "gid": "2751376057679333205",
+                    "size": "362102591",
+                    "download": "286837120"
                 },
                 "macos_legacy": {
                     "gid": "4273326057040281186",
                     "size": "329539797",
                     "download": "279018896"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335627": {
             "config": {
@@ -133,17 +129,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7195957068757159868",
-                    "size": "443797443",
-                    "download": "334074208"
+                    "gid": "8666876139824866653",
+                    "size": "445162796",
+                    "download": "335410192"
                 },
                 "macos_legacy": {
                     "gid": "2504836318969651033",
                     "size": "441944663",
                     "download": "332594624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "335628": {
             "config": {
@@ -152,22 +147,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7196469411455724614",
-                    "size": "470715174",
-                    "download": "335999632"
+                    "gid": "3365158379054749806",
+                    "size": "472095547",
+                    "download": "337337328"
                 },
                 "macos_legacy": {
                     "gid": "2837760443847693553",
                     "size": "468721382",
                     "download": "334478112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17648693",
-                "timeupdated": "1741466567"
+                "buildid": "18034566",
+                "timeupdated": "1744165063"
             },
             "macos_legacy": {
                 "buildid": "16495484",
