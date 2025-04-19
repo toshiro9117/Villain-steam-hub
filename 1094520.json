@@ -4,8 +4,8 @@
     "name": "Sands of Salzaar",
     "schinese_name": "部落与弯刀",
     "isfreeapp": "0",
-    "change_number": "28185383",
-    "update_time": "2025-03-28 15:06:16",
+    "change_number": "28358350",
+    "update_time": "2025-04-08 12:06:15",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "1094520",
@@ -236,6 +236,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e2a14237f85b633a51a332389ab0a6b4abac6e3675856078e7b00227998c1148"
     }
 }
