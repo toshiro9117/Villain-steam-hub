@@ -4,8 +4,8 @@
     "name": "ΔV: Rings of Saturn",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28332938",
-    "update_time": "2025-04-06 22:27:33",
+    "change_number": "28537794",
+    "update_time": "2025-04-18 04:42:11",
     "depot": {
         "baselanguages": "english,polish",
         "hasdepotsindlc": "1",
@@ -25,9 +25,9 @@
                     "download": "799813984"
                 },
                 "experimental": {
-                    "gid": "2234219381505120981",
-                    "size": "1525817480",
-                    "download": "799815040"
+                    "gid": "6541301481812605556",
+                    "size": "1518726576",
+                    "download": "797820128"
                 }
             },
             "decryptionkey": "095ebd18370da2b2974902cfd88ddb05ebc4e930027d37328ebccce55ad1438b"
@@ -48,12 +48,11 @@
                     "download": "802374208"
                 },
                 "experimental": {
-                    "gid": "6315343479947408889",
-                    "size": "1535878368",
-                    "download": "802375440"
+                    "gid": "3192993913846557709",
+                    "size": "1527945032",
+                    "download": "800530992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "846034": {
             "config": {
@@ -71,12 +70,11 @@
                     "download": "812870864"
                 },
                 "experimental": {
-                    "gid": "770686382085105922",
-                    "size": "1584312681",
-                    "download": "812872096"
+                    "gid": "2772008906622928601",
+                    "size": "1546992026",
+                    "download": "804722848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "846033": {},
         "branches": {
@@ -90,9 +88,9 @@
                 "timeupdated": "1743673789"
             },
             "experimental": {
-                "buildid": "18002137",
+                "buildid": "18149542",
                 "description": "bleeding edge - latest features",
-                "timeupdated": "1743949649"
+                "timeupdated": "1744922527"
             }
         },
         "privatebranches": "1"
