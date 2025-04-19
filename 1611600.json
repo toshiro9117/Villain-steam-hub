@@ -4,8 +4,8 @@
     "name": "WARNO",
     "schinese_name": "预先号令",
     "isfreeapp": "0",
-    "change_number": "28304145",
-    "update_time": "2025-04-04 16:05:35",
+    "change_number": "28549629",
+    "update_time": "2025-04-18 20:59:03",
     "depot": {
         "workshopdepot": "1611600",
         "baselanguages": "english,german,french,spanish,schinese,russian",
@@ -104,6 +104,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "d053a11e0ae8b1c11883882bf55f125055e5965c6c57c0a35774f33ee51114d8"
     }
 }
