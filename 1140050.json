@@ -1,0 +1,32 @@
+{
+    "appid": "1140050",
+    "type": "Game",
+    "name": "三国志·天下归心",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548334",
+    "update_time": "2025-04-18 19:18:57",
+    "depot": {
+        "baselanguages": "schinese",
+        "1140052": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2649661085501692885",
+                    "size": "440302619",
+                    "download": "437245184"
+                }
+            },
+            "decryptionkey": "ea3b2398e9a9e28f770490ea2f3aaced8a8ad2da262ac79c42fa60b74d2fb658"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18157032",
+                "timeupdated": "1744975134"
+            }
+        }
+    }
+}
