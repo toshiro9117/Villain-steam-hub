@@ -4,8 +4,8 @@
     "name": "Detached",
     "schinese_name": "超脱",
     "isfreeapp": "0",
-    "change_number": "27419804",
-    "update_time": "2025-02-11 20:40:05",
+    "change_number": "28512963",
+    "update_time": "2025-04-17 01:09:41",
     "depot": {
         "228986": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8733915504904925223",
-                    "size": "4894287472",
-                    "download": "4675772336"
+                    "gid": "7921638797663946070",
+                    "size": "11820109470",
+                    "download": "3673118640"
                 }
             },
             "decryptionkey": "69eb0d458d1681ca7d17aba34293b4ea75155938e3b5b24c64da1264ca44473f"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "6861183",
-                "timeupdated": "1624963594"
+                "buildid": "17454887",
+                "timeupdated": "1744635147"
             }
         },
         "privatebranches": "1"
