@@ -4,8 +4,8 @@
     "name": "A Hat in Time",
     "schinese_name": "时光之帽",
     "isfreeapp": "0",
-    "change_number": "27122044",
-    "update_time": "2025-01-23 09:21:39",
+    "change_number": "28485271",
+    "update_time": "2025-04-15 18:59:34",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -102,9 +102,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5731425146360930823",
-                    "size": "7841672815",
-                    "download": "5710535472"
+                    "gid": "1058673078674118754",
+                    "size": "7841773430",
+                    "download": "5711280576"
                 },
                 "dlc2_may11": {
                     "gid": "242922671485761424",
@@ -127,9 +127,9 @@
                     "download": "3469826800"
                 },
                 "experimental": {
-                    "gid": "3379835602141226335",
-                    "size": "7841673839",
-                    "download": "5710541088"
+                    "gid": "1058673078674118754",
+                    "size": "7841773430",
+                    "download": "5711280576"
                 },
                 "tcplink": {
                     "gid": "363046749924510332",
@@ -194,8 +194,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16135372",
-                "timeupdated": "1729595878"
+                "buildid": "18112335",
+                "timeupdated": "1744997009"
             },
             "dlc2_may11": {
                 "buildid": "3814107",
@@ -218,9 +218,9 @@
                 "timeupdated": "1508643141"
             },
             "experimental": {
-                "buildid": "16245123",
+                "buildid": "18112335",
                 "description": "Updates frequently, and might be unstable.",
-                "timeupdated": "1730334590"
+                "timeupdated": "1744714770"
             },
             "tcplink": {
                 "buildid": "15039951",
