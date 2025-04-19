@@ -4,8 +4,8 @@
     "name": "Narita Boy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28279575",
-    "update_time": "2025-04-03 09:18:43",
+    "change_number": "28520786",
+    "update_time": "2025-04-17 11:10:32",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "1069531": {
@@ -43,8 +43,7 @@
                     "size": "2142155091",
                     "download": "1259649552"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
