@@ -1,0 +1,68 @@
+{
+    "appid": "1216230",
+    "type": "Game",
+    "name": "Project Heartbeat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28549862",
+    "update_time": "2025-04-18 21:14:53",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1216231": {
+            "manifests": {
+                "public": {
+                    "gid": "7927075205670802174",
+                    "size": "614209992",
+                    "download": "427904672"
+                },
+                "beta": {
+                    "gid": "590934832245740279",
+                    "size": "614692632",
+                    "download": "427983344"
+                },
+                "ci-testing": {
+                    "gid": "1349212626807992896",
+                    "size": "563488840",
+                    "download": "402240848"
+                },
+                "prev": {
+                    "gid": "2756028975040733009",
+                    "size": "546366477",
+                    "download": "358331808"
+                }
+            },
+            "decryptionkey": "874c2f5429e5d76c0493db0ef7b9da3dc62913e6a64d8371d192a31b573fefbf"
+        },
+        "baselanguages": "english,spanish",
+        "workshopdepot": "1216230",
+        "branches": {
+            "public": {
+                "buildid": "17340548",
+                "timeupdated": "1739384983"
+            },
+            "beta": {
+                "buildid": "17996985",
+                "description": "Beta branch",
+                "timeupdated": "1743873268"
+            },
+            "ci-testing": {
+                "buildid": "18158072",
+                "description": "CITesting",
+                "timeupdated": "1744982089"
+            },
+            "prev": {
+                "buildid": "14188164",
+                "description": "Previous Version (0.16)",
+                "timeupdated": "1716159206"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a9a54b33a70eefa3b26859a1b9a5ace1ec59e615497f8d32d0ed4e9c676c916c"
+    }
+}
