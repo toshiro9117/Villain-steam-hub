@@ -4,24 +4,24 @@
     "name": "Guidus Zero",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342517",
-    "update_time": "2025-04-07 17:17:50",
+    "change_number": "28541270",
+    "update_time": "2025-04-18 09:57:14",
     "depot": {
         "baselanguages": "english,koreana",
         "3072641": {
             "manifests": {
                 "public": {
-                    "gid": "156666686145159532",
-                    "size": "318922120",
-                    "download": "225028752"
+                    "gid": "631392430371694498",
+                    "size": "318972410",
+                    "download": "225048736"
                 }
             },
             "decryptionkey": "10ac283646a63acf803b8ac078e02749f657036f81f726266a2f5ab1ae933f94"
         },
         "branches": {
             "public": {
-                "buildid": "17893824",
-                "timeupdated": "1743151250"
+                "buildid": "18051860",
+                "timeupdated": "1744274077"
             }
         },
         "privatebranches": "1"
