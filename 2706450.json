@@ -4,8 +4,8 @@
     "name": "Hands of Necromancy II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28205759",
-    "update_time": "2025-03-29 20:07:03",
+    "change_number": "28484429",
+    "update_time": "2025-04-15 18:07:55",
     "depot": {
         "228989": {
             "config": {
@@ -62,8 +62,7 @@
                     "size": "87596719",
                     "download": "32354096"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2706454": {
             "config": {
@@ -80,8 +79,7 @@
                     "size": "120043587",
                     "download": "41596192"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
