@@ -4,8 +4,8 @@
     "name": "Full Throttle Remastered",
     "schinese_name": "极速天龙：重制版",
     "isfreeapp": "0",
-    "change_number": "28334995",
-    "update_time": "2025-04-07 03:15:10",
+    "change_number": "28415570",
+    "update_time": "2025-04-11 04:09:43",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -49,8 +49,7 @@
                     "size": "5480983922",
                     "download": "4624202096"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "228363": {
             "config": {
@@ -63,8 +62,7 @@
                     "size": "5482370636",
                     "download": "4624382784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "228364": {
             "config": {
@@ -78,8 +76,7 @@
                     "size": "5478771010",
                     "download": "4626304576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
