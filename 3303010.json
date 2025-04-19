@@ -1,0 +1,46 @@
+{
+    "appid": "3303010",
+    "type": "Game",
+    "name": "Katana Dragon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28487905",
+    "update_time": "2025-04-15 21:33:50",
+    "depot": {
+        "baselanguages": "english,spanish,schinese",
+        "hasdepotsindlc": "1",
+        "3303011": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3517381890103501889",
+                    "size": "1314039776",
+                    "download": "587241392"
+                }
+            },
+            "decryptionkey": "6162f374449a9ca0a06f8caae7a1558311d59d83671d0c3d04064308e171a850"
+        },
+        "3303012": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1224087606475941477",
+                    "size": "1314334296",
+                    "download": "588931568"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18113967",
+                "timeupdated": "1744723060"
+            }
+        }
+    }
+}
