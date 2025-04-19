@@ -4,8 +4,8 @@
     "name": "Corruption of Champions II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28222254",
-    "update_time": "2025-03-31 13:14:42",
+    "change_number": "28398531",
+    "update_time": "2025-04-10 10:27:02",
     "depot": {
         "228989": {
             "config": {
@@ -54,8 +54,7 @@
                     "size": "190476483",
                     "download": "61484704"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
