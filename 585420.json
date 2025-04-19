@@ -4,8 +4,8 @@
     "name": "Trailmakers",
     "schinese_name": "机械制造者 Trailmakers",
     "isfreeapp": "0",
-    "change_number": "28344304",
-    "update_time": "2025-04-07 19:09:51",
+    "change_number": "28539225",
+    "update_time": "2025-04-18 06:52:13",
     "depot": {
         "228988": {
             "config": {
@@ -54,6 +54,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0d957d3babda8c319b81077f03ebecd7777661e4a130bd8a7731cc5fc05d7ab5"
     }
 }
