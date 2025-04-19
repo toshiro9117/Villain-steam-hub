@@ -4,8 +4,8 @@
     "name": "Soulmask Dedicated Server For Linux",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28226193",
-    "update_time": "2025-03-31 18:30:59",
+    "change_number": "28401680",
+    "update_time": "2025-04-10 15:13:11",
     "depot": {
         "1004": {
             "config": {
@@ -52,17 +52,17 @@
         "3017301": {
             "manifests": {
                 "public": {
-                    "gid": "4297750713572704548",
-                    "size": "1290917419",
-                    "download": "1049743872"
+                    "gid": "668305235276776382",
+                    "size": "1291104129",
+                    "download": "1049927376"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17923276",
-                "timeupdated": "1743417053"
+                "buildid": "18052071",
+                "timeupdated": "1744269188"
             }
         }
     }
