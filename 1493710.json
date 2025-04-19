@@ -4,8 +4,8 @@
     "name": "Proton Experimental",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28313430",
-    "update_time": "2025-04-05 01:07:17",
+    "change_number": "28511330",
+    "update_time": "2025-04-16 23:38:29",
     "depot": {
         "1493711": {
             "config": {
@@ -25,14 +25,14 @@
                     "download": "290049520"
                 },
                 "bleeding-edge": {
-                    "gid": "4838908126981146540",
-                    "size": "1340579214",
-                    "download": "322868656"
+                    "gid": "7524576451207494097",
+                    "size": "1340687260",
+                    "download": "322927040"
                 },
                 "bleeding-edge-debug": {
-                    "gid": "1788845135632625919",
-                    "size": "4866549845",
-                    "download": "938226992"
+                    "gid": "446110784184855128",
+                    "size": "4877081298",
+                    "download": "939295984"
                 },
                 "debug": {
                     "gid": "5722987330985380177",
@@ -63,14 +63,14 @@
                 "timeupdated": "1697452971"
             },
             "bleeding-edge": {
-                "buildid": "17978593",
+                "buildid": "18131075",
                 "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
-                "timeupdated": "1743731770"
+                "timeupdated": "1744817771"
             },
             "bleeding-edge-debug": {
-                "buildid": "17978610",
+                "buildid": "18131116",
                 "description": "as dangerous as regular bleeding-edge, just with debug symbols",
-                "timeupdated": "1743731900"
+                "timeupdated": "1744817903"
             },
             "debug": {
                 "buildid": "17958874",
