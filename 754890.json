@@ -4,8 +4,8 @@
     "name": "Firmament",
     "schinese_name": "苍穹乾坤",
     "isfreeapp": "0",
-    "change_number": "28201846",
-    "update_time": "2025-03-29 09:33:44",
+    "change_number": "28521725",
+    "update_time": "2025-04-17 12:45:17",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -89,8 +89,7 @@
                     "size": "14282208944",
                     "download": "12812532240"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
