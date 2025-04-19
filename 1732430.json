@@ -1,0 +1,42 @@
+{
+    "appid": "1732430",
+    "type": "Game",
+    "name": "Neighbors: Suburban Warfare",
+    "schinese_name": "家有恶邻",
+    "isfreeapp": "0",
+    "change_number": "28548986",
+    "update_time": "2025-04-18 20:08:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1732431": {
+            "manifests": {
+                "public": {
+                    "gid": "3155751598659283281",
+                    "size": "5785586444",
+                    "download": "5303631536"
+                }
+            },
+            "decryptionkey": "b597fd2377aa27876247617581b9feee95642f0cc5dbf5a9bf510425106e099b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18159440",
+                "timeupdated": "1744997781"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
