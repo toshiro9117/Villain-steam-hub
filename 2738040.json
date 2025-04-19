@@ -4,8 +4,8 @@
     "name": "Silica Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28038674",
-    "update_time": "2025-03-20 03:03:54",
+    "change_number": "28430284",
+    "update_time": "2025-04-11 21:54:17",
     "depot": {
         "1004": {
             "config": {
@@ -96,8 +96,7 @@
                     "size": "7855678165",
                     "download": "3056723488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
