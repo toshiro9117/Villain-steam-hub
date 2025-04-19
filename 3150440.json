@@ -4,8 +4,8 @@
     "name": "Laundry Store Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28269735",
-    "update_time": "2025-04-02 22:04:31",
+    "change_number": "28529688",
+    "update_time": "2025-04-17 21:20:19",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3150441": {
             "manifests": {
                 "public": {
-                    "gid": "6786927502464280116",
-                    "size": "2327193559",
-                    "download": "654531552"
+                    "gid": "3731227050299528212",
+                    "size": "2326561560",
+                    "download": "654123744"
                 }
             },
             "decryptionkey": "d6e3e5cb657c1847009f837d80ebfbf6a8bba4a76a8b2b5f3f4937762606aa61"
         },
         "branches": {
             "public": {
-                "buildid": "17955603",
-                "timeupdated": "1743602665"
+                "buildid": "18051029",
+                "timeupdated": "1744260163"
             }
         },
         "privatebranches": "1"
