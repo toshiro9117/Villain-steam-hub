@@ -4,8 +4,8 @@
     "name": "Like a Dragon: Pirate Yakuza in Hawaii",
     "schinese_name": "人中之龙８外传 Pirates in Hawaii",
     "isfreeapp": "0",
-    "change_number": "28306979",
-    "update_time": "2025-04-04 19:04:38",
+    "change_number": "28477405",
+    "update_time": "2025-04-15 08:59:51",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "3061811": {
             "manifests": {
                 "public": {
-                    "gid": "454498697526652329",
-                    "size": "59236685057",
-                    "download": "45187459952"
+                    "gid": "5791590246311215097",
+                    "size": "59249797889",
+                    "download": "45195181632"
                 }
             },
             "decryptionkey": "7a902c59f558f53204bf21403faa08aa113c0eca94bc03ad642f533ed35fc10a"
@@ -28,8 +28,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17668558",
-                "timeupdated": "1741913849"
+                "buildid": "18023911",
+                "timeupdated": "1744678785"
             }
         },
         "privatebranches": "1"
