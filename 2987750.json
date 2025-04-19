@@ -4,8 +4,8 @@
     "name": "Chorus of Carcosa",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346459",
-    "update_time": "2025-04-07 21:29:03",
+    "change_number": "28471285",
+    "update_time": "2025-04-15 01:10:24",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1224512719586160222",
-                    "size": "4986755234",
-                    "download": "4771621008"
+                    "gid": "2665440355583166645",
+                    "size": "4975543118",
+                    "download": "4760264400"
                 }
             },
             "decryptionkey": "35d631cb97a91e51ad4b17e8434aebd9a5d7f5f41903738d8bd9bb027aaf6f37"
         },
         "branches": {
             "public": {
-                "buildid": "17972294",
-                "timeupdated": "1743706185"
+                "buildid": "18100051",
+                "timeupdated": "1744650620"
             }
         },
         "privatebranches": "1"
