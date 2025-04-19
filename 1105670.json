@@ -4,8 +4,8 @@
     "name": "The Last Spell",
     "schinese_name": "最后的咒语",
     "isfreeapp": "0",
-    "change_number": "28188507",
-    "update_time": "2025-03-28 18:44:58",
+    "change_number": "28530632",
+    "update_time": "2025-04-17 22:08:23",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -110,6 +110,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3459bcbe91752367c6c4b4ea73d20b1afac5b6a5d57082ed28579e5dec0d477e"
     }
 }
