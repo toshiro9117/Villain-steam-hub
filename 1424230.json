@@ -4,8 +4,8 @@
     "name": "Holdfast: Nations At War - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28292083",
-    "update_time": "2025-04-03 23:40:56",
+    "change_number": "28531858",
+    "update_time": "2025-04-17 23:07:51",
     "depot": {
         "1004": {
             "config": {
@@ -57,9 +57,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3953031008550201499",
-                    "size": "11719669567",
-                    "download": "1740367040"
+                    "gid": "966118203311407637",
+                    "size": "11384574878",
+                    "download": "1700921808"
+                },
+                "beta": {
+                    "gid": "5239621897012483612",
+                    "size": "11384544070",
+                    "download": "1700911664"
                 }
             },
             "decryptionkey": "eb4909032cd917aaaf94448da374ca711a01f784817bb93dcfb84af7be77e87d"
@@ -72,17 +77,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2951292517186483096",
-                    "size": "11877020869",
-                    "download": "1862521504"
+                    "gid": "6400534434910418790",
+                    "size": "11541371460",
+                    "download": "1824005472"
+                },
+                "beta": {
+                    "gid": "3454845284963631411",
+                    "size": "11541336396",
+                    "download": "1823987728"
                 }
             },
             "decryptionkey": "51fb0a69919307daf391d19b53617a43f8a7fb773356486b503a3e06c3f93346"
         },
         "branches": {
             "public": {
-                "buildid": "17000306",
-                "timeupdated": "1743694852"
+                "buildid": "18042147",
+                "timeupdated": "1744208413"
+            },
+            "beta": {
+                "buildid": "18145464",
+                "description": "Open beta branch (compatible with live game)",
+                "timeupdated": "1744902467"
             }
         },
         "privatebranches": "1"
