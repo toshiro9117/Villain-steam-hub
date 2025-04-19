@@ -4,8 +4,8 @@
     "name": "巴哈姆特2-龍之新娘(Bahamut2-dragon's bride)",
     "schinese_name": "巴哈姆特2-龙之新娘",
     "isfreeapp": "0",
-    "change_number": "28306099",
-    "update_time": "2025-04-04 18:07:58",
+    "change_number": "28419283",
+    "update_time": "2025-04-11 09:20:01",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
@@ -63,8 +63,7 @@
                     "size": "1087269400",
                     "download": "723280288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1673194": {
             "config": {
@@ -82,8 +81,7 @@
                     "size": "1087578286",
                     "download": "723964000"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1673195": {
             "config": {
@@ -92,9 +90,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7505843826821806136",
-                    "size": "1245444907",
-                    "download": "805659280"
+                    "gid": "7606102061932786188",
+                    "size": "1245444740",
+                    "download": "805659264"
                 },
                 "alphatest": {
                     "gid": "7606102061932786188",
@@ -120,8 +118,7 @@
                     "size": "1338771942",
                     "download": "834781344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1673197": {
             "config": {
@@ -158,13 +155,12 @@
                     "size": "1088043231",
                     "download": "722740384"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17752211",
-                "timeupdated": "1742218962"
+                "buildid": "18064875",
+                "timeupdated": "1744334395"
             },
             "alphatest": {
                 "buildid": "17983004",
