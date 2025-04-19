@@ -4,8 +4,8 @@
     "name": "City Legends: The Curse of the Crimson Shadow Collector's Edition",
     "schinese_name": "都市怪谈：猩红暗影的诅咒 典藏版",
     "isfreeapp": "0",
-    "change_number": "28266914",
-    "update_time": "2025-04-02 19:18:38",
+    "change_number": "28488315",
+    "update_time": "2025-04-15 21:55:27",
     "depot": {
         "hasdepotsindlc": "1",
         "1744201": {
@@ -116,6 +116,7 @@
             },
             "decryptionkey": ""
         },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian",
         "branches": {
             "public": {
                 "buildid": "12688919",
