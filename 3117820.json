@@ -4,8 +4,8 @@
     "name": "Sultan's Game",
     "schinese_name": "苏丹的游戏",
     "isfreeapp": "0",
-    "change_number": "28341374",
-    "update_time": "2025-04-07 15:58:16",
+    "change_number": "28546493",
+    "update_time": "2025-04-18 17:18:40",
     "depot": {
         "3117821": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "698781801115035953",
-                    "size": "2494771157",
-                    "download": "528231024"
+                    "gid": "4135577350869506318",
+                    "size": "2540010660",
+                    "download": "558555328"
                 },
                 "devtest-0.2": {
                     "gid": "2708524691989434518",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2711083383518413833",
-                    "size": "2531154496",
-                    "download": "530614304"
+                    "gid": "6567651140070183427",
+                    "size": "2576413783",
+                    "download": "560908000"
                 }
             },
             "decryptionkey": "035a90c8a84efd35f026f2ac3856c53f459fed40e95d99e490f0eed947a99be9"
@@ -49,17 +49,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2772338772037893987",
-                    "size": "2587573360",
-                    "download": "546988816"
+                    "gid": "2767258780437628865",
+                    "size": "2632863441",
+                    "download": "577264384"
                 }
             },
             "decryptionkey": "4041c78dfa1b7b56de279bbaf92f1bd964a745fd067e476ed3302d0a40b90042"
         },
         "branches": {
             "public": {
-                "buildid": "17954583",
-                "timeupdated": "1743661583"
+                "buildid": "18155404",
+                "timeupdated": "1744967915"
             },
             "devtest-0.2": {
                 "buildid": "15365016",
