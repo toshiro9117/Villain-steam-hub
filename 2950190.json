@@ -4,8 +4,8 @@
     "name": "BloodLight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28235205",
-    "update_time": "2025-04-01 03:57:40",
+    "change_number": "28417180",
+    "update_time": "2025-04-11 06:14:29",
     "depot": {
         "228988": {
             "config": {
@@ -31,17 +31,17 @@
         "2950191": {
             "manifests": {
                 "public": {
-                    "gid": "31920260608977079",
-                    "size": "2209051281",
-                    "download": "2014847840"
+                    "gid": "8397104958937419070",
+                    "size": "1995803681",
+                    "download": "1800870880"
                 }
             },
             "decryptionkey": "d61a74ecbb571974a0f77a459f6b7aefdb228d98f21bc8e0480e646a0b2213d5"
         },
         "branches": {
             "public": {
-                "buildid": "17917695",
-                "timeupdated": "1743366758"
+                "buildid": "18063041",
+                "timeupdated": "1744323265"
             }
         },
         "privatebranches": "1"
