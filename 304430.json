@@ -4,8 +4,8 @@
     "name": "INSIDE",
     "schinese_name": "囚禁",
     "isfreeapp": "0",
-    "change_number": "28334071",
-    "update_time": "2025-04-07 01:11:18",
+    "change_number": "28496996",
+    "update_time": "2025-04-16 07:04:06",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish",
         "228983": {
@@ -59,17 +59,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1472845135095052445",
-                    "size": "2271237112",
-                    "download": "1161886864"
+                    "gid": "2327740499464381760",
+                    "size": "2271309714",
+                    "download": "1161904832"
                 }
             },
             "decryptionkey": "af643fa842538225f1d40cb8a110e90bdd4538e83dc63d5caad477c3360204fe"
         },
         "branches": {
             "public": {
-                "buildid": "16538646",
-                "timeupdated": "1732628910"
+                "buildid": "17981020",
+                "timeupdated": "1744626711"
             },
             "local": {
                 "buildid": "1330646",
