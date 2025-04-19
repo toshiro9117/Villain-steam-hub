@@ -4,8 +4,8 @@
     "name": "ANEURISM IV Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339805",
-    "update_time": "2025-04-07 13:33:35",
+    "change_number": "28543245",
+    "update_time": "2025-04-18 13:12:58",
     "depot": {
         "1004": {
             "config": {
@@ -52,27 +52,27 @@
         "2832031": {
             "manifests": {
                 "public": {
-                    "gid": "5471414248357178992",
-                    "size": "553188888",
-                    "download": "401481600"
+                    "gid": "1250253256181560993",
+                    "size": "560984409",
+                    "download": "403297456"
                 },
                 "preview": {
-                    "gid": "7771388674701632377",
-                    "size": "554441975",
-                    "download": "401606160"
+                    "gid": "1250253256181560993",
+                    "size": "560984409",
+                    "download": "403297456"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17914449",
-                "timeupdated": "1743321444"
+                "buildid": "18153121",
+                "timeupdated": "1744953172"
             },
             "preview": {
-                "buildid": "18007121",
+                "buildid": "18153121",
                 "description": "Public preview branch",
-                "timeupdated": "1744004011"
+                "timeupdated": "1744947618"
             }
         }
     }
