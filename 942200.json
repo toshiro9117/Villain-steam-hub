@@ -4,15 +4,15 @@
     "name": "Rocket Boots Mania",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28274903",
-    "update_time": "2025-04-03 03:13:25",
+    "change_number": "28446403",
+    "update_time": "2025-04-13 01:10:14",
     "depot": {
         "942201": {
             "manifests": {
                 "public": {
-                    "gid": "6275686179170509622",
-                    "size": "5534328320",
-                    "download": "1799152144"
+                    "gid": "7112250195568922603",
+                    "size": "5616320173",
+                    "download": "1822913760"
                 }
             },
             "decryptionkey": "21cb98a766189b88e303ff57aa062e50aeb0fc26893b37ec33746226072177ed"
@@ -20,8 +20,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17409578",
-                "timeupdated": "1739972049"
+                "buildid": "18084101",
+                "timeupdated": "1744477798"
             }
         },
         "privatebranches": "1"
