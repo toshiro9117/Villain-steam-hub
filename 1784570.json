@@ -4,8 +4,8 @@
     "name": "Trainz Railroad Simulator 2022",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28284374",
-    "update_time": "2025-04-03 16:15:53",
+    "change_number": "28521959",
+    "update_time": "2025-04-17 13:06:58",
     "depot": {
         "1784571": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "14588520253",
                     "download": "14114738640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
