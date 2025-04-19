@@ -4,8 +4,8 @@
     "name": "FAS: Fight Action Sandbox",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28327028",
-    "update_time": "2025-04-06 05:16:31",
+    "change_number": "28413848",
+    "update_time": "2025-04-11 02:11:30",
     "depot": {
         "2302821": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1684202655"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a0e42c66ee5f15b6050a12383d1cd255d2939c3648a7964e5bdc9bc9880456ad"
     }
 }
