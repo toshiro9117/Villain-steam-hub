@@ -4,8 +4,8 @@
     "name": "The Bus - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28310093",
-    "update_time": "2025-04-04 22:05:31",
+    "change_number": "28543113",
+    "update_time": "2025-04-18 12:58:55",
     "depot": {
         "hasdepotsindlc": "0",
         "1004": {
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8199162998399715265",
-                    "size": "2532230085",
-                    "download": "1704795776"
+                    "gid": "5889039975652741313",
+                    "size": "2559539761",
+                    "download": "1721052336"
                 }
             },
             "decryptionkey": "5f8ae7bd3b67e38ea4a91a534d23c447ccb0bdf2b735d37cb231dd033376f698"
@@ -83,12 +83,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6884928871260611662",
-                    "size": "2413009188",
-                    "download": "1576908384"
+                    "gid": "2476550096557619764",
+                    "size": "2440317084",
+                    "download": "1592970336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3544251": {
             "manifests": {},
@@ -97,8 +96,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17984763",
-                "timeupdated": "1743775525"
+                "buildid": "18114073",
+                "timeupdated": "1744728292"
             }
         },
         "privatebranches": "1"
