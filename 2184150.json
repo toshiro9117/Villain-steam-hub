@@ -4,8 +4,8 @@
     "name": "Dead Matter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328415",
-    "update_time": "2025-04-06 09:21:13",
+    "change_number": "28453667",
+    "update_time": "2025-04-13 22:04:41",
     "depot": {
         "228989": {
             "config": {
@@ -39,14 +39,14 @@
                     "download": "71369810880"
                 },
                 "automatic-build": {
-                    "gid": "5589235360701332269",
-                    "size": "99736838955",
-                    "download": "83254892096"
+                    "gid": "3850156509967092837",
+                    "size": "79788890845",
+                    "download": "64562289024"
                 },
                 "automatic-nightly": {
-                    "gid": "876074162484757126",
-                    "size": "99737887275",
-                    "download": "83312950368"
+                    "gid": "8838681377248503685",
+                    "size": "78890597287",
+                    "download": "64325483296"
                 }
             },
             "decryptionkey": "7fcf86a407ed2bf3dc7d0191e036bd4d5da63afbdf4eb27eef04177d249b932c"
@@ -67,14 +67,14 @@
                 "timeupdated": "1709665980"
             },
             "automatic-build": {
-                "buildid": "17999130",
+                "buildid": "18087108",
                 "description": "builds live from our CI.",
-                "timeupdated": "1743902470"
+                "timeupdated": "1744509263"
             },
             "automatic-nightly": {
-                "buildid": "17986828",
+                "buildid": "18089960",
                 "description": "nightly builds from our CI.",
-                "timeupdated": "1743779124"
+                "timeupdated": "1744553076"
             }
         },
         "privatebranches": "1"
