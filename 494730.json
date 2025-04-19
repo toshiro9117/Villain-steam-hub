@@ -4,8 +4,8 @@
     "name": "Galacticare",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28286323",
-    "update_time": "2025-04-03 18:13:14",
+    "change_number": "28485792",
+    "update_time": "2025-04-15 19:33:25",
     "depot": {
         "494731": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1782840462534483991",
-                    "size": "29832065674",
-                    "download": "6025428688"
+                    "gid": "7310822208771206543",
+                    "size": "29833037964",
+                    "download": "6025387744"
                 },
                 "previous-build": {
                     "gid": "5101291240327971653",
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17966924",
-                "timeupdated": "1743675187"
+                "buildid": "18043222",
+                "timeupdated": "1744716801"
             },
             "previous-build": {
                 "buildid": "14847737",
