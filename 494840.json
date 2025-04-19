@@ -4,8 +4,8 @@
     "name": "UBOAT",
     "schinese_name": "潜艇模拟器",
     "isfreeapp": "0",
-    "change_number": "28151972",
-    "update_time": "2025-03-26 23:11:11",
+    "change_number": "28546701",
+    "update_time": "2025-04-18 17:30:42",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,czech,turkish,ukrainian",
         "workshopdepot": "494840",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8265301329198828987",
-                    "size": "71210610983",
-                    "download": "22489630464"
+                    "gid": "2814259181921635720",
+                    "size": "71210579327",
+                    "download": "22489638928"
                 },
                 "2022.1": {
                     "gid": "1810611750853804875",
@@ -146,9 +146,9 @@
                     "download": "22489528752"
                 },
                 "unstable": {
-                    "gid": "8265301329198828987",
-                    "size": "71210610983",
-                    "download": "22489630464"
+                    "gid": "3950451273922271446",
+                    "size": "71210585448",
+                    "download": "22489630656"
                 }
             },
             "decryptionkey": "61609f23c66b061a624e3ff3aaba6340acfbcc2bae0fa7587beb8388d5c4bfe0"
@@ -157,7 +157,7 @@
             "dlcappid": "3129990",
             "manifests": {
                 "public": {
-                    "gid": "8523885419621994317",
+                    "gid": "7251092623910946757",
                     "size": "10860701023",
                     "download": "3563341456"
                 },
@@ -172,7 +172,7 @@
                     "download": "3563341456"
                 },
                 "unstable": {
-                    "gid": "8523885419621994317",
+                    "gid": "3507966745288755922",
                     "size": "10860701023",
                     "download": "3563341456"
                 }
@@ -181,8 +181,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17865293",
-                "timeupdated": "1743001461"
+                "buildid": "18090223",
+                "timeupdated": "1744561502"
             },
             "2022.1": {
                 "buildid": "13275048",
@@ -275,11 +275,11 @@
                 "timeupdated": "1743001861"
             },
             "unstable": {
-                "buildid": "17865293",
-                "timeupdated": "1743001148"
+                "buildid": "18155549",
+                "timeupdated": "1744997121"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "96e0825e965d15350275ce8d41110e92f8fa4201c9872fd9fd8ac9ee39a925e2"
     }
 }
