@@ -4,8 +4,8 @@
     "name": "Hunt: Showdown 1896",
     "schinese_name": "猎杀：对决 1896",
     "isfreeapp": "0",
-    "change_number": "28343308",
-    "update_time": "2025-04-07 18:07:14",
+    "change_number": "28537809",
+    "update_time": "2025-04-18 04:43:03",
     "depot": {
         "228985": {
             "config": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6245088290980291520",
-                    "size": "645504483",
-                    "download": "239380224"
+                    "gid": "431257547850248730",
+                    "size": "656252303",
+                    "download": "244296080"
                 }
             },
             "decryptionkey": "2b731d9a42ee11b0f9a51d4aea2c779a2c1943f0ca0027bf38529240e3fd70e4"
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3131288826935729781",
-                    "size": "81789306123",
-                    "download": "81347743792"
+                    "gid": "8426888550032502117",
+                    "size": "81789318411",
+                    "download": "81347746848"
                 }
             },
             "decryptionkey": "a8a0c9b88ad0802d43ca2c0d3b8dd40d95a480ddec25ddbc6d154f1b268da0b2"
@@ -70,7 +70,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6450381464663922084",
+                    "gid": "6958139291616374594",
                     "size": "399040012",
                     "download": "401880672"
                 }
@@ -95,8 +95,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17791970",
-                "timeupdated": "1742977214"
+                "buildid": "18009150",
+                "timeupdated": "1744269007"
             }
         },
         "privatebranches": "1"
