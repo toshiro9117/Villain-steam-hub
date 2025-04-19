@@ -4,8 +4,8 @@
     "name": "Fraymakers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28332850",
-    "update_time": "2025-04-06 22:14:52",
+    "change_number": "28377080",
+    "update_time": "2025-04-09 09:37:21",
     "depot": {
         "228989": {
             "config": {
@@ -65,8 +65,7 @@
                     "size": "1791568",
                     "download": "410992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1420355": {
             "config": {
@@ -84,8 +83,7 @@
                     "size": "8472078",
                     "download": "2789328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1420351": {
             "manifests": {
@@ -95,9 +93,9 @@
                     "download": "254348736"
                 },
                 "0.7.9-experimental-preview": {
-                    "gid": "1165694277512635758",
-                    "size": "324356327",
-                    "download": "255806032"
+                    "gid": "9028789698278216540",
+                    "size": "324410699",
+                    "download": "255812256"
                 }
             },
             "decryptionkey": "0c2d0021a596f771ab6bbd2e32b93e69fdd6d1800facd004dd585661a6ca7fca"
@@ -137,8 +135,7 @@
                     "size": "5561793",
                     "download": "1678112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1420358": {
             "config": {
@@ -156,8 +153,7 @@
                     "size": "5463761",
                     "download": "1503216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -165,9 +161,9 @@
                 "timeupdated": "1737003414"
             },
             "0.7.9-experimental-preview": {
-                "buildid": "17913396",
+                "buildid": "18034239",
                 "description": "Experimental Gameplay Branch",
-                "timeupdated": "1743303029"
+                "timeupdated": "1744162638"
             }
         },
         "workshopdepotdecryptionkey": "4bd243451e5f8856a0b35fc6c8cb5a56a6f587f8ffc7c52fae985cf6b590dcf5"
