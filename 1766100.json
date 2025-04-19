@@ -4,16 +4,16 @@
     "name": "The Last Hero of Nostalgaia",
     "schinese_name": "思古塔加亚最后的英雄",
     "isfreeapp": "0",
-    "change_number": "28158475",
-    "update_time": "2025-03-27 06:14:42",
+    "change_number": "28348202",
+    "update_time": "2025-04-07 23:10:43",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese",
         "1766101": {
             "manifests": {
                 "public": {
-                    "gid": "8337984813719294232",
-                    "size": "7558899354",
-                    "download": "3110770304"
+                    "gid": "8091710384471440807",
+                    "size": "7556817530",
+                    "download": "3110720528"
                 }
             },
             "decryptionkey": "c240c1b2745b02faf40b44b09a7e9521cad742da85c3fa8153648375cfd01b35"
@@ -23,8 +23,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15556659",
-                "timeupdated": "1725155117"
+                "buildid": "17770918",
+                "timeupdated": "1744038639"
             }
         },
         "privatebranches": "1"
