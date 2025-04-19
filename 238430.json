@@ -4,8 +4,8 @@
     "name": "Contagion",
     "schinese_name": "传染病",
     "isfreeapp": "0",
-    "change_number": "28343729",
-    "update_time": "2025-04-07 18:29:10",
+    "change_number": "28440955",
+    "update_time": "2025-04-12 11:40:51",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "238430",
@@ -34,14 +34,14 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5398482100768099870",
-                    "size": "152230854",
-                    "download": "56324800"
+                    "gid": "5234521217144833986",
+                    "size": "152211910",
+                    "download": "56327344"
                 },
                 "upcoming": {
-                    "gid": "8322698711883200484",
-                    "size": "152210374",
-                    "download": "56326976"
+                    "gid": "5234521217144833986",
+                    "size": "152211910",
+                    "download": "56327344"
                 }
             },
             "decryptionkey": "9634d3738964c481192d594ce8d7f9a419a244256b490377943a7bffc8b0ea19"
@@ -49,14 +49,14 @@
         "238432": {
             "manifests": {
                 "public": {
-                    "gid": "7643457758226270725",
-                    "size": "15444639949",
-                    "download": "4663920240"
+                    "gid": "3394153034084604630",
+                    "size": "15966115583",
+                    "download": "4681559936"
                 },
                 "upcoming": {
-                    "gid": "3375076295755284665",
-                    "size": "15475236176",
-                    "download": "4670610240"
+                    "gid": "3394153034084604630",
+                    "size": "15966115583",
+                    "download": "4681559936"
                 }
             },
             "decryptionkey": "f00f954df6fbd23bb1489bbbc205d4aaa14cd59e86be36568a009ffec817fc26"
@@ -79,16 +79,16 @@
         },
         "branches": {
             "public": {
-                "buildid": "17958917",
-                "timeupdated": "1743618405"
+                "buildid": "18037796",
+                "timeupdated": "1744187129"
             },
             "upcoming": {
-                "buildid": "17997680",
+                "buildid": "18037796",
                 "description": "Upcoming Build",
-                "timeupdated": "1743888697"
+                "timeupdated": "1744187001"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bcdb1fab0db432b279e9075ac260ad5602a4dd3a455b62a23d23c060f31f207c"
     }
 }
