@@ -1,0 +1,43 @@
+{
+    "appid": "2870710",
+    "type": "Game",
+    "name": "Big Pig",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28542845",
+    "update_time": "2025-04-18 12:26:47",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2870711": {
+            "manifests": {
+                "public": {
+                    "gid": "6304957823782959176",
+                    "size": "13818787879",
+                    "download": "13064129168"
+                }
+            },
+            "decryptionkey": "b2ddc85ffb0094b75d9222fd057d715f4f6d039e242ac38f31d18e49e9914304"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18153424",
+                "timeupdated": "1744950402"
+            }
+        }
+    }
+}
