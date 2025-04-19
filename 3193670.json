@@ -1,0 +1,42 @@
+{
+    "appid": "3193670",
+    "type": "Game",
+    "name": "对不起！我把美女包围了！",
+    "schinese_name": "对不起！我把美女包围了！",
+    "isfreeapp": "0",
+    "change_number": "28530402",
+    "update_time": "2025-04-17 21:58:42",
+    "depot": {
+        "3193672": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "10457835601157224",
+                    "size": "15096040296",
+                    "download": "15049447728"
+                }
+            },
+            "decryptionkey": "0d354431a4891282531b10b75b6c531760e19c90190d2ed0f1eed282fa8b8de8"
+        },
+        "3193673": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7095106326203024072",
+                    "size": "15189546355",
+                    "download": "15066554752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18158919",
+                "timeupdated": "1744988645"
+            }
+        }
+    }
+}
