@@ -4,9 +4,10 @@
     "name": "UuultraC",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28043932",
-    "update_time": "2025-03-20 10:56:25",
+    "change_number": "28424448",
+    "update_time": "2025-04-11 16:14:59",
     "depot": {
+        "baselanguages": "english,schinese,tchinese",
         "1909801": {
             "manifests": {
                 "public": {
@@ -17,22 +18,12 @@
             },
             "decryptionkey": "b7fd1ffed737ac12941ef64e0c05fc987971d1b7c6319092de359f5d0ae0906c"
         },
-        "1909802": {
-            "config": {
-                "language": "schinese"
-            }
-        },
-        "1909803": {
-            "config": {
-                "language": "tchinese"
-            }
-        },
-        "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
                 "buildid": "8250629",
                 "timeupdated": "1645525485"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
