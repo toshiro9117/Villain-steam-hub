@@ -4,8 +4,8 @@
     "name": "Maestro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28310894",
-    "update_time": "2025-04-04 22:49:25",
+    "change_number": "28547104",
+    "update_time": "2025-04-18 17:58:52",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian",
         "228989": {
@@ -25,9 +25,9 @@
         "2701701": {
             "manifests": {
                 "public": {
-                    "gid": "2355408277249628286",
-                    "size": "1897548267",
-                    "download": "1747189776"
+                    "gid": "5750947533707989470",
+                    "size": "1739795612",
+                    "download": "1587523088"
                 }
             },
             "decryptionkey": "b76ebf3606bcb620ac016cbd1b82209d33f969e6b2208f59946f2d562d0f1c06"
@@ -46,27 +46,6 @@
             },
             "decryptionkey": ""
         },
-        "2701702": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "8672752882350577829",
-                    "size": "1897548267",
-                    "download": "1746229024"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "3252046": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {}
-        },
         "3352570": {
             "dlcappid": "3352570",
             "config": {
@@ -75,17 +54,32 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7454553755958453010",
-                    "size": "246146548",
-                    "download": "241027872"
+                    "gid": "7307741494583746822",
+                    "size": "225647191",
+                    "download": "221306848"
                 }
             },
             "decryptionkey": "022fe7cb197b2917937fbdf1d8b2570c68cb40f132e43e12da84d73201e49090"
         },
+        "3645630": {
+            "dlcappid": "3645630",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5257565342959767767",
+                    "size": "156577367",
+                    "download": "152502656"
+                }
+            },
+            "decryptionkey": "ea989b494e203fee4f27d10f6f0bf96e8c3f33c7493bdced6a929e4f851f71f9"
+        },
         "branches": {
             "public": {
-                "buildid": "16824473",
-                "timeupdated": "1734796406"
+                "buildid": "18057247",
+                "timeupdated": "1744395036"
             }
         },
         "privatebranches": "1",
