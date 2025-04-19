@@ -4,15 +4,15 @@
     "name": "Yolk Heroes: A Long Tamago",
     "schinese_name": "勇者蛋生",
     "isfreeapp": "0",
-    "change_number": "27885783",
-    "update_time": "2025-03-11 15:19:20",
+    "change_number": "28500252",
+    "update_time": "2025-04-16 11:53:27",
     "depot": {
         "2417851": {
             "manifests": {
                 "public": {
-                    "gid": "570945222950047475",
-                    "size": "452074024",
-                    "download": "293093904"
+                    "gid": "4035890816269016106",
+                    "size": "452075160",
+                    "download": "293091104"
                 }
             },
             "decryptionkey": "646bd332901e6eded07e2694bb11432d59607f6e7450835cac0cd91f524914ca"
@@ -20,8 +20,8 @@
         "2417852": {},
         "branches": {
             "public": {
-                "buildid": "17259706",
-                "timeupdated": "1738804591"
+                "buildid": "18123082",
+                "timeupdated": "1744775599"
             }
         }
     }
