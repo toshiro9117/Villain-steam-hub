@@ -1,0 +1,50 @@
+{
+    "appid": "3007910",
+    "type": "Game",
+    "name": "SHADOW MANSION",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28522668",
+    "update_time": "2025-04-17 14:09:11",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3007911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4766550337096288798",
+                    "size": "6433287687",
+                    "download": "5994430912"
+                }
+            },
+            "decryptionkey": "93097f5c64212cd558754ac356b760a7e87276fcc0d8edc7c1d324b81689c530"
+        },
+        "3007912": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16894060",
+                "timeupdated": "1735848826"
+            }
+        }
+    }
+}
