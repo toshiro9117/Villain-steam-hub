@@ -4,8 +4,8 @@
     "name": "Endless Monday: Dreams and Deadlines",
     "schinese_name": "永不结束的星期一：梦想与死线 Endless Monday: Dreams and Deadlines",
     "isfreeapp": "0",
-    "change_number": "28296346",
-    "update_time": "2025-04-04 04:23:43",
+    "change_number": "28543607",
+    "update_time": "2025-04-18 13:49:20",
     "depot": {
         "2262611": {
             "config": {
@@ -18,10 +18,10 @@
                     "size": "235139356",
                     "download": "145697552"
                 },
-                "prev_version": {
-                    "gid": "3918357817110496564",
-                    "size": "235143857",
-                    "download": "145698160"
+                "publicbeta": {
+                    "gid": "6898842631124843512",
+                    "size": "235305081",
+                    "download": "145586896"
                 }
             },
             "decryptionkey": "6dcaffbc78aa5951f599de7972be0348674e2da77ea436e94ba4ca74d492f363"
@@ -37,13 +37,12 @@
                     "size": "268908891",
                     "download": "152958848"
                 },
-                "prev_version": {
-                    "gid": "6573797496060483231",
-                    "size": "268908784",
-                    "download": "152954256"
+                "publicbeta": {
+                    "gid": "4500482163102046360",
+                    "size": "269031946",
+                    "download": "152992288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2262613": {
             "config": {
@@ -56,13 +55,12 @@
                     "size": "241278087",
                     "download": "146303328"
                 },
-                "prev_version": {
-                    "gid": "5911156508290331362",
-                    "size": "241277772",
-                    "download": "146302544"
+                "publicbeta": {
+                    "gid": "1432831263619000998",
+                    "size": "241155067",
+                    "download": "146235760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,koreana,schinese,japanese,brazilian",
         "branches": {
@@ -70,10 +68,10 @@
                 "buildid": "17973181",
                 "timeupdated": "1743699507"
             },
-            "prev_version": {
-                "buildid": "17950383",
-                "description": "previous version",
-                "timeupdated": "1743711645"
+            "publicbeta": {
+                "buildid": "18158997",
+                "description": "public beta",
+                "timeupdated": "1744989279"
             }
         },
         "privatebranches": "1"
