@@ -4,8 +4,8 @@
     "name": "Signal Maze",
     "schinese_name": "信号迷局 Signal Maze",
     "isfreeapp": "0",
-    "change_number": "28338776",
-    "update_time": "2025-04-07 11:18:22",
+    "change_number": "28495743",
+    "update_time": "2025-04-16 05:24:07",
     "depot": {
         "hasdepotsindlc": "0",
         "2153433": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9094651862935382412",
-                    "size": "1372836370",
-                    "download": "529327696"
+                    "gid": "724498558236651437",
+                    "size": "1373247942",
+                    "download": "529660320"
                 }
             },
             "decryptionkey": "a4a99e3c8e5ba8878790d4f8065073e1ad95f41c240140b36385f2edcb9cb565"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2277334947588401489",
-                    "size": "1372836370",
-                    "download": "529490896"
+                    "gid": "2899684159707912852",
+                    "size": "1373247942",
+                    "download": "529823520"
                 }
             },
             "decryptionkey": ""
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7850876648297471601",
-                    "size": "1372836370",
-                    "download": "529551136"
+                    "gid": "4474226592941681231",
+                    "size": "1373247942",
+                    "download": "529883760"
                 }
             },
             "decryptionkey": ""
@@ -53,8 +53,8 @@
         "workshopdepot": "2153430",
         "branches": {
             "public": {
-                "buildid": "17704926",
-                "timeupdated": "1741871119"
+                "buildid": "18069051",
+                "timeupdated": "1744363911"
             }
         },
         "privatebranches": "1",
