@@ -4,8 +4,8 @@
     "name": "Ostalgie: The Berlin Wall",
     "schinese_name": "东德情结：柏林墙",
     "isfreeapp": "0",
-    "change_number": "28323981",
-    "update_time": "2025-04-05 22:02:37",
+    "change_number": "28542122",
+    "update_time": "2025-04-18 11:16:42",
     "depot": {
         "228985": {
             "config": {
@@ -66,8 +66,7 @@
                     "size": "1397329537",
                     "download": "1038983744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "774095": {
             "config": {
@@ -79,8 +78,7 @@
                     "size": "1546084145",
                     "download": "1103668608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "950760": {
             "dlcappid": "950760",
