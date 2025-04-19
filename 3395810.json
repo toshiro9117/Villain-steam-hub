@@ -1,0 +1,55 @@
+{
+    "appid": "3395810",
+    "type": "Game",
+    "name": "Suspense: Madman's Dreams",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28520106",
+    "update_time": "2025-04-17 10:11:26",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3395811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6245816869495836050",
+                    "size": "9128145392",
+                    "download": "7921543440"
+                },
+                "devs": {
+                    "gid": "3722679270613869005",
+                    "size": "9126019512",
+                    "download": "7919934416"
+                }
+            },
+            "decryptionkey": "ad7cb6027f7abd27e0d6dd021d552a1122316ee1e1899127ae8b9d76bbbe79d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18163966",
+                "timeupdated": "1745028498"
+            },
+            "devs": {
+                "buildid": "18091297",
+                "description": "test",
+                "timeupdated": "1744570013"
+            }
+        }
+    }
+}
