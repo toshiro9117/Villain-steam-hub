@@ -4,8 +4,8 @@
     "name": "Drill Core",
     "schinese_name": "钻核公司 (Drill Core)",
     "isfreeapp": "0",
-    "change_number": "28346133",
-    "update_time": "2025-04-07 21:08:55",
+    "change_number": "28548950",
+    "update_time": "2025-04-18 20:06:01",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "1591181856"
                 },
                 "testing": {
-                    "gid": "1068346113579695244",
-                    "size": "1965602418",
-                    "download": "1591181856"
+                    "gid": "7433959825597475371",
+                    "size": "2027409503",
+                    "download": "1628706864"
                 }
             },
             "decryptionkey": "2d6f599ca00239c873cb8094d116ff81dc697e1d830ec0e9f62e155f1b5520da"
@@ -45,9 +45,9 @@
                 "timeupdated": "1742311108"
             },
             "testing": {
-                "buildid": "17764710",
+                "buildid": "18147477",
                 "description": "Public testing of a new version",
-                "timeupdated": "1742297445"
+                "timeupdated": "1744911115"
             }
         },
         "privatebranches": "1"
