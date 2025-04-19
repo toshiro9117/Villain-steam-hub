@@ -4,8 +4,8 @@
     "name": "Severed Steel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27905533",
-    "update_time": "2025-03-12 15:02:09",
+    "change_number": "28445688",
+    "update_time": "2025-04-12 23:41:48",
     "depot": {
         "workshopdepot": "1227690",
         "baselanguages": "english",
@@ -89,6 +89,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "792f092873cdd11803d176b904ea889c22960946d7f5af105e0aa065a15165ae"
     }
 }
