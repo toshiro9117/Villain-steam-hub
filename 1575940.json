@@ -4,8 +4,8 @@
     "name": "Sins of a Solar Empire II",
     "schinese_name": "太阳帝国的原罪2",
     "isfreeapp": "0",
-    "change_number": "28292232",
-    "update_time": "2025-04-03 23:49:38",
+    "change_number": "28528990",
+    "update_time": "2025-04-17 20:42:06",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,brazilian,indonesian",
         "228989": {
@@ -25,19 +25,19 @@
         "1575941": {
             "manifests": {
                 "public": {
-                    "gid": "1493648105023103445",
-                    "size": "16457612823",
-                    "download": "8216764656"
+                    "gid": "2081372484367162700",
+                    "size": "16991562188",
+                    "download": "8450526224"
                 },
                 "previous_version": {
-                    "gid": "3384199034763672847",
-                    "size": "15260817391",
-                    "download": "7435263312"
-                },
-                "test_edition": {
                     "gid": "1493648105023103445",
                     "size": "16457612823",
                     "download": "8216764656"
+                },
+                "test_edition": {
+                    "gid": "2081372484367162700",
+                    "size": "16991562188",
+                    "download": "8450526224"
                 }
             },
             "decryptionkey": "4e2e571147e77d0cadda071bc6cb8aea54d2c0e2c076b1dbf4d5fea94482ff09"
@@ -87,18 +87,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17867266",
-                "timeupdated": "1743079290"
+                "buildid": "18129034",
+                "timeupdated": "1744812015"
             },
             "previous_version": {
-                "buildid": "17489326",
-                "description": "v1.33 Build for Saves and Replays",
-                "timeupdated": "1743079254"
+                "buildid": "17867266",
+                "description": "v1.40 Build for Saves and Replays",
+                "timeupdated": "1744811978"
             },
             "test_edition": {
-                "buildid": "17867266",
+                "buildid": "18129034",
                 "description": "Try out new versions early",
-                "timeupdated": "1743079271"
+                "timeupdated": "1744808975"
             }
         },
         "privatebranches": "1"
