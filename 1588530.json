@@ -4,8 +4,8 @@
     "name": "Dungeon Alchemist",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28320236",
-    "update_time": "2025-04-05 11:46:08",
+    "change_number": "28479145",
+    "update_time": "2025-04-15 11:41:34",
     "depot": {
         "baselanguages": "english",
         "1588531": {
@@ -31,8 +31,7 @@
                     "size": "7213111705",
                     "download": "3048255104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1588533": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "7258261189",
                     "download": "3068482368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1588530",
         "branches": {
