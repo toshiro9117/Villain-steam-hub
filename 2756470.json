@@ -4,8 +4,8 @@
     "name": "Game Builder Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28302171",
-    "update_time": "2025-04-04 13:04:24",
+    "change_number": "28446814",
+    "update_time": "2025-04-13 02:08:21",
     "depot": {
         "hasdepotsindlc": "0",
         "2756471": {
@@ -32,8 +32,7 @@
                     "size": "3557393854",
                     "download": "3023345296"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2756473": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "3583267381",
                     "download": "3063392944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
