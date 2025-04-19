@@ -4,15 +4,15 @@
     "name": "Blood Typers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28320365",
-    "update_time": "2025-04-05 12:10:33",
+    "change_number": "28544163",
+    "update_time": "2025-04-18 14:40:07",
     "depot": {
         "2790331": {
             "manifests": {
                 "public": {
-                    "gid": "3042635852371650521",
-                    "size": "771995942",
-                    "download": "288579664"
+                    "gid": "3226149505569631958",
+                    "size": "891925018",
+                    "download": "345442240"
                 },
                 "1.0.15": {
                     "gid": "6944026553874263853",
@@ -25,17 +25,17 @@
                     "download": "287877232"
                 },
                 "beta": {
-                    "gid": "3042635852371650521",
-                    "size": "771995942",
-                    "download": "288579664"
+                    "gid": "423544452829415732",
+                    "size": "771996630",
+                    "download": "288578704"
                 }
             },
             "decryptionkey": "e2849c9c34b6ae97847e916f63847c74a22404ba3f6e64adeb9ad7379d8511bc"
         },
         "branches": {
             "public": {
-                "buildid": "17930160",
-                "timeupdated": "1743454607"
+                "buildid": "18164561",
+                "timeupdated": "1745034179"
             },
             "1.0.15": {
                 "buildid": "17571669",
@@ -48,9 +48,9 @@
                 "timeupdated": "1743454581"
             },
             "beta": {
-                "buildid": "17930160",
+                "buildid": "18016959",
                 "description": "Public test branch",
-                "timeupdated": "1743454802"
+                "timeupdated": "1744933864"
             }
         },
         "privatebranches": "1"
