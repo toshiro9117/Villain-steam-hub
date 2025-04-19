@@ -4,8 +4,8 @@
     "name": "Scrap Mechanic",
     "schinese_name": "废品机械师",
     "isfreeapp": "0",
-    "change_number": "28309063",
-    "update_time": "2025-04-04 21:12:43",
+    "change_number": "28406379",
+    "update_time": "2025-04-10 19:47:20",
     "depot": {
         "workshopdepot": "387990",
         "387992": {
@@ -26,9 +26,9 @@
                     "download": "2159196000"
                 },
                 "local": {
-                    "gid": "5497893505533125292",
-                    "size": "16703923773",
-                    "download": "4512027552"
+                    "gid": "4961793024924286218",
+                    "size": "16697516518",
+                    "download": "4511541920"
                 }
             },
             "decryptionkey": "a2b344f494b0b5375bf3c405e8b3de97923659c663d583eee57993952d363761"
@@ -55,9 +55,9 @@
                     "download": "1739452144"
                 },
                 "local": {
-                    "gid": "4620358010750226481",
-                    "size": "4623965053",
-                    "download": "3644803888"
+                    "gid": "9222901218375223981",
+                    "size": "4633018309",
+                    "download": "3651642016"
                 }
             },
             "decryptionkey": "93137be5385ff98af9981124f0adeb9e8d55b91d0eab1c8a2f9ab417034a3243"
@@ -78,13 +78,13 @@
                 "timeupdated": "1733402573"
             },
             "local": {
-                "buildid": "17985316",
+                "buildid": "18055767",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1743772359"
+                "timeupdated": "1744285637"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0187df8e448332ced59790fcebde38720853500b8af881c5490a5ed379265508"
     }
 }
