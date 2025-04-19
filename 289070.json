@@ -4,8 +4,8 @@
     "name": "Sid Meier's Civilization VI",
     "schinese_name": "文明6",
     "isfreeapp": "0",
-    "change_number": "28335907",
-    "update_time": "2025-04-07 05:11:14",
+    "change_number": "28358907",
+    "update_time": "2025-04-08 13:10:28",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "289070",
@@ -891,8 +891,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2173133": {
             "dlcappid": "2173131",
