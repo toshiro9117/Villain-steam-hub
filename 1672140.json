@@ -4,8 +4,8 @@
     "name": "Bot Wars",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28338736",
-    "update_time": "2025-04-07 11:13:57",
+    "change_number": "28453909",
+    "update_time": "2025-04-13 22:39:58",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "778566453979073888",
-                    "size": "6073439534",
-                    "download": "1598703392"
+                    "gid": "8421910855443257050",
+                    "size": "6023157633",
+                    "download": "1585529296"
                 },
                 "beta": {
-                    "gid": "5701530015565972896",
-                    "size": "6643849526",
-                    "download": "1709910576"
+                    "gid": "1600240144677608781",
+                    "size": "6618155217",
+                    "download": "1703339360"
                 },
                 "halloween": {
                     "gid": "7042974471683287367",
@@ -50,13 +50,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17970417",
-                "timeupdated": "1743685876"
+                "buildid": "18089846",
+                "timeupdated": "1744555193"
             },
             "beta": {
-                "buildid": "17947057",
+                "buildid": "18164080",
                 "description": "Dev Build For Testing",
-                "timeupdated": "1743777831"
+                "timeupdated": "1745028979"
             },
             "halloween": {
                 "buildid": "16188674",
