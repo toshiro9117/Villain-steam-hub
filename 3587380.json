@@ -4,8 +4,8 @@
     "name": "KAISERPUNK - Supporter Pack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28304331",
-    "update_time": "2025-04-04 16:17:02",
+    "change_number": "28506984",
+    "update_time": "2025-04-16 19:36:19",
     "depot": {
         "3587380": {
             "dlcappid": "3587380",
@@ -21,9 +21,9 @@
         "3587381": {
             "manifests": {
                 "public": {
-                    "gid": "8374344878442517958",
-                    "size": "63727761",
-                    "download": "55846992"
+                    "gid": "7300406071444571908",
+                    "size": "48035678",
+                    "download": "41047872"
                 }
             },
             "dlcappid": "3587380",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17898205",
-                "timeupdated": "1743177984"
+                "buildid": "18100369",
+                "timeupdated": "1744652066"
             }
         },
         "privatebranches": "1"
