@@ -4,8 +4,8 @@
     "name": "Finding Hannah",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28064455",
-    "update_time": "2025-03-21 12:18:31",
+    "change_number": "28448141",
+    "update_time": "2025-04-13 05:10:46",
     "depot": {
         "2362121": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "113075728",
                     "download": "77631056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2362123": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "149433934",
                     "download": "87880464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
