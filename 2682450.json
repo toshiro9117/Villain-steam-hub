@@ -4,8 +4,8 @@
     "name": "Do Not Press The Button (or You'll Delete the Multiverse): Prologue",
     "schinese_name": "本游戏与大红按钮无关：试玩版",
     "isfreeapp": "0",
-    "change_number": "28325298",
-    "update_time": "2025-04-06 01:06:44",
+    "change_number": "28505444",
+    "update_time": "2025-04-16 18:04:36",
     "depot": {
         "228988": {
             "config": {
@@ -39,7 +39,8 @@
                     "size": "863377264",
                     "download": "748344912"
                 }
-            }
+            },
+            "decryptionkey": "86348cd9ae041e72f762ab9f48d6cd27b8176babbe198221911a023ed9414ab7"
         },
         "branches": {
             "public": {
