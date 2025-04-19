@@ -4,8 +4,8 @@
     "name": "Pixel Composer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342720",
-    "update_time": "2025-04-07 17:27:39",
+    "change_number": "28545769",
+    "update_time": "2025-04-18 16:30:10",
     "depot": {
         "workshopdepot": "2299510",
         "2299511": {
@@ -39,9 +39,9 @@
                     "download": "85357232"
                 },
                 "beta": {
-                    "gid": "9131405699357090275",
-                    "size": "312993423",
-                    "download": "99011248"
+                    "gid": "6592437835338630395",
+                    "size": "317022355",
+                    "download": "100935488"
                 },
                 "beta-nosteam": {
                     "gid": "56749065916271036",
@@ -71,8 +71,7 @@
                     "size": "429795262",
                     "download": "117574208"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -100,9 +99,9 @@
                 "timeupdated": "1727425366"
             },
             "beta": {
-                "buildid": "17878052",
+                "buildid": "18155444",
                 "description": "more frequent, less stable build",
-                "timeupdated": "1743056145"
+                "timeupdated": "1744965004"
             },
             "beta-nosteam": {
                 "buildid": "17878204",
