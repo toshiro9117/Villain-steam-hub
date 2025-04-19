@@ -1,0 +1,33 @@
+{
+    "appid": "3549430",
+    "type": "Game",
+    "name": "Veins of DARKNESS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28400115",
+    "update_time": "2025-04-10 13:10:06",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "3549431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6041703745925179157",
+                    "size": "3036531863",
+                    "download": "2312711808"
+                }
+            },
+            "decryptionkey": "de3df6d5f5cb1b719b90eb8a56347879e7cfc4a6d82193cf2d5d0bc8a800d4b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18044220",
+                "timeupdated": "1744261802"
+            }
+        }
+    }
+}
