@@ -4,8 +4,8 @@
     "name": "Longvinter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28306691",
-    "update_time": "2025-04-04 18:46:57",
+    "change_number": "28441980",
+    "update_time": "2025-04-12 14:32:55",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2473369660154444722",
-                    "size": "7805941309",
-                    "download": "1476056208"
+                    "gid": "2468241528968526876",
+                    "size": "7805957693",
+                    "download": "1475998944"
                 },
                 "1.10b": {
                     "gid": "3739550028934972874",
@@ -80,9 +80,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3621603343054498385",
-                    "size": "998110565",
-                    "download": "275212976"
+                    "gid": "4322799804003770258",
+                    "size": "998141285",
+                    "download": "275218784"
                 },
                 "1.10b": {
                     "gid": "8615346765062420916",
@@ -120,8 +120,8 @@
         "workshopdepot": "1635450",
         "branches": {
             "public": {
-                "buildid": "17983425",
-                "timeupdated": "1743763613"
+                "buildid": "18081512",
+                "timeupdated": "1744439571"
             },
             "1.10b": {
                 "buildid": "11347715",
@@ -155,6 +155,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "480b59a11113f4654a894b3067e67168c7c4544dcdf044a548677543abc914d0"
     }
 }
