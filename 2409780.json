@@ -4,8 +4,8 @@
     "name": "Breeze of Passion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26825763",
-    "update_time": "2024-12-31 20:40:30",
+    "change_number": "28396529",
+    "update_time": "2025-04-10 07:33:44",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,czech,turkish,arabic,ukrainian",
         "hasdepotsindlc": "1",
@@ -32,8 +32,7 @@
                     "size": "6989731610",
                     "download": "6956671088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2409783": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "7076260109",
                     "download": "6979154944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
