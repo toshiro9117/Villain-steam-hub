@@ -4,8 +4,8 @@
     "name": "Knights in Tight Spaces",
     "schinese_name": "狭间骑士",
     "isfreeapp": "0",
-    "change_number": "28345090",
-    "update_time": "2025-04-07 20:00:22",
+    "change_number": "28542763",
+    "update_time": "2025-04-18 12:18:00",
     "depot": {
         "2315401": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7841766877004105327",
-                    "size": "1969453180",
-                    "download": "1588320528"
+                    "gid": "3736622129004200086",
+                    "size": "1969456717",
+                    "download": "1588307824"
                 }
             },
             "decryptionkey": "7bc82ef006cc54f59a83a8a8d5b497c94a4c4e17908a1bacc40e26b351ccdf2c"
@@ -24,8 +24,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17976981",
-                "timeupdated": "1744027217"
+                "buildid": "18103058",
+                "timeupdated": "1744889326"
             }
         },
         "privatebranches": "1"
