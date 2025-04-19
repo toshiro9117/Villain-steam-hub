@@ -4,33 +4,33 @@
     "name": "双雄风流传（Romantic Emperor）",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28320150",
-    "update_time": "2025-04-05 11:31:57",
+    "change_number": "28525503",
+    "update_time": "2025-04-17 17:12:30",
     "depot": {
         "3550261": {
             "manifests": {
                 "public": {
-                    "gid": "673109539345206913",
-                    "size": "1933668527",
-                    "download": "421457632"
+                    "gid": "7266154132150210187",
+                    "size": "1950261238",
+                    "download": "434984192"
                 },
                 "test": {
-                    "gid": "673109539345206913",
-                    "size": "1933668527",
-                    "download": "421457632"
+                    "gid": "7266154132150210187",
+                    "size": "1950261238",
+                    "download": "434984192"
                 }
             },
             "decryptionkey": "d589ee7b53e966d702f9e70c1cc3e2e872c131a1010e751ed2c44c71c354b015"
         },
         "branches": {
             "public": {
-                "buildid": "17964020",
-                "timeupdated": "1743661319"
+                "buildid": "18138029",
+                "timeupdated": "1744859813"
             },
             "test": {
-                "buildid": "17964020",
+                "buildid": "18138029",
                 "description": "测试分支",
-                "timeupdated": "1743650529"
+                "timeupdated": "1744858364"
             }
         }
     }
