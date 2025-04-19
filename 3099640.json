@@ -1,0 +1,28 @@
+{
+    "appid": "3099640",
+    "type": "Game",
+    "name": "Academy Love Saga: Tennis Angels EX",
+    "schinese_name": "网球天使EX",
+    "isfreeapp": "0",
+    "change_number": "28541250",
+    "update_time": "2025-04-18 09:55:57",
+    "depot": {
+        "3099641": {
+            "manifests": {
+                "public": {
+                    "gid": "8158388734039468610",
+                    "size": "1578217702",
+                    "download": "1057857008"
+                }
+            },
+            "decryptionkey": "b2ed6e538d382e74368f191954ef92eb4d9474d31615eb3471422e6bbceab1e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18162504",
+                "timeupdated": "1745014963"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
