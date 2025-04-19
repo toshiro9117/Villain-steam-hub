@@ -4,8 +4,8 @@
     "name": "3dSen",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27511451",
-    "update_time": "2025-02-17 16:02:13",
+    "change_number": "28503440",
+    "update_time": "2025-04-16 16:10:56",
     "depot": {
         "1147941": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "217788186",
                     "download": "64781040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1147943": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "212650753",
                     "download": "59888992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
