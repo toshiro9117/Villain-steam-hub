@@ -4,8 +4,8 @@
     "name": "The Falconeer",
     "schinese_name": "空战猎鹰",
     "isfreeapp": "0",
-    "change_number": "28345755",
-    "update_time": "2025-04-07 20:45:04",
+    "change_number": "28537895",
+    "update_time": "2025-04-18 04:50:19",
     "depot": {
         "hasdepotsindlc": "1",
         "1135261": {
@@ -35,8 +35,7 @@
                     "size": "1232379017",
                     "download": "849506752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
