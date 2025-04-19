@@ -4,8 +4,8 @@
     "name": "Borderlands 2 VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28211497",
-    "update_time": "2025-03-30 10:15:55",
+    "change_number": "28366672",
+    "update_time": "2025-04-08 21:43:40",
     "depot": {
         "228983": {
             "config": {
@@ -73,7 +73,7 @@
                     "download": "602401664"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1147224f62bac402a19d38b9d90523d13a0bd405840ab0e5b5c2002c1fdf765b"
         },
         "991265": {
             "config": {
@@ -172,7 +172,7 @@
                     "download": "1376057520"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "364759724e505695c0259a7147cfffc94dae610956e02e203e3b4497fb93cb0e"
         },
         "1046903": {
             "dlcappid": "1046900",
