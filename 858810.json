@@ -4,8 +4,8 @@
     "name": "Dawn of Man",
     "schinese_name": "人类黎明",
     "isfreeapp": "0",
-    "change_number": "28208717",
-    "update_time": "2025-03-30 02:52:12",
+    "change_number": "28483848",
+    "update_time": "2025-04-15 17:35:36",
     "depot": {
         "baselanguages": "english,german,french,spanish",
         "workshopdepot": "858810",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5792633929551362354",
-                    "size": "1956973850",
-                    "download": "1093782016"
+                    "gid": "2663283874666786259",
+                    "size": "1957207298",
+                    "download": "1093905152"
                 },
                 "experimental": {
-                    "gid": "5792633929551362354",
-                    "size": "1956973850",
-                    "download": "1093782016"
+                    "gid": "2663283874666786259",
+                    "size": "1957207298",
+                    "download": "1093905152"
                 }
             },
             "decryptionkey": "4d48f5ab34027a5f10f343fe3bc5534b0d98e11096526cdfd5ba1343f242ec56"
@@ -35,30 +35,30 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2860999147742183105",
-                    "size": "1950318370",
-                    "download": "1092863696"
+                    "gid": "6387283693940592409",
+                    "size": "1950434107",
+                    "download": "1092960736"
                 },
                 "experimental": {
-                    "gid": "2860999147742183105",
-                    "size": "1950318370",
-                    "download": "1092863696"
+                    "gid": "6387283693940592409",
+                    "size": "1950434107",
+                    "download": "1092960736"
                 }
             },
             "decryptionkey": "0236c27bb148aea7260528d2e2eb2dfd1b0a5e80db2956b7495e802be6806ec5"
         },
         "branches": {
             "public": {
-                "buildid": "13810568",
-                "timeupdated": "1714387358"
+                "buildid": "18109879",
+                "timeupdated": "1744709732"
             },
             "experimental": {
-                "buildid": "13810568",
+                "buildid": "18109879",
                 "description": "Experimental versions",
-                "timeupdated": "1711027450"
+                "timeupdated": "1744709711"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "cab80d4065b0fb0eb10b3003c0f495f81f99b6e7dc75e880a72f0789137ce47c"
     }
 }
