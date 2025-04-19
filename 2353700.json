@@ -4,8 +4,8 @@
     "name": "Realms Of Bondage",
     "schinese_name": "奴役的秘境",
     "isfreeapp": "0",
-    "change_number": "28159836",
-    "update_time": "2025-03-27 08:07:27",
+    "change_number": "28493847",
+    "update_time": "2025-04-16 03:00:30",
     "depot": {
         "baselanguages": "english,french,schinese,russian,japanese",
         "2353701": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4154821071667505652",
-                    "size": "4340294141",
-                    "download": "620750736"
+                    "gid": "4284904953770398531",
+                    "size": "4283647542",
+                    "download": "609032080"
                 }
             },
             "decryptionkey": "fb52003befaf17bcdb04d384abc7b94faf7ed07243c61d863339d925fb03b828"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "99311507274495801",
-                    "size": "4382973748",
-                    "download": "621397312"
+                    "gid": "8068924970966979601",
+                    "size": "4326327124",
+                    "download": "609695584"
                 }
             },
             "decryptionkey": "4d812dc976034ebbd549fa60401d5b1b1235b7eab7a371901b03838a0977d429"
         },
         "branches": {
             "public": {
-                "buildid": "16993954",
-                "timeupdated": "1736833204"
+                "buildid": "18048748",
+                "timeupdated": "1744243370"
             }
         }
     }
