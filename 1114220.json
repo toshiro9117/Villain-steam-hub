@@ -4,8 +4,8 @@
     "name": "Gedonia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28235101",
-    "update_time": "2025-04-01 03:50:29",
+    "change_number": "28503440",
+    "update_time": "2025-04-16 16:10:57",
     "depot": {
         "1114221": {
             "config": {
@@ -29,6 +29,6 @@
                 "timeupdated": "1734074040"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "cb6661de4088401eecc5f58edaadd5a53db28b4e7f943778ad22ab4cebdcc558"
     }
 }
