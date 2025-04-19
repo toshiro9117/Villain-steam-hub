@@ -4,8 +4,8 @@
     "name": "CyberHive",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27966780",
-    "update_time": "2025-03-15 07:23:00",
+    "change_number": "28526198",
+    "update_time": "2025-04-17 17:53:09",
     "depot": {
         "baselanguages": "english",
         "1252391": {
@@ -33,8 +33,7 @@
                     "size": "244248868",
                     "download": "78937680"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1252393": {
             "config": {
@@ -47,8 +46,7 @@
                     "size": "199378556",
                     "download": "79042720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
