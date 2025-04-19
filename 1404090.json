@@ -1,0 +1,56 @@
+{
+    "appid": "1404090",
+    "type": "Game",
+    "name": "Trivia Tricks",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28498541",
+    "update_time": "2025-04-16 09:12:06",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1404090",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1404091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "156722457627742556",
+                    "size": "847097581",
+                    "download": "567697264"
+                }
+            },
+            "decryptionkey": "36c2c48f1f620334b5145190429e07af09cd2cf5a2596de9214db7178eb0e8ce"
+        },
+        "1404092": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "17395484",
+                "timeupdated": "1740247010"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8eaf2f491b5e2865aa02729d0f85e7089dd18e0cc6a5c427aabd4dd816a0e96d"
+    }
+}
