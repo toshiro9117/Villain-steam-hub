@@ -4,8 +4,8 @@
     "name": "Empires of the Undergrowth",
     "schinese_name": "地下蚁国 Empires of the Undergrowth",
     "isfreeapp": "0",
-    "change_number": "28293303",
-    "update_time": "2025-04-04 00:57:30",
+    "change_number": "28529808",
+    "update_time": "2025-04-17 21:25:47",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -75,8 +75,7 @@
                     "size": "3553255409",
                     "download": "3368202000"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3402630": {
             "dlcappid": "3402630",
@@ -105,8 +104,7 @@
                     "size": "1975009462",
                     "download": "1557934464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3402420": {
             "dlcappid": "3402420",
@@ -135,8 +133,7 @@
                     "size": "158169921",
                     "download": "154919040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
