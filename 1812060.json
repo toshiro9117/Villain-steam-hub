@@ -4,8 +4,8 @@
     "name": "Yokai Art: Night Parade of One Hundred Demons",
     "schinese_name": "妖谈：百鬼夜行",
     "isfreeapp": "0",
-    "change_number": "27950991",
-    "update_time": "2025-03-14 15:39:11",
+    "change_number": "28517901",
+    "update_time": "2025-04-17 07:04:21",
     "depot": {
         "hasdepotsindlc": "1",
         "1812061": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "42417520956277412",
-                    "size": "3506315408",
-                    "download": "869097456"
+                    "gid": "5515163534702823694",
+                    "size": "3516412808",
+                    "download": "872140816"
                 },
                 "buildx32": {
                     "gid": "7638189062527402399",
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16625301",
-                "timeupdated": "1733363898"
+                "buildid": "18093772",
+                "timeupdated": "1744619413"
             },
             "buildx32": {
                 "buildid": "9890068",
