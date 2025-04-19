@@ -4,8 +4,8 @@
     "name": "Moving Letters",
     "schinese_name": "移动字母",
     "isfreeapp": "0",
-    "change_number": "28259881",
-    "update_time": "2025-04-02 10:26:24",
+    "change_number": "28495761",
+    "update_time": "2025-04-16 05:25:24",
     "depot": {
         "1430121": {
             "config": {
@@ -49,8 +49,7 @@
                     "size": "460482655",
                     "download": "216208624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1430124": {
             "config": {
@@ -64,8 +63,7 @@
                     "size": "455955912",
                     "download": "220858000"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1430125": {
             "config": {
@@ -79,8 +77,7 @@
                     "size": "469415132",
                     "download": "231379744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
