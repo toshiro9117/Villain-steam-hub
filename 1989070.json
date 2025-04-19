@@ -4,8 +4,8 @@
     "name": "Synergy",
     "schinese_name": "奇星协力 (Synergy)",
     "isfreeapp": "0",
-    "change_number": "28344820",
-    "update_time": "2025-04-07 19:44:40",
+    "change_number": "28549872",
+    "update_time": "2025-04-18 21:15:58",
     "depot": {
         "1989071": {
             "config": {
@@ -14,14 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7661005028401971809",
-                    "size": "4123399455",
-                    "download": "825614544"
+                    "gid": "3686465815565521544",
+                    "size": "4077582926",
+                    "download": "888533248"
                 },
                 "release_0.4": {
                     "gid": "7466377835444119342",
                     "size": "4122334883",
                     "download": "819510448"
+                },
+                "release_0.5": {
+                    "gid": "7661005028401971809",
+                    "size": "4123399455",
+                    "download": "825614544"
                 },
                 "release_0.3": {
                     "gid": "842185153725942331",
@@ -47,14 +52,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1946000491241216685",
-                    "size": "4173088318",
-                    "download": "836760288"
+                    "gid": "4683887570256219439",
+                    "size": "4108488993",
+                    "download": "893466352"
                 },
                 "release_0.4": {
                     "gid": "613889579733853346",
                     "size": "4172042922",
                     "download": "830596864"
+                },
+                "release_0.5": {
+                    "gid": "1946000491241216685",
+                    "size": "4173088318",
+                    "download": "836760288"
                 },
                 "release_0.3": {
                     "gid": "7654246701304407163",
@@ -87,6 +97,11 @@
                     "size": "341071533",
                     "download": "334546416"
                 },
+                "release_0.5": {
+                    "gid": "5851144457067261337",
+                    "size": "341071533",
+                    "download": "334546416"
+                },
                 "release_0.3": {
                     "gid": "5851144457067261337",
                     "size": "341071533",
@@ -107,13 +122,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17514109",
-                "timeupdated": "1740585745"
+                "buildid": "18157797",
+                "timeupdated": "1744982153"
             },
             "release_0.4": {
                 "buildid": "16698853",
                 "description": "Synergy 0.4",
                 "timeupdated": "1738842197"
+            },
+            "release_0.5": {
+                "buildid": "17514109",
+                "description": "Synergy 0.5",
+                "timeupdated": "1744294950"
             },
             "release_0.3": {
                 "buildid": "15967475",
