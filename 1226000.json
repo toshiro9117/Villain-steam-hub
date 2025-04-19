@@ -4,8 +4,8 @@
     "name": "Nations At War Digital: Core Game",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25594362",
-    "update_time": "2024-10-09 00:51:11",
+    "change_number": "28436810",
+    "update_time": "2025-04-12 04:07:57",
     "depot": {
         "1226001": {
             "config": {
@@ -107,8 +107,7 @@
                     "size": "40",
                     "download": "96"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1226006": {
             "dlcappid": "1243841",
@@ -128,8 +127,7 @@
                     "size": "45",
                     "download": "96"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
