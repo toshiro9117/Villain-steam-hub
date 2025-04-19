@@ -4,8 +4,8 @@
     "name": "Void Stranger",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27373142",
-    "update_time": "2025-02-08 08:17:38",
+    "change_number": "28542056",
+    "update_time": "2025-04-18 11:08:49",
     "depot": {
         "2121981": {
             "manifests": {
@@ -20,9 +20,9 @@
                     "download": "228748592"
                 },
                 "open_beta": {
-                    "gid": "5296775019770307860",
-                    "size": "316354804",
-                    "download": "240182832"
+                    "gid": "3582290821360399362",
+                    "size": "316422516",
+                    "download": "240200576"
                 }
             },
             "decryptionkey": "0b512dd421c449a8b727810e948ae4d41c3e15cc0184b0dcd1a00b86df251c7f"
@@ -39,9 +39,9 @@
                 "timeupdated": "1713976511"
             },
             "open_beta": {
-                "buildid": "14876710",
-                "description": "Version 1.1.1",
-                "timeupdated": "1719608850"
+                "buildid": "18161384",
+                "description": "Version 1.1.2 testing",
+                "timeupdated": "1745004947"
             }
         },
         "privatebranches": "1"
