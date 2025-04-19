@@ -4,8 +4,8 @@
     "name": "RPG Maker VX Ace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28252617",
-    "update_time": "2025-04-02 00:42:56",
+    "change_number": "28533841",
+    "update_time": "2025-04-18 00:41:49",
     "depot": {
         "overridescddb": "1",
         "preloadonly": "1",
@@ -6645,9 +6645,9 @@
             "dlcappid": "2408390",
             "manifests": {
                 "public": {
-                    "gid": "1061468544304935866",
-                    "size": "19304762",
-                    "download": "6792352"
+                    "gid": "1002210131002979931",
+                    "size": "12995314",
+                    "download": "6851024"
                 }
             },
             "decryptionkey": ""
@@ -6656,9 +6656,9 @@
             "dlcappid": "2408400",
             "manifests": {
                 "public": {
-                    "gid": "2829491185537692413",
-                    "size": "20411745",
-                    "download": "7108016"
+                    "gid": "4547194937835057475",
+                    "size": "13742358",
+                    "download": "7174240"
                 }
             },
             "decryptionkey": ""
@@ -6667,9 +6667,9 @@
             "dlcappid": "2408410",
             "manifests": {
                 "public": {
-                    "gid": "8294993958234343392",
-                    "size": "23661883",
-                    "download": "8224416"
+                    "gid": "5143080391191320813",
+                    "size": "15930892",
+                    "download": "8306464"
                 }
             },
             "decryptionkey": ""
@@ -7118,9 +7118,9 @@
             "dlcappid": "3409030",
             "manifests": {
                 "public": {
-                    "gid": "2202784238278842272",
-                    "size": "1492708",
-                    "download": "1023264"
+                    "gid": "3184548499189455937",
+                    "size": "1399165",
+                    "download": "973648"
                 }
             },
             "decryptionkey": ""
@@ -7224,10 +7224,32 @@
             },
             "decryptionkey": ""
         },
+        "3608910": {
+            "dlcappid": "3608910",
+            "manifests": {
+                "public": {
+                    "gid": "5790295677416597106",
+                    "size": "64055097",
+                    "download": "64147296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3608890": {
+            "dlcappid": "3608890",
+            "manifests": {
+                "public": {
+                    "gid": "5950052221924462744",
+                    "size": "2091981",
+                    "download": "1526448"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17942578",
-                "timeupdated": "1743525771"
+                "buildid": "18146967",
+                "timeupdated": "1744908104"
             },
             "original": {
                 "buildid": "6173484",
