@@ -4,16 +4,16 @@
     "name": "Nucleares",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27806315",
-    "update_time": "2025-03-06 10:08:51",
+    "change_number": "28475956",
+    "update_time": "2025-04-15 06:52:09",
     "depot": {
         "baselanguages": "english,latam",
         "1428421": {
             "manifests": {
                 "public": {
-                    "gid": "7160266722278539415",
-                    "size": "2350122961",
-                    "download": "1791950816"
+                    "gid": "9033548380490956841",
+                    "size": "3396573294",
+                    "download": "2735694960"
                 }
             },
             "decryptionkey": "ac43af7109101c47a87ace9779caefb38f41bc5c97d6e7c9eb8e76652939e6c9"
@@ -27,12 +27,12 @@
                     "download": "45816688"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bb3ddd9cc724263241d5b868d6bb32ffba6ecf59a4f9527aee50d5c2779bbd5f"
         },
         "branches": {
             "public": {
-                "buildid": "17594032",
-                "timeupdated": "1741117751"
+                "buildid": "18105751",
+                "timeupdated": "1744671126"
             }
         }
     }
