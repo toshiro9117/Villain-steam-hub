@@ -4,8 +4,8 @@
     "name": "Brocula",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27519923",
-    "update_time": "2025-02-18 01:14:07",
+    "change_number": "28459778",
+    "update_time": "2025-04-14 12:07:53",
     "depot": {
         "1364741": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "422348888",
                     "download": "93222368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1364743": {
             "config": {
@@ -47,8 +46,7 @@
                     "size": "451706242",
                     "download": "95438720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
