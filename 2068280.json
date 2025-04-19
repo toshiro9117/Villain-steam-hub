@@ -4,8 +4,8 @@
     "name": "Nordic Ashes",
     "schinese_name": "北欧的灰烬：诸神黄昏幸存者",
     "isfreeapp": "0",
-    "change_number": "28310212",
-    "update_time": "2025-04-04 22:12:22",
+    "change_number": "28547072",
+    "update_time": "2025-04-18 17:56:45",
     "depot": {
         "hasdepotsindlc": "0",
         "2068281": {
@@ -83,8 +83,7 @@
                     "size": "100180",
                     "download": "101552"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3312222": {
             "dlcappid": "3312220",
@@ -97,8 +96,7 @@
                     "size": "100019",
                     "download": "101408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
