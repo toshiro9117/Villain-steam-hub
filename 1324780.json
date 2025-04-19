@@ -4,8 +4,8 @@
     "name": "Easy Red 2",
     "schinese_name": "易红2",
     "isfreeapp": "0",
-    "change_number": "28322117",
-    "update_time": "2025-04-05 17:01:06",
+    "change_number": "28549885",
+    "update_time": "2025-04-18 21:16:42",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
         "workshopdepot": "1324780",
@@ -26,9 +26,9 @@
                     "download": "7632867200"
                 },
                 "publicbeta": {
-                    "gid": "2139013339974789334",
-                    "size": "17327260977",
-                    "download": "7644568544"
+                    "gid": "3120564098524027256",
+                    "size": "17178653063",
+                    "download": "7643868128"
                 }
             },
             "decryptionkey": "8a121832d20574941b7d7e7eb4a34323c9ebe72338fc859080aac679b74bd78c"
@@ -49,9 +49,9 @@
                     "download": "7653848912"
                 },
                 "publicbeta": {
-                    "gid": "7003618389721059668",
-                    "size": "17363527285",
-                    "download": "7665010016"
+                    "gid": "3544321026561362164",
+                    "size": "17215025299",
+                    "download": "7661480416"
                 }
             },
             "decryptionkey": "4540b21d37c237bc72c6a5b2c3c1202a48b56a5e2bd9b7e8aed3e2112f87042c"
@@ -72,9 +72,9 @@
                     "download": "7629546112"
                 },
                 "publicbeta": {
-                    "gid": "6243664176317691731",
-                    "size": "17284954227",
-                    "download": "7641323472"
+                    "gid": "2183492789027705606",
+                    "size": "17136435940",
+                    "download": "7639575072"
                 }
             },
             "decryptionkey": "3e04baca8a855c9d1936a84667b80691d3a021d9b24927ff2f32a45f46d18b99"
@@ -90,12 +90,12 @@
                 "timeupdated": "1743843620"
             },
             "publicbeta": {
-                "buildid": "17984896",
+                "buildid": "18157964",
                 "description": "Public beta for easy red 2 - expect some bugs",
-                "timeupdated": "1743771264"
+                "timeupdated": "1744982184"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9c2fd69454514ddde97c26fb0212ca728b182427f101e9d4f5cdf8ac40462f29"
     }
 }
