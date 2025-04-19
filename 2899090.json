@@ -4,23 +4,23 @@
     "name": "Pushing It! With Sisyphus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27521773",
-    "update_time": "2025-02-18 03:13:59",
+    "change_number": "28541536",
+    "update_time": "2025-04-18 10:21:26",
     "depot": {
         "2899091": {
             "manifests": {
                 "public": {
-                    "gid": "8805602861101085631",
-                    "size": "3182575483",
-                    "download": "1215597472"
+                    "gid": "4513193011458453904",
+                    "size": "3176637296",
+                    "download": "1215905136"
                 }
             },
             "decryptionkey": "fa3b156c2a5f4fba522cca5c5caaae4b1745d05fdbc01ae69324bd24bbc178d7"
         },
         "branches": {
             "public": {
-                "buildid": "15909103",
-                "timeupdated": "1727911204"
+                "buildid": "18035513",
+                "timeupdated": "1744215453"
             }
         }
     }
