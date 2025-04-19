@@ -4,8 +4,8 @@
     "name": "Demeo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344908",
-    "update_time": "2025-04-07 19:49:36",
+    "change_number": "28525590",
+    "update_time": "2025-04-17 17:18:05",
     "depot": {
         "1484281": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6002580357318334304",
-                    "size": "4048950042",
-                    "download": "3691724928"
+                    "gid": "5206939110815125993",
+                    "size": "4376623541",
+                    "download": "3755191696"
                 }
             },
             "decryptionkey": "aaa814ad1a235312ae0274245cf6cd361dc8c3e7dda76ea0f4a3d19ae1937fcc"
@@ -26,17 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4678835472774935650",
-                    "size": "3649560405",
-                    "download": "3330844992"
+                    "gid": "4093159432768360918",
+                    "size": "5528048434",
+                    "download": "3303805728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "14484427",
-                "timeupdated": "1716567930"
+                "buildid": "18140611",
+                "timeupdated": "1744881481"
             }
         },
         "privatebranches": "1"
