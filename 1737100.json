@@ -4,8 +4,8 @@
     "name": "Treasure of Nadia",
     "schinese_name": "纳迪亚之宝",
     "isfreeapp": "0",
-    "change_number": "27527444",
-    "update_time": "2025-02-18 11:53:03",
+    "change_number": "28438677",
+    "update_time": "2025-04-12 06:55:42",
     "depot": {
         "1737101": {
             "config": {
@@ -99,7 +99,7 @@
                     "download": "7929042784"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4ed561a94e3c6365842c92df21db66498c8d98ac0d5109fe29c220fdb0b7c8c4"
         },
         "1737108": {
             "config": {
@@ -115,10 +115,62 @@
             },
             "decryptionkey": ""
         },
+        "1737109": {
+            "config": {
+                "language": "spanish",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5167916737308890384",
+                    "size": "9684855697",
+                    "download": "7935510368"
+                }
+            }
+        },
+        "3556190": {
+            "config": {
+                "language": "spanish",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3239086291746447823",
+                    "size": "9384988886",
+                    "download": "7930710688"
+                }
+            }
+        },
+        "3556191": {
+            "config": {
+                "language": "french",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3696046466131530910",
+                    "size": "10305069250",
+                    "download": "8342588768"
+                }
+            }
+        },
+        "3556192": {
+            "config": {
+                "language": "french",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8841794717628277596",
+                    "size": "10005202439",
+                    "download": "8338180832"
+                }
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "17401847",
-                "timeupdated": "1739850778"
+                "buildid": "17522226",
+                "timeupdated": "1740615533"
             }
         },
         "privatebranches": "1"
