@@ -1,0 +1,31 @@
+{
+    "appid": "3314340",
+    "type": "Game",
+    "name": "Burgie's cozy kitchen",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28527783",
+    "update_time": "2025-04-17 19:28:29",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3314342": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6724394696501737059",
+                    "size": "280258016",
+                    "download": "70843040"
+                }
+            },
+            "decryptionkey": "4a553b925ea338f09b056513e1f0feeb7aea85a2ae975aa82cbc38b5019bf985"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18116403",
+                "timeupdated": "1744734552"
+            }
+        }
+    }
+}
