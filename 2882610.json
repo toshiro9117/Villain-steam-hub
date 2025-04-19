@@ -1,0 +1,42 @@
+{
+    "appid": "2882610",
+    "type": "Game",
+    "name": "Confronted",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28526747",
+    "update_time": "2025-04-17 18:25:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2882611": {
+            "manifests": {
+                "public": {
+                    "gid": "5936527381549286120",
+                    "size": "2847546404",
+                    "download": "2656432688"
+                }
+            },
+            "decryptionkey": "77bb699ee2ac995d1f3dbc1b1944376afc8206e199ff52046efbd82dfd07b382"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18141856",
+                "timeupdated": "1744885499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
