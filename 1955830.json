@@ -4,17 +4,17 @@
     "name": "Touhou Hero of Ice Fairy",
     "schinese_name": "东方冰之勇者记",
     "isfreeapp": "0",
-    "change_number": "28345529",
-    "update_time": "2025-04-07 20:30:21",
+    "change_number": "28549816",
+    "update_time": "2025-04-18 21:11:54",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "1955831": {
             "manifests": {
                 "public": {
-                    "gid": "6014438085992687587",
-                    "size": "2881365567",
-                    "download": "2803707936"
+                    "gid": "3911879514585496013",
+                    "size": "2891536744",
+                    "download": "2811112352"
                 },
                 "test": {
                     "gid": "7722196780920739056",
@@ -26,8 +26,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17994062",
-                "timeupdated": "1743848715"
+                "buildid": "18157947",
+                "timeupdated": "1744981909"
             },
             "test": {
                 "buildid": "17974387",
