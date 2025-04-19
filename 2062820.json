@@ -1,0 +1,42 @@
+{
+    "appid": "2062820",
+    "type": "Game",
+    "name": "Backroom Beyond",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28415584",
+    "update_time": "2025-04-11 04:10:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2062821": {
+            "manifests": {
+                "public": {
+                    "gid": "6415029977565490272",
+                    "size": "2620163653",
+                    "download": "2457286080"
+                }
+            },
+            "decryptionkey": "26dfb78631e9958fb3c97ce0c40ce3b4740d57e00fc49bc718ed346da8d0d8ec"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "11496766",
+                "timeupdated": "1687026612"
+            }
+        }
+    }
+}
