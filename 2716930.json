@@ -4,8 +4,8 @@
     "name": "The Emperor and State",
     "schinese_name": "皇帝与社稷",
     "isfreeapp": "0",
-    "change_number": "28344396",
-    "update_time": "2025-04-07 19:16:33",
+    "change_number": "28547138",
+    "update_time": "2025-04-18 18:01:36",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -31,6 +31,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4d683fa3a0504ee6e9b58b043f98c3100d562d751048a03ab8d0518335fbc9a4"
     }
 }
