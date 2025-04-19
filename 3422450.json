@@ -4,8 +4,8 @@
     "name": "Stray of Lost Cat",
     "schinese_name": "迷途猫的灵魂碎片",
     "isfreeapp": "0",
-    "change_number": "28341298",
-    "update_time": "2025-04-07 15:54:00",
+    "change_number": "28541571",
+    "update_time": "2025-04-18 10:24:00",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6404519562500508931",
-                    "size": "1900221327",
-                    "download": "755814448"
+                    "gid": "2496227423068076330",
+                    "size": "1900266678",
+                    "download": "755816720"
                 }
             },
             "decryptionkey": "bb50c3368640da453d133afbc069a9999808178f58a9f47936bf9fca42b41a6a"
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3026115417255942469",
-                    "size": "1924832943",
-                    "download": "763575696"
+                    "gid": "3486540818610564204",
+                    "size": "1924838199",
+                    "download": "763575312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3463990": {
             "dlcappid": "3463990",
@@ -49,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17762550",
-                "timeupdated": "1742286758"
+                "buildid": "18036286",
+                "timeupdated": "1744178330"
             }
         }
     }
