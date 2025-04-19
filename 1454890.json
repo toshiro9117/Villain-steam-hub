@@ -4,8 +4,8 @@
     "name": "Titanfall™",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28298472",
-    "update_time": "2025-04-04 07:01:50",
+    "change_number": "28492365",
+    "update_time": "2025-04-16 01:26:03",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,brazilian",
@@ -179,9 +179,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "8338176014021574110",
-                    "size": "236555927",
-                    "download": "238692112"
+                    "gid": "3719635244465684485",
+                    "size": "234968631",
+                    "download": "237087072"
                 }
             },
             "depotfromapp": "3340990",
