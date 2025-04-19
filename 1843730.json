@@ -4,8 +4,8 @@
     "name": "Last Group Out",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28326286",
-    "update_time": "2025-04-06 03:21:32",
+    "change_number": "28544242",
+    "update_time": "2025-04-18 14:46:48",
     "depot": {
         "1843731": {
             "config": {
@@ -14,14 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8245459498309952689",
-                    "size": "444310055",
-                    "download": "98538720"
-                },
-                "beta": {
-                    "gid": "2467791764216162186",
-                    "size": "444427359",
-                    "download": "98544208"
+                    "gid": "5107015727831951085",
+                    "size": "445062783",
+                    "download": "98720352"
                 },
                 "classicmode": {
                     "gid": "5806447311636740743",
@@ -33,13 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17987506",
-                "timeupdated": "1743782378"
-            },
-            "beta": {
-                "buildid": "17993892",
-                "description": "Faction Test",
-                "timeupdated": "1743831681"
+                "buildid": "18154157",
+                "timeupdated": "1744958803"
             },
             "classicmode": {
                 "buildid": "15310745",
