@@ -1,0 +1,45 @@
+{
+    "appid": "3216040",
+    "type": "DLC",
+    "name": "さいはて駅",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548668",
+    "update_time": "2025-04-18 19:45:25",
+    "depot": {
+        "3216040": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "3216040",
+            "manifests": {
+                "public": {
+                    "gid": "3595343847495513518",
+                    "size": "994398996",
+                    "download": "602435824"
+                }
+            },
+            "decryptionkey": "26255c51d6e5628fc23d56de7435d9f494135bc7ac03b5ef821e3fe4d7787626"
+        },
+        "3216041": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4702609325984211387",
+                    "size": "1106692454",
+                    "download": "588006784"
+                }
+            },
+            "dlcappid": "3216040"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18155891",
+                "timeupdated": "1744968043"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
