@@ -4,8 +4,8 @@
     "name": "Kurisu",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26546474",
-    "update_time": "2024-12-08 20:48:40",
+    "change_number": "28454373",
+    "update_time": "2025-04-13 23:46:27",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese",
         "3034461": {
@@ -15,12 +15,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7898929425114316416",
-                    "size": "564180429",
-                    "download": "170049904"
+                    "gid": "1184677653632349107",
+                    "size": "520077325",
+                    "download": "158174016"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3034463": {
             "config": {
@@ -29,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8492827000242324318",
-                    "size": "384600973",
-                    "download": "118165264"
+                    "gid": "1626140893485881661",
+                    "size": "384646337",
+                    "download": "118171568"
                 }
             },
             "decryptionkey": "fd983c6514d92da8b503b4ac971161da96e06c62b8ec5477250b3d221e1cdf3f"
@@ -43,18 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2380822139350403038",
-                    "size": "367649947",
-                    "download": "109723760"
+                    "gid": "7933053544293738248",
+                    "size": "367695311",
+                    "download": "109730048"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "3034460",
         "branches": {
             "public": {
-                "buildid": "16672356",
-                "timeupdated": "1733662116"
+                "buildid": "18090407",
+                "timeupdated": "1744559184"
             }
         },
         "workshopdepotdecryptionkey": "a26844792eed4752897105ad0e047021996996ea94afc03e32987068c27cb541"
