@@ -4,8 +4,8 @@
     "name": "Big Ambitions",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28319917",
-    "update_time": "2025-04-05 10:51:43",
+    "change_number": "28541806",
+    "update_time": "2025-04-18 10:47:02",
     "depot": {
         "hasdepotsindlc": "0",
         "1331551": {
@@ -50,9 +50,9 @@
                     "download": "1317372080"
                 },
                 "experimental": {
-                    "gid": "5312131649812071476",
-                    "size": "4419400161",
-                    "download": "1786289232"
+                    "gid": "3678703685864414092",
+                    "size": "4419065200",
+                    "download": "1786097568"
                 }
             },
             "decryptionkey": "f3b44da48f4335a1dad963250d348f21e38cb27fbe8264e2cd0ebf217849a089"
@@ -99,9 +99,9 @@
                     "download": "1210139472"
                 },
                 "experimental": {
-                    "gid": "484131154537638722",
-                    "size": "4218561489",
-                    "download": "1652813456"
+                    "gid": "1224289429993244418",
+                    "size": "4218262586",
+                    "download": "1652592896"
                 }
             },
             "decryptionkey": "1547279019dc793ecffc735c9690f060ed6a8c2fd0145e1e4c605b795cc423d9"
@@ -235,9 +235,9 @@
                 "timeupdated": "1734431863"
             },
             "experimental": {
-                "buildid": "17979012",
+                "buildid": "18122622",
                 "description": "Use at own risk - Unstable!",
-                "timeupdated": "1743754643"
+                "timeupdated": "1744801543"
             }
         },
         "privatebranches": "1",
