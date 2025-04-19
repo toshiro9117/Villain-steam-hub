@@ -4,23 +4,23 @@
     "name": "A Promise Best Left Unkept - Aya Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27993535",
-    "update_time": "2025-03-17 20:56:52",
+    "change_number": "28514821",
+    "update_time": "2025-04-17 03:04:12",
     "depot": {
         "2479301": {
             "manifests": {
                 "public": {
-                    "gid": "5704006707644728878",
-                    "size": "2602120956",
-                    "download": "1953136464"
+                    "gid": "2968015404652007867",
+                    "size": "2767337533",
+                    "download": "2127695792"
                 }
             },
             "decryptionkey": "c049e29b9c3052c891d0c923a2edf1782883358c664a9d86a26a4ee63531ebc9"
         },
         "branches": {
             "public": {
-                "buildid": "17648025",
-                "timeupdated": "1741457287"
+                "buildid": "17991334",
+                "timeupdated": "1743805254"
             }
         },
         "privatebranches": "1"
