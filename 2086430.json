@@ -4,8 +4,8 @@
     "name": "NIMRODS",
     "schinese_name": "NIMRODS: 枪匠幸存者",
     "isfreeapp": "0",
-    "change_number": "28327064",
-    "update_time": "2025-04-06 05:23:04",
+    "change_number": "28548810",
+    "update_time": "2025-04-18 19:57:14",
     "depot": {
         "2086432": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "1134632019",
                     "download": "251438560"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2086431": {
             "config": {
