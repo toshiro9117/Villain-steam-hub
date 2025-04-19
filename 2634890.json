@@ -4,8 +4,8 @@
     "name": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
     "schinese_name": "漫威 VS. 卡普空 格斗合集：街机经典游戏",
     "isfreeapp": "0",
-    "change_number": "28120910",
-    "update_time": "2025-03-25 10:12:11",
+    "change_number": "28500937",
+    "update_time": "2025-04-16 13:00:05",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "2634891": {
             "manifests": {
                 "public": {
-                    "gid": "5305727353382828783",
-                    "size": "3545426527",
-                    "download": "3526007392"
+                    "gid": "1554355195164529266",
+                    "size": "3618677684",
+                    "download": "3610706208"
                 }
             },
             "decryptionkey": "4c7a817aabbebeea28ec8bb1971e5e91a388c7b617485eb2cf399d782c4124eb"
@@ -27,8 +27,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "15737336",
-                "timeupdated": "1726819806"
+                "buildid": "17585219",
+                "timeupdated": "1744779602"
             }
         },
         "privatebranches": "1"
