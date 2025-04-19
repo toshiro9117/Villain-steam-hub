@@ -4,8 +4,8 @@
     "name": "Operation: Harsh Doorstop",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28339617",
-    "update_time": "2025-04-07 13:10:20",
+    "change_number": "28489458",
+    "update_time": "2025-04-15 22:55:24",
     "depot": {
         "workshopdepot": "736590",
         "hasdepotsindlc": "0",
@@ -30,7 +30,8 @@
                     "size": "53231598576",
                     "download": "20513858512"
                 }
-            }
+            },
+            "decryptionkey": "d824bdacf3a6af9ddc2d2074f44ca51e60066c2f0586a1d054e3589d7996adb3"
         },
         "2605190": {
             "dlcappid": "2605190",
@@ -58,6 +59,7 @@
                 "timeupdated": "1742976794"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d164c72ab5ce8a064166e5b09eadff32df96b2a0020fb9abd271e0cb6c1b5ff4"
     }
 }
