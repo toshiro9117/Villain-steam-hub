@@ -4,8 +4,8 @@
     "name": "Indiana Jones and the Great Circle",
     "schinese_name": "夺宝奇兵：古老之圈 ",
     "isfreeapp": "0",
-    "change_number": "28341579",
-    "update_time": "2025-04-07 16:13:18",
+    "change_number": "28528907",
+    "update_time": "2025-04-17 20:37:12",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5649618929513161339",
-                    "size": "120339387855",
-                    "download": "112048670832"
+                    "gid": "973934608139976892",
+                    "size": "121221684365",
+                    "download": "112944218992"
                 }
             },
             "decryptionkey": "0abf0860b7a1d53e5ae7b3ed8d7e97e668fa5619be6a6ad74c140c53871868bd"
@@ -32,9 +32,9 @@
         "2677662": {
             "manifests": {
                 "public": {
-                    "gid": "4053064344217040171",
-                    "size": "408335967",
-                    "download": "185642352"
+                    "gid": "5854767364270778297",
+                    "size": "409349840",
+                    "download": "185964128"
                 }
             },
             "decryptionkey": "b4089fc44110008f2b07bc97f30e298c1ae457fa69964cdb239f480259baec84"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2740193442623755960",
-                    "size": "558959616",
-                    "download": "105922912"
+                    "gid": "4081590941759126365",
+                    "size": "559434752",
+                    "download": "106169552"
                 }
             },
             "decryptionkey": ""
@@ -56,9 +56,9 @@
         "2830501": {
             "manifests": {
                 "public": {
-                    "gid": "5687220090347415343",
-                    "size": "211033897",
-                    "download": "184066272"
+                    "gid": "6662355324070304373",
+                    "size": "213028898",
+                    "download": "185732480"
                 }
             },
             "decryptionkey": "43cf88c0f48b755f8cb8d54bf6f3a04a2ed5551120d29b81c8ae098f26edbb0e"
@@ -69,9 +69,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9038426747237720353",
-                    "size": "291432105",
-                    "download": "258507616"
+                    "gid": "5448201813523494044",
+                    "size": "294033065",
+                    "download": "260779584"
                 }
             },
             "decryptionkey": "c9fbb0008c00893bad5a3815793a4439d6a7d3ebcdc9bc6fe187a30f2ab326c7"
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5106961872755582068",
-                    "size": "302101502",
-                    "download": "269465056"
+                    "gid": "1458159576047134417",
+                    "size": "304722942",
+                    "download": "271760496"
                 }
             },
             "decryptionkey": "02d24f8070e356ac90fac5df5692432ee3e0ea0c1558e6bb78e76aade721cf68"
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1600395562308201687",
-                    "size": "300571643",
-                    "download": "267349440"
+                    "gid": "7266227290161751726",
+                    "size": "303037435",
+                    "download": "269497600"
                 }
             },
             "decryptionkey": "ab46ce36b2648707946bc7ff2e1562491060503e25487e60fcc60e4a692f5c7b"
@@ -108,9 +108,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "106934625441600184",
-                    "size": "291677555",
-                    "download": "258889136"
+                    "gid": "1342774415612904380",
+                    "size": "294118771",
+                    "download": "261003488"
                 }
             },
             "decryptionkey": "3a2de50a20a1204b2d32c00deb6b5f5082560e4e7ef80e78236b4a25299a5486"
@@ -121,9 +121,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5206258548222881393",
-                    "size": "307270946",
-                    "download": "272948864"
+                    "gid": "693980898691867769",
+                    "size": "309843234",
+                    "download": "275185616"
                 }
             },
             "decryptionkey": "1de09055224b1a241e117533dccab28c234008abe60653c30cd44f9ebf48e9f5"
@@ -134,9 +134,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4696583188438346201",
-                    "size": "296625587",
-                    "download": "259353456"
+                    "gid": "640811313163609149",
+                    "size": "298878387",
+                    "download": "261295664"
                 }
             },
             "decryptionkey": "fbde4f908358404a6544359f9c8c402bb8a40a336fb00fa92074cf4bf30143b2"
@@ -147,9 +147,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2024000678498247551",
-                    "size": "290690328",
-                    "download": "257851392"
+                    "gid": "7390468751589638582",
+                    "size": "293152024",
+                    "download": "259984192"
                 }
             },
             "decryptionkey": "f1808e29d18c4de5461e51d4e7d3f65b9a7eee466b91359150ad4588bdbbabe6"
@@ -160,17 +160,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5575100867614262946",
-                    "size": "288372186",
-                    "download": "255088528"
+                    "gid": "5248135763137395051",
+                    "size": "290805210",
+                    "download": "257195376"
                 }
             },
             "decryptionkey": "7d4266463917726e639937e41582b2ba629c710a3a415dfaea90997ffd35e241"
         },
         "branches": {
             "public": {
-                "buildid": "17512516",
-                "timeupdated": "1740754826"
+                "buildid": "18025679",
+                "timeupdated": "1744297195"
             }
         },
         "privatebranches": "1"
