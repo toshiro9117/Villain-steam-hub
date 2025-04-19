@@ -4,8 +4,8 @@
     "name": "Sports: Renovations",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333273",
-    "update_time": "2025-04-06 23:16:42",
+    "change_number": "28520792",
+    "update_time": "2025-04-17 11:11:02",
     "depot": {
         "228990": {
             "config": {
@@ -17,17 +17,17 @@
         "2230961": {
             "manifests": {
                 "public": {
-                    "gid": "421720360406387869",
-                    "size": "27171076603",
-                    "download": "9748024704"
+                    "gid": "2883697401888251531",
+                    "size": "27170025070",
+                    "download": "9748025200"
                 }
             },
             "decryptionkey": "031924117b8f51f8e10d1c4d7d69408f423496147aa4fe88dfa4601bfd5034b4"
         },
         "branches": {
             "public": {
-                "buildid": "17885283",
-                "timeupdated": "1743091082"
+                "buildid": "18091903",
+                "timeupdated": "1744815371"
             }
         },
         "privatebranches": "1"
