@@ -4,8 +4,8 @@
     "name": "Mokoko X",
     "schinese_name": "莫科科 X",
     "isfreeapp": "0",
-    "change_number": "28078793",
-    "update_time": "2025-03-22 03:13:05",
+    "change_number": "28431786",
+    "update_time": "2025-04-11 23:08:38",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -48,8 +48,7 @@
                     "size": "697054908",
                     "download": "529629088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1785004": {
             "config": {
@@ -62,8 +61,7 @@
                     "size": "911719177",
                     "download": "726247472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
