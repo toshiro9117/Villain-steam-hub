@@ -1,0 +1,131 @@
+{
+    "appid": "2105910",
+    "type": "Game",
+    "name": "Garbanzo Quest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28549663",
+    "update_time": "2025-04-18 21:01:07",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "2105910",
+        "2105911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2767808527435556598",
+                    "size": "538002135",
+                    "download": "360422992"
+                },
+                "0.6.1": {
+                    "gid": "660927343833932351",
+                    "size": "372483842",
+                    "download": "148895552"
+                },
+                "0.7.6": {
+                    "gid": "4682974581738190640",
+                    "size": "344005581",
+                    "download": "206227408"
+                },
+                "test": {
+                    "gid": "8941896537182310273",
+                    "size": "550068227",
+                    "download": "363339376"
+                }
+            },
+            "decryptionkey": "6f37c7df68861c61298f0adb97a6295ee6d2bf6461cdf769bb29ce3e14ae9e8c"
+        },
+        "2105912": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4059975983091038733",
+                    "size": "546313332",
+                    "download": "362800032"
+                },
+                "0.6.1": {
+                    "gid": "6753256018550439122",
+                    "size": "380452785",
+                    "download": "151225568"
+                },
+                "0.7.6": {
+                    "gid": "2980932115501426859",
+                    "size": "351975036",
+                    "download": "208557424"
+                },
+                "test": {
+                    "gid": "5335070008363208948",
+                    "size": "551878995",
+                    "download": "363107248"
+                }
+            }
+        },
+        "2105913": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3867606348927834181",
+                    "size": "547281339",
+                    "download": "363129952"
+                },
+                "0.6.1": {
+                    "gid": "2929527549505295240",
+                    "size": "381462382",
+                    "download": "151637792"
+                },
+                "0.7.6": {
+                    "gid": "6899248960404511020",
+                    "size": "352991721",
+                    "download": "208972160"
+                },
+                "test": {
+                    "gid": "1572479853573400614",
+                    "size": "552847002",
+                    "download": "363437248"
+                }
+            }
+        },
+        "2105914": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "test": {
+                    "gid": "3612217197058828021",
+                    "size": "543567286",
+                    "download": "360730736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16040384",
+                "timeupdated": "1728928201"
+            },
+            "0.6.1": {
+                "buildid": "10284329",
+                "description": "Legacy Release 0.6.1_196",
+                "timeupdated": "1706877727"
+            },
+            "0.7.6": {
+                "buildid": "13576899",
+                "description": "Legacy Release 0.7.6_350",
+                "timeupdated": "1725449622"
+            },
+            "test": {
+                "buildid": "18162921",
+                "description": "Testing Branch",
+                "timeupdated": "1745017375"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
