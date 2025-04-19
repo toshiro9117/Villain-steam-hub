@@ -4,8 +4,8 @@
     "name": "Romancing SaGa 2: Revenge of the Seven",
     "schinese_name": "浪漫沙加2 七英雄的复仇",
     "isfreeapp": "0",
-    "change_number": "28303668",
-    "update_time": "2025-04-04 15:30:55",
+    "change_number": "28533010",
+    "update_time": "2025-04-18 00:04:50",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8083844143022549109",
-                    "size": "21473523129",
-                    "download": "18142398832"
+                    "gid": "3682751951894722619",
+                    "size": "20995171486",
+                    "download": "17826319248"
                 }
             },
             "decryptionkey": "e203486d7b9a34f0df0728458d20a368e5abc9a4a9bcfcf7d3987af942a8be9c"
         },
         "branches": {
             "public": {
-                "buildid": "16547604",
-                "timeupdated": "1733972524"
+                "buildid": "17804876",
+                "timeupdated": "1744796098"
             }
         },
         "privatebranches": "1"
