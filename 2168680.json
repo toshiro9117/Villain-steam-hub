@@ -4,8 +4,8 @@
     "name": "Nuclear Option",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335733",
-    "update_time": "2025-04-07 04:50:19",
+    "change_number": "28549006",
+    "update_time": "2025-04-18 20:10:09",
     "depot": {
         "2168681": {
             "manifests": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "92168767b9b934989434da644520284459667f077886eb68bbaa4156f3e9633c"
     }
 }
