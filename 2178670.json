@@ -4,8 +4,8 @@
     "name": "Disminal",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28082039",
-    "update_time": "2025-03-22 08:03:22",
+    "change_number": "28514975",
+    "update_time": "2025-04-17 03:13:23",
     "depot": {
         "2178672": {
             "config": {
@@ -17,8 +17,7 @@
                     "size": "4063175923",
                     "download": "1685257472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2178673": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "4052866049",
                     "download": "1682830832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
