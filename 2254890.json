@@ -4,8 +4,8 @@
     "name": "The Killing Antidote",
     "schinese_name": "致命解药",
     "isfreeapp": "0",
-    "change_number": "28213253",
-    "update_time": "2025-03-30 16:14:51",
+    "change_number": "28468899",
+    "update_time": "2025-04-14 22:55:46",
     "depot": {
         "228989": {
             "config": {
@@ -39,6 +39,6 @@
                 "timeupdated": "1740277310"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2b61b633ed06c177f6c8ddff8eb747ace8180cbf013f81c0d854add7bcceb50b"
     }
 }
