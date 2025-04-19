@@ -4,8 +4,8 @@
     "name": "Viscerafest",
     "schinese_name": "内脏狂欢",
     "isfreeapp": "0",
-    "change_number": "28311275",
-    "update_time": "2025-04-04 23:09:17",
+    "change_number": "28540957",
+    "update_time": "2025-04-18 09:26:15",
     "depot": {
         "228990": {
             "config": {
@@ -22,6 +22,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5627032963262031162",
+                    "size": "9748935015",
+                    "download": "5250564256"
+                },
+                "2023-ea-build": {
                     "gid": "561604932601927958",
                     "size": "4129007108",
                     "download": "1494989248"
@@ -37,6 +42,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3316435881107358219",
+                    "size": "9791466762",
+                    "download": "5262882224"
+                },
+                "2023-ea-build": {
                     "gid": "7982347697380617389",
                     "size": "4139746828",
                     "download": "1499066448"
@@ -51,17 +61,26 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1067995111459545961",
+                    "size": "9799210596",
+                    "download": "5266613760"
+                },
+                "2023-ea-build": {
                     "gid": "2280807871641606097",
                     "size": "4209047750",
                     "download": "1532133632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
+                "buildid": "18152031",
+                "timeupdated": "1744985270"
+            },
+            "2023-ea-build": {
                 "buildid": "10247411",
-                "timeupdated": "1672930624"
+                "description": "Latest EA build",
+                "timeupdated": "1744815213"
             }
         },
         "privatebranches": "1"
