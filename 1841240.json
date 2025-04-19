@@ -4,8 +4,8 @@
     "name": "FOUNTAINS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28219635",
-    "update_time": "2025-03-31 08:04:42",
+    "change_number": "28542127",
+    "update_time": "2025-04-18 11:17:14",
     "depot": {
         "1841242": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "358661857",
                     "download": "190130672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1841244": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "327507605",
                     "download": "183538912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
