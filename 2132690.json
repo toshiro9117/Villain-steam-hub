@@ -4,8 +4,8 @@
     "name": "Vivat Slovakia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346771",
-    "update_time": "2025-04-07 21:49:35",
+    "change_number": "28547131",
+    "update_time": "2025-04-18 18:01:14",
     "depot": {
         "2132691": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3806599103088173187",
-                    "size": "56856039267",
-                    "download": "14085270464"
+                    "gid": "1024236452475046650",
+                    "size": "71663294454",
+                    "download": "16688056928"
                 }
             },
             "decryptionkey": "65089430108460a99f1873b6dd45308d6f6363e72b61179582cb7562e11af745"
         },
         "branches": {
             "public": {
-                "buildid": "17158029",
-                "timeupdated": "1738082765"
+                "buildid": "18149154",
+                "timeupdated": "1744920557"
             }
         },
         "privatebranches": "1"
