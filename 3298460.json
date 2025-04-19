@@ -1,0 +1,28 @@
+{
+    "appid": "3298460",
+    "type": "Game",
+    "name": "Pushing it! Together - Sisyphus Co-op",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28541536",
+    "update_time": "2025-04-18 10:21:28",
+    "depot": {
+        "3298461": {
+            "manifests": {
+                "public": {
+                    "gid": "7119024125770954842",
+                    "size": "2595814097",
+                    "download": "1313431120"
+                }
+            },
+            "decryptionkey": "ae6787b8a8070514e34870990b3546280cd1594d0c8a6e5c3857bacc39c287f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18121293",
+                "timeupdated": "1744765391"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
