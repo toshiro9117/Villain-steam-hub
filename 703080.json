@@ -4,8 +4,8 @@
     "name": "Planet Zoo",
     "schinese_name": "动物园之星",
     "isfreeapp": "0",
-    "change_number": "28013837",
-    "update_time": "2025-03-18 21:25:06",
+    "change_number": "28534015",
+    "update_time": "2025-04-18 00:53:13",
     "depot": {
         "228987": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8474633360834033951",
-                    "size": "20699337209",
-                    "download": "18817308432"
+                    "gid": "8068833681222772542",
+                    "size": "21306131753",
+                    "download": "19261341616"
                 }
             },
             "decryptionkey": "bc33ccdea0df8610185dab43ef1f141daecf265e379acb2feb58fde38212796c"
@@ -46,11 +46,11 @@
         "workshopdepot": "703080",
         "branches": {
             "public": {
-                "buildid": "17111377",
-                "timeupdated": "1738234811"
+                "buildid": "18061984",
+                "timeupdated": "1744711175"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "519fa2ea9c9a1cca0bbd6cd0c7a7f8c220812ec10ef3f7402764d03bc6e8121c"
     }
 }
