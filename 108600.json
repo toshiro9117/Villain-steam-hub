@@ -4,8 +4,8 @@
     "name": "Project Zomboid",
     "schinese_name": "僵尸毁灭工程",
     "isfreeapp": "0",
-    "change_number": "28346695",
-    "update_time": "2025-04-07 21:45:07",
+    "change_number": "28549777",
+    "update_time": "2025-04-18 21:09:16",
     "depot": {
         "228983": {
             "config": {
@@ -277,6 +277,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "fc06c9893d7792ec35292dfc1b216f92d0f9e173df982804f4ab00293e9ab25b"
     }
 }
