@@ -4,8 +4,8 @@
     "name": "Chicken Invaders 5",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27495076",
-    "update_time": "2025-02-15 23:13:11",
+    "change_number": "28465777",
+    "update_time": "2025-04-14 19:49:45",
     "depot": {
         "353091": {
             "manifests": {
@@ -55,8 +55,7 @@
                     "size": "10187313",
                     "download": "2359888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "353094": {
             "config": {
@@ -73,8 +72,7 @@
                     "size": "16280291",
                     "download": "4399120"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "402990": {
             "dlcappid": "402990",
@@ -127,8 +125,7 @@
                     "size": "10195505",
                     "download": "2359392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "353097": {
             "dlcappid": "402990",
@@ -146,8 +143,7 @@
                     "size": "16697185",
                     "download": "4805888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "543610": {
             "manifests": {
@@ -200,8 +196,7 @@
                     "size": "10195505",
                     "download": "2360672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "402991": {
             "dlcappid": "543610",
@@ -219,8 +214,7 @@
                     "size": "16143525",
                     "download": "4263152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "402992": {
             "manifests": {
@@ -243,27 +237,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3970107022546154945",
-                    "size": "19248439",
-                    "download": "4262544"
+                    "gid": "8397685315502739705",
+                    "size": "19296055",
+                    "download": "4303344"
                 },
                 "episode_beta": {
-                    "gid": "3970107022546154945",
-                    "size": "19248439",
-                    "download": "4262544"
+                    "gid": "8397685315502739705",
+                    "size": "19296055",
+                    "download": "4303344"
                 }
             },
             "decryptionkey": "ba056b6734cd656b28a8bf8b466f7b0ac24eade53283449e39f2ed5941cc4805"
         },
         "branches": {
             "public": {
-                "buildid": "17438309",
-                "timeupdated": "1740059645"
+                "buildid": "18089954",
+                "timeupdated": "1744631380"
             },
             "episode_beta": {
-                "buildid": "17438309",
+                "buildid": "18089954",
                 "description": "CIep5",
-                "timeupdated": "1740051406"
+                "timeupdated": "1744553005"
             }
         },
         "privatebranches": "1"
