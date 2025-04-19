@@ -4,8 +4,8 @@
     "name": "Path of Kung Fu",
     "schinese_name": "刀剑江湖路",
     "isfreeapp": "0",
-    "change_number": "28213253",
-    "update_time": "2025-03-30 16:14:52",
+    "change_number": "28547465",
+    "update_time": "2025-04-18 18:19:19",
     "depot": {
         "baselanguages": "schinese",
         "workshopdepot": "2361680",
@@ -43,6 +43,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2a4b729e6af8835c4895a641bcd108277f517579fa0b96c63cd21d65ddb60f0f"
     }
 }
