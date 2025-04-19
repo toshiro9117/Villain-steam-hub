@@ -4,8 +4,8 @@
     "name": "The Outlast Trials",
     "schinese_name": "逃生：试炼",
     "isfreeapp": "0",
-    "change_number": "28346873",
-    "update_time": "2025-04-07 21:55:36",
+    "change_number": "28549460",
+    "update_time": "2025-04-18 20:43:10",
     "depot": {
         "228988": {
             "config": {
@@ -31,17 +31,17 @@
         "1304931": {
             "manifests": {
                 "public": {
-                    "gid": "1147921714936883742",
-                    "size": "47322262094",
-                    "download": "45097981728"
+                    "gid": "352263788811338341",
+                    "size": "48622257278",
+                    "download": "46364820784"
                 }
             },
             "decryptionkey": "81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb"
         },
         "branches": {
             "public": {
-                "buildid": "17873994",
-                "timeupdated": "1743076673"
+                "buildid": "17884556",
+                "timeupdated": "1744120815"
             }
         },
         "privatebranches": "1"
