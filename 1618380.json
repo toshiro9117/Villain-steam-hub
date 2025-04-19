@@ -4,8 +4,8 @@
     "name": "Spellmasons",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27972099",
-    "update_time": "2025-03-15 20:17:59",
+    "change_number": "28453033",
+    "update_time": "2025-04-13 20:27:07",
     "depot": {
         "1618381": {
             "config": {
@@ -13,11 +13,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1799404502984223163",
-                    "size": "431124766",
-                    "download": "164983648"
+                    "gid": "8417740901385635802",
+                    "size": "431438389",
+                    "download": "164996704"
                 },
                 "beta": {
+                    "gid": "8417740901385635802",
+                    "size": "431438389",
+                    "download": "164996704"
+                },
+                "v1.56.0": {
                     "gid": "1799404502984223163",
                     "size": "431124766",
                     "download": "164983648"
@@ -76,11 +81,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1822964461382156403",
-                    "size": "461954168",
-                    "download": "151113936"
+                    "gid": "5021260940986663682",
+                    "size": "462257799",
+                    "download": "151103776"
                 },
                 "beta": {
+                    "gid": "5021260940986663682",
+                    "size": "462257799",
+                    "download": "151103776"
+                },
+                "v1.56.0": {
                     "gid": "1822964461382156403",
                     "size": "461954168",
                     "download": "151113936"
@@ -130,18 +140,22 @@
                     "size": "460803124",
                     "download": "150880720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17736762",
-                "timeupdated": "1742041065"
+                "buildid": "18089472",
+                "timeupdated": "1744547213"
             },
             "beta": {
-                "buildid": "17736762",
+                "buildid": "18089472",
                 "description": "latest features - may be buggy",
-                "timeupdated": "1742040324"
+                "timeupdated": "1744546390"
+            },
+            "v1.56.0": {
+                "buildid": "17736762",
+                "description": "Old Version 1.56.0",
+                "timeupdated": "1744547195"
             },
             "v1.54.3": {
                 "buildid": "17475614",
