@@ -4,10 +4,10 @@
     "name": "汉武大帝传",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346451",
-    "update_time": "2025-04-07 21:28:17",
+    "change_number": "28530904",
+    "update_time": "2025-04-17 22:19:27",
     "depot": {
-        "hasdepotsindlc": "0",
+        "hasdepotsindlc": "1",
         "baselanguages": "english",
         "228983": {
             "config": {
@@ -47,9 +47,9 @@
         "1311701": {
             "manifests": {
                 "public": {
-                    "gid": "8047694191765391009",
-                    "size": "270965369",
-                    "download": "204045712"
+                    "gid": "6365665878642116424",
+                    "size": "271631965",
+                    "download": "204164688"
                 }
             },
             "decryptionkey": "26e1b002b8fa347b38c1e63240641b748d755290a8208c14a9b4cc012dd275bc"
@@ -58,9 +58,9 @@
             "dlcappid": "1414540",
             "manifests": {
                 "public": {
-                    "gid": "8546019690148417069",
-                    "size": "332255858",
-                    "download": "261810832"
+                    "gid": "4948887790661307203",
+                    "size": "333215689",
+                    "download": "262226416"
                 }
             },
             "decryptionkey": "e5e127e2a851a0be5184502cbc6c8193ef1aa37f9de8e60ce895da07c6b15dc4"
@@ -168,7 +168,7 @@
             "dlcappid": "3095470",
             "manifests": {
                 "public": {
-                    "gid": "8422572054262124659",
+                    "gid": "3872302842777983444",
                     "size": "16932",
                     "download": "17184"
                 }
@@ -184,7 +184,7 @@
                     "download": "20416"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c2a0d1087f283ad5d35a68cb69b55bffa794b829529ae5dd28a5829d971c2ed6"
         },
         "3594640": {
             "dlcappid": "3594640",
@@ -195,7 +195,7 @@
                     "download": "17792"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7878d873a46f3dd6cc6ef3bb28dff171197ae3f226dc43d319a8bc6beadbbc9a"
         },
         "3607760": {
             "dlcappid": "3607760",
@@ -206,7 +206,7 @@
                     "download": "20400"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9ee3fd63156c19fa17a563b7e34f8dcc304cffde7e721bbec54469947c9d56c8"
         },
         "3615570": {
             "dlcappid": "3615570",
@@ -217,15 +217,15 @@
                     "download": "17184"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b676cdc325705829036088bcce255efd28958577890a25053b3aae83596b532c"
         },
         "3615580": {
             "dlcappid": "3615580",
             "manifests": {
                 "public": {
-                    "gid": "3396651705905749499",
-                    "size": "51102030",
-                    "download": "50705616"
+                    "gid": "7862812905495886172",
+                    "size": "51107258",
+                    "download": "50710704"
                 }
             },
             "decryptionkey": ""
@@ -239,45 +239,73 @@
                     "download": "20400"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d15496b60ed129484df1d7945826c99f00277b163584b5d8c29d9ea53af644d8"
         },
         "3638460": {
             "dlcappid": "3638460",
             "manifests": {
                 "public": {
-                    "gid": "6215553292319623540",
-                    "size": "21745",
-                    "download": "20416"
+                    "gid": "8885020991214573060",
+                    "size": "37686",
+                    "download": "38224"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cdcd00117f8002c4439291b9b7170b07d598a53a4ff0bfa983f230bbac4918df"
         },
         "3638470": {
             "dlcappid": "3638470",
             "manifests": {
                 "public": {
-                    "gid": "286128479171119626",
-                    "size": "19049",
-                    "download": "19312"
+                    "gid": "4993256269102892597",
+                    "size": "32558",
+                    "download": "30864"
+                }
+            },
+            "decryptionkey": "970438c1ca0c114d328d3fbbf6aebfcb45a4c20b6d3d113ed20533078bb734ba"
+        },
+        "3647990": {
+            "dlcappid": "3647990",
+            "manifests": {
+                "public": {
+                    "gid": "1902510467650332925",
+                    "size": "21568",
+                    "download": "21568"
                 }
             },
             "decryptionkey": ""
         },
-        "3647990": {
-            "dlcappid": "3647990",
-            "manifests": {}
-        },
         "3648000": {
             "dlcappid": "3648000",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6534627100537465871",
+                    "size": "21568",
+                    "download": "21568"
+                }
+            },
+            "decryptionkey": ""
         },
         "3648010": {
             "dlcappid": "3648010",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5227857054395278650",
+                    "size": "21568",
+                    "download": "21552"
+                }
+            },
+            "decryptionkey": ""
         },
         "3648020": {
             "dlcappid": "3648020",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8219990232770713121",
+                    "size": "21568",
+                    "download": "21552"
+                }
+            },
+            "decryptionkey": ""
         },
         "3648030": {
             "dlcappid": "3648030",
@@ -287,10 +315,65 @@
             "dlcappid": "3648040",
             "manifests": {}
         },
+        "3666430": {
+            "dlcappid": "3666430",
+            "manifests": {
+                "public": {
+                    "gid": "781737011445715932",
+                    "size": "25951",
+                    "download": "26304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3666440": {
+            "dlcappid": "3666440",
+            "manifests": {
+                "public": {
+                    "gid": "2573737288249898057",
+                    "size": "3302",
+                    "download": "2944"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3667300": {
+            "dlcappid": "3667300",
+            "manifests": {
+                "public": {
+                    "gid": "2119519760081653156",
+                    "size": "29792",
+                    "download": "29936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3667310": {
+            "dlcappid": "3667310",
+            "manifests": {
+                "public": {
+                    "gid": "8624550495984030905",
+                    "size": "29792",
+                    "download": "29936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3667320": {
+            "dlcappid": "3667320",
+            "manifests": {
+                "public": {
+                    "gid": "3743826574130182637",
+                    "size": "29792",
+                    "download": "29936"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17995905",
-                "timeupdated": "1743860039"
+                "buildid": "18144617",
+                "timeupdated": "1744896447"
             }
         },
         "privatebranches": "1"
