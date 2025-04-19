@@ -4,8 +4,8 @@
     "name": "BZZZT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27017754",
-    "update_time": "2025-01-16 10:56:27",
+    "change_number": "28537985",
+    "update_time": "2025-04-18 04:58:00",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,swedish,czech,turkish,brazilian",
         "1293171": {
@@ -42,8 +42,7 @@
                     "size": "598950374",
                     "download": "174662288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1293173": {
             "config": {
@@ -102,8 +101,7 @@
                     "size": "566146151",
                     "download": "161472464"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
