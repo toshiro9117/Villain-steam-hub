@@ -1,0 +1,55 @@
+{
+    "appid": "963280",
+    "type": "Game",
+    "name": "Talk to Strangers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28506575",
+    "update_time": "2025-04-16 19:09:57",
+    "depot": {
+        "963281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6378458554249130924",
+                    "size": "106058922",
+                    "download": "60073232"
+                }
+            },
+            "decryptionkey": "bf33002d36ade724e25938a24a6aca364edebf9c2be1337b1da5f38781f981d2"
+        },
+        "963282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7560925664048272978",
+                    "size": "110674267",
+                    "download": "60014960"
+                }
+            }
+        },
+        "963283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3916250005692442596",
+                    "size": "117307308",
+                    "download": "61627328"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4091670",
+                "timeupdated": "1565610121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
