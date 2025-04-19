@@ -4,8 +4,8 @@
     "name": "To the Moon",
     "schinese_name": "To the Moon《去月球》",
     "isfreeapp": "0",
-    "change_number": "28287495",
-    "update_time": "2025-04-03 19:30:18",
+    "change_number": "28520076",
+    "update_time": "2025-04-17 10:08:55",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -22,20 +22,20 @@
                     "size": "122142043",
                     "download": "102069376"
                 },
-                "-achievement": {
-                    "gid": "6286953510723997490",
-                    "size": "90059454",
-                    "download": "89167200"
-                },
-                "alternative": {
-                    "gid": "2006842378661435360",
-                    "size": "122023421",
-                    "download": "101949760"
-                },
                 "mac_beta": {
                     "gid": "8799755116159610872",
                     "size": "79858119",
                     "download": "78694912"
+                },
+                "-achievement": {
+                    "gid": "6891622619646889944",
+                    "size": "90059454",
+                    "download": "88913232"
+                },
+                "alternative": {
+                    "gid": "2272424298924778745",
+                    "size": "122023421",
+                    "download": "101949760"
                 },
                 "linux_beta": {
                     "gid": "5360045495983885866",
@@ -56,20 +56,20 @@
                     "size": "122142043",
                     "download": "102063392"
                 },
-                "-achievement": {
-                    "gid": "2588567316641114116",
-                    "size": "84117719",
-                    "download": "82946192"
-                },
-                "alternative": {
-                    "gid": "1493269776593592038",
-                    "size": "122023421",
-                    "download": "101943632"
-                },
                 "mac_beta": {
                     "gid": "2588567316641114116",
                     "size": "84117719",
                     "download": "82946192"
+                },
+                "-achievement": {
+                    "gid": "3476234260544221727",
+                    "size": "122142043",
+                    "download": "102063392"
+                },
+                "alternative": {
+                    "gid": "3476234260544221727",
+                    "size": "122142043",
+                    "download": "102063392"
                 },
                 "linux_beta": {
                     "gid": "7981454653142079280",
@@ -90,20 +90,20 @@
                     "size": "122142043",
                     "download": "102063392"
                 },
-                "-achievement": {
-                    "gid": "8659740385981132933",
-                    "size": "77729861",
-                    "download": "76559616"
-                },
-                "alternative": {
-                    "gid": "532519261488494482",
-                    "size": "122023421",
-                    "download": "101943632"
-                },
                 "mac_beta": {
                     "gid": "8659740385981132933",
                     "size": "77729861",
                     "download": "76559616"
+                },
+                "-achievement": {
+                    "gid": "6985643560942656940",
+                    "size": "122142043",
+                    "download": "102063392"
+                },
+                "alternative": {
+                    "gid": "6985643560942656940",
+                    "size": "122142043",
+                    "download": "102063392"
                 },
                 "linux_beta": {
                     "gid": "4345996722185629887",
@@ -124,20 +124,20 @@
                     "size": "122142043",
                     "download": "102063392"
                 },
-                "-achievement": {
-                    "gid": "6996299818036964796",
-                    "size": "78657888",
-                    "download": "77080992"
-                },
-                "alternative": {
-                    "gid": "8802791682190179636",
-                    "size": "122023421",
-                    "download": "101943632"
-                },
                 "mac_beta": {
                     "gid": "6996299818036964796",
                     "size": "78657888",
                     "download": "77080992"
+                },
+                "-achievement": {
+                    "gid": "6593834364932805908",
+                    "size": "122142043",
+                    "download": "102063392"
+                },
+                "alternative": {
+                    "gid": "6593834364932805908",
+                    "size": "122142043",
+                    "download": "102063392"
                 },
                 "linux_beta": {
                     "gid": "7383827378828419641",
@@ -158,20 +158,20 @@
                     "size": "122142043",
                     "download": "102063392"
                 },
-                "-achievement": {
-                    "gid": "7121754065009588253",
-                    "size": "82863244",
-                    "download": "81413168"
-                },
-                "alternative": {
-                    "gid": "4343604587439520927",
-                    "size": "122023421",
-                    "download": "101943632"
-                },
                 "mac_beta": {
                     "gid": "7121754065009588253",
                     "size": "82863244",
                     "download": "81413168"
+                },
+                "-achievement": {
+                    "gid": "5392885122029758543",
+                    "size": "122142043",
+                    "download": "102063392"
+                },
+                "alternative": {
+                    "gid": "5392885122029758543",
+                    "size": "122142043",
+                    "download": "102063392"
                 },
                 "linux_beta": {
                     "gid": "6283090367508694778",
@@ -192,20 +192,20 @@
                     "size": "122142043",
                     "download": "102063392"
                 },
-                "-achievement": {
-                    "gid": "2511165785812766289",
-                    "size": "83998463",
-                    "download": "82823456"
-                },
-                "alternative": {
-                    "gid": "7711225699169547011",
-                    "size": "122023421",
-                    "download": "101943632"
-                },
                 "mac_beta": {
                     "gid": "2511165785812766289",
                     "size": "83998463",
                     "download": "82823456"
+                },
+                "-achievement": {
+                    "gid": "5136286776365792394",
+                    "size": "122142043",
+                    "download": "102063392"
+                },
+                "alternative": {
+                    "gid": "5136286776365792394",
+                    "size": "122142043",
+                    "download": "102063392"
                 },
                 "linux_beta": {
                     "gid": "8658063751200360251",
@@ -226,20 +226,20 @@
                     "size": "122142043",
                     "download": "102063392"
                 },
-                "-achievement": {
-                    "gid": "7940278930170216084",
-                    "size": "115647389",
-                    "download": "109075504"
-                },
-                "alternative": {
-                    "gid": "6106566539889269457",
-                    "size": "122023421",
-                    "download": "101943632"
-                },
                 "mac_beta": {
                     "gid": "7940278930170216084",
                     "size": "115647389",
                     "download": "109075504"
+                },
+                "-achievement": {
+                    "gid": "8343368205429771634",
+                    "size": "122142043",
+                    "download": "102063392"
+                },
+                "alternative": {
+                    "gid": "8343368205429771634",
+                    "size": "122142043",
+                    "download": "102063392"
                 },
                 "linux_beta": {
                     "gid": "3005680792982656231",
@@ -260,17 +260,17 @@
                     "size": "77674521",
                     "download": "76499824"
                 },
+                "mac_beta": {
+                    "gid": "5178930925859353613",
+                    "size": "77674521",
+                    "download": "76499824"
+                },
                 "-achievement": {
                     "gid": "5178930925859353613",
                     "size": "77674521",
                     "download": "76499824"
                 },
                 "alternative": {
-                    "gid": "5178930925859353613",
-                    "size": "77674521",
-                    "download": "76499824"
-                },
-                "mac_beta": {
                     "gid": "5178930925859353613",
                     "size": "77674521",
                     "download": "76499824"
@@ -294,17 +294,17 @@
                     "size": "78077032",
                     "download": "76901664"
                 },
+                "mac_beta": {
+                    "gid": "7713323842838649917",
+                    "size": "78077032",
+                    "download": "76901664"
+                },
                 "-achievement": {
                     "gid": "7713323842838649917",
                     "size": "78077032",
                     "download": "76901664"
                 },
                 "alternative": {
-                    "gid": "7713323842838649917",
-                    "size": "78077032",
-                    "download": "76901664"
-                },
-                "mac_beta": {
                     "gid": "7713323842838649917",
                     "size": "78077032",
                     "download": "76901664"
@@ -328,20 +328,20 @@
                     "size": "122142043",
                     "download": "102061744"
                 },
-                "-achievement": {
-                    "gid": "2834516258428047160",
-                    "size": "77870291",
-                    "download": "76694416"
-                },
-                "alternative": {
-                    "gid": "5657491713228349921",
-                    "size": "122023421",
-                    "download": "101941984"
-                },
                 "mac_beta": {
                     "gid": "2834516258428047160",
                     "size": "77870291",
                     "download": "76694416"
+                },
+                "-achievement": {
+                    "gid": "7157632494490159009",
+                    "size": "122142043",
+                    "download": "102061744"
+                },
+                "alternative": {
+                    "gid": "7157632494490159009",
+                    "size": "122142043",
+                    "download": "102061744"
                 },
                 "linux_beta": {
                     "gid": "1972581208974024505",
@@ -361,20 +361,20 @@
                     "size": "121438381",
                     "download": "100957904"
                 },
+                "mac_beta": {
+                    "gid": "6033838244756658477",
+                    "size": "121237866",
+                    "download": "100884464"
+                },
                 "-achievement": {
-                    "gid": "6098957037544636868",
-                    "size": "121237869",
-                    "download": "100884480"
+                    "gid": "1669081141776437386",
+                    "size": "121438381",
+                    "download": "100957904"
                 },
                 "alternative": {
                     "gid": "1669081141776437386",
                     "size": "121438381",
                     "download": "100957904"
-                },
-                "mac_beta": {
-                    "gid": "6033838244756658477",
-                    "size": "121237866",
-                    "download": "100884464"
                 },
                 "linux_beta": {
                     "gid": "4831715602883272842",
@@ -394,6 +394,11 @@
                     "size": "126129625",
                     "download": "100987472"
                 },
+                "mac_beta": {
+                    "gid": "341168962889384195",
+                    "size": "130041620",
+                    "download": "102272384"
+                },
                 "-achievement": {
                     "gid": "8917544187711767876",
                     "size": "126129625",
@@ -403,11 +408,6 @@
                     "gid": "8917544187711767876",
                     "size": "126129625",
                     "download": "100987472"
-                },
-                "mac_beta": {
-                    "gid": "341168962889384195",
-                    "size": "130041620",
-                    "download": "102272384"
                 },
                 "linux_beta": {
                     "gid": "7950630806243195772",
@@ -428,20 +428,20 @@
                     "size": "122142043",
                     "download": "102066064"
                 },
-                "-achievement": {
-                    "gid": "4173464302948657690",
-                    "size": "78376283",
-                    "download": "77074928"
-                },
-                "alternative": {
-                    "gid": "1611728418085306739",
-                    "size": "122023421",
-                    "download": "101946304"
-                },
                 "mac_beta": {
                     "gid": "4173464302948657690",
                     "size": "78376283",
                     "download": "77074928"
+                },
+                "-achievement": {
+                    "gid": "3921109156298872921",
+                    "size": "122142043",
+                    "download": "102066064"
+                },
+                "alternative": {
+                    "gid": "3921109156298872921",
+                    "size": "122142043",
+                    "download": "102066064"
                 },
                 "linux_beta": {
                     "gid": "467587817757935686",
@@ -463,17 +463,17 @@
                     "size": "29445368",
                     "download": "28677216"
                 },
+                "mac_beta": {
+                    "gid": "7960485715767257160",
+                    "size": "29445368",
+                    "download": "28677216"
+                },
                 "-achievement": {
                     "gid": "7960485715767257160",
                     "size": "29445368",
                     "download": "28677216"
                 },
                 "alternative": {
-                    "gid": "7960485715767257160",
-                    "size": "29445368",
-                    "download": "28677216"
-                },
-                "mac_beta": {
                     "gid": "7960485715767257160",
                     "size": "29445368",
                     "download": "28677216"
@@ -486,39 +486,53 @@
             },
             "decryptionkey": "7751e1e4216e4881d1c9252d0f37d6a25573dcbef1682ed18b29fceacff2dc29"
         },
-        "338250": {
+        "418891": {
             "config": {
                 "oslist": "windows"
             },
             "dlcappid": "338250",
             "manifests": {
                 "public": {
-                    "gid": "7580720335265487671",
+                    "gid": "8791669870516553799",
                     "size": "29445368",
                     "download": "28677216"
                 },
                 "-achievement": {
-                    "gid": "2501914238388986287",
-                    "size": "46803677",
-                    "download": "31941440"
+                    "gid": "8791669870516553799",
+                    "size": "29445368",
+                    "download": "28677216"
                 },
                 "alternative": {
-                    "gid": "7580720335265487671",
-                    "size": "29445368",
-                    "download": "28677216"
-                },
-                "mac_beta": {
-                    "gid": "7580720335265487671",
-                    "size": "29445368",
-                    "download": "28677216"
-                },
-                "linux_beta": {
-                    "gid": "7580720335265487671",
+                    "gid": "8791669870516553799",
                     "size": "29445368",
                     "download": "28677216"
                 }
             },
-            "decryptionkey": "327400bdcaf5863124d2bb33e5209fb4ee526815cbeb5f03ebba82ed9093ea08"
+            "decryptionkey": "f5e302d1842855739889bfd0252baf452aea6821c5e031a5ca256ddadae6195e"
+        },
+        "418892": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "339550",
+            "manifests": {
+                "public": {
+                    "gid": "4535450558916675632",
+                    "size": "33880052",
+                    "download": "33134688"
+                },
+                "-achievement": {
+                    "gid": "4535450558916675632",
+                    "size": "33880052",
+                    "download": "33134688"
+                },
+                "alternative": {
+                    "gid": "4535450558916675632",
+                    "size": "33880052",
+                    "download": "33134688"
+                }
+            },
+            "decryptionkey": "5f63ec9bffde1dcef58ff13e55850af2d9cf8d73a616947e5cf0e68a8cba5db3"
         },
         "338251": {
             "dlcappid": "338250",
@@ -532,20 +546,20 @@
                     "size": "29450515",
                     "download": "28628416"
                 },
-                "-achievement": {
-                    "gid": "539809209172376900",
-                    "size": "29450515",
-                    "download": "28629200"
-                },
-                "alternative": {
-                    "gid": "951316465940309596",
-                    "size": "0",
-                    "download": "0"
-                },
                 "mac_beta": {
                     "gid": "539809209172376900",
                     "size": "29450515",
                     "download": "28629200"
+                },
+                "-achievement": {
+                    "gid": "7947060836979107387",
+                    "size": "29450515",
+                    "download": "28628416"
+                },
+                "alternative": {
+                    "gid": "7947060836979107387",
+                    "size": "29450515",
+                    "download": "28628416"
                 },
                 "linux_beta": {
                     "gid": "7447719910389729822",
@@ -555,40 +569,6 @@
             },
             "decryptionkey": "134daa5f43859aa430766f7938caec015ab100116bdc94634cfa4ce13a0a05b9"
         },
-        "339550": {
-            "config": {
-                "oslist": "windows"
-            },
-            "dlcappid": "339550",
-            "manifests": {
-                "public": {
-                    "gid": "7390415773863933903",
-                    "size": "33880052",
-                    "download": "33124208"
-                },
-                "-achievement": {
-                    "gid": "8461181638402650287",
-                    "size": "51384679",
-                    "download": "36726496"
-                },
-                "alternative": {
-                    "gid": "7390415773863933903",
-                    "size": "33880052",
-                    "download": "33124208"
-                },
-                "mac_beta": {
-                    "gid": "7390415773863933903",
-                    "size": "33880052",
-                    "download": "33124208"
-                },
-                "linux_beta": {
-                    "gid": "7390415773863933903",
-                    "size": "33880052",
-                    "download": "33124208"
-                }
-            },
-            "decryptionkey": "159a37177dbbf58d285137f21ecb8b0284ea175b82fd25d0d3c3989dfb022135"
-        },
         "338253": {
             "dlcappid": "338250",
             "config": {
@@ -596,16 +576,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "762314853247892015",
-                    "size": "81564005",
-                    "download": "53230480"
-                },
-                "-achievement": {
-                    "gid": "1926768019661544629",
-                    "size": "50450106",
-                    "download": "33670096"
-                },
-                "alternative": {
                     "gid": "1583420863543765427",
                     "size": "80281970",
                     "download": "51983408"
@@ -614,6 +584,16 @@
                     "gid": "8352044968707883956",
                     "size": "49584545",
                     "download": "33433728"
+                },
+                "-achievement": {
+                    "gid": "1583420863543765427",
+                    "size": "80281970",
+                    "download": "51983408"
+                },
+                "alternative": {
+                    "gid": "1583420863543765427",
+                    "size": "80281970",
+                    "download": "51983408"
                 },
                 "linux_beta": {
                     "gid": "8352044968707883956",
@@ -630,9 +610,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7965192483361821068",
-                    "size": "55977796",
-                    "download": "38611200"
+                    "gid": "4047457377613715974",
+                    "size": "54701909",
+                    "download": "37364592"
+                },
+                "mac_beta": {
+                    "gid": "4047457377613715974",
+                    "size": "54701909",
+                    "download": "37364592"
                 },
                 "-achievement": {
                     "gid": "4047457377613715974",
@@ -640,11 +625,6 @@
                     "download": "37364592"
                 },
                 "alternative": {
-                    "gid": "4047457377613715974",
-                    "size": "54701909",
-                    "download": "37364592"
-                },
-                "mac_beta": {
                     "gid": "4047457377613715974",
                     "size": "54701909",
                     "download": "37364592"
@@ -664,16 +644,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8279338088090226339",
-                    "size": "68199892",
-                    "download": "43602560"
-                },
-                "-achievement": {
-                    "gid": "379938195121865610",
-                    "size": "55031054",
-                    "download": "38455072"
-                },
-                "alternative": {
                     "gid": "3366638414641796343",
                     "size": "66931995",
                     "download": "42367424"
@@ -682,6 +652,16 @@
                     "gid": "2464844530803803646",
                     "size": "54165492",
                     "download": "38218704"
+                },
+                "-achievement": {
+                    "gid": "3366638414641796343",
+                    "size": "66931995",
+                    "download": "42367424"
+                },
+                "alternative": {
+                    "gid": "3366638414641796343",
+                    "size": "66931995",
+                    "download": "42367424"
                 },
                 "linux_beta": {
                     "gid": "2464844530803803646",
@@ -698,9 +678,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7668143291356342983",
-                    "size": "59858283",
-                    "download": "42417808"
+                    "gid": "4931171526496851467",
+                    "size": "58596534",
+                    "download": "41182976"
+                },
+                "mac_beta": {
+                    "gid": "4931171526496851467",
+                    "size": "58596534",
+                    "download": "41182976"
                 },
                 "-achievement": {
                     "gid": "4931171526496851467",
@@ -708,11 +693,6 @@
                     "download": "41182976"
                 },
                 "alternative": {
-                    "gid": "4931171526496851467",
-                    "size": "58596534",
-                    "download": "41182976"
-                },
-                "mac_beta": {
                     "gid": "4931171526496851467",
                     "size": "58596534",
                     "download": "41182976"
@@ -737,17 +717,17 @@
                     "size": "33889656",
                     "download": "33111104"
                 },
+                "mac_beta": {
+                    "gid": "6950566805846698128",
+                    "size": "33889656",
+                    "download": "33111104"
+                },
                 "-achievement": {
                     "gid": "6950566805846698128",
                     "size": "33889656",
                     "download": "33111104"
                 },
                 "alternative": {
-                    "gid": "6950566805846698128",
-                    "size": "33889656",
-                    "download": "33111104"
-                },
-                "mac_beta": {
                     "gid": "6950566805846698128",
                     "size": "33889656",
                     "download": "33111104"
@@ -767,17 +747,17 @@
                     "size": "33896278",
                     "download": "33113392"
                 },
+                "mac_beta": {
+                    "gid": "2777513082668818840",
+                    "size": "33896278",
+                    "download": "33113392"
+                },
                 "-achievement": {
                     "gid": "2777513082668818840",
                     "size": "33896278",
                     "download": "33113392"
                 },
                 "alternative": {
-                    "gid": "2777513082668818840",
-                    "size": "33896278",
-                    "download": "33113392"
-                },
-                "mac_beta": {
                     "gid": "2777513082668818840",
                     "size": "33896278",
                     "download": "33113392"
@@ -797,17 +777,17 @@
                     "size": "29453029",
                     "download": "28651520"
                 },
+                "mac_beta": {
+                    "gid": "5867012933113494905",
+                    "size": "29453029",
+                    "download": "28651520"
+                },
                 "-achievement": {
                     "gid": "5867012933113494905",
                     "size": "29453029",
                     "download": "28651520"
                 },
                 "alternative": {
-                    "gid": "5867012933113494905",
-                    "size": "29453029",
-                    "download": "28651520"
-                },
-                "mac_beta": {
                     "gid": "5867012933113494905",
                     "size": "29453029",
                     "download": "28651520"
@@ -826,20 +806,20 @@
                     "size": "122142043",
                     "download": "101938688"
                 },
-                "-achievement": {
-                    "gid": "1478833623130039570",
-                    "size": "78037758",
-                    "download": "76393312"
-                },
-                "alternative": {
-                    "gid": "6647321996529220870",
-                    "size": "122023421",
-                    "download": "101818928"
-                },
                 "mac_beta": {
                     "gid": "1478833623130039570",
                     "size": "78037758",
                     "download": "76393312"
+                },
+                "-achievement": {
+                    "gid": "610827845871453606",
+                    "size": "122142043",
+                    "download": "101938688"
+                },
+                "alternative": {
+                    "gid": "610827845871453606",
+                    "size": "122142043",
+                    "download": "101938688"
                 }
             },
             "decryptionkey": "b37806e0892ad255c966fc4bea2088eb9a15ad4858100bb55e6fb6e158c07963"
@@ -852,17 +832,17 @@
                     "size": "277404662",
                     "download": "276638448"
                 },
+                "mac_beta": {
+                    "gid": "4568075974597142339",
+                    "size": "277404662",
+                    "download": "276638448"
+                },
                 "-achievement": {
                     "gid": "4568075974597142339",
                     "size": "277404662",
                     "download": "276638448"
                 },
                 "alternative": {
-                    "gid": "4568075974597142339",
-                    "size": "277404662",
-                    "download": "276638448"
-                },
-                "mac_beta": {
                     "gid": "4568075974597142339",
                     "size": "277404662",
                     "download": "276638448"
@@ -907,8 +887,8 @@
                     "download": "28651648"
                 },
                 "-achievement": {
-                    "gid": "6725205665012388408",
-                    "size": "29468024",
+                    "gid": "880651958606712201",
+                    "size": "29467911",
                     "download": "28651648"
                 },
                 "alternative": {
@@ -932,9 +912,9 @@
                     "download": "33120688"
                 },
                 "-achievement": {
-                    "gid": "2676178858187934971",
-                    "size": "33906659",
-                    "download": "33120816"
+                    "gid": "4114780627099715842",
+                    "size": "33906563",
+                    "download": "33120688"
                 },
                 "alternative": {
                     "gid": "4114780627099715842",
@@ -1106,14 +1086,14 @@
                     "download": "85253792"
                 },
                 "-achievement": {
-                    "gid": "2197515013439108556",
-                    "size": "118520708",
-                    "download": "86523088"
+                    "gid": "7467291259036295947",
+                    "size": "114704537",
+                    "download": "85253792"
                 },
                 "alternative": {
-                    "gid": "2197515013439108556",
-                    "size": "118520708",
-                    "download": "86523088"
+                    "gid": "7467291259036295947",
+                    "size": "114704537",
+                    "download": "85253792"
                 }
             },
             "decryptionkey": "339e898732e332b5df39dc1b9c1ae43af546a195799eeba49434aced41aab000"
@@ -1239,25 +1219,88 @@
             "config": {
                 "oslist": "windows"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3256379459154553848",
+                    "size": "0",
+                    "download": "0"
+                },
+                "-achievement": {
+                    "gid": "3256379459154553848",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alternative": {
+                    "gid": "3256379459154553848",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dfb7d80d76384fcba08d548ab7b0fe44c7b32f2b996b0a5e2729e98b8de49cf8"
+        },
+        "339557": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8942241618904751444",
+                    "size": "0",
+                    "download": "0"
+                },
+                "-achievement": {
+                    "gid": "8942241618904751444",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alternative": {
+                    "gid": "8942241618904751444",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5e4d0bb7f83016418151faf107e92602dd3d19e3932aa596515f598f71823780"
+        },
+        "339558": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2258284626764654415",
+                    "size": "0",
+                    "download": "0"
+                },
+                "-achievement": {
+                    "gid": "2258284626764654415",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alternative": {
+                    "gid": "2258284626764654415",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2e1bd20b359d0c034579bf24a99113ae611a326086a1268f209b4006932983de"
         },
         "branches": {
             "public": {
-                "buildid": "17937073",
-                "timeupdated": "1743499489"
-            },
-            "-achievement": {
-                "buildid": "10822320",
-                "description": "Can be used to run last save file to the ending, if achievement isn't unlocked via main branch. (Note: May be suboptimal for normal play.)",
-                "timeupdated": "1679423723"
-            },
-            "alternative": {
-                "buildid": "10822379",
-                "timeupdated": "1679424237"
+                "buildid": "18106243",
+                "timeupdated": "1744675159"
             },
             "mac_beta": {
                 "buildid": "3010132",
                 "timeupdated": "1533577352"
+            },
+            "-achievement": {
+                "buildid": "18137272",
+                "description": "Can be used to run last save file to the ending, if achievement isn't unlocked via main branch. (Note: May be suboptimal for normal play.)",
+                "timeupdated": "1744852946"
+            },
+            "alternative": {
+                "buildid": "18137317",
+                "timeupdated": "1744853365"
             },
             "linux_beta": {
                 "buildid": "17904461",
