@@ -4,8 +4,8 @@
     "name": "River Towns",
     "schinese_name": "河畔小镇",
     "isfreeapp": "0",
-    "change_number": "28344500",
-    "update_time": "2025-04-07 19:23:19",
+    "change_number": "28487154",
+    "update_time": "2025-04-15 20:55:48",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "753086448"
                 },
                 "experimental": {
-                    "gid": "3804936106135269591",
-                    "size": "1087762810",
-                    "download": "753057616"
+                    "gid": "6537012421028104695",
+                    "size": "1088093258",
+                    "download": "753349536"
                 }
             },
             "decryptionkey": "01512fdc1de36a29217fd71dfac8a855c8acb5a787100b2ed3b7f0c23029b32d"
@@ -43,9 +43,9 @@
                 "timeupdated": "1743434854"
             },
             "experimental": {
-                "buildid": "17926998",
+                "buildid": "18113709",
                 "description": "Experimental Feature Testing",
-                "timeupdated": "1743435696"
+                "timeupdated": "1744721744"
             }
         },
         "privatebranches": "1",
