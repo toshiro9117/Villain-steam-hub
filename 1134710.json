@@ -4,8 +4,8 @@
     "name": "NIMBY Rails",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344468",
-    "update_time": "2025-04-07 19:21:32",
+    "change_number": "28381918",
+    "update_time": "2025-04-09 16:29:58",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8041937776008370644",
-                    "size": "49029589",
-                    "download": "28961664"
+                    "gid": "4889746254824433587",
+                    "size": "49030613",
+                    "download": "28959504"
                 },
                 "legacy-1.1.72": {
                     "gid": "8019443166103829947",
@@ -203,8 +203,8 @@
         "workshopdepot": "1134710",
         "branches": {
             "public": {
-                "buildid": "17952641",
-                "timeupdated": "1743609006"
+                "buildid": "18010498",
+                "timeupdated": "1744187393"
             },
             "legacy-1.1.72": {
                 "buildid": "6523525",
@@ -288,6 +288,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "1dae66a4c21dcad9351a9ec70d59e36fd9055197ee7f7806e157156af1c505aa"
     }
 }
