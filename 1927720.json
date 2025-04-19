@@ -4,8 +4,8 @@
     "name": "Monument Valley",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28308748",
-    "update_time": "2025-04-04 20:57:11",
+    "change_number": "28530607",
+    "update_time": "2025-04-17 22:07:32",
     "depot": {
         "1927721": {
             "config": {
@@ -13,16 +13,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6672538140739151498",
-                    "size": "670977927",
-                    "download": "201060256"
+                    "gid": "3076671222372926161",
+                    "size": "371407551",
+                    "download": "233908416"
                 }
             },
             "decryptionkey": "11be65e06d8be73b1734f1008690fdce6cf649de649dca1948ce0bec7c25920e"
         },
         "1927722": {
             "config": {
-                "oslist": "windows"
+                "oslist": "macos"
             },
             "manifests": {
                 "public": {
@@ -30,8 +30,7 @@
                     "size": "766971955",
                     "download": "203263472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1927723": {
             "config": {
@@ -43,13 +42,12 @@
                     "size": "910098543",
                     "download": "224928320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "9229054",
-                "timeupdated": "1659353119"
+                "buildid": "18115464",
+                "timeupdated": "1744730016"
             }
         },
         "privatebranches": "1"
