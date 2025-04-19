@@ -4,8 +4,8 @@
     "name": "Last Oasis - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323275",
-    "update_time": "2025-04-05 20:11:47",
+    "change_number": "28537945",
+    "update_time": "2025-04-18 04:54:13",
     "depot": {
         "1004": {
             "config": {
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6938494240865470325",
-                    "size": "7345230227",
-                    "download": "1333917568"
+                    "gid": "324732512108770955",
+                    "size": "7959894759",
+                    "download": "1469548064"
                 },
                 "classic": {
                     "gid": "1066263781797053033",
@@ -89,22 +89,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1253600512319466592",
-                    "size": "7553022352",
-                    "download": "1313602720"
+                    "gid": "8827325755654227086",
+                    "size": "7771036706",
+                    "download": "1357172416"
                 },
                 "classic": {
                     "gid": "1229449101651237669",
                     "size": "5929391951",
                     "download": "1043690416"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17945565",
-                "timeupdated": "1743541873"
+                "buildid": "18149499",
+                "timeupdated": "1744923249"
             },
             "classic": {
                 "buildid": "9193201",
