@@ -4,8 +4,8 @@
     "name": "Teardown",
     "schinese_name": "拆迁",
     "isfreeapp": "0",
-    "change_number": "28306376",
-    "update_time": "2025-04-04 18:25:43",
+    "change_number": "28528232",
+    "update_time": "2025-04-17 19:59:07",
     "depot": {
         "workshopdepot": "1167630",
         "hasdepotsindlc": "1",
@@ -67,6 +67,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ab0df752844fd0c6a4d4275dc2f775619b833994f46509037bc18f01c9fe97f9"
     }
 }
