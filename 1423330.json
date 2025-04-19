@@ -4,8 +4,8 @@
     "name": "Ancient Warfare: The Han Dynasty",
     "schinese_name": "横戈",
     "isfreeapp": "0",
-    "change_number": "28209327",
-    "update_time": "2025-03-30 04:16:27",
+    "change_number": "28545761",
+    "update_time": "2025-04-18 16:29:50",
     "depot": {
         "1423331": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4007564757404397126",
-                    "size": "22654267012",
-                    "download": "10289597392"
+                    "gid": "5494332463713242426",
+                    "size": "22665660004",
+                    "download": "10307521888"
                 },
                 "legacy_version": {
                     "gid": "3129377948637109937",
@@ -23,9 +23,9 @@
                     "download": "9417960080"
                 },
                 "preview_version": {
-                    "gid": "5494332463713242426",
-                    "size": "22665660004",
-                    "download": "10307521888"
+                    "gid": "4899091743539028789",
+                    "size": "22666206324",
+                    "download": "10307216576"
                 },
                 "test_version": {
                     "gid": "3129377948637109937",
@@ -39,8 +39,8 @@
         "workshopdepot": "1423330",
         "branches": {
             "public": {
-                "buildid": "17689734",
-                "timeupdated": "1742518757"
+                "buildid": "17876168",
+                "timeupdated": "1744682108"
             },
             "legacy_version": {
                 "sc_schinese": "西域版",
@@ -49,9 +49,9 @@
                 "timeupdated": "1722090201"
             },
             "preview_version": {
-                "buildid": "17876168",
+                "buildid": "18127336",
                 "description": "先锋版",
-                "timeupdated": "1743123505"
+                "timeupdated": "1744964984"
             },
             "test_version": {
                 "buildid": "14807105",
@@ -60,6 +60,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e23bf1fbb6359e878adb1d109c44ae3a2c9a3b9a67c1dc96337c91ee96377127"
     }
 }
