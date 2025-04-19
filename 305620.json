@@ -4,8 +4,8 @@
     "name": "The Long Dark",
     "schinese_name": "漫漫长夜",
     "isfreeapp": "0",
-    "change_number": "28332421",
-    "update_time": "2025-04-06 21:15:45",
+    "change_number": "28547292",
+    "update_time": "2025-04-18 18:09:25",
     "depot": {
         "workshopdepot": "305620",
         "hasdepotsindlc": "1",
@@ -96,8 +96,7 @@
                     "size": "4903193988",
                     "download": "3762660672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "305626": {
             "config": {
@@ -109,8 +108,7 @@
                     "size": "4804190427",
                     "download": "3717649872"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2091331": {
             "dlcappid": "2091330",
