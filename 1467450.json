@@ -4,8 +4,8 @@
     "name": "The Chronicles Of Myrtana: Archolos",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28344162",
-    "update_time": "2025-04-07 19:00:18",
+    "change_number": "28547611",
+    "update_time": "2025-04-18 18:28:23",
     "depot": {
         "baselanguages": "english,german,italian,spanish,russian,polish,latam",
         "hasdepotsindlc": "0",
@@ -53,7 +53,8 @@
                     "download": "2466864784"
                 }
             },
-            "depotfromapp": "39510"
+            "depotfromapp": "39510",
+            "decryptionkey": "19594bd89b6aef0b481013cafd3da433d86d6046c221734a339a895d70286f08"
         },
         "39517": {
             "config": {
@@ -66,7 +67,8 @@
                     "download": "15646992"
                 }
             },
-            "depotfromapp": "39510"
+            "depotfromapp": "39510",
+            "decryptionkey": "9b734085006ae36183582809eb469d112c6446525f0048b31eaebef7620c0116"
         },
         "39516": {
             "config": {
@@ -79,7 +81,8 @@
                     "download": "1700210672"
                 }
             },
-            "depotfromapp": "39510"
+            "depotfromapp": "39510",
+            "decryptionkey": "137df0fc92a311cb1be4f23cde600524f9cde6748a95a922e011c95de3addf85"
         },
         "1467451": {
             "manifests": {
@@ -174,9 +177,9 @@
                     "download": "858231984"
                 },
                 "crowdin": {
-                    "gid": "4884900194467513625",
-                    "size": "1421629088",
-                    "download": "858233408"
+                    "gid": "8946806527549255890",
+                    "size": "1421629629",
+                    "download": "858233632"
                 }
             }
         },
@@ -876,9 +879,9 @@
             },
             "manifests": {
                 "crowdin": {
-                    "gid": "4723467077771703542",
-                    "size": "237995679",
-                    "download": "184756656"
+                    "gid": "6917342969191714118",
+                    "size": "240126466",
+                    "download": "178096176"
                 }
             }
         },
@@ -1014,9 +1017,9 @@
                 "timeupdated": "1673553731"
             },
             "crowdin": {
-                "buildid": "18003531",
+                "buildid": "18144904",
                 "description": "Weekly localization build",
-                "timeupdated": "1743966527"
+                "timeupdated": "1744897968"
             }
         },
         "privatebranches": "1",
