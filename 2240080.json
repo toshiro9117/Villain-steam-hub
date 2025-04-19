@@ -4,8 +4,8 @@
     "name": "Spilled!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334067",
-    "update_time": "2025-04-07 01:10:57",
+    "change_number": "28444616",
+    "update_time": "2025-04-12 21:14:30",
     "depot": {
         "2240081": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7416598066341849907",
-                    "size": "495801739",
-                    "download": "223299808"
+                    "gid": "8803807768713204657",
+                    "size": "495799515",
+                    "download": "223298960"
                 }
             },
             "decryptionkey": "2aab4b5ac975aee6d53611059181406432a724fe809e34d51c765ba70ad343d7"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8761422820312918497",
-                    "size": "479015387",
-                    "download": "214980576"
+                    "gid": "5884744610053160718",
+                    "size": "479013147",
+                    "download": "214979200"
                 }
             },
             "decryptionkey": "e9b1fa8787117af5aabb8248a9939a7b789862cc05d48aab4e21d8c21eb1d876"
         },
         "branches": {
             "public": {
-                "buildid": "17868929",
-                "timeupdated": "1743001917"
+                "buildid": "18083629",
+                "timeupdated": "1744463666"
             }
         }
     }
