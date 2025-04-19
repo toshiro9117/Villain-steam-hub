@@ -4,8 +4,8 @@
     "name": "112 Operator - Call Editor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28315443",
-    "update_time": "2025-04-05 03:16:13",
+    "change_number": "28532883",
+    "update_time": "2025-04-17 23:58:25",
     "depot": {
         "1356141": {
             "config": {
@@ -34,8 +34,7 @@
                     "size": "185441268",
                     "download": "42518736"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
