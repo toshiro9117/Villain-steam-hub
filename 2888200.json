@@ -4,8 +4,8 @@
     "name": "Same Room Same Day",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344396",
-    "update_time": "2025-04-07 19:16:39",
+    "change_number": "28378137",
+    "update_time": "2025-04-09 11:11:48",
     "depot": {
         "baselanguages": "english,russian",
         "2888201": {
@@ -33,8 +33,7 @@
                     "size": "2005143491",
                     "download": "1653018064"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
