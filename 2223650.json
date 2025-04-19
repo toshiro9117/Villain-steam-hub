@@ -4,8 +4,8 @@
     "name": "Motor Town: Behind The Wheel - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28311399",
-    "update_time": "2025-04-04 23:17:22",
+    "change_number": "28527754",
+    "update_time": "2025-04-17 19:26:27",
     "depot": {
         "1004": {
             "config": {
@@ -71,7 +71,7 @@
                     "download": "96"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "28c7112365ad0d720c3c1f4905cc4a6be680093797cc06003bf8843debb3b0cc"
         },
         "branches": {
             "public": {
