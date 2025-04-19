@@ -4,8 +4,8 @@
     "name": "Spin Rhythm XD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342106",
-    "update_time": "2025-04-07 16:50:31",
+    "change_number": "28356557",
+    "update_time": "2025-04-08 09:10:14",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "hasdepotsindlc": "1",
@@ -131,8 +131,7 @@
                     "size": "1129915540",
                     "download": "943073472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
