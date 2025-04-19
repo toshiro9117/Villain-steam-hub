@@ -4,8 +4,8 @@
     "name": "NAVYFIELD",
     "schinese_name": "舰队使命 大海战2",
     "isfreeapp": "0",
-    "change_number": "28257285",
-    "update_time": "2025-04-02 07:05:26",
+    "change_number": "28496518",
+    "update_time": "2025-04-16 06:20:19",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese,tchinese,japanese",
@@ -95,8 +95,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17946174",
-                "timeupdated": "1743546069"
+                "buildid": "18120047",
+                "timeupdated": "1744755610"
             }
         }
     }
