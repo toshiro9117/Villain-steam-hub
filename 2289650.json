@@ -4,8 +4,8 @@
     "name": "Mini Airways",
     "schinese_name": "迷你空管 Mini Airways",
     "isfreeapp": "0",
-    "change_number": "28343163",
-    "update_time": "2025-04-07 17:58:02",
+    "change_number": "28381328",
+    "update_time": "2025-04-09 15:59:42",
     "depot": {
         "2289651": {
             "config": {
@@ -197,6 +197,6 @@
                 "timeupdated": "1734660048"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c385ce8f0767fe1efa576edc55d3440b2c4e4280d2b86693581b765637c4719f"
     }
 }
