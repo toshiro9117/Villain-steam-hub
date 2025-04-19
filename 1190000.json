@@ -4,8 +4,8 @@
     "name": "Car Mechanic Simulator 2021",
     "schinese_name": "汽车机械师模拟器2021",
     "isfreeapp": "0",
-    "change_number": "28107151",
-    "update_time": "2025-03-24 19:10:03",
+    "change_number": "28524706",
+    "update_time": "2025-04-17 16:24:53",
     "depot": {
         "228990": {
             "config": {
@@ -41,6 +41,6 @@
                 "timeupdated": "1739801986"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c0d7730c96f14fba164bf0e6ff5c8c420edd65811dca098c637b67c6317985a1"
     }
 }
