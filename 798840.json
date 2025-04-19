@@ -4,8 +4,8 @@
     "name": "Panzer War:Definitely Edition",
     "schinese_name": "装甲纷争:决定版",
     "isfreeapp": "0",
-    "change_number": "28329331",
-    "update_time": "2025-04-06 12:17:46",
+    "change_number": "28457616",
+    "update_time": "2025-04-14 07:22:59",
     "depot": {
         "baselanguages": "english,schinese,russian,ukrainian",
         "hasdepotsindlc": "1",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2203839247845815186",
-                    "size": "8500034982",
-                    "download": "5973282816"
+                    "gid": "7540474174349907347",
+                    "size": "8584442220",
+                    "download": "6036144016"
                 },
                 "old_frag_replay": {
                     "gid": "8947390067449636522",
@@ -32,9 +32,9 @@
                     "download": "4686985760"
                 },
                 "supertest": {
-                    "gid": "2203839247845815186",
-                    "size": "8500034982",
-                    "download": "5973282816"
+                    "gid": "7540474174349907347",
+                    "size": "8584442220",
+                    "download": "6036144016"
                 }
             },
             "decryptionkey": "b76b149da694cf2ce80690e30879f3eeb86839127d379a035a7bfeac8fc3bc87"
@@ -65,8 +65,7 @@
                     "size": "1291359555",
                     "download": "1014173840"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1019010": {
             "dlcappid": "1019010",
@@ -76,8 +75,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17999767",
-                "timeupdated": "1743913061"
+                "buildid": "18092619",
+                "timeupdated": "1744586575"
             },
             "old_frag_replay": {
                 "buildid": "15037801",
@@ -90,9 +89,9 @@
                 "timeupdated": "1720492193"
             },
             "supertest": {
-                "buildid": "17999767",
+                "buildid": "18092619",
                 "description": "Super Test",
-                "timeupdated": "1743913042"
+                "timeupdated": "1744586194"
             }
         },
         "privatebranches": "1",
