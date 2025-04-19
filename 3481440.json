@@ -4,33 +4,54 @@
     "name": "Puck Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27901239",
-    "update_time": "2025-03-12 08:17:59",
+    "change_number": "28516975",
+    "update_time": "2025-04-17 05:41:25",
     "depot": {
         "3481441": {
+            "config": {
+                "oslist": "linux"
+            },
             "manifests": {
                 "public": {
-                    "gid": "1601569210567501160",
-                    "size": "196390809",
-                    "download": "62097776"
+                    "gid": "6744649204886864826",
+                    "size": "196681282",
+                    "download": "62230160"
                 },
                 "pre-release": {
-                    "gid": "1601569210567501160",
-                    "size": "196390809",
-                    "download": "62097776"
+                    "gid": "6716854707270913496",
+                    "size": "193132443",
+                    "download": "61553296"
                 }
             },
             "decryptionkey": "f99343d8063a037a269fcb7e5b6cde034ceea70f83e3452ece1fec5e6505b1bb"
         },
+        "3481442": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7933282011636819939",
+                    "size": "156088342",
+                    "download": "60507056"
+                },
+                "pre-release": {
+                    "gid": "3390807905080523337",
+                    "size": "153686917",
+                    "download": "59799376"
+                }
+            },
+            "decryptionkey": "4421071bdfc2e6636c15ba97f4043f91140946d166e92edd10b7a4f64e2bbde5"
+        },
         "branches": {
             "public": {
-                "buildid": "17684425",
-                "timeupdated": "1741738674"
+                "buildid": "17769244",
+                "timeupdated": "1742332345"
             },
             "pre-release": {
-                "buildid": "17684425",
+                "buildid": "18135280",
                 "description": "Pre-release branch",
-                "timeupdated": "1741733429"
+                "timeupdated": "1744839679"
             }
         }
     }
