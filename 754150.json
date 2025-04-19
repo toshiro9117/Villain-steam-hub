@@ -4,8 +4,8 @@
     "name": "Rolling Line",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28340312",
-    "update_time": "2025-04-07 14:29:42",
+    "change_number": "28406174",
+    "update_time": "2025-04-10 19:33:42",
     "depot": {
         "754151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7357588808386931259",
-                    "size": "1625968268",
-                    "download": "655308448"
+                    "gid": "6166949099858536939",
+                    "size": "1629822731",
+                    "download": "655518064"
                 },
                 "rolling_line_1x": {
                     "gid": "2580503137338381975",
@@ -33,9 +33,9 @@
                     "download": "673907008"
                 },
                 "testing": {
-                    "gid": "8495957854271457460",
-                    "size": "1626140964",
-                    "download": "655358880"
+                    "gid": "6166949099858536939",
+                    "size": "1629822731",
+                    "download": "655518064"
                 }
             },
             "decryptionkey": "ad04c94991815777be39a3c6261cdd6935c1c1cebb3a87006759ec3dce5edc7e"
@@ -43,8 +43,8 @@
         "workshopdepot": "754150",
         "branches": {
             "public": {
-                "buildid": "17775220",
-                "timeupdated": "1742357994"
+                "buildid": "18051397",
+                "timeupdated": "1744265384"
             },
             "rolling_line_1x": {
                 "buildid": "14063262",
@@ -62,12 +62,12 @@
                 "timeupdated": "1675919663"
             },
             "testing": {
-                "buildid": "18007449",
+                "buildid": "18051397",
                 "description": "Update testing branch",
-                "timeupdated": "1744007377"
+                "timeupdated": "1744262946"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9ce78cfb3d0ba15d8f803c97f38ff249096c85ad822649eec77f5efe0012eab6"
     }
 }
