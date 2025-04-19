@@ -4,15 +4,15 @@
     "name": "Last Train Outta' Wormtown",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334280",
-    "update_time": "2025-04-07 01:39:52",
+    "change_number": "28500466",
+    "update_time": "2025-04-16 12:08:28",
     "depot": {
         "2318481": {
             "manifests": {
                 "public": {
-                    "gid": "6093728217922904538",
-                    "size": "937851386",
-                    "download": "385934672"
+                    "gid": "180049137144378693",
+                    "size": "939963867",
+                    "download": "386741184"
                 },
                 "betapublic": {
                     "gid": "8154854876010806241",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17124277",
-                "timeupdated": "1737748566"
+                "buildid": "18117593",
+                "timeupdated": "1744995066"
             },
             "betapublic": {
                 "buildid": "17034994",
