@@ -4,8 +4,8 @@
     "name": "Oxygen Not Included",
     "schinese_name": "缺氧",
     "isfreeapp": "0",
-    "change_number": "28320588",
-    "update_time": "2025-04-05 12:48:06",
+    "change_number": "28546783",
+    "update_time": "2025-04-18 17:36:13",
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -22,14 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8763872164019247984",
+                    "gid": "8769892709844459480",
                     "size": "2821853177",
-                    "download": "841093152"
+                    "download": "841093728"
                 },
                 "public_testing": {
-                    "gid": "8763872164019247984",
+                    "gid": "8769892709844459480",
                     "size": "2821853177",
-                    "download": "841093152"
+                    "download": "841093728"
                 },
                 "public_previous_update": {
                     "gid": "803942986771317167",
@@ -46,14 +46,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4304443127776767882",
+                    "gid": "6422915489049967664",
                     "size": "2809300467",
-                    "download": "838150688"
+                    "download": "838150064"
                 },
                 "public_testing": {
-                    "gid": "4304443127776767882",
+                    "gid": "6422915489049967664",
                     "size": "2809300467",
-                    "download": "838150688"
+                    "download": "838150064"
                 },
                 "public_previous_update": {
                     "gid": "6268673640243176857",
@@ -70,14 +70,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4788792795451624536",
+                    "gid": "4416075747574424286",
                     "size": "2818434431",
-                    "download": "838985456"
+                    "download": "838985088"
                 },
                 "public_testing": {
-                    "gid": "4788792795451624536",
+                    "gid": "4416075747574424286",
                     "size": "2818434431",
-                    "download": "838985456"
+                    "download": "838985088"
                 },
                 "public_previous_update": {
                     "gid": "6565190446589867042",
@@ -284,8 +284,7 @@
                     "size": "26417253",
                     "download": "25187424"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3302473": {
             "dlcappid": "3302470",
@@ -309,18 +308,17 @@
                     "size": "26418982",
                     "download": "25189344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17799307",
-                "timeupdated": "1742506538"
+                "buildid": "18018996",
+                "timeupdated": "1744155303"
             },
             "public_testing": {
-                "buildid": "17799307",
+                "buildid": "18018996",
                 "description": "No testing (same as none)",
-                "timeupdated": "1742506491"
+                "timeupdated": "1744155260"
             },
             "public_previous_update": {
                 "buildid": "17192450",
