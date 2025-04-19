@@ -4,8 +4,8 @@
     "name": "Total War: THREE KINGDOMS",
     "schinese_name": "全面战争：三国",
     "isfreeapp": "0",
-    "change_number": "28335594",
-    "update_time": "2025-04-07 04:33:03",
+    "change_number": "28462241",
+    "update_time": "2025-04-14 16:00:14",
     "depot": {
         "workshopdepot": "779340",
         "228983": {
@@ -1708,6 +1708,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3b8f8502e227a5ed9d8ffe754a6b5f35bd016e606e815e8304c7305da8da5b86"
     }
 }
