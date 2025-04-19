@@ -4,20 +4,20 @@
     "name": "Xenonauts 2",
     "schinese_name": "异种航员2 Xenonauts 2",
     "isfreeapp": "0",
-    "change_number": "28322206",
-    "update_time": "2025-04-05 17:16:49",
+    "change_number": "28548690",
+    "update_time": "2025-04-18 19:47:25",
     "depot": {
         "538031": {
             "manifests": {
                 "public": {
-                    "gid": "7061589386769966419",
-                    "size": "6119630529",
-                    "download": "4545822464"
+                    "gid": "1102817649339257082",
+                    "size": "6127841890",
+                    "download": "4551719984"
                 },
                 "experimental": {
-                    "gid": "584074892391547850",
-                    "size": "5943035845",
-                    "download": "4436023968"
+                    "gid": "8223121335360111002",
+                    "size": "5950368098",
+                    "download": "4441045824"
                 },
                 "experimental_legacy": {
                     "gid": "1965635032256023167",
@@ -40,13 +40,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17956140",
-                "timeupdated": "1743844582"
+                "buildid": "18116604",
+                "timeupdated": "1744906874"
             },
             "experimental": {
-                "buildid": "17954611",
+                "buildid": "18150202",
                 "description": "Experimental / unstable builds",
-                "timeupdated": "1743610008"
+                "timeupdated": "1744976839"
             },
             "experimental_legacy": {
                 "buildid": "17625042",
