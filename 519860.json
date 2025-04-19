@@ -4,8 +4,8 @@
     "name": "DUSK",
     "schinese_name": "黄昏DUSK",
     "isfreeapp": "0",
-    "change_number": "28315861",
-    "update_time": "2025-04-05 03:46:33",
+    "change_number": "28504065",
+    "update_time": "2025-04-16 16:49:43",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,ukrainian,latam",
@@ -156,9 +156,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4396541921150479216",
-                    "size": "4502763545",
-                    "download": "2494554176"
+                    "gid": "949639710911839686",
+                    "size": "4508756156",
+                    "download": "2497771104"
                 },
                 "32bit": {
                     "gid": "8705567073118126358",
@@ -182,9 +182,9 @@
             "dlcappid": "1846130",
             "manifests": {
                 "public": {
-                    "gid": "4228342024949177018",
-                    "size": "4160828101",
-                    "download": "2380315040"
+                    "gid": "209857286793748733",
+                    "size": "4112793123",
+                    "download": "2376674768"
                 },
                 "sdk_testing": {
                     "gid": "2904279393490597890",
@@ -219,8 +219,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16697379",
-                "timeupdated": "1733872090"
+                "buildid": "18105507",
+                "timeupdated": "1744669073"
             },
             "32bit": {
                 "buildid": "6637728",
@@ -240,6 +240,6 @@
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e0af3173be392be10574cd5e69bc077c37718edf6ae6cfef1f04dec3352a91e1"
     }
 }
