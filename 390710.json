@@ -4,8 +4,8 @@
     "name": "Acceleration of SUGURI 2",
     "schinese_name": "疾旋战姬 极速对决2",
     "isfreeapp": "0",
-    "change_number": "28256674",
-    "update_time": "2025-04-02 05:23:41",
+    "change_number": "28488126",
+    "update_time": "2025-04-15 21:45:35",
     "depot": {
         "228986": {
             "config": {
@@ -24,17 +24,17 @@
         "390711": {
             "manifests": {
                 "public": {
-                    "gid": "3337662132910465577",
-                    "size": "1162021638",
-                    "download": "1096325824"
+                    "gid": "7951167515775033191",
+                    "size": "1162025264",
+                    "download": "1096327392"
                 }
             },
             "decryptionkey": "719119317690283c0722310941f213e99de10833bf0dedbe0ebb0880d36b474c"
         },
         "branches": {
             "public": {
-                "buildid": "17729082",
-                "timeupdated": "1741973486"
+                "buildid": "18114299",
+                "timeupdated": "1744724729"
             }
         }
     }
