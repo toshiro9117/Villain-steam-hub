@@ -4,8 +4,8 @@
     "name": "Trainz Plus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28224768",
-    "update_time": "2025-03-31 16:50:56",
+    "change_number": "28521962",
+    "update_time": "2025-04-17 13:07:02",
     "depot": {
         "1904162": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "14588620703",
                     "download": "14114731504"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
