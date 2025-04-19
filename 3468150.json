@@ -4,8 +4,8 @@
     "name": "Hotel Owner Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28295489",
-    "update_time": "2025-04-04 03:17:26",
+    "change_number": "28409130",
+    "update_time": "2025-04-10 22:10:19",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "6004650378",
                     "download": "5787679920"
                 }
-            }
+            },
+            "decryptionkey": "d4a56509e57622b56f2ae6cc468495166bb3368b3086712e8f3a56fd1b58e335"
         },
         "branches": {
             "public": {
