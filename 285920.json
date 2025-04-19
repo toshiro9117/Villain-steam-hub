@@ -4,8 +4,8 @@
     "name": "TerraTech",
     "schinese_name": "泰拉科技",
     "isfreeapp": "0",
-    "change_number": "28266290",
-    "update_time": "2025-04-02 18:43:11",
+    "change_number": "28440637",
+    "update_time": "2025-04-12 10:55:19",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "",
@@ -257,8 +257,7 @@
                     "size": "1170",
                     "download": "992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "285939": {
             "dlcappid": "361530",
@@ -287,8 +286,7 @@
                     "size": "1173",
                     "download": "992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1080910": {
             "config": {
