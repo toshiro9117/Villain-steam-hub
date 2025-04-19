@@ -4,20 +4,20 @@
     "name": "Astrea: Six-Sided Oracles",
     "schinese_name": "阿斯特赖亚",
     "isfreeapp": "0",
-    "change_number": "28003948",
-    "update_time": "2025-03-18 08:05:16",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:12",
     "depot": {
         "1755831": {
             "manifests": {
                 "public": {
-                    "gid": "6200125317246372703",
-                    "size": "2679441074",
-                    "download": "508938016"
+                    "gid": "4762397700270722395",
+                    "size": "2679665707",
+                    "download": "509026432"
                 },
                 "beta": {
-                    "gid": "1956093992827915201",
-                    "size": "2679617872",
-                    "download": "509018544"
+                    "gid": "4762397700270722395",
+                    "size": "2679665707",
+                    "download": "509026432"
                 }
             },
             "decryptionkey": "7929644c919935b45cd67ace72fe843e68a55b2f15aafbc4d146754bedfa2b45"
@@ -42,16 +42,16 @@
         "workshopdepot": "1755830",
         "branches": {
             "public": {
-                "buildid": "16826343",
-                "timeupdated": "1734832062"
+                "buildid": "18016665",
+                "timeupdated": "1744073996"
             },
             "beta": {
-                "buildid": "17719892",
+                "buildid": "18016665",
                 "description": "beta branch",
-                "timeupdated": "1741928385"
+                "timeupdated": "1744074102"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "28038915a8d7793a50ec7ca223441547abfc8732362038d7f881ca53c4a4e6e2"
     }
 }
