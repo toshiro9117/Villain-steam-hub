@@ -4,8 +4,8 @@
     "name": "Quadrata",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26962392",
-    "update_time": "2025-01-12 22:16:10",
+    "change_number": "28510172",
+    "update_time": "2025-04-16 22:37:02",
     "depot": {
         "2066951": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "67540949",
                     "download": "17838624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2066953": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "90068271",
                     "download": "24540448"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
