@@ -4,8 +4,8 @@
     "name": "弥留 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27887356",
-    "update_time": "2025-03-11 17:16:18",
+    "change_number": "28361350",
+    "update_time": "2025-04-08 16:24:27",
     "depot": {
         "228990": {
             "config": {
@@ -27,7 +27,8 @@
                     "size": "1406008729",
                     "download": "989819712"
                 }
-            }
+            },
+            "decryptionkey": "ac798a13e03342c58b4a82a00d5834b862288b3ede4b3c190500d6feb01edf24"
         },
         "branches": {
             "public": {
