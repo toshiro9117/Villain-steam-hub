@@ -4,8 +4,8 @@
     "name": "Indoorlands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27784689",
-    "update_time": "2025-03-05 08:11:30",
+    "change_number": "28450651",
+    "update_time": "2025-04-13 13:08:38",
     "depot": {
         "1378891": {
             "manifests": {
@@ -70,8 +70,7 @@
                     "size": "2906330189",
                     "download": "533852624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1378894": {
             "config": {
@@ -93,8 +92,7 @@
                     "size": "2923026276",
                     "download": "527419632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1666380": {
             "dlcappid": "1666380",
