@@ -4,25 +4,24 @@
     "name": "Ova Magica",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344692",
-    "update_time": "2025-04-07 19:35:30",
+    "change_number": "28548507",
+    "update_time": "2025-04-18 19:32:17",
     "depot": {
         "1299171": {
             "manifests": {
                 "public": {
-                    "gid": "7550226680683721840",
-                    "size": "2001815928",
-                    "download": "578099344"
+                    "gid": "8602296607118179985",
+                    "size": "1314036628",
+                    "download": "869391264"
                 }
             },
             "decryptionkey": "502957fb11cef8433db5c052857c97adab082add8bb8688dcc50c2eea1e366ff"
         },
         "branches": {
             "public": {
-                "buildid": "17138916",
-                "timeupdated": "1737934093"
+                "buildid": "18111253",
+                "timeupdated": "1744975759"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
