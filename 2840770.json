@@ -4,8 +4,8 @@
     "name": "Avatar: Frontiers of Pandora",
     "schinese_name": "阿凡达：潘多拉边境™",
     "isfreeapp": "0",
-    "change_number": "28316148",
-    "update_time": "2025-04-05 04:10:36",
+    "change_number": "28542608",
+    "update_time": "2025-04-18 12:04:03",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6340378583924013211",
-                    "size": "106681399101",
-                    "download": "96536912480"
+                    "gid": "2590098186862546712",
+                    "size": "108758865166",
+                    "download": "98371019824"
                 }
             },
             "decryptionkey": "64292a119e4b390ef4488dd942329a7794234989b74c79e3228adb22bfd9d4e9"
@@ -107,9 +107,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6840467056911311843",
-                    "size": "5105892323",
-                    "download": "4329023568"
+                    "gid": "771039729079638435",
+                    "size": "5479024640",
+                    "download": "4649739584"
                 }
             },
             "decryptionkey": "3fefd54093821f0ae2793878338384715c8b4061d70ae3a04e4fb281684c0af0"
@@ -122,17 +122,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6515694748631235451",
-                    "size": "3645553671",
-                    "download": "3214739808"
+                    "gid": "6345458227596974692",
+                    "size": "3742082897",
+                    "download": "3298763280"
                 }
             },
             "decryptionkey": "bb5b5446892c4e6b050d88e7e41f1d775f39970ea3d5998380d59084bcd5f5d4"
         },
         "branches": {
             "public": {
-                "buildid": "17277991",
-                "timeupdated": "1739434119"
+                "buildid": "17864554",
+                "timeupdated": "1744704515"
             }
         },
         "privatebranches": "1"
