@@ -4,8 +4,8 @@
     "name": "New World: Aeternum",
     "schinese_name": "新世界",
     "isfreeapp": "0",
-    "change_number": "28242172",
-    "update_time": "2025-04-01 14:07:59",
+    "change_number": "28543800",
+    "update_time": "2025-04-18 14:07:39",
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "1063731": {
             "manifests": {
                 "public": {
-                    "gid": "1796477251214728052",
-                    "size": "82055307377",
-                    "download": "71672731216"
+                    "gid": "6877191065725066086",
+                    "size": "82174482308",
+                    "download": "71747699216"
                 }
             },
             "decryptionkey": "3d40a764fce79086fca5d6ec9b71ab93a9b539b43510269327bcf68dc420081a"
@@ -47,9 +47,9 @@
             "dlcappid": "1716920",
             "manifests": {
                 "public": {
-                    "gid": "7816758749354565920",
-                    "size": "526762469",
-                    "download": "127732048"
+                    "gid": "6308380165367816880",
+                    "size": "526800869",
+                    "download": "127745920"
                 }
             },
             "decryptionkey": ""
@@ -58,9 +58,9 @@
             "dlcappid": "1210560",
             "manifests": {
                 "public": {
-                    "gid": "2272686847508431509",
-                    "size": "226725560",
-                    "download": "58977248"
+                    "gid": "7160029624270453590",
+                    "size": "226731192",
+                    "download": "58973184"
                 }
             },
             "decryptionkey": ""
@@ -171,8 +171,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17903291",
-                "timeupdated": "1743487676"
+                "buildid": "18132248",
+                "timeupdated": "1744956454"
             }
         },
         "privatebranches": "1"
