@@ -4,8 +4,8 @@
     "name": "Bare Witness",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27876700",
-    "update_time": "2025-03-11 02:01:38",
+    "change_number": "28440404",
+    "update_time": "2025-04-12 10:26:46",
     "depot": {
         "2387381": {
             "config": {
@@ -13,8 +13,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3139802845687552822",
-                    "size": "8244684224",
+                    "gid": "4464630656950927773",
+                    "size": "8244684276",
                     "download": "8102385568"
                 }
             },
@@ -22,8 +22,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17098710",
-                "timeupdated": "1737595295"
+                "buildid": "18080394",
+                "timeupdated": "1744424803"
             }
         },
         "privatebranches": "1"
