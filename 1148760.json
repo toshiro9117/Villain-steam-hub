@@ -4,8 +4,8 @@
     "name": "I Was a Teenage Exocolonist",
     "schinese_name": "少年异星殖民者",
     "isfreeapp": "0",
-    "change_number": "28201127",
-    "update_time": "2025-03-29 08:14:45",
+    "change_number": "28435710",
+    "update_time": "2025-04-12 02:55:19",
     "depot": {
         "1148761": {
             "config": {
@@ -100,8 +100,7 @@
                     "size": "1716679786",
                     "download": "1429020208"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1148763": {
             "config": {
@@ -148,8 +147,7 @@
                     "size": "1745424326",
                     "download": "1426509232"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
