@@ -4,8 +4,8 @@
     "name": "The Iron Oath",
     "schinese_name": "钢铁誓言",
     "isfreeapp": "0",
-    "change_number": "27422964",
-    "update_time": "2025-02-11 23:49:52",
+    "change_number": "28501650",
+    "update_time": "2025-04-16 14:07:59",
     "depot": {
         "workshopdepot": "699330",
         "699331": {
@@ -41,8 +41,7 @@
                     "size": "1756805500",
                     "download": "509255968"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
