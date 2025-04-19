@@ -4,8 +4,8 @@
     "name": "最后的修仙者",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28337047",
-    "update_time": "2025-04-07 08:01:59",
+    "change_number": "28549285",
+    "update_time": "2025-04-18 20:31:10",
     "depot": {
         "baselanguages": "schinese",
         "3486241": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "421691917567542475",
-                    "size": "492333896",
-                    "download": "433402144"
+                    "gid": "4851789837223676586",
+                    "size": "528208312",
+                    "download": "457554016"
                 }
             },
             "decryptionkey": "a164389c120eaec1ad988654e1865803b19b5e9c7b746a3abe9b4cedf6bbb143"
         },
         "branches": {
             "public": {
-                "buildid": "17971359",
-                "timeupdated": "1743689942"
+                "buildid": "18144727",
+                "timeupdated": "1744979466"
             }
         },
         "privatebranches": "1"
