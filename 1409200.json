@@ -4,8 +4,8 @@
     "name": "HYPERVIOLENT",
     "schinese_name": "急速击杀",
     "isfreeapp": "0",
-    "change_number": "28342730",
-    "update_time": "2025-04-07 17:28:14",
+    "change_number": "28536512",
+    "update_time": "2025-04-18 03:17:22",
     "depot": {
         "1409201": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1243294490672964013",
-                    "size": "805402897",
-                    "download": "680308000"
+                    "gid": "3136899214556366727",
+                    "size": "812613878",
+                    "download": "698220912"
                 }
             },
             "decryptionkey": "3a189a0abf8cef559cf5982e717cc4673bd2d4bdf07f74402852b1471c67f557"
@@ -33,8 +33,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "15713709",
-                "timeupdated": "1726505740"
+                "buildid": "18128301",
+                "timeupdated": "1744903280"
             }
         },
         "privatebranches": "1"
