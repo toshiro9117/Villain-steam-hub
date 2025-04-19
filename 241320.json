@@ -4,8 +4,8 @@
     "name": "Ittle Dew",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27166440",
-    "update_time": "2025-01-26 04:26:09",
+    "change_number": "28495752",
+    "update_time": "2025-04-16 05:24:38",
     "depot": {
         "228983": {
             "config": {
@@ -41,8 +41,7 @@
                     "size": "468135806",
                     "download": "111858256"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "241323": {
             "config": {
@@ -55,8 +54,7 @@
                     "size": "471189391",
                     "download": "112675456"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
