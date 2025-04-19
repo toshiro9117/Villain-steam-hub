@@ -4,8 +4,8 @@
     "name": "Universe Sandbox",
     "schinese_name": "宇宙沙盘²",
     "isfreeapp": "0",
-    "change_number": "28342418",
-    "update_time": "2025-04-07 17:12:01",
+    "change_number": "28544291",
+    "update_time": "2025-04-18 14:50:45",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "230290",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2185685193094643583",
-                    "size": "2868683565",
-                    "download": "1457507072"
+                    "gid": "8108344863587421816",
+                    "size": "2868805832",
+                    "download": "1457541840"
                 },
                 "update-34.1.1": {
                     "gid": "8403049013177121841",
@@ -153,9 +153,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2978920959202054268",
-                    "size": "2846814300",
-                    "download": "1446164224"
+                    "gid": "5382537166534337732",
+                    "size": "2846886974",
+                    "download": "1446185968"
                 },
                 "update-34.1.1": {
                     "gid": "5440130934594855393",
@@ -257,8 +257,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17715145",
-                "timeupdated": "1743701034"
+                "buildid": "18030451",
+                "timeupdated": "1744144435"
             },
             "update-34.1.1": {
                 "buildid": "13730482",
@@ -346,6 +346,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "646f1ae2391838142b4ec9c82016313256b8c31e31b39bf343e1f82002443441"
     }
 }
