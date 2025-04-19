@@ -4,8 +4,8 @@
     "name": "ROGUE LIGHT DECK BUILDER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28233394",
-    "update_time": "2025-04-01 01:52:35",
+    "change_number": "28481101",
+    "update_time": "2025-04-15 14:55:32",
     "depot": {
         "3149371": {
             "config": {
@@ -17,6 +17,11 @@
                     "gid": "7923779349053445495",
                     "size": "1757415502",
                     "download": "1330927376"
+                },
+                "dx11": {
+                    "gid": "2781435969622613318",
+                    "size": "1099223074",
+                    "download": "965814000"
                 },
                 "my-lovely-testing-chamber": {
                     "gid": "6936898961017814515",
@@ -30,6 +35,11 @@
             "public": {
                 "buildid": "17824612",
                 "timeupdated": "1742707430"
+            },
+            "dx11": {
+                "buildid": "18043711",
+                "description": "DirectX 11 version.",
+                "timeupdated": "1744214738"
             },
             "my-lovely-testing-chamber": {
                 "buildid": "17814659",
