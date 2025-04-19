@@ -4,9 +4,10 @@
     "name": "Jetstream",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27129347",
-    "update_time": "2025-01-23 19:26:41",
+    "change_number": "28470755",
+    "update_time": "2025-04-15 00:44:31",
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian,latam",
         "738861": {
             "config": {
                 "oslist": "windows"
@@ -30,8 +31,7 @@
                     "size": "47602685",
                     "download": "18295408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "738863": {
             "config": {
@@ -43,20 +43,8 @@
                     "size": "30905216",
                     "download": "14839392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
-        "1045360": {
-            "manifests": {
-                "public": {
-                    "gid": "7037526860350632861",
-                    "size": "47745426",
-                    "download": "39719520"
-                }
-            },
-            "decryptionkey": ""
-        },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian,latam",
         "branches": {
             "public": {
                 "buildid": "4123010",
