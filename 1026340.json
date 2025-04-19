@@ -4,8 +4,8 @@
     "name": "Barotrauma Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344764",
-    "update_time": "2025-04-07 19:40:15",
+    "change_number": "28504899",
+    "update_time": "2025-04-16 17:38:55",
     "depot": {
         "1004": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4937754711947926684",
-                    "size": "150859779",
-                    "download": "52460240"
+                    "gid": "6654984148157858934",
+                    "size": "152033683",
+                    "download": "53083280"
                 }
             },
             "decryptionkey": ""
@@ -70,17 +70,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4620222048371224394",
-                    "size": "152326579",
-                    "download": "51931104"
+                    "gid": "833166156716136971",
+                    "size": "153315737",
+                    "download": "52543632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16693484",
-                "timeupdated": "1733915570"
+                "buildid": "18115310",
+                "timeupdated": "1744796330"
             }
         },
         "privatebranches": "1"
