@@ -4,8 +4,8 @@
     "name": "Rocket League",
     "schinese_name": "火箭联盟",
     "isfreeapp": "0",
-    "change_number": "28320263",
-    "update_time": "2025-04-05 11:49:56",
+    "change_number": "28542461",
+    "update_time": "2025-04-18 11:50:47",
     "depot": {
         "228989": {
             "config": {
@@ -223,6 +223,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "97978ac90e1684bd157296ba59e97d1abcd1df15d9337e4d6c18d1e1f7ef53c3"
     }
 }
