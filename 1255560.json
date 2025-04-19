@@ -4,8 +4,8 @@
     "name": "Myst",
     "schinese_name": "神秘岛",
     "isfreeapp": "0",
-    "change_number": "28297063",
-    "update_time": "2025-04-04 05:16:07",
+    "change_number": "28541373",
+    "update_time": "2025-04-18 10:08:10",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8933530348477167013",
-                    "size": "10947369026",
-                    "download": "10393176016"
+                    "gid": "830612300086006785",
+                    "size": "10952446747",
+                    "download": "10398199520"
                 },
                 "rollback_macos_under14-5": {
                     "gid": "5701998152114423577",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7230434635048246804",
-                    "size": "14681699216",
-                    "download": "10802991584"
+                    "gid": "2184786540487437506",
+                    "size": "14684630983",
+                    "download": "10812899632"
                 },
                 "rollback_macos_under14-5": {
                     "gid": "5998904543494293051",
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17878272",
-                "timeupdated": "1743128719"
+                "buildid": "18132023",
+                "timeupdated": "1744941427"
             },
             "rollback_macos_under14-5": {
                 "buildid": "16320994",
