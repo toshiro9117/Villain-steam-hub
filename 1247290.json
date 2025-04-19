@@ -4,8 +4,8 @@
     "name": "GameGuru MAX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334136",
-    "update_time": "2025-04-07 01:18:01",
+    "change_number": "28548287",
+    "update_time": "2025-04-18 19:15:05",
     "depot": {
         "workshopdepot": "1247290",
         "228988": {
@@ -1095,9 +1095,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7285361347167311622",
-                    "size": "568470408",
-                    "download": "121808320"
+                    "gid": "3900196261455126972",
+                    "size": "652439411",
+                    "download": "137539152"
                 },
                 "2023.04.26": {
                     "gid": "2572967055492472404",
@@ -3985,10 +3985,18 @@
             },
             "decryptionkey": ""
         },
+        "3583890": {
+            "dlcappid": "3583890",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "17852472",
-                "timeupdated": "1742910071"
+                "buildid": "18156971",
+                "timeupdated": "1744974735"
             },
             "2022.06.24": {
                 "buildid": "9056993",
