@@ -4,8 +4,8 @@
     "name": "Thyria",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28175767",
-    "update_time": "2025-03-28 01:36:44",
+    "change_number": "28514306",
+    "update_time": "2025-04-17 02:29:28",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,romanian,turkish,brazilian,ukrainian,latam,vietnamese",
         "1608591": {
@@ -46,8 +46,7 @@
                     "size": "1476855678",
                     "download": "1128729232"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
