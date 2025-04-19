@@ -4,8 +4,8 @@
     "name": "Kiosk",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28206758",
-    "update_time": "2025-03-29 22:38:40",
+    "change_number": "28394472",
+    "update_time": "2025-04-10 04:44:20",
     "depot": {
         "3126332": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "374686054",
                     "download": "177541312"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3126333": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "347626168",
                     "download": "163672848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
