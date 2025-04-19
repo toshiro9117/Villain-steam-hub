@@ -4,8 +4,8 @@
     "name": "Vasilisa and Baba Yaga",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28114716",
-    "update_time": "2025-03-25 02:22:17",
+    "change_number": "28445832",
+    "update_time": "2025-04-13 00:00:53",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -37,8 +37,7 @@
                     "size": "5508338911",
                     "download": "1396890672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2331073": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "5485110556",
                     "download": "1387421440"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
