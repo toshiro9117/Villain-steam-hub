@@ -4,8 +4,8 @@
     "name": "Total War: PHARAOH",
     "schinese_name": "全面战争：法老",
     "isfreeapp": "0",
-    "change_number": "28342298",
-    "update_time": "2025-04-07 17:02:54",
+    "change_number": "28457870",
+    "update_time": "2025-04-14 08:02:42",
     "depot": {
         "workshopdepot": "1937780",
         "hasdepotsindlc": "0",
@@ -77,7 +77,7 @@
                     "download": "48"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8f5254942b8ed8e9e81bb2fe2d582e127d3fffd947bc15214af463f0b3345429"
         },
         "1937785": {
             "config": {
@@ -243,8 +243,7 @@
                     "size": "220389416",
                     "download": "62846592"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2366647": {
             "config": {
@@ -256,8 +255,7 @@
                     "size": "50769200599",
                     "download": "27933483152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2366648": {
             "config": {
@@ -270,8 +268,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2366649": {
             "config": {
@@ -284,8 +281,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457180": {
             "config": {
@@ -298,8 +294,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457181": {
             "config": {
@@ -312,8 +307,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457182": {
             "config": {
@@ -326,8 +320,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457183": {
             "config": {
@@ -340,8 +333,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457184": {
             "config": {
@@ -354,8 +346,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457185": {
             "config": {
@@ -368,8 +359,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457186": {
             "config": {
@@ -382,8 +372,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457187": {
             "config": {
@@ -396,8 +385,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457188": {
             "config": {
@@ -410,8 +398,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2457189": {
             "config": {
@@ -424,8 +411,7 @@
                     "size": "2",
                     "download": "48"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2574940": {
             "dlcappid": "2574940",
@@ -452,8 +438,7 @@
                     "size": "103817971",
                     "download": "42617824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
