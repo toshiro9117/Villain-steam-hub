@@ -4,8 +4,8 @@
     "name": "HITMAN World of Assassination",
     "schinese_name": "杀手3",
     "isfreeapp": "0",
-    "change_number": "28278857",
-    "update_time": "2025-04-03 08:11:44",
+    "change_number": "28509737",
+    "update_time": "2025-04-16 22:15:24",
     "depot": {
         "1659041": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8600814998895655653",
-                    "size": "81716016079",
-                    "download": "70367893152"
+                    "gid": "2672127975667806282",
+                    "size": "81731519398",
+                    "download": "70381053808"
                 }
             },
             "decryptionkey": "891bd9670c03fa74065659fe448680b55b5279707dfe40493d5f00372e02b42f"
         },
         "branches": {
             "public": {
-                "buildid": "17881319",
-                "timeupdated": "1743073290"
+                "buildid": "18052870",
+                "timeupdated": "1744283289"
             }
         },
         "privatebranches": "1"
