@@ -4,8 +4,8 @@
     "name": "Preserve",
     "schinese_name": "东篱之下",
     "isfreeapp": "0",
-    "change_number": "28323226",
-    "update_time": "2025-04-05 20:03:01",
+    "change_number": "28530522",
+    "update_time": "2025-04-17 22:03:44",
     "depot": {
         "baselanguages": "english",
         "2109271": {
@@ -31,8 +31,7 @@
                     "size": "893870331",
                     "download": "702563184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2109273": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "942953352",
                     "download": "749501488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3114870": {
             "dlcappid": "3114870",
