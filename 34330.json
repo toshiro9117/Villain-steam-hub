@@ -4,8 +4,8 @@
     "name": "Total War: SHOGUN 2",
     "schinese_name": "全面战争：幕府将军2",
     "isfreeapp": "0",
-    "change_number": "28335577",
-    "update_time": "2025-04-07 04:30:56",
+    "change_number": "28456277",
+    "update_time": "2025-04-14 04:07:05",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -1210,6 +1210,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "db752e6cae43e9d2d14ba61659d82c6484792aa8ca8d1fe37e386fed68195a22"
     }
 }
