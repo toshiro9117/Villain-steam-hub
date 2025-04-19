@@ -4,8 +4,8 @@
     "name": "Broken Sword 2 - the Smoking Mirror: Remastered (2010)",
     "schinese_name": "断剑2：烟镜-重制版",
     "isfreeapp": "0",
-    "change_number": "27174328",
-    "update_time": "2025-01-27 03:24:46",
+    "change_number": "28445009",
+    "update_time": "2025-04-12 22:10:35",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish",
@@ -75,8 +75,7 @@
                     "size": "4732278",
                     "download": "1414400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "565777": {
             "config": {
@@ -89,8 +88,7 @@
                     "size": "4653053",
                     "download": "1461328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "33602": {
             "config": {
@@ -103,8 +101,7 @@
                     "size": "818667378",
                     "download": "793378112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "565770": {
             "manifests": {
@@ -152,8 +149,7 @@
                     "size": "55905274",
                     "download": "14050864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "33606": {
             "dlcappid": "580440",
@@ -167,8 +163,7 @@
                     "size": "13943715",
                     "download": "4372032"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "565772": {
             "dlcappid": "580440",
@@ -182,8 +177,7 @@
                     "size": "13796335",
                     "download": "4338320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "33607": {
             "dlcappid": "580440",
