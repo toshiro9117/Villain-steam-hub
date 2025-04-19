@@ -4,8 +4,8 @@
     "name": "Pacific Drive",
     "schinese_name": "超自然车旅 Pacific Drive",
     "isfreeapp": "0",
-    "change_number": "28337147",
-    "update_time": "2025-04-07 08:15:24",
+    "change_number": "28519912",
+    "update_time": "2025-04-17 09:57:19",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -25,17 +25,17 @@
         "1458141": {
             "manifests": {
                 "public": {
-                    "gid": "6024366951373330519",
-                    "size": "21083971090",
-                    "download": "19759349328"
+                    "gid": "8964562328203423133",
+                    "size": "21085030059",
+                    "download": "19759420320"
                 }
             },
             "decryptionkey": "006e2d6e9d40e35f8533859d38ce7f71cb41794bcd91cc1c67617d86a13a6395"
         },
         "branches": {
             "public": {
-                "buildid": "17931940",
-                "timeupdated": "1743696145"
+                "buildid": "18065849",
+                "timeupdated": "1744732800"
             }
         },
         "privatebranches": "1"
