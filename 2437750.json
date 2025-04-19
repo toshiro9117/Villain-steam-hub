@@ -4,8 +4,8 @@
     "name": "Paradise Lust 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28306690",
-    "update_time": "2025-04-04 18:46:50",
+    "change_number": "28526133",
+    "update_time": "2025-04-17 17:50:06",
     "depot": {
         "2437751": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "2493231520"
                 },
                 "beta": {
-                    "gid": "3316278333708718208",
-                    "size": "3931382726",
-                    "download": "2595406944"
+                    "gid": "3376562311612667196",
+                    "size": "3965562797",
+                    "download": "2619553728"
                 }
             },
             "decryptionkey": "fbfeaffc471988000b182f3f11fb3018a63b5f28d740781e360cb287c60bd84a"
@@ -38,9 +38,9 @@
                     "download": "2487750784"
                 },
                 "beta": {
-                    "gid": "4022186376198883866",
-                    "size": "3922847465",
-                    "download": "2589930032"
+                    "gid": "3640147265750725136",
+                    "size": "3957027709",
+                    "download": "2613040816"
                 }
             },
             "decryptionkey": ""
@@ -57,12 +57,11 @@
                     "download": "2494706688"
                 },
                 "beta": {
-                    "gid": "8798789457473457838",
-                    "size": "3953332404",
-                    "download": "2597597488"
+                    "gid": "5543604709199937923",
+                    "size": "3987520416",
+                    "download": "2620842912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2437754": {
             "config": {
@@ -76,12 +75,11 @@
                     "download": "2492619744"
                 },
                 "beta": {
-                    "gid": "6815156000068799383",
-                    "size": "3932216088",
-                    "download": "2595425904"
+                    "gid": "794001034754713247",
+                    "size": "3966394617",
+                    "download": "2619970496"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -89,9 +87,9 @@
                 "timeupdated": "1741082875"
             },
             "beta": {
-                "buildid": "17983431",
+                "buildid": "18141788",
                 "description": "For beta testing",
-                "timeupdated": "1743763606"
+                "timeupdated": "1744881789"
             }
         },
         "privatebranches": "1"
