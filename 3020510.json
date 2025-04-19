@@ -4,15 +4,15 @@
     "name": "Legend of Heroes: Three Kingdoms",
     "schinese_name": "英雄立志传：三国志",
     "isfreeapp": "0",
-    "change_number": "28340973",
-    "update_time": "2025-04-07 15:30:35",
+    "change_number": "28546631",
+    "update_time": "2025-04-18 17:26:48",
     "depot": {
         "3020511": {
             "manifests": {
                 "public": {
-                    "gid": "5690368918070206522",
-                    "size": "7087062213",
-                    "download": "3467691952"
+                    "gid": "957501787078302298",
+                    "size": "7093352207",
+                    "download": "3470391248"
                 }
             },
             "decryptionkey": "139eea24aed3d56dc572b215fc4ea1845c3238d246a98ccef727f3eec863f528"
@@ -20,8 +20,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "18007251",
-                "timeupdated": "1744011028"
+                "buildid": "18154221",
+                "timeupdated": "1744961895"
             }
         },
         "privatebranches": "1"
