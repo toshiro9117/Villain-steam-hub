@@ -4,8 +4,8 @@
     "name": "Survivalist: Invisible Strain",
     "schinese_name": "生存主义：隐形异变",
     "isfreeapp": "0",
-    "change_number": "27982243",
-    "update_time": "2025-03-17 00:28:41",
+    "change_number": "28495639",
+    "update_time": "2025-04-16 05:14:18",
     "depot": {
         "229003": {
             "config": {
@@ -21,30 +21,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2772160312773586437",
-                    "size": "2821703905",
-                    "download": "1132463312"
+                    "gid": "4791143078968622305",
+                    "size": "2825119387",
+                    "download": "1133103184"
                 },
                 "publicbeta": {
-                    "gid": "2648887211521018678",
-                    "size": "2822442444",
-                    "download": "1132663872"
+                    "gid": "4881629733104696555",
+                    "size": "2747908185",
+                    "download": "1115849840"
                 }
             },
             "decryptionkey": "4bb6f2708dc837f78156fadb98d5d7e0c06e598c26f6a4dac7a3711064372e7c"
         },
         "workshopdepot": "1054510",
+        "baselanguages": "english,french,italian,koreana,spanish,schinese,russian,japanese,hungarian,turkish,latam",
         "branches": {
             "public": {
-                "buildid": "17663977",
-                "timeupdated": "1742142492"
+                "buildid": "18012235",
+                "timeupdated": "1744751654"
             },
             "publicbeta": {
-                "buildid": "17743561",
-                "timeupdated": "1742142513"
+                "buildid": "18118740",
+                "timeupdated": "1744751630"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "592b0ff23b19647ff4d7723dc556818d87b9a01809ebe381f9e4ff2d19fdc68a"
     }
 }
