@@ -4,8 +4,8 @@
     "name": "Drive Me Crazy",
     "schinese_name": "我为情狂",
     "isfreeapp": "0",
-    "change_number": "28170431",
-    "update_time": "2025-03-27 21:16:10",
+    "change_number": "28469089",
+    "update_time": "2025-04-14 23:08:13",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese,vietnamese",
         "hasdepotsindlc": "1",
@@ -53,8 +53,7 @@
                     "size": "30877008937",
                     "download": "30469983520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
