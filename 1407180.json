@@ -4,8 +4,8 @@
     "name": "Lawgivers II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28325380",
-    "update_time": "2025-04-06 01:18:32",
+    "change_number": "28515288",
+    "update_time": "2025-04-17 03:33:04",
     "depot": {
         "hasdepotsindlc": "0",
         "1407182": {
@@ -31,8 +31,7 @@
                     "size": "455866252",
                     "download": "131507744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1407184": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "483264667",
                     "download": "125231024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1407180",
         "branches": {
@@ -55,6 +53,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "613bbd9a3c8d8f17987c100fe43f4f40b82b181cdb21f6f0adc5dcfd32ca7630"
     }
 }
