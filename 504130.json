@@ -2,10 +2,10 @@
     "appid": "504130",
     "type": "Game",
     "name": "Manual Samuel - Anniversary Edition",
-    "schinese_name": "",
+    "schinese_name": "手动的塞缪尔 - 特别版",
     "isfreeapp": "0",
-    "change_number": "28331797",
-    "update_time": "2025-04-06 19:49:10",
+    "change_number": "28413825",
+    "update_time": "2025-04-11 02:10:40",
     "depot": {
         "504131": {
             "config": {
@@ -77,15 +77,29 @@
             "dlcappid": "536760",
             "decryptionkey": "0944690797f243f9f7c0ceeadc4923a98f81c0af8f193a50a506eb7c9312a2d5"
         },
+        "504134": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "classic": {
+                    "gid": "7173688730491457941",
+                    "size": "2209654623",
+                    "download": "477691104"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
                 "buildid": "5881508",
                 "timeupdated": "1606323144"
             },
             "classic": {
-                "buildid": "1473916",
+                "buildid": "18030382",
                 "description": "Manual Samuel 2016",
-                "timeupdated": "1604394625"
+                "timeupdated": "1744137171"
             }
         },
         "privatebranches": "1"
