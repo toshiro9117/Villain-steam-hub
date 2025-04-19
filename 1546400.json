@@ -4,8 +4,8 @@
     "name": "GigaBash",
     "schinese_name": "巨击大乱斗",
     "isfreeapp": "0",
-    "change_number": "28280359",
-    "update_time": "2025-04-03 10:27:10",
+    "change_number": "28542535",
+    "update_time": "2025-04-18 11:58:18",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4753424818341710308",
-                    "size": "12106164730",
-                    "download": "10450204400"
+                    "gid": "6254722860761419876",
+                    "size": "12135206230",
+                    "download": "10473507232"
                 }
             },
             "decryptionkey": "204960045ed3c99ef55795d7304c0d2fb3b2c548b70fabf87559565b88696b18"
@@ -37,8 +37,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17481368",
-                "timeupdated": "1741573043"
+                "buildid": "17892801",
+                "timeupdated": "1744254357"
             }
         },
         "privatebranches": "1"
