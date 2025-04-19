@@ -4,8 +4,8 @@
     "name": "Vaudeville",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27426517",
-    "update_time": "2025-02-12 03:38:12",
+    "change_number": "28519397",
+    "update_time": "2025-04-17 09:12:28",
     "depot": {
         "2240921": {
             "manifests": {
@@ -37,8 +37,7 @@
                     "size": "14264534750",
                     "download": "8987153824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,dutch,brazilian,ukrainian,latam",
         "branches": {
