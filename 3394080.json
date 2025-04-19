@@ -1,0 +1,27 @@
+{
+    "appid": "3394080",
+    "type": "Game",
+    "name": "Friendship with Benefits 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28517330",
+    "update_time": "2025-04-17 06:10:55",
+    "depot": {
+        "3394081": {
+            "manifests": {
+                "public": {
+                    "gid": "2954644666641736039",
+                    "size": "842285317",
+                    "download": "696681504"
+                }
+            },
+            "decryptionkey": "a55200e42abd908499968a30dd65529e5d9c7475f5ac318dd9b45c5aa040d67b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18089712",
+                "timeupdated": "1744550182"
+            }
+        }
+    }
+}
