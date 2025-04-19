@@ -4,8 +4,8 @@
     "name": "Kill It With Fire 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28316096",
-    "update_time": "2025-04-05 04:06:01",
+    "change_number": "28517364",
+    "update_time": "2025-04-17 06:14:16",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2357001": {
             "manifests": {
                 "public": {
-                    "gid": "4167514876820910078",
-                    "size": "1375422359",
-                    "download": "1223932832"
+                    "gid": "7834679060607184275",
+                    "size": "1657910434",
+                    "download": "1423780416"
                 }
             },
             "decryptionkey": "0dd7f5515621a34cfe7b442968604f3f84f8036b9cfd507eff7e86e3cec4013a"
         },
         "branches": {
             "public": {
-                "buildid": "16920366",
-                "timeupdated": "1736192703"
+                "buildid": "18118184",
+                "timeupdated": "1744819035"
             }
         },
         "privatebranches": "1"
