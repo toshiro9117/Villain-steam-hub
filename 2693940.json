@@ -4,8 +4,8 @@
     "name": "NEODUEL: Backpack Monsters ",
     "schinese_name": "背包精灵：决斗者",
     "isfreeapp": "0",
-    "change_number": "28093451",
-    "update_time": "2025-03-23 13:25:48",
+    "change_number": "28477771",
+    "update_time": "2025-04-15 09:30:58",
     "depot": {
         "2693941": {
             "manifests": {
@@ -37,8 +37,7 @@
                     "size": "2455050270",
                     "download": "471327872"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2693943": {
             "config": {
@@ -55,8 +54,7 @@
                     "size": "2435734182",
                     "download": "463795152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
