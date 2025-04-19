@@ -4,8 +4,8 @@
     "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339621",
-    "update_time": "2025-04-07 13:11:18",
+    "change_number": "28522388",
+    "update_time": "2025-04-17 13:48:57",
     "depot": {
         "228989": {
             "config": {
@@ -17,17 +17,17 @@
         "3155731": {
             "manifests": {
                 "public": {
-                    "gid": "7044953954704245436",
-                    "size": "13106161088",
-                    "download": "11974666832"
+                    "gid": "3482868819161014595",
+                    "size": "13114772376",
+                    "download": "11982069744"
                 }
             },
             "decryptionkey": "f5f3f46814cdec1b4afab690622f6dffb042619e839eb1b08310252f9099e0fc"
         },
         "branches": {
             "public": {
-                "buildid": "17932837",
-                "timeupdated": "1743646864"
+                "buildid": "18072438",
+                "timeupdated": "1744868932"
             }
         },
         "privatebranches": "1"
