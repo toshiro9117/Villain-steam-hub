@@ -1,26 +1,26 @@
 {
     "appid": "2385280",
     "type": "Game",
-    "name": "PALM TETRIS",
+    "name": "Palm Blocks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339617",
-    "update_time": "2025-04-07 13:10:36",
+    "change_number": "28393861",
+    "update_time": "2025-04-10 04:01:33",
     "depot": {
         "2385281": {
             "manifests": {
                 "public": {
-                    "gid": "1661888822361404505",
-                    "size": "14046872",
-                    "download": "8077296"
+                    "gid": "4072357755260070605",
+                    "size": "14042872",
+                    "download": "8073168"
                 }
             },
             "decryptionkey": "af7304015622174d2cb67200306a297ba8103dc40604a88974d9398ae0032fde"
         },
         "branches": {
             "public": {
-                "buildid": "10930153",
-                "timeupdated": "1680634600"
+                "buildid": "18017609",
+                "timeupdated": "1744064474"
             }
         }
     }
