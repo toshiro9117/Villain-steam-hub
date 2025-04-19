@@ -4,8 +4,8 @@
     "name": "SMIB: Mission Cure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27757200",
-    "update_time": "2025-03-04 00:15:40",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:18",
     "depot": {
         "1300061": {
             "config": {
@@ -34,8 +34,7 @@
                     "size": "311693053",
                     "download": "49174864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
