@@ -4,23 +4,23 @@
     "name": "Shattered Minds",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28345313",
-    "update_time": "2025-04-07 20:16:59",
+    "change_number": "28548107",
+    "update_time": "2025-04-18 19:01:05",
     "depot": {
         "2713692": {
             "manifests": {
                 "public": {
-                    "gid": "2548624551574820706",
-                    "size": "4070723499",
-                    "download": "3749227296"
+                    "gid": "2429317223325297478",
+                    "size": "4070725303",
+                    "download": "3749241056"
                 }
             },
             "decryptionkey": "b78eff7b11ce3c5061e4fc8f455c25d1d7ea57fbfe0889f1d1268a6ff56b66df"
         },
         "branches": {
             "public": {
-                "buildid": "17796900",
-                "timeupdated": "1742486867"
+                "buildid": "18043573",
+                "timeupdated": "1744214200"
             }
         }
     }
