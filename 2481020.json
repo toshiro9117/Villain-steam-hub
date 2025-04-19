@@ -4,8 +4,8 @@
     "name": "Vampire Therapist",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334067",
-    "update_time": "2025-04-07 01:11:00",
+    "change_number": "28494255",
+    "update_time": "2025-04-16 03:30:17",
     "depot": {
         "2481021": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "2530065831",
                     "download": "2133980640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2481023": {
             "config": {
@@ -43,16 +42,23 @@
                     "size": "2508884918",
                     "download": "2128993392"
                 }
+            }
+        },
+        "3643880": {
+            "dlcappid": "3643880",
+            "manifests": {
+                "public": {
+                    "gid": "518110493711507106",
+                    "size": "140072987",
+                    "download": "134576384"
+                }
             },
             "decryptionkey": ""
         },
-        "3643880": {
-            "dlcappid": "3643880"
-        },
         "branches": {
             "public": {
-                "buildid": "17354024",
-                "timeupdated": "1739463379"
+                "buildid": "18118415",
+                "timeupdated": "1744745389"
             }
         },
         "privatebranches": "1"
