@@ -4,8 +4,8 @@
     "name": "Saviorless",
     "schinese_name": "破灭",
     "isfreeapp": "0",
-    "change_number": "28118177",
-    "update_time": "2025-03-25 06:18:54",
+    "change_number": "28513832",
+    "update_time": "2025-04-17 02:01:52",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese,brazilian",
         "1438482": {
@@ -18,8 +18,7 @@
                     "size": "3504900567",
                     "download": "706671360"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1438483": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "3440486261",
                     "download": "698138320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
