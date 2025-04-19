@@ -4,8 +4,8 @@
     "name": "Mindustry",
     "schinese_name": "像素工厂",
     "isfreeapp": "0",
-    "change_number": "27998344",
-    "update_time": "2025-03-18 00:51:55",
+    "change_number": "28539698",
+    "update_time": "2025-04-18 07:29:45",
     "depot": {
         "workshopdepot": "1127400",
         "1127401": {},
@@ -36,9 +36,14 @@
                     "download": "99651472"
                 },
                 "bleeding-edge": {
-                    "gid": "1480243931215619868",
-                    "size": "103228476",
-                    "download": "87058688"
+                    "gid": "7371836965234605697",
+                    "size": "103550045",
+                    "download": "88439456"
+                },
+                "v8-beta": {
+                    "gid": "6094385906359109997",
+                    "size": "103535601",
+                    "download": "87337552"
                 }
             },
             "decryptionkey": "0c3b8eed200732123d8cacc1b727e617fd6bb38b1f48bf98c39fb9f3988476bb"
@@ -70,9 +75,14 @@
                     "download": "93582288"
                 },
                 "bleeding-edge": {
-                    "gid": "365619848671370973",
-                    "size": "105572514",
-                    "download": "85729216"
+                    "gid": "1151558538290623611",
+                    "size": "105894083",
+                    "download": "86047536"
+                },
+                "v8-beta": {
+                    "gid": "4667475291358586835",
+                    "size": "105879639",
+                    "download": "87094240"
                 }
             },
             "decryptionkey": "5d643ae406f0ba2609d9dc4952010fac6ae5e9b8d0ada1c2e9f2f5f3b72951bb"
@@ -103,9 +113,14 @@
                     "download": "91041392"
                 },
                 "bleeding-edge": {
-                    "gid": "1371734060438553956",
-                    "size": "105362478",
-                    "download": "86201968"
+                    "gid": "5922940919408699682",
+                    "size": "105684047",
+                    "download": "87509488"
+                },
+                "v8-beta": {
+                    "gid": "7531215291929630358",
+                    "size": "105669603",
+                    "download": "86437152"
                 }
             },
             "decryptionkey": "c5d4d15b366440e5b7e6095831d86b858a11cd69a1e7aca35a013702bb856ebe"
@@ -140,6 +155,11 @@
                     "gid": "6579979369900413011",
                     "size": "123828403",
                     "download": "105562992"
+                },
+                "v8-beta": {
+                    "gid": "8398684760396512188",
+                    "size": "124628691",
+                    "download": "107355824"
                 }
             },
             "decryptionkey": "10abd9b690595bd7c900f1e9da06fc982e945712021f175ff48ba377997a2568"
@@ -165,11 +185,16 @@
                 "timeupdated": "1671641877"
             },
             "bleeding-edge": {
-                "buildid": "17754514",
+                "buildid": "18158524",
                 "description": "The latest development build, may be unstable - this is a one way trip, BACK UP SAVES BEFORE SWITCHING!",
-                "timeupdated": "1742230311"
+                "timeupdated": "1744985549"
+            },
+            "v8-beta": {
+                "buildid": "18093853",
+                "description": "Beta builds for the v8 release",
+                "timeupdated": "1744599513"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "650b3a380cb4d9cf1366f9e41857b3ecbb33cb2d29b6b7fe650dfdd1d500a2c5"
     }
 }
