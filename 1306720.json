@@ -4,8 +4,8 @@
     "name": "Mayhem Brawler",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28332850",
-    "update_time": "2025-04-06 22:14:50",
+    "change_number": "28442679",
+    "update_time": "2025-04-12 16:14:21",
     "depot": {
         "1306721": {
             "config": {
@@ -13,6 +13,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "9030627359424041708",
+                    "size": "1361291500",
+                    "download": "1149765776"
+                },
+                "experimental": {
                     "gid": "514515741231500158",
                     "size": "1360072706",
                     "download": "1147924112"
@@ -22,8 +27,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "11394288",
+                "timeupdated": "1744445629"
+            },
+            "experimental": {
                 "buildid": "17896912",
-                "timeupdated": "1743161164"
+                "description": "Experimental branch",
+                "timeupdated": "1744445658"
             }
         },
         "privatebranches": "1"
