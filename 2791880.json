@@ -4,8 +4,8 @@
     "name": "Assembly Line 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27899233",
-    "update_time": "2025-03-12 05:23:09",
+    "change_number": "28453226",
+    "update_time": "2025-04-13 21:00:49",
     "depot": {
         "2791881": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "300072691",
                     "download": "176428592"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2791883": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "283950182",
                     "download": "170783504"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
