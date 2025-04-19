@@ -4,8 +4,8 @@
     "name": "1BITDRAGON",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28027382",
-    "update_time": "2025-03-19 14:51:50",
+    "change_number": "28539601",
+    "update_time": "2025-04-18 07:20:57",
     "depot": {
         "1864792": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "546431716",
                     "download": "84212640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1864794": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "224825674",
                     "download": "65641168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
