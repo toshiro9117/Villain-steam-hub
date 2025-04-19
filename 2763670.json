@@ -4,8 +4,8 @@
     "name": "Arctic Eggs",
     "schinese_name": "极地煎蛋",
     "isfreeapp": "0",
-    "change_number": "28278933",
-    "update_time": "2025-04-03 08:16:53",
+    "change_number": "28446850",
+    "update_time": "2025-04-13 02:12:13",
     "depot": {
         "baselanguages": "english",
         "2763671": {
@@ -23,8 +23,7 @@
                     "size": "584810929",
                     "download": "319883344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2763672": {
             "config": {
@@ -41,8 +40,7 @@
                     "size": "530504032",
                     "download": "314888096"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2763674": {
             "manifests": {
