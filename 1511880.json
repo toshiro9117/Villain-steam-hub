@@ -4,8 +4,8 @@
     "name": "Slime Heroes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328454",
-    "update_time": "2025-04-06 09:30:58",
+    "change_number": "28539551",
+    "update_time": "2025-04-18 07:16:20",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1511881": {
             "manifests": {
                 "public": {
-                    "gid": "362579516555029306",
-                    "size": "1966943156",
-                    "download": "876707808"
+                    "gid": "3294166847153298569",
+                    "size": "1967025076",
+                    "download": "876749664"
                 }
             },
             "decryptionkey": "c98880f6217a68ceaf09d0bfa4b10dc8bdd13e6928ddfd472f9ce9356deddf73"
         },
         "branches": {
             "public": {
-                "buildid": "17988209",
-                "timeupdated": "1743815690"
+                "buildid": "18150890",
+                "timeupdated": "1744994381"
             }
         },
         "privatebranches": "1"
