@@ -4,8 +4,8 @@
     "name": "Gemini Rue",
     "schinese_name": "双子座行动",
     "isfreeapp": "0",
-    "change_number": "28178324",
-    "update_time": "2025-03-28 04:34:03",
+    "change_number": "28515048",
+    "update_time": "2025-04-17 03:17:04",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "101087114224521363",
-                    "size": "284218216",
-                    "download": "243825712"
+                    "gid": "8186800891486102058",
+                    "size": "285208970",
+                    "download": "244163248"
                 }
             },
             "decryptionkey": "4a81d67d9a92e78d13638d071c5e73e2389bcf9257b7d8a0ed3a19b0fc77c16d"
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5327681545929061842",
-                    "size": "286413425",
-                    "download": "241584608"
+                    "gid": "7112653539096827260",
+                    "size": "300221802",
+                    "download": "244841328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "80313": {
             "config": {
@@ -42,12 +41,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7248483874701406496",
-                    "size": "348887218",
-                    "download": "260138144"
+                    "gid": "7667966768371961525",
+                    "size": "354294813",
+                    "download": "261305056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "80314": {
             "config": {
@@ -56,17 +54,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "157428367067918932",
-                    "size": "352177937",
-                    "download": "257038912"
+                    "gid": "7340256079490663537",
+                    "size": "357585532",
+                    "download": "258205776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16898052",
-                "timeupdated": "1735895354"
+                "buildid": "18133765",
+                "timeupdated": "1744831017"
             }
         },
         "privatebranches": "1"
