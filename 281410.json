@@ -4,11 +4,11 @@
     "name": "UberSoldier II",
     "schinese_name": "UberSoldier II 狼穴尖兵2",
     "isfreeapp": "0",
-    "change_number": "26514344",
-    "update_time": "2024-12-06 03:33:04",
+    "change_number": "28437563",
+    "update_time": "2025-04-12 05:09:23",
     "depot": {
         "overridescddb": "1",
-        "baselanguages": "english,german,french,italian,schinese,russian,polish,czech",
+        "baselanguages": "english,german,french,italian,schinese,russian,polish,hungarian,czech",
         "281411": {
             "systemdefined": "1",
             "config": {
@@ -36,7 +36,7 @@
                     "download": "2567188992"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0cda663271ac7880d3b0539a17582bbfb525696e07996d165ff415578169e6a6"
         },
         "281413": {
             "config": {
@@ -115,17 +115,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6787964579430634788",
-                    "size": "5266962347",
-                    "download": "2520469952"
+                    "gid": "8641456433224282855",
+                    "size": "5256448661",
+                    "download": "2520116816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "281419": {
+            "config": {
+                "language": "hungarian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1448425119698667645",
+                    "size": "5266978925",
+                    "download": "2520476336"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16517414",
-                "timeupdated": "1732475633"
+                "buildid": "18077892",
+                "timeupdated": "1744405758"
             }
         }
     }
