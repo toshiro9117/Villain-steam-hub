@@ -4,8 +4,8 @@
     "name": "Repella Fella",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28345592",
-    "update_time": "2025-04-07 20:34:07",
+    "change_number": "28507579",
+    "update_time": "2025-04-16 20:13:35",
     "depot": {
         "hasdepotsindlc": "1",
         "1008861": {
@@ -32,8 +32,7 @@
                     "size": "9038922178",
                     "download": "8549555024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1008863": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "9041063629",
                     "download": "8523279152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
