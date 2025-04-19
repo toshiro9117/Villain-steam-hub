@@ -4,8 +4,8 @@
     "name": "Everdream Valley",
     "schinese_name": "梦幻谷",
     "isfreeapp": "0",
-    "change_number": "28308768",
-    "update_time": "2025-04-04 20:58:39",
+    "change_number": "28482704",
+    "update_time": "2025-04-15 16:25:42",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1403651": {
             "manifests": {
                 "public": {
-                    "gid": "2962704932319054749",
-                    "size": "4823277953",
-                    "download": "3483947728"
+                    "gid": "4788315344691624007",
+                    "size": "4823395837",
+                    "download": "3484059120"
                 }
             },
             "decryptionkey": "05a2c84ec7278d6ab3d89d68bd1078d2def724ffd621fe4e9143d9cec8329bd3"
@@ -35,8 +35,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17955683",
-                "timeupdated": "1743771515"
+                "buildid": "18109505",
+                "timeupdated": "1744705536"
             }
         },
         "privatebranches": "1"
