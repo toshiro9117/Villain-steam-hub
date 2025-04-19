@@ -4,8 +4,8 @@
     "name": "STANDBOX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28249569",
-    "update_time": "2025-04-01 21:49:59",
+    "change_number": "28437557",
+    "update_time": "2025-04-12 05:08:50",
     "depot": {
         "228983": {
             "config": {
@@ -83,6 +83,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bed727eaf3c395f492149bc0db20076bc10b6b523748f0bc07fa59df9363cf57"
     }
 }
