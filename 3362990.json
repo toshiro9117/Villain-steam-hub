@@ -4,8 +4,8 @@
     "name": "The Three Kingdoms: The Tales of Jian An",
     "schinese_name": "三国志：建安外史",
     "isfreeapp": "0",
-    "change_number": "28337705",
-    "update_time": "2025-04-07 09:17:58",
+    "change_number": "28511965",
+    "update_time": "2025-04-17 00:13:37",
     "depot": {
         "228988": {
             "config": {
@@ -53,17 +53,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3107780214461593399",
-                    "size": "608789885",
-                    "download": "461311792"
+                    "gid": "5248894890356709378",
+                    "size": "582208202",
+                    "download": "456747312"
                 }
             },
             "decryptionkey": "c1053773c8087dd580afffa27d6e574c2f9c974efe91d0d238309827edf632aa"
         },
         "branches": {
             "public": {
-                "buildid": "17875760",
-                "timeupdated": "1743039705"
+                "buildid": "18124960",
+                "timeupdated": "1744789421"
             }
         },
         "privatebranches": "1"
