@@ -4,8 +4,8 @@
     "name": "Isle of Jura",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28255079",
-    "update_time": "2025-04-02 03:25:11",
+    "change_number": "28498483",
+    "update_time": "2025-04-16 09:07:33",
     "depot": {
         "baselanguages": "english",
         "1703141": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2903138729315711358",
-                    "size": "526697100",
-                    "download": "115935696"
+                    "gid": "4641424303195705765",
+                    "size": "526704388",
+                    "download": "115933024"
                 }
             },
             "decryptionkey": "981eb524fa6581a1cbc2141a1a03c3e8b26196f322d4516c6e55c7ca706baef4"
@@ -31,8 +31,7 @@
                     "size": "528749552",
                     "download": "115858160"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1703143": {
             "config": {
@@ -40,17 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2385180383434959766",
-                    "size": "539196167",
-                    "download": "118674832"
+                    "gid": "5748286872511080529",
+                    "size": "539203455",
+                    "download": "118675824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17944480",
-                "timeupdated": "1743535506"
+                "buildid": "18045760",
+                "timeupdated": "1744225088"
             }
         }
     }
