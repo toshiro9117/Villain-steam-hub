@@ -1,0 +1,61 @@
+{
+    "appid": "1562690",
+    "type": "Game",
+    "name": "つぐのひ -彁名縛りの部屋-",
+    "schinese_name": "翌日 -鬼字之屋-",
+    "isfreeapp": "0",
+    "change_number": "28545535",
+    "update_time": "2025-04-18 16:13:44",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "1562691": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "628504063059943006",
+                    "size": "541498713",
+                    "download": "418494864"
+                }
+            },
+            "decryptionkey": "1752d1993f3de371df36865cf79aaec7f95906a46bd1f8d3e7947784f17ec5eb"
+        },
+        "1562692": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3463642557019369641",
+                    "size": "543601272",
+                    "download": "421263312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1562693": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7101839185609671600",
+                    "size": "541349122",
+                    "download": "418000512"
+                }
+            },
+            "decryptionkey": "50e13595bb74521c87b78497a5bebf56d1c592eed9b91990a1ecfdcc55073e46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18150324",
+                "timeupdated": "1744930437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
