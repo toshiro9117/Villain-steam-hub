@@ -4,8 +4,8 @@
     "name": "Forever Skies",
     "schinese_name": "永恒天空",
     "isfreeapp": "0",
-    "change_number": "28345902",
-    "update_time": "2025-04-07 20:54:25",
+    "change_number": "28548795",
+    "update_time": "2025-04-18 19:56:35",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5606790225951512776",
-                    "size": "32089794934",
-                    "download": "10218655456"
+                    "gid": "3674374458360680472",
+                    "size": "22344587721",
+                    "download": "8601153792"
                 },
                 "legacy": {
                     "gid": "2491595022991922376",
@@ -44,8 +44,8 @@
         "1641961": {},
         "branches": {
             "public": {
-                "buildid": "17493422",
-                "timeupdated": "1740481268"
+                "buildid": "18103937",
+                "timeupdated": "1744659563"
             },
             "legacy": {
                 "buildid": "15740077",
