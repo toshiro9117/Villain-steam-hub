@@ -4,8 +4,8 @@
     "name": "Weirdo",
     "schinese_name": "异人",
     "isfreeapp": "0",
-    "change_number": "28049359",
-    "update_time": "2025-03-20 18:55:38",
+    "change_number": "28548107",
+    "update_time": "2025-04-18 19:01:04",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "411870355673348722",
-                    "size": "1602767200",
-                    "download": "358698512"
+                    "gid": "7707196457106555434",
+                    "size": "1636814934",
+                    "download": "379633616"
                 }
             },
             "decryptionkey": "446c76053bf016bf6d54b3d27a5bad60b5773234362ea74e39b22ec41e3ed53b"
@@ -30,12 +30,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5744811207732469279",
-                    "size": "1600426365",
-                    "download": "358680992"
+                    "gid": "592368791297312465",
+                    "size": "1636648059",
+                    "download": "378257088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2998293": {
             "config": {
@@ -44,17 +43,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5791725433852427394",
-                    "size": "1626913565",
-                    "download": "366553008"
+                    "gid": "68197666269942835",
+                    "size": "1660870257",
+                    "download": "387503584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17788988",
-                "timeupdated": "1742439707"
+                "buildid": "18128934",
+                "timeupdated": "1744808074"
             }
         }
     }
