@@ -4,8 +4,8 @@
     "name": "Card Survival: Fantasy Forest",
     "schinese_name": "卡牌生存：奇幻森林",
     "isfreeapp": "0",
-    "change_number": "28324816",
-    "update_time": "2025-04-05 23:57:02",
+    "change_number": "28540489",
+    "update_time": "2025-04-18 08:42:32",
     "depot": {
         "2868861": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8675694458331977909",
-                    "size": "636964847",
-                    "download": "147896672"
+                    "gid": "270256236963861029",
+                    "size": "637554244",
+                    "download": "148271360"
                 },
                 "openbetabranch": {
-                    "gid": "6891113401074217031",
-                    "size": "636936308",
-                    "download": "147876832"
+                    "gid": "4438522871278326123",
+                    "size": "654634951",
+                    "download": "148925968"
                 }
             },
             "decryptionkey": "184987f74fbd9ce7b4460cf727ca7d3eec737adec7aab9dc0e7e438a0a01841b"
@@ -31,27 +31,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4937463059350693779",
-                    "size": "627348532",
-                    "download": "145527920"
+                    "gid": "6382591957831557432",
+                    "size": "627938449",
+                    "download": "145898912"
                 },
                 "openbetabranch": {
-                    "gid": "4937463059350693779",
-                    "size": "627348532",
-                    "download": "145527920"
+                    "gid": "6382591957831557432",
+                    "size": "627938449",
+                    "download": "145898912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17994723",
-                "timeupdated": "1743843113"
+                "buildid": "18136895",
+                "timeupdated": "1744854215"
             },
             "openbetabranch": {
-                "buildid": "17996627",
+                "buildid": "18151588",
                 "description": "A branch for new updates before they get officially released",
-                "timeupdated": "1743868617"
+                "timeupdated": "1744936948"
             }
         },
         "privatebranches": "1"
