@@ -4,8 +4,8 @@
     "name": " Survive the Nights Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323706",
-    "update_time": "2025-04-05 21:17:57",
+    "change_number": "28369077",
+    "update_time": "2025-04-09 00:01:24",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -73,8 +73,7 @@
                     "size": "819325600",
                     "download": "472136496"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1502302": {
             "config": {
