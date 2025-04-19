@@ -4,8 +4,8 @@
     "name": "Craft The World",
     "schinese_name": "打造世界",
     "isfreeapp": "0",
-    "change_number": "28265386",
-    "update_time": "2025-04-02 17:58:43",
+    "change_number": "28542359",
+    "update_time": "2025-04-18 11:40:07",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8673871995500070470",
-                    "size": "1065786402",
-                    "download": "657815440"
+                    "gid": "3935047791729435263",
+                    "size": "1066523819",
+                    "download": "657831072"
                 },
                 "experimental": {
                     "gid": "8235303017103447037",
@@ -47,9 +47,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1106942653256281482",
-                    "size": "879162847",
-                    "download": "609878480"
+                    "gid": "307456887841252887",
+                    "size": "879960651",
+                    "download": "611231360"
                 },
                 "experimental": {
                     "gid": "9038203654293119427",
@@ -67,8 +67,8 @@
         "workshopdepot": "248390",
         "branches": {
             "public": {
-                "buildid": "17761488",
-                "timeupdated": "1742279824"
+                "buildid": "18153119",
+                "timeupdated": "1744947602"
             },
             "experimental": {
                 "buildid": "8471956",
@@ -81,6 +81,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e38c422a6e0aef0a80a2319e980462cd3fab0a4a9cfeb279a430abcc37b5c55e"
     }
 }
