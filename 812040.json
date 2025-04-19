@@ -4,8 +4,8 @@
     "name": "Shortest Trip to Earth",
     "schinese_name": "最短地球之旅",
     "isfreeapp": "0",
-    "change_number": "27178585",
-    "update_time": "2025-01-27 14:26:24",
+    "change_number": "28518641",
+    "update_time": "2025-04-17 08:08:17",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "812040",
@@ -34,8 +34,7 @@
                     "size": "525544270",
                     "download": "402168960"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "812043": {
             "config": {
@@ -48,8 +47,7 @@
                     "size": "596472689",
                     "download": "408983552"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1172130": {
             "config": {
@@ -78,8 +76,7 @@
                     "size": "193108619",
                     "download": "174798960"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1172132": {
             "dlcappid": "1172130",
@@ -93,8 +90,7 @@
                     "size": "193001629",
                     "download": "174767472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1392710": {
             "dlcappid": "1392710",
@@ -123,8 +119,7 @@
                     "size": "91381963",
                     "download": "73599680"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1392712": {
             "dlcappid": "1392710",
@@ -138,8 +133,7 @@
                     "size": "91279559",
                     "download": "73473408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
