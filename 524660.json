@@ -4,8 +4,8 @@
     "name": "RutonyChat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28296499",
-    "update_time": "2025-04-04 04:34:29",
+    "change_number": "28540757",
+    "update_time": "2025-04-18 09:07:48",
     "depot": {
         "228986": {
             "config": {
@@ -30,19 +30,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2554909080422896953",
-                    "size": "434976734",
-                    "download": "187814096"
+                    "gid": "793507759969287816",
+                    "size": "1539461290",
+                    "download": "702603376"
                 },
                 "1may": {
                     "gid": "5974454579324152735",
                     "size": "469281894",
                     "download": "203646960"
                 },
+                "stable_prev": {
+                    "gid": "2554909080422896953",
+                    "size": "434976734",
+                    "download": "187814096"
+                },
                 "test": {
-                    "gid": "8013351129716317291",
-                    "size": "1481137816",
-                    "download": "649215984"
+                    "gid": "793507759969287816",
+                    "size": "1539461290",
+                    "download": "702603376"
                 },
                 "test_prev": {
                     "gid": "3875927871833275109",
@@ -68,6 +73,11 @@
                     "size": "12465365",
                     "download": "3770944"
                 },
+                "stable_prev": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
                 "test": {
                     "gid": "89436204134636782",
                     "size": "12465365",
@@ -83,18 +93,23 @@
         },
         "branches": {
             "public": {
-                "buildid": "13906889",
-                "timeupdated": "1711887492"
+                "buildid": "18163418",
+                "timeupdated": "1745022207"
             },
             "1may": {
                 "buildid": "11130396",
                 "description": "Last version with Win7 support",
                 "timeupdated": "1694702141"
             },
+            "stable_prev": {
+                "buildid": "13906889",
+                "description": "Прошлая стабильная версия (часть функционала уже сломано)",
+                "timeupdated": "1744762486"
+            },
             "test": {
-                "buildid": "17975548",
+                "buildid": "18163418",
                 "description": "Public test branch",
-                "timeupdated": "1743712412"
+                "timeupdated": "1745022016"
             },
             "test_prev": {
                 "buildid": "16245778",
@@ -102,7 +117,6 @@
                 "timeupdated": "1739557831"
             }
         },
-        "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2cc207d3f50b430a5201ad265964ace09fbb69280244994e2a8c223702035192"
     }
 }
