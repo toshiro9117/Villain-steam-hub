@@ -4,8 +4,8 @@
     "name": "Rising Storm 2: Vietnam",
     "schinese_name": "风起云涌2：越南",
     "isfreeapp": "0",
-    "change_number": "28104434",
-    "update_time": "2025-03-24 16:11:02",
+    "change_number": "28465940",
+    "update_time": "2025-04-14 19:59:27",
     "depot": {
         "workshopdepot": "418460",
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
@@ -73,6 +73,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c8e9f7ec190a152c129a854f602e98d8e4aee0f0f38125eba8a8fe72f2f5d2ea"
     }
 }
