@@ -4,8 +4,8 @@
     "name": "Crewsaders",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28187210",
-    "update_time": "2025-03-28 17:18:47",
+    "change_number": "28545243",
+    "update_time": "2025-04-18 16:00:02",
     "depot": {
         "228990": {
             "config": {
@@ -44,8 +44,7 @@
                     "size": "502014221",
                     "download": "148414080"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
