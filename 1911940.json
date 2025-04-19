@@ -4,8 +4,8 @@
     "name": "Twilight Monk",
     "schinese_name": "伏魔行者",
     "isfreeapp": "0",
-    "change_number": "28314570",
-    "update_time": "2025-04-05 02:16:00",
+    "change_number": "28507818",
+    "update_time": "2025-04-16 20:27:53",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1911941": {
             "manifests": {
                 "public": {
-                    "gid": "707894786088612473",
-                    "size": "2366648775",
-                    "download": "1322177168"
+                    "gid": "6454569089038894001",
+                    "size": "2386641624",
+                    "download": "1338577472"
                 }
             },
             "decryptionkey": "47af141dd232750fa872debb725881a41b05cb4124f59feea60ca89d344ae839"
         },
         "branches": {
             "public": {
-                "buildid": "17658033",
-                "timeupdated": "1741590137"
+                "buildid": "18108400",
+                "timeupdated": "1744695085"
             }
         },
         "privatebranches": "1"
