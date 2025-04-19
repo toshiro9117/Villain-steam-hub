@@ -4,8 +4,8 @@
     "name": "Istanbul: Digital Edition",
     "schinese_name": "伊斯坦堡",
     "isfreeapp": "0",
-    "change_number": "28336738",
-    "update_time": "2025-04-07 07:18:20",
+    "change_number": "28539589",
+    "update_time": "2025-04-18 07:19:38",
     "depot": {
         "943411": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "619042070",
                     "download": "142549824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "943413": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "652845202",
                     "download": "151579728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
