@@ -4,8 +4,8 @@
     "name": "Desktop Cat Cafe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346333",
-    "update_time": "2025-04-07 21:20:31",
+    "change_number": "28456720",
+    "update_time": "2025-04-14 05:08:58",
     "depot": {
         "2978182": {
             "config": {
@@ -33,9 +33,9 @@
                     "download": "206543264"
                 },
                 "1.18.0": {
-                    "gid": "8808603323995334730",
-                    "size": "467326398",
-                    "download": "275530368"
+                    "gid": "7389708901663528822",
+                    "size": "467324397",
+                    "download": "275550096"
                 },
                 "1.6.0": {
                     "gid": "912146845626767619",
@@ -116,9 +116,9 @@
                 "timeupdated": "1743878300"
             },
             "1.18.0": {
-                "buildid": "18003747",
+                "buildid": "18024184",
                 "description": "Release 1.18.0 (preview)",
-                "timeupdated": "1743969011"
+                "timeupdated": "1744107070"
             },
             "1.6.0": {
                 "buildid": "17625166",
