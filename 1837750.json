@@ -4,8 +4,8 @@
     "name": "Demeo - PC Edition",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28309795",
-    "update_time": "2025-04-04 21:50:12",
+    "change_number": "28429353",
+    "update_time": "2025-04-11 21:04:16",
     "depot": {
         "1837751": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2590082242774933965",
-                    "size": "3626357800",
-                    "download": "3322631424"
+                    "gid": "3584062812362122015",
+                    "size": "5506236007",
+                    "download": "3296825088"
                 }
             },
             "decryptionkey": "05c1e15754e2b9466d8fb4b37078ce4c1a8585297862ae36585baf5a40ac24cb"
         },
         "branches": {
             "public": {
-                "buildid": "14468635",
-                "timeupdated": "1716484099"
+                "buildid": "18069384",
+                "timeupdated": "1744376650"
             }
         },
         "privatebranches": "1"
