@@ -4,8 +4,8 @@
     "name": "GROUND BRANCH",
     "schinese_name": "地面部队",
     "isfreeapp": "0",
-    "change_number": "28341506",
-    "update_time": "2025-04-07 16:07:57",
+    "change_number": "28545595",
+    "update_time": "2025-04-18 16:17:11",
     "depot": {
         "228983": {
             "config": {
@@ -85,6 +85,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b133634870bbb0847fa481e40f3499e7a507f0d24f518c2a05b313ca414e38b4"
     }
 }
