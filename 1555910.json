@@ -4,8 +4,8 @@
     "name": "Wet Nightmares",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28162229",
-    "update_time": "2025-03-27 11:15:21",
+    "change_number": "28510830",
+    "update_time": "2025-04-16 23:10:32",
     "depot": {
         "1555911": {
             "config": {
@@ -30,14 +30,17 @@
                     "size": "532972735",
                     "download": "343663360"
                 }
-            },
-            "decryptionkey": ""
+            }
+        },
+        "1555914": {
+            "manifests": {}
         },
         "branches": {
             "public": {
                 "buildid": "17019336",
                 "timeupdated": "1736984030"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
