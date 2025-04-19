@@ -4,8 +4,8 @@
     "name": "Mudborne",
     "schinese_name": "Mudborne：育蛙模拟器",
     "isfreeapp": "0",
-    "change_number": "28312937",
-    "update_time": "2025-04-05 00:41:43",
+    "change_number": "28490113",
+    "update_time": "2025-04-15 23:29:56",
     "depot": {
         "workshopdepot": "2355150",
         "2355152": {
@@ -15,19 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4956163877081699546",
-                    "size": "97078454",
-                    "download": "88966656"
+                    "gid": "3446686345060977602",
+                    "size": "97076957",
+                    "download": "88965488"
                 },
                 "last_patch": {
-                    "gid": "2242591755466635733",
-                    "size": "97075745",
-                    "download": "88965152"
+                    "gid": "1115947097596369602",
+                    "size": "97069946",
+                    "download": "88958848"
                 },
                 "preview_patch": {
-                    "gid": "4956163877081699546",
-                    "size": "97078454",
-                    "download": "88966656"
+                    "gid": "3446686345060977602",
+                    "size": "97076957",
+                    "download": "88965488"
                 }
             },
             "decryptionkey": "caf7211b415a61d4a34e46e4b5108b7bab94b3a02738aa512d7234a25408024f"
@@ -39,22 +39,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9190602657113866989",
-                    "size": "122454367",
-                    "download": "95295680"
+                    "gid": "1357884679885693870",
+                    "size": "122452866",
+                    "download": "95294368"
                 },
                 "last_patch": {
-                    "gid": "2764123197734454764",
-                    "size": "122451654",
-                    "download": "95293488"
+                    "gid": "3370724422857118514",
+                    "size": "122445855",
+                    "download": "95287696"
                 },
                 "preview_patch": {
-                    "gid": "9190602657113866989",
-                    "size": "122454367",
-                    "download": "95295680"
+                    "gid": "1357884679885693870",
+                    "size": "122452866",
+                    "download": "95294368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2355154": {
             "config": {
@@ -63,22 +62,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2574075317051115041",
-                    "size": "100558880",
-                    "download": "89615872"
+                    "gid": "1149916972335604998",
+                    "size": "100557383",
+                    "download": "89615200"
                 },
                 "last_patch": {
-                    "gid": "1689890615139879732",
-                    "size": "100556171",
-                    "download": "89614144"
+                    "gid": "2132149182154718455",
+                    "size": "100550372",
+                    "download": "89608304"
                 },
                 "preview_patch": {
-                    "gid": "2574075317051115041",
-                    "size": "100558880",
-                    "download": "89615872"
+                    "gid": "1149916972335604998",
+                    "size": "100557383",
+                    "download": "89615200"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2355151": {
             "config": {
@@ -88,37 +86,36 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5784928886014850912",
-                    "size": "100586332",
-                    "download": "89618416"
+                    "gid": "8749509372400313966",
+                    "size": "100584835",
+                    "download": "89617728"
                 },
                 "last_patch": {
-                    "gid": "5674819306920329163",
-                    "size": "100583623",
-                    "download": "89616960"
+                    "gid": "6379074142111963738",
+                    "size": "100577824",
+                    "download": "89611040"
                 },
                 "preview_patch": {
-                    "gid": "5784928886014850912",
-                    "size": "100586332",
-                    "download": "89618416"
+                    "gid": "8749509372400313966",
+                    "size": "100584835",
+                    "download": "89617728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17988019",
-                "timeupdated": "1743784897"
+                "buildid": "18097824",
+                "timeupdated": "1744630627"
             },
             "last_patch": {
-                "buildid": "17928408",
+                "buildid": "18039210",
                 "description": "This branch will always contain the last update that was released",
-                "timeupdated": "1743778304"
+                "timeupdated": "1744369070"
             },
             "preview_patch": {
-                "buildid": "17988019",
+                "buildid": "18097824",
                 "description": "This branch will sometimes contain the next update due to be released",
-                "timeupdated": "1743784858"
+                "timeupdated": "1744627725"
             }
         },
         "privatebranches": "1",
