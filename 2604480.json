@@ -4,8 +4,8 @@
     "name": "City Transport Simulator: Tram",
     "schinese_name": "城市交通模拟：电车",
     "isfreeapp": "0",
-    "change_number": "28338150",
-    "update_time": "2025-04-07 10:12:45",
+    "change_number": "28542232",
+    "update_time": "2025-04-18 11:27:19",
     "depot": {
         "228985": {
             "config": {
@@ -31,11 +31,6 @@
         "2604481": {
             "manifests": {
                 "public": {
-                    "gid": "7372232085972194380",
-                    "size": "12487128567",
-                    "download": "10090174368"
-                },
-                "update-experimental": {
                     "gid": "5666906961603151170",
                     "size": "12499784323",
                     "download": "10135667952"
@@ -48,13 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17727020",
-                "timeupdated": "1743096748"
-            },
-            "update-experimental": {
                 "buildid": "17892301",
-                "description": "Beta test of experimental builds",
-                "timeupdated": "1743159933"
+                "timeupdated": "1744301162"
             }
         },
         "privatebranches": "1"
