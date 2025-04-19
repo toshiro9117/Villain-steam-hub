@@ -4,8 +4,8 @@
     "name": "DEVOUR",
     "schinese_name": "吞噬",
     "isfreeapp": "0",
-    "change_number": "28292847",
-    "update_time": "2025-04-04 00:21:17",
+    "change_number": "28534105",
+    "update_time": "2025-04-18 00:58:20",
     "depot": {
         "228988": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8219933401048329363",
-                    "size": "12914666541",
-                    "download": "6635769664"
+                    "gid": "7538493279215403595",
+                    "size": "12914672921",
+                    "download": "6635770832"
                 }
             },
             "decryptionkey": "b56991abb013052ba7ef6d1e0982f0ca99bbeeb631057347267102c6967c1537"
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8690783982794924264",
-                    "size": "12914666541",
-                    "download": "6626214768"
+                    "gid": "229629865413143324",
+                    "size": "12914672921",
+                    "download": "6626215520"
                 }
             },
             "decryptionkey": ""
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2269760308129767156",
-                    "size": "13016237602",
-                    "download": "6657207744"
+                    "gid": "8095466634335348581",
+                    "size": "13016488558",
+                    "download": "6657227856"
                 }
             },
             "decryptionkey": "b67b5c5c44139818a0d7ddb9d1103a724ca404a87bde4d78fe257fc352f0f36d"
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17972969",
-                "timeupdated": "1743697271"
+                "buildid": "18164497",
+                "timeupdated": "1745034870"
             }
         },
         "privatebranches": "1"
