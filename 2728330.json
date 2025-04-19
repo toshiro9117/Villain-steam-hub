@@ -4,8 +4,8 @@
     "name": "HZ_SERVER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28279850",
-    "update_time": "2025-04-03 09:40:58",
+    "change_number": "28541923",
+    "update_time": "2025-04-18 10:56:58",
     "depot": {
         "1004": {
             "config": {
@@ -52,19 +52,19 @@
         "2728331": {
             "manifests": {
                 "public": {
-                    "gid": "5855629164031619255",
-                    "size": "1043546415",
-                    "download": "866503312"
+                    "gid": "7948171943719239257",
+                    "size": "1090962443",
+                    "download": "909641280"
                 },
                 "linuxbranch": {
-                    "gid": "6515604352566902416",
-                    "size": "1140724088",
-                    "download": "849933408"
+                    "gid": "7061364336033402981",
+                    "size": "1186615863",
+                    "download": "892987440"
                 },
                 "windowsbranch": {
-                    "gid": "5855629164031619255",
-                    "size": "1043546415",
-                    "download": "866503312"
+                    "gid": "7948171943719239257",
+                    "size": "1090962443",
+                    "download": "909641280"
                 }
             },
             "decryptionkey": ""
@@ -72,18 +72,18 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17529985",
-                "timeupdated": "1740655755"
+                "buildid": "18152747",
+                "timeupdated": "1744945012"
             },
             "linuxbranch": {
-                "buildid": "17529733",
+                "buildid": "18152313",
                 "description": "Linux Branch",
-                "timeupdated": "1740655371"
+                "timeupdated": "1744944974"
             },
             "windowsbranch": {
-                "buildid": "17529985",
+                "buildid": "18152747",
                 "description": "Windows Branch",
-                "timeupdated": "1740655700"
+                "timeupdated": "1744944992"
             }
         },
         "privatebranches": "1"
