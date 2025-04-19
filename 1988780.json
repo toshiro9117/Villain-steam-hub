@@ -4,8 +4,8 @@
     "name": "nanos world™ Assets Development Kit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28310691",
-    "update_time": "2025-04-04 22:37:17",
+    "change_number": "28533409",
+    "update_time": "2025-04-18 00:24:03",
     "depot": {
         "228989": {
             "config": {
@@ -49,9 +49,9 @@
                 "timeupdated": "1676230506"
             },
             "bleeding-edge": {
-                "buildid": "17986460",
+                "buildid": "18146758",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1743777433"
+                "timeupdated": "1744907038"
             }
         }
     }
