@@ -4,8 +4,8 @@
     "name": "Secrets of Rætikon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323260",
-    "update_time": "2025-04-05 20:10:53",
+    "change_number": "28485744",
+    "update_time": "2025-04-15 19:30:45",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -30,8 +30,7 @@
                     "size": "127020593",
                     "download": "1280051830678"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "246682": {
             "config": {
@@ -66,8 +65,7 @@
                     "size": "125633875",
                     "download": "782831455580"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
