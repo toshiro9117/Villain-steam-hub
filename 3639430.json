@@ -4,9 +4,10 @@
     "name": "serveur",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28317829",
-    "update_time": "2025-04-05 06:42:25",
+    "change_number": "28454110",
+    "update_time": "2025-04-13 23:07:13",
     "depot": {
+        "hasdepotsindlc": "0",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -49,20 +50,36 @@
             "depotfromapp": "1007",
             "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
         },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "3639431": {
+            "config": {
+                "oslist": "linux"
+            },
             "manifests": {
                 "public": {
-                    "gid": "6075312871548919008",
-                    "size": "156584678738",
-                    "download": "73357395120"
+                    "gid": "4247368759999123841",
+                    "size": "6083105555",
+                    "download": "3254112624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17990224",
-                "timeupdated": "1743797288"
+                "buildid": "18163455",
+                "timeupdated": "1745024194"
             }
         }
     }
