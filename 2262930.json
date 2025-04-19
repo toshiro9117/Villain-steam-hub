@@ -4,8 +4,8 @@
     "name": "Bombe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28233401",
-    "update_time": "2025-04-01 01:53:20",
+    "change_number": "28471684",
+    "update_time": "2025-04-15 01:33:44",
     "depot": {
         "228988": {
             "config": {
@@ -25,9 +25,9 @@
                     "download": "59300208"
                 },
                 "testing": {
-                    "gid": "3300811402653372191",
-                    "size": "89188076",
-                    "download": "59300208"
+                    "gid": "3360178893160193849",
+                    "size": "89195756",
+                    "download": "59303360"
                 }
             },
             "decryptionkey": "a4988f49f480c7124865b393dbd99b5d8ee316574f6d4168ee3fb0d5063bcff4"
@@ -43,12 +43,11 @@
                     "download": "65114320"
                 },
                 "testing": {
-                    "gid": "5175599579223801012",
-                    "size": "108044852",
-                    "download": "65114320"
+                    "gid": "4637080146867641635",
+                    "size": "108175188",
+                    "download": "65153008"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2262934": {
             "config": {
@@ -61,12 +60,11 @@
                     "download": "63408688"
                 },
                 "testing": {
-                    "gid": "8936934594091567170",
-                    "size": "105719364",
-                    "download": "63408688"
+                    "gid": "361194437812992457",
+                    "size": "105736292",
+                    "download": "63412880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -74,9 +72,9 @@
                 "timeupdated": "1743443373"
             },
             "testing": {
-                "buildid": "17928361",
+                "buildid": "18102624",
                 "description": " Testing branch for unstable and experimental",
-                "timeupdated": "1743443402"
+                "timeupdated": "1744652018"
             }
         }
     }
