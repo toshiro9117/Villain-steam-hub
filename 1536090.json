@@ -4,8 +4,8 @@
     "name": "Echoes of the Plum Grove",
     "schinese_name": "梅树林的回声",
     "isfreeapp": "0",
-    "change_number": "28236358",
-    "update_time": "2025-04-01 05:19:55",
+    "change_number": "28438560",
+    "update_time": "2025-04-12 06:41:56",
     "depot": {
         "hasdepotsindlc": "1",
         "1536091": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4657363835668599671",
-                    "size": "2269221182",
-                    "download": "400814208"
+                    "gid": "1942527486826823773",
+                    "size": "2278215458",
+                    "download": "402993136"
                 }
             },
             "decryptionkey": "3d3857b760b7b5ff52f50f5b402d4413a1e911ba3238c4b9ee9c225792fc32b9"
@@ -42,17 +42,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1976269422085596164",
-                    "size": "2297113955",
-                    "download": "409192896"
+                    "gid": "7114158891971451024",
+                    "size": "2304475316",
+                    "download": "411220320"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17921887",
-                "timeupdated": "1743455988"
+                "buildid": "18075732",
+                "timeupdated": "1744394727"
             }
         },
         "privatebranches": "1"
