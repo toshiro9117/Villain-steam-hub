@@ -4,8 +4,8 @@
     "name": "Ficket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28214467",
-    "update_time": "2025-03-30 20:15:35",
+    "change_number": "28422037",
+    "update_time": "2025-04-11 13:46:09",
     "depot": {
         "228981": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6651765804898361025",
-                    "size": "769987847",
-                    "download": "222537840"
+                    "gid": "3597353891502505138",
+                    "size": "770048539",
+                    "download": "222452960"
                 },
                 "10.7": {
                     "gid": "5983590189243163797",
@@ -66,9 +66,9 @@
                     "download": "101769840"
                 },
                 "test": {
-                    "gid": "6651765804898361025",
-                    "size": "769987847",
-                    "download": "222537840"
+                    "gid": "3597353891502505138",
+                    "size": "770048539",
+                    "download": "222452960"
                 }
             },
             "decryptionkey": "28c2d6ab2577fc32273cf08dbf89f2804c40e98e7aed1e07cda7d652aca3b083"
@@ -76,8 +76,8 @@
         "workshopdepot": "1634680",
         "branches": {
             "public": {
-                "buildid": "17862967",
-                "timeupdated": "1742972133"
+                "buildid": "18066996",
+                "timeupdated": "1744350364"
             },
             "10.7": {
                 "buildid": "15963147",
@@ -85,11 +85,11 @@
                 "timeupdated": "1730189872"
             },
             "test": {
-                "buildid": "17862967",
+                "buildid": "18066996",
                 "description": "test",
-                "timeupdated": "1742971805"
+                "timeupdated": "1744350178"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "09a1a4431c876878148af1586a20801ada03150bdcc3de8aa72309b24f8d9eda"
     }
 }
