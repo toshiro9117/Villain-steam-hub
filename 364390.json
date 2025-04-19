@@ -4,8 +4,8 @@
     "name": "Downfall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27841010",
-    "update_time": "2025-03-08 02:04:17",
+    "change_number": "28451154",
+    "update_time": "2025-04-13 14:55:35",
     "depot": {
         "364391": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "2166634411",
                     "download": "1087111712"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
