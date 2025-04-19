@@ -4,8 +4,8 @@
     "name": "Far Lands",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27165338",
-    "update_time": "2025-01-26 01:24:58",
+    "change_number": "28498483",
+    "update_time": "2025-04-16 09:07:34",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -33,9 +33,9 @@
                     "download": "8323222048"
                 },
                 "beta": {
-                    "gid": "8869224453657592217",
-                    "size": "16879274672",
-                    "download": "7394746160"
+                    "gid": "2261424500188705663",
+                    "size": "16005435377",
+                    "download": "6997857424"
                 }
             },
             "decryptionkey": "4e9d53ccb6cbd8d1486aed709c9e694fc8d32e6282bbee2e09a6589cfa727e83"
@@ -46,9 +46,9 @@
                 "timeupdated": "1709752842"
             },
             "beta": {
-                "buildid": "17131498",
+                "buildid": "17489895",
                 "description": "Public beta branch",
-                "timeupdated": "1737825894"
+                "timeupdated": "1740429885"
             }
         }
     }
