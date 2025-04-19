@@ -4,23 +4,23 @@
     "name": "Knock'Em Out",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28211202",
-    "update_time": "2025-03-30 09:15:41",
+    "change_number": "28540911",
+    "update_time": "2025-04-18 09:22:25",
     "depot": {
         "2192901": {
             "manifests": {
                 "public": {
-                    "gid": "780272333416260971",
-                    "size": "2235141559",
-                    "download": "634084880"
+                    "gid": "8955198170408368707",
+                    "size": "2722541987",
+                    "download": "664552384"
                 }
             },
             "decryptionkey": "0c1840ea3034ffc95b8876adba1d2abbc0276437392add138754347775fd121b"
         },
         "branches": {
             "public": {
-                "buildid": "17661847",
-                "timeupdated": "1741869161"
+                "buildid": "18143020",
+                "timeupdated": "1744888293"
             }
         }
     }
