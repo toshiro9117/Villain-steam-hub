@@ -4,8 +4,8 @@
     "name": "Ravenfield",
     "schinese_name": "战地模拟器",
     "isfreeapp": "0",
-    "change_number": "28205938",
-    "update_time": "2025-03-29 20:56:09",
+    "change_number": "28509317",
+    "update_time": "2025-04-16 21:49:30",
     "depot": {
         "636481": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "525250880"
                 },
                 "beta": {
-                    "gid": "3402579929565581227",
-                    "size": "1999408180",
-                    "download": "675403344"
+                    "gid": "2287957299554753116",
+                    "size": "1999418220",
+                    "download": "675406784"
                 },
                 "experimental": {
                     "gid": "3893186534429657894",
@@ -73,9 +73,9 @@
                     "download": "523409520"
                 },
                 "beta": {
-                    "gid": "5628831404700593041",
-                    "size": "1991995694",
-                    "download": "673593712"
+                    "gid": "4496414788488118155",
+                    "size": "1992005734",
+                    "download": "673593824"
                 },
                 "experimental": {
                     "gid": "389457069557587729",
@@ -116,9 +116,9 @@
                     "download": "529690736"
                 },
                 "beta": {
-                    "gid": "8590644052288285656",
-                    "size": "2026951803",
-                    "download": "687544384"
+                    "gid": "1914351976257277745",
+                    "size": "2026961843",
+                    "download": "687547584"
                 },
                 "experimental": {
                     "gid": "1680182117857674698",
@@ -159,9 +159,9 @@
                     "download": "538656256"
                 },
                 "beta": {
-                    "gid": "7223095922949255506",
-                    "size": "2077170200",
-                    "download": "694384720"
+                    "gid": "4554812164650690851",
+                    "size": "2077180240",
+                    "download": "694377856"
                 },
                 "experimental": {
                     "gid": "4779010467759053944",
@@ -198,9 +198,9 @@
                 "timeupdated": "1695201173"
             },
             "beta": {
-                "buildid": "17793120",
+                "buildid": "18129675",
                 "description": "Latest builds, might be buggy!!!",
-                "timeupdated": "1742467929"
+                "timeupdated": "1744811365"
             },
             "experimental": {
                 "buildid": "16680387",
@@ -219,6 +219,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0f0a06b81b1ba290caf3591b17bf51e8ae8e4b70b5734ad86ab65ec7fdc3f33e"
     }
 }
