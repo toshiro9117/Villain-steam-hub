@@ -4,8 +4,8 @@
     "name": "Squad 44 - Beta Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28325389",
-    "update_time": "2025-04-06 01:19:49",
+    "change_number": "28519454",
+    "update_time": "2025-04-17 09:15:08",
     "depot": {
         "1004": {
             "config": {
@@ -93,8 +93,7 @@
                     "size": "30984659816",
                     "download": "11808723904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
