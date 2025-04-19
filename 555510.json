@@ -4,8 +4,8 @@
     "name": "MachiaVillain",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25345597",
-    "update_time": "2024-09-23 15:12:43",
+    "change_number": "28399196",
+    "update_time": "2025-04-10 11:33:34",
     "depot": {
         "555511": {
             "config": {
@@ -24,7 +24,7 @@
                     "download": "402666656"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ea4c89f7c5238bddd9a714d6fc1136380b00af1a004b49422a80318cb20622e2"
         },
         "555514": {
             "config": {
@@ -60,8 +60,7 @@
                     "size": "545881001",
                     "download": "404055072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "555513": {
             "config": {
@@ -78,8 +77,7 @@
                     "size": "572054489",
                     "download": "409811952"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "854980": {
             "dlcappid": "854980",
