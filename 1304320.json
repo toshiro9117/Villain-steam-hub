@@ -4,8 +4,8 @@
     "name": "重装无限·Metal Infinite",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27348984",
-    "update_time": "2025-02-07 00:54:32",
+    "change_number": "28434996",
+    "update_time": "2025-04-12 02:07:33",
     "depot": {
         "baselanguages": "schinese,tchinese",
         "1304321": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7953873073281044786",
-                    "size": "650754221",
-                    "download": "101210800"
+                    "gid": "2344823164719499403",
+                    "size": "672199144",
+                    "download": "103084176"
                 }
             },
             "decryptionkey": "cebb86b85f3f22b4aebefa3894d617fe0c75272d755bdd8c863cbf0583b11040"
         },
         "branches": {
             "public": {
-                "buildid": "17269361",
-                "timeupdated": "1738860866"
+                "buildid": "18044618",
+                "timeupdated": "1744219212"
             }
         }
     }
