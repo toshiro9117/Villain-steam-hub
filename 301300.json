@@ -4,8 +4,8 @@
     "name": "Chicken Invaders 4",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27495075",
-    "update_time": "2025-02-15 23:13:12",
+    "change_number": "28465743",
+    "update_time": "2025-04-14 19:47:39",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish",
         "301301": {
@@ -56,8 +56,7 @@
                     "size": "9843249",
                     "download": "2196288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301304": {
             "config": {
@@ -74,8 +73,7 @@
                     "size": "14916593",
                     "download": "3319328"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "370400": {
             "dlcappid": "370400",
@@ -91,7 +89,7 @@
                     "download": "44827760"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "508ee5e4c0c3029a45f8284688ef982b020b1ab0dce75e51d0dea5443943d771"
         },
         "370401": {
             "dlcappid": "370401",
@@ -107,7 +105,7 @@
                     "download": "42383616"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "fab9e6ed27b1cdf37c447875c1b2a1d4bfae76a4defc57a4f9bc6cfcdea12710"
         },
         "370402": {
             "dlcappid": "370402",
@@ -123,7 +121,7 @@
                     "download": "43393456"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "09a123b948b72a0e6930b593f3a806200d482b4e5bb93ec963924b45911261b4"
         },
         "301305": {
             "dlcappid": "370400",
@@ -142,7 +140,7 @@
                     "download": "1868832"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "951d47084d9d98b987c720f9b8637ed23a0385dee54c7ad386e9e4f7f79080c0"
         },
         "301306": {
             "dlcappid": "370400",
@@ -160,8 +158,7 @@
                     "size": "9851441",
                     "download": "2196176"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301307": {
             "dlcappid": "370400",
@@ -179,8 +176,7 @@
                     "size": "14920397",
                     "download": "3317216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301308": {
             "dlcappid": "370401",
@@ -199,7 +195,7 @@
                     "download": "1872608"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "932450366940e6e12f39a53d18cf5a138dacb1f7693ea0c290f6d8262f5fc28b"
         },
         "301309": {
             "dlcappid": "370401",
@@ -217,8 +213,7 @@
                     "size": "9855537",
                     "download": "2198336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301310": {
             "dlcappid": "370401",
@@ -236,8 +231,7 @@
                     "size": "14944427",
                     "download": "3326624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301311": {
             "dlcappid": "370402",
@@ -256,7 +250,7 @@
                     "download": "1893136"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "bfa610dba5c9691401b61121694b1a6dfa421613adbfdd91420891cf7bac6334"
         },
         "301312": {
             "dlcappid": "370402",
@@ -274,8 +268,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301313": {
             "dlcappid": "370402",
@@ -293,8 +286,7 @@
                     "size": "14964480",
                     "download": "3350880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "301314": {
             "manifests": {
@@ -317,27 +309,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6879113405687818526",
-                    "size": "19231031",
-                    "download": "4315056"
+                    "gid": "1137179935465132611",
+                    "size": "19279159",
+                    "download": "4318720"
                 },
                 "episode_beta": {
-                    "gid": "6879113405687818526",
-                    "size": "19231031",
-                    "download": "4315056"
+                    "gid": "1137179935465132611",
+                    "size": "19279159",
+                    "download": "4318720"
                 }
             },
             "decryptionkey": "ba75a5bdcea1fea3f436c0f8eeb2b6599884c3afe89406a1f005f7ad18c2efde"
         },
         "branches": {
             "public": {
-                "buildid": "17438308",
-                "timeupdated": "1740059606"
+                "buildid": "18089953",
+                "timeupdated": "1744631255"
             },
             "episode_beta": {
-                "buildid": "17438308",
+                "buildid": "18089953",
                 "description": "CIep4",
-                "timeupdated": "1740051404"
+                "timeupdated": "1744552997"
             }
         },
         "privatebranches": "1"
