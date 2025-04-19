@@ -4,8 +4,8 @@
     "name": "Ala Mobile",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28212954",
-    "update_time": "2025-03-30 15:16:43",
+    "change_number": "28536216",
+    "update_time": "2025-04-18 02:58:22",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,japanese,portuguese,polish,dutch,brazilian,latam,indonesian",
         "3203371": {
@@ -18,8 +18,7 @@
                     "size": "1301816667",
                     "download": "378306832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3203372": {
             "config": {
@@ -32,8 +31,7 @@
                     "size": "1327696406",
                     "download": "379567920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3203373": {
             "config": {
