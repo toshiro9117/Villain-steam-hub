@@ -4,33 +4,33 @@
     "name": "Mortal Sin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28330070",
-    "update_time": "2025-04-06 14:52:08",
+    "change_number": "28451052",
+    "update_time": "2025-04-13 14:36:56",
     "depot": {
         "1494811": {
             "manifests": {
                 "public": {
-                    "gid": "3904201011840955598",
-                    "size": "4281541165",
-                    "download": "2039460128"
+                    "gid": "2191398413956563223",
+                    "size": "4410777537",
+                    "download": "2083890656"
                 },
                 "beta": {
-                    "gid": "5856308722896886816",
-                    "size": "5650951801",
-                    "download": "2527001296"
+                    "gid": "2191398413956563223",
+                    "size": "4410777537",
+                    "download": "2083890656"
                 }
             },
             "decryptionkey": "0a511e83da83f4164929f78b0220da9474d343cbf334e814f37b5731de7196be"
         },
         "branches": {
             "public": {
-                "buildid": "17626271",
-                "timeupdated": "1741297591"
+                "buildid": "18079334",
+                "timeupdated": "1744416048"
             },
             "beta": {
-                "buildid": "18000250",
+                "buildid": "18079334",
                 "description": "Experimental beta branch",
-                "timeupdated": "1743922323"
+                "timeupdated": "1744416024"
             }
         }
     }
