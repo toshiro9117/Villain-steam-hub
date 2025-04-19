@@ -4,8 +4,8 @@
     "name": "SGS Taipings",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28153158",
-    "update_time": "2025-03-27 00:15:33",
+    "change_number": "28382585",
+    "update_time": "2025-04-09 17:08:26",
     "depot": {
         "1519061": {
             "config": {
@@ -61,8 +61,7 @@
                     "size": "614452402",
                     "download": "214559344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
