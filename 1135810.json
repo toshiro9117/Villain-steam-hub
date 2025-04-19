@@ -4,8 +4,8 @@
     "name": "Vault of the Void",
     "schinese_name": "Vault of the Void / 虚空穹牢",
     "isfreeapp": "0",
-    "change_number": "28139090",
-    "update_time": "2025-03-26 06:55:25",
+    "change_number": "28541946",
+    "update_time": "2025-04-18 10:59:35",
     "depot": {
         "1135811": {},
         "1135812": {
@@ -74,8 +74,7 @@
                     "size": "333321408",
                     "download": "336496336"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
