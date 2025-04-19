@@ -4,8 +4,8 @@
     "name": "Dreamcore Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27956146",
-    "update_time": "2025-03-14 20:34:20",
+    "change_number": "28453705",
+    "update_time": "2025-04-13 22:08:47",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "2898696579",
                     "download": "2663333680"
                 }
-            }
+            },
+            "decryptionkey": "8977efdedefb671b09939b8fe0faa51c065ebe038740bbff543495dfb66c5430"
         },
         "2531522": {
             "config": {
