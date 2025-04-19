@@ -4,8 +4,8 @@
     "name": "Landlady Seduction Simulator",
     "schinese_name": "房东诱惑模拟器",
     "isfreeapp": "0",
-    "change_number": "27948605",
-    "update_time": "2025-03-14 12:01:39",
+    "change_number": "28490118",
+    "update_time": "2025-04-15 23:30:12",
     "depot": {
         "3253711": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6878176457758586598",
-                    "size": "963407363",
-                    "download": "881157456"
+                    "gid": "2786689233579213323",
+                    "size": "963408350",
+                    "download": "881157520"
                 }
             },
             "decryptionkey": "36a69d30b091ada9f1a3f8ef0f6782b3b509519d86eb253bb6d1c1c93e3bd27f"
@@ -26,17 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7235962398207579648",
-                    "size": "951010555",
-                    "download": "879768688"
+                    "gid": "1065036621747165620",
+                    "size": "951012008",
+                    "download": "879769648"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "15945047",
-                "timeupdated": "1728219229"
+                "buildid": "18007659",
+                "timeupdated": "1744009168"
             }
         }
     }
