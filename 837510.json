@@ -4,8 +4,8 @@
     "name": "Pixel Game Maker MV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28302327",
-    "update_time": "2025-04-04 13:21:37",
+    "change_number": "28477876",
+    "update_time": "2025-04-15 09:40:50",
     "depot": {
         "baselanguages": "english,japanese",
         "hasdepotsindlc": "1",
@@ -101,14 +101,14 @@
                     "download": "830452560"
                 },
                 "1.0.6-switch": {
-                    "gid": "8316123370754308543",
-                    "size": "1472675651",
-                    "download": "881984944"
+                    "gid": "6481701131714290856",
+                    "size": "1472639229",
+                    "download": "881982384"
                 },
                 "1.0.6-switch-beta": {
-                    "gid": "194508447539148004",
-                    "size": "1472683931",
-                    "download": "881987168"
+                    "gid": "49534075142168941",
+                    "size": "1472646879",
+                    "download": "881978384"
                 }
             },
             "decryptionkey": "31b95e27dd7bd4bc564c67f9de8b278a309430afe7f353634d7911a19d2f69f0"
@@ -169,14 +169,14 @@
                     "download": "830452528"
                 },
                 "1.0.6-switch": {
-                    "gid": "3992955247478561496",
-                    "size": "1472675651",
-                    "download": "881984960"
+                    "gid": "1365589108328335627",
+                    "size": "1472639229",
+                    "download": "881982432"
                 },
                 "1.0.6-switch-beta": {
-                    "gid": "1694657751401229171",
-                    "size": "1472683931",
-                    "download": "881987184"
+                    "gid": "7189199261683380788",
+                    "size": "1472646879",
+                    "download": "881978400"
                 }
             },
             "decryptionkey": "bb6f61aa7254b90e546e44285095ee66cb27fa5c6cf3445f41385a6ab34e8329"
@@ -228,14 +228,14 @@
                 "timeupdated": "1724029751"
             },
             "1.0.6-switch": {
-                "buildid": "13942922",
+                "buildid": "18078835",
                 "description": "for Nintendo Switch - 1.0.6.11",
-                "timeupdated": "1743744094"
+                "timeupdated": "1744681244"
             },
             "1.0.6-switch-beta": {
-                "buildid": "16809228",
+                "buildid": "18088036",
                 "description": "1.0.6.13 Beta ver",
-                "timeupdated": "1743743991"
+                "timeupdated": "1744681227"
             }
         },
         "privatebranches": "1",
