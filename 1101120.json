@@ -2,10 +2,10 @@
     "appid": "1101120",
     "type": "Game",
     "name": "Gunsmith Simulator",
-    "schinese_name": "枪 匠 模拟器",
+    "schinese_name": "枪匠模拟器",
     "isfreeapp": "0",
-    "change_number": "28346208",
-    "update_time": "2025-04-07 21:14:15",
+    "change_number": "28424306",
+    "update_time": "2025-04-11 16:06:45",
     "depot": {
         "1101121": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7082302217732245261",
-                    "size": "22309435702",
-                    "download": "10468375664"
+                    "gid": "679188768351700893",
+                    "size": "22320971686",
+                    "download": "10469439104"
                 }
             },
             "decryptionkey": "b82f041de94c4180a238a248cb18c8fdbc3d3f0ac8dda0152b6c70e6e2e9a28a"
@@ -33,11 +33,11 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18009591",
-                "timeupdated": "1744023998"
+                "buildid": "18068354",
+                "timeupdated": "1744358801"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4ef29a56e9d84abcd7b195e6cae58ca374bb032990f7b62764cb3fb44e9e617e"
     }
 }
