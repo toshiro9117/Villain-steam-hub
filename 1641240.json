@@ -4,8 +4,8 @@
     "name": "Hero's Quest: Automatic Roguelite RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328077",
-    "update_time": "2025-04-06 08:16:50",
+    "change_number": "28353177",
+    "update_time": "2025-04-08 04:16:31",
     "depot": {
         "228989": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "383028777",
                     "download": "110007824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1641243": {
             "config": {
@@ -54,8 +53,7 @@
                     "size": "388287934",
                     "download": "110199120"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
