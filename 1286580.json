@@ -4,8 +4,8 @@
     "name": "Ship of Fools",
     "schinese_name": "同舟共济",
     "isfreeapp": "0",
-    "change_number": "28280292",
-    "update_time": "2025-04-03 10:22:07",
+    "change_number": "28537456",
+    "update_time": "2025-04-18 04:17:26",
     "depot": {
         "228988": {
             "config": {
@@ -45,8 +45,7 @@
                     "size": "1225759611",
                     "download": "905644960"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1286581": {
             "config": {
@@ -60,13 +59,22 @@
                     "size": "3913358511",
                     "download": "1286450416"
                 }
+            }
+        },
+        "1286584": {
+            "manifests": {
+                "public": {
+                    "gid": "4830170744748370425",
+                    "size": "169298334",
+                    "download": "170391856"
+                }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8918ab551ce156f011f80abf247f2d05353c76d198cbdb1a81e5284b111a411d"
         },
         "branches": {
             "public": {
-                "buildid": "14409600",
-                "timeupdated": "1716314480"
+                "buildid": "18100331",
+                "timeupdated": "1744641014"
             }
         },
         "privatebranches": "1"
