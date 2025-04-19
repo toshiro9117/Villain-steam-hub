@@ -1,11 +1,11 @@
 {
     "appid": "2050310",
     "type": "Game",
-    "name": "OutWave",
-    "schinese_name": "",
+    "name": "OutWave: Retro Chase",
+    "schinese_name": "OutWave: 复古追逐",
     "isfreeapp": "0",
-    "change_number": "27926372",
-    "update_time": "2025-03-13 13:19:25",
+    "change_number": "28357046",
+    "update_time": "2025-04-08 09:53:54",
     "depot": {
         "hasdepotsindlc": "1",
         "2050311": {
@@ -47,8 +47,7 @@
                     "size": "497297799",
                     "download": "351086544"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2050314": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "474353178",
                     "download": "355525200"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
