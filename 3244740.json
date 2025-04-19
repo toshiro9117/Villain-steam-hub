@@ -4,8 +4,8 @@
     "name": "Tavern Talk: Tempest Tantrum",
     "schinese_name": "魔饮心语：风暴骤起",
     "isfreeapp": "0",
-    "change_number": "27348477",
-    "update_time": "2025-02-07 00:23:32",
+    "change_number": "28404650",
+    "update_time": "2025-04-10 18:08:37",
     "depot": {
         "3244740": {
             "dlcappid": "3244740",
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "453200036170661836",
-                    "size": "15578319",
-                    "download": "11854384"
+                    "gid": "4599476456169315269",
+                    "size": "15576441",
+                    "download": "11852896"
                 }
             },
             "decryptionkey": "f1f8d84e3c203ccf6d26a4ad3b95870c004ed595c7851b196b1cdcd51f11915f"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16551944",
-                "timeupdated": "1732791857"
+                "buildid": "17013953",
+                "timeupdated": "1740557618"
             }
         },
         "privatebranches": "1"
