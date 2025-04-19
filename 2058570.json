@@ -4,8 +4,8 @@
     "name": "Rift Wizard 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28300786",
-    "update_time": "2025-04-04 10:31:19",
+    "change_number": "28460803",
+    "update_time": "2025-04-14 14:15:06",
     "depot": {
         "228988": {
             "config": {
@@ -22,14 +22,14 @@
                     "download": "710766176"
                 },
                 "beta": {
-                    "gid": "7900278111034560236",
-                    "size": "947599151",
-                    "download": "710765920"
+                    "gid": "57590414931856556",
+                    "size": "947657687",
+                    "download": "710795840"
                 },
                 "prev_beta": {
-                    "gid": "8526816404355188864",
-                    "size": "947591332",
-                    "download": "710759856"
+                    "gid": "6556399848518015021",
+                    "size": "947654703",
+                    "download": "710794864"
                 },
                 "prev_main": {
                     "gid": "6885780311568527314",
@@ -46,14 +46,14 @@
                 "timeupdated": "1743047390"
             },
             "beta": {
-                "buildid": "17862046",
+                "buildid": "18094818",
                 "description": "beta branch",
-                "timeupdated": "1742965281"
+                "timeupdated": "1744611273"
             },
             "prev_beta": {
-                "buildid": "17760023",
+                "buildid": "18065301",
                 "description": "previous beta build for save compat",
-                "timeupdated": "1742965296"
+                "timeupdated": "1744611302"
             },
             "prev_main": {
                 "buildid": "17140776",
