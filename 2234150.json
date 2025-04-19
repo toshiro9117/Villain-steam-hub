@@ -4,8 +4,8 @@
     "name": "BACKROOMS: APPREHENSION",
     "schinese_name": "BACKROOMS: 恐惧",
     "isfreeapp": "0",
-    "change_number": "26539122",
-    "update_time": "2024-12-07 20:04:19",
+    "change_number": "28433004",
+    "update_time": "2025-04-12 00:13:46",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2234151": {
             "manifests": {
                 "public": {
-                    "gid": "4340161018454495676",
-                    "size": "1502539556",
-                    "download": "1406975568"
+                    "gid": "4762728810082802853",
+                    "size": "1634896135",
+                    "download": "1536604784"
                 }
             },
             "decryptionkey": "b7d3cfbe2d7ab09a4e80d1083ae7b7ce90e9e11c3d33c29cf6677ae379ce23ce"
         },
         "branches": {
             "public": {
-                "buildid": "16666733",
-                "timeupdated": "1733573055"
+                "buildid": "18074767",
+                "timeupdated": "1744388022"
             }
         }
     }
