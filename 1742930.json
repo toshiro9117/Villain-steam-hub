@@ -4,8 +4,8 @@
     "name": "Looking Up I See Only A Ceiling",
     "schinese_name": "抬头只见天花板 Looking Up I See Only A Ceiling",
     "isfreeapp": "0",
-    "change_number": "27898041",
-    "update_time": "2025-03-12 03:49:49",
+    "change_number": "28352080",
+    "update_time": "2025-04-08 02:59:10",
     "depot": {
         "228989": {
             "config": {
@@ -38,8 +38,7 @@
                     "size": "551817563",
                     "download": "408411296"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1742933": {
             "config": {
@@ -51,8 +50,7 @@
                     "size": "535169809",
                     "download": "403699472"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
