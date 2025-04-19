@@ -4,8 +4,8 @@
     "name": "FOUNDRY",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346135",
-    "update_time": "2025-04-07 21:08:53",
+    "change_number": "28542379",
+    "update_time": "2025-04-18 11:42:23",
     "depot": {
         "228989": {
             "config": {
@@ -32,6 +32,11 @@
                     "gid": "1911512643230071683",
                     "size": "5206427396",
                     "download": "2615975344"
+                },
+                "legacy_update_1": {
+                    "gid": "1911512643230071683",
+                    "size": "5206427396",
+                    "download": "2615975344"
                 }
             },
             "decryptionkey": "02b02434bbf6af2846d16a87ae33b7f7afe40754b260232f86761b1d16594aaf"
@@ -41,9 +46,14 @@
             "public": {
                 "buildid": "15370679",
                 "timeupdated": "1723730252"
+            },
+            "legacy_update_1": {
+                "buildid": "15370679",
+                "description": "Legacy Update 1",
+                "timeupdated": "1744723891"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2ced29f8acc253f69face242ce601e37135dc86e1bf4ce0fef452007ea28b8b9"
     }
 }
