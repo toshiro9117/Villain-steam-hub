@@ -4,8 +4,8 @@
     "name": "Draw & Guess",
     "schinese_name": "Draw & Guess - 你画我猜",
     "isfreeapp": "0",
-    "change_number": "28247748",
-    "update_time": "2025-04-01 20:05:16",
+    "change_number": "28529330",
+    "update_time": "2025-04-17 21:01:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
         "1483871": {
@@ -55,6 +55,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "546615c12ff0cd0f8ec72ea33c332f3b2014f3dbd02940fe312ab327934d6258"
     }
 }
