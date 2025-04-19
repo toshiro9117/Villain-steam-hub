@@ -1,0 +1,52 @@
+{
+    "appid": "2694490",
+    "type": "Game",
+    "name": "Path of Exile 2",
+    "schinese_name": "流放之路2",
+    "isfreeapp": "0",
+    "change_number": "28547138",
+    "update_time": "2025-04-18 18:01:36",
+    "depot": {
+        "2694491": {
+            "manifests": {
+                "public": {
+                    "gid": "9069488535672413220",
+                    "size": "96755468680",
+                    "download": "89623080048"
+                }
+            },
+            "decryptionkey": "e30d071e5cd89c91b6675ce95a63377021dd70852367d073a9fc76ec88fff843"
+        },
+        "2694492": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2786054280453354554",
+                    "size": "235282648",
+                    "download": "107834400"
+                }
+            },
+            "decryptionkey": "605258f87a1f07cfe2baaf34fedebb1b064859274a3191cdb43fcd5876336221"
+        },
+        "2694493": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4202169727166933799",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18138376",
+                "timeupdated": "1744864813"
+            }
+        }
+    }
+}
