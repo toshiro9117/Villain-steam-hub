@@ -4,8 +4,8 @@
     "name": "Crafty Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28006766",
-    "update_time": "2025-03-18 12:34:41",
+    "change_number": "28372033",
+    "update_time": "2025-04-09 02:53:38",
     "depot": {
         "baselanguages": "english",
         "2137761": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4404960981324558470",
-                    "size": "2352088825",
-                    "download": "151169456"
+                    "gid": "1404783800867035417",
+                    "size": "2352094646",
+                    "download": "151181536"
                 }
             },
             "decryptionkey": "573e82875fce23d4f27f3e5d1b4e125b9520114551a9b17d930b43ae297b25d4"
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2801749857921199988",
-                    "size": "2378002643",
-                    "download": "158842384"
+                    "gid": "1055701018261341666",
+                    "size": "2378010336",
+                    "download": "158871216"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17758507",
-                "timeupdated": "1742255627"
+                "buildid": "17769069",
+                "timeupdated": "1742318861"
             }
         },
         "privatebranches": "1"
