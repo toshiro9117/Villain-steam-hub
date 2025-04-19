@@ -4,8 +4,8 @@
     "name": "Contractors Showdown",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28274848",
-    "update_time": "2025-04-03 03:11:27",
+    "change_number": "28548953",
+    "update_time": "2025-04-18 20:06:10",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2719161": {
             "manifests": {
                 "public": {
-                    "gid": "8362379913032896547",
-                    "size": "39269769901",
-                    "download": "36628378880"
+                    "gid": "1130153930029116921",
+                    "size": "39591152065",
+                    "download": "36899128576"
                 }
             },
             "decryptionkey": "09414e3bc70d3b13b3e1145978229a49a56414f7aec9ed4eedc8598d31d720b6"
         },
         "branches": {
             "public": {
-                "buildid": "17880902",
-                "timeupdated": "1743072541"
+                "buildid": "18095757",
+                "timeupdated": "1744630080"
             }
         },
         "privatebranches": "1"
