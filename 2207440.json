@@ -4,8 +4,8 @@
     "name": "LOK Digital",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28309176",
-    "update_time": "2025-04-04 21:18:57",
+    "change_number": "28533622",
+    "update_time": "2025-04-18 00:31:10",
     "depot": {
         "baselanguages": "",
         "2207441": {
@@ -41,8 +41,7 @@
                     "size": "597185488",
                     "download": "199356848"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2207443": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "566170611",
                     "download": "187649744"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
