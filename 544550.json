@@ -4,8 +4,8 @@
     "name": "Stationeers",
     "schinese_name": "空间站工程师",
     "isfreeapp": "0",
-    "change_number": "28338653",
-    "update_time": "2025-04-07 11:06:13",
+    "change_number": "28536788",
+    "update_time": "2025-04-18 03:31:43",
     "depot": {
         "228988": {
             "config": {
@@ -44,9 +44,9 @@
                     "download": "2812867792"
                 },
                 "beta": {
-                    "gid": "3935654225291659817",
-                    "size": "7946647591",
-                    "download": "3258331920"
+                    "gid": "6673569225811623262",
+                    "size": "5501570843",
+                    "download": "3077592624"
                 },
                 "preterrain": {
                     "gid": "6273536449893847180",
@@ -77,9 +77,9 @@
                 "timeupdated": "1702360900"
             },
             "beta": {
-                "buildid": "18003736",
+                "buildid": "18161360",
                 "description": "beta branch",
-                "timeupdated": "1743968875"
+                "timeupdated": "1745004607"
             },
             "preterrain": {
                 "buildid": "15643425",
@@ -93,6 +93,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "1013f9924359164cdb86287f7ea269fbf99b01482b3033734ca47509cd5d8139"
     }
 }
