@@ -4,8 +4,8 @@
     "name": "Space Engineers",
     "schinese_name": "太空工程师",
     "isfreeapp": "0",
-    "change_number": "28312171",
-    "update_time": "2025-04-04 23:57:53",
+    "change_number": "28508515",
+    "update_time": "2025-04-16 21:06:17",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -521,6 +521,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "88f1361bc409c0dea1f2aada8667ed87d442eed9a908ddc57994d21ff6808a18"
     }
 }
