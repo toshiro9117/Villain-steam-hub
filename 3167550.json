@@ -4,8 +4,8 @@
     "name": "Tiny Pasture",
     "schinese_name": "动物栏：桌面牧场",
     "isfreeapp": "0",
-    "change_number": "28341526",
-    "update_time": "2025-04-07 16:09:46",
+    "change_number": "28547386",
+    "update_time": "2025-04-18 18:15:05",
     "depot": {
         "3167552": {
             "config": {
@@ -13,12 +13,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8412462944035739900",
-                    "size": "208803828",
-                    "download": "81968080"
+                    "gid": "6727073895298863935",
+                    "size": "208809700",
+                    "download": "81970624"
+                },
+                "moduploader": {
+                    "gid": "6766960644749862154",
+                    "size": "367658411",
+                    "download": "84690944"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3167551": {
             "config": {
@@ -26,9 +30,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1152166732055683245",
-                    "size": "137296616",
-                    "download": "66030960"
+                    "gid": "2757121563751416136",
+                    "size": "137305032",
+                    "download": "66033392"
+                },
+                "moduploader": {
+                    "gid": "4858462219304377453",
+                    "size": "221465088",
+                    "download": "66619408"
                 }
             },
             "decryptionkey": "2eb36141e330220bd89c47de8cca1c780182686771b6f5e9251eeef811774d14"
@@ -37,8 +46,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17967203",
-                "timeupdated": "1743670834"
+                "buildid": "18094181",
+                "timeupdated": "1744604423"
+            },
+            "moduploader": {
+                "buildid": "18038587",
+                "description": "use for upload mod to workshop",
+                "timeupdated": "1744190372"
             }
         },
         "privatebranches": "1",
