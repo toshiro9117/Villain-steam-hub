@@ -4,8 +4,8 @@
     "name": "GoreBox",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28287249",
-    "update_time": "2025-04-03 19:15:22",
+    "change_number": "28505791",
+    "update_time": "2025-04-16 18:23:15",
     "depot": {
         "2027331": {
             "config": {
@@ -14,28 +14,29 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2158449228813775782",
-                    "size": "632217129",
-                    "download": "391612816"
+                    "gid": "5710523626067034349",
+                    "size": "684395659",
+                    "download": "431960560"
                 },
                 "beta": {
-                    "gid": "5600159004683527901",
-                    "size": "684586645",
-                    "download": "433280416"
+                    "gid": "3046788043548772695",
+                    "size": "671817789",
+                    "download": "418112944"
                 }
             },
             "decryptionkey": "fe55366b35c183a95c0ec8968cfc7df1e903ba74e41b8c298201fda9946a0b7d"
         },
         "branches": {
             "public": {
-                "buildid": "17027855",
-                "timeupdated": "1737039499"
+                "buildid": "18055421",
+                "timeupdated": "1744284158"
             },
             "beta": {
-                "buildid": "17968839",
+                "buildid": "18127059",
                 "description": "experimental updates",
-                "timeupdated": "1743678918"
+                "timeupdated": "1744798980"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
