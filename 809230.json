@@ -4,8 +4,8 @@
     "name": "Unity of Command II",
     "schinese_name": "统一指挥2",
     "isfreeapp": "0",
-    "change_number": "28309300",
-    "update_time": "2025-04-04 21:26:10",
+    "change_number": "28549598",
+    "update_time": "2025-04-18 20:55:31",
     "depot": {
         "workshopdepot": "809230",
         "228986": {
@@ -80,8 +80,7 @@
                     "size": "570787174",
                     "download": "134552048"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "809233": {
             "config": {
@@ -103,8 +102,7 @@
                     "size": "2259955396",
                     "download": "1369748816"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1493580": {
             "dlcappid": "1493580",
