@@ -4,8 +4,8 @@
     "name": "Wild Woods",
     "schinese_name": "喵门镖局 - Wild Woods",
     "isfreeapp": "0",
-    "change_number": "28308612",
-    "update_time": "2025-04-04 20:49:02",
+    "change_number": "28549163",
+    "update_time": "2025-04-18 20:20:24",
     "depot": {
         "228990": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4832661488469278878",
+                    "size": "1286174397",
+                    "download": "926383488"
+                },
+                "fallback": {
                     "gid": "7752790255092153834",
                     "size": "1281998276",
                     "download": "926134560"
-                },
-                "fallback": {
-                    "gid": "2363681021855544769",
-                    "size": "1370539658",
-                    "download": "955330368"
                 }
             },
             "decryptionkey": "fec9e2c7c0e862b3d9ba1e206ec959822e7b9df92d97baa5661f3ea091a61b4f"
@@ -54,13 +54,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17512793",
-                "timeupdated": "1740671765"
+                "buildid": "18100740",
+                "timeupdated": "1744657148"
             },
             "fallback": {
-                "buildid": "17065919",
+                "buildid": "17512793",
                 "description": "If an update causes errors, you can use this branch to revert to the previous version",
-                "timeupdated": "1740669808"
+                "timeupdated": "1744656176"
             }
         },
         "privatebranches": "1"
