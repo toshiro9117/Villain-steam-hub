@@ -4,8 +4,8 @@
     "name": "Zoeti",
     "schinese_name": "星咏之诗",
     "isfreeapp": "0",
-    "change_number": "28336695",
-    "update_time": "2025-04-07 07:14:27",
+    "change_number": "28398958",
+    "update_time": "2025-04-10 11:08:16",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "1434541": {
@@ -31,8 +31,7 @@
                     "size": "903641768",
                     "download": "390447648"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2550260": {
             "dlcappid": "2550260",
