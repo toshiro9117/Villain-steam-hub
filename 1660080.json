@@ -4,8 +4,8 @@
     "name": "Aloft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334067",
-    "update_time": "2025-04-07 01:10:53",
+    "change_number": "28542761",
+    "update_time": "2025-04-18 12:17:45",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1660080",
@@ -42,6 +42,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0b289fef8a91dcf33a515bf73a0c1477918362c3bd9d57be186f6ccaa5c51c84"
     }
 }
