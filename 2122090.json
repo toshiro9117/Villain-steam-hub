@@ -1,0 +1,31 @@
+{
+    "appid": "2122090",
+    "type": "Game",
+    "name": "Forgotten but Unbroken",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28456872",
+    "update_time": "2025-04-14 05:30:42",
+    "depot": {
+        "2122091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3363709461608940369",
+                    "size": "37999781750",
+                    "download": "15472576016"
+                }
+            },
+            "decryptionkey": "1a85cca59ab42d72392cd3e2edac79ab499f7ddfca62510d6bd2fde853b2ad1d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18092093",
+                "timeupdated": "1744579839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
