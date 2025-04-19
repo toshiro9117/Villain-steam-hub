@@ -4,8 +4,8 @@
     "name": "Gray Haven",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28085807",
-    "update_time": "2025-03-22 17:19:07",
+    "change_number": "28547525",
+    "update_time": "2025-04-18 18:22:59",
     "depot": {
         "baselanguages": "english,koreana,spanish,schinese,japanese",
         "2314651": {
@@ -20,9 +20,9 @@
                     "download": "6515449008"
                 },
                 "beta": {
-                    "gid": "3860259574388266157",
-                    "size": "10610672142",
-                    "download": "6515305680"
+                    "gid": "9002907202102205078",
+                    "size": "11069492628",
+                    "download": "6649964080"
                 },
                 "last_hotfix": {
                     "gid": "8686657723407050053",
@@ -44,9 +44,9 @@
                     "download": "6495390016"
                 },
                 "beta": {
-                    "gid": "4803482578899473818",
-                    "size": "10610672142",
-                    "download": "6513680256"
+                    "gid": "3773466956432501303",
+                    "size": "11095959507",
+                    "download": "6648249920"
                 },
                 "last_hotfix": {
                     "gid": "7589642424821913497",
@@ -68,9 +68,9 @@
                     "download": "6515152112"
                 },
                 "beta": {
-                    "gid": "4749438940100148866",
-                    "size": "10610672142",
-                    "download": "6515003280"
+                    "gid": "7121363233815336110",
+                    "size": "11069492628",
+                    "download": "6649771760"
                 },
                 "last_hotfix": {
                     "gid": "2895437313104799504",
@@ -92,9 +92,9 @@
                     "download": "6514257888"
                 },
                 "beta": {
-                    "gid": "2777250483744898968",
-                    "size": "10610672142",
-                    "download": "6514125232"
+                    "gid": "7732096320265565348",
+                    "size": "11069492628",
+                    "download": "6648750096"
                 },
                 "last_hotfix": {
                     "gid": "1304536062023095176",
@@ -116,9 +116,9 @@
                     "download": "6514795792"
                 },
                 "beta": {
-                    "gid": "2414978119504248450",
-                    "size": "10610672142",
-                    "download": "6514665552"
+                    "gid": "2663955357124297382",
+                    "size": "11069492628",
+                    "download": "6649306784"
                 },
                 "last_hotfix": {
                     "gid": "9024652788927886300",
@@ -135,13 +135,13 @@
                 "timeupdated": "1741339109"
             },
             "beta": {
-                "buildid": "17362173",
+                "buildid": "18156023",
                 "description": "Beta Test",
-                "timeupdated": "1741339073"
+                "timeupdated": "1744971760"
             },
             "last_hotfix": {
                 "buildid": "17027169",
-                "description": "Rollback to 2.1.1 (Buiuld #17027169)",
+                "description": "Rollback to 2.1.3 (Buiuld #17631851)",
                 "timeupdated": "1737342261"
             }
         },
