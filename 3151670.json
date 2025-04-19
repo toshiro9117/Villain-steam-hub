@@ -4,23 +4,23 @@
     "name": "Trombone Champ: Unflattened",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28295361",
-    "update_time": "2025-04-04 03:06:57",
+    "change_number": "28534306",
+    "update_time": "2025-04-18 01:05:45",
     "depot": {
         "3151671": {
             "manifests": {
                 "public": {
-                    "gid": "8195616310587970961",
-                    "size": "2057562835",
-                    "download": "975701232"
+                    "gid": "4892107145715109566",
+                    "size": "2074890824",
+                    "download": "976147424"
                 }
             },
             "decryptionkey": "85557c97fe3028cb817410bf7e1aac01f0578ec78cf622a65e53061f04d0cfe4"
         },
         "branches": {
             "public": {
-                "buildid": "17942390",
-                "timeupdated": "1743524984"
+                "buildid": "18138482",
+                "timeupdated": "1744909481"
             }
         },
         "privatebranches": "1"
