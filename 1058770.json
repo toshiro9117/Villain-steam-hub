@@ -4,8 +4,8 @@
     "name": "我来自江湖",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28311766",
-    "update_time": "2025-04-04 23:36:15",
+    "change_number": "28522179",
+    "update_time": "2025-04-17 13:26:05",
     "depot": {
         "229006": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6344617086901417140",
-                    "size": "280453345",
-                    "download": "151222640"
+                    "gid": "6246331487330601724",
+                    "size": "280459614",
+                    "download": "151224832"
                 }
             },
             "decryptionkey": "91b84c89799bb48299af01a22869aa305f118e31f8c3560d6e10011b8cdea2cd"
@@ -32,11 +32,11 @@
         "workshopdepot": "1058770",
         "branches": {
             "public": {
-                "buildid": "17986960",
-                "timeupdated": "1743780969"
+                "buildid": "18139190",
+                "timeupdated": "1744867559"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "515bb8622028b450ee50b5cef6e1c1ee65d52d692524927c935f85ad072a57d0"
     }
 }
