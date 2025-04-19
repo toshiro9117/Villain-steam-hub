@@ -4,8 +4,8 @@
     "name": "DC Universe Online",
     "schinese_name": "DC漫画英雄OL",
     "isfreeapp": "1",
-    "change_number": "27903161",
-    "update_time": "2025-03-12 11:02:12",
+    "change_number": "28367133",
+    "update_time": "2025-04-08 22:10:45",
     "depot": {
         "228984": {
             "config": {
@@ -18,7 +18,8 @@
                     "download": "13436144"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068"
         },
         "228990": {
             "config": {
@@ -31,7 +32,8 @@
                     "download": "100658080"
                 }
             },
-            "depotfromapp": "228980"
+            "depotfromapp": "228980",
+            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
         },
         "24209": {
             "optional": "1",
