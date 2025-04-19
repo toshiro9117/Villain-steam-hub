@@ -4,8 +4,8 @@
     "name": "The OG Cake Factory",
     "schinese_name": "疯狂蛋糕工厂",
     "isfreeapp": "0",
-    "change_number": "28274858",
-    "update_time": "2025-04-03 03:12:15",
+    "change_number": "28505270",
+    "update_time": "2025-04-16 17:59:13",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5906144383599125419",
-                    "size": "836908032",
-                    "download": "723734560"
+                    "gid": "3863711715696225181",
+                    "size": "837390848",
+                    "download": "723927744"
                 }
             },
             "decryptionkey": "d3d5ffb7fa7df18e4029139983fc8d3e589bb7f7671246c51e2fd6bdd43193d9"
         },
         "branches": {
             "public": {
-                "buildid": "17606187",
-                "timeupdated": "1741188415"
+                "buildid": "18118752",
+                "timeupdated": "1744797549"
             }
         }
     }
