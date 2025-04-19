@@ -4,8 +4,8 @@
     "name": "Logic World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28156104",
-    "update_time": "2025-03-27 03:16:15",
+    "change_number": "28374682",
+    "update_time": "2025-04-09 06:15:13",
     "depot": {
         "hasdepotsindlc": "0",
         "1054342": {
@@ -60,8 +60,7 @@
                     "size": "1530429458",
                     "download": "371653056"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1054343": {
             "config": {
@@ -170,8 +169,7 @@
                     "size": "1489191353",
                     "download": "364403408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
