@@ -4,8 +4,8 @@
     "name": "Sokobond Express",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27369972",
-    "update_time": "2025-02-08 03:42:43",
+    "change_number": "28495740",
+    "update_time": "2025-04-16 05:23:22",
     "depot": {
         "228988": {
             "config": {
@@ -51,8 +51,7 @@
                     "size": "381427405",
                     "download": "85512992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1701333": {
             "config": {
@@ -64,8 +63,7 @@
                     "size": "427681141",
                     "download": "98931728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
