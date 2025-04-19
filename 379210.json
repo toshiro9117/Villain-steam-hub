@@ -4,8 +4,8 @@
     "name": "Wayward",
     "schinese_name": "固执",
     "isfreeapp": "0",
-    "change_number": "28332820",
-    "update_time": "2025-04-06 22:08:40",
+    "change_number": "28444983",
+    "update_time": "2025-04-12 22:07:34",
     "depot": {
         "workshopdepot": "379210",
         "hasdepotsindlc": "1",
@@ -20,9 +20,9 @@
                     "download": "161471328"
                 },
                 "development": {
-                    "gid": "8990517630613801770",
-                    "size": "206119289",
-                    "download": "157582432"
+                    "gid": "70727801672311775",
+                    "size": "206152246",
+                    "download": "157591760"
                 },
                 "beta2.14.3": {
                     "gid": "6388060376625195363",
@@ -153,9 +153,9 @@
                     "download": "301010752"
                 },
                 "development": {
-                    "gid": "1248367270608520561",
-                    "size": "673585906",
-                    "download": "307436608"
+                    "gid": "4483990959301733132",
+                    "size": "673618863",
+                    "download": "307441072"
                 },
                 "beta2.14.3": {
                     "gid": "8385852668542925683",
@@ -272,8 +272,7 @@
                     "size": "144540740",
                     "download": "135076096"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "379218": {
             "config": {
@@ -286,9 +285,9 @@
                     "download": "161471328"
                 },
                 "development": {
-                    "gid": "7648641208762287231",
-                    "size": "206119289",
-                    "download": "157582432"
+                    "gid": "7590013045638944055",
+                    "size": "206152246",
+                    "download": "157591760"
                 },
                 "beta2.14.3": {
                     "gid": "7012582942163395287",
@@ -405,8 +404,7 @@
                     "size": "144540740",
                     "download": "135076096"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "379212": {
             "config": {
@@ -807,8 +805,7 @@
                     "size": "336614721",
                     "download": "30867824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "379215": {
             "config": {
@@ -941,8 +938,7 @@
                     "size": "112812597",
                     "download": "31147488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "379216": {
             "config": {
@@ -1075,8 +1071,7 @@
                     "size": "108115773",
                     "download": "31100544"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -1084,9 +1079,9 @@
                 "timeupdated": "1735350501"
             },
             "development": {
-                "buildid": "18002053",
+                "buildid": "18158500",
                 "description": "Development Branch (Updated Nightly)",
-                "timeupdated": "1743948516"
+                "timeupdated": "1744985311"
             },
             "beta2.14.3": {
                 "buildid": "16863576",
