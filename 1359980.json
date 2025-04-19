@@ -4,8 +4,8 @@
     "name": "POSTAL Brain Damaged",
     "schinese_name": "喋血街头：脑损伤",
     "isfreeapp": "0",
-    "change_number": "28189394",
-    "update_time": "2025-03-28 19:37:48",
+    "change_number": "28493784",
+    "update_time": "2025-04-16 02:56:29",
     "depot": {
         "hasdepotsindlc": "1",
         "1359981": {
@@ -31,6 +31,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "17286d0795724b145c8496a2b2a3d6d756b0749964e7d4190945221c36fe4da0"
     }
 }
