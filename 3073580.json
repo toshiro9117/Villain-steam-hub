@@ -1,0 +1,29 @@
+{
+    "appid": "3073580",
+    "type": "Game",
+    "name": "Aquatic Store Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28362805",
+    "update_time": "2025-04-08 17:50:28",
+    "depot": {
+        "baselanguages": "english",
+        "3073581": {
+            "manifests": {
+                "public": {
+                    "gid": "9019886111634427937",
+                    "size": "6788929682",
+                    "download": "2637183472"
+                }
+            },
+            "decryptionkey": "48ef30c413229aaed2bb752bf7613f2083f09756f4cf404744dd1f31e6fb09a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17663080",
+                "timeupdated": "1741887371"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
