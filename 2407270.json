@@ -4,23 +4,23 @@
     "name": "AI Limit",
     "schinese_name": "AI LIMIT 无限机兵",
     "isfreeapp": "0",
-    "change_number": "28346284",
-    "update_time": "2025-04-07 21:17:47",
+    "change_number": "28534425",
+    "update_time": "2025-04-18 01:11:30",
     "depot": {
         "2407271": {
             "manifests": {
                 "public": {
-                    "gid": "1574994599372176071",
-                    "size": "18099333930",
-                    "download": "15315880336"
+                    "gid": "6763061897230161818",
+                    "size": "18127256865",
+                    "download": "15338979504"
                 }
             },
             "decryptionkey": "7fbec0c07311645df5048184f930dab908082e6a96be2f0814a3159eaa8de5a6"
         },
         "branches": {
             "public": {
-                "buildid": "17884331",
-                "timeupdated": "1743087974"
+                "buildid": "18100748",
+                "timeupdated": "1744705208"
             }
         },
         "privatebranches": "1"
