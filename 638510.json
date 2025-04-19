@@ -4,8 +4,8 @@
     "name": "dotAGE",
     "schinese_name": "点老救世记 - dotAGE",
     "isfreeapp": "0",
-    "change_number": "28323473",
-    "update_time": "2025-04-05 20:44:04",
+    "change_number": "28485739",
+    "update_time": "2025-04-15 19:29:54",
     "depot": {
         "baselanguages": "english,italian",
         "638511": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5990446902221756962",
-                    "size": "568889338",
-                    "download": "269530000"
+                    "gid": "5851330587750022024",
+                    "size": "568892138",
+                    "download": "269527376"
                 },
                 "experimental": {
                     "gid": "6845278691521079059",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7547719690904824844",
-                    "size": "645368775",
-                    "download": "286729376"
+                    "gid": "9186830435912190082",
+                    "size": "645394383",
+                    "download": "286748880"
                 },
                 "experimental": {
                     "gid": "7556939543635589855",
@@ -62,8 +62,7 @@
                     "size": "493198681",
                     "download": "161330912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "638513": {
             "config": {
@@ -71,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "705333968415029070",
-                    "size": "635093654",
-                    "download": "276520384"
+                    "gid": "5251764088720914603",
+                    "size": "635102872",
+                    "download": "276522144"
                 },
                 "experimental": {
                     "gid": "3659312002052960088",
@@ -90,13 +89,12 @@
                     "size": "482796981",
                     "download": "151092640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17995754",
-                "timeupdated": "1743857038"
+                "buildid": "18081946",
+                "timeupdated": "1744443431"
             },
             "experimental": {
                 "buildid": "16759137",
