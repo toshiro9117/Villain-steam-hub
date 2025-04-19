@@ -1,0 +1,33 @@
+{
+    "appid": "3588580",
+    "type": "Game",
+    "name": "Another World Guardian",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28530870",
+    "update_time": "2025-04-17 22:17:47",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "3588581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "300084735657571376",
+                    "size": "600385032",
+                    "download": "402321552"
+                }
+            },
+            "decryptionkey": "f91093199035709f75d09d42b128ce1c3a6edc3a02f411721ecfa2b049f4e025"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18133316",
+                "timeupdated": "1744828879"
+            }
+        }
+    }
+}
