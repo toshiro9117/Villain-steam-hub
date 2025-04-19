@@ -4,8 +4,8 @@
     "name": "SysAdmin Odyssey. Back to the office Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336485",
-    "update_time": "2025-04-07 06:38:17",
+    "change_number": "28515133",
+    "update_time": "2025-04-17 03:22:56",
     "depot": {
         "hasdepotsindlc": "0",
         "228989": {
@@ -35,11 +35,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1217671721160390849",
-                    "size": "1007144248",
-                    "download": "361345088"
+                    "gid": "6362699024732544601",
+                    "size": "2926432998",
+                    "download": "546296400"
                 }
-            }
+            },
+            "decryptionkey": "7e57387aed03ff44945d75ef33d3c6e272fdbe0976d7d317ffd23fe5cab47389"
         },
         "2835512": {
             "config": {
@@ -47,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1165678962568621071",
-                    "size": "990301530",
-                    "download": "358267168"
+                    "gid": "5802605149643146878",
+                    "size": "2946339349",
+                    "download": "555304720"
                 }
             }
         },
@@ -59,17 +60,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6873739446709435265",
-                    "size": "1005518916",
-                    "download": "362181056"
+                    "gid": "415199879015621796",
+                    "size": "2954952390",
+                    "download": "566339648"
                 }
             }
         },
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "17540286",
-                "timeupdated": "1740708997"
+                "buildid": "18162842",
+                "timeupdated": "1745016635"
             }
         },
         "privatebranches": "1"
