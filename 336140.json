@@ -4,8 +4,8 @@
     "name": "Unavowed",
     "schinese_name": "秘密",
     "isfreeapp": "0",
-    "change_number": "28225135",
-    "update_time": "2025-03-31 17:16:25",
+    "change_number": "28514307",
+    "update_time": "2025-04-17 02:29:34",
     "depot": {
         "336141": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4770731826999590504",
-                    "size": "2339416443",
-                    "download": "1263368032"
+                    "gid": "3025258983354472197",
+                    "size": "2340422686",
+                    "download": "1263721344"
                 }
             },
             "decryptionkey": "8a3ac50462bf7d31250c79826ad82caabe7ece2afa6c7dc3d5475b7b7a7b6238"
@@ -26,12 +26,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "737304906985181317",
-                    "size": "2342637083",
-                    "download": "1266554832"
+                    "gid": "295607921425934446",
+                    "size": "2356444292",
+                    "download": "1269811712"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "336143": {
             "config": {
@@ -39,12 +38,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3857164566695732565",
-                    "size": "2364185805",
-                    "download": "1270118672"
+                    "gid": "1113201122736001477",
+                    "size": "2369592601",
+                    "download": "1271285184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "336144": {
             "config": {
@@ -53,17 +51,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4485135658114948079",
-                    "size": "2407146400",
-                    "download": "1280736992"
+                    "gid": "3606086156509855434",
+                    "size": "2412553196",
+                    "download": "1281903504"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16714844",
-                "timeupdated": "1733964690"
+                "buildid": "18133209",
+                "timeupdated": "1744828170"
             }
         },
         "privatebranches": "1"
