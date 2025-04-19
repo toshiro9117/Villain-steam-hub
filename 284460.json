@@ -4,8 +4,8 @@
     "name": "DeadCore",
     "schinese_name": "死亡核心",
     "isfreeapp": "0",
-    "change_number": "27536165",
-    "update_time": "2025-02-18 22:39:45",
+    "change_number": "28533004",
+    "update_time": "2025-04-18 00:04:26",
     "depot": {
         "228983": {
             "config": {
@@ -66,8 +66,7 @@
                     "size": "973557586",
                     "download": "77654728604"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "284463": {
             "config": {
@@ -84,8 +83,7 @@
                     "size": "3853634419",
                     "download": "464000627366"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english,german,french",
         "branches": {
