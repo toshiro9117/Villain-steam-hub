@@ -4,8 +4,8 @@
     "name": "Broken Sword - Shadow of the Templars: Reforged",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28135755",
-    "update_time": "2025-03-26 02:21:11",
+    "change_number": "28490635",
+    "update_time": "2025-04-15 23:53:55",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,spanish",
@@ -32,8 +32,7 @@
                     "size": "7735293976",
                     "download": "7658151840"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2544113": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "7728231666",
                     "download": "7654171568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2544114": {
             "config": {
@@ -59,8 +57,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
