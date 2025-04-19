@@ -4,8 +4,8 @@
     "name": "Pioneers of Pagonia",
     "schinese_name": "帕格尼物语",
     "isfreeapp": "0",
-    "change_number": "28346282",
-    "update_time": "2025-04-07 21:17:51",
+    "change_number": "28533752",
+    "update_time": "2025-04-18 00:37:07",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,czech,turkish,brazilian,ukrainian",
@@ -19,14 +19,14 @@
         "2155181": {
             "manifests": {
                 "public": {
-                    "gid": "8016077528820131918",
-                    "size": "2820172461",
-                    "download": "2507646720"
+                    "gid": "2199444276459293618",
+                    "size": "2829354737",
+                    "download": "2515607744"
                 },
                 "beta": {
-                    "gid": "5938334771324711361",
-                    "size": "2828158442",
-                    "download": "2514652064"
+                    "gid": "2199444276459293618",
+                    "size": "2829354737",
+                    "download": "2515607744"
                 }
             },
             "decryptionkey": "d38873bac59e2a12948771b27a94623a3ece822844d75202b42361f61b5b1504"
@@ -68,13 +68,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17395888",
-                "timeupdated": "1739888694"
+                "buildid": "18128042",
+                "timeupdated": "1744810510"
             },
             "beta": {
-                "buildid": "17954232",
+                "buildid": "18128042",
                 "description": "Beta branch where upcoming game updates can be tested before they are released",
-                "timeupdated": "1743600464"
+                "timeupdated": "1744810574"
             }
         },
         "privatebranches": "1",
