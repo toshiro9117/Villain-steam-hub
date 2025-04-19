@@ -4,8 +4,8 @@
     "name": "TheoTown",
     "schinese_name": "西奥小镇",
     "isfreeapp": "0",
-    "change_number": "28342411",
-    "update_time": "2025-04-07 17:09:23",
+    "change_number": "28463684",
+    "update_time": "2025-04-14 17:29:56",
     "depot": {
         "baselanguages": "english",
         "1084021": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1238355067875322078",
-                    "size": "225155166",
-                    "download": "145391520"
+                    "gid": "5942443585832632357",
+                    "size": "225381866",
+                    "download": "145617856"
                 },
                 "beta": {
                     "gid": "5942443585832632357",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4993289965996889929",
-                    "size": "251021640",
-                    "download": "149464784"
+                    "gid": "4373766306240696557",
+                    "size": "251248340",
+                    "download": "149691072"
                 },
                 "beta": {
                     "gid": "4373766306240696557",
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6644371398849567115",
-                    "size": "121624319",
-                    "download": "119876048"
+                    "gid": "8234540821051749299",
+                    "size": "121851019",
+                    "download": "120102080"
                 },
                 "beta": {
                     "gid": "8234540821051749299",
@@ -65,8 +65,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17725358",
-                "timeupdated": "1742205468"
+                "buildid": "18009019",
+                "timeupdated": "1744622992"
             },
             "beta": {
                 "buildid": "18009019",
