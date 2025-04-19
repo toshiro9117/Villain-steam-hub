@@ -4,8 +4,8 @@
     "name": "窗台上的蝴蝶",
     "schinese_name": "窗台上的蝴蝶",
     "isfreeapp": "0",
-    "change_number": "28286464",
-    "update_time": "2025-04-03 18:22:57",
+    "change_number": "28448141",
+    "update_time": "2025-04-13 05:10:46",
     "depot": {
         "2239131": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "9443718168",
                     "download": "1375252064"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2239133": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "9443718680",
                     "download": "1375087488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
