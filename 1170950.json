@@ -4,8 +4,8 @@
     "name": "Mortal Online 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333907",
-    "update_time": "2025-04-07 00:44:23",
+    "change_number": "28545614",
+    "update_time": "2025-04-18 16:19:24",
     "depot": {
         "228989": {
             "config": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2710558258155598412",
-                    "size": "53063572802",
-                    "download": "43604696816"
+                    "gid": "449565515561007809",
+                    "size": "53106210718",
+                    "download": "43685311264"
                 },
                 "testpublic": {
                     "gid": "1549866331829713991",
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17930064",
-                "timeupdated": "1743579714"
+                "buildid": "18026347",
+                "timeupdated": "1744181929"
             },
             "testpublic": {
                 "buildid": "17807145",
