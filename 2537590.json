@@ -4,8 +4,8 @@
     "name": "Microsoft Flight Simulator 2024",
     "schinese_name": "微软模拟飞行 2024",
     "isfreeapp": "0",
-    "change_number": "28341321",
-    "update_time": "2025-04-07 15:55:21",
+    "change_number": "28548875",
+    "update_time": "2025-04-18 20:01:31",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "6572758224"
                 },
                 "flight_sim_2024_beta": {
-                    "gid": "6651350537343593250",
-                    "size": "8871655277",
-                    "download": "6453424160"
+                    "gid": "1651574763528674174",
+                    "size": "8751056610",
+                    "download": "6330857376"
                 }
             },
             "decryptionkey": "a149759cc259406fd0f2255297e089d9deb63fb59c263b7f2d1b7fcd7aded1a4"
@@ -36,9 +36,9 @@
                 "timeupdated": "1743174026"
             },
             "flight_sim_2024_beta": {
-                "buildid": "17928190",
+                "buildid": "18131388",
                 "description": "Sim Update 2",
-                "timeupdated": "1743631920"
+                "timeupdated": "1744995305"
             }
         },
         "privatebranches": "1"
