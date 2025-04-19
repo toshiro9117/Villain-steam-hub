@@ -4,8 +4,8 @@
     "name": "Defense Builder",
     "schinese_name": "防线建造者",
     "isfreeapp": "0",
-    "change_number": "28342517",
-    "update_time": "2025-04-07 17:17:56",
+    "change_number": "28497434",
+    "update_time": "2025-04-16 07:39:15",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3175671": {
             "manifests": {
                 "public": {
-                    "gid": "258383616185437464",
-                    "size": "5194174142",
-                    "download": "5009800912"
+                    "gid": "7380135216367030238",
+                    "size": "5211051049",
+                    "download": "5026896432"
                 },
                 "previous": {
                     "gid": "8105575222761765100",
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17985300",
-                "timeupdated": "1743772306"
+                "buildid": "18120767",
+                "timeupdated": "1744760351"
             },
             "previous": {
                 "buildid": "17899478",
