@@ -4,8 +4,8 @@
     "name": "Stream Avatars",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27726294",
-    "update_time": "2025-03-01 06:00:46",
+    "change_number": "28548481",
+    "update_time": "2025-04-18 19:30:00",
     "depot": {
         "228990": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "37486124984699998",
-                    "size": "207742374",
-                    "download": "49843584"
+                    "gid": "2873277421258540276",
+                    "size": "207779054",
+                    "download": "49847712"
                 },
                 "beta--3": {
                     "gid": "3201019477895510266",
@@ -42,9 +42,9 @@
                     "download": "38675488"
                 },
                 "beta--1": {
-                    "gid": "37486124984699998",
-                    "size": "207742374",
-                    "download": "49843584"
+                    "gid": "3726838348763296007",
+                    "size": "207775982",
+                    "download": "49848112"
                 }
             },
             "decryptionkey": "3dcf4555a8f4a9b92f642d2de7e8b125fd06f8455d560852c4bedf7a808dc8c8"
@@ -79,13 +79,12 @@
                     "size": "211214296",
                     "download": "50987776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17553453",
-                "timeupdated": "1740780020"
+                "buildid": "18124291",
+                "timeupdated": "1744784513"
             },
             "beta--3": {
                 "buildid": "13906467",
@@ -103,9 +102,9 @@
                 "timeupdated": "1723158208"
             },
             "beta--1": {
-                "buildid": "17553453",
+                "buildid": "18157114",
                 "description": "beta1",
-                "timeupdated": "1740780042"
+                "timeupdated": "1744975793"
             }
         },
         "privatebranches": "1",
