@@ -4,8 +4,8 @@
     "name": "Maestro's Cold War 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28327365",
-    "update_time": "2025-04-06 06:16:59",
+    "change_number": "28493363",
+    "update_time": "2025-04-16 02:30:14",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -34,8 +34,7 @@
                     "size": "1155303101",
                     "download": "780929408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3204123": {
             "config": {
@@ -49,14 +48,15 @@
                     "size": "1049465949",
                     "download": "752435712"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
+        "workshopdepot": "3204120",
         "branches": {
             "public": {
                 "buildid": "17910694",
                 "timeupdated": "1743267040"
             }
-        }
+        },
+        "workshopdepotdecryptionkey": ""
     }
 }
