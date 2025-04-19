@@ -4,8 +4,8 @@
     "name": "Bugaboo Pocket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28337152",
-    "update_time": "2025-04-07 08:16:13",
+    "change_number": "28527435",
+    "update_time": "2025-04-17 19:07:55",
     "depot": {
         "1985741": {
             "config": {
@@ -13,9 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6986826458262270084",
-                    "size": "604725774",
-                    "download": "183909600"
+                    "gid": "2510531063011070564",
+                    "size": "628341208",
+                    "download": "207682864"
+                },
+                "public-beta": {
+                    "gid": "2510531063011070564",
+                    "size": "628341208",
+                    "download": "207682864"
                 }
             },
             "decryptionkey": "a3252f3aa3682f681667989ab6df551e3683e9cc90488b7083056835f2694317"
@@ -26,17 +31,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3833058988197599772",
-                    "size": "627955348",
-                    "download": "190805824"
+                    "gid": "7934203493335146376",
+                    "size": "651687350",
+                    "download": "214615632"
+                },
+                "public-beta": {
+                    "gid": "7934203493335146376",
+                    "size": "651687350",
+                    "download": "214615632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17903279",
-                "timeupdated": "1743191083"
+                "buildid": "18066880",
+                "timeupdated": "1744646115"
+            },
+            "public-beta": {
+                "buildid": "18066880",
+                "description": "Public branch for testing new updates",
+                "timeupdated": "1744403713"
             }
         },
         "privatebranches": "1"
