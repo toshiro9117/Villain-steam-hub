@@ -4,8 +4,8 @@
     "name": "Plan B: Terraform",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28312897",
-    "update_time": "2025-04-05 00:39:35",
+    "change_number": "28548211",
+    "update_time": "2025-04-18 19:09:16",
     "depot": {
         "228988": {
             "config": {
@@ -24,19 +24,19 @@
         "1894431": {
             "manifests": {
                 "public": {
-                    "gid": "9149105742137241422",
-                    "size": "910028523",
-                    "download": "444866128"
+                    "gid": "7081411263799970743",
+                    "size": "961461860",
+                    "download": "448741760"
                 },
                 "beta": {
-                    "gid": "4291844628944674739",
-                    "size": "909678196",
-                    "download": "444456096"
+                    "gid": "2753011398444638507",
+                    "size": "909752712",
+                    "download": "444482496"
                 },
                 "safe": {
-                    "gid": "838975065025208276",
-                    "size": "909797808",
-                    "download": "444786800"
+                    "gid": "7081411263799970743",
+                    "size": "961461860",
+                    "download": "448741760"
                 },
                 "test_special": {
                     "gid": "2909427297621188102",
@@ -60,18 +60,18 @@
         "workshopdepot": "1894430",
         "branches": {
             "public": {
-                "buildid": "17806375",
-                "timeupdated": "1742569940"
+                "buildid": "18090450",
+                "timeupdated": "1744560087"
             },
             "beta": {
-                "buildid": "17987999",
+                "buildid": "18160076",
                 "description": "beta branch",
-                "timeupdated": "1743784770"
+                "timeupdated": "1744995657"
             },
             "safe": {
-                "buildid": "17724685",
+                "buildid": "18090450",
                 "description": "delayed update, you can roll back to this one if you have sudden issue after update (but contact me!)",
-                "timeupdated": "1742805235"
+                "timeupdated": "1744797340"
             },
             "test_special": {
                 "buildid": "17797424",
@@ -89,6 +89,6 @@
                 "timeupdated": "1727173270"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9a08903b3c968b0479549a2a5e110047a7455b84e3cf01707658acae883ff7b4"
     }
 }
