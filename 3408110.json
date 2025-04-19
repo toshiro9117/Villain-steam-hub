@@ -4,8 +4,8 @@
     "name": "Cafemart Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341619",
-    "update_time": "2025-04-07 16:17:32",
+    "change_number": "28545272",
+    "update_time": "2025-04-18 16:01:09",
     "depot": {
         "228989": {
             "config": {
@@ -17,37 +17,37 @@
         "3408111": {
             "manifests": {
                 "public": {
-                    "gid": "3560488422681040826",
-                    "size": "8043557128",
-                    "download": "2931366272"
+                    "gid": "3114528197298818245",
+                    "size": "8043728833",
+                    "download": "2931459456"
                 },
                 "developers": {
+                    "gid": "3114528197298818245",
+                    "size": "8043728833",
+                    "download": "2931459456"
+                },
+                "previous": {
                     "gid": "3560488422681040826",
                     "size": "8043557128",
                     "download": "2931366272"
-                },
-                "previous": {
-                    "gid": "2729508245546503427",
-                    "size": "7855983706",
-                    "download": "2845617056"
                 }
             },
             "decryptionkey": "2aef89bb87db60712d3e2c4b11326e22d215f62e1d19aca2105194e14dc865ac"
         },
         "branches": {
             "public": {
-                "buildid": "17696260",
-                "timeupdated": "1741801021"
+                "buildid": "18077874",
+                "timeupdated": "1744494019"
             },
             "developers": {
-                "buildid": "17696260",
+                "buildid": "18077874",
                 "description": "Dev branch",
-                "timeupdated": "1741799002"
+                "timeupdated": "1744405563"
             },
             "previous": {
-                "buildid": "17592295",
+                "buildid": "17696260",
                 "description": "previous version",
-                "timeupdated": "1741800987"
+                "timeupdated": "1744493996"
             }
         }
     }
