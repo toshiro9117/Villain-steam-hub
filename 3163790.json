@@ -4,23 +4,23 @@
     "name": "Toy Shop Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28232564",
-    "update_time": "2025-04-01 00:51:38",
+    "change_number": "28435136",
+    "update_time": "2025-04-12 02:15:37",
     "depot": {
         "3163791": {
             "manifests": {
                 "public": {
-                    "gid": "4427528635803557619",
-                    "size": "3175549158",
-                    "download": "1033844560"
+                    "gid": "8048273586115987720",
+                    "size": "3192700563",
+                    "download": "1038421744"
                 }
             },
             "decryptionkey": "77d75c0da5f538fa9b229d5ea7cdf887518ccbb5fd6296bcd5145417d7f9d20f"
         },
         "branches": {
             "public": {
-                "buildid": "17836046",
-                "timeupdated": "1742822790"
+                "buildid": "18075960",
+                "timeupdated": "1744395334"
             }
         },
         "privatebranches": "1"
