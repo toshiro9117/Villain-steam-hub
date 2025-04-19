@@ -4,8 +4,8 @@
     "name": "Backrooms: Escape Together",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339941",
-    "update_time": "2025-04-07 13:52:28",
+    "change_number": "28548606",
+    "update_time": "2025-04-18 19:40:15",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "252227711262278981",
-                    "size": "10247540778",
-                    "download": "9399008688"
+                    "gid": "6352211388186182882",
+                    "size": "10544925473",
+                    "download": "9683336416"
                 },
                 "beta": {
-                    "gid": "252227711262278981",
-                    "size": "10247540778",
-                    "download": "9399008688"
+                    "gid": "4883739930304562976",
+                    "size": "10393248124",
+                    "download": "9527195744"
                 }
             },
             "decryptionkey": "cfcbb1b05a371faabeb03500c308dbae345a2c7d9a45417a910283c9201e084d"
@@ -62,13 +62,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17993907",
-                "timeupdated": "1743833429"
+                "buildid": "18050823",
+                "timeupdated": "1744261491"
             },
             "beta": {
-                "buildid": "17993907",
+                "buildid": "18136284",
                 "description": "Beta builds for testing",
-                "timeupdated": "1743832560"
+                "timeupdated": "1744847833"
             }
         },
         "privatebranches": "1"
