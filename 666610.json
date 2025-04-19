@@ -4,8 +4,8 @@
     "name": "Endless ATC",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28275024",
-    "update_time": "2025-04-03 03:21:33",
+    "change_number": "28393894",
+    "update_time": "2025-04-10 04:03:36",
     "depot": {
         "228982": {
             "config": {
@@ -20,17 +20,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2872170165395473433",
-                    "size": "10661797",
-                    "download": "7750752"
+                    "gid": "2504571648941943226",
+                    "size": "10662309",
+                    "download": "7751072"
                 }
             },
             "decryptionkey": "4bd82fb2b44fea728aa1ce65940b711987e7fde5ed9dfc0ed9c96262a400171f"
         },
         "branches": {
             "public": {
-                "buildid": "17959348",
-                "timeupdated": "1743621690"
+                "buildid": "18046379",
+                "timeupdated": "1744229011"
             }
         }
     }
