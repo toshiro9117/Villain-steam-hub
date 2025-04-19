@@ -4,8 +4,8 @@
     "name": "Bioweaver",
     "schinese_name": "原点计划：血肉工匠",
     "isfreeapp": "0",
-    "change_number": "28338811",
-    "update_time": "2025-04-07 11:22:18",
+    "change_number": "28502690",
+    "update_time": "2025-04-16 15:30:00",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "3177970",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7807106715465258796",
-                    "size": "708470208",
-                    "download": "477765744"
+                    "gid": "1644171749143895542",
+                    "size": "708473553",
+                    "download": "477774576"
                 }
             },
             "decryptionkey": "559e6e3450ca7058329648e9292f360d400970bf869e4a68440e07912d3ac476"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6798003399374958567",
-                    "size": "682404955",
-                    "download": "458871424"
+                    "gid": "5841674226436188243",
+                    "size": "682405983",
+                    "download": "458872048"
                 }
             },
             "decryptionkey": "cac467301f8871e1599a50e2c350b2b16b9ef3adf04cbbd932dd4a6d22fc479c"
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6297483501705785741",
-                    "size": "693514770",
-                    "download": "473912960"
+                    "gid": "7011161532992163351",
+                    "size": "693518015",
+                    "download": "473915888"
                 }
             },
             "decryptionkey": "c0227822f255bb0836dc6ea94d39abc7a62fb9ba541ea8d3162b11962a12fb92"
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18006350",
-                "timeupdated": "1743996133"
+                "buildid": "18124902",
+                "timeupdated": "1744788596"
             }
         },
         "privatebranches": "1",
