@@ -1,0 +1,27 @@
+{
+    "appid": "2985750",
+    "type": "Game",
+    "name": "锈翅 逃离我的家乡 Without Wings",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548107",
+    "update_time": "2025-04-18 19:01:03",
+    "depot": {
+        "2985751": {
+            "manifests": {
+                "public": {
+                    "gid": "407636305433111217",
+                    "size": "1466454767",
+                    "download": "1341650224"
+                }
+            },
+            "decryptionkey": "7c00763378da65f4550e9fa3552df652204be7b3d5e775921018e3c1ad2c7168"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17948359",
+                "timeupdated": "1743561628"
+            }
+        }
+    }
+}
