@@ -4,8 +4,8 @@
     "name": "Unaware in The City",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323259",
-    "update_time": "2025-04-05 20:10:30",
+    "change_number": "28461274",
+    "update_time": "2025-04-14 14:55:20",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -41,8 +41,7 @@
                     "size": "485496144",
                     "download": "368161520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2532343": {
             "config": {
@@ -55,8 +54,7 @@
                     "size": "494960053",
                     "download": "369259488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3312450": {
             "dlcappid": "3312450",
@@ -86,8 +84,7 @@
                     "size": "485496144",
                     "download": "368159376"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3312452": {
             "dlcappid": "3312450",
@@ -101,8 +98,7 @@
                     "size": "494960053",
                     "download": "369257584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
