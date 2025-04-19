@@ -4,8 +4,8 @@
     "name": "Soulkin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28316501",
-    "update_time": "2025-04-05 04:37:45",
+    "change_number": "28531802",
+    "update_time": "2025-04-17 23:05:30",
     "depot": {
         "2849071": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "708733079",
                     "download": "269464832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
