@@ -4,8 +4,8 @@
     "name": "闪光公仔",
     "schinese_name": "闪光公仔",
     "isfreeapp": "0",
-    "change_number": "28248503",
-    "update_time": "2025-04-01 20:52:20",
+    "change_number": "28478826",
+    "update_time": "2025-04-15 11:10:09",
     "depot": {
         "3328721": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6301103833508085697",
-                    "size": "1860808558",
-                    "download": "1468377968"
+                    "gid": "8534002424289531288",
+                    "size": "1899939709",
+                    "download": "1494926304"
                 }
             },
             "decryptionkey": "2b884aee62fb6f72dff10a76bfef85f1abe442945e02bb555872218a05f66f25"
         },
         "branches": {
             "public": {
-                "buildid": "17830669",
-                "timeupdated": "1742785262"
+                "buildid": "18107896",
+                "timeupdated": "1744686605"
             }
         }
     }
