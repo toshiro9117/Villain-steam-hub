@@ -4,8 +4,8 @@
     "name": "CityDriver",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28324976",
-    "update_time": "2025-04-06 00:19:51",
+    "change_number": "28518578",
+    "update_time": "2025-04-17 08:03:33",
     "depot": {
         "228989": {
             "config": {
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "44f5d0f9c33fb250465d68e8016b77fd7b711ed83b933efeb5abd4bf758b848d"
     }
 }
