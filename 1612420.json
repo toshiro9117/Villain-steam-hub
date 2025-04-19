@@ -4,8 +4,8 @@
     "name": "Suit for Hire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28302001",
-    "update_time": "2025-04-04 12:40:09",
+    "change_number": "28500264",
+    "update_time": "2025-04-16 11:54:10",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "2515460656"
                 },
                 "beta": {
-                    "gid": "18089051501390757",
-                    "size": "3628094491",
-                    "download": "3344330528"
+                    "gid": "9189734225009499853",
+                    "size": "3697750343",
+                    "download": "3413802992"
                 }
             },
             "decryptionkey": "94247ea5c273f90c20d1c1269b4a3591ef8b2bca05db931d4c5e42774cf2ab30"
@@ -42,9 +42,9 @@
                 "timeupdated": "1731130634"
             },
             "beta": {
-                "buildid": "17979795",
+                "buildid": "18123117",
                 "description": "Testing branch for features and mechanics",
-                "timeupdated": "1743741604"
+                "timeupdated": "1744775647"
             }
         }
     }
