@@ -4,8 +4,8 @@
     "name": "Critters for Sale",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28299207",
-    "update_time": "2025-04-04 08:10:35",
+    "change_number": "28427769",
+    "update_time": "2025-04-11 19:33:52",
     "depot": {
         "1078421": {
             "config": {
@@ -45,8 +45,7 @@
                     "size": "2359157202",
                     "download": "557025968"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
