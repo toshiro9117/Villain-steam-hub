@@ -4,8 +4,8 @@
     "name": "Rise Of The White Sun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28302805",
-    "update_time": "2025-04-04 14:16:22",
+    "change_number": "28508267",
+    "update_time": "2025-04-16 20:53:42",
     "depot": {
         "baselanguages": "english,french,schinese",
         "1189101": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1396264989573759034",
-                    "size": "3307240479",
-                    "download": "511298848"
+                    "gid": "8420146445294880786",
+                    "size": "3365056606",
+                    "download": "518331360"
                 }
             },
             "decryptionkey": "79f24bd2f4144c72053a730936b79682e151d998834bdfc7373e345617d4c6a2"
@@ -32,8 +32,7 @@
                     "size": "3382238864",
                     "download": "538874672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1189103": {
             "config": {
@@ -52,10 +51,10 @@
         "workshopdepot": "1189100",
         "branches": {
             "public": {
-                "buildid": "17972284",
-                "timeupdated": "1743693926"
+                "buildid": "18128922",
+                "timeupdated": "1744808016"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7409a5b04ad4a66cf45345d84edc59698af0b0e52db1fa7dd5f79e95cb9d1d88"
     }
 }
