@@ -4,8 +4,8 @@
     "name": "Eufloria HD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27118612",
-    "update_time": "2025-01-23 04:20:04",
+    "change_number": "28418774",
+    "update_time": "2025-04-11 08:31:03",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -57,8 +57,7 @@
                     "size": "405396827",
                     "download": "350936720"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "221183": {
             "config": {
@@ -75,8 +74,7 @@
                     "size": "387506539",
                     "download": "348031520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "327040": {
             "manifests": {
