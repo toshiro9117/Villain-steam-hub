@@ -4,8 +4,8 @@
     "name": "ZEPHON",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28345702",
-    "update_time": "2025-04-07 20:42:06",
+    "change_number": "28513080",
+    "update_time": "2025-04-17 01:15:54",
     "depot": {
         "workshopdepot": "1481170",
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,polish",
@@ -72,8 +72,7 @@
                     "size": "126864331",
                     "download": "30482304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3301470": {
             "dlcappid": "3301470",
