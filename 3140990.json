@@ -1,0 +1,42 @@
+{
+    "appid": "3140990",
+    "type": "Game",
+    "name": "Backrooms Cleanup Crew",
+    "schinese_name": "Backrooms 清洁小队 (Backrooms Cleanup Crew)",
+    "isfreeapp": "0",
+    "change_number": "28547138",
+    "update_time": "2025-04-18 18:01:39",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3140991": {
+            "manifests": {
+                "public": {
+                    "gid": "7330495238387290050",
+                    "size": "1871651031",
+                    "download": "1583073200"
+                }
+            },
+            "decryptionkey": "d81e674b226c7ab087cff2aedcf107268b8d53a6264227b549fe9b4a0ae7c35f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18153859",
+                "timeupdated": "1744955875"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
