@@ -4,8 +4,8 @@
     "name": "Dungeons & Degenerate Gamblers",
     "schinese_name": "再来一张",
     "isfreeapp": "0",
-    "change_number": "28339307",
-    "update_time": "2025-04-07 12:23:33",
+    "change_number": "28521198",
+    "update_time": "2025-04-17 11:47:03",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,brazilian",
         "2400511": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "171660872622923162",
-                    "size": "607256700",
-                    "download": "512613952"
+                    "gid": "7991966799058276282",
+                    "size": "592212948",
+                    "download": "509252880"
                 },
                 "public_beta": {
-                    "gid": "171660872622923162",
-                    "size": "607256700",
-                    "download": "512613952"
+                    "gid": "4285465689954885840",
+                    "size": "592187460",
+                    "download": "509240752"
                 }
             },
             "decryptionkey": "f08be77434663a38ec425845293b8bda95d36ff7a388d6750b7a7169681e2500"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3419843080336390597",
-                    "size": "562868232",
-                    "download": "501956224"
+                    "gid": "4295345100746860676",
+                    "size": "564887948",
+                    "download": "502917664"
                 },
                 "public_beta": {
-                    "gid": "3419843080336390597",
-                    "size": "562868232",
-                    "download": "501956224"
+                    "gid": "1849061392568647213",
+                    "size": "564862460",
+                    "download": "502905536"
                 }
             },
             "decryptionkey": "492f6a3d8ac2649a1c06a2e0c3f57d43056f49ce83f432ab0a56349256f1b86d"
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2789918160639254305",
-                    "size": "571846936",
-                    "download": "504417936"
+                    "gid": "1709306878377576540",
+                    "size": "573853820",
+                    "download": "505564736"
                 },
                 "public_beta": {
-                    "gid": "2789918160639254305",
-                    "size": "571846936",
-                    "download": "504417936"
+                    "gid": "6783483554654160954",
+                    "size": "573828332",
+                    "download": "505552608"
                 }
             },
             "decryptionkey": "fad855e6d88be1c801695aef8326b8b1e27914f761f41a4a89d110df9a7524e3"
         },
         "branches": {
             "public": {
-                "buildid": "17945516",
-                "timeupdated": "1743541827"
+                "buildid": "18092175",
+                "timeupdated": "1744580853"
             },
             "public_beta": {
-                "buildid": "17945516",
+                "buildid": "18138506",
                 "description": "public beta",
-                "timeupdated": "1743541804"
+                "timeupdated": "1744861617"
             }
         },
         "privatebranches": "1"
