@@ -4,8 +4,8 @@
     "name": "Geneforge 1 - Mutagen",
     "schinese_name": "基因制造1：突变原",
     "isfreeapp": "0",
-    "change_number": "25599171",
-    "update_time": "2024-10-09 02:27:39",
+    "change_number": "28443713",
+    "update_time": "2025-04-12 18:55:36",
     "depot": {
         "1424711": {
             "config": {
@@ -34,8 +34,7 @@
                     "size": "192189530",
                     "download": "162575584"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1530080": {
             "dlcappid": "1530080",
