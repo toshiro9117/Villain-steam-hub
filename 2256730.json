@@ -4,8 +4,8 @@
     "name": "Yokai Art : Endless Four Seasons DLC",
     "schinese_name": "妖谈：无尽の四季 DLC",
     "isfreeapp": "0",
-    "change_number": "26499611",
-    "update_time": "2024-12-05 11:20:09",
+    "change_number": "28462756",
+    "update_time": "2025-04-14 16:30:14",
     "depot": {
         "2256730": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "752957904095003969",
-                    "size": "3506315408",
-                    "download": "869574048"
+                    "gid": "6806507202128671798",
+                    "size": "3516412808",
+                    "download": "872614176"
                 }
             },
             "dlcappid": "2256730",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16625303",
-                "timeupdated": "1733363901"
+                "buildid": "18093773",
+                "timeupdated": "1744619410"
             }
         },
         "privatebranches": "1"
