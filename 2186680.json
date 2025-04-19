@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Rogue Trader",
     "schinese_name": "战锤40K：行商浪人",
     "isfreeapp": "0",
-    "change_number": "28345056",
-    "update_time": "2025-04-07 19:58:16",
+    "change_number": "28549566",
+    "update_time": "2025-04-18 20:52:22",
     "depot": {
         "workshopdepot": "2186680",
         "hasdepotsindlc": "1",
@@ -65,6 +65,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "61c3f89a7dddaee81487d704d3932e95dde00919dee5e8499770aba982703b83"
     }
 }
