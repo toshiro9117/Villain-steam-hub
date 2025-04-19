@@ -4,8 +4,8 @@
     "name": "小小侠客模拟器",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28337474",
-    "update_time": "2025-04-07 08:51:44",
+    "change_number": "28530184",
+    "update_time": "2025-04-17 21:45:38",
     "depot": {
         "3395141": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "562782624"
                 },
                 "test": {
-                    "gid": "80837249304601279",
-                    "size": "812745389",
-                    "download": "562782624"
+                    "gid": "8022317749475634129",
+                    "size": "893050842",
+                    "download": "622217840"
                 }
             },
             "decryptionkey": "f790bdf4b2a593f8aa9ba91d22825cb001b52156935252c18e6b0445da8b0cd9"
@@ -29,9 +29,9 @@
                 "timeupdated": "1743987101"
             },
             "test": {
-                "buildid": "17998805",
+                "buildid": "18144814",
                 "description": "Game testing",
-                "timeupdated": "1743897463"
+                "timeupdated": "1744897530"
             }
         },
         "privatebranches": "1"
