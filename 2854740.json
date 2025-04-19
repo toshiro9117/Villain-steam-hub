@@ -4,8 +4,8 @@
     "name": "Nunholy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28326982",
-    "update_time": "2025-04-06 05:11:06",
+    "change_number": "28514826",
+    "update_time": "2025-04-17 03:04:32",
     "depot": {
         "hasdepotsindlc": "1",
         "2854741": {
@@ -31,8 +31,7 @@
                     "size": "720323701",
                     "download": "530841152"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2854743": {
             "config": {
@@ -44,8 +43,7 @@
                     "size": "696027010",
                     "download": "522096608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
