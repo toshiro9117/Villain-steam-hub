@@ -4,15 +4,15 @@
     "name": "神树残响",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342415",
-    "update_time": "2025-04-07 17:10:50",
+    "change_number": "28512476",
+    "update_time": "2025-04-17 00:41:37",
     "depot": {
         "2961461": {
             "manifests": {
                 "public": {
-                    "gid": "3821408817255404700",
-                    "size": "4585456003",
-                    "download": "4004792672"
+                    "gid": "3323839470619412089",
+                    "size": "4585460077",
+                    "download": "4004792848"
                 }
             },
             "decryptionkey": "f212983d1e3601104cc7f5b5a4aa8955ad1572209b9afe60a34e610948ec8b65"
@@ -20,8 +20,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "18002264",
-                "timeupdated": "1743951478"
+                "buildid": "18131893",
+                "timeupdated": "1744821691"
             }
         },
         "privatebranches": "1"
