@@ -4,8 +4,8 @@
     "name": "Crosshair X",
     "schinese_name": "十字线X",
     "isfreeapp": "0",
-    "change_number": "28260960",
-    "update_time": "2025-04-02 12:20:08",
+    "change_number": "28512416",
+    "update_time": "2025-04-17 00:37:54",
     "depot": {
         "1366801": {
             "config": {
@@ -29,6 +29,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4dd13eda157bbef37f1b72f4b538e1ee7e6b437bfd5678303e0e9e493215d60e"
     }
 }
