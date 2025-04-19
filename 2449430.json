@@ -4,8 +4,8 @@
     "name": "Incremental Factory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28036661",
-    "update_time": "2025-03-20 00:57:40",
+    "change_number": "28404386",
+    "update_time": "2025-04-10 17:52:26",
     "depot": {
         "2449433": {
             "config": {
@@ -29,12 +29,16 @@
                     "download": "373611552"
                 },
                 "test": {
-                    "gid": "5088100513510002195",
-                    "size": "661433095",
-                    "download": "284864848"
+                    "gid": "6570861231130266306",
+                    "size": "777907847",
+                    "download": "384651248"
+                },
+                "test2": {
+                    "gid": "6570861231130266306",
+                    "size": "777907847",
+                    "download": "384651248"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2449434": {
             "config": {
@@ -62,9 +66,14 @@
                     "download": "323256496"
                 },
                 "test": {
-                    "gid": "8101647752578398566",
-                    "size": "507116012",
-                    "download": "237694672"
+                    "gid": "9019568630805709487",
+                    "size": "617651240",
+                    "download": "333733008"
+                },
+                "test2": {
+                    "gid": "9019568630805709487",
+                    "size": "617651240",
+                    "download": "333733008"
                 }
             },
             "decryptionkey": "67e471f177bf298e7bfe2e1cd2f8619192bf4a42195c85dcc8fc384aa8ae9ca7"
@@ -92,9 +101,14 @@
                 "timeupdated": "1741176710"
             },
             "test": {
-                "buildid": "15584431",
+                "buildid": "18045310",
                 "description": "test",
-                "timeupdated": "1725414016"
+                "timeupdated": "1744249204"
+            },
+            "test2": {
+                "buildid": "18045310",
+                "description": "deployment test",
+                "timeupdated": "1744249138"
             }
         },
         "privatebranches": "1"
