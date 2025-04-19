@@ -4,8 +4,8 @@
     "name": "Microtopia",
     "schinese_name": "蚁托邦",
     "isfreeapp": "0",
-    "change_number": "28293969",
-    "update_time": "2025-04-04 01:28:52",
+    "change_number": "28489464",
+    "update_time": "2025-04-15 22:55:49",
     "depot": {
         "baselanguages": "english,german,french,koreana,schinese,russian,japanese,polish,dutch",
         "2750001": {
@@ -49,6 +49,7 @@
             },
             "decryptionkey": ""
         },
+        "workshopdepot": "2750000",
         "branches": {
             "public": {
                 "buildid": "17953427",
@@ -65,6 +66,7 @@
                 "timeupdated": "1742398339"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
