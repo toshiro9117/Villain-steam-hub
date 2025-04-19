@@ -4,8 +4,8 @@
     "name": "Arma 3 Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28344947",
-    "update_time": "2025-04-07 19:51:35",
+    "change_number": "28403352",
+    "update_time": "2025-04-10 16:51:43",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -88,8 +88,7 @@
                     "size": "161847131",
                     "download": "48019280"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "233784": {
             "config": {
@@ -97,9 +96,9 @@
             },
             "manifests": {
                 "profiling": {
-                    "gid": "8482134978883348419",
-                    "size": "89388064",
-                    "download": "28630816"
+                    "gid": "1583433135735481210",
+                    "size": "89376288",
+                    "download": "28633904"
                 }
             },
             "decryptionkey": "76b442e78ff8126ce2e4f854993f7384a0fffceda12dc0a3e8a4640bf976ac0d"
@@ -110,9 +109,9 @@
             },
             "manifests": {
                 "profiling": {
-                    "gid": "4229359324466651870",
-                    "size": "122070512",
-                    "download": "37246640"
+                    "gid": "3178479515784192945",
+                    "size": "122062320",
+                    "download": "37255136"
                 }
             },
             "decryptionkey": "ebf7db80e48c073ff7e8d62fa0b08988de2c68e5311fbf9c9523513b15ae0290"
@@ -204,9 +203,9 @@
                 "timeupdated": "1742910901"
             },
             "profiling": {
-                "buildid": "18010829",
+                "buildid": "18053535",
                 "description": "Performance Profiling Build",
-                "timeupdated": "1744026690"
+                "timeupdated": "1744275096"
             }
         },
         "privatebranches": "1"
