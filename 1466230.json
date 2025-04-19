@@ -4,8 +4,8 @@
     "name": "The Holy Gosh Darn",
     "schinese_name": "神的超级大宝贝",
     "isfreeapp": "0",
-    "change_number": "28226805",
-    "update_time": "2025-03-31 19:17:03",
+    "change_number": "28382309",
+    "update_time": "2025-04-09 16:53:25",
     "depot": {
         "1466231": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "755065024"
                 },
                 "ustabilt": {
-                    "gid": "8583142109830735554",
-                    "size": "1609706547",
-                    "download": "1282911904"
+                    "gid": "1751018939931290328",
+                    "size": "1609707681",
+                    "download": "1282913584"
                 }
             },
             "decryptionkey": "4fe93fff3fec5cb4d2875d252a65b35747c729ad2e3365beb9a05eff6fdb4fa1"
@@ -41,12 +41,11 @@
                     "download": "1311428640"
                 },
                 "ustabilt": {
-                    "gid": "8644437486015438135",
-                    "size": "1778375091",
-                    "download": "1369065856"
+                    "gid": "6069352141712774829",
+                    "size": "1899150536",
+                    "download": "1370219776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1466233": {
             "config": {
@@ -59,12 +58,11 @@
                     "download": "1159834352"
                 },
                 "ustabilt": {
-                    "gid": "3361713493173740229",
-                    "size": "1439953621",
-                    "download": "1084931856"
+                    "gid": "3237173221789477022",
+                    "size": "1423177382",
+                    "download": "1084844288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -77,9 +75,9 @@
                 "timeupdated": "1700301606"
             },
             "ustabilt": {
-                "buildid": "17557702",
+                "buildid": "18029400",
                 "description": "ustbilt",
-                "timeupdated": "1740818966"
+                "timeupdated": "1744131923"
             }
         },
         "privatebranches": "1"
