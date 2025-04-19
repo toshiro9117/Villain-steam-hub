@@ -4,8 +4,8 @@
     "name": "Churn Vector",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28196630",
-    "update_time": "2025-03-29 02:16:23",
+    "change_number": "28445336",
+    "update_time": "2025-04-12 22:55:37",
     "depot": {
         "228989": {
             "config": {
@@ -46,8 +46,7 @@
                     "size": "1052514825",
                     "download": "810841664"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2686903": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "1049987070",
                     "download": "805594688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "2686900",
         "branches": {
