@@ -4,8 +4,8 @@
     "name": "Empyrion - Galactic Survival",
     "schinese_name": "帝国霸业：银河生存",
     "isfreeapp": "0",
-    "change_number": "28300028",
-    "update_time": "2025-04-04 09:16:15",
+    "change_number": "28519437",
+    "update_time": "2025-04-17 09:14:32",
     "depot": {
         "workshopdepot": "383120",
         "hasdepotsindlc": "1",
@@ -117,6 +117,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a39942a82da59705f1108e95029e392f323c4a624d51af16b39323d48ae3f96a"
     }
 }
