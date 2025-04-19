@@ -4,8 +4,8 @@
     "name": "DOOM Eternal: idStudio",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27777854",
-    "update_time": "2025-03-05 00:38:21",
+    "change_number": "28494646",
+    "update_time": "2025-04-16 04:00:56",
     "depot": {
         "228984": {
             "config": {
@@ -142,7 +142,8 @@
                     "size": "64666836",
                     "download": "14212448"
                 }
-            }
+            },
+            "decryptionkey": "4853f1060dba902f3a474dbd6710c8e8f8db4fbec981d3fc90da7dc51ec85d62"
         },
         "branches": {
             "public": {
