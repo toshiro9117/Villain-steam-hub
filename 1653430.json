@@ -4,8 +4,8 @@
     "name": "Tales And Tactics Demo",
     "schinese_name": "传说与战术自走棋 Demo",
     "isfreeapp": "0",
-    "change_number": "28336474",
-    "update_time": "2025-04-07 06:36:12",
+    "change_number": "28538981",
+    "update_time": "2025-04-18 06:25:13",
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -30,7 +30,8 @@
                     "download": "3208110592"
                 }
             },
-            "depotfromapp": "1652250"
+            "depotfromapp": "1652250",
+            "decryptionkey": "b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36"
         },
         "1653431": {
             "manifests": {
@@ -39,7 +40,8 @@
                     "size": "2837190795",
                     "download": "2501016480"
                 }
-            }
+            },
+            "decryptionkey": "f0b2c2ed803a21c4b22fa0802903dde86a319e4b72e7536be43e61be340b9ad0"
         },
         "branches": {
             "public": {
