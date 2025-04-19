@@ -4,8 +4,8 @@
     "name": "The Bloodline",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341505",
-    "update_time": "2025-04-07 16:07:46",
+    "change_number": "28542471",
+    "update_time": "2025-04-18 11:52:03",
     "depot": {
         "228988": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7751395429496101837",
-                    "size": "17626623804",
-                    "download": "17252037504"
+                    "gid": "9139766931938746092",
+                    "size": "19009522281",
+                    "download": "18627336992"
                 }
             },
             "decryptionkey": "76e3cc8dd03421623d2c8f64513c49d675e0eea185c1bf6795bf9263c8f93535"
         },
         "branches": {
             "public": {
-                "buildid": "17415635",
-                "timeupdated": "1740495298"
+                "buildid": "18049344",
+                "timeupdated": "1744297105"
             }
         },
         "privatebranches": "1"
