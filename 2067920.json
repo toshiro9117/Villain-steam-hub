@@ -4,8 +4,8 @@
     "name": "Rogue: Genesia ",
     "schinese_name": "罗格：救世传说",
     "isfreeapp": "0",
-    "change_number": "28012932",
-    "update_time": "2025-03-18 20:29:33",
+    "change_number": "28483819",
+    "update_time": "2025-04-15 17:33:09",
     "depot": {
         "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,danish,turkish,brazilian,indonesian",
         "2067921": {
@@ -15,9 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7941937001640886133",
-                    "size": "3003039550",
-                    "download": "566577648"
+                    "gid": "5014808884046701144",
+                    "size": "3023119070",
+                    "download": "567551424"
+                },
+                "experimental": {
+                    "gid": "5014808884046701144",
+                    "size": "3023119070",
+                    "download": "567551424"
                 },
                 "rg0.10": {
                     "gid": "6422986519883604640",
@@ -54,9 +59,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1221447851728949026",
-                    "size": "1484904833",
-                    "download": "502008048"
+                    "gid": "8390178525088588391",
+                    "size": "1494659885",
+                    "download": "502858960"
+                },
+                "experimental": {
+                    "gid": "8390178525088588391",
+                    "size": "1494659885",
+                    "download": "502858960"
                 },
                 "rg0.10": {
                     "gid": "3065669576965553721",
@@ -91,8 +101,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17765417",
-                "timeupdated": "1742300880"
+                "buildid": "18105409",
+                "timeupdated": "1744668428"
+            },
+            "experimental": {
+                "buildid": "18105409",
+                "description": "Experimental branch",
+                "timeupdated": "1744675230"
             },
             "rg0.10": {
                 "buildid": "17041749",
@@ -121,6 +136,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a47b3e09649f7bf93dc067e588b9e81b3f13e1f771b7dbf9836e267a0d38f565"
     }
 }
