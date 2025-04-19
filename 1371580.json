@@ -4,8 +4,8 @@
     "name": "Myth of Empires",
     "schinese_name": "帝国神话",
     "isfreeapp": "0",
-    "change_number": "28300741",
-    "update_time": "2025-04-04 10:25:56",
+    "change_number": "28543818",
+    "update_time": "2025-04-18 14:08:58",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1371580",
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5512993372831600779",
-                    "size": "59688663128",
-                    "download": "57421355840"
+                    "gid": "7750714964684487866",
+                    "size": "59699833484",
+                    "download": "57431077632"
                 }
             },
             "decryptionkey": "3dae7b26b55fcd654d6502a0c22fbea47703ffe9e46511d71053bfb5cc434800"
@@ -52,8 +52,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "548775913710694616",
-                    "size": "1013707992",
+                    "gid": "5585211995620667465",
+                    "size": "1013707976",
                     "download": "1019477616"
                 }
             },
@@ -67,17 +67,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1842323578442965708",
-                    "size": "2264315636",
-                    "download": "2281663952"
+                    "gid": "7138265033878042097",
+                    "size": "2265539304",
+                    "download": "2282620992"
                 }
             },
             "decryptionkey": "751565f18dbac7d972413bed39a518c3b47886422491f6058a2695f0f650ec64"
         },
         "branches": {
             "public": {
-                "buildid": "17949699",
-                "timeupdated": "1743717952"
+                "buildid": "18140341",
+                "timeupdated": "1744956533"
             }
         },
         "privatebranches": "1",
