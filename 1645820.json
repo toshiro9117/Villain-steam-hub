@@ -4,8 +4,8 @@
     "name": "SurrounDead",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28236335",
-    "update_time": "2025-04-01 05:18:23",
+    "change_number": "28476692",
+    "update_time": "2025-04-15 07:57:38",
     "depot": {
         "228989": {
             "config": {
@@ -28,37 +28,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7601567640382144206",
-                    "size": "1165338403",
-                    "download": "979213232"
-                },
-                "previous": {
-                    "gid": "1144564117648773848",
-                    "size": "1340902373",
-                    "download": "1188060288"
+                    "gid": "6258278736804069871",
+                    "size": "1542773045",
+                    "download": "1209140848"
                 },
                 "experimental": {
                     "gid": "3979941005892779908",
                     "size": "1643620310",
                     "download": "1308888544"
+                },
+                "previous": {
+                    "gid": "7601567640382144206",
+                    "size": "1165338403",
+                    "download": "979213232"
                 }
             },
             "decryptionkey": "4365eaac1ea48f79aeec8b027dbea51e9a22b5e2c841e8f60a6d18151fcb4573"
         },
         "branches": {
             "public": {
-                "buildid": "16071215",
-                "timeupdated": "1729111178"
-            },
-            "previous": {
-                "buildid": "13190587",
-                "description": "Previous update",
-                "timeupdated": "1706915611"
+                "buildid": "18106303",
+                "timeupdated": "1744675054"
             },
             "experimental": {
                 "buildid": "17930527",
                 "description": "Testing",
                 "timeupdated": "1743455899"
+            },
+            "previous": {
+                "buildid": "16071215",
+                "description": "Previous update",
+                "timeupdated": "1744160074"
             }
         },
         "privatebranches": "1"
