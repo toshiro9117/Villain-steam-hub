@@ -4,8 +4,8 @@
     "name": "Abalon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28311786",
-    "update_time": "2025-04-04 23:37:08",
+    "change_number": "28508633",
+    "update_time": "2025-04-16 21:12:39",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
         "1681841": {
@@ -31,8 +31,7 @@
                     "size": "183772431",
                     "download": "82565984"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1681843": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "106468562",
                     "download": "78714752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
