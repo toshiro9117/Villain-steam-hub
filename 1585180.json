@@ -4,8 +4,8 @@
     "name": "Drova - Forsaken Kin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28338604",
-    "update_time": "2025-04-07 11:00:18",
+    "change_number": "28541955",
+    "update_time": "2025-04-18 11:00:20",
     "depot": {
         "229006": {
             "config": {
@@ -39,8 +39,7 @@
                     "size": "3539533905",
                     "download": "1142263856"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1585183": {
             "config": {
@@ -52,8 +51,7 @@
                     "size": "3833287376",
                     "download": "1191337104"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
