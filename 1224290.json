@@ -4,8 +4,8 @@
     "name": "Horizon's Gate",
     "schinese_name": "地平线之门",
     "isfreeapp": "0",
-    "change_number": "28093555",
-    "update_time": "2025-03-23 13:51:13",
+    "change_number": "28540917",
+    "update_time": "2025-04-18 09:22:43",
     "depot": {
         "228990": {
             "config": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8463000209614789659",
-                    "size": "1930648018",
-                    "download": "1737422864"
+                    "gid": "4441687471308248151",
+                    "size": "1930650677",
+                    "download": "1737423456"
                 },
                 "older": {
                     "gid": "4951916148340736278",
@@ -62,14 +62,14 @@
                     "download": "1735673808"
                 },
                 "beta": {
-                    "gid": "8463000209614789659",
-                    "size": "1930648018",
-                    "download": "1737422864"
+                    "gid": "4441687471308248151",
+                    "size": "1930650677",
+                    "download": "1737423456"
                 },
                 "test": {
-                    "gid": "6834600645950176006",
+                    "gid": "4441687471308248151",
                     "size": "1930650677",
-                    "download": "1737421888"
+                    "download": "1737423456"
                 }
             },
             "decryptionkey": "5fe3536a465ac0f161ec229e8dfa8987e2e7834b0af635904239d24a2a752038"
@@ -77,8 +77,8 @@
         "workshopdepot": "1224290",
         "branches": {
             "public": {
-                "buildid": "17430761",
-                "timeupdated": "1740605757"
+                "buildid": "18149122",
+                "timeupdated": "1744939358"
             },
             "older": {
                 "buildid": "5395809",
@@ -95,14 +95,14 @@
                 "timeupdated": "1667158355"
             },
             "beta": {
-                "buildid": "17430761",
-                "timeupdated": "1740007190"
+                "buildid": "18149122",
+                "timeupdated": "1744920598"
             },
             "test": {
-                "buildid": "17824696",
-                "timeupdated": "1742709068"
+                "buildid": "18149122",
+                "timeupdated": "1744920566"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "68dade819467c2f8a5ae1755107b02258acaf0fa482b3a7979fcb417344f2608"
     }
 }
