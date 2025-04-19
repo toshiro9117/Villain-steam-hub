@@ -1,0 +1,42 @@
+{
+    "appid": "2739340",
+    "type": "Game",
+    "name": "HexWind",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28538806",
+    "update_time": "2025-04-18 06:10:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2739341": {
+            "manifests": {
+                "public": {
+                    "gid": "1937410975969324165",
+                    "size": "2814218591",
+                    "download": "2475553808"
+                }
+            },
+            "decryptionkey": "dade24adef44bd3372dcfb9cee1c6b07b2aef1b84c89a504f454fa783b456457"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18121326",
+                "timeupdated": "1744764341"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
