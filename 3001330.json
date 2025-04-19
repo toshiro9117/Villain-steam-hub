@@ -4,15 +4,15 @@
     "name": "Forest Heroes",
     "schinese_name": "绿林英雄 (Forest Heroes)",
     "isfreeapp": "0",
-    "change_number": "28308602",
-    "update_time": "2025-04-04 20:48:37",
+    "change_number": "28546426",
+    "update_time": "2025-04-18 17:14:25",
     "depot": {
         "3001331": {
             "manifests": {
                 "public": {
-                    "gid": "8298082939043329415",
-                    "size": "928215932",
-                    "download": "212525376"
+                    "gid": "6958785488420583103",
+                    "size": "933326294",
+                    "download": "216321696"
                 }
             },
             "decryptionkey": "8f6bb53ae79817fe5609ad0e7eefd94ad6e3844c4a4819607350f6845ba2e24a"
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17984865",
-                "timeupdated": "1743770911"
+                "buildid": "18155811",
+                "timeupdated": "1744967659"
             }
         },
         "privatebranches": "1"
