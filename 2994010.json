@@ -1,0 +1,32 @@
+{
+    "appid": "2994010",
+    "type": "Game",
+    "name": "Chains of Freedom",
+    "schinese_name": "自由锁链",
+    "isfreeapp": "0",
+    "change_number": "28549668",
+    "update_time": "2025-04-18 21:01:19",
+    "depot": {
+        "2994011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5756866764251345002",
+                    "size": "3981061106",
+                    "download": "2056867136"
+                }
+            },
+            "decryptionkey": "ac017c74e5837c6433332286ea955b0a2dc8990f74714a942feb6fd46c0c312a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17970104",
+                "timeupdated": "1744259127"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
