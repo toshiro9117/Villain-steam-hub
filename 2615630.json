@@ -4,8 +4,8 @@
     "name": "Global Farmer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27975710",
-    "update_time": "2025-03-16 04:55:45",
+    "change_number": "28450923",
+    "update_time": "2025-04-13 14:08:15",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "2615630",
@@ -287,6 +287,6 @@
         },
         "privatebranches": "1",
         "appmanagesdlc": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0030ea2828ff221d80494d46301ca38de4b71aa4343bf21715258d0fff53de9d"
     }
 }
