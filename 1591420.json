@@ -4,8 +4,8 @@
     "name": "Hmmsim Metro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28318817",
-    "update_time": "2025-04-05 08:22:52",
+    "change_number": "28357963",
+    "update_time": "2025-04-08 11:19:54",
     "depot": {
         "228988": {
             "config": {
@@ -34,6 +34,11 @@
                     "size": "2561362656",
                     "download": "2257115680"
                 },
+                "prev": {
+                    "gid": "130467594320859248",
+                    "size": "2515309341",
+                    "download": "2211641232"
+                },
                 "legacy": {
                     "gid": "2092893200575157891",
                     "size": "4903432161",
@@ -46,6 +51,11 @@
             "public": {
                 "buildid": "17992196",
                 "timeupdated": "1743812471"
+            },
+            "prev": {
+                "buildid": "17539616",
+                "description": "Prev",
+                "timeupdated": "1744082391"
             },
             "legacy": {
                 "buildid": "10900916",
