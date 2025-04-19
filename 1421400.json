@@ -4,8 +4,8 @@
     "name": "Across the Obelisk Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27928532",
-    "update_time": "2025-03-13 16:21:07",
+    "change_number": "28531714",
+    "update_time": "2025-04-17 23:01:35",
     "depot": {
         "1421401": {
             "config": {
@@ -45,7 +45,8 @@
                     "download": "1182453632"
                 }
             },
-            "depotfromapp": "1385380"
+            "depotfromapp": "1385380",
+            "decryptionkey": "212b4c54a7dadad3bb6a4a55088868dde54c128e58d7ce4afab3363c77ba1383"
         },
         "branches": {
             "public": {
