@@ -4,8 +4,8 @@
     "name": "Whispering Lane",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28239622",
-    "update_time": "2025-04-01 09:53:13",
+    "change_number": "28540229",
+    "update_time": "2025-04-18 08:17:11",
     "depot": {
         "2754491": {
             "config": {
@@ -59,8 +59,7 @@
                     "size": "9462591294",
                     "download": "2384982112"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
