@@ -4,8 +4,8 @@
     "name": "DayZ",
     "schinese_name": "僵尸末日",
     "isfreeapp": "0",
-    "change_number": "28287966",
-    "update_time": "2025-04-03 19:58:46",
+    "change_number": "28527675",
+    "update_time": "2025-04-17 19:21:51",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -88,6 +88,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "1166f7815221fcc3afac8682ba307d6496101848e6483b6bb838551f2923ae64"
     }
 }
