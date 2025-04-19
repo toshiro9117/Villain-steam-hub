@@ -4,8 +4,8 @@
     "name": "The Jackbox Party Pack 9",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26897870",
-    "update_time": "2025-01-08 04:12:11",
+    "change_number": "28475987",
+    "update_time": "2025-04-15 06:55:22",
     "depot": {
         "baselanguages": "english",
         "228985": {
@@ -61,8 +61,7 @@
                     "size": "9350289033",
                     "download": "8626729184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1850964": {
             "config": {
@@ -75,8 +74,7 @@
                     "size": "48565910",
                     "download": "13802432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2828508": {
             "manifests": {
