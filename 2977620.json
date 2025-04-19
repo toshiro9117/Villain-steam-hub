@@ -4,8 +4,8 @@
     "name": "Squirreled Away",
     "schinese_name": "蹦蹦小囤鼠",
     "isfreeapp": "0",
-    "change_number": "28346882",
-    "update_time": "2025-04-07 21:55:53",
+    "change_number": "28533010",
+    "update_time": "2025-04-18 00:04:48",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6600146821189859035",
-                    "size": "1512566343",
-                    "download": "1215044400"
+                    "gid": "790260197934224980",
+                    "size": "1520537841",
+                    "download": "1222976992"
                 }
             },
             "decryptionkey": "9b2b59462dabe462d78e6bac46a35a2fe6c511f9e3a73275388da29b1900901a"
         },
         "branches": {
             "public": {
-                "buildid": "17968181",
-                "timeupdated": "1743691122"
+                "buildid": "18130384",
+                "timeupdated": "1744885133"
             }
         },
         "privatebranches": "1"
