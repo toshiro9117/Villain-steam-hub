@@ -4,16 +4,16 @@
     "name": "Dark Envoy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28284404",
-    "update_time": "2025-04-03 16:17:35",
+    "change_number": "28547102",
+    "update_time": "2025-04-18 17:58:48",
     "depot": {
         "hasdepotsindlc": "1",
         "945771": {
             "manifests": {
                 "public": {
-                    "gid": "6066704278215679994",
-                    "size": "43731942700",
-                    "download": "36316011952"
+                    "gid": "3773611718889826452",
+                    "size": "43732696679",
+                    "download": "36316032768"
                 },
                 "previous_version": {
                     "gid": "2684174119646887428",
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17661470",
-                "timeupdated": "1741884133"
+                "buildid": "17966746",
+                "timeupdated": "1744041515"
             },
             "previous_version": {
                 "buildid": "14961614",
