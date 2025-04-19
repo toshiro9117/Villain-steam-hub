@@ -4,23 +4,23 @@
     "name": "Realm of Ink",
     "schinese_name": "墨境",
     "isfreeapp": "0",
-    "change_number": "28284011",
-    "update_time": "2025-04-03 15:56:11",
+    "change_number": "28480737",
+    "update_time": "2025-04-15 14:22:35",
     "depot": {
         "2597081": {
             "manifests": {
                 "public": {
-                    "gid": "3860894515306301496",
-                    "size": "4212631790",
-                    "download": "3437087984"
+                    "gid": "1974095777008710322",
+                    "size": "7707992604",
+                    "download": "3686268016"
                 }
             },
             "decryptionkey": "30b38a65aea230571a237b595825b0e4500f6c3717546e14cf300291af6b4891"
         },
         "branches": {
             "public": {
-                "buildid": "17965123",
-                "timeupdated": "1743666965"
+                "buildid": "18108424",
+                "timeupdated": "1744698148"
             }
         },
         "privatebranches": "1"
