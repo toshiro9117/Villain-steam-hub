@@ -4,23 +4,23 @@
     "name": "OVERDOSE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335020",
-    "update_time": "2025-04-07 03:17:02",
+    "change_number": "28531651",
+    "update_time": "2025-04-17 22:58:58",
     "depot": {
         "3382221": {
             "manifests": {
                 "public": {
-                    "gid": "6575142551439038466",
-                    "size": "1099472464",
-                    "download": "436584336"
+                    "gid": "6677215995612597003",
+                    "size": "1112143728",
+                    "download": "442356768"
                 }
             },
             "decryptionkey": "60ea7d00dbfb59b6307e021799d637007b59c1bf36a58af463de7be5ec20c23a"
         },
         "branches": {
             "public": {
-                "buildid": "17996437",
-                "timeupdated": "1743865889"
+                "buildid": "18014479",
+                "timeupdated": "1744046681"
             }
         }
     }
