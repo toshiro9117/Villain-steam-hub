@@ -4,8 +4,8 @@
     "name": "Love In The Dark",
     "schinese_name": "暗夜之爱",
     "isfreeapp": "1",
-    "change_number": "28346289",
-    "update_time": "2025-04-07 21:18:09",
+    "change_number": "28548837",
+    "update_time": "2025-04-18 19:59:45",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "7042666417",
                     "download": "6845744752"
                 }
-            }
+            },
+            "decryptionkey": "5e99a533e68149d9b8e4c822627118dfcce6fc5b819d4197f7ea4b2c23c8d514"
         },
         "branches": {
             "public": {
