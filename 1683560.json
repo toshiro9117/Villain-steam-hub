@@ -4,8 +4,8 @@
     "name": "Ravager",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28259440",
-    "update_time": "2025-04-02 09:39:03",
+    "change_number": "28449047",
+    "update_time": "2025-04-13 07:49:10",
     "depot": {
         "baselanguages": "english",
         "1683561": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1030048127694755880",
-                    "size": "6387028580",
-                    "download": "6133112144"
+                    "gid": "7022162686850903638",
+                    "size": "6985674686",
+                    "download": "6744355664"
                 }
             },
             "decryptionkey": "e4dfb83b7827c5851b83586e05311dc5f700ae4ac4ceb62641898671bb6f90da"
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8203319820155110049",
-                    "size": "6387028580",
-                    "download": "6133474464"
+                    "gid": "1270262786295433682",
+                    "size": "6985674686",
+                    "download": "6744654784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1683563": {
             "config": {
@@ -43,19 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6512366052526353059",
-                    "size": "6387028580",
-                    "download": "6133474464"
+                    "gid": "3199788132039845480",
+                    "size": "6985674686",
+                    "download": "6744654784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17633489",
-                "timeupdated": "1741343133"
+                "buildid": "18086617",
+                "timeupdated": "1744501745"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
