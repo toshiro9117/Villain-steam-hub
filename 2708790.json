@@ -4,8 +4,8 @@
     "name": "Together After Dark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336754",
-    "update_time": "2025-04-07 07:21:12",
+    "change_number": "28498305",
+    "update_time": "2025-04-16 08:51:50",
     "depot": {
         "228989": {
             "config": {
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5916923936124908997",
-                    "size": "12000196634",
-                    "download": "4734361888"
+                    "gid": "839043960651623289",
+                    "size": "10181758221",
+                    "download": "4572637040"
                 }
             },
             "decryptionkey": "8603d680cd2dfeee6da670de7dd0a0618464478381aaa55672071ed1a45c4647"
         },
         "branches": {
             "public": {
-                "buildid": "18004782",
-                "timeupdated": "1743981668"
+                "buildid": "18163871",
+                "timeupdated": "1745026908"
             }
         },
         "privatebranches": "1"
