@@ -4,8 +4,8 @@
     "name": "Three Kingdoms: The Last Warlord",
     "schinese_name": "三国志汉末霸业",
     "isfreeapp": "0",
-    "change_number": "28343072",
-    "update_time": "2025-04-07 17:51:23",
+    "change_number": "28543601",
+    "update_time": "2025-04-18 13:48:23",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,latam,vietnamese",
         "hasdepotsindlc": "1",
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4428114512238375071",
-                    "size": "3576085145",
-                    "download": "1106315072"
+                    "gid": "5986120908041017370",
+                    "size": "3592909831",
+                    "download": "1116054640"
                 },
                 "test": {
                     "gid": "1634678261806136573",
@@ -135,9 +135,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2743554387267940691",
-                    "size": "3576085145",
-                    "download": "1106308256"
+                    "gid": "1542600273736146831",
+                    "size": "3592909831",
+                    "download": "1116056400"
                 },
                 "test": {
                     "gid": "7322417346979029126",
@@ -149,8 +149,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17071721",
-                "timeupdated": "1737423736"
+                "buildid": "18127758",
+                "timeupdated": "1744802237"
             },
             "test": {
                 "buildid": "12385017",
@@ -159,6 +159,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "43ee897087b5231758d95b8983edc9fd4008038379421c6ff71a28cd01e33d96"
     }
 }
