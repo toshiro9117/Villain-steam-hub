@@ -4,8 +4,8 @@
     "name": "Black The Fall",
     "schinese_name": "黑色：坠落",
     "isfreeapp": "0",
-    "change_number": "28150930",
-    "update_time": "2025-03-26 22:15:34",
+    "change_number": "28485744",
+    "update_time": "2025-04-15 19:30:46",
     "depot": {
         "228986": {
             "config": {
@@ -61,8 +61,7 @@
                     "size": "492916795",
                     "download": "175983776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "308063": {
             "config": {
@@ -74,8 +73,7 @@
                     "size": "486741884",
                     "download": "176969168"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "654540": {
             "manifests": {
