@@ -4,8 +4,8 @@
     "name": "Baldur's Gate 3 Toolkit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28278262",
-    "update_time": "2025-04-03 07:11:27",
+    "change_number": "28487520",
+    "update_time": "2025-04-15 21:14:42",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2934771": {
             "manifests": {
                 "public": {
-                    "gid": "4039996371336317284",
-                    "size": "582981812",
-                    "download": "159164656"
+                    "gid": "1518294145517106680",
+                    "size": "576735556",
+                    "download": "156987392"
                 }
             },
             "decryptionkey": "d5583f14ada87ead3bba7f9f6ebd0978c1ed0a99b2a841283406fe36aa913dee"
         },
         "branches": {
             "public": {
-                "buildid": "15594472",
-                "timeupdated": "1725539979"
+                "buildid": "17943960",
+                "timeupdated": "1744722875"
             }
         },
         "privatebranches": "1"
