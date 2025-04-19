@@ -4,8 +4,8 @@
     "name": "Palworld",
     "schinese_name": "Palworld / 幻兽帕鲁",
     "isfreeapp": "0",
-    "change_number": "28342254",
-    "update_time": "2025-04-07 17:00:24",
+    "change_number": "28538823",
+    "update_time": "2025-04-18 06:11:24",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6412707961042625301",
-                    "size": "28088251803",
-                    "download": "22740972816"
+                    "gid": "2021979463853511618",
+                    "size": "28087922571",
+                    "download": "22741576480"
                 }
             },
             "decryptionkey": "7a422988135296505205dd489945d4b17ed7414734dd627744adac84aade7b73"
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "17936746",
-                "timeupdated": "1743649236"
+                "buildid": "18087784",
+                "timeupdated": "1744779399"
             }
         },
         "privatebranches": "1"
