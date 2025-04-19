@@ -4,8 +4,8 @@
     "name": "Calyx Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28234299",
-    "update_time": "2025-04-01 02:52:22",
+    "change_number": "28469345",
+    "update_time": "2025-04-14 23:26:38",
     "depot": {
         "228989": {
             "config": {
@@ -33,7 +33,8 @@
                     "size": "2142302310",
                     "download": "1817780768"
                 }
-            }
+            },
+            "decryptionkey": "770e4695fac47f6f8f803be6ffcd3d2ed80dbe95b03197fade486a9dff1fbaf3"
         },
         "3211851": {
             "manifests": {
