@@ -4,8 +4,8 @@
     "name": "49 Keys",
     "schinese_name": "四十九把钥匙",
     "isfreeapp": "0",
-    "change_number": "26885553",
-    "update_time": "2025-01-07 10:14:25",
+    "change_number": "28524886",
+    "update_time": "2025-04-17 16:35:55",
     "depot": {
         "2660251": {
             "manifests": {
@@ -22,6 +22,7 @@
                 "buildid": "16431530",
                 "timeupdated": "1731772732"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
