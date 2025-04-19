@@ -4,8 +4,8 @@
     "name": "Endless Fireworks Simulator",
     "schinese_name": "无尽烟花模拟器",
     "isfreeapp": "0",
-    "change_number": "26943613",
-    "update_time": "2025-01-10 23:15:37",
+    "change_number": "28429474",
+    "update_time": "2025-04-11 21:10:34",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
         "2286881": {
@@ -32,8 +32,7 @@
                     "size": "225686956",
                     "download": "76039632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2286883": {
             "config": {
@@ -46,8 +45,7 @@
                     "size": "236981715",
                     "download": "73684416"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
