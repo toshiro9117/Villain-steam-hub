@@ -4,8 +4,8 @@
     "name": "Blazing Strike",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28258633",
-    "update_time": "2025-04-02 08:23:34",
+    "change_number": "28537754",
+    "update_time": "2025-04-18 04:39:41",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
         "1999501": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1801889967552300532",
-                    "size": "6967849249",
-                    "download": "1181701984"
+                    "gid": "5751102685480877605",
+                    "size": "6942111622",
+                    "download": "1157166928"
                 }
             },
             "decryptionkey": "a97888e7a1f8639bff57bae45974448902ab76e4c561c98290704ac737d4349f"
         },
         "branches": {
             "public": {
-                "buildid": "16805635",
-                "timeupdated": "1735112723"
+                "buildid": "18149470",
+                "timeupdated": "1744922322"
             }
         },
         "privatebranches": "1"
