@@ -4,8 +4,8 @@
     "name": "Monsters of Little Haven",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28211071",
-    "update_time": "2025-03-30 08:49:35",
+    "change_number": "28451152",
+    "update_time": "2025-04-13 14:55:20",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -53,8 +53,7 @@
                     "size": "274777182",
                     "download": "269599296"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1101934": {
             "config": {
@@ -66,8 +65,7 @@
                     "size": "187307897",
                     "download": "55997088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1101933": {
             "config": {
@@ -79,8 +77,7 @@
                     "size": "454149588",
                     "download": "321320608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1124441": {
             "manifests": {
