@@ -1,0 +1,70 @@
+{
+    "appid": "2869020",
+    "type": "Game",
+    "name": "Cakefoot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28491101",
+    "update_time": "2025-04-16 00:18:46",
+    "depot": {
+        "2869022": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7908934473287689146",
+                    "size": "65991567",
+                    "download": "30937056"
+                }
+            }
+        },
+        "2869021": {},
+        "2869023": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5628614836511472326",
+                    "size": "79120356",
+                    "download": "32283168"
+                }
+            },
+            "decryptionkey": "4e941dd6727f36884b68827d8ab150662e3b40210d1b0b85f4a77288dd3224fd"
+        },
+        "2869024": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2248735320311048606",
+                    "size": "77387115",
+                    "download": "32074112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2869025": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1061366822659257279",
+                    "size": "41777112",
+                    "download": "25374384"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17686647",
+                "timeupdated": "1741747969"
+            }
+        }
+    }
+}
