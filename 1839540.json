@@ -4,8 +4,8 @@
     "name": "Grocket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-17 20:49:08",
+    "change_number": "28365305",
+    "update_time": "2025-04-08 20:25:29",
     "depot": {
         "baselanguages": "english",
         "1839541": {
@@ -41,8 +41,7 @@
                     "size": "483412733",
                     "download": "336186400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1839544": {
             "config": {
@@ -54,8 +53,7 @@
                     "size": "475969601",
                     "download": "335255088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
