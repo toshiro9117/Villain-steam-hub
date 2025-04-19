@@ -4,8 +4,8 @@
     "name": "Monkey See Monkey Doo Doo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27782860",
-    "update_time": "2025-03-05 05:38:34",
+    "change_number": "28366509",
+    "update_time": "2025-04-08 21:33:28",
     "depot": {
         "2233581": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1410798964991399372",
-                    "size": "7290951498",
-                    "download": "1677010608"
+                    "gid": "7353069158956867133",
+                    "size": "7540630207",
+                    "download": "1709699840"
                 },
                 "openbeta": {
-                    "gid": "1410798964991399372",
-                    "size": "7290951498",
-                    "download": "1677010608"
+                    "gid": "7353069158956867133",
+                    "size": "7540630207",
+                    "download": "1709699840"
                 }
             },
             "decryptionkey": "3b598cacbc064524d61e3bc81d1fa8e495aba37c9930b23b8d6228530b4516ed"
@@ -29,13 +29,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17587671",
-                "timeupdated": "1741124310"
+                "buildid": "18026642",
+                "timeupdated": "1744119204"
             },
             "openbeta": {
-                "buildid": "17587671",
+                "buildid": "18026642",
                 "description": "Test Channel for the public that owns the game",
-                "timeupdated": "1741088286"
+                "timeupdated": "1744119170"
             }
         },
         "privatebranches": "1"
