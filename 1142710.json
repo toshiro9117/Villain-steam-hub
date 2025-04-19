@@ -4,8 +4,8 @@
     "name": "Total War: WARHAMMER III",
     "schinese_name": "全面战争：战锤3",
     "isfreeapp": "0",
-    "change_number": "28337099",
-    "update_time": "2025-04-07 08:08:22",
+    "change_number": "28543180",
+    "update_time": "2025-04-18 13:05:02",
     "depot": {
         "baselanguages": "english",
         "228983": {
@@ -46,6 +46,11 @@
                     "size": "498472238",
                     "download": "268653008"
                 },
+                "proving_grounds": {
+                    "gid": "1821720859212484983",
+                    "size": "483414318",
+                    "download": "259450624"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "3044333484848695442",
                     "size": "497704446",
@@ -70,6 +75,16 @@
                     "gid": "1430633323393601423",
                     "size": "496717502",
                     "download": "267773440"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "6122111928263877236",
+                    "size": "498472238",
+                    "download": "268653008"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "6122111928263877236",
+                    "size": "498472238",
+                    "download": "268653008"
                 },
                 "mac_linux_2.3": {
                     "gid": "3567831731002443038",
@@ -99,6 +114,11 @@
                     "size": "120739033257",
                     "download": "77922735360"
                 },
+                "proving_grounds": {
+                    "gid": "1178359096838079742",
+                    "size": "120739045457",
+                    "download": "77922557744"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "215048428375258250",
                     "size": "110960320102",
@@ -123,6 +143,16 @@
                     "gid": "8449631994025136971",
                     "size": "120682697773",
                     "download": "77893832240"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "1834230131537016823",
+                    "size": "120739033257",
+                    "download": "77922735360"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "1834230131537016823",
+                    "size": "120739033257",
+                    "download": "77922735360"
                 },
                 "mac_linux_2.3": {
                     "gid": "3338877168984693885",
@@ -153,6 +183,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "6088472991362806035",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "6088472991362806035",
                     "size": "2",
@@ -174,6 +209,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "6088472991362806035",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "6088472991362806035",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "6088472991362806035",
                     "size": "2",
                     "download": "48"
@@ -207,6 +252,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "3622264683308117676",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "3622264683308117676",
                     "size": "2",
@@ -228,6 +278,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "3622264683308117676",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "3622264683308117676",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "3622264683308117676",
                     "size": "2",
                     "download": "48"
@@ -261,6 +321,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "1459637335183049178",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "1459637335183049178",
                     "size": "2",
@@ -282,6 +347,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "1459637335183049178",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "1459637335183049178",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "1459637335183049178",
                     "size": "2",
                     "download": "48"
@@ -315,6 +390,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "6710079216484448409",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "6710079216484448409",
                     "size": "2",
@@ -336,6 +416,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "6710079216484448409",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "6710079216484448409",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "6710079216484448409",
                     "size": "2",
                     "download": "48"
@@ -369,6 +459,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "7071982132288265381",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "7071982132288265381",
                     "size": "2",
@@ -390,6 +485,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "7071982132288265381",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "7071982132288265381",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "7071982132288265381",
                     "size": "2",
                     "download": "48"
@@ -423,6 +528,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "6939909223456557190",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "6939909223456557190",
                     "size": "2",
@@ -444,6 +554,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "6939909223456557190",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "6939909223456557190",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "6939909223456557190",
                     "size": "2",
                     "download": "48"
@@ -477,6 +597,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "5353395848903157963",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "5353395848903157963",
                     "size": "2",
@@ -498,6 +623,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "5353395848903157963",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "5353395848903157963",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "5353395848903157963",
                     "size": "2",
                     "download": "48"
@@ -531,6 +666,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "4128327580205674160",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "4128327580205674160",
                     "size": "2",
@@ -552,6 +692,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "4128327580205674160",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "4128327580205674160",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "4128327580205674160",
                     "size": "2",
                     "download": "48"
@@ -585,6 +735,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "1426222503569890400",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "1426222503569890400",
                     "size": "2",
@@ -606,6 +761,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "1426222503569890400",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "1426222503569890400",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "1426222503569890400",
                     "size": "2",
                     "download": "48"
@@ -639,6 +804,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "5459469807500853556",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "5459469807500853556",
                     "size": "2",
@@ -660,6 +830,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "5459469807500853556",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "5459469807500853556",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "5459469807500853556",
                     "size": "2",
                     "download": "48"
@@ -693,6 +873,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "5730481803774042745",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "5730481803774042745",
                     "size": "2",
@@ -714,6 +899,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "5730481803774042745",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "5730481803774042745",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "5730481803774042745",
                     "size": "2",
                     "download": "48"
@@ -747,6 +942,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "3461348633807822835",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "3461348633807822835",
                     "size": "2",
@@ -768,6 +968,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "3461348633807822835",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "3461348633807822835",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "3461348633807822835",
                     "size": "2",
                     "download": "48"
@@ -801,6 +1011,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "2554965331021559023",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "2554965331021559023",
                     "size": "2",
@@ -822,6 +1037,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "2554965331021559023",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "2554965331021559023",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "2554965331021559023",
                     "size": "2",
                     "download": "48"
@@ -855,6 +1080,11 @@
                     "size": "72784416",
                     "download": "3762784"
                 },
+                "proving_grounds": {
+                    "gid": "6479353525254680768",
+                    "size": "72784416",
+                    "download": "3762336"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "7258956335356851457",
                     "size": "78872876",
@@ -880,6 +1110,16 @@
                     "size": "72659874",
                     "download": "3798480"
                 },
+                "mac_6.1.1_beta": {
+                    "gid": "5332032182920663383",
+                    "size": "72784416",
+                    "download": "3762784"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "5332032182920663383",
+                    "size": "72784416",
+                    "download": "3762784"
+                },
                 "mac_linux_2.3": {
                     "gid": "3296747163403352921",
                     "size": "76981293",
@@ -904,6 +1144,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5731862098398252724",
+                    "size": "306506618",
+                    "download": "105239344"
+                },
+                "proving_grounds": {
                     "gid": "4152266389898730702",
                     "size": "311134682",
                     "download": "100409168"
@@ -933,6 +1178,16 @@
                     "size": "311126429",
                     "download": "100419184"
                 },
+                "mac_6.1.1_beta": {
+                    "gid": "4525094302592380292",
+                    "size": "306541642",
+                    "download": "105243456"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "4152266389898730702",
+                    "size": "311134682",
+                    "download": "100409168"
+                },
                 "mac_linux_2.3": {
                     "gid": "6690929779175591768",
                     "size": "284777817",
@@ -957,6 +1212,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4835970717694840807",
+                    "size": "120750443745",
+                    "download": "77979524080"
+                },
+                "proving_grounds": {
                     "gid": "4451587773239928692",
                     "size": "120694215933",
                     "download": "77950190480"
@@ -985,6 +1245,16 @@
                     "gid": "3363419393738841579",
                     "size": "120694108254",
                     "download": "77950793792"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "3742283556869772595",
+                    "size": "120750443745",
+                    "download": "77978009312"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "4451587773239928692",
+                    "size": "120694215933",
+                    "download": "77950190480"
                 },
                 "mac_linux_2.3": {
                     "gid": "8438492923667416575",
@@ -1015,6 +1285,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9166494449026273310",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "173400194412662205",
                     "size": "2",
@@ -1036,6 +1311,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9166494449026273310",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9166494449026273310",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9166494449026273310",
                     "size": "2",
                     "download": "48"
@@ -1069,6 +1354,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8900861237430057830",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "101975508394446645",
                     "size": "2",
@@ -1090,6 +1380,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8900861237430057830",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8900861237430057830",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8900861237430057830",
                     "size": "2",
                     "download": "48"
@@ -1123,6 +1423,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8655011593956400395",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "125114377595947176",
                     "size": "2",
@@ -1144,6 +1449,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8655011593956400395",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8655011593956400395",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8655011593956400395",
                     "size": "2",
                     "download": "48"
@@ -1177,6 +1492,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9026286101244549568",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "274678058928483609",
                     "size": "2",
@@ -1198,6 +1518,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9026286101244549568",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9026286101244549568",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9026286101244549568",
                     "size": "2",
                     "download": "48"
@@ -1231,6 +1561,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8945570751154345796",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "55567708230848549",
                     "size": "2",
@@ -1252,6 +1587,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8945570751154345796",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8945570751154345796",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8945570751154345796",
                     "size": "2",
                     "download": "48"
@@ -1285,6 +1630,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9129895734558471269",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "30841004180301343",
                     "size": "2",
@@ -1306,6 +1656,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9129895734558471269",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9129895734558471269",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9129895734558471269",
                     "size": "2",
                     "download": "48"
@@ -1339,6 +1699,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9081626058921136981",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "227831736512672586",
                     "size": "2",
@@ -1360,6 +1725,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9081626058921136981",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9081626058921136981",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9081626058921136981",
                     "size": "2",
                     "download": "48"
@@ -1393,6 +1768,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8915494895381867967",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "487256555029179685",
                     "size": "2",
@@ -1414,6 +1794,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8915494895381867967",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8915494895381867967",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8915494895381867967",
                     "size": "2",
                     "download": "48"
@@ -1447,6 +1837,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8654905814547725517",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "179227047610942785",
                     "size": "2",
@@ -1468,6 +1863,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8654905814547725517",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8654905814547725517",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8654905814547725517",
                     "size": "2",
                     "download": "48"
@@ -1501,6 +1906,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9108577162150987688",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "232212093082951970",
                     "size": "2",
@@ -1522,6 +1932,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9108577162150987688",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9108577162150987688",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9108577162150987688",
                     "size": "2",
                     "download": "48"
@@ -1555,6 +1975,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9144170792512835387",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "130113477736699724",
                     "size": "2",
@@ -1576,6 +2001,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9144170792512835387",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9144170792512835387",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9144170792512835387",
                     "size": "2",
                     "download": "48"
@@ -1609,6 +2044,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8930316460357654082",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "130525958722426467",
                     "size": "2",
@@ -1630,6 +2070,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8930316460357654082",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8930316460357654082",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8930316460357654082",
                     "size": "2",
                     "download": "48"
@@ -1663,6 +2113,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9144309982818004957",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "660323254358989667",
                     "size": "2",
@@ -1684,6 +2139,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9144309982818004957",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9144309982818004957",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9144309982818004957",
                     "size": "2",
                     "download": "48"
@@ -1713,6 +2178,11 @@
             "dlcappid": "1374300",
             "manifests": {
                 "public": {
+                    "gid": "498221634633202008",
+                    "size": "72784416",
+                    "download": "3761536"
+                },
+                "proving_grounds": {
                     "gid": "5031547710389446980",
                     "size": "72659874",
                     "download": "3797696"
@@ -1742,6 +2212,16 @@
                     "size": "72659874",
                     "download": "3797888"
                 },
+                "mac_6.1.1_beta": {
+                    "gid": "498221634633202008",
+                    "size": "72784416",
+                    "download": "3761536"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "5031547710389446980",
+                    "size": "72659874",
+                    "download": "3797696"
+                },
                 "mac_linux_2.3": {
                     "gid": "993021171443514044",
                     "size": "76981293",
@@ -1766,6 +2246,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4198439730395591691",
+                    "size": "485961049",
+                    "download": "170294000"
+                },
+                "proving_grounds": {
                     "gid": "3388215060634706168",
                     "size": "477173511",
                     "download": "164227328"
@@ -1795,6 +2280,16 @@
                     "size": "475899979",
                     "download": "163940656"
                 },
+                "mac_6.1.1_beta": {
+                    "gid": "4198439730395591691",
+                    "size": "485961049",
+                    "download": "170294000"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "3388215060634706168",
+                    "size": "477173511",
+                    "download": "164227328"
+                },
                 "mac_linux_2.3": {
                     "gid": "4471246106492121968",
                     "size": "449194180",
@@ -1819,6 +2314,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8223318707060611564",
+                    "size": "120750443745",
+                    "download": "77977571504"
+                },
+                "proving_grounds": {
                     "gid": "3661219418677686346",
                     "size": "120694215933",
                     "download": "77947740416"
@@ -1847,6 +2347,16 @@
                     "gid": "7036520807104883391",
                     "size": "121166750812",
                     "download": "76008127376"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8223318707060611564",
+                    "size": "120750443745",
+                    "download": "77977571504"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "3661219418677686346",
+                    "size": "120694215933",
+                    "download": "77947740416"
                 },
                 "mac_linux_2.3": {
                     "gid": "8501823977283112820",
@@ -1877,6 +2387,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9093418364724952259",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "1043859282026099",
                     "size": "2",
@@ -1898,6 +2413,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9093418364724952259",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9093418364724952259",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9093418364724952259",
                     "size": "2",
                     "download": "48"
@@ -1931,6 +2456,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9053631128273802016",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "109563278731700232",
                     "size": "2",
@@ -1952,6 +2482,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9053631128273802016",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9053631128273802016",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9053631128273802016",
                     "size": "2",
                     "download": "48"
@@ -1985,6 +2525,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9196635818519935959",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "316415324889418156",
                     "size": "2",
@@ -2006,6 +2551,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9196635818519935959",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9196635818519935959",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9196635818519935959",
                     "size": "2",
                     "download": "48"
@@ -2039,6 +2594,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9026763929115280829",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "175397543756662400",
                     "size": "2",
@@ -2060,6 +2620,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9026763929115280829",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9026763929115280829",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9026763929115280829",
                     "size": "2",
                     "download": "48"
@@ -2093,6 +2663,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8979927577716416174",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "565178612111267165",
                     "size": "2",
@@ -2114,6 +2689,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8979927577716416174",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8979927577716416174",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8979927577716416174",
                     "size": "2",
                     "download": "48"
@@ -2147,6 +2732,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9180672658440347694",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "248599615657073104",
                     "size": "2",
@@ -2168,6 +2758,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9180672658440347694",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9180672658440347694",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9180672658440347694",
                     "size": "2",
                     "download": "48"
@@ -2201,6 +2801,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8975037473306021053",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "360815031492935119",
                     "size": "2",
@@ -2222,6 +2827,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8975037473306021053",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8975037473306021053",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8975037473306021053",
                     "size": "2",
                     "download": "48"
@@ -2255,6 +2870,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9063585085200662596",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "891540989082724261",
                     "size": "2",
@@ -2276,6 +2896,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9063585085200662596",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9063585085200662596",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9063585085200662596",
                     "size": "2",
                     "download": "48"
@@ -2309,6 +2939,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9183865322137861645",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "17584233666009996",
                     "size": "2",
@@ -2330,6 +2965,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9183865322137861645",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9183865322137861645",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9183865322137861645",
                     "size": "2",
                     "download": "48"
@@ -2363,6 +3008,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "8802401714251063910",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "87685208880024827",
                     "size": "2",
@@ -2384,6 +3034,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "8802401714251063910",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "8802401714251063910",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "8802401714251063910",
                     "size": "2",
                     "download": "48"
@@ -2417,6 +3077,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9041416467017533132",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "124651676481062330",
                     "size": "2",
@@ -2438,6 +3103,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9041416467017533132",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9041416467017533132",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9041416467017533132",
                     "size": "2",
                     "download": "48"
@@ -2471,6 +3146,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9196900743135948625",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "61424552544932073",
                     "size": "2",
@@ -2492,6 +3172,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9196900743135948625",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9196900743135948625",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9196900743135948625",
                     "size": "2",
                     "download": "48"
@@ -2525,6 +3215,11 @@
                     "size": "2",
                     "download": "48"
                 },
+                "proving_grounds": {
+                    "gid": "9013275096934864938",
+                    "size": "2",
+                    "download": "48"
+                },
                 "domesticated_1_3_retail": {
                     "gid": "71186040589899445",
                     "size": "2",
@@ -2546,6 +3241,16 @@
                     "download": "48"
                 },
                 "last_update": {
+                    "gid": "9013275096934864938",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "9013275096934864938",
+                    "size": "2",
+                    "download": "48"
+                },
+                "mac_linux_6.0.1": {
                     "gid": "9013275096934864938",
                     "size": "2",
                     "download": "48"
@@ -2575,6 +3280,11 @@
             "dlcappid": "1374300",
             "manifests": {
                 "public": {
+                    "gid": "1998852769651390519",
+                    "size": "72784416",
+                    "download": "3762272"
+                },
+                "proving_grounds": {
                     "gid": "6486768369626631500",
                     "size": "72659874",
                     "download": "3786128"
@@ -2603,6 +3313,16 @@
                     "gid": "8135893289930846375",
                     "size": "72254750",
                     "download": "3873696"
+                },
+                "mac_6.1.1_beta": {
+                    "gid": "1998852769651390519",
+                    "size": "72784416",
+                    "download": "3762272"
+                },
+                "mac_linux_6.0.1": {
+                    "gid": "6486768369626631500",
+                    "size": "72659874",
+                    "download": "3786128"
                 },
                 "mac_linux_2.3": {
                     "gid": "62089016201779851",
@@ -2642,8 +3362,13 @@
         "workshopdepot": "1142710",
         "branches": {
             "public": {
-                "buildid": "17967891",
-                "timeupdated": "1743673986"
+                "buildid": "18097525",
+                "timeupdated": "1744626203"
+            },
+            "proving_grounds": {
+                "buildid": "18043886",
+                "description": "Campaign AI Beta #2",
+                "timeupdated": "1744215505"
             },
             "domesticated_1_3_retail": {
                 "buildid": "9616527",
@@ -2670,6 +3395,16 @@
                 "description": "Rollback to 6.0.0 (Build #31035)",
                 "timeupdated": "1738666919"
             },
+            "mac_6.1.1_beta": {
+                "buildid": "18143551",
+                "description": "Mac 6.1.1 Beta test - Text Fix (Mac only)",
+                "timeupdated": "1744890906"
+            },
+            "mac_linux_6.0.1": {
+                "buildid": "18130289",
+                "description": "6.0.1 Release for Mac and Linux ONLY",
+                "timeupdated": "1744814501"
+            },
             "mac_linux_2.3": {
                 "buildid": "10565770",
                 "description": "2.3 Release for Mac and Linux ONLY",
@@ -2687,6 +3422,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ea64ef77605ae9352273e58066c4eeb8f461b8754e74e777fe291eadfc198b8f"
     }
 }
