@@ -1,0 +1,54 @@
+{
+    "appid": "214150",
+    "type": "Game",
+    "name": "Galactic Civilizations I: Ultimate Edition",
+    "schinese_name": "银河文明1：终极版",
+    "isfreeapp": "0",
+    "change_number": "28529124",
+    "update_time": "2025-04-17 20:49:50",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "214151": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3255816285209261835",
+                    "size": "638606481",
+                    "download": "505936400"
+                },
+                "opt-in": {
+                    "gid": "3255816285209261835",
+                    "size": "638606481",
+                    "download": "505936400"
+                }
+            },
+            "decryptionkey": "ff4226d376339d9365e724bcb1c8d241798a8e18bead51766cf77d7a41f06bc8"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "6694552",
+                "timeupdated": "1620913991"
+            },
+            "opt-in": {
+                "buildid": "6694552",
+                "description": "Full-screen Test",
+                "timeupdated": "1621269632"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
