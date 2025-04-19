@@ -4,8 +4,8 @@
     "name": "BLACKSHARD",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336345",
-    "update_time": "2025-04-07 06:15:29",
+    "change_number": "28548594",
+    "update_time": "2025-04-18 19:39:31",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,27 @@
         "3223391": {
             "manifests": {
                 "public": {
-                    "gid": "8592661310698563188",
-                    "size": "16952750970",
-                    "download": "16521769088"
+                    "gid": "1725848454421905982",
+                    "size": "18103052764",
+                    "download": "17642002560"
+                },
+                "beta": {
+                    "gid": "2693363633216453887",
+                    "size": "18103038412",
+                    "download": "17641975328"
                 }
             },
             "decryptionkey": "4036bdc314ed64ad1efaef4cd271ca400910b4048fcec7a40b2bf0ac4cb18989"
         },
         "branches": {
             "public": {
-                "buildid": "17984092",
-                "timeupdated": "1743766779"
+                "buildid": "18157192",
+                "timeupdated": "1744976366"
+            },
+            "beta": {
+                "buildid": "18144495",
+                "description": "Testing before public",
+                "timeupdated": "1744915559"
             }
         }
     }
