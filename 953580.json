@@ -4,8 +4,8 @@
     "name": "Tourist Bus Simulator",
     "schinese_name": "旅游巴士模拟",
     "isfreeapp": "0",
-    "change_number": "28301023",
-    "update_time": "2025-04-04 10:55:06",
+    "change_number": "28541847",
+    "update_time": "2025-04-18 10:51:20",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,swedish,hungarian,turkish,brazilian",
         "workshopdepot": "953580",
@@ -34,9 +34,9 @@
                     "download": "22656814112"
                 },
                 "local": {
-                    "gid": "1786960364580667905",
-                    "size": "27057882503",
-                    "download": "22338412624"
+                    "gid": "7026943719819456274",
+                    "size": "27057233901",
+                    "download": "22336640304"
                 },
                 "previousversion": {
                     "gid": "8317958934215622199",
@@ -370,9 +370,9 @@
                     "download": "153372336"
                 },
                 "local": {
-                    "gid": "538813052848006126",
+                    "gid": "2326695164354926114",
                     "size": "180809102",
-                    "download": "153376592"
+                    "download": "153375888"
                 }
             },
             "decryptionkey": "ada5ac12a67ebd1ad59fb2d2268ab7020c53aebf5107c91829620c5f9f329a2a"
@@ -391,9 +391,9 @@
                     "download": "149496768"
                 },
                 "local": {
-                    "gid": "8811833233972256568",
+                    "gid": "2633760137663158737",
                     "size": "175547722",
-                    "download": "149510352"
+                    "download": "149509552"
                 }
             },
             "decryptionkey": "235ff4e195531d1614867902d5825e994f13fa9b67e82626e67686b4d20c330c"
@@ -412,9 +412,9 @@
                     "download": "148999712"
                 },
                 "local": {
-                    "gid": "9221231695508569436",
+                    "gid": "8266687445302041972",
                     "size": "175547618",
-                    "download": "149013328"
+                    "download": "149012656"
                 }
             },
             "decryptionkey": "196247529527339b4a0f5d6675369fb72408e1f26bc8049ed6809ffb25b12c2a"
@@ -433,9 +433,9 @@
                     "download": "83252064"
                 },
                 "local": {
-                    "gid": "4948779840935597936",
+                    "gid": "7969518775056890620",
                     "size": "97221594",
-                    "download": "83269968"
+                    "download": "83269456"
                 }
             },
             "decryptionkey": "f6f37acf6fbfc664b95dfd4578712b10a2f3ca00403e566b80021710549b6b34"
@@ -453,9 +453,9 @@
                     "download": "89534160"
                 },
                 "local": {
-                    "gid": "5549358237020293879",
+                    "gid": "9123013712625441612",
                     "size": "102433593",
-                    "download": "89547680"
+                    "download": "89547312"
                 }
             },
             "decryptionkey": "dbcd300d2528c1fdff04b43a1911f3860c9d1d61c0d12d367db3f1ff58923245"
@@ -473,9 +473,9 @@
                     "download": "87817104"
                 },
                 "local": {
-                    "gid": "3505890258857348973",
+                    "gid": "4153864637682390589",
                     "size": "105476945",
-                    "download": "88059168"
+                    "download": "88059744"
                 }
             },
             "decryptionkey": "169c6ec413903a9efe4b281b6c17e80ce076d8f1b6e19053351649aa8560380e"
@@ -494,10 +494,10 @@
                 "timeupdated": "1742311209"
             },
             "local": {
-                "buildid": "17978943",
+                "buildid": "18164201",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1743734483"
+                "timeupdated": "1745030131"
             },
             "previousversion": {
                 "buildid": "7519665",
