@@ -4,8 +4,8 @@
     "name": "The Jackbox Naughty Pack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28008053",
-    "update_time": "2025-03-18 14:55:45",
+    "change_number": "28511943",
+    "update_time": "2025-04-17 00:12:26",
     "depot": {
         "228985": {
             "config": {
@@ -60,8 +60,7 @@
                     "size": "2596181886",
                     "download": "2511356208"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2652004": {
             "config": {
@@ -74,8 +73,7 @@
                     "size": "48027382",
                     "download": "13222640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2828508": {
             "manifests": {
