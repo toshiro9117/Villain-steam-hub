@@ -4,8 +4,8 @@
     "name": "Chroma Zero",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28338851",
-    "update_time": "2025-04-07 11:26:18",
+    "change_number": "28517197",
+    "update_time": "2025-04-17 06:00:02",
     "depot": {
         "228989": {
             "config": {
@@ -40,6 +40,7 @@
                 "buildid": "17643289",
                 "timeupdated": "1741399021"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
