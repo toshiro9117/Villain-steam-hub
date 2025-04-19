@@ -4,8 +4,8 @@
     "name": "Arma 3",
     "schinese_name": "武装突袭3",
     "isfreeapp": "0",
-    "change_number": "28346341",
-    "update_time": "2025-04-07 21:21:01",
+    "change_number": "28403302",
+    "update_time": "2025-04-10 16:49:38",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -98,9 +98,9 @@
                     "download": "34675058048"
                 },
                 "development": {
-                    "gid": "3900096726624667595",
-                    "size": "43489060297",
-                    "download": "34690862320"
+                    "gid": "4610766429260618064",
+                    "size": "43489204659",
+                    "download": "34690930336"
                 },
                 "profiling": {
                     "gid": "9042154259692484612",
@@ -144,9 +144,9 @@
                     "download": "16712672"
                 },
                 "development": {
-                    "gid": "6954308551023451344",
-                    "size": "43857434",
-                    "download": "16711392"
+                    "gid": "661972833813787589",
+                    "size": "43859994",
+                    "download": "16713200"
                 },
                 "profiling": {
                     "gid": "1709634541533109298",
@@ -167,9 +167,9 @@
                     "download": "18592496"
                 },
                 "development": {
-                    "gid": "1832047729833610053",
-                    "size": "70137276",
-                    "download": "18591296"
+                    "gid": "8091671225972878165",
+                    "size": "70139836",
+                    "download": "18593328"
                 },
                 "profiling": {
                     "gid": "2489662702776957379",
@@ -190,9 +190,9 @@
                     "download": "18714400"
                 },
                 "development": {
-                    "gid": "3462553176065167246",
-                    "size": "71836027",
-                    "download": "18713040"
+                    "gid": "8373208919204017559",
+                    "size": "71838587",
+                    "download": "18715008"
                 },
                 "profiling": {
                     "gid": "7281739878081036937",
@@ -213,9 +213,9 @@
                     "download": "24021440"
                 },
                 "development": {
-                    "gid": "547594081942459718",
-                    "size": "149480132",
-                    "download": "24020640"
+                    "gid": "4710736783410423530",
+                    "size": "149482692",
+                    "download": "24021824"
                 },
                 "profiling": {
                     "gid": "7161234463917856452",
@@ -236,9 +236,9 @@
                     "download": "41602496"
                 },
                 "development": {
-                    "gid": "4096686211359325777",
-                    "size": "388836166",
-                    "download": "41358128"
+                    "gid": "8773653663260690176",
+                    "size": "388838726",
+                    "download": "41115280"
                 },
                 "profiling": {
                     "gid": "5507949243930518464",
@@ -259,9 +259,9 @@
                     "download": "18586864"
                 },
                 "development": {
-                    "gid": "5256823820624583102",
-                    "size": "70356375",
-                    "download": "18585184"
+                    "gid": "6930267034534440060",
+                    "size": "70358935",
+                    "download": "18587008"
                 },
                 "profiling": {
                     "gid": "8378677006521123087",
@@ -282,9 +282,9 @@
                     "download": "18599648"
                 },
                 "development": {
-                    "gid": "1939657442938971934",
-                    "size": "70757709",
-                    "download": "18598160"
+                    "gid": "6718893106331620907",
+                    "size": "70760269",
+                    "download": "18599984"
                 },
                 "profiling": {
                     "gid": "4733526250654162495",
@@ -724,9 +724,9 @@
             },
             "manifests": {
                 "profiling": {
-                    "gid": "3902849059320224753",
-                    "size": "143281408",
-                    "download": "47974160"
+                    "gid": "3839274910280968234",
+                    "size": "143547648",
+                    "download": "48088560"
                 }
             },
             "decryptionkey": "5957e2f2c177f505edfedc9170b8ca215df87c63267843d424bcda30eaf0beb0"
@@ -1071,8 +1071,7 @@
                     "size": "4393157590",
                     "download": "4373545536"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "107412": {},
         "2647830": {
@@ -1110,8 +1109,7 @@
                     "size": "2869356132",
                     "download": "2908617760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2647850": {
             "dlcappid": "2647850",
@@ -1125,14 +1123,14 @@
                 "timeupdated": "1742910856"
             },
             "development": {
-                "buildid": "17863774",
+                "buildid": "18038120",
                 "description": "Development Build",
-                "timeupdated": "1743001430"
+                "timeupdated": "1744211652"
             },
             "profiling": {
-                "buildid": "18011835",
+                "buildid": "18053503",
                 "description": "Performance Profiling Build",
-                "timeupdated": "1744032054"
+                "timeupdated": "1744274973"
             }
         },
         "privatebranches": "1",
