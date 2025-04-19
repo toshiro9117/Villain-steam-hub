@@ -4,8 +4,8 @@
     "name": "Floor 9",
     "schinese_name": "第9层",
     "isfreeapp": "0",
-    "change_number": "28342517",
-    "update_time": "2025-04-07 17:17:51",
+    "change_number": "28454548",
+    "update_time": "2025-04-14 00:09:05",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -32,8 +32,7 @@
                     "size": "557616399",
                     "download": "216126880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
