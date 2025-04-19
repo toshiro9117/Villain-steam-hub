@@ -4,8 +4,8 @@
     "name": "Symphony",
     "schinese_name": "自由交响",
     "isfreeapp": "0",
-    "change_number": "22585260",
-    "update_time": "2024-05-31 01:26:16",
+    "change_number": "28526517",
+    "update_time": "2025-04-17 18:10:50",
     "depot": {
         "228989": {
             "config": {
@@ -66,8 +66,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "207753": {
             "config": {
@@ -89,8 +88,7 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
