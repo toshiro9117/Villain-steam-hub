@@ -1,0 +1,28 @@
+{
+    "appid": "3576250",
+    "type": "Game",
+    "name": "Cargo Shop Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28530402",
+    "update_time": "2025-04-17 21:58:38",
+    "depot": {
+        "baselanguages": "english",
+        "3576251": {
+            "manifests": {
+                "public": {
+                    "gid": "8451058699163654765",
+                    "size": "1743009912",
+                    "download": "360950352"
+                }
+            },
+            "decryptionkey": "b1e5de8e0e7d8cbf73457d7fff630cc22f3d3e8d7646816f3b606a9b8a01ffa4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18082908",
+                "timeupdated": "1744454294"
+            }
+        }
+    }
+}
