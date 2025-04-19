@@ -4,8 +4,8 @@
     "name": "Death Trash",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346394",
-    "update_time": "2025-04-07 21:23:45",
+    "change_number": "28522706",
+    "update_time": "2025-04-17 14:12:16",
     "depot": {
         "941461": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "206127600"
                 },
                 "beta": {
-                    "gid": "4612576831923957080",
-                    "size": "897995722",
-                    "download": "211216128"
+                    "gid": "7374695159028806298",
+                    "size": "896598818",
+                    "download": "211553200"
                 }
             },
             "decryptionkey": "b0d0698bc15a83cab9fc71594a209515ae28c498aa7bb7fc0adc69adee219d8e"
@@ -36,9 +36,9 @@
                     "download": "206461088"
                 },
                 "beta": {
-                    "gid": "1858943161023859570",
-                    "size": "892680289",
-                    "download": "211419408"
+                    "gid": "6733632182771608419",
+                    "size": "892629972",
+                    "download": "212044960"
                 }
             },
             "decryptionkey": "e252486cfcecfda173f7951b9bcc40f6089025ee745ff0d63302425863b04bf1"
@@ -54,9 +54,9 @@
                     "download": "206926592"
                 },
                 "beta": {
-                    "gid": "7557970671086326525",
-                    "size": "897985776",
-                    "download": "211950992"
+                    "gid": "6467954917247030572",
+                    "size": "897935705",
+                    "download": "212578976"
                 }
             },
             "decryptionkey": "37ba5ad4fd87107b0094639a47dbeb9b4fa86eac62e3d7a2e226bcf0d76dff2e"
@@ -69,12 +69,12 @@
                 "timeupdated": "1739275339"
             },
             "beta": {
-                "buildid": "17900096",
+                "buildid": "18099931",
                 "description": "test builds",
-                "timeupdated": "1743175748"
+                "timeupdated": "1744638686"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "6d5d2a036ae38cda9271ce000956d802f566be505e97419850b6e078410fa740"
     }
 }
