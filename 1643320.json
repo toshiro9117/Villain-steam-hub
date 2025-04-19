@@ -4,8 +4,8 @@
     "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "schinese_name": "潜行者2：切尔诺贝利之心",
     "isfreeapp": "0",
-    "change_number": "28204675",
-    "update_time": "2025-03-29 16:49:41",
+    "change_number": "28544537",
+    "update_time": "2025-04-18 15:11:25",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -34,9 +34,9 @@
         "1643321": {
             "manifests": {
                 "public": {
-                    "gid": "4518943892436987537",
-                    "size": "166505157332",
-                    "download": "147993510464"
+                    "gid": "8010550507850001691",
+                    "size": "166497860286",
+                    "download": "147996340160"
                 }
             },
             "decryptionkey": "71c29e58911c13991edea02ac06db5f5991e43e52cdcd76c19126d657c4a38e7"
@@ -48,11 +48,11 @@
         "1643326": {},
         "branches": {
             "public": {
-                "buildid": "17862726",
-                "timeupdated": "1743094843"
+                "buildid": "18021753",
+                "timeupdated": "1744704107"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b783726cbbe01aa0588ea0829164ac9b24665c7394b3d13497e62639b8c083ea"
     }
 }
