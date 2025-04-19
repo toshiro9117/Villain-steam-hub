@@ -4,8 +4,8 @@
     "name": "Middle-earth™: Shadow of Mordor™",
     "schinese_name": "中土世界：暗影魔多",
     "isfreeapp": "0",
-    "change_number": "27104397",
-    "update_time": "2025-01-22 10:26:22",
+    "change_number": "28416815",
+    "update_time": "2025-04-11 05:43:14",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,polish,brazilian",
@@ -1341,8 +1341,7 @@
                     "size": "216",
                     "download": "144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "318399": {
             "dlcappid": "322061",
@@ -1360,8 +1359,7 @@
                     "size": "216",
                     "download": "144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "318403": {
             "config": {
