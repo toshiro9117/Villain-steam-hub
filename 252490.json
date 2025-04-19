@@ -4,8 +4,8 @@
     "name": "Rust",
     "schinese_name": "腐蚀",
     "isfreeapp": "0",
-    "change_number": "28345233",
-    "update_time": "2025-04-07 20:11:12",
+    "change_number": "28483551",
+    "update_time": "2025-04-15 17:16:19",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "615606453193500700",
-                    "size": "38814571468",
-                    "download": "21779030864"
+                    "gid": "7430522735051383686",
+                    "size": "38814592604",
+                    "download": "21779034352"
                 },
                 "last-last-month": {
                     "gid": "3494012198436129939",
@@ -61,9 +61,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8519985880651263751",
-                    "size": "6064748497",
-                    "download": "2149496864"
+                    "gid": "6553922847665339902",
+                    "size": "6064755627",
+                    "download": "2149506176"
                 },
                 "last-last-month": {
                     "gid": "8411488567255730197",
@@ -91,9 +91,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1294534917462411088",
-                    "size": "889103148",
-                    "download": "478581168"
+                    "gid": "389421182216976169",
+                    "size": "889025442",
+                    "download": "478596032"
                 },
                 "last-last-month": {
                     "gid": "1916884352598295971",
@@ -115,8 +115,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17991321",
-                "timeupdated": "1743806411"
+                "buildid": "18072372",
+                "timeupdated": "1744393378"
             },
             "last-last-month": {
                 "buildid": "17528248",
@@ -135,6 +135,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "070d35c4cac50d6b14881a6fd630bf1c58a061bec585e899a48c813972638108"
     }
 }
