@@ -4,8 +4,8 @@
     "name": "Delude - Succubus Prison",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28273137",
-    "update_time": "2025-04-03 01:18:18",
+    "change_number": "28348307",
+    "update_time": "2025-04-07 23:17:44",
     "depot": {
         "228990": {
             "config": {
@@ -37,8 +37,7 @@
                     "size": "250877425",
                     "download": "128153920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "674383": {
             "config": {
@@ -50,8 +49,7 @@
                     "size": "263600057",
                     "download": "127468064"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
