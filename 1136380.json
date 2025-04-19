@@ -4,24 +4,24 @@
     "name": "Ultimate Fishing Simulator 2",
     "schinese_name": "终极钓鱼模拟器2",
     "isfreeapp": "0",
-    "change_number": "28246160",
-    "update_time": "2025-04-01 18:27:42",
+    "change_number": "28514848",
+    "update_time": "2025-04-17 03:05:07",
     "depot": {
         "baselanguages": "english",
         "1136381": {
             "manifests": {
                 "public": {
-                    "gid": "1183164742539182952",
-                    "size": "29055690608",
-                    "download": "11078181696"
+                    "gid": "5377654794371885349",
+                    "size": "31493848760",
+                    "download": "12185938944"
                 }
             },
             "decryptionkey": "f6ab2eb01876bb0a71ed82d311cff335764127e35b53358cbf95733bacb1d2f6"
         },
         "branches": {
             "public": {
-                "buildid": "17928540",
-                "timeupdated": "1743503257"
+                "buildid": "18133098",
+                "timeupdated": "1744830300"
             }
         },
         "privatebranches": "1"
