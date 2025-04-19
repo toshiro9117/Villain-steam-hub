@@ -4,8 +4,8 @@
     "name": "ORDER 13 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346089",
-    "update_time": "2025-04-07 21:05:34",
+    "change_number": "28546940",
+    "update_time": "2025-04-18 17:48:47",
     "depot": {
         "3489661": {
             "manifests": {
@@ -14,7 +14,8 @@
                     "size": "4298874953",
                     "download": "1600235664"
                 }
-            }
+            },
+            "decryptionkey": "913902381c03455b7bcfea2c4df46c30c378a0521958864956c5bdec710e86ea"
         },
         "2259312": {
             "manifests": {
@@ -24,7 +25,8 @@
                     "download": "1750702032"
                 }
             },
-            "depotfromapp": "2259310"
+            "depotfromapp": "2259310",
+            "decryptionkey": "a3f0d162fd3d9861b0aaf0fac52beb7598655e86a6a919f048767d3d6832ab5d"
         },
         "branches": {
             "public": {
