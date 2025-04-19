@@ -4,8 +4,8 @@
     "name": "Small Spaces Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28251354",
-    "update_time": "2025-04-01 23:26:36",
+    "change_number": "28481868",
+    "update_time": "2025-04-15 15:40:19",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "3484302873",
                     "download": "3312238496"
                 }
-            }
+            },
+            "decryptionkey": "9cec85afbdaa38ee37ba753d9bf88aea37349e551f7982f30c85bea40ffc6fb0"
         },
         "branches": {
             "public": {
