@@ -4,8 +4,8 @@
     "name": "Deadzone Rogue Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28278465",
-    "update_time": "2025-04-03 07:29:28",
+    "change_number": "28539630",
+    "update_time": "2025-04-18 07:23:26",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,19 @@
         "3232971": {
             "manifests": {
                 "public": {
-                    "gid": "6467659011483485830",
-                    "size": "7164988839",
-                    "download": "6810449104"
+                    "gid": "2563646883124900785",
+                    "size": "7316852524",
+                    "download": "6924389904"
                 }
-            }
+            },
+            "decryptionkey": "fed37be9c33e1057be43a1028c1166a19be9606bfbe17731525b040dd636960c"
         },
         "branches": {
             "public": {
-                "buildid": "17961961",
-                "timeupdated": "1743636565"
+                "buildid": "18149393",
+                "timeupdated": "1744925650"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
