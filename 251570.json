@@ -4,8 +4,8 @@
     "name": "7 Days to Die",
     "schinese_name": "七日杀",
     "isfreeapp": "0",
-    "change_number": "28331624",
-    "update_time": "2025-04-06 19:20:43",
+    "change_number": "28518829",
+    "update_time": "2025-04-17 08:22:40",
     "depot": {
         "228983": {
             "config": {
@@ -37,11 +37,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4801478883247420446",
-                    "size": "20863026469",
-                    "download": "13648365888"
+                    "gid": "6659681639584219039",
+                    "size": "20863048132",
+                    "download": "13648576304"
                 },
                 "latest_experimental": {
+                    "gid": "6659681639584219039",
+                    "size": "20863048132",
+                    "download": "13648576304"
+                },
+                "v1.4": {
                     "gid": "6659681639584219039",
                     "size": "20863048132",
                     "download": "13648576304"
@@ -140,11 +145,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8886033880883663276",
-                    "size": "20668779527",
-                    "download": "13556639728"
+                    "gid": "7902718015786407009",
+                    "size": "20668781024",
+                    "download": "13556228016"
                 },
                 "latest_experimental": {
+                    "gid": "7902718015786407009",
+                    "size": "20668781024",
+                    "download": "13556228016"
+                },
+                "v1.4": {
                     "gid": "7902718015786407009",
                     "size": "20668781024",
                     "download": "13556228016"
@@ -243,11 +253,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8088993591271188208",
-                    "size": "20847603286",
-                    "download": "13617252688"
+                    "gid": "226298050398258359",
+                    "size": "20847640935",
+                    "download": "13617399792"
                 },
                 "latest_experimental": {
+                    "gid": "226298050398258359",
+                    "size": "20847640935",
+                    "download": "13617399792"
+                },
+                "v1.4": {
                     "gid": "226298050398258359",
                     "size": "20847640935",
                     "download": "13617399792"
@@ -356,6 +371,11 @@
                     "size": "0",
                     "download": "0"
                 },
+                "v1.4": {
+                    "gid": "8628486239191323866",
+                    "size": "0",
+                    "download": "0"
+                },
                 "v1.3": {
                     "gid": "8628486239191323866",
                     "size": "0",
@@ -442,13 +462,18 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17249470",
-                "timeupdated": "1739383162"
+                "buildid": "17989995",
+                "timeupdated": "1744394591"
             },
             "latest_experimental": {
                 "buildid": "17989995",
                 "description": "Unstable build",
                 "timeupdated": "1743806860"
+            },
+            "v1.4": {
+                "buildid": "17989995",
+                "description": "Version 1.4 Stable",
+                "timeupdated": "1744394184"
             },
             "v1.3": {
                 "buildid": "17249470",
