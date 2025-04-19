@@ -4,8 +4,8 @@
     "name": "Shovel Knight Pocket Dungeon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28311150",
-    "update_time": "2025-04-04 23:02:29",
+    "change_number": "28544363",
+    "update_time": "2025-04-18 14:57:55",
     "depot": {
         "1184761": {
             "config": {
@@ -41,6 +41,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0fd50445f33432516a0f3a1348c59ed94a3c8c768410d13645ce29cc44474291"
     }
 }
