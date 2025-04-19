@@ -1,0 +1,140 @@
+{
+    "appid": "1013540",
+    "type": "Game",
+    "name": "Evospace",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28549464",
+    "update_time": "2025-04-18 20:43:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "workshopdepot": "1013540",
+        "1013541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2682679468959065714",
+                    "size": "1086048704",
+                    "download": "905827568"
+                },
+                "0.17": {
+                    "gid": "677206953069872939",
+                    "size": "941909798",
+                    "download": "858752928"
+                },
+                "0.18.1": {
+                    "gid": "3417857886335577005",
+                    "size": "2102936822",
+                    "download": "1795362048"
+                },
+                "0.18.5": {
+                    "gid": "1850238619977115582",
+                    "size": "1315563206",
+                    "download": "980474368"
+                },
+                "0.19.1": {
+                    "gid": "2682679468959065714",
+                    "size": "1086048704",
+                    "download": "905827568"
+                },
+                "indev": {
+                    "gid": "3622442227888310340",
+                    "size": "1810740971",
+                    "download": "1385301056"
+                },
+                "stable_indev": {
+                    "gid": "1661446946033330445",
+                    "size": "1809109727",
+                    "download": "1384422592"
+                }
+            },
+            "decryptionkey": "68a9f5033442626ccd2c4329e03cc2e791781329e391cfc4890da9e2fb693efe"
+        },
+        "1013542": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8775114450437325239",
+                    "size": "1648557389",
+                    "download": "1178035616"
+                },
+                "0.18.5": {
+                    "gid": "8731855971500322329",
+                    "size": "1364789993",
+                    "download": "941882352"
+                },
+                "0.19.1": {
+                    "gid": "8775114450437325239",
+                    "size": "1648557389",
+                    "download": "1178035616"
+                },
+                "indev": {
+                    "gid": "8389037822588448972",
+                    "size": "1862064152",
+                    "download": "1342481840"
+                },
+                "stable_indev": {
+                    "gid": "8389037822588448972",
+                    "size": "1862064152",
+                    "download": "1342481840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15000546",
+                "timeupdated": "1720697684"
+            },
+            "0.17": {
+                "buildid": "4466712",
+                "description": "release",
+                "timeupdated": "1579703755"
+            },
+            "0.18.1": {
+                "buildid": "6754832",
+                "description": "release",
+                "timeupdated": "1632747891"
+            },
+            "0.18.5": {
+                "buildid": "13292177",
+                "description": "release",
+                "timeupdated": "1709991962"
+            },
+            "0.19.1": {
+                "buildid": "15000546",
+                "description": "release",
+                "timeupdated": "1744479641"
+            },
+            "indev": {
+                "buildid": "18157760",
+                "description": "latest indev version",
+                "timeupdated": "1744980204"
+            },
+            "stable_indev": {
+                "buildid": "18085339",
+                "description": "stable version of indev branch",
+                "timeupdated": "1744485511"
+            }
+        },
+        "workshopdepotdecryptionkey": "e10a22adf37e9f2f228c6127b7052a76a5be87b046f4a97c56362a18a0c25445"
+    }
+}
