@@ -4,8 +4,8 @@
     "name": "Blindfire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346197",
-    "update_time": "2025-04-07 21:14:04",
+    "change_number": "28544680",
+    "update_time": "2025-04-18 15:23:47",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2854481": {
             "manifests": {
                 "public": {
-                    "gid": "3846017422584036308",
-                    "size": "4632625472",
-                    "download": "4233851408"
+                    "gid": "2016958756432142696",
+                    "size": "4181461281",
+                    "download": "3780914800"
                 }
             },
             "decryptionkey": "6efc7aeef56a46aff81839de0d97b24440f12301879c5dac7e4e400fb5def456"
         },
         "branches": {
             "public": {
-                "buildid": "17868438",
-                "timeupdated": "1743005781"
+                "buildid": "18072098",
+                "timeupdated": "1744714833"
             }
         },
         "privatebranches": "1"
