@@ -4,8 +4,8 @@
     "name": "Ale & Tale Tavern",
     "schinese_name": "传说酒馆",
     "isfreeapp": "0",
-    "change_number": "28316150",
-    "update_time": "2025-04-05 04:11:09",
+    "change_number": "28528092",
+    "update_time": "2025-04-17 19:49:51",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "2683151": {
             "manifests": {
                 "public": {
-                    "gid": "567527726784182802",
-                    "size": "4058430070",
-                    "download": "1340730976"
+                    "gid": "4361992458820135239",
+                    "size": "4123625383",
+                    "download": "1365830720"
                 },
                 "prv2": {
                     "gid": "590502473402878070",
@@ -32,17 +32,22 @@
                     "download": "1222692800"
                 },
                 "test": {
-                    "gid": "3853142180744691894",
-                    "size": "4079380621",
-                    "download": "1345446416"
+                    "gid": "2686399677692853791",
+                    "size": "4144585149",
+                    "download": "1370548288"
+                },
+                "v1.4.2": {
+                    "gid": "3874936663267624815",
+                    "size": "4058428166",
+                    "download": "1340714720"
                 }
             },
             "decryptionkey": "fb4abcba88c9d336863c767233f69ca8be744236c5b6ae985441b2796efc5464"
         },
         "branches": {
             "public": {
-                "buildid": "17864991",
-                "timeupdated": "1742988769"
+                "buildid": "18142241",
+                "timeupdated": "1744886376"
             },
             "prv2": {
                 "buildid": "16656249",
@@ -55,9 +60,14 @@
                 "timeupdated": "1737704562"
             },
             "test": {
-                "buildid": "17865057",
+                "buildid": "18142235",
                 "description": "Public",
-                "timeupdated": "1742983610"
+                "timeupdated": "1744884505"
+            },
+            "v1.4.2": {
+                "buildid": "17794957",
+                "description": "Version 1.4.2",
+                "timeupdated": "1744107840"
             }
         },
         "privatebranches": "1"
