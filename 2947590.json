@@ -4,8 +4,8 @@
     "name": "Deep Desktop",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28266717",
-    "update_time": "2025-04-02 19:09:50",
+    "change_number": "28449639",
+    "update_time": "2025-04-13 09:38:10",
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "200164736"
                 },
                 "beta": {
-                    "gid": "3731453650348189218",
-                    "size": "351821313",
-                    "download": "200163072"
+                    "gid": "661551677141710338",
+                    "size": "351821185",
+                    "download": "200163136"
                 },
                 "1.1.0": {
                     "gid": "8071513948133557547",
@@ -80,9 +80,9 @@
                 "timeupdated": "1738264424"
             },
             "beta": {
-                "buildid": "17953455",
+                "buildid": "18087046",
                 "description": "Beta branch",
-                "timeupdated": "1743592170"
+                "timeupdated": "1744508271"
             },
             "1.1.0": {
                 "buildid": "15880915",
