@@ -4,8 +4,8 @@
     "name": "Saint Kotar",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28230291",
-    "update_time": "2025-03-31 22:50:51",
+    "change_number": "28355363",
+    "update_time": "2025-04-08 07:15:52",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian",
         "hasdepotsindlc": "1",
@@ -32,8 +32,7 @@
                     "size": "9593883347",
                     "download": "3203761904"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1358533": {
             "config": {
@@ -45,8 +44,7 @@
                     "size": "9548807438",
                     "download": "3171300576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
