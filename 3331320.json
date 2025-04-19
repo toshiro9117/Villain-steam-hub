@@ -4,8 +4,8 @@
     "name": "Back in Service: a Metro Driver",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28296156",
-    "update_time": "2025-04-04 04:10:27",
+    "change_number": "28506233",
+    "update_time": "2025-04-16 18:47:58",
     "depot": {
         "228989": {
             "config": {
@@ -45,8 +45,7 @@
                     "size": "4422819680",
                     "download": "3640930240"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
