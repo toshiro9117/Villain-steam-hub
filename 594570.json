@@ -4,8 +4,8 @@
     "name": "Total War: WARHAMMER II",
     "schinese_name": "全面战争：战锤2",
     "isfreeapp": "0",
-    "change_number": "28335103",
-    "update_time": "2025-04-07 03:27:09",
+    "change_number": "28455961",
+    "update_time": "2025-04-14 03:21:38",
     "depot": {
         "workshopdepot": "594570",
         "228983": {
@@ -1520,6 +1520,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a26c9db4d67ccf1e4b3c861549ed466dcc2dc24258bd269db3fffbfdb6ec1cd1"
     }
 }
