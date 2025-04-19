@@ -4,24 +4,24 @@
     "name": "Tainted Grail: The Fall of Avalon",
     "schinese_name": "污痕圣杯：阿瓦隆的陨落",
     "isfreeapp": "0",
-    "change_number": "28339273",
-    "update_time": "2025-04-07 12:17:35",
+    "change_number": "28546702",
+    "update_time": "2025-04-18 17:30:45",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian",
         "1466062": {
             "manifests": {
                 "public": {
-                    "gid": "3441677060858708670",
-                    "size": "32384477166",
-                    "download": "15899890976"
+                    "gid": "580007093618144158",
+                    "size": "32433976668",
+                    "download": "15933198960"
                 }
             },
             "decryptionkey": "b164844c9d1dcef4202a397a747eff0fc24b75b5553e21bebbd7e86042d94bca"
         },
         "branches": {
             "public": {
-                "buildid": "17972530",
-                "timeupdated": "1743783357"
+                "buildid": "18117680",
+                "timeupdated": "1744805342"
             }
         },
         "privatebranches": "1"
