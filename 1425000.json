@@ -4,8 +4,8 @@
     "name": "Endless Alice",
     "schinese_name": "无尽爱丽丝",
     "isfreeapp": "0",
-    "change_number": "28345340",
-    "update_time": "2025-04-07 20:18:08",
+    "change_number": "28549065",
+    "update_time": "2025-04-18 20:12:53",
     "depot": {
         "baselanguages": "tchinese",
         "hasdepotsindlc": "0",
@@ -26,14 +26,14 @@
         "1425001": {
             "manifests": {
                 "public": {
-                    "gid": "6887922439859482246",
-                    "size": "6085059594",
-                    "download": "5728836208"
+                    "gid": "3415995614681507293",
+                    "size": "6085127061",
+                    "download": "5728845472"
                 },
                 "alice_beta": {
-                    "gid": "211325241291132550",
-                    "size": "6083420744",
-                    "download": "5727675680"
+                    "gid": "1547116303805844185",
+                    "size": "6279879868",
+                    "download": "5921923008"
                 },
                 "rollback": {
                     "gid": "4047649769734902521",
@@ -45,13 +45,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17950265",
-                "timeupdated": "1743576384"
+                "buildid": "18107163",
+                "timeupdated": "1744684137"
             },
             "alice_beta": {
-                "buildid": "17941573",
+                "buildid": "18153521",
                 "description": "public beta test",
-                "timeupdated": "1743521538"
+                "timeupdated": "1744958015"
             },
             "rollback": {
                 "buildid": "17820415",
