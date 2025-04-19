@@ -4,8 +4,8 @@
     "name": "Dead Soul TowerDefense:Shadow Labyrinth",
     "schinese_name": "亡魂塔防:暗影迷宫",
     "isfreeapp": "0",
-    "change_number": "28321765",
-    "update_time": "2025-04-05 16:07:06",
+    "change_number": "28443204",
+    "update_time": "2025-04-12 17:39:56",
     "depot": {
         "3082691": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4885348902364609028",
-                    "size": "590745121",
-                    "download": "175711648"
+                    "gid": "119138535749089222",
+                    "size": "590756858",
+                    "download": "175728464"
                 }
             },
             "decryptionkey": "58ddc2020aa64a62f40cfa6a53ccf9a31f194f9c22f7687452c1ae63a1479984"
         },
         "branches": {
             "public": {
-                "buildid": "17994468",
-                "timeupdated": "1743840419"
+                "buildid": "18019581",
+                "timeupdated": "1744077734"
             }
         }
     }
