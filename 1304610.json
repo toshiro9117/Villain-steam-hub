@@ -1,0 +1,42 @@
+{
+    "appid": "1304610",
+    "type": "Game",
+    "name": "Lab Rat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28547978",
+    "update_time": "2025-04-18 18:53:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1304611": {
+            "manifests": {
+                "public": {
+                    "gid": "4426789386371155798",
+                    "size": "1513198054",
+                    "download": "1246566512"
+                }
+            },
+            "decryptionkey": "9a59d57bbb3386ba82b7d5136c5168cb53e058bb7b9d566a76f3e0e77c743417"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18160691",
+                "timeupdated": "1745000177"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
