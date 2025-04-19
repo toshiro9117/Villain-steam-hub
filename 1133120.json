@@ -4,8 +4,8 @@
     "name": "Ecosystem",
     "schinese_name": "生态系统",
     "isfreeapp": "0",
-    "change_number": "28323698",
-    "update_time": "2025-04-05 21:16:54",
+    "change_number": "28451152",
+    "update_time": "2025-04-13 14:55:21",
     "depot": {
         "workshopdepot": "1133120",
         "1133121": {
@@ -49,6 +49,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a44a947b5100f6151c521b78b05e220472a60395126d3e417de89927deb48cbd"
     }
 }
