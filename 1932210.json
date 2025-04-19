@@ -4,25 +4,25 @@
     "name": "Takara Cards",
     "schinese_name": "宝卡太空龙",
     "isfreeapp": "0",
-    "change_number": "28217855",
-    "update_time": "2025-03-31 04:02:17",
+    "change_number": "28514204",
+    "update_time": "2025-04-17 02:23:17",
     "depot": {
         "1932211": {
             "manifests": {
                 "public": {
+                    "gid": "3220256471608636773",
+                    "size": "677633016",
+                    "download": "204984992"
+                },
+                "old_stable": {
                     "gid": "4044230425005173424",
                     "size": "677442184",
                     "download": "204914800"
                 },
-                "old_stable": {
-                    "gid": "6444796285885788590",
-                    "size": "677440600",
-                    "download": "204914176"
-                },
                 "open_beta": {
-                    "gid": "119225059656710813",
-                    "size": "677624024",
-                    "download": "204984048"
+                    "gid": "3220256471608636773",
+                    "size": "677633016",
+                    "download": "204984992"
                 }
             },
             "decryptionkey": "e9188b890dcb89bedea898c293e931705c7db2f8f280b7dbadebd952fa5ba30c"
@@ -70,23 +70,22 @@
                     "size": "34492936",
                     "download": "10859600"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17311711",
-                "timeupdated": "1741020374"
+                "buildid": "18074748",
+                "timeupdated": "1744806902"
             },
             "old_stable": {
-                "buildid": "17228532",
+                "buildid": "17311711",
                 "description": "Older stable releases",
-                "timeupdated": "1741019389"
+                "timeupdated": "1744806933"
             },
             "open_beta": {
-                "buildid": "17754524",
+                "buildid": "18074748",
                 "description": "Open beta for players",
-                "timeupdated": "1742230378"
+                "timeupdated": "1744806862"
             }
         },
         "privatebranches": "1"
