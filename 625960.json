@@ -4,8 +4,8 @@
     "name": "Stoneshard",
     "schinese_name": "紫色晶石",
     "isfreeapp": "0",
-    "change_number": "28296163",
-    "update_time": "2025-04-04 04:11:48",
+    "change_number": "28544913",
+    "update_time": "2025-04-18 15:38:20",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5017194891853916107",
-                    "size": "582165099",
-                    "download": "315519920"
+                    "gid": "3718360537777775658",
+                    "size": "582172139",
+                    "download": "315489968"
                 },
                 "0.5.7.8": {
                     "gid": "2525867984631847641",
@@ -66,9 +66,9 @@
                     "download": "247551360"
                 },
                 "modbranch": {
-                    "gid": "2406307178213202656",
-                    "size": "477750519",
-                    "download": "299144416"
+                    "gid": "9061690556774008641",
+                    "size": "477747575",
+                    "download": "299139936"
                 }
             },
             "decryptionkey": "afd931e4303e3aa3d3d4c8d1d4f432b4095db76644eaf715d0703900ad65c562"
@@ -144,9 +144,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4905821619937184831",
-                    "size": "474425894",
-                    "download": "297466992"
+                    "gid": "6803137421680575301",
+                    "size": "474422950",
+                    "download": "297465728"
                 },
                 "0.5.7.8.18": {
                     "gid": "8825422588154442435",
@@ -198,8 +198,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17969558",
-                "timeupdated": "1743682159"
+                "buildid": "18151208",
+                "timeupdated": "1744934244"
             },
             "0.5.7.8": {
                 "buildid": "4654278",
@@ -247,9 +247,9 @@
                 "timeupdated": "1734360003"
             },
             "modbranch": {
-                "buildid": "17969543",
+                "buildid": "18154845",
                 "description": "modbranch",
-                "timeupdated": "1743682061"
+                "timeupdated": "1744961896"
             }
         },
         "privatebranches": "1"
