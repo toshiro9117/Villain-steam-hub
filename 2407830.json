@@ -4,8 +4,8 @@
     "name": "Trash Goblin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28231491",
-    "update_time": "2025-03-31 23:51:28",
+    "change_number": "28487861",
+    "update_time": "2025-04-15 21:31:49",
     "depot": {
         "2407831": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "569338360435170221",
-                    "size": "3092569904",
-                    "download": "611264864"
+                    "gid": "7337726086483274666",
+                    "size": "3487985728",
+                    "download": "689496800"
                 }
             },
             "decryptionkey": "ea23b0d0a0032c830f4a7465cffc83e39ed4632bf16182ddb029fadb0868cf80"
@@ -24,8 +24,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17364631",
-                "timeupdated": "1739966151"
+                "buildid": "18069640",
+                "timeupdated": "1744366468"
             }
         },
         "privatebranches": "1"
