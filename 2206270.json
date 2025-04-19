@@ -4,23 +4,23 @@
     "name": "Vampire Hunters",
     "schinese_name": "吸血鬼猎人",
     "isfreeapp": "0",
-    "change_number": "28122138",
-    "update_time": "2025-03-25 12:13:22",
+    "change_number": "28537506",
+    "update_time": "2025-04-18 04:21:04",
     "depot": {
         "2206271": {
             "manifests": {
                 "public": {
-                    "gid": "1020948415715320976",
-                    "size": "7401353342",
-                    "download": "1391385456"
+                    "gid": "7845776617457915",
+                    "size": "7401358866",
+                    "download": "1391391456"
                 }
             },
             "decryptionkey": "11e8eea29af28f571f677aafcf463630a492c3ecb8e9639d50ca1bd5657e0d3b"
         },
         "branches": {
             "public": {
-                "buildid": "17353160",
-                "timeupdated": "1739458875"
+                "buildid": "18026586",
+                "timeupdated": "1744304165"
             }
         },
         "privatebranches": "1"
