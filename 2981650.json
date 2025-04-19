@@ -4,8 +4,8 @@
     "name": "Shift 87",
     "schinese_name": "《轮班87》",
     "isfreeapp": "0",
-    "change_number": "28057153",
-    "update_time": "2025-03-21 02:06:28",
+    "change_number": "28512978",
+    "update_time": "2025-04-17 01:10:48",
     "depot": {
         "228990": {
             "config": {
@@ -49,8 +49,7 @@
                     "size": "7386265087",
                     "download": "2886799632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
