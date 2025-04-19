@@ -4,8 +4,8 @@
     "name": "Px2d",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28086733",
-    "update_time": "2025-03-22 19:41:48",
+    "change_number": "28450901",
+    "update_time": "2025-04-13 14:04:07",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4622526034979388947",
-                    "size": "53516753",
-                    "download": "9091856"
+                    "gid": "3730993588516590489",
+                    "size": "53515785",
+                    "download": "9091552"
                 }
             },
             "decryptionkey": "e1641eb0402fa3f6e6f7b8bbb017e0634c911b4fd44fd4127aa80812b62094e0"
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17820063",
-                "timeupdated": "1742643703"
+                "buildid": "18087981",
+                "timeupdated": "1744524242"
             }
         },
         "privatebranches": "1"
