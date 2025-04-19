@@ -4,8 +4,8 @@
     "name": "Sketchy's Contract",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28334230",
-    "update_time": "2025-04-07 01:32:37",
+    "change_number": "28540439",
+    "update_time": "2025-04-18 08:38:07",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4007137801437228108",
-                    "size": "10608856958",
-                    "download": "4590654656"
+                    "gid": "2371582629299951916",
+                    "size": "11170258003",
+                    "download": "4809213184"
                 }
             },
             "decryptionkey": "480fdb2c63d5aacc170025a90063437791a1cf181afafc2bc6ff5c13f7792983"
         },
         "branches": {
             "public": {
-                "buildid": "17138389",
-                "timeupdated": "1737926028"
+                "buildid": "18105592",
+                "timeupdated": "1744670867"
             }
         },
         "privatebranches": "1"
