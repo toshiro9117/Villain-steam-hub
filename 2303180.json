@@ -1,11 +1,11 @@
 {
     "appid": "2303180",
     "type": "Game",
-    "name": "Resoraki",
-    "schinese_name": "",
+    "name": "Resoraki: The Racing",
+    "schinese_name": "Resoraki: 赛车",
     "isfreeapp": "0",
-    "change_number": "27539176",
-    "update_time": "2025-02-19 01:35:39",
+    "change_number": "28356860",
+    "update_time": "2025-04-08 09:36:51",
     "depot": {
         "2303181": {
             "config": {
@@ -46,8 +46,7 @@
                     "size": "712260179",
                     "download": "504154768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2303184": {
             "config": {
@@ -60,8 +59,7 @@
                     "size": "689912782",
                     "download": "508473568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
