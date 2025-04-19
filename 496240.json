@@ -4,8 +4,8 @@
     "name": "Onward",
     "schinese_name": "进军",
     "isfreeapp": "0",
-    "change_number": "28291045",
-    "update_time": "2025-04-03 22:44:56",
+    "change_number": "28513829",
+    "update_time": "2025-04-17 02:01:44",
     "depot": {
         "496241": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5276616788839076753",
-                    "size": "28001123921",
-                    "download": "22469751584"
+                    "gid": "7108630409889910218",
+                    "size": "27437853227",
+                    "download": "22032826528"
                 },
                 "esports_branch": {
                     "gid": "5888557444486506719",
@@ -28,8 +28,8 @@
         "workshopdepot": "496240",
         "branches": {
             "public": {
-                "buildid": "17736328",
-                "timeupdated": "1742925696"
+                "buildid": "18101136",
+                "timeupdated": "1744826500"
             },
             "esports_branch": {
                 "buildid": "16063706",
@@ -38,6 +38,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "141da7704aa356f5073cea80d8e45e7828edddfb08b60f7cd3531b3d483d26c7"
     }
 }
