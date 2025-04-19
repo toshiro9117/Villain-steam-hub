@@ -4,15 +4,15 @@
     "name": "Pinball Spire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28255691",
-    "update_time": "2025-04-02 04:09:53",
+    "change_number": "28374542",
+    "update_time": "2025-04-09 05:50:58",
     "depot": {
         "2601941": {
             "manifests": {
                 "public": {
-                    "gid": "7304749755364813853",
-                    "size": "961031680",
-                    "download": "411382832"
+                    "gid": "3215399830279822135",
+                    "size": "960982100",
+                    "download": "411392208"
                 },
                 "version-1.0.04": {
                     "gid": "6220287243711747397",
@@ -63,14 +63,19 @@
                     "gid": "3941414187465250827",
                     "size": "1044319253",
                     "download": "416485024"
+                },
+                "version-1.02.00": {
+                    "gid": "7304749755364813853",
+                    "size": "961031680",
+                    "download": "411382832"
                 }
             },
             "decryptionkey": "abb367feaf3ec1d399531e980035a787956e55842fdc3bf1edde4bd385aacdfe"
         },
         "branches": {
             "public": {
-                "buildid": "17944804",
-                "timeupdated": "1743538189"
+                "buildid": "18032278",
+                "timeupdated": "1744149053"
             },
             "version-1.0.04": {
                 "buildid": "15960872",
@@ -121,6 +126,11 @@
                 "buildid": "16795609",
                 "description": "Old version",
                 "timeupdated": "1743538083"
+            },
+            "version-1.02.00": {
+                "buildid": "17944804",
+                "description": "Old version",
+                "timeupdated": "1744149031"
             }
         },
         "privatebranches": "1"
