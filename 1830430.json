@@ -4,8 +4,8 @@
     "name": "Grimoire Groves",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28229974",
-    "update_time": "2025-03-31 22:31:11",
+    "change_number": "28524448",
+    "update_time": "2025-04-17 16:10:14",
     "depot": {
         "1830431": {
             "manifests": {
@@ -17,6 +17,7 @@
             },
             "decryptionkey": "323e9cdda818b3cdd55e784fd31bd0adaf092f0aabcbaa7b2a0f6e4d46cce635"
         },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "17869158",
