@@ -4,8 +4,8 @@
     "name": "Wreckfest 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339617",
-    "update_time": "2025-04-07 13:10:25",
+    "change_number": "28543736",
+    "update_time": "2025-04-18 14:01:58",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1203191": {
             "manifests": {
                 "public": {
-                    "gid": "485322840294995969",
-                    "size": "12300665184",
-                    "download": "10675929696"
+                    "gid": "4741144713973319953",
+                    "size": "12300665652",
+                    "download": "10675929920"
                 }
             },
             "decryptionkey": "46aa2b5ac9dd960c2fb3808c8033df048fede7062052f754db267609ecbef621"
         },
         "branches": {
             "public": {
-                "buildid": "17986212",
-                "timeupdated": "1743781962"
+                "buildid": "18057194",
+                "timeupdated": "1744379165"
             }
         },
         "privatebranches": "1"
