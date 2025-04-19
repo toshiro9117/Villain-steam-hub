@@ -4,8 +4,8 @@
     "name": "Attack on Toys",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28210464",
-    "update_time": "2025-03-30 07:16:22",
+    "change_number": "28441580",
+    "update_time": "2025-04-12 13:27:31",
     "depot": {
         "workshopdepot": "1269690",
         "hasdepotsindlc": "1",
@@ -72,6 +72,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "f00d30daab6531dfb6d59f4fae4fff6cf377426da60408a0bc9b7f97f1d6a231"
     }
 }
