@@ -4,8 +4,8 @@
     "name": "Power Network Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333273",
-    "update_time": "2025-04-06 23:16:45",
+    "change_number": "28512095",
+    "update_time": "2025-04-17 00:19:05",
     "depot": {
         "2429931": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1984708966784559389",
-                    "size": "772669091",
-                    "download": "316358592"
+                    "gid": "2513631662154630978",
+                    "size": "785584989",
+                    "download": "320259280"
                 }
             },
             "decryptionkey": "416795b8c9f34eb39e8d86f38f00c74dabc37ba04b7367601483890ec357f7ea"
@@ -28,12 +28,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9164870778786361768",
-                    "size": "771623258",
-                    "download": "319951200"
+                    "gid": "5220282622251233594",
+                    "size": "784536333",
+                    "download": "323825040"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2429933": {
             "config": {
@@ -42,17 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2397999433797305266",
-                    "size": "812784789",
-                    "download": "323856512"
+                    "gid": "8404948563712599189",
+                    "size": "825997127",
+                    "download": "327901392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17929742",
-                "timeupdated": "1743451064"
+                "buildid": "18131573",
+                "timeupdated": "1744820339"
             }
         }
     }
