@@ -4,8 +4,8 @@
     "name": "Drug Dealer Simulator",
     "schinese_name": "毒枭模拟器",
     "isfreeapp": "0",
-    "change_number": "28345302",
-    "update_time": "2025-04-07 20:16:17",
+    "change_number": "28514336",
+    "update_time": "2025-04-17 02:31:12",
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8829775680058046006",
-                    "size": "11413862011",
-                    "download": "11251644736"
+                    "gid": "1106688279835681068",
+                    "size": "11442678541",
+                    "download": "11280547120"
                 },
                 "original_visuals": {
                     "gid": "7970087280892618920",
@@ -41,8 +41,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16444301",
-                "timeupdated": "1731938360"
+                "buildid": "18126499",
+                "timeupdated": "1744808695"
             },
             "original_visuals": {
                 "buildid": "10071427",
