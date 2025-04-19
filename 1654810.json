@@ -1,0 +1,78 @@
+{
+    "appid": "1654810",
+    "type": "Game",
+    "name": "Mix Universe",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28534491",
+    "update_time": "2025-04-18 01:14:31",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1654812": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1667726307433197258",
+                    "size": "3845337749",
+                    "download": "3008512752"
+                },
+                "experimental": {
+                    "gid": "2213961100834205738",
+                    "size": "3449909367",
+                    "download": "2568047712"
+                }
+            },
+            "decryptionkey": "03c9ba399cdd3402d15c6f6cb3911cd1d38a0ee2c9c4c2441680b25c6711c1c6"
+        },
+        "1654811": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5452449874326978555",
+                    "size": "3492939425",
+                    "download": "2748961984"
+                },
+                "experimental": {
+                    "gid": "3129824696045703925",
+                    "size": "3134546914",
+                    "download": "2342956240"
+                }
+            }
+        },
+        "workshopdepot": "1654810",
+        "branches": {
+            "public": {
+                "buildid": "18147022",
+                "timeupdated": "1744910066"
+            },
+            "experimental": {
+                "buildid": "13942665",
+                "description": "Used for the public to try things out.",
+                "timeupdated": "1712199064"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
