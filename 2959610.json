@@ -4,8 +4,8 @@
     "name": "Cabin Crew Life Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342517",
-    "update_time": "2025-04-07 17:17:43",
+    "change_number": "28541743",
+    "update_time": "2025-04-18 10:40:55",
     "depot": {
         "2959611": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3327799474263765254",
-                    "size": "2512353547",
-                    "download": "1672291536"
+                    "gid": "1827877711344407292",
+                    "size": "2513342243",
+                    "download": "1671956528"
                 }
             },
             "decryptionkey": "a8a8ab2bb84a026b16b49e2cd4b28c2a6c2b59fa7840ad3e88fc04cc5f6e9c0f"
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "445891448964813629",
-                    "size": "2581345355",
-                    "download": "1706032160"
+                    "gid": "106743907202575350",
+                    "size": "2582249779",
+                    "download": "1705626608"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17996787",
-                "timeupdated": "1743870554"
+                "buildid": "18084299",
+                "timeupdated": "1744472241"
             }
         },
         "privatebranches": "1"
