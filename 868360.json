@@ -4,8 +4,8 @@
     "name": "Project Hospital",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28346680",
-    "update_time": "2025-04-07 21:44:01",
+    "change_number": "28409430",
+    "update_time": "2025-04-10 22:25:06",
     "depot": {
         "workshopdepot": "868360",
         "hasdepotsindlc": "1",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6917584631194619847",
-                    "size": "981861391",
-                    "download": "205536624"
+                    "gid": "7178818363705911350",
+                    "size": "980388134",
+                    "download": "205217024"
                 },
                 "beta": {
                     "gid": "4600176697272203858",
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7356314591747967312",
-                    "size": "992516835",
-                    "download": "206508704"
+                    "gid": "1555285924497261809",
+                    "size": "992324426",
+                    "download": "206426816"
                 },
                 "beta": {
                     "gid": "8617808638500037580",
@@ -132,9 +132,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4523064525408230262",
-                    "size": "993507094",
-                    "download": "206687504"
+                    "gid": "3250394954169298989",
+                    "size": "993312245",
+                    "download": "206604096"
                 },
                 "beta": {
                     "gid": "7023061070600119097",
@@ -230,8 +230,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13935422",
-                "timeupdated": "1712148815"
+                "buildid": "18012061",
+                "timeupdated": "1744295101"
             },
             "beta": {
                 "buildid": "3642026",
@@ -275,6 +275,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ef496df548ac2ac235ec9f63c171bd7fe0c6654780bf83aa26a14d829cefd73e"
     }
 }
