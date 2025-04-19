@@ -4,23 +4,23 @@
     "name": "Level Devil",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328691",
-    "update_time": "2025-04-06 10:16:53",
+    "change_number": "28538849",
+    "update_time": "2025-04-18 06:13:22",
     "depot": {
         "3242751": {
             "manifests": {
                 "public": {
-                    "gid": "5601377627176424597",
-                    "size": "68577366",
-                    "download": "26809696"
+                    "gid": "8111135775707878933",
+                    "size": "56704120",
+                    "download": "14959200"
                 }
             },
             "decryptionkey": "20715373400230b7184afdfb64c33c5a97093edd019c92ada23c16db734de7b3"
         },
         "branches": {
             "public": {
-                "buildid": "17903801",
-                "timeupdated": "1743194019"
+                "buildid": "18150297",
+                "timeupdated": "1744927997"
             }
         }
     }
