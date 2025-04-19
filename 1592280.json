@@ -4,8 +4,8 @@
     "name": "Selaco",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28327342",
-    "update_time": "2025-04-06 06:12:43",
+    "change_number": "28541853",
+    "update_time": "2025-04-18 10:51:52",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1592280",
@@ -35,6 +35,11 @@
                     "gid": "7889409428135261926",
                     "size": "1171696584",
                     "download": "1165978544"
+                },
+                "nightly": {
+                    "gid": "1805225147038797455",
+                    "size": "119",
+                    "download": "160"
                 },
                 "publicbetabranch": {
                     "gid": "1805225147038797455",
@@ -94,6 +99,11 @@
                     "size": "1198313006",
                     "download": "1168416880"
                 },
+                "nightly": {
+                    "gid": "7016553806942110915",
+                    "size": "119",
+                    "download": "160"
+                },
                 "publicbetabranch": {
                     "gid": "7016553806942110915",
                     "size": "119",
@@ -129,12 +139,16 @@
                     "size": "1198313006",
                     "download": "1168416880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1592283": {
             "manifests": {
                 "public": {
+                    "gid": "3360254732315248983",
+                    "size": "119",
+                    "download": "160"
+                },
+                "nightly": {
                     "gid": "3360254732315248983",
                     "size": "119",
                     "download": "160"
@@ -173,10 +187,15 @@
                     "size": "269431724",
                     "download": "255039552"
                 },
+                "nightly": {
+                    "gid": "2893659601004730274",
+                    "size": "49217672",
+                    "download": "25819440"
+                },
                 "publicbetabranch": {
-                    "gid": "4463610628230077984",
-                    "size": "48935375",
-                    "download": "25759872"
+                    "gid": "2082386257046920423",
+                    "size": "25996699",
+                    "download": "12286544"
                 },
                 "v0.83e": {
                     "gid": "2735229461727600988",
@@ -222,6 +241,11 @@
                     "size": "78026255",
                     "download": "52869152"
                 },
+                "nightly": {
+                    "gid": "8480564893533401905",
+                    "size": "39717666",
+                    "download": "15546224"
+                },
                 "publicbetabranch": {
                     "gid": "7315607498132254290",
                     "size": "39659066",
@@ -252,25 +276,29 @@
                     "size": "65857524",
                     "download": "40413856"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1592286": {
             "manifests": {
                 "public": {
-                    "gid": "5750184303962064593",
-                    "size": "1249789612",
-                    "download": "1237010560"
+                    "gid": "8278966151067120054",
+                    "size": "1250381717",
+                    "download": "1237615632"
                 },
                 "nextfest_demo": {
                     "gid": "5404565758744658604",
                     "size": "0",
                     "download": "0"
                 },
+                "nightly": {
+                    "gid": "8070399667731969374",
+                    "size": "1250019959",
+                    "download": "1237322720"
+                },
                 "publicbetabranch": {
-                    "gid": "2389067654842195075",
-                    "size": "1250381533",
-                    "download": "1237615120"
+                    "gid": "8674044097316418018",
+                    "size": "1249983455",
+                    "download": "1237222528"
                 },
                 "v0.83e": {
                     "gid": "2779831128478491081",
@@ -302,8 +330,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17939838",
-                "timeupdated": "1743513696"
+                "buildid": "18015197",
+                "timeupdated": "1744052961"
             },
             "early_access_launch_version": {
                 "buildid": "14555398",
@@ -315,10 +343,15 @@
                 "description": "Nextfest 2022 Demo",
                 "timeupdated": "1731423086"
             },
+            "nightly": {
+                "buildid": "18163981",
+                "description": "Frequent updates, most unstable",
+                "timeupdated": "1745027852"
+            },
             "publicbetabranch": {
-                "buildid": "17998384",
-                "description": "Engine Test [Unstable]",
-                "timeupdated": "1743891159"
+                "buildid": "18075836",
+                "description": "Beta Testing upcoming features",
+                "timeupdated": "1744393172"
             },
             "v0.83e": {
                 "buildid": "14878676",
