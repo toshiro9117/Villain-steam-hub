@@ -4,8 +4,8 @@
     "name": "Garry's Mod Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28314691",
-    "update_time": "2025-04-05 02:24:57",
+    "change_number": "28536509",
+    "update_time": "2025-04-18 03:17:16",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "2172993632"
                 },
                 "dev": {
-                    "gid": "1288529694920994553",
-                    "size": "3794842455",
-                    "download": "2172994608"
+                    "gid": "4775625929620436407",
+                    "size": "3794938107",
+                    "download": "2172915280"
                 },
                 "prerelease": {
                     "gid": "6018217738329257558",
@@ -70,9 +70,9 @@
                     "download": "2172993632"
                 },
                 "x86-64": {
-                    "gid": "3188504667341233606",
-                    "size": "3792650306",
-                    "download": "2172723488"
+                    "gid": "5094483936208387453",
+                    "size": "3792745958",
+                    "download": "2172643328"
                 }
             },
             "decryptionkey": "16d05ffea072743595f0264ffa4debedeae6ff79d199986fdae9c7231aa8fbc3"
@@ -89,9 +89,9 @@
                     "download": "20559568"
                 },
                 "dev": {
-                    "gid": "1098879372271003906",
-                    "size": "58777888",
-                    "download": "20554336"
+                    "gid": "7372853767498444337",
+                    "size": "58758944",
+                    "download": "20559808"
                 },
                 "prerelease": {
                     "gid": "8586975664545356160",
@@ -99,9 +99,9 @@
                     "download": "20559568"
                 },
                 "x86-64": {
-                    "gid": "4334656661669665677",
-                    "size": "426054353",
-                    "download": "152464800"
+                    "gid": "3961432585987460267",
+                    "size": "426018513",
+                    "download": "152456560"
                 }
             },
             "decryptionkey": "c107efebc279afee4ff826ad0696947deab9b98bbf6621645cbdcecace01d9e0"
@@ -118,9 +118,9 @@
                     "download": "33617536"
                 },
                 "dev": {
-                    "gid": "6795295105777044194",
-                    "size": "120324973",
-                    "download": "33619040"
+                    "gid": "8054439713674954355",
+                    "size": "120325347",
+                    "download": "33629136"
                 },
                 "prerelease": {
                     "gid": "2498902166196267651",
@@ -128,12 +128,11 @@
                     "download": "33617536"
                 },
                 "x86-64": {
-                    "gid": "4375394599360658462",
-                    "size": "227965487",
-                    "download": "66045584"
+                    "gid": "6248687499282502994",
+                    "size": "227962903",
+                    "download": "66035920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "0",
         "branches": {
@@ -142,9 +141,9 @@
                 "timeupdated": "1743184934"
             },
             "dev": {
-                "buildid": "17985502",
+                "buildid": "18133484",
                 "description": "Development Branch",
-                "timeupdated": "1743773147"
+                "timeupdated": "1744829723"
             },
             "prerelease": {
                 "buildid": "17902115",
@@ -152,9 +151,9 @@
                 "timeupdated": "1743184771"
             },
             "x86-64": {
-                "buildid": "17989221",
+                "buildid": "18148624",
                 "description": "Testing 64-bit builds",
-                "timeupdated": "1743791093"
+                "timeupdated": "1744917431"
             }
         },
         "workshopdepotdecryptionkey": ""
