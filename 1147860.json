@@ -4,23 +4,23 @@
     "name": "UFO 50",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28276642",
-    "update_time": "2025-04-03 05:10:29",
+    "change_number": "28351597",
+    "update_time": "2025-04-08 02:27:31",
     "depot": {
         "1147861": {
             "manifests": {
                 "public": {
-                    "gid": "3836246124801047345",
-                    "size": "411708890",
-                    "download": "322997104"
+                    "gid": "2173511043597501160",
+                    "size": "411709402",
+                    "download": "322990416"
                 }
             },
             "decryptionkey": "fc4b85d767f513b33d22062a73c72e11855638912726e6927cb6bbc79cc698f2"
         },
         "branches": {
             "public": {
-                "buildid": "17748075",
-                "timeupdated": "1742195192"
+                "buildid": "17960764",
+                "timeupdated": "1744050447"
             }
         },
         "privatebranches": "1"
