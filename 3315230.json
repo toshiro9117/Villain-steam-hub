@@ -1,0 +1,54 @@
+{
+    "appid": "3315230",
+    "type": "Game",
+    "name": "Rocket Squad: Infinity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28549668",
+    "update_time": "2025-04-18 21:01:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3315231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7730582496822530155",
+                    "size": "8556191637",
+                    "download": "5906149824"
+                }
+            },
+            "decryptionkey": "6844aec7149d9d1f3910405a9d6f6ad2eb78b1bba2cf892e26e7ea076d4042fc"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18156156",
+                "timeupdated": "1744970136"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
