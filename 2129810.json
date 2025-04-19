@@ -4,8 +4,8 @@
     "name": "Reignbreaker",
     "schinese_name": "破御者",
     "isfreeapp": "0",
-    "change_number": "28340963",
-    "update_time": "2025-04-07 15:30:02",
+    "change_number": "28509670",
+    "update_time": "2025-04-16 22:11:20",
     "depot": {
         "2129811": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8743339176677131009",
-                    "size": "1688928525",
-                    "download": "1175214640"
+                    "gid": "6807151622222078735",
+                    "size": "1650086136",
+                    "download": "1146493040"
                 }
             },
             "decryptionkey": "20dba37e5797459ed50a029a5a621d34d7c41415fdd11aaf605cd8d948046b60"
         },
         "branches": {
             "public": {
-                "buildid": "17753149",
-                "timeupdated": "1742224678"
+                "buildid": "18111100",
+                "timeupdated": "1744711766"
             }
         },
         "privatebranches": "1"
