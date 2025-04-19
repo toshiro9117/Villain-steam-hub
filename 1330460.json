@@ -4,8 +4,8 @@
     "name": "Becastled",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28312430",
-    "update_time": "2025-04-05 00:12:34",
+    "change_number": "28541529",
+    "update_time": "2025-04-18 10:20:54",
     "depot": {
         "1330461": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6256756317374310749",
-                    "size": "949600649",
-                    "download": "316411600"
+                    "gid": "8906636895435139290",
+                    "size": "950801593",
+                    "download": "316831088"
                 },
                 "old_saves_version": {
                     "gid": "3670036890248594296",
@@ -30,8 +30,8 @@
         "workshopdepot": "1330460",
         "branches": {
             "public": {
-                "buildid": "17987638",
-                "timeupdated": "1743783060"
+                "buildid": "18148583",
+                "timeupdated": "1744917625"
             },
             "old_saves_version": {
                 "buildid": "13349793",
@@ -40,6 +40,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0b6bd5f8a9d69ab3bb3d7b7c2a60509fec82e0e8618062c62230785f71e63733"
     }
 }
