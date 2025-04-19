@@ -4,8 +4,8 @@
     "name": "Angelstruck",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28309592",
-    "update_time": "2025-04-04 21:42:13",
+    "change_number": "28388408",
+    "update_time": "2025-04-09 22:44:05",
     "depot": {
         "2576461": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8000522604416828063",
-                    "size": "241530557",
-                    "download": "132468352"
+                    "gid": "2065499602465769919",
+                    "size": "241660798",
+                    "download": "132500192"
                 },
                 "beta": {
                     "gid": "2065499602465769919",
@@ -40,13 +40,12 @@
                     "size": "313786536",
                     "download": "149111088"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "15798713",
-                "timeupdated": "1727118662"
+                "buildid": "17985712",
+                "timeupdated": "1744209255"
             },
             "beta": {
                 "buildid": "17985712",
