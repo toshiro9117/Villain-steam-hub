@@ -4,8 +4,8 @@
     "name": "Beat Hazard 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28068413",
-    "update_time": "2025-03-21 17:27:05",
+    "change_number": "28545257",
+    "update_time": "2025-04-18 16:00:42",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1493521": {
             "manifests": {
                 "public": {
-                    "gid": "5890731482719122531",
-                    "size": "3291344969",
-                    "download": "1672517616"
+                    "gid": "3327405229941252462",
+                    "size": "3291349298",
+                    "download": "1672529040"
                 }
             },
             "decryptionkey": "771a115ee311d564b716046e3c28e507f053d9b9296618370bad24abf6c70793"
         },
         "branches": {
             "public": {
-                "buildid": "17806539",
-                "timeupdated": "1742549218"
+                "buildid": "18154838",
+                "timeupdated": "1744961973"
             }
         }
     }
