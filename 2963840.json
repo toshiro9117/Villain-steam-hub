@@ -4,8 +4,8 @@
     "name": "EA SPORTS FC™ 25 SHOWCASE",
     "schinese_name": "《EA SPORTS FC™ 25》SHOWCASE",
     "isfreeapp": "0",
-    "change_number": "28317000",
-    "update_time": "2025-04-05 05:24:25",
+    "change_number": "28513235",
+    "update_time": "2025-04-17 01:24:21",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,latam",
         "2963841": {
@@ -15,17 +15,19 @@
                     "size": "20",
                     "download": "80"
                 }
-            }
+            },
+            "decryptionkey": "c1cace5e51644cee948b47effcf938011332a34f540219a0465add8f400e4492"
         },
         "2669321": {
             "manifests": {
                 "public": {
-                    "gid": "9202271071347019804",
-                    "size": "52406497449",
-                    "download": "50856621552"
+                    "gid": "2326838125008917846",
+                    "size": "52600643437",
+                    "download": "51039486368"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "76cc370335c7af8b640b995822f72e2a526e593b8b0e415ffee6b14269c110f2"
         },
         "2669322": {
             "config": {
@@ -33,12 +35,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8442747806353216785",
-                    "size": "4062970029",
+                    "gid": "830577855948525405",
+                    "size": "4062970030",
                     "download": "3553456144"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "dc956f808120a3be1d76100275434df05c8d8cfc823a248be5a43eebec44f640"
         },
         "2669323": {
             "config": {
@@ -46,12 +49,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4696793840552885187",
+                    "gid": "1520387557502145388",
                     "size": "5429624088",
                     "download": "4764203840"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "120647853dff26407d7fc2abde8c0d0a0ac57092f50fec65af5dc93c740412b9"
         },
         "2669324": {
             "config": {
@@ -59,12 +63,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3719954295796537218",
-                    "size": "5146057696",
+                    "gid": "8536207976978706973",
+                    "size": "5146057704",
                     "download": "4519968880"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "0ba16b84bb418aceaeeba17a8040aa0784fb0babb34201b7b474f006e2fcfa1d"
         },
         "2669325": {
             "config": {
@@ -72,12 +77,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9118385319216988382",
-                    "size": "5538153590",
+                    "gid": "8733227186215620339",
+                    "size": "5538153598",
                     "download": "4862331792"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "fede776f29a56961ee68ef6293bfaf8aab8aa9a2965b2779853977c78e4e9515"
         },
         "2669326": {
             "config": {
@@ -85,12 +91,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7064180177667662194",
-                    "size": "5169034724",
-                    "download": "4537150368"
+                    "gid": "981630518184320783",
+                    "size": "5169034772",
+                    "download": "4537150384"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "99c851e993373cec85cbde94fc6b81527d64cb7425ec494292ed271bb6698544"
         },
         "2669327": {
             "config": {
@@ -98,12 +105,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5771221115811571977",
-                    "size": "5493634139",
+                    "gid": "567950101164162518",
+                    "size": "5493634137",
                     "download": "4821826032"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "31970a047d64971c2ea8b19bbe117fa974d66424980227a1d7d2d6262b5dbe69"
         },
         "2669328": {
             "config": {
@@ -111,12 +119,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4567779551203512200",
+                    "gid": "2556992773581837877",
                     "size": "5406024748",
                     "download": "4759683424"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "afda87b077dfe9ffd05d8d16286646f99eefd1d5317eea27397b157a51513773"
         },
         "2669329": {
             "config": {
@@ -124,12 +133,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8821017025736096413",
+                    "gid": "4504420259936259338",
                     "size": "4062976849",
                     "download": "3553459632"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "cba103955aec236df9b4aa2a729060e69f945913d41fe741d48bd11edfcf6faa"
         },
         "2680691": {
             "config": {
@@ -137,12 +147,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4037115771922172958",
-                    "size": "5310371261",
+                    "gid": "6583256006230735684",
+                    "size": "5310371301",
                     "download": "4700322272"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "7e336f037173d9491be5ab708032468f7873ef3aa10d66c71592c68f0aa9bb28"
         },
         "2680692": {
             "config": {
@@ -150,12 +161,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5547995800444571777",
+                    "gid": "3184115574107472110",
                     "size": "5709911217",
                     "download": "5002838000"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "45bda3ea04f65dab8d6c879a4425a28a7fd425e307d46f3c8fd6a1f54e49e8f7"
         },
         "2680693": {
             "config": {
@@ -163,12 +175,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3816069221255076582",
-                    "size": "4062992540",
+                    "gid": "1494895251905665246",
+                    "size": "4062992541",
                     "download": "3553464144"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "3a23a69dc514223a590eead3190031e66bf74fdfb518f4241da1980f9aa3b27d"
         },
         "2680694": {
             "config": {
@@ -176,12 +189,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2736591979992553885",
-                    "size": "5627217697",
+                    "gid": "2469703607239484498",
+                    "size": "5627217695",
                     "download": "4960665664"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "3efa7e40b483eafe6dd1ab0d630a534f4a59efc80f5a93f61d06628210886916"
         },
         "2680695": {
             "config": {
@@ -189,12 +203,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1464663970988532167",
-                    "size": "4062997468",
-                    "download": "3553463584"
+                    "gid": "6514921008506910030",
+                    "size": "4062997470",
+                    "download": "3553463568"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "b0e4fd739905fbb7a8ae785a9e8e342b12abc7aa375954786c5e8f25687ccdca"
         },
         "2680696": {
             "config": {
@@ -202,12 +217,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6315589745203426337",
-                    "size": "5755344872",
+                    "gid": "77168549621723145",
+                    "size": "5755344874",
                     "download": "5076227136"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "8c434a5108df457d72c7f6472b97d3658e6d727d57ce5c2db7f8fb5676e70845"
         },
         "2680697": {
             "config": {
@@ -215,12 +231,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7631506551451841",
-                    "size": "4062997777",
+                    "gid": "4394525932239993180",
+                    "size": "4062997779",
                     "download": "3553462944"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "e14e95bfcc27a1a58ce4841f1e94b0ab0a351fcf7cf3a4383a3a88f613148d55"
         },
         "2680698": {
             "config": {
@@ -228,12 +245,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "521653420232616807",
+                    "gid": "958532819150343413",
                     "size": "4063002811",
                     "download": "3553463920"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "05b460cb4261fe5841ae3420742eb2d457e4a26534007281ccbad624733331e8"
         },
         "2680699": {
             "config": {
@@ -241,12 +259,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7251070268884236387",
+                    "gid": "3073173922023063345",
                     "size": "4063029350",
                     "download": "3553469200"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "fd5aafb61688f4719e52cd5424b0541c0f80136f0cf186f1a0c66345ab9534a2"
         },
         "2729900": {
             "config": {
@@ -254,12 +273,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1467721550386033872",
-                    "size": "4062996717",
+                    "gid": "4234783744737384649",
+                    "size": "4062996720",
                     "download": "3553464608"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "cd5183550e52913bb9bf1d40ff2c4de7e7e577cd230d15ada99473f6c367559f"
         },
         "2729901": {
             "config": {
@@ -267,12 +287,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7440508923660495915",
-                    "size": "5897251636",
-                    "download": "5193034464"
+                    "gid": "1661221510124025531",
+                    "size": "5897251625",
+                    "download": "5193034448"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "21634bae2b1aed165f2d959a5c4b16bcdeabc02b6f57bae0769628aef8708fe2"
         },
         "2729902": {
             "config": {
@@ -280,12 +301,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2431365729981875841",
-                    "size": "5789426208",
+                    "gid": "3139295778682683298",
+                    "size": "5789426209",
                     "download": "5097828496"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "1aa3d3f428af74beed3aa55d0688db59e4ca40652a97044e9878762c5d4135e3"
         },
         "2729903": {
             "config": {
@@ -293,12 +315,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7871335999426475595",
-                    "size": "5764384775",
-                    "download": "5057483568"
+                    "gid": "7501274778940705337",
+                    "size": "5764384773",
+                    "download": "5057483584"
                 }
             },
-            "depotfromapp": "2669320"
+            "depotfromapp": "2669320",
+            "decryptionkey": "01425fde4562981e5240f3797c537fc38d9001fd3a17607931c0ec196f129c40"
         },
         "branches": {
             "public": {
