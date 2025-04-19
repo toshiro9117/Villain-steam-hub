@@ -1,0 +1,30 @@
+{
+    "appid": "2852950",
+    "type": "Game",
+    "name": "Girls & Blocks",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28480890",
+    "update_time": "2025-04-15 14:36:30",
+    "depot": {
+        "2852951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1189123684071180778",
+                    "size": "587561810",
+                    "download": "195236240"
+                }
+            },
+            "decryptionkey": "39f67331da14800b41b2fe8b2354899d4769f2a59dabe707c8df64de544fc267"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18109448",
+                "timeupdated": "1744698986"
+            }
+        }
+    }
+}
