@@ -4,8 +4,8 @@
     "name": "Superfighters Deluxe",
     "schinese_name": "超级像素战士",
     "isfreeapp": "0",
-    "change_number": "28178112",
-    "update_time": "2025-03-28 04:19:13",
+    "change_number": "28353316",
+    "update_time": "2025-04-08 04:26:10",
     "depot": {
         "228983": {
             "config": {
@@ -101,9 +101,9 @@
                     "download": "344245648"
                 },
                 "sfd_v_1_4_0_beta": {
-                    "gid": "2990216684614241963",
-                    "size": "409428278",
-                    "download": "334227024"
+                    "gid": "8223189733389203496",
+                    "size": "409400635",
+                    "download": "334220528"
                 }
             },
             "decryptionkey": "c2ffe8f910948e3d9b3855dae6f58b0ae013a0b2bdf622df4ea5ee1ac8983a0d"
@@ -170,12 +170,12 @@
                 "timeupdated": "1742739166"
             },
             "sfd_v_1_4_0_beta": {
-                "buildid": "17826570",
+                "buildid": "18015423",
                 "description": "SFD v.1.4.0 (Beta)",
-                "timeupdated": "1742738780"
+                "timeupdated": "1744051845"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "07006f3fe6a0171ef0b7c0b1b1a4f57f190efc225a829e7cc8024d1b1003c66d"
     }
 }
