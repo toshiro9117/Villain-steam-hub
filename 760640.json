@@ -4,8 +4,8 @@
     "name": "Tennis Elbow 4",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26232181",
-    "update_time": "2024-11-17 17:24:31",
+    "change_number": "28423899",
+    "update_time": "2025-04-11 15:48:06",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,hungarian,czech,romanian,brazilian",
         "760641": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1948529121971347236",
-                    "size": "3614163323",
-                    "download": "3025388528"
+                    "gid": "3797164306592817129",
+                    "size": "3498445412",
+                    "download": "2913305008"
                 }
             },
             "decryptionkey": "fc5142989bcce5ee38544d856dcdb773b564d490c3f08abd7a1826a45ff3711e"
@@ -29,18 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3170176249848378524",
-                    "size": "3659975650",
-                    "download": "3052795312"
+                    "gid": "7806606761800266636",
+                    "size": "3539885560",
+                    "download": "2936926576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16351450",
-                "timeupdated": "1731144408"
+                "buildid": "18068182",
+                "timeupdated": "1744357681"
             }
         }
     }
