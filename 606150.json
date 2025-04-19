@@ -4,8 +4,8 @@
     "name": "Moonlighter",
     "schinese_name": "夜勤人",
     "isfreeapp": "0",
-    "change_number": "27268515",
-    "update_time": "2025-02-01 21:12:10",
+    "change_number": "28430414",
+    "update_time": "2025-04-11 22:01:04",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian",
@@ -106,8 +106,7 @@
                     "size": "76012",
                     "download": "77120"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "867342": {
             "dlcappid": "867340",
@@ -121,8 +120,7 @@
                     "size": "78214",
                     "download": "79344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1121580": {
             "config": {
