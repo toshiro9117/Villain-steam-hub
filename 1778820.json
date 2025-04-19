@@ -4,8 +4,8 @@
     "name": "TEKKEN 8",
     "schinese_name": "铁拳8",
     "isfreeapp": "0",
-    "change_number": "28340455",
-    "update_time": "2025-04-07 14:47:54",
+    "change_number": "28547478",
+    "update_time": "2025-04-18 18:19:53",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -25,9 +25,9 @@
         "1778821": {
             "manifests": {
                 "public": {
-                    "gid": "6237379241359280413",
-                    "size": "123919142232",
-                    "download": "107946217488"
+                    "gid": "9176124594533607257",
+                    "size": "123913898777",
+                    "download": "107945058592"
                 }
             },
             "decryptionkey": "c7c87be587ce9a828a290d82a8650ff9edd77f53919f2f8d2f686f1e586417b7"
@@ -35,9 +35,9 @@
         "1778822": {
             "manifests": {
                 "public": {
-                    "gid": "7811260501322567716",
-                    "size": "1683336231",
-                    "download": "301521952"
+                    "gid": "4457944679452055894",
+                    "size": "1683450919",
+                    "download": "302133088"
                 }
             },
             "decryptionkey": ""
@@ -46,9 +46,9 @@
             "dlcappid": "2497260",
             "manifests": {
                 "public": {
-                    "gid": "9013304300055115218",
-                    "size": "16777568",
-                    "download": "17007216"
+                    "gid": "1690622727565019840",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "decryptionkey": ""
@@ -57,7 +57,7 @@
             "dlcappid": "3025000",
             "manifests": {
                 "public": {
-                    "gid": "7282372065457185729",
+                    "gid": "6220439871464418842",
                     "size": "34884128",
                     "download": "35360608"
                 }
@@ -77,12 +77,19 @@
         },
         "3564550": {
             "dlcappid": "3564550",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3006045251628593482",
+                    "size": "35651936",
+                    "download": "36139456"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17747603",
-                "timeupdated": "1743458419"
+                "buildid": "18073824",
+                "timeupdated": "1744855202"
             }
         },
         "privatebranches": "1"
