@@ -4,8 +4,8 @@
     "name": "Arma Reforger Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341639",
-    "update_time": "2025-04-07 16:18:20",
+    "change_number": "28538223",
+    "update_time": "2025-04-18 05:17:38",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5379269360562860274",
-                    "size": "7399729887",
-                    "download": "5348121536"
+                    "gid": "7640409307094109204",
+                    "size": "7334638331",
+                    "download": "5354586448"
                 }
             },
             "decryptionkey": "6d9697280a4f623736ac39c7c8f97bc85c21c252a0fe2d88c8fc1cd9b2670bef"
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6572937784421635975",
-                    "size": "102814469",
-                    "download": "28974688"
+                    "gid": "2967162056495185829",
+                    "size": "102827013",
+                    "download": "28977296"
                 }
             },
             "decryptionkey": "eab47d15eff3a057174e71fb28ec7821e1ddf370235bd4ef70fbb7a446d7aa6c"
@@ -48,17 +48,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6016967775657081944",
-                    "size": "69020485",
-                    "download": "21474304"
+                    "gid": "7279634367065342921",
+                    "size": "69033797",
+                    "download": "21483104"
                 }
             },
             "decryptionkey": "62840d956f26bc5aab9f01c6a9de7f36e34e9d7fb333341392f53ce9d6aaf81f"
         },
         "branches": {
             "public": {
-                "buildid": "17816275",
-                "timeupdated": "1743078590"
+                "buildid": "18057450",
+                "timeupdated": "1744888429"
             }
         },
         "privatebranches": "1"
