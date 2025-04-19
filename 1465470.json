@@ -4,8 +4,8 @@
     "name": "The Crust",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339261",
-    "update_time": "2025-04-07 12:16:38",
+    "change_number": "28500492",
+    "update_time": "2025-04-16 12:10:38",
     "depot": {
         "228989": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2105022846188629179",
-                    "size": "5653146890",
-                    "download": "5435856864"
+                    "gid": "9015014114935934479",
+                    "size": "5662389192",
+                    "download": "5445752064"
                 },
                 "beta": {
-                    "gid": "2105022846188629179",
-                    "size": "5653146890",
-                    "download": "5435856864"
+                    "gid": "9015014114935934479",
+                    "size": "5662389192",
+                    "download": "5445752064"
                 },
                 "beta2": {
                     "gid": "6463814176579262651",
@@ -72,13 +72,13 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "17851386",
-                "timeupdated": "1742905700"
+                "buildid": "18090669",
+                "timeupdated": "1744637287"
             },
             "beta": {
-                "buildid": "17851386",
-                "description": "BETA 0.96.30 Beta",
-                "timeupdated": "1742905064"
+                "buildid": "18090669",
+                "description": "BETA 0.96.40 Beta",
+                "timeupdated": "1744562703"
             },
             "beta2": {
                 "buildid": "16861698",
