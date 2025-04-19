@@ -4,8 +4,8 @@
     "name": "fault - StP - LIGHTKRAVTE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26719627",
-    "update_time": "2024-12-20 03:14:36",
+    "change_number": "28522900",
+    "update_time": "2025-04-17 14:27:10",
     "depot": {
         "1917451": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "2422527958",
                     "download": "1856566144"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1917453": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "2557254478",
                     "download": "1926870576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
