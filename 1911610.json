@@ -4,8 +4,8 @@
     "name": "Windblown",
     "schinese_name": "风中行者",
     "isfreeapp": "0",
-    "change_number": "28344283",
-    "update_time": "2025-04-07 19:08:18",
+    "change_number": "28548741",
+    "update_time": "2025-04-18 19:51:42",
     "depot": {
         "1911611": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8636626934840864109",
-                    "size": "2832252515",
-                    "download": "2190292320"
+                    "gid": "2415370566029444458",
+                    "size": "3001227610",
+                    "download": "2338655248"
                 },
                 "public_beta": {
-                    "gid": "878166823427306267",
-                    "size": "2995160354",
-                    "download": "2331401552"
+                    "gid": "2415370566029444458",
+                    "size": "3001227610",
+                    "download": "2338655248"
                 },
                 "v0.1": {
                     "gid": "3269812541249164264",
@@ -43,13 +43,13 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "17957744",
-                "timeupdated": "1743611899"
+                "buildid": "18157318",
+                "timeupdated": "1744977098"
             },
             "public_beta": {
-                "buildid": "17984213",
+                "buildid": "18157318",
                 "description": "Beta - Your progress will be saved",
-                "timeupdated": "1743767724"
+                "timeupdated": "1744977079"
             },
             "v0.1": {
                 "buildid": "16541666",
