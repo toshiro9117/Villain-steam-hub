@@ -4,17 +4,17 @@
     "name": "Everhood 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341248",
-    "update_time": "2025-04-07 15:50:56",
+    "change_number": "28523637",
+    "update_time": "2025-04-17 15:22:18",
     "depot": {
         "baselanguages": "english,french,japanese",
         "workshopdepot": "1984020",
         "1984021": {
             "manifests": {
                 "public": {
-                    "gid": "1559702147089868403",
-                    "size": "1656909484",
-                    "download": "888994512"
+                    "gid": "5725416233770490265",
+                    "size": "1656981243",
+                    "download": "889007584"
                 },
                 "battle-warp-bug": {
                     "gid": "3846618076835830125",
@@ -26,8 +26,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18008135",
-                "timeupdated": "1744012249"
+                "buildid": "18140219",
+                "timeupdated": "1744874534"
             },
             "battle-warp-bug": {
                 "buildid": "17625721",
