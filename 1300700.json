@@ -4,16 +4,16 @@
     "name": "Kingdom Wars 4",
     "schinese_name": "瘟疫：王国战争",
     "isfreeapp": "0",
-    "change_number": "28188092",
-    "update_time": "2025-03-28 18:18:01",
+    "change_number": "28431378",
+    "update_time": "2025-04-11 22:48:53",
     "depot": {
         "hasdepotsindlc": "1",
         "1300701": {
             "manifests": {
                 "public": {
-                    "gid": "1479467833665368503",
-                    "size": "7503459490",
-                    "download": "2205212352"
+                    "gid": "4947056496227932004",
+                    "size": "7503459493",
+                    "download": "2205211360"
                 }
             },
             "decryptionkey": "f3d26acdefd143d64bbfa1e7cd40980b61842f3dc907af9bc6965a39b27524cb"
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14061741",
-                "timeupdated": "1713218522"
+                "buildid": "18073624",
+                "timeupdated": "1744382929"
             }
         }
     }
