@@ -1,0 +1,46 @@
+{
+    "appid": "3391450",
+    "type": "Game",
+    "name": "GORN 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548109",
+    "update_time": "2025-04-18 19:01:07",
+    "depot": {
+        "3391451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1201363237239962803",
+                    "size": "4572227076",
+                    "download": "3871115456"
+                }
+            },
+            "decryptionkey": "5ab57ce4fd569da078a76a2c5d2bf64d20cbe1af7b573f53dc3a86942da30a3c"
+        },
+        "3391452": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6063981899054947875",
+                    "size": "4572227076",
+                    "download": "3871127968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18116127",
+                "timeupdated": "1744902161"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
