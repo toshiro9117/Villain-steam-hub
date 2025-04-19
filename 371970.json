@@ -4,8 +4,8 @@
     "name": "Barony",
     "schinese_name": "男爵",
     "isfreeapp": "0",
-    "change_number": "28334661",
-    "update_time": "2025-04-07 02:32:22",
+    "change_number": "28514821",
+    "update_time": "2025-04-17 03:04:05",
     "depot": {
         "228989": {
             "config": {
@@ -81,8 +81,7 @@
                     "size": "494281020",
                     "download": "400194752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "371973": {
             "config": {
@@ -116,8 +115,7 @@
                     "size": "450536904",
                     "download": "389236480"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "470540": {
             "manifests": {
