@@ -4,8 +4,8 @@
     "name": "Emberward",
     "schinese_name": "余烬守卫 Emberward",
     "isfreeapp": "0",
-    "change_number": "28316286",
-    "update_time": "2025-04-05 04:23:17",
+    "change_number": "28545271",
+    "update_time": "2025-04-18 16:01:10",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2459551": {
@@ -15,27 +15,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1158527498423514559",
-                    "size": "2016605028",
-                    "download": "550615376"
+                    "gid": "7815202427639208573",
+                    "size": "2016174662",
+                    "download": "550620016"
                 },
                 "beta_branch": {
-                    "gid": "1158527498423514559",
-                    "size": "2016605028",
-                    "download": "550615376"
+                    "gid": "7815202427639208573",
+                    "size": "2016174662",
+                    "download": "550620016"
                 }
             },
             "decryptionkey": "da804a84952ce187ba4449fd2d61ff14c21ea7bd9bf5c20a3e81beda8423c8c7"
         },
         "branches": {
             "public": {
-                "buildid": "17973045",
-                "timeupdated": "1743698263"
+                "buildid": "18050305",
+                "timeupdated": "1744257639"
             },
             "beta_branch": {
-                "buildid": "17973045",
+                "buildid": "18050305",
                 "description": "Public Test Branch",
-                "timeupdated": "1743698228"
+                "timeupdated": "1744257623"
             }
         },
         "privatebranches": "1"
