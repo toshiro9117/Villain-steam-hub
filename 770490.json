@@ -4,8 +4,8 @@
     "name": "Death in the Water",
     "schinese_name": "死亡水域",
     "isfreeapp": "0",
-    "change_number": "26862058",
-    "update_time": "2025-01-05 00:12:18",
+    "change_number": "28518641",
+    "update_time": "2025-04-17 08:08:17",
     "depot": {
         "770492": {
             "config": {
@@ -33,8 +33,7 @@
                     "size": "216183280",
                     "download": "81260224"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
