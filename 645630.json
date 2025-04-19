@@ -4,8 +4,8 @@
     "name": "Car Mechanic Simulator 2018",
     "schinese_name": "汽车修理工模拟2018",
     "isfreeapp": "0",
-    "change_number": "28218443",
-    "update_time": "2025-03-31 05:14:39",
+    "change_number": "28524707",
+    "update_time": "2025-04-17 16:24:56",
     "depot": {
         "hasdepotsindlc": "1",
         "228990": {
@@ -82,6 +82,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bee9fc3627bb280d5bc55166cf5d7db8786d12c6fbf36f678b86102f7d00b3f8"
     }
 }
