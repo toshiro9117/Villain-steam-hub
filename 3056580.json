@@ -4,8 +4,8 @@
     "name": "HEXAROMA",
     "schinese_name": "桃花源物语：建造小镇",
     "isfreeapp": "0",
-    "change_number": "28103329",
-    "update_time": "2025-03-24 14:19:37",
+    "change_number": "28462669",
+    "update_time": "2025-04-14 16:25:17",
     "depot": {
         "3056581": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "706715625",
                     "download": "160146880"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3056583": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "693274337",
                     "download": "159276000"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
