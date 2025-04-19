@@ -4,8 +4,8 @@
     "name": "SeaOrama: World of Shipping",
     "schinese_name": "纵横七海：船运世界",
     "isfreeapp": "0",
-    "change_number": "28278563",
-    "update_time": "2025-04-03 07:41:19",
+    "change_number": "28406427",
+    "update_time": "2025-04-10 19:50:15",
     "depot": {
         "2002571": {
             "config": {
@@ -36,32 +36,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6911143649757931916",
-                    "size": "5078697603",
-                    "download": "1038918016"
+                    "gid": "1526406092255553577",
+                    "size": "1620131173",
+                    "download": "1201382288"
                 },
                 "mactest": {
-                    "gid": "6911143649757931916",
-                    "size": "5078697603",
-                    "download": "1038918016"
+                    "gid": "1526406092255553577",
+                    "size": "1620131173",
+                    "download": "1201382288"
                 },
                 "publictest": {
                     "gid": "5587672340875113363",
                     "size": "5090702427",
                     "download": "1020744688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17939785",
-                "timeupdated": "1743637271"
+                "buildid": "18054968",
+                "timeupdated": "1744285809"
             },
             "mactest": {
-                "buildid": "17939785",
+                "buildid": "18054968",
                 "description": "mac test",
-                "timeupdated": "1743512234"
+                "timeupdated": "1744281782"
             },
             "publictest": {
                 "buildid": "16285687",
