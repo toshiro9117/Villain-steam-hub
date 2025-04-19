@@ -4,8 +4,8 @@
     "name": "Furry Aim Trainer",
     "schinese_name": "獸圈  瞄准训练器",
     "isfreeapp": "0",
-    "change_number": "27903961",
-    "update_time": "2025-03-12 12:17:25",
+    "change_number": "28399933",
+    "update_time": "2025-04-10 12:51:44",
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "2940491": {
             "manifests": {
                 "public": {
-                    "gid": "9064314885933645555",
-                    "size": "917525679",
-                    "download": "731032912"
+                    "gid": "2334575916479014942",
+                    "size": "917554351",
+                    "download": "731084784"
                 },
                 "censoredstreamermode": {
                     "gid": "5595554844942869068",
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17687213",
-                "timeupdated": "1741752536"
+                "buildid": "18051039",
+                "timeupdated": "1744260699"
             },
             "censoredstreamermode": {
                 "buildid": "16344174",
