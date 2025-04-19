@@ -4,8 +4,8 @@
     "name": "Rogue Fable IV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28280513",
-    "update_time": "2025-04-03 10:43:31",
+    "change_number": "28351150",
+    "update_time": "2025-04-08 01:59:11",
     "depot": {
         "2720011": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6191479109005030206",
-                    "size": "462174342",
-                    "download": "83525008"
+                    "gid": "5576462019733428226",
+                    "size": "462919196",
+                    "download": "83529088"
                 }
             },
             "decryptionkey": "9234f5e3d1f13b518710676fbc03654b164ea4891abd11dee8bcd2b40dbec2ac"
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6217364013609442952",
-                    "size": "606195880",
-                    "download": "127775648"
+                    "gid": "5152000951675918677",
+                    "size": "606940734",
+                    "download": "127779728"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17963626",
-                "timeupdated": "1743648207"
+                "buildid": "18014849",
+                "timeupdated": "1744048747"
             }
         },
         "privatebranches": "1"
