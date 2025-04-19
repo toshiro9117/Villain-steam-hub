@@ -4,8 +4,8 @@
     "name": "TerraScape",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28319275",
-    "update_time": "2025-04-05 09:16:28",
+    "change_number": "28530921",
+    "update_time": "2025-04-17 22:19:59",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,dutch,brazilian",
         "2290001": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7308513194116338437",
-                    "size": "1847488446",
-                    "download": "1547436800"
+                    "gid": "6167170526884268678",
+                    "size": "1852194455",
+                    "download": "1551587392"
                 }
             },
             "decryptionkey": "3cf35d14bf13777748547142d001d9010de60946610bcdb524db81acc663069f"
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2099098489765829851",
-                    "size": "1897109495",
-                    "download": "1558536704"
+                    "gid": "3526106064549423107",
+                    "size": "1901818892",
+                    "download": "1562848160"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17971489",
-                "timeupdated": "1743693691"
+                "buildid": "18144359",
+                "timeupdated": "1744899594"
             }
         },
         "privatebranches": "1"
