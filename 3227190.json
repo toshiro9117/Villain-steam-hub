@@ -4,8 +4,8 @@
     "name": "Overtime Anomaly",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339397",
-    "update_time": "2025-04-07 12:37:55",
+    "change_number": "28462362",
+    "update_time": "2025-04-14 16:08:41",
     "depot": {
         "3227192": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "2041056458",
                     "download": "693213936"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
