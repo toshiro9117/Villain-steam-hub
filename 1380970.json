@@ -4,8 +4,8 @@
     "name": "Sklime",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28200284",
-    "update_time": "2025-03-29 06:49:27",
+    "change_number": "28494838",
+    "update_time": "2025-04-16 04:12:35",
     "depot": {
         "1380972": {
             "config": {
@@ -41,8 +41,7 @@
                     "size": "447309938",
                     "download": "108285488"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1380975": {
             "config": {
@@ -59,8 +58,7 @@
                     "size": "373125850",
                     "download": "102707952"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
