@@ -4,8 +4,8 @@
     "name": "Survive the Fall Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333718",
-    "update_time": "2025-04-07 00:17:49",
+    "change_number": "28491293",
+    "update_time": "2025-04-16 00:30:40",
     "depot": {
         "228988": {
             "config": {
@@ -31,16 +31,17 @@
         "2776021": {
             "manifests": {
                 "public": {
-                    "gid": "6693389834866296842",
-                    "size": "17244775181",
-                    "download": "6199160400"
+                    "gid": "6447165119251310451",
+                    "size": "17251023277",
+                    "download": "6199761248"
                 }
-            }
+            },
+            "decryptionkey": "2e8fcb29a8fd00b683dc5e362071e3184e5aa77e107625d4a291271596ceb763"
         },
         "branches": {
             "public": {
-                "buildid": "17795122",
-                "timeupdated": "1742481613"
+                "buildid": "18056541",
+                "timeupdated": "1744387569"
             }
         },
         "privatebranches": "1"
