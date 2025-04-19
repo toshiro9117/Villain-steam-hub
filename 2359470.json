@@ -4,20 +4,20 @@
     "name": "Strayed",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28319233",
-    "update_time": "2025-04-05 09:09:58",
+    "change_number": "28501656",
+    "update_time": "2025-04-16 14:08:27",
     "depot": {
         "2359471": {
             "manifests": {
                 "public": {
-                    "gid": "2097423910178623634",
-                    "size": "2737079059",
-                    "download": "2332062192"
+                    "gid": "8228341003126999673",
+                    "size": "2769117168",
+                    "download": "2361156272"
                 },
                 "public-staging": {
-                    "gid": "2097423910178623634",
-                    "size": "2737079059",
-                    "download": "2332062192"
+                    "gid": "4331341298431711210",
+                    "size": "2737244938",
+                    "download": "2332204592"
                 }
             },
             "decryptionkey": "fae5ab274cd384def39251b423becea322c959a06e5ec256ba8460c38b2b79c3"
@@ -30,13 +30,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17992436",
-                "timeupdated": "1743815394"
+                "buildid": "18162777",
+                "timeupdated": "1745022829"
             },
             "public-staging": {
-                "buildid": "17992436",
+                "buildid": "18050378",
                 "description": "Public staging branch",
-                "timeupdated": "1743815337"
+                "timeupdated": "1744254893"
             }
         },
         "privatebranches": "1"
