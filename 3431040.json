@@ -4,8 +4,8 @@
     "name": "That's not my Neighbor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28266725",
-    "update_time": "2025-04-02 19:11:53",
+    "change_number": "28432297",
+    "update_time": "2025-04-11 23:34:02",
     "depot": {
         "hasdepotsindlc": "0",
         "3431043": {
@@ -31,8 +31,7 @@
                     "size": "366823584",
                     "download": "303157776"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3431045": {
             "config": {
@@ -57,8 +56,7 @@
                     "size": "367802224",
                     "download": "304094192"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3431047": {
             "config": {
@@ -83,8 +81,7 @@
                     "size": "367802176",
                     "download": "304094400"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3431041": {
             "config": {
@@ -109,8 +106,7 @@
                     "size": "367805088",
                     "download": "304097072"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
