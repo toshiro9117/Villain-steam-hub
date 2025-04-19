@@ -4,25 +4,25 @@
     "name": "Kaiserpunk",
     "schinese_name": "凯撒朋克",
     "isfreeapp": "0",
-    "change_number": "28304194",
-    "update_time": "2025-04-04 16:09:02",
+    "change_number": "28547131",
+    "update_time": "2025-04-18 18:01:14",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,swedish,brazilian,ukrainian",
         "hasdepotsindlc": "1",
         "2012191": {
             "manifests": {
                 "public": {
-                    "gid": "5006269133288107290",
-                    "size": "13104354518",
-                    "download": "9323066096"
+                    "gid": "8529191168743803891",
+                    "size": "4843358259",
+                    "download": "2802852176"
                 }
             },
             "decryptionkey": "d563cc1e972880af6c0ef3a7d0074401446803137170f7d69b35db1a59764936"
         },
         "branches": {
             "public": {
-                "buildid": "17898156",
-                "timeupdated": "1743177872"
+                "buildid": "18100365",
+                "timeupdated": "1744652101"
             }
         },
         "privatebranches": "1"
