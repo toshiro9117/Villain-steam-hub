@@ -4,8 +4,8 @@
     "name": "KovaaK's",
     "schinese_name": "FPS枪法模拟器",
     "isfreeapp": "0",
-    "change_number": "28318707",
-    "update_time": "2025-04-05 08:11:48",
+    "change_number": "28439564",
+    "update_time": "2025-04-12 08:33:27",
     "depot": {
         "workshopdepot": "824270",
         "baselanguages": "english",
@@ -60,9 +60,9 @@
                     "download": "2396771168"
                 },
                 "beta": {
-                    "gid": "6505541369217727758",
-                    "size": "7170499551",
-                    "download": "2314451472"
+                    "gid": "1899505343751443348",
+                    "size": "7177901650",
+                    "download": "2315570192"
                 }
             },
             "decryptionkey": "eb3bfa996ec2fa95ac46deb12cac451a680c017946edfb52209740273157dd1c"
@@ -113,12 +113,12 @@
                 "timeupdated": "1734115219"
             },
             "beta": {
-                "buildid": "17712878",
+                "buildid": "18031994",
                 "description": "Public Beta Branch",
-                "timeupdated": "1741887673"
+                "timeupdated": "1744418002"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "49f5ce3089885145cd2eef4b41d146158774bff9b58de2bc1bf75c2dff97ece6"
     }
 }
