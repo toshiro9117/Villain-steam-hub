@@ -1,0 +1,63 @@
+{
+    "appid": "2636000",
+    "type": "Game",
+    "name": "House of Lost Souls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548813",
+    "update_time": "2025-04-18 19:57:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2636001": {
+            "manifests": {
+                "public": {
+                    "gid": "6528178156631079953",
+                    "size": "6004971153",
+                    "download": "5756776864"
+                }
+            },
+            "decryptionkey": "175d3f32c7592f8b6863123ce1eee8703a1496a7496ee758d41e28cc0e891ad0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18090117",
+                "timeupdated": "1744555378"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
