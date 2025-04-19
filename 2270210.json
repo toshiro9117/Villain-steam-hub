@@ -4,8 +4,8 @@
     "name": "DunHero: Roguelike RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28089712",
-    "update_time": "2025-03-23 02:31:39",
+    "change_number": "28427009",
+    "update_time": "2025-04-11 18:44:26",
     "depot": {
         "2270211": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4110841231508272869",
-                    "size": "253196151",
-                    "download": "78871312"
+                    "gid": "6001392489516770883",
+                    "size": "255355479",
+                    "download": "78933456"
                 },
                 "beta": {
-                    "gid": "4110841231508272869",
-                    "size": "253196151",
-                    "download": "78871312"
+                    "gid": "6001392489516770883",
+                    "size": "255355479",
+                    "download": "78933456"
                 },
                 "dunhero-0.2.1": {
                     "gid": "707679996393316274",
@@ -41,14 +41,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4832857535912398030",
-                    "size": "255713866",
-                    "download": "77832800"
+                    "gid": "5932471750886635827",
+                    "size": "257873194",
+                    "download": "77890272"
                 },
                 "beta": {
-                    "gid": "4832857535912398030",
-                    "size": "255713866",
-                    "download": "77832800"
+                    "gid": "5932471750886635827",
+                    "size": "257873194",
+                    "download": "77890272"
                 },
                 "dunhero-0.2.1": {
                     "gid": "3759802660526151681",
@@ -60,18 +60,17 @@
                     "size": "198453832",
                     "download": "70024768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17821829",
-                "timeupdated": "1742668293"
+                "buildid": "18069579",
+                "timeupdated": "1744368262"
             },
             "beta": {
-                "buildid": "17821829",
+                "buildid": "18069579",
                 "description": "Beta Version (Might be unstable)",
-                "timeupdated": "1742665917"
+                "timeupdated": "1744368241"
             },
             "dunhero-0.2.1": {
                 "buildid": "15165685",
