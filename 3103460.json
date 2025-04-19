@@ -1,0 +1,41 @@
+{
+    "appid": "3103460",
+    "type": "Game",
+    "name": "Storage Guys",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28547569",
+    "update_time": "2025-04-18 18:25:38",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3103461": {
+            "manifests": {
+                "public": {
+                    "gid": "3794056204827885017",
+                    "size": "1824221095",
+                    "download": "1658147312"
+                }
+            },
+            "decryptionkey": "d39ad94d5d576b272e0e477f4c472db92b57a0b879fbdac451a1700784b97512"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18156524",
+                "timeupdated": "1744971933"
+            }
+        }
+    }
+}
