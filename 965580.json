@@ -4,8 +4,8 @@
     "name": "Root",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343664",
-    "update_time": "2025-04-07 18:24:37",
+    "change_number": "28539270",
+    "update_time": "2025-04-18 06:55:32",
     "depot": {
         "965581": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4596913843272812485",
-                    "size": "529187350",
-                    "download": "341131488"
+                    "gid": "336244170900844188",
+                    "size": "498649929",
+                    "download": "315526160"
                 }
             },
             "decryptionkey": "3369a4492dbd5b23bb12fb1ffddfcadaae9719b6dcf01026327b2321f308ca00"
@@ -30,17 +30,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4564301013826761036",
-                    "size": "699010113",
-                    "download": "355149520"
+                    "gid": "5643310692403991934",
+                    "size": "670570548",
+                    "download": "329972080"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17342400",
-                "timeupdated": "1739399152"
+                "buildid": "18074247",
+                "timeupdated": "1744395424"
             }
         },
         "privatebranches": "1"
