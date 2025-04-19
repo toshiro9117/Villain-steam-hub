@@ -4,8 +4,8 @@
     "name": "Ragnarock",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28314046",
-    "update_time": "2025-04-05 01:43:35",
+    "change_number": "28509640",
+    "update_time": "2025-04-16 22:09:35",
     "depot": {
         "228988": {
             "config": {
@@ -24,14 +24,14 @@
         "1345821": {
             "manifests": {
                 "public": {
-                    "gid": "3134864981434733703",
-                    "size": "2383050307",
-                    "download": "2229196144"
+                    "gid": "4669272500815273486",
+                    "size": "2383072835",
+                    "download": "2229277296"
                 },
                 "pre-release": {
-                    "gid": "3134864981434733703",
-                    "size": "2383050307",
-                    "download": "2229196144"
+                    "gid": "4669272500815273486",
+                    "size": "2383072835",
+                    "download": "2229277296"
                 },
                 "previous-release": {
                     "gid": "4751545988342561967",
@@ -43,13 +43,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17937226",
-                "timeupdated": "1743775345"
+                "buildid": "18037126",
+                "timeupdated": "1744187397"
             },
             "pre-release": {
-                "buildid": "17937226",
+                "buildid": "18037126",
                 "description": "Beta branch for Ragnarock. Might not be multiplayer-compatible with the current version.",
-                "timeupdated": "1743775302"
+                "timeupdated": "1744187366"
             },
             "previous-release": {
                 "buildid": "17277719",
