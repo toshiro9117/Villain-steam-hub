@@ -4,15 +4,15 @@
     "name": "The Nameless: Slay Dragon",
     "schinese_name": "无名者：屠龙",
     "isfreeapp": "0",
-    "change_number": "28339304",
-    "update_time": "2025-04-07 12:22:50",
+    "change_number": "28545832",
+    "update_time": "2025-04-18 16:35:36",
     "depot": {
         "2410171": {
             "manifests": {
                 "public": {
-                    "gid": "8036925756690724931",
-                    "size": "8912153753",
-                    "download": "2118505968"
+                    "gid": "3886277078971740187",
+                    "size": "8912504605",
+                    "download": "2118534864"
                 }
             },
             "decryptionkey": "b2c348c79213cb3f8a467a50b3d2df85044ce7c7fd532c4d28c99ab68de446ef"
@@ -22,11 +22,11 @@
         "workshopdepot": "2410170",
         "branches": {
             "public": {
-                "buildid": "17329130",
-                "timeupdated": "1739323283"
+                "buildid": "18154275",
+                "timeupdated": "1744965331"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "268a26ed37e256a24c09cd405f6a5c5dadca322a47f6693af9dbde752459364e"
     }
 }
