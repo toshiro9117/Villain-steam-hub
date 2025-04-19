@@ -1,0 +1,53 @@
+{
+    "appid": "2324110",
+    "type": "Game",
+    "name": "FMTC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548103",
+    "update_time": "2025-04-18 19:00:49",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "2324111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8788352993829876513",
+                    "size": "6380778129",
+                    "download": "5859301504"
+                }
+            },
+            "decryptionkey": "6d96db93bd5ff4dfded07572295e0588fccf3674e809b8e34d969aff0477ce99"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18159193",
+                "timeupdated": "1744990299"
+            }
+        }
+    }
+}
