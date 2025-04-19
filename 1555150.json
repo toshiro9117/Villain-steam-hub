@@ -4,8 +4,8 @@
     "name": "Pocket Bravery",
     "schinese_name": "口袋勇士",
     "isfreeapp": "0",
-    "change_number": "28317754",
-    "update_time": "2025-04-05 06:35:16",
+    "change_number": "28542125",
+    "update_time": "2025-04-18 11:16:57",
     "depot": {
         "1555151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4245126458635502916",
-                    "size": "25637840656",
-                    "download": "5642994928"
+                    "gid": "473360654460741461",
+                    "size": "25638985340",
+                    "download": "5645099280"
                 }
             },
             "decryptionkey": "37d31394e432fa3ada0d373f6c218f586289479813fae0a0c5f0ba477a899496"
@@ -26,12 +26,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5717509887926456735",
-                    "size": "12485490566",
-                    "download": "5207066368"
+                    "gid": "1278509035041616956",
+                    "size": "12487025471",
+                    "download": "5208413408"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1555153": {
             "config": {
@@ -39,12 +38,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "229518295949934941",
-                    "size": "12501245016",
-                    "download": "5198266336"
+                    "gid": "2266251487749708165",
+                    "size": "12502154196",
+                    "download": "5199322240"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "3079470": {
             "dlcappid": "3079470",
@@ -82,8 +80,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17678120",
-                "timeupdated": "1742815122"
+                "buildid": "18056513",
+                "timeupdated": "1744297290"
             }
         },
         "privatebranches": "1"
