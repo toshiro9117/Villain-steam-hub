@@ -1,0 +1,28 @@
+{
+    "appid": "3398870",
+    "type": "Game",
+    "name": "Dooms Hair Salon",
+    "schinese_name": "末日发廊",
+    "isfreeapp": "0",
+    "change_number": "28543741",
+    "update_time": "2025-04-18 14:02:25",
+    "depot": {
+        "3398871": {
+            "manifests": {
+                "public": {
+                    "gid": "5901530403618891778",
+                    "size": "1066269621",
+                    "download": "420351728"
+                }
+            },
+            "decryptionkey": "5728497db55ff3ca7d92a4d797fbe2fb2a70f6b384e0b909e94feb5a10cb19e1"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,ukrainian,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18161840",
+                "timeupdated": "1745008170"
+            }
+        }
+    }
+}
