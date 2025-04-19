@@ -4,8 +4,8 @@
     "name": "Final Factory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28339131",
-    "update_time": "2025-04-07 11:59:27",
+    "change_number": "28522941",
+    "update_time": "2025-04-17 14:31:16",
     "depot": {
         "1383152": {
             "config": {
@@ -20,14 +20,14 @@
                     "download": "883951360"
                 },
                 "debug": {
-                    "gid": "8336797480408354531",
-                    "size": "2223110286",
-                    "download": "862037536"
+                    "gid": "2242770017808571762",
+                    "size": "2438680720",
+                    "download": "924782160"
                 },
                 "development": {
-                    "gid": "5836665633267953508",
-                    "size": "2426077705",
-                    "download": "920698384"
+                    "gid": "9072871117827225036",
+                    "size": "2471492926",
+                    "download": "922099536"
                 },
                 "development-previous": {
                     "gid": "8068207081335749743",
@@ -73,8 +73,7 @@
                     "size": "2294326288",
                     "download": "922211520"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1383150",
         "branches": {
@@ -83,14 +82,14 @@
                 "timeupdated": "1735486585"
             },
             "debug": {
-                "buildid": "14295224",
+                "buildid": "18074155",
                 "description": "Debug build for more logging",
-                "timeupdated": "1715115911"
+                "timeupdated": "1744385076"
             },
             "development": {
-                "buildid": "18006569",
+                "buildid": "18164516",
                 "description": "For playtesting the latest changes",
-                "timeupdated": "1743998364"
+                "timeupdated": "1745033488"
             },
             "development-previous": {
                 "buildid": "17999333",
