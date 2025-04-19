@@ -4,8 +4,8 @@
     "name": "Undead Onslaught",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28333613",
-    "update_time": "2025-04-07 00:04:40",
+    "change_number": "28540040",
+    "update_time": "2025-04-18 08:03:40",
     "depot": {
         "2985841": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "821989370",
                     "download": "214462832"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
