@@ -4,23 +4,23 @@
     "name": "Those Who Rule",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27528758",
-    "update_time": "2025-02-18 14:14:47",
+    "change_number": "28545257",
+    "update_time": "2025-04-18 16:00:42",
     "depot": {
         "1822061": {
             "manifests": {
                 "public": {
-                    "gid": "1329085382938170496",
-                    "size": "4137371106",
-                    "download": "750362064"
+                    "gid": "6339387870558457373",
+                    "size": "3443674802",
+                    "download": "599800048"
                 }
             },
             "decryptionkey": "a10baea0b4c1a2cba826d80b3fdcc88a8a38e9700cab983a4f8d30d55100d8b5"
         },
         "branches": {
             "public": {
-                "buildid": "17361924",
-                "timeupdated": "1739509122"
+                "buildid": "18117872",
+                "timeupdated": "1744742406"
             }
         },
         "privatebranches": "1"
