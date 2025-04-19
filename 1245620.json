@@ -4,8 +4,8 @@
     "name": "ELDEN RING",
     "schinese_name": "艾尔登法环",
     "isfreeapp": "0",
-    "change_number": "28224024",
-    "update_time": "2025-03-31 16:02:52",
+    "change_number": "28494864",
+    "update_time": "2025-04-16 04:14:07",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "228988": {
@@ -108,6 +108,9 @@
                 }
             },
             "decryptionkey": "476eca9191866d6743aa7ad82d4d7ce1fcd5e0f0613f2f4b6559635d68f8c0e3"
+        },
+        "3655690": {
+            "dlcappid": "3655690"
         },
         "branches": {
             "public": {
