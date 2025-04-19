@@ -4,8 +4,8 @@
     "name": "Universe Horizon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28340174",
-    "update_time": "2025-04-07 14:16:40",
+    "change_number": "28543741",
+    "update_time": "2025-04-18 14:02:22",
     "depot": {
         "3207881": {
             "config": {
@@ -32,8 +32,7 @@
                     "size": "421653866",
                     "download": "127126352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
