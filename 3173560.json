@@ -1,0 +1,27 @@
+{
+    "appid": "3173560",
+    "type": "Game",
+    "name": "Anomalous Coffee Machine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28521504",
+    "update_time": "2025-04-17 12:19:30",
+    "depot": {
+        "3173561": {
+            "manifests": {
+                "public": {
+                    "gid": "4860698657861074521",
+                    "size": "1590251480",
+                    "download": "1510051408"
+                }
+            },
+            "decryptionkey": "9cf5d3ea5288b1451038e7e924d155b3dae10b231ef5a02b19828ea14f86c7b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18124524",
+                "timeupdated": "1744863566"
+            }
+        }
+    }
+}
