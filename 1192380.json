@@ -4,8 +4,8 @@
     "name": "TOTALLY BASEBALL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26741905",
-    "update_time": "2024-12-21 08:57:28",
+    "change_number": "28438455",
+    "update_time": "2025-04-12 06:31:30",
     "depot": {
         "1192381": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "931738960"
                 },
                 "test_builds": {
-                    "gid": "1708278786344281251",
-                    "size": "3364425168",
-                    "download": "931738960"
+                    "gid": "7684002491643669863",
+                    "size": "4643482683",
+                    "download": "1158927392"
                 }
             },
             "decryptionkey": "3edc31ea8ca6c62405c07aebd58796aa20afc6d8030b4ec84a51e4c7ca5ef72f"
@@ -28,9 +28,9 @@
                 "timeupdated": "1734742644"
             },
             "test_builds": {
-                "buildid": "16820517",
+                "buildid": "18078606",
                 "description": "new builds",
-                "timeupdated": "1734741250"
+                "timeupdated": "1744410686"
             }
         }
     }
