@@ -4,8 +4,8 @@
     "name": "Exfil",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28313132",
-    "update_time": "2025-04-05 00:54:53",
+    "change_number": "28540331",
+    "update_time": "2025-04-18 08:26:44",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "667606968737325504",
-                    "size": "11008641835",
-                    "download": "9548599120"
+                    "gid": "938291755902469065",
+                    "size": "11141052528",
+                    "download": "9681719360"
                 },
                 "public-testing": {
-                    "gid": "667606968737325504",
-                    "size": "11008641835",
-                    "download": "9548599120"
+                    "gid": "938291755902469065",
+                    "size": "11141052528",
+                    "download": "9681719360"
                 }
             },
             "decryptionkey": "21a87dcc5e844a77ce8a4f5922e03a7dee2d1177fcf62be69ad21e9f9766136f"
@@ -46,13 +46,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17933144",
-                "timeupdated": "1743611675"
+                "buildid": "18150227",
+                "timeupdated": "1744995630"
             },
             "public-testing": {
-                "buildid": "17933144",
+                "buildid": "18150227",
                 "description": "Public access to the latest features for testing",
-                "timeupdated": "1743529555"
+                "timeupdated": "1744935997"
             }
         },
         "privatebranches": "1"
