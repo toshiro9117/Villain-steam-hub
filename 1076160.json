@@ -4,8 +4,8 @@
     "name": "Command: Modern Operations",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28345384",
-    "update_time": "2025-04-07 20:20:53",
+    "change_number": "28470102",
+    "update_time": "2025-04-15 00:10:05",
     "depot": {
         "228989": {
             "config": {
@@ -78,6 +78,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "6776ff97399d0a2139ca691c4d9e166e010135a8daa679b1847c2d76781148b1"
     }
 }
