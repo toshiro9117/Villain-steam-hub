@@ -4,8 +4,8 @@
     "name": "Tunguska: The Visitation - Enhanced Edition",
     "schinese_name": "通古斯：禁区实录 - 增强版",
     "isfreeapp": "0",
-    "change_number": "28284111",
-    "update_time": "2025-04-03 16:01:19",
+    "change_number": "28420701",
+    "update_time": "2025-04-11 11:33:44",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1373099916024932436",
+                    "gid": "2247329310607320822",
                     "size": "4915563710",
-                    "download": "2302527920"
+                    "download": "2302520640"
                 }
             },
             "decryptionkey": "5e54b63ec13550b8bbe92b018835c1b5725fc730a71818801107cd26b4e8a79e"
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17966157",
-                "timeupdated": "1743667274"
+                "buildid": "18043389",
+                "timeupdated": "1744213282"
             }
         },
         "privatebranches": "1"
