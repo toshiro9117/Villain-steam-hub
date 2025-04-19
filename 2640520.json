@@ -4,8 +4,8 @@
     "name": "Cat Warrior",
     "schinese_name": "吃喵一剑",
     "isfreeapp": "0",
-    "change_number": "28191026",
-    "update_time": "2025-03-28 21:16:42",
+    "change_number": "28404645",
+    "update_time": "2025-04-10 18:08:33",
     "depot": {
         "2640521": {
             "config": {
@@ -40,8 +40,7 @@
                     "size": "73064970",
                     "download": "26177824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2640523": {
             "config": {
@@ -58,8 +57,7 @@
                     "size": "81493680",
                     "download": "28074752"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
