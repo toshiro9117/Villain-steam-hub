@@ -4,8 +4,8 @@
     "name": "AK-xolotl: Together",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28301730",
-    "update_time": "2025-04-04 12:04:24",
+    "change_number": "28542646",
+    "update_time": "2025-04-18 12:07:05",
     "depot": {
         "1479141": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3852218941102337477",
-                    "size": "631197203",
-                    "download": "427637024"
+                    "gid": "1798713903119223754",
+                    "size": "634869815",
+                    "download": "428948400"
                 }
             },
             "decryptionkey": "a9fb539d8f51721164cf77f8eae5920f78569a47156b69a61f7aa1435f1f2343"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17855642",
-                "timeupdated": "1743163081"
+                "buildid": "18111043",
+                "timeupdated": "1744707904"
             }
         },
         "privatebranches": "1"
