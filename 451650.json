@@ -4,8 +4,8 @@
     "name": "Whirligig",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28335601",
-    "update_time": "2025-04-07 04:34:54",
+    "change_number": "28514068",
+    "update_time": "2025-04-17 02:15:48",
     "depot": {
         "451651": {
             "config": {
@@ -112,6 +112,11 @@
                     "gid": "5440049223471182132",
                     "size": "1603565397",
                     "download": "469926288"
+                },
+                "whirligig_v5.57": {
+                    "gid": "7248839945014261407",
+                    "size": "1606332093",
+                    "download": "470202720"
                 }
             },
             "decryptionkey": "d4004d944433e442ddc31f82d48f81dcd729b18d5212ce394f2d3cf3e53eb623"
@@ -214,6 +219,11 @@
                 "buildid": "18003864",
                 "description": "BigUpdate",
                 "timeupdated": "1743971690"
+            },
+            "whirligig_v5.57": {
+                "buildid": "18133014",
+                "description": "Bug fixing",
+                "timeupdated": "1744827344"
             }
         }
     }
