@@ -1,0 +1,35 @@
+{
+    "appid": "2125420",
+    "type": "Game",
+    "name": "Zorbus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28480628",
+    "update_time": "2025-04-15 14:14:37",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2125422": {
+            "manifests": {
+                "public": {
+                    "gid": "4420434286925108586",
+                    "size": "235908313",
+                    "download": "176236784"
+                }
+            },
+            "decryptionkey": "a481a85e2f44e9123a38b1c1a79b27b754720a55a8353ecb43217984861cb900"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18109252",
+                "timeupdated": "1744697670"
+            }
+        }
+    }
+}
