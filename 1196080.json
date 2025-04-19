@@ -4,8 +4,8 @@
     "name": "Space Simulation Toolkit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28085407",
-    "update_time": "2025-03-22 16:18:47",
+    "change_number": "28546174",
+    "update_time": "2025-04-18 17:01:16",
     "depot": {
         "228985": {
             "config": {
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3508937526843013720",
-                    "size": "245568399",
-                    "download": "53632480"
+                    "gid": "670993070087013313",
+                    "size": "245577162",
+                    "download": "53657360"
                 },
                 "v0.2.5.2_2020-09-27_old_ui": {
                     "gid": "1113102511976684905",
@@ -138,8 +138,8 @@
         "workshopdepot": "1196080",
         "branches": {
             "public": {
-                "buildid": "16976861",
-                "timeupdated": "1736635546"
+                "buildid": "18119664",
+                "timeupdated": "1744752626"
             },
             "v0.2.5.2_2020-09-27_old_ui": {
                 "buildid": "5601917",
