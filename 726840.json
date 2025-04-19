@@ -4,8 +4,8 @@
     "name": "City Game Studio",
     "schinese_name": "城市游戏工作室",
     "isfreeapp": "0",
-    "change_number": "28340432",
-    "update_time": "2025-04-07 14:45:01",
+    "change_number": "28531433",
+    "update_time": "2025-04-17 22:47:40",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,ukrainian",
         "726842": {
@@ -25,9 +25,9 @@
                     "download": "277430288"
                 },
                 "unstable": {
-                    "gid": "5378054785950119484",
-                    "size": "372884962",
-                    "download": "277594480"
+                    "gid": "647276984715272734",
+                    "size": "372932111",
+                    "download": "277626928"
                 }
             },
             "decryptionkey": ""
@@ -49,9 +49,9 @@
                     "download": "278195216"
                 },
                 "unstable": {
-                    "gid": "5776819655131706746",
-                    "size": "375247698",
-                    "download": "278371536"
+                    "gid": "6705075924859014507",
+                    "size": "375294847",
+                    "download": "278403568"
                 }
             },
             "decryptionkey": "cbe477aab7ce09bfebf6c5c4096023b76e4bb51a8599feea893c80eaaa51de71"
@@ -72,12 +72,11 @@
                     "download": "292533728"
                 },
                 "unstable": {
-                    "gid": "3913369859944906128",
-                    "size": "379537149",
-                    "download": "292937664"
+                    "gid": "417624534777035446",
+                    "size": "379584298",
+                    "download": "292977344"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "726843": {
             "config": {
@@ -95,12 +94,11 @@
                     "download": "280193888"
                 },
                 "unstable": {
-                    "gid": "9028536535824742064",
-                    "size": "385216937",
-                    "download": "280572736"
+                    "gid": "6787425174005967644",
+                    "size": "385264086",
+                    "download": "280602688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "726840",
         "branches": {
@@ -114,9 +112,9 @@
                 "timeupdated": "1733731412"
             },
             "unstable": {
-                "buildid": "18007535",
+                "buildid": "18145573",
                 "description": "Unstable branch, contains the newest features",
-                "timeupdated": "1744008296"
+                "timeupdated": "1744901253"
             }
         },
         "privatebranches": "1",
