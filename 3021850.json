@@ -4,24 +4,24 @@
     "name": "Monster Meals",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28305964",
-    "update_time": "2025-04-04 17:59:48",
+    "change_number": "28464856",
+    "update_time": "2025-04-14 18:46:19",
     "depot": {
         "baselanguages": "english,brazilian",
         "3021851": {
             "manifests": {
                 "public": {
-                    "gid": "8931810674633877557",
-                    "size": "2586932389",
-                    "download": "223081232"
+                    "gid": "2785381036844060947",
+                    "size": "2595094805",
+                    "download": "223239856"
                 }
             },
             "decryptionkey": "4381ec1bbcf41ccb88191c420b9459300fa48fb86fcc0ce8f97828e336fd3d9e"
         },
         "branches": {
             "public": {
-                "buildid": "17982382",
-                "timeupdated": "1743758476"
+                "buildid": "18097779",
+                "timeupdated": "1744627575"
             }
         }
     }
