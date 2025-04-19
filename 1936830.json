@@ -4,8 +4,8 @@
     "name": "nanos world™ Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28310139",
-    "update_time": "2025-04-04 22:08:02",
+    "change_number": "28533404",
+    "update_time": "2025-04-18 00:23:56",
     "depot": {
         "1004": {
             "config": {
@@ -62,14 +62,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6138571576839298664",
-                    "size": "30234101",
-                    "download": "7121856"
-                },
-                "bleeding-edge": {
                     "gid": "6184863730231159599",
                     "size": "30255093",
                     "download": "7127632"
+                },
+                "bleeding-edge": {
+                    "gid": "3695887092989894352",
+                    "size": "30185973",
+                    "download": "7140384"
                 }
             },
             "decryptionkey": ""
@@ -80,28 +80,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2016580984243417860",
-                    "size": "35156980",
-                    "download": "8452224"
-                },
-                "bleeding-edge": {
                     "gid": "6269470164691422482",
                     "size": "35659292",
                     "download": "8539552"
+                },
+                "bleeding-edge": {
+                    "gid": "3805687720915443126",
+                    "size": "35497828",
+                    "download": "8508512"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "workshopdepot": "1936830",
         "branches": {
             "public": {
-                "buildid": "17827085",
-                "timeupdated": "1742744343"
+                "buildid": "17986059",
+                "timeupdated": "1744204584"
             },
             "bleeding-edge": {
-                "buildid": "17986059",
+                "buildid": "18146756",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1743775677"
+                "timeupdated": "1744907031"
             }
         },
         "workshopdepotdecryptionkey": ""
