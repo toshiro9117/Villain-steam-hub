@@ -4,8 +4,8 @@
     "name": "The Roottrees are Dead",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28296912",
-    "update_time": "2025-04-04 05:04:37",
+    "change_number": "28488855",
+    "update_time": "2025-04-15 22:21:30",
     "depot": {
         "2754381": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6296767817547394022",
-                    "size": "658099202",
-                    "download": "369066928"
+                    "gid": "8602631425497284198",
+                    "size": "658146482",
+                    "download": "369090800"
                 }
             },
             "decryptionkey": "a144e003752b9be3b56e1699fd3513b52775d8de366af34cd9464bf289edc3b0"
@@ -28,12 +28,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8989550392923509456",
-                    "size": "741649752",
-                    "download": "386295728"
+                    "gid": "1124187024818925049",
+                    "size": "741697032",
+                    "download": "386319920"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2754383": {
             "config": {
@@ -42,17 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7521796777545271525",
-                    "size": "632149706",
-                    "download": "363947280"
+                    "gid": "8776897295133218501",
+                    "size": "632196986",
+                    "download": "363971136"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17943562",
-                "timeupdated": "1743531347"
+                "buildid": "18042162",
+                "timeupdated": "1744209030"
             }
         },
         "privatebranches": "1"
