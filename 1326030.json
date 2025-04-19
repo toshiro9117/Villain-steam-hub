@@ -4,8 +4,8 @@
     "name": "Xenonauts 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28322206",
-    "update_time": "2025-04-05 17:16:50",
+    "change_number": "28539914",
+    "update_time": "2025-04-18 07:54:23",
     "depot": {
         "1326031": {
             "manifests": {
@@ -14,17 +14,19 @@
                     "size": "4734963755",
                     "download": "3722823424"
                 }
-            }
+            },
+            "decryptionkey": "1f750237711cf16ea3041fe4c9097bb322cdf1f687ae356ddde07112ca442d2b"
         },
         "538031": {
             "manifests": {
                 "public": {
-                    "gid": "7061589386769966419",
-                    "size": "6119630529",
-                    "download": "4545822464"
+                    "gid": "1102817649339257082",
+                    "size": "6127841890",
+                    "download": "4551719984"
                 }
             },
-            "depotfromapp": "538030"
+            "depotfromapp": "538030",
+            "decryptionkey": "abd9295b438de55315009b4ca303c5f54b32b21d98b8cb090ff2434392e583b9"
         },
         "branches": {
             "public": {
