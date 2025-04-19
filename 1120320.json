@@ -4,8 +4,8 @@
     "name": "Builder Simulator",
     "schinese_name": "盖房模拟器",
     "isfreeapp": "0",
-    "change_number": "28307839",
-    "update_time": "2025-04-04 20:01:55",
+    "change_number": "28545135",
+    "update_time": "2025-04-18 15:52:20",
     "depot": {
         "hasdepotsindlc": "0",
         "workshopdepot": "1120320",
@@ -32,8 +32,7 @@
                     "size": "11911481764",
                     "download": "8781696688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
