@@ -4,8 +4,8 @@
     "name": "Construct: Escape the System",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27760204",
-    "update_time": "2025-03-04 03:15:09",
+    "change_number": "28358900",
+    "update_time": "2025-04-08 13:10:16",
     "depot": {
         "497081": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "831965619",
                     "download": "305804576"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "497083": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "828949076",
                     "download": "304516672"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
