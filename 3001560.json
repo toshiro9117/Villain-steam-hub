@@ -4,8 +4,8 @@
     "name": "Japan Trip",
     "schinese_name": "日本之旅",
     "isfreeapp": "0",
-    "change_number": "28339764",
-    "update_time": "2025-04-07 13:27:37",
+    "change_number": "28410285",
+    "update_time": "2025-04-10 23:09:36",
     "depot": {
         "3001561": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "380114033",
                     "download": "304295184"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
