@@ -4,8 +4,8 @@
     "name": "诡墓",
     "schinese_name": "诡墓",
     "isfreeapp": "0",
-    "change_number": "28204096",
-    "update_time": "2025-03-29 15:19:18",
+    "change_number": "28542597",
+    "update_time": "2025-04-18 12:03:17",
     "depot": {
         "228983": {
             "config": {
@@ -52,17 +52,17 @@
         "3123831": {
             "manifests": {
                 "public": {
-                    "gid": "9086144659317797250",
-                    "size": "9509716793",
-                    "download": "8683029984"
+                    "gid": "3121051681606716419",
+                    "size": "9672544561",
+                    "download": "8842239680"
                 }
             },
             "decryptionkey": "c025b0a3591221547af38bfa2f4e058c8b0691499d23e40548db676290c78f96"
         },
         "branches": {
             "public": {
-                "buildid": "17658197",
-                "timeupdated": "1741594848"
+                "buildid": "17790824",
+                "timeupdated": "1744948993"
             }
         },
         "privatebranches": "1"
