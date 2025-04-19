@@ -4,8 +4,8 @@
     "name": "Grind Stormer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27182629",
-    "update_time": "2025-01-27 20:35:52",
+    "change_number": "28376118",
+    "update_time": "2025-04-09 08:01:27",
     "depot": {
         "2590181": {
             "config": {
@@ -30,8 +30,7 @@
                     "size": "4349356",
                     "download": "2345664"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2590183": {
             "config": {
@@ -43,8 +42,7 @@
                     "size": "5837402",
                     "download": "2682992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
