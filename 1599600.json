@@ -4,8 +4,8 @@
     "name": "PlateUp!",
     "schinese_name": "速速上菜！",
     "isfreeapp": "0",
-    "change_number": "28182567",
-    "update_time": "2025-03-28 10:24:45",
+    "change_number": "28512375",
+    "update_time": "2025-04-17 00:34:41",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1599600",
@@ -54,6 +54,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "72c77831f035e3052b3342d9c06fe33b543b258e915f690e240c20c49e89350e"
     }
 }
