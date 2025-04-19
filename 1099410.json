@@ -4,8 +4,8 @@
     "name": "A Total War Saga: TROY",
     "schinese_name": "全面战争传奇：特洛伊",
     "isfreeapp": "0",
-    "change_number": "28335399",
-    "update_time": "2025-04-07 04:07:18",
+    "change_number": "28456424",
+    "update_time": "2025-04-14 04:25:10",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1099410",
@@ -534,8 +534,7 @@
                     "size": "115828516",
                     "download": "46576768"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1099707": {
             "config": {
@@ -548,8 +547,7 @@
                     "size": "66",
                     "download": "96"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1099708": {
             "config": {
@@ -576,8 +574,7 @@
                     "size": "66",
                     "download": "96"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1553060": {
             "dlcappid": "1553060",
