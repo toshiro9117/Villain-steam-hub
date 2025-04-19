@@ -4,8 +4,8 @@
     "name": "Princess & Conquest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28227664",
-    "update_time": "2025-03-31 20:11:18",
+    "change_number": "28410718",
+    "update_time": "2025-04-10 23:33:28",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8168703043054785929",
-                    "size": "1389639992",
-                    "download": "1377551824"
+                    "gid": "6615297478937040010",
+                    "size": "1389752192",
+                    "download": "1377664400"
                 }
             },
             "decryptionkey": "025fca5d3d90f5c08b853a3a764709c5e39e826f6c6e10c586260b8e8950c341"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17924498",
-                "timeupdated": "1743423072"
+                "buildid": "18056874",
+                "timeupdated": "1744291069"
             }
         },
         "privatebranches": "1"
