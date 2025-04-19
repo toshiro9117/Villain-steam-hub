@@ -1,0 +1,123 @@
+{
+    "appid": "2214780",
+    "type": "Tool",
+    "name": "Dysterra Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28521497",
+    "update_time": "2025-04-17 12:18:23",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2214781": {
+            "manifests": {
+                "public": {
+                    "gid": "3180818058621796347",
+                    "size": "1240119972",
+                    "download": "880583808"
+                },
+                "1.0.0": {
+                    "gid": "3180818058621796347",
+                    "size": "1240119972",
+                    "download": "880583808"
+                },
+                "0.6.28.166136": {
+                    "gid": "3269824267345860371",
+                    "size": "1201931149",
+                    "download": "842522752"
+                },
+                "0.6.27.165243": {
+                    "gid": "1715747552429669331",
+                    "size": "1201838301",
+                    "download": "842591312"
+                },
+                "0.6.26.164904": {
+                    "gid": "7384506859417268948",
+                    "size": "1201921197",
+                    "download": "842454416"
+                },
+                "0.6.25.164547": {
+                    "gid": "5518585683547621594",
+                    "size": "1201790493",
+                    "download": "842546144"
+                },
+                "0.6.24.164091": {
+                    "gid": "1172756921705558970",
+                    "size": "1200437037",
+                    "download": "841291296"
+                }
+            },
+            "decryptionkey": "08e21fd6f490a3506eb2a264a6254eece0c36280f6fd9366658c6ab6cfc760c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18138690",
+                "timeupdated": "1744863498"
+            },
+            "1.0.0": {
+                "buildid": "18138690",
+                "description": "1.0.0",
+                "timeupdated": "1744863465"
+            },
+            "0.6.28.166136": {
+                "buildid": "17676428",
+                "description": "0.6.28.166136",
+                "timeupdated": "1741757495"
+            },
+            "0.6.27.165243": {
+                "buildid": "16947791",
+                "description": "0.6.27.165243",
+                "timeupdated": "1736402422"
+            },
+            "0.6.26.164904": {
+                "buildid": "16810155",
+                "description": "0.6.26.164904",
+                "timeupdated": "1734674353"
+            },
+            "0.6.25.164547": {
+                "buildid": "16624656",
+                "description": "0.6.25.164547",
+                "timeupdated": "1733292120"
+            },
+            "0.6.24.164091": {
+                "buildid": "16386098",
+                "description": "0.6.24.164091",
+                "timeupdated": "1731477678"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
