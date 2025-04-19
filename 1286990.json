@@ -4,8 +4,8 @@
     "name": "CONSCRIPT",
     "schinese_name": "战壕惊魂",
     "isfreeapp": "0",
-    "change_number": "27783412",
-    "update_time": "2025-03-05 06:25:03",
+    "change_number": "28484925",
+    "update_time": "2025-04-15 18:35:03",
     "depot": {
         "1286991": {
             "manifests": {
@@ -25,7 +25,7 @@
                     "download": "103415328"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d26f0173380a08c09f69bf7929598379d83c0354c4ac8745d6be4d91630be6ea"
         },
         "branches": {
             "public": {
