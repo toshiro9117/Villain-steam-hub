@@ -4,8 +4,8 @@
     "name": "Into the Radius 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28345868",
-    "update_time": "2025-04-07 20:52:09",
+    "change_number": "28537567",
+    "update_time": "2025-04-18 04:25:38",
     "depot": {
         "2307351": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "13071016224"
                 },
                 "active-beta": {
-                    "gid": "4861316211710308146",
-                    "size": "12486765430",
-                    "download": "11783261104"
+                    "gid": "2538247285281535975",
+                    "size": "12501482538",
+                    "download": "11796286160"
                 }
             },
             "decryptionkey": "20260ee59d150cc2511edf793073971d569a98d93db3564c77622ff953243a00"
@@ -28,9 +28,9 @@
                 "timeupdated": "1736245999"
             },
             "active-beta": {
-                "buildid": "17983790",
+                "buildid": "18039908",
                 "description": "Public active beta branch",
-                "timeupdated": "1743780990"
+                "timeupdated": "1744210812"
             }
         },
         "privatebranches": "1"
