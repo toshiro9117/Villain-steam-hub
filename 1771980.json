@@ -4,8 +4,8 @@
     "name": "The Operator",
     "schinese_name": "接线疑云 The Operator",
     "isfreeapp": "0",
-    "change_number": "28096838",
-    "update_time": "2025-03-23 23:29:54",
+    "change_number": "28525786",
+    "update_time": "2025-04-17 17:29:38",
     "depot": {
         "baselanguages": "english,french",
         "1771981": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3249070521840919154",
-                    "size": "2425100824",
-                    "download": "1224823248"
+                    "gid": "6864708707716914461",
+                    "size": "2425082578",
+                    "download": "1224805456"
                 },
                 "beta": {
                     "gid": "805258986548842171",
@@ -32,17 +32,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1752176067246835015",
-                    "size": "2465294049",
-                    "download": "1235305280"
+                    "gid": "7252231352510049050",
+                    "size": "2465476997",
+                    "download": "1235490208"
                 },
                 "beta": {
                     "gid": "665068496626060541",
                     "size": "1945470540",
                     "download": "707611392"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1771983": {
             "config": {
@@ -50,22 +49,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4833014472917027421",
-                    "size": "1813606510",
-                    "download": "624722256"
+                    "gid": "2478351340749994574",
+                    "size": "1813606670",
+                    "download": "624723152"
                 },
                 "beta": {
                     "gid": "1691373775461388778",
                     "size": "1884432126",
                     "download": "691394352"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17747709",
-                "timeupdated": "1742220893"
+                "buildid": "18088160",
+                "timeupdated": "1744527557"
             },
             "beta": {
                 "buildid": "17827012",
