@@ -4,8 +4,8 @@
     "name": "XBPlay",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27489091",
-    "update_time": "2025-02-15 08:07:04",
+    "change_number": "28425473",
+    "update_time": "2025-04-11 17:10:09",
     "depot": {
         "baselanguages": "english",
         "2693121": {
@@ -43,8 +43,7 @@
                     "size": "498350337",
                     "download": "162409888"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2693123": {
             "config": {
@@ -62,8 +61,7 @@
                     "size": "335811901",
                     "download": "107447536"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
