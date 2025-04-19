@@ -4,8 +4,8 @@
     "name": "Wasteland 2: Director's Cut",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28311384",
-    "update_time": "2025-04-04 23:16:37",
+    "change_number": "28497744",
+    "update_time": "2025-04-16 08:07:29",
     "depot": {
         "228985": {
             "config": {
@@ -174,8 +174,7 @@
                     "size": "15219563553",
                     "download": "7966186304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "404736": {
             "dlcappid": "410690",
@@ -189,8 +188,7 @@
                     "size": "15312540406",
                     "download": "7966922912"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
