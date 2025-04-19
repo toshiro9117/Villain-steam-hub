@@ -4,8 +4,8 @@
     "name": "Skull and Bones",
     "schinese_name": "碧海黑帆",
     "isfreeapp": "0",
-    "change_number": "28301413",
-    "update_time": "2025-04-04 11:28:22",
+    "change_number": "28545582",
+    "update_time": "2025-04-18 16:16:18",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2853731": {
             "manifests": {
                 "public": {
-                    "gid": "309823656540011319",
-                    "size": "64491606862",
-                    "download": "53956794784"
+                    "gid": "805330527440536966",
+                    "size": "68584399161",
+                    "download": "57405574096"
                 }
             },
             "decryptionkey": "714fcb880dabe47d44a94ed0315e88d867583916d2e1c24d26b648f73870ee9f"
@@ -39,8 +39,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17449998",
-                "timeupdated": "1741068280"
+                "buildid": "17979302",
+                "timeupdated": "1744697371"
             }
         },
         "privatebranches": "1"
