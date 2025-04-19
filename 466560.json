@@ -4,8 +4,8 @@
     "name": "Northgard",
     "schinese_name": "北境之地",
     "isfreeapp": "0",
-    "change_number": "28285173",
-    "update_time": "2025-04-03 17:07:00",
+    "change_number": "28547707",
+    "update_time": "2025-04-18 18:36:49",
     "depot": {
         "228989": {
             "config": {
@@ -19,9 +19,9 @@
         "466561": {
             "manifests": {
                 "public": {
-                    "gid": "1237004201014646032",
-                    "size": "3554904203",
-                    "download": "1501721152"
+                    "gid": "3434946466135383797",
+                    "size": "3576086475",
+                    "download": "1514171232"
                 },
                 "public-beta": {
                     "gid": "336595794510718881",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1980239260165872327",
-                    "size": "20022564",
-                    "download": "5385968"
+                    "gid": "6596220758694751795",
+                    "size": "20511596",
+                    "download": "5550224"
                 },
                 "public-beta": {
                     "gid": "6596220758694751795",
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7015160002264364548",
-                    "size": "17636541",
-                    "download": "4424112"
+                    "gid": "5078957507153830469",
+                    "size": "18053821",
+                    "download": "4572800"
                 },
                 "public-beta": {
                     "gid": "5078957507153830469",
@@ -121,8 +121,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17439936",
-                "timeupdated": "1740063458"
+                "buildid": "18156647",
+                "timeupdated": "1744984497"
             },
             "public-beta": {
                 "buildid": "17895781",
