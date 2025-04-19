@@ -1,0 +1,46 @@
+{
+    "appid": "3396740",
+    "type": "Game",
+    "name": "Backrooms: Hide Together",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548432",
+    "update_time": "2025-04-18 19:26:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3396741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "626515102847261522",
+                    "size": "2723779894",
+                    "download": "2501520608"
+                }
+            },
+            "decryptionkey": "c04920cada0992c8fb458ba44ed22d938487329ba7248d4224818078205ec0f2"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18162659",
+                "timeupdated": "1745014873"
+            }
+        }
+    }
+}
