@@ -4,8 +4,8 @@
     "name": "Dwarf Fortress",
     "schinese_name": "矮人要塞",
     "isfreeapp": "0",
-    "change_number": "28316419",
-    "update_time": "2025-04-05 04:31:25",
+    "change_number": "28481098",
+    "update_time": "2025-04-15 14:55:22",
     "depot": {
         "228989": {
             "config": {
@@ -318,6 +318,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "dae1b11a78f69965f974809434d7283b32d5e50d97d73858944d1eef82135cd0"
     }
 }
