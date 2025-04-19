@@ -4,8 +4,8 @@
     "name": "Crystal Guardians",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28323165",
-    "update_time": "2025-04-05 19:46:44",
+    "change_number": "28518649",
+    "update_time": "2025-04-17 08:08:42",
     "depot": {
         "2322091": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "238684960"
                 },
                 "beta-test": {
-                    "gid": "2682882143296685633",
-                    "size": "456615837",
-                    "download": "150902176"
+                    "gid": "1471440705629294997",
+                    "size": "456139506",
+                    "download": "150942016"
                 }
             },
             "decryptionkey": "d97ea5c0c4e1c0ddf006c53c5fa92cc39d8b47e8b79770b208a7c5032571fb72"
@@ -32,9 +32,9 @@
                 "timeupdated": "1724098407"
             },
             "beta-test": {
-                "buildid": "17995572",
+                "buildid": "18048128",
                 "description": "The beta test branch, open to anyone",
-                "timeupdated": "1743853600"
+                "timeupdated": "1744238897"
             }
         },
         "privatebranches": "1"
