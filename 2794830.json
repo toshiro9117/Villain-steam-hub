@@ -1,0 +1,46 @@
+{
+    "appid": "2794830",
+    "type": "Game",
+    "name": "Cinnabunny",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28514878",
+    "update_time": "2025-04-17 03:07:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2794831": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "82410692225359576",
+                    "size": "1609340941",
+                    "download": "385351936"
+                }
+            },
+            "decryptionkey": "67535234c22f3cfe512a95e9fa560480021d8db47c1eb095329bbc2baf093c45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18102952",
+                "timeupdated": "1744656068"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
