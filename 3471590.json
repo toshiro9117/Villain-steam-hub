@@ -1,0 +1,28 @@
+{
+    "appid": "3471590",
+    "type": "Game",
+    "name": "Coffee & Boobs",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28548767",
+    "update_time": "2025-04-18 19:53:51",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3471591": {
+            "manifests": {
+                "public": {
+                    "gid": "4882792885044066154",
+                    "size": "1758272677",
+                    "download": "1134200208"
+                }
+            },
+            "decryptionkey": "1e645a28773a20dd3cdb79845dc0347330707bdc8f69b5295ff23b62f1b14f71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18159921",
+                "timeupdated": "1744994607"
+            }
+        }
+    }
+}
