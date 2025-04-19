@@ -4,8 +4,8 @@
     "name": "Kingdom Wars 2: Definitive Edition",
     "schinese_name": "王国战争2：终极版",
     "isfreeapp": "0",
-    "change_number": "28144421",
-    "update_time": "2025-03-26 15:15:51",
+    "change_number": "28431371",
+    "update_time": "2025-04-11 22:48:36",
     "depot": {
         "1036441": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3739699632405343288",
-                    "size": "4939115390",
-                    "download": "2074533552"
+                    "gid": "2362761555791282015",
+                    "size": "4939115414",
+                    "download": "2074530192"
                 }
             },
             "decryptionkey": "65ef468d329ec07660d3ac636b409867f6c1dd61decbdceaec3cf48995be0ca5"
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12338841",
-                "timeupdated": "1696284284"
+                "buildid": "18073617",
+                "timeupdated": "1744382913"
             }
         }
     }
