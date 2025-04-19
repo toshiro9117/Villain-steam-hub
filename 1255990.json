@@ -4,8 +4,8 @@
     "name": "We should talk.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26774276",
-    "update_time": "2024-12-24 23:22:26",
+    "change_number": "28497692",
+    "update_time": "2025-04-16 08:03:29",
     "depot": {
         "1255991": {
             "config": {
@@ -42,8 +42,7 @@
                     "size": "1675118318",
                     "download": "364640432"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1255993": {
             "config": {
@@ -61,8 +60,7 @@
                     "size": "1675234699",
                     "download": "367118272"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
