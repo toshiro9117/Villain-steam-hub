@@ -4,8 +4,8 @@
     "name": "Ancient Warfare 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28332084",
-    "update_time": "2025-04-06 20:28:50",
+    "change_number": "28548073",
+    "update_time": "2025-04-18 18:58:32",
     "depot": {
         "228983": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5964722696510900367",
-                    "size": "1226309578",
-                    "download": "476587056"
+                    "gid": "3776131354030364473",
+                    "size": "1226384029",
+                    "download": "476666480"
                 }
             },
             "decryptionkey": "c8f981d7497778a947599dc4f4b1d07c0cd20f9f5ea08e91b1b7db7404294c1c"
@@ -79,10 +79,10 @@
         },
         "branches": {
             "public": {
-                "buildid": "18001617",
-                "timeupdated": "1743942526"
+                "buildid": "18156839",
+                "timeupdated": "1744973907"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "70973b9c17a835b1244089e93dd9d586fda18e0427c6ce5e21479f4d7d56d0de"
     }
 }
