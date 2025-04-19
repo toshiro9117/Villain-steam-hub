@@ -4,8 +4,8 @@
     "name": "Echoes of Elysium Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28307252",
-    "update_time": "2025-04-04 19:20:30",
+    "change_number": "28427562",
+    "update_time": "2025-04-11 19:19:55",
     "depot": {
         "1004": {
             "config": {
@@ -57,9 +57,9 @@
                     "download": "155776912"
                 },
                 "internal": {
-                    "gid": "1728037168514083465",
-                    "size": "1428776993",
-                    "download": "409048560"
+                    "gid": "617868355686581439",
+                    "size": "1432908593",
+                    "download": "410268640"
                 },
                 "local": {
                     "gid": "2909032919417718062",
@@ -75,6 +75,16 @@
                     "gid": "7759659139198195360",
                     "size": "1420350405",
                     "download": "407403520"
+                },
+                "v0.9.0": {
+                    "gid": "416122374102150859",
+                    "size": "1431130917",
+                    "download": "409720272"
+                },
+                "v0.10.0": {
+                    "gid": "2157915959139813312",
+                    "size": "1432937557",
+                    "download": "410284080"
                 }
             },
             "decryptionkey": ""
@@ -85,9 +95,9 @@
                 "timeupdated": "1711934293"
             },
             "internal": {
-                "buildid": "17983878",
+                "buildid": "18161160",
                 "description": "Internal Build",
-                "timeupdated": "1743765625"
+                "timeupdated": "1745003186"
             },
             "local": {
                 "buildid": "14011964",
@@ -104,6 +114,16 @@
                 "buildid": "17772711",
                 "description": "v0.8.0 Alpha",
                 "timeupdated": "1742340369"
+            },
+            "v0.9.0": {
+                "buildid": "18046989",
+                "description": "v0.9.0 Alpha",
+                "timeupdated": "1744232473"
+            },
+            "v0.10.0": {
+                "buildid": "18163243",
+                "description": "v0.10.0 Alpha",
+                "timeupdated": "1745020346"
             }
         }
     }
