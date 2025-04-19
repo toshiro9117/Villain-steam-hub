@@ -4,8 +4,8 @@
     "name": "Assassin's Creed Shadows",
     "schinese_name": "刺客信条：影",
     "isfreeapp": "0",
-    "change_number": "28341402",
-    "update_time": "2025-04-07 15:59:53",
+    "change_number": "28540913",
+    "update_time": "2025-04-18 09:22:39",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1286738625753674120",
-                    "size": "117285006321",
-                    "download": "96454165024"
+                    "gid": "8319279110823358120",
+                    "size": "114069414502",
+                    "download": "98260791568"
                 }
             },
             "decryptionkey": "a1a2865a35a1aa7255e0d1a8d6cedab23f2b34346e4a359a283f1a5ceb826ddf"
@@ -51,7 +51,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4446353692767690115",
+                    "gid": "8042168883420699549",
                     "size": "1551990784",
                     "download": "1529582496"
                 }
@@ -64,7 +64,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1487037654454505018",
+                    "gid": "3765126163415209123",
                     "size": "1799094272",
                     "download": "1787592864"
                 }
@@ -77,7 +77,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2003908294594843538",
+                    "gid": "7938689336649566689",
                     "size": "1666744320",
                     "download": "1658706800"
                 }
@@ -90,7 +90,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4898965304517686108",
+                    "gid": "9027709866511947262",
                     "size": "1713963008",
                     "download": "1690277376"
                 }
@@ -103,7 +103,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5627697786277885486",
+                    "gid": "3472973550808994726",
                     "size": "1620312064",
                     "download": "1597287472"
                 }
@@ -117,8 +117,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17816193",
-                "timeupdated": "1742925616"
+                "buildid": "18095944",
+                "timeupdated": "1744811969"
             }
         },
         "privatebranches": "1"
