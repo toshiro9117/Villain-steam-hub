@@ -1,6 +1,6 @@
 // Function to search for a branch in the GitHub repository
 async function searchBranch() {
-    const branchName = document.getElementById('branchInput').value;
+    const branchName = document.getElementById('branchInput').value.trim().toLowerCase();
     const messageDiv = document.getElementById('message');
 
     if (!branchName) {
@@ -18,7 +18,7 @@ async function searchBranch() {
         
         if (response.ok) {
             const branches = await response.json();
-            const branchExists = branches.some(branch => branch.name === branchName);
+            const branchExists = branches.some(branch => branch.name.toLowerCase() === branchName);
 
             if (branchExists) {
                 // Ask the user if they want to download the branch
