@@ -14,7 +14,7 @@ async function searchBranch() {
 
     try {
         // Use a proxy to bypass CORS issues
-        const proxyUrl = "https://cors-anywhere.herokuapp.com/"; // Replace with your proxy URL if needed
+        const proxyUrl = ""; // Leave empty if no proxy is needed
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
         const response = await fetch(proxyUrl + apiUrl);
 
@@ -42,7 +42,11 @@ async function searchBranch() {
             throw new Error('Error fetching branches from GitHub API');
         }
     } catch (error) {
-        messageDiv.textContent = "There was an error while searching for the branch.";
+        if (error.message.includes("Failed to fetch")) {
+            messageDiv.textContent = "Network error: Unable to connect to the GitHub API.";
+        } else {
+            messageDiv.textContent = "An unexpected error occurred. Please try again.";
+        }
         console.error(error);
     }
 }
