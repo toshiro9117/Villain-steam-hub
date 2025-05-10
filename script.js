@@ -9,8 +9,8 @@ async function searchBranch() {
     }
 
     // Your GitHub repository details
-    const repoOwner = "YOUR_GITHUB_USERNAME"; // Replace with your GitHub username or org
-    const repoName = "YOUR_REPO_NAME"; // Replace with your repository name
+    const repoOwner = "toshiro9117"; // Replace with your GitHub username or org
+    const repoName = "Villain-steam-hub"; // Replace with your repository name
 
     try {
         // Fetch branches from the GitHub API
