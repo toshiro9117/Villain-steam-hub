@@ -13,9 +13,11 @@ async function searchBranch() {
     const repoName = "Villain-steam-hub"; // Replace with your repository name
 
     try {
-        // Fetch branches from the GitHub API
-        const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/branches`);
-        
+        // Use a proxy to bypass CORS issues
+        const proxyUrl = "https://cors-anywhere.herokuapp.com/"; // Replace with your proxy URL if needed
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
+        const response = await fetch(proxyUrl + apiUrl);
+
         if (response.ok) {
             const branches = await response.json();
             const branchExists = branches.some(branch => branch.name.toLowerCase() === branchName);
@@ -25,7 +27,7 @@ async function searchBranch() {
                 const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it?`);
 
                 if (downloadConfirm) {
-                    // Trigger the download of the files (GitHub API cannot directly download the whole branch, so redirecting)
+                    // Trigger the download of the files
                     const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
                     window.location.href = downloadUrl;
                 } else {
