@@ -41,20 +41,61 @@
     </div>
 
     <script>
-    function disableKeys(e) {
-        if (
-            e.keyCode === 123 || // F12
-            (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
-            (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
-            (e.ctrlKey && e.keyCode === 85) // Ctrl+U
-        ) {
-            return false;
+        // Disable right-click and dev tools shortcut keys
+        function disableKeys(e) {
+            if (
+                e.keyCode === 123 || // F12
+                (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
+                (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
+                (e.ctrlKey && e.keyCode === 85) // Ctrl+U
+            ) {
+                return false;
+            }
         }
-    }
 
-    // Obfuscated searchBranch function
-    function searchBranch(){var _0x53f6=["\x76\x61\x6C\x75\x65","\x62\x72\x61\x6E\x63\x68\x49\x6E\x70\x75\x74","\x74\x72\x69\x6D","\x6D\x65\x73\x73\x61\x67\x65","\x50\x6C\x65\x61\x73\x65\x20\x65\x6E\x74\x65\x72\x20\x61\x20\x62\x72\x61\x6E\x63\x68\x20\x6E\x61\x6D\x65\x2E","\x74\x6F\x73\x68\x69\x72\x6F\x39\x31\x31\x37","\x56\x69\x6C\x6C\x61\x69\x6E\x2D\x73\x74\x65\x61\x6D\x2D\x68\x75\x62","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x67\x69\x74\x68\x75\x62\x2E\x63\x6F\x6D\x2F","\x2F\x74\x72\x65\x65\x2F","\x66\x65\x74\x63\x68","\x48\x45\x41\x44","\x6F\x6B","\x63\x6F\x6E\x66\x69\x72\x6D","\x54\x68\x65\x20\x62\x72\x61\x6E\x63\x68\x20\x22","\x22\x20\x65\x78\x69\x73\x74\x73\x2E\x20\x44\x6F\x20\x79\x6F\x75\x20\x77\x61\x6E\x74\x20\x74\x6F\x20\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x20\x69\x74\x3F","\x61\x72\x63\x68\x69\x76\x65\x2F\x72\x65\x66\x73\x2F\x68\x65\x61\x64\x73\x2F","\x2E\x7A\x69\x70","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x76\x61\x6C\x75\x65","\x42\x72\x61\x6E\x63\x68\x20\x73\x65\x61\x72\x63\x68\x20\x63\x61\x6E\x63\x65\x6C\x6C\x65\x64\x2E","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x22","\x20\x69\x73\x20\x6E\x6F\x74\x20\x61\x76\x61\x69\x6C\x61\x62\x6C\x65\x20\x69\x6E\x20\x74\x68\x65\x20\x72\x65\x70\x6F\x73\x69\x74\x6F\x72\x79\x2E","\x6C\x6F\x67","\x41\x6E\x20\x65\x72\x72\x6F\x72\x20\x6F\x63\x63\x75\x72\x72\x65\x64\x2E\x20\x50\x6C\x65\x61\x73\x65\x20\x74\x72\x79\x20\x61\x67\x61\x69\x6E\x2E"];const _0x4341=[_0x53f6[0],_0x53f6[1],_0x53f6[2],_0x53f6[3],_0x53f6[4],_0x53f6[5],_0x53f6[6],_0x53f6[7],_0x53f6[8],_0x53f6[9],_0x53f6[10],_0x53f6[11],_0x53f6[12],_0x53f6[13],_0x53f6[14],_0x53f6[15],_0x53f6[16],_0x53f6[17],_0x53f6[18],_0x53f6[19],_0x53f6[20],_0x53f6[21],_0x53f6[22],_0x53f6[23],_0x53f6[24]];const _0x41c2=document[_0x4341[0]+_0x4341[1]](_0x4341[2])[_0x4341[3]]();const _0x1b41=document[_0x4341[0]+_0x4341[1]](_0x4341[4]);if(!_0x41c2){_0x1b41[_0x4341[5]]= _0x4341[6];return}const _0x5d7a=_0x4341[7];const _0x3599=_0x4341[8];const _0x27cd=_0x4341[9]+_0x5d7a+_0x3599+_0x41c2;fetch(_0x27cd,{method:_0x4341[10]})[ _0x4341[11]](function(_0x57a4){if(_0x57a4[_0x4341[12]]){const _0x3bb2=confirm(_0x4341[13]+_0x41c2+_0x4341[14]);if(_0x3bb2){const _0x1494=_0x4341[9]+_0x5d7a+_0x4341[15]+_0x41c2+_0x4341[16];window[_0x4341[17]]= _0x1494}else{document[_0x4341[0]+_0x4341[1]](_0x4341[2])[_0x4341[18]]= _0x4341[0];_0x1b41[_0x4341[5]]= _0x4341[19]}}else{_0x1b41[_0x4341[5]]= _0x4341[20]+_0x41c2+_0x4341[21]}})[_0x4341[11]](function(_0x49cf){console[_0x4341[22]](_0x49cf);_0x1b41[_0x4341[5]]= _0x4341[23]})
-    }
+        // Function to search for a branch in the GitHub repository
+        async function searchBranch() {
+            const branchName = document.getElementById('branchInput').value.trim().toLowerCase();
+            const messageDiv = document.getElementById('message');
+
+            if (!branchName) {
+                messageDiv.textContent = "Please enter a branch name.";
+                return;
+            }
+
+            // GitHub repository details
+            const repoOwner = "toshiro9117"; // Replace with your GitHub username
+            const repoName = "Villain-steam-hub"; // Replace with your repository name
+
+            try {
+                const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
+                const response = await fetch(apiUrl);
+
+                if (response.ok) {
+                    const branches = await response.json();
+                    const branchExists = branches.some(branch => branch.name.toLowerCase() === branchName);
+
+                    if (branchExists) {
+                        const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it?`);
+
+                        if (downloadConfirm) {
+                            const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
+                            window.location.href = downloadUrl;
+                        } else {
+                            document.getElementById('branchInput').value = '';
+                            messageDiv.textContent = "Branch search cancelled.";
+                        }
+                    } else {
+                        messageDiv.textContent = `"${branchName}" is not available in the repository.`;
+                    }
+                } else {
+                    throw new Error('Error fetching branches from GitHub API');
+                }
+            } catch (error) {
+                console.error(error);
+                messageDiv.textContent = "An unexpected error occurred. Please try again.";
+            }
+        }
     </script>
 </body>
 </html>
