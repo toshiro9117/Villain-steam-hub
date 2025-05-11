@@ -1,101 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Branch Downloader</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .container {
-            text-align: center;
-        }
-
-        input, button {
-            padding: 10px;
-            margin: 10px;
-            font-size: 16px;
-        }
-
-        #message {
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Branch Downloader</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      text-align: center;
+    }
+    input, button {
+      padding: 10px;
+      margin: 10px;
+      font-size: 16px;
+    }
+    #message {
+      margin-top: 20px;
+    }
+  </style>
 </head>
 <body oncontextmenu="return false" onkeydown="return disableKeys(event)">
 
-    <div class="container">
-        <h1>Search for GitHub Branch</h1>
-        
-        <input type="text" id="branchInput" placeholder="Enter branch name...">
-        <button onclick="searchBranch()">Search</button>
-        
-        <div id="message"></div>
-    </div>
+  <div class="container">
+    <h1>Search for GitHub Branch</h1>
+    <input type="text" id="branchInput" placeholder="Enter branch name..." />
+    <button onclick="searchBranch()">Search</button>
+    <div id="message"></div>
+  </div>
 
-    <script>
-        // Disable right-click and dev tools shortcut keys
-        function disableKeys(e) {
-            if (
-                e.keyCode === 123 || // F12
-                (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
-                (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
-                (e.ctrlKey && e.keyCode === 85) // Ctrl+U
-            ) {
-                return false;
-            }
+  <script>
+    // Disable right-click and dev tools shortcuts
+    function disableKeys(e) {
+      if (
+        e.keyCode === 123 || // F12
+        (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
+        (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
+        (e.ctrlKey && e.keyCode === 85) // Ctrl+U
+      ) {
+        return false;
+      }
+    }
+
+    async function searchBranch() {
+      const branchInput = document.getElementById("branchInput");
+      const branchName = branchInput.value.trim().toLowerCase();
+      const messageDiv = document.getElementById("message");
+
+      if (!branchName) {
+        messageDiv.textContent = "Please enter a branch name.";
+        return;
+      }
+
+      const repoOwner = "toshiro9117";
+      const repoName = "Villain-steam-hub";
+      const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
+
+      try {
+        const response = await fetch(apiUrl);
+        if (!response.ok) throw new Error("GitHub API error");
+
+        const branches = await response.json();
+        const exists = branches.some(b => b.name.toLowerCase() === branchName);
+
+        if (exists) {
+          // Ask the user if they want to download the branch as a ZIP
+          const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it as a .zip file?`);
+
+          if (downloadConfirm) {
+            // Trigger the download by redirecting to the .zip file URL
+            const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
+            window.location.href = downloadUrl;
+          } else {
+            // If the user cancels the download, clear the input field
+            branchInput.value = '';
+            messageDiv.textContent = "Download cancelled.";
+          }
+        } else {
+          messageDiv.textContent = `"${branchName}" branch does not exist.`;
         }
-
-        // Function to search for a branch in the GitHub repository
-        async function searchBranch() {
-            const branchName = document.getElementById('branchInput').value.trim().toLowerCase();
-            const messageDiv = document.getElementById('message');
-
-            if (!branchName) {
-                messageDiv.textContent = "Please enter a branch name.";
-                return;
-            }
-
-            // GitHub repository details
-            const repoOwner = "toshiro9117"; // Replace with your GitHub username
-            const repoName = "Villain-steam-hub"; // Replace with your repository name
-
-            try {
-                const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
-                const response = await fetch(apiUrl);
-
-                if (response.ok) {
-                    const branches = await response.json();
-                    const branchExists = branches.some(branch => branch.name.toLowerCase() === branchName);
-
-                    if (branchExists) {
-                        const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it?`);
-
-                        if (downloadConfirm) {
-                            const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
-                            window.location.href = downloadUrl;
-                        } else {
-                            document.getElementById('branchInput').value = '';
-                            messageDiv.textContent = "Branch search cancelled.";
-                        }
-                    } else {
-                        messageDiv.textContent = `"${branchName}" is not available in the repository.`;
-                    }
-                } else {
-                    throw new Error('Error fetching branches from GitHub API');
-                }
-            } catch (error) {
-                console.error(error);
-                messageDiv.textContent = "An unexpected error occurred. Please try again.";
-            }
-        }
-    </script>
+      } catch (error) {
+        console.error(error);
+        messageDiv.textContent = "An error occurred. Please try again.";
+      }
+    }
+  </script>
 </body>
 </html>
