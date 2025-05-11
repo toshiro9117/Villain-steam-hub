@@ -6,75 +6,35 @@
   <title>Villain Branch Downloader</title>
   <style>
     body {
-      background-image: url('bg.jpg');
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed;
+      background-color: #000;
       color: #0f0;
       font-family: Arial, sans-serif;
       text-align: center;
       padding-top: 100px;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-    }
-    .overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.6); /* Black overlay with opacity */
-    }
-    h1 {
-      font-size: 2.5em;
-      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-      margin-bottom: 30px;
     }
     input {
-      padding: 12px 20px;
-      font-size: 18px;
-      border: 2px solid #0f0;
-      border-radius: 10px;
-      margin-right: 15px;
-      background-color: transparent;
-      color: #0f0;
-      box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
-      transition: all 0.3s ease-in-out;
-    }
-    input:focus {
-      border-color: #00ff00;
-      outline: none;
-      box-shadow: 0 0 15px rgba(0, 255, 0, 1);
+      padding: 10px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      margin-right: 10px;
     }
     button {
-      padding: 12px 25px;
-      font-size: 18px;
+      padding: 10px 20px;
+      font-size: 16px;
       background-color: #0f0;
       color: #000;
-      border: 2px solid #0f0;
-      border-radius: 10px;
+      border: none;
+      border-radius: 5px;
       cursor: pointer;
-      box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
-      transition: all 0.3s ease-in-out;
-    }
-    button:hover {
-      background-color: #00ff00;
-      color: #000;
-      box-shadow: 0 0 20px rgba(0, 255, 0, 1);
     }
     #message {
       margin-top: 20px;
       font-size: 18px;
-      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
     }
   </style>
 </head>
 <body>
-  <div class="overlay"></div> <!-- Dark overlay for better text visibility -->
   <h1>Villain Branch Downloader</h1>
   <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
   <button onclick="checkBranch()">Download</button>
