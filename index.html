@@ -113,7 +113,8 @@
       color: #66FF33;
     }
 
-    @media (max-width: 500px) {
+    /* Mobile responsiveness */
+    @media (max-width: 768px) {
       h1 {
         font-size: 2rem;
       }
@@ -126,6 +127,22 @@
 
       .container {
         padding: 30px;
+      }
+    }
+
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 1.8rem;
+      }
+
+      input[type="text"],
+      button {
+        font-size: 0.9rem;
+        padding: 8px;
+      }
+
+      .container {
+        padding: 20px;
       }
     }
   </style>
