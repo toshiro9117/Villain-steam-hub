@@ -128,8 +128,8 @@
 <body>
 
   <div class="container">
-    <h1>Steam Downloader</h1>
-    <p>Search the game using it's Appid.</p>
+    <h1>Branch Downloader</h1>
+    <p>Search the branch.</p>
     <input type="text" id="branchInput" placeholder="Enter branch name..." />
     <button onclick="searchBranch()">Search</button>
     <div id="message"></div>
@@ -170,16 +170,33 @@
         const repoOwner = "toshiro9117";
         const repoName = "Villain-steam-hub";
         const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
+        let allBranches = [];
+        let page = 1;
+        let hasNextPage = true;
 
         try {
-          const response = await fetch(apiUrl);
-          if (!response.ok) throw new Error("GitHub API error");
+          // Fetch branches with pagination
+          while (hasNextPage) {
+            const response = await fetch(`${apiUrl}?page=${page}`);
+            if (!response.ok) throw new Error("GitHub API error");
 
-          const branches = await response.json();
-          const exists = branches.some(b => b.name.toLowerCase() === branchName);
+            const branches = await response.json();
+            allBranches = [...allBranches, ...branches];
+
+            // Check if there's a next page by inspecting the Link header
+            const linkHeader = response.headers.get("Link");
+            if (linkHeader && linkHeader.includes('rel="next"')) {
+              page++; // Move to the next page
+            } else {
+              hasNextPage = false; // No more pages
+            }
+          }
 
           // Hide the loading spinner
           loadingDiv.style.display = "none";
+
+          // Check if the branch exists in the retrieved branches
+          const exists = allBranches.some(b => b.name.toLowerCase() === branchName);
 
           if (exists) {
             const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it as a .zip file?`);
