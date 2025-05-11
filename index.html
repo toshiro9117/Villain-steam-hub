@@ -3,111 +3,216 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Villain Branch Downloader</title>
+  <title>GitHub Branch Downloader</title>
   <style>
+    /* Global Styles */
     body {
+      font-family: 'Roboto', sans-serif;
       background-image: url('https://raw.githubusercontent.com/toshiro9117/Villain-steam-hub/refs/heads/main/bg.jpg');
       background-size: cover;
       background-position: center;
-      background-attachment: fixed;
-      color: #0f0;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding-top: 100px;
-      height: 100vh;
+      background-repeat: no-repeat;
+      color: #fff;
+      margin: 0;
       display: flex;
-      flex-direction: column;
       justify-content: center;
       align-items: center;
-      position: relative;
+      height: 100vh;
+      text-align: center;
+      background-blur: 10px; /* Subtle background blur for sharp focus */
     }
+
     .overlay {
       position: absolute;
       top: 0;
       left: 0;
       width: 100%;
-      height: 100vh; /* Adjusted height to viewport height */
-      background: rgba(0, 0, 0, 0.6); /* Black overlay with opacity */
-      z-index: -1; /* Send overlay behind the content */
+      height: 100vh; /* Full height */
+      background: rgba(0, 0, 0, 0.6); /* Dark overlay */
+      z-index: -1; /* Send overlay behind content */
     }
+
+    .container {
+      background-color: rgba(0, 0, 0, 0.8); /* Darker semi-transparent black */
+      border-radius: 12px;
+      padding: 50px 60px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+      width: 100%;
+      max-width: 480px;
+      text-align: center;
+    }
+
     h1 {
-      font-size: 2.5em;
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+      color: #39FF14; /* Neon green for a razor-like look */
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-      margin-bottom: 30px;
+      font-weight: 700;
     }
-    input {
-      padding: 12px 20px;
-      font-size: 18px;
-      border: 2px solid #0f0;
-      border-radius: 10px;
-      margin-right: 15px;
-      background-color: transparent;
-      color: #0f0;
-      box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
-      transition: all 0.3s ease-in-out;
+
+    /* Input and Button Styling */
+    input[type="text"] {
+      padding: 15px;
+      font-size: 1.1rem;
+      width: 100%;
+      border: 2px solid #39FF14; /* Neon green border */
+      border-radius: 8px;
+      margin-bottom: 20px;
+      background-color: rgba(0, 0, 0, 0.5); /* Dark input background */
+      color: #fff;
+      transition: border-color 0.3s ease;
     }
-    input:focus {
-      border-color: #00ff00;
+
+    input[type="text"]:focus {
       outline: none;
-      box-shadow: 0 0 15px rgba(0, 255, 0, 1);
+      border-color: #66FF33; /* Lighter neon green on focus */
     }
+
     button {
-      padding: 12px 25px;
-      font-size: 18px;
-      background-color: #0f0;
-      color: #000;
-      border: 2px solid #0f0;
-      border-radius: 10px;
+      padding: 15px 25px;
+      font-size: 1.2rem;
+      background-color: #39FF14; /* Neon green button */
+      color: black;
+      border: none;
+      border-radius: 8px;
       cursor: pointer;
-      box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
-      transition: all 0.3s ease-in-out;
+      transition: background-color 0.3s ease, transform 0.2s ease;
     }
+
     button:hover {
-      background-color: #00ff00;
-      color: #000;
-      box-shadow: 0 0 20px rgba(0, 255, 0, 1);
+      background-color: #66FF33; /* Lighter neon green on hover */
     }
+
+    button:active {
+      transform: scale(0.98); /* Slight shrink effect when clicked */
+    }
+
+    /* Loading Spinner */
+    .loading {
+      display: none;
+      margin-top: 20px;
+      font-size: 1.2rem;
+      color: #fff;
+      animation: spin 1s linear infinite;
+    }
+
+    .spinner {
+      margin-left: 10px;
+      border: 3px solid rgba(255, 255, 255, 0.3);
+      border-top: 3px solid #fff;
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      animation: spin 1s linear infinite;
+    }
+
+    /* Keyframe for spinner animation */
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    /* Message Styling */
     #message {
       margin-top: 20px;
-      font-size: 18px;
-      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+      font-size: 1.1rem;
+      color: #66FF33; /* Lighter neon green for messages */
     }
+
+    /* Responsive Design */
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      input[type="text"], button {
+        font-size: 1rem;
+        padding: 10px;
+      }
+
+      .container {
+        padding: 30px;
+      }
+    }
+
   </style>
 </head>
 <body>
+
   <div class="overlay"></div> <!-- Dark overlay for better text visibility -->
-  <h1>Villain Branch Downloader</h1>
-  <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
-  <button onclick="checkBranch()">Download</button>
-  <div id="message"></div>
+  <div class="container">
+    <h1>GitHub Branch Downloader</h1>
+    <p>Search for a branch in the repository and download it directly.</p>
+    <input type="text" id="branchInput" placeholder="Enter branch name..." />
+    <button onclick="searchBranch()">Search</button>
+    <div id="message"></div>
+    <div id="loading" class="loading">
+      Searching... <div class="spinner"></div>
+    </div>
+  </div>
 
   <script>
-    async function checkBranch() {
-      const branch = document.getElementById("branchInput").value.trim();
-      const message = document.getElementById("message");
+    // Disable right-click and dev tools shortcuts
+    function disableKeys(e) {
+      if (
+        e.keyCode === 123 || // F12
+        (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
+        (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
+        (e.ctrlKey && e.keyCode === 85) // Ctrl+U
+      ) {
+        return false;
+      }
+    }
 
-      if (!branch) {
-        message.textContent = "Please enter a branch name.";
+    async function searchBranch() {
+      const branchInput = document.getElementById("branchInput");
+      const branchName = branchInput.value.trim().toLowerCase();
+      const messageDiv = document.getElementById("message");
+      const loadingDiv = document.getElementById("loading");
+
+      if (!branchName) {
+        messageDiv.textContent = "Please enter a branch name.";
         return;
       }
 
-      const apiUrl = `https://api.github.com/repos/toshiro9117/Villain-steam-hub/branches/${branch}`;
+      // Show loading spinner
+      loadingDiv.style.display = "block";
 
-      message.textContent = "🔍 Checking branch...";
+      // Simulate loading for 3 seconds
+      setTimeout(async () => {
+        const repoOwner = "toshiro9117";
+        const repoName = "Villain-steam-hub";
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
 
-      try {
-        const response = await fetch(apiUrl);
-        if (response.ok) {
-          message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
-          const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
-          window.location.href = zipUrl;
-        } else {
-          message.textContent = `❌ Branch "${branch}" does not exist.`;
+        try {
+          const response = await fetch(apiUrl);
+          if (!response.ok) throw new Error("GitHub API error");
+
+          const branches = await response.json();
+          const exists = branches.some(b => b.name.toLowerCase() === branchName);
+
+          // Hide the loading spinner
+          loadingDiv.style.display = "none";
+
+          if (exists) {
+            const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it as a .zip file?`);
+
+            if (downloadConfirm) {
+              const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
+              window.location.href = downloadUrl;
+            } else {
+              branchInput.value = '';
+              messageDiv.textContent = "Download cancelled.";
+            }
+          } else {
+            messageDiv.textContent = `"${branchName}" branch does not exist.`;
+          }
+        } catch (error) {
+          console.error(error);
+          messageDiv.textContent = "An error occurred. Please try again.";
+          loadingDiv.style.display = "none"; // Hide the loading spinner on error
         }
-      } catch (error) {
-        console.error(error);
-        message.textContent = "⚠️ Error checking the branch. Please try again.";
-      }
+      }, 3000); // Wait 3 seconds to simulate loading
     }
   </script>
 </body>
