@@ -8,10 +8,10 @@
     /* Global Styles */
     body {
       font-family: 'Roboto', sans-serif;
-      background-image: url('https://raw.githubusercontent.com/toshiro9117/Villain-steam-hub/refs/heads/main/bg.jpg'); /* Using the provided link */
-      background-size: cover; /* Cover the entire screen */
-      background-position: center; /* Center the image */
-      background-repeat: no-repeat; /* Prevent tiling */
+      background-image: url('https://raw.githubusercontent.com/toshiro9117/Villain-steam-hub/refs/heads/main/bg.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
       color: #fff;
       margin: 0;
       display: flex;
@@ -19,53 +19,62 @@
       align-items: center;
       height: 100vh;
       text-align: center;
+      background-blur: 10px; /* Subtle background blur for sharp focus */
     }
 
     .container {
-      background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+      background-color: rgba(0, 0, 0, 0.8); /* Darker semi-transparent black */
       border-radius: 12px;
-      padding: 40px 50px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      padding: 50px 60px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
       width: 100%;
-      max-width: 450px;
+      max-width: 480px;
+      text-align: center;
     }
 
     h1 {
       font-size: 2.5rem;
       margin-bottom: 20px;
-      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+      color: #39FF14; /* Neon green for a razor-like look */
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+      font-weight: 700;
     }
 
     /* Input and Button Styling */
     input[type="text"] {
-      padding: 12px 15px;
-      font-size: 1rem;
+      padding: 15px;
+      font-size: 1.1rem;
       width: 100%;
-      border: 2px solid #fff;
+      border: 2px solid #39FF14; /* Neon green border */
       border-radius: 8px;
-      margin-bottom: 15px;
-      background-color: rgba(255, 255, 255, 0.2);
+      margin-bottom: 20px;
+      background-color: rgba(0, 0, 0, 0.5); /* Dark input background */
       color: #fff;
+      transition: border-color 0.3s ease;
     }
 
     input[type="text"]:focus {
       outline: none;
-      border-color: #feb47b;
+      border-color: #66FF33; /* Lighter neon green on focus */
     }
 
     button {
-      padding: 12px 20px;
+      padding: 15px 25px;
       font-size: 1.2rem;
-      background-color: #ff7e5f;
-      color: white;
+      background-color: #39FF14; /* Neon green button */
+      color: black;
       border: none;
       border-radius: 8px;
       cursor: pointer;
-      transition: background-color 0.3s ease;
+      transition: background-color 0.3s ease, transform 0.2s ease;
     }
 
     button:hover {
-      background-color: #feb47b;
+      background-color: #66FF33; /* Lighter neon green on hover */
+    }
+
+    button:active {
+      transform: scale(0.98); /* Slight shrink effect when clicked */
     }
 
     /* Loading Spinner */
@@ -97,12 +106,7 @@
     #message {
       margin-top: 20px;
       font-size: 1.1rem;
-      color: #ffd700;
-    }
-
-    /* Add smooth transition effects for hover buttons */
-    button:active {
-      transform: scale(0.98);
+      color: #66FF33; /* Lighter neon green for messages */
     }
 
     /* Responsive Design */
@@ -120,7 +124,6 @@
         padding: 30px;
       }
     }
-
   </style>
 </head>
 <body>
