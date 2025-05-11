@@ -162,62 +162,64 @@
         return;
       }
 
-      // Show loading spinner
       loadingDiv.style.display = "block";
+      messageDiv.textContent = "";
 
-      // Simulate loading for 3 seconds
-      setTimeout(async () => {
-        const repoOwner = "toshiro9117";
-        const repoName = "Villain-steam-hub";
-        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
-        let allBranches = [];
-        let page = 1;
-        let hasNextPage = true;
+      const repoOwner = "toshiro9117";
+      const repoName = "Villain-steam-hub";
+      const perPage = 100;
+      let page = 1;
+      let allBranches = [];
+      let hasNextPage = true;
 
-        try {
-          // Fetch branches with pagination
-          while (hasNextPage) {
-            const response = await fetch(`${apiUrl}?page=${page}`);
-            if (!response.ok) throw new Error("GitHub API error");
+      try {
+        while (hasNextPage) {
+          const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/branches?per_page=${perPage}&page=${page}`);
 
-            const branches = await response.json();
-            allBranches = [...allBranches, ...branches];
+          if (!response.ok) throw new Error("GitHub API error");
 
-            // Check if there's a next page by inspecting the Link header
-            const linkHeader = response.headers.get("Link");
-            if (linkHeader && linkHeader.includes('rel="next"')) {
-              page++; // Move to the next page
-            } else {
-              hasNextPage = false; // No more pages
-            }
-          }
+          const branches = await response.json();
+          allBranches = [...allBranches, ...branches];
 
-          // Hide the loading spinner
-          loadingDiv.style.display = "none";
-
-          // Check if the branch exists in the retrieved branches
-          const exists = allBranches.some(b => b.name.toLowerCase() === branchName);
-
-          if (exists) {
-            const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it as a .zip file?`);
-
-            if (downloadConfirm) {
-              const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
-              window.location.href = downloadUrl;
-            } else {
-              branchInput.value = '';
-              messageDiv.textContent = "Download cancelled.";
-            }
-          } else {
-            messageDiv.textContent = `"${branchName}" branch does not exist.`;
-          }
-        } catch (error) {
-          console.error(error);
-          messageDiv.textContent = "An error occurred. Please try again.";
-          loadingDiv.style.display = "none"; // Hide the loading spinner on error
+          const linkHeader = response.headers.get("Link");
+          hasNextPage = linkHeader && linkHeader.includes('rel="next"');
+          page++;
         }
-      }, 3000); // Wait 3 seconds to simulate loading
+
+        loadingDiv.style.display = "none";
+
+        const exists = allBranches.some(b => b.name.toLowerCase() === branchName);
+
+        if (exists) {
+          const confirmDownload = confirm(`The branch "${branchName}" exists. Do you want to download it as a .zip file?`);
+          if (confirmDownload) {
+            const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
+            window.location.href = downloadUrl;
+          } else {
+            branchInput.value = '';
+            messageDiv.textContent = "Download cancelled.";
+          }
+        } else {
+          messageDiv.textContent = `Branch "${branchName}" not found.`;
+        }
+
+      } catch (error) {
+        console.error(error);
+        loadingDiv.style.display = "none";
+        messageDiv.textContent = "Something went wrong. Please try again.";
+      }
     }
+
+    // Disable dev tools
+    document.onkeydown = function (e) {
+      if (
+        e.keyCode === 123 || // F12
+        (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74)) || // Ctrl+Shift+I/J
+        (e.ctrlKey && e.keyCode === 85) // Ctrl+U
+      ) {
+        return false;
+      }
+    };
   </script>
 </body>
 </html>
