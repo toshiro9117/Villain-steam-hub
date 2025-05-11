@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>GitHub Branch Downloader</title>
   <style>
-    /* Global Styles */
     body {
       font-family: 'Roboto', sans-serif;
       background-image: url('https://raw.githubusercontent.com/toshiro9117/Villain-steam-hub/refs/heads/main/bg.jpg');
@@ -19,7 +18,6 @@
       align-items: center;
       height: 100vh;
       text-align: center;
-      background-blur: 10px; /* Subtle background blur for sharp focus */
     }
 
     .overlay {
@@ -27,13 +25,13 @@
       top: 0;
       left: 0;
       width: 100%;
-      height: 100vh; /* Full height */
-      background: rgba(0, 0, 0, 0.6); /* Dark overlay */
-      z-index: -1; /* Send overlay behind content */
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.3); /* Light overlay */
+      z-index: -1;
     }
 
     .container {
-      background-color: rgba(0, 0, 0, 0.8); /* Darker semi-transparent black */
+      background-color: rgba(0, 0, 0, 0.7); /* Lighter semi-transparent black */
       border-radius: 12px;
       padding: 50px 60px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
@@ -45,33 +43,32 @@
     h1 {
       font-size: 2.5rem;
       margin-bottom: 20px;
-      color: #39FF14; /* Neon green for a razor-like look */
+      color: #39FF14;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
       font-weight: 700;
     }
 
-    /* Input and Button Styling */
     input[type="text"] {
       padding: 15px;
       font-size: 1.1rem;
       width: 100%;
-      border: 2px solid #39FF14; /* Neon green border */
+      border: 2px solid #39FF14;
       border-radius: 8px;
       margin-bottom: 20px;
-      background-color: rgba(0, 0, 0, 0.5); /* Dark input background */
+      background-color: rgba(0, 0, 0, 0.5);
       color: #fff;
       transition: border-color 0.3s ease;
     }
 
     input[type="text"]:focus {
       outline: none;
-      border-color: #66FF33; /* Lighter neon green on focus */
+      border-color: #66FF33;
     }
 
     button {
       padding: 15px 25px;
       font-size: 1.2rem;
-      background-color: #39FF14; /* Neon green button */
+      background-color: #39FF14;
       color: black;
       border: none;
       border-radius: 8px;
@@ -80,20 +77,18 @@
     }
 
     button:hover {
-      background-color: #66FF33; /* Lighter neon green on hover */
+      background-color: #66FF33;
     }
 
     button:active {
-      transform: scale(0.98); /* Slight shrink effect when clicked */
+      transform: scale(0.98);
     }
 
-    /* Loading Spinner */
     .loading {
       display: none;
       margin-top: 20px;
       font-size: 1.2rem;
       color: #fff;
-      animation: spin 1s linear infinite;
     }
 
     .spinner {
@@ -106,20 +101,17 @@
       animation: spin 1s linear infinite;
     }
 
-    /* Keyframe for spinner animation */
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
     }
 
-    /* Message Styling */
     #message {
       margin-top: 20px;
       font-size: 1.1rem;
-      color: #66FF33; /* Lighter neon green for messages */
+      color: #66FF33;
     }
 
-    /* Responsive Design */
     @media (max-width: 500px) {
       h1 {
         font-size: 2rem;
@@ -134,12 +126,11 @@
         padding: 30px;
       }
     }
-
   </style>
 </head>
 <body>
 
-  <div class="overlay"></div> <!-- Dark overlay for better text visibility -->
+  <div class="overlay"></div>
   <div class="container">
     <h1>GitHub Branch Downloader</h1>
     <p>Search for a branch in the repository and download it directly.</p>
@@ -152,18 +143,6 @@
   </div>
 
   <script>
-    // Disable right-click and dev tools shortcuts
-    function disableKeys(e) {
-      if (
-        e.keyCode === 123 || // F12
-        (e.ctrlKey && e.shiftKey && e.keyCode === 73) || // Ctrl+Shift+I
-        (e.ctrlKey && e.shiftKey && e.keyCode === 74) || // Ctrl+Shift+J
-        (e.ctrlKey && e.keyCode === 85) // Ctrl+U
-      ) {
-        return false;
-      }
-    }
-
     async function searchBranch() {
       const branchInput = document.getElementById("branchInput");
       const branchName = branchInput.value.trim().toLowerCase();
@@ -175,10 +154,8 @@
         return;
       }
 
-      // Show loading spinner
       loadingDiv.style.display = "block";
 
-      // Simulate loading for 3 seconds
       setTimeout(async () => {
         const repoOwner = "toshiro9117";
         const repoName = "Villain-steam-hub";
@@ -191,7 +168,6 @@
           const branches = await response.json();
           const exists = branches.some(b => b.name.toLowerCase() === branchName);
 
-          // Hide the loading spinner
           loadingDiv.style.display = "none";
 
           if (exists) {
@@ -210,9 +186,9 @@
         } catch (error) {
           console.error(error);
           messageDiv.textContent = "An error occurred. Please try again.";
-          loadingDiv.style.display = "none"; // Hide the loading spinner on error
+          loadingDiv.style.display = "none";
         }
-      }, 3000); // Wait 3 seconds to simulate loading
+      }, 3000);
     }
   </script>
 </body>
