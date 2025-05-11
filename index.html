@@ -3,77 +3,45 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>GitHub Branch Downloader</title>
+  <title>Villain Branch Downloader</title>
   <style>
     body {
-      font-family: 'Roboto', sans-serif;
-      background-image: url('https://raw.githubusercontent.com/toshiro9117/Villain-steam-hub/refs/heads/main/bg.jpg');
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      color: #fff;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
+      background-color: #000;
+      color: #0f0;
+      font-family: Arial, sans-serif;
       text-align: center;
+      padding-top: 100px;
     }
-
-    .container {
-      background-color: rgba(0, 0, 0, 0.8);
-      border-radius: 12px;
-      padding: 50px 60px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-      width: 100%;
-      max-width: 480px;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 20px;
-      color: #39FF14;
-    }
-
-    input[type="text"] {
-      padding: 15px;
-      font-size: 1.1rem;
-      width: 100%;
-      border: 2px solid #39FF14;
-      border-radius: 8px;
-      margin-bottom: 20px;
-      background-color: rgba(0, 0, 0, 0.5);
-      color: #fff;
-    }
-
-    button {
-      padding: 15px 25px;
-      font-size: 1.2rem;
-      background-color: #39FF14;
-      color: black;
+    input {
+      padding: 10px;
+      font-size: 16px;
       border: none;
-      border-radius: 8px;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #0f0;
+      color: #000;
+      border: none;
+      border-radius: 5px;
       cursor: pointer;
     }
-
     #message {
       margin-top: 20px;
-      font-size: 1.1rem;
-      color: #66FF33;
+      font-size: 18px;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Branch Downloader</h1>
-    <p>Search the branch.</p>
-    <input type="text" id="branchInput" placeholder="Enter branch name..." />
-    <button onclick="checkBranch()">Search</button>
-    <div id="message"></div>
-  </div>
+  <h1>Villain Branch Downloader</h1>
+  <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
+  <button onclick="checkBranch()">Download</button>
+  <div id="message"></div>
 
   <script>
-    async function checkBranch() {
+    function checkBranch() {
       const branch = document.getElementById("branchInput").value.trim();
       const message = document.getElementById("message");
 
@@ -82,22 +50,19 @@
         return;
       }
 
-      const repoURL = `https://github.com/toshiro9117/Villain-steam-hub/tree/${branch}`;
       const zipURL = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
 
-      try {
-        const res = await fetch(repoURL, { method: 'HEAD' });
+      const img = new Image();
+      img.onload = () => {
+        message.textContent = `✅ Branch "${branch}" found. Downloading...`;
+        window.location.href = zipURL;
+      };
+      img.onerror = () => {
+        message.textContent = `❌ Branch "${branch}" does not exist.`;
+      };
 
-        if (res.ok) {
-          const download = confirm(`Branch "${branch}" found. Do you want to download it as ZIP?`);
-          if (download) window.location.href = zipURL;
-        } else {
-          message.textContent = `Branch "${branch}" does not exist.`;
-        }
-      } catch (err) {
-        message.textContent = "Error checking the branch. Please try again.";
-        console.error(err);
-      }
+      // Test if branch exists by requesting a file from it
+      img.src = `https://github.com/toshiro9117/Villain-steam-hub/raw/${branch}/README.md?check=${Date.now()}`;
     }
   </script>
 </body>
