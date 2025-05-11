@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>GitHub Branch Downloader</title>
+  <title>Villain Branch Downloader</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Roboto', sans-serif;
@@ -26,12 +27,12 @@
       left: 0;
       width: 100%;
       height: 100vh;
-      background: rgba(0, 0, 0, 0.3); /* Light overlay */
+      background: rgba(0, 0, 0, 0.3);
       z-index: -1;
     }
 
     .container {
-      background-color: rgba(0, 0, 0, 0.7); /* Lighter semi-transparent black */
+      background-color: rgba(0, 0, 0, 0.7);
       border-radius: 12px;
       padding: 50px 60px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
@@ -117,7 +118,8 @@
         font-size: 2rem;
       }
 
-      input[type="text"], button {
+      input[type="text"],
+      button {
         font-size: 1rem;
         padding: 10px;
       }
@@ -129,67 +131,68 @@
   </style>
 </head>
 <body>
-
   <div class="overlay"></div>
+
   <div class="container">
-    <h1>GitHub Branch Downloader</h1>
-    <p>Search for a branch in the repository and download it directly.</p>
-    <input type="text" id="branchInput" placeholder="Enter branch name..." />
-    <button onclick="searchBranch()">Search</button>
+    <h1>Villain Branch Downloader</h1>
+    <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
+    <button onclick="checkBranch()">Download</button>
     <div id="message"></div>
-    <div id="loading" class="loading">
-      Searching... <div class="spinner"></div>
-    </div>
+    <div id="loading" class="loading">Checking branch... <div class="spinner"></div></div>
   </div>
 
   <script>
-    async function searchBranch() {
-      const branchInput = document.getElementById("branchInput");
-      const branchName = branchInput.value.trim().toLowerCase();
-      const messageDiv = document.getElementById("message");
-      const loadingDiv = document.getElementById("loading");
+    async function checkBranch() {
+      const branch = document.getElementById("branchInput").value.trim();
+      const message = document.getElementById("message");
+      const loading = document.getElementById("loading");
 
-      if (!branchName) {
-        messageDiv.textContent = "Please enter a branch name.";
+      if (!branch) {
+        message.textContent = "Please enter a branch name.";
         return;
       }
 
-      loadingDiv.style.display = "block";
+      message.textContent = "";
+      loading.style.display = "block";
 
-      setTimeout(async () => {
-        const repoOwner = "toshiro9117";
-        const repoName = "Villain-steam-hub";
-        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/branches`;
+      const apiUrl = `https://api.github.com/repos/toshiro9117/Villain-steam-hub/branches/${branch}`;
 
-        try {
-          const response = await fetch(apiUrl);
-          if (!response.ok) throw new Error("GitHub API error");
+      try {
+        const response = await fetch(apiUrl);
+        loading.style.display = "none";
 
-          const branches = await response.json();
-          const exists = branches.some(b => b.name.toLowerCase() === branchName);
-
-          loadingDiv.style.display = "none";
-
-          if (exists) {
-            const downloadConfirm = confirm(`The branch "${branchName}" exists. Do you want to download it as a .zip file?`);
-
-            if (downloadConfirm) {
-              const downloadUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branchName}.zip`;
-              window.location.href = downloadUrl;
-            } else {
-              branchInput.value = '';
-              messageDiv.textContent = "Download cancelled.";
-            }
-          } else {
-            messageDiv.textContent = `"${branchName}" branch does not exist.`;
-          }
-        } catch (error) {
-          console.error(error);
-          messageDiv.textContent = "An error occurred. Please try again.";
-          loadingDiv.style.display = "none";
+        if (response.ok) {
+          message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
+          const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
+          window.location.href = zipUrl;
+        } else {
+          message.textContent = `❌ Branch "${branch}" does not exist.`;
         }
-      }, 3000);
+      } catch (error) {
+        console.error(error);
+        loading.style.display = "none";
+        message.textContent = "⚠️ Error checking the branch. Please try again.";
+      }
     }
+  </script>
+
+  <script>
+    // Disable right-click context menu
+    document.addEventListener("contextmenu", (event) => {
+      event.preventDefault();
+    });
+
+    // Disable certain key combinations (e.g., F12, Ctrl+Shift+I, etc.)
+    document.addEventListener("keydown", (event) => {
+      if (
+        event.key === "F12" || 
+        (event.ctrlKey && event.shiftKey && event.key === "I") || 
+        (event.ctrlKey && event.shiftKey && event.key === "J") || 
+        (event.ctrlKey && event.key === "U")
+      ) {
+        event.preventDefault();
+      }
+    });
   </script>
 </body>
 </html>
