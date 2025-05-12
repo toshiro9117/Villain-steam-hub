@@ -113,8 +113,7 @@
       color: #66FF33;
     }
 
-    /* Mobile responsiveness */
-    @media (max-width: 768px) {
+    @media (max-width: 500px) {
       h1 {
         font-size: 2rem;
       }
@@ -129,35 +128,71 @@
         padding: 30px;
       }
     }
-
-    @media (max-width: 500px) {
-      h1 {
-        font-size: 1.8rem;
-      }
-
-      input[type="text"],
-      button {
-        font-size: 0.9rem;
-        padding: 8px;
-      }
-
-      .container {
-        padding: 20px;
-      }
-    }
   </style>
 </head>
 <body>
   <div class="overlay"></div>
 
   <div class="container">
-    <h1>Steam Generator</h1>
-    <input type="text" id="branchInput" placeholder="Enter Appid (e.g. 3655300)" />
+    <h1>Villain Branch Downloader</h1>
+    <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
     <button onclick="checkBranch()">Download</button>
     <div id="message"></div>
-    <div id="loading" class="loading">Checking Appid... <div class="spinner"></div></div>
+    <div id="loading" class="loading">Checking branch... <div class="spinner"></div></div>
   </div>
 
-  <script src="./script.js"></script>
+  <script>
+    async function checkBranch() {
+      const branch = document.getElementById("branchInput").value.trim();
+      const message = document.getElementById("message");
+      const loading = document.getElementById("loading");
+
+      if (!branch) {
+        message.textContent = "Please enter a branch name.";
+        return;
+      }
+
+      message.textContent = "";
+      loading.style.display = "block";
+
+      const apiUrl = `https://api.github.com/repos/toshiro9117/Villain-steam-hub/branches/${branch}`;
+
+      try {
+        const response = await fetch(apiUrl);
+        loading.style.display = "none";
+
+        if (response.ok) {
+          message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
+          const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
+          window.location.href = zipUrl;
+        } else {
+          message.textContent = `❌ Branch "${branch}" does not exist.`;
+        }
+      } catch (error) {
+        console.error(error);
+        loading.style.display = "none";
+        message.textContent = "⚠️ Error checking the branch. Please try again.";
+      }
+    }
+  </script>
+
+  <script>
+    // Disable right-click context menu
+    document.addEventListener("contextmenu", (event) => {
+      event.preventDefault();
+    });
+
+    // Disable certain key combinations (e.g., F12, Ctrl+Shift+I, etc.)
+    document.addEventListener("keydown", (event) => {
+      if (
+        event.key === "F12" || 
+        (event.ctrlKey && event.shiftKey && event.key === "I") || 
+        (event.ctrlKey && event.shiftKey && event.key === "J") || 
+        (event.ctrlKey && event.key === "U")
+      ) {
+        event.preventDefault();
+      }
+    });
+  </script>
 </body>
 </html>
