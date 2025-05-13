@@ -9,14 +9,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
   },
   "devDependencies": {
-    "typescript": "latest",
+    "@types/node": "latest",
     "@types/react": "latest",
-    "@types/node": "latest"
+    "typescript": "latest"
   },
   "license": "MIT"
 }

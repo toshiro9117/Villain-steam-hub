@@ -155,23 +155,18 @@
       message.textContent = "";
       loading.style.display = "block";
 
-      try {
-        const response = await fetch("http://localhost:3000/download-branch", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ branch }),
-        });
+      const apiUrl = `https://api.github.com/repos/toshiro9117/Villain-steam-hub/branches/${branch}`;
 
-        const data = await response.json();
+      try {
+        const response = await fetch(apiUrl);
         loading.style.display = "none";
 
         if (response.ok) {
           message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
-          window.location.href = `http://localhost:3000${data.downloadUrl}`;
+          const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
+          window.location.href = zipUrl;
         } else {
-          message.textContent = `❌ ${data.error}`;
+          message.textContent = `❌ Branch "${branch}" does not exist.`;
         }
       } catch (error) {
         console.error(error);
