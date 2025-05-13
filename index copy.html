@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Villain Branch Downloader</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-image: url('https://raw.githubusercontent.com/toshiro9117/Villain-steam-hub/refs/heads/main/bg.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: #fff;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.3);
+      z-index: -1;
+    }
+
+    .container {
+      background-color: rgba(0, 0, 0, 0.7);
+      border-radius: 12px;
+      padding: 50px 60px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+      width: 100%;
+      max-width: 480px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+      color: #39FF14;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+      font-weight: 700;
+    }
+
+    input[type="text"] {
+      padding: 15px;
+      font-size: 1.1rem;
+      width: 100%;
+      border: 2px solid #39FF14;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      background-color: rgba(0, 0, 0, 0.5);
+      color: #fff;
+      transition: border-color 0.3s ease;
+    }
+
+    input[type="text"]:focus {
+      outline: none;
+      border-color: #66FF33;
+    }
+
+    button {
+      padding: 15px 25px;
+      font-size: 1.2rem;
+      background-color: #39FF14;
+      color: black;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+    button:hover {
+      background-color: #66FF33;
+    }
+
+    button:active {
+      transform: scale(0.98);
+    }
+
+    .loading {
+      display: none;
+      margin-top: 20px;
+      font-size: 1.2rem;
+      color: #fff;
+    }
+
+    .spinner {
+      margin-left: 10px;
+      border: 3px solid rgba(255, 255, 255, 0.3);
+      border-top: 3px solid #fff;
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    #message {
+      margin-top: 20px;
+      font-size: 1.1rem;
+      color: #66FF33;
+    }
+
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      input[type="text"],
+      button {
+        font-size: 1rem;
+        padding: 10px;
+      }
+
+      .container {
+        padding: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <div class="container">
+    <h1>Villain Branch Downloader</h1>
+    <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
+    <button onclick="checkBranch()">Download</button>
+    <div id="message"></div>
+    <div id="loading" class="loading">Checking branch... <div class="spinner"></div></div>
+  </div>
+
+  <script>
+    async function checkBranch() {
+      const branch = document.getElementById("branchInput").value.trim();
+      const message = document.getElementById("message");
+      const loading = document.getElementById("loading");
+
+      if (!branch) {
+        message.textContent = "Please enter a branch name.";
+        return;
+      }
+
+      message.textContent = "";
+      loading.style.display = "block";
+
+      const apiUrl = `https://api.github.com/repos/toshiro9117/Villain-steam-hub/branches/${branch}`;
+
+      try {
+        const response = await fetch(apiUrl);
+        loading.style.display = "none";
+
+        if (response.ok) {
+          message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
+          const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
+          window.location.href = zipUrl;
+        } else {
+          message.textContent = `❌ Branch "${branch}" does not exist.`;
+        }
+      } catch (error) {
+        console.error(error);
+        loading.style.display = "none";
+        message.textContent = "⚠️ Error checking the branch. Please try again.";
+      }
+    }
+  </script>
+
+  <script>
+    // Disable right-click context menu
+    document.addEventListener("contextmenu", (event) => {
+      event.preventDefault();
+    });
+
+    // Disable certain key combinations (e.g., F12, Ctrl+Shift+I, etc.)
+    document.addEventListener("keydown", (event) => {
+      if (
+        event.key === "F12" || 
+        (event.ctrlKey && event.shiftKey && event.key === "I") || 
+        (event.ctrlKey && event.shiftKey && event.key === "J") || 
+        (event.ctrlKey && event.key === "U")
+      ) {
+        event.preventDefault();
+      }
+    });
+  </script>
+</body>
+</html>
