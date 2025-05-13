@@ -1,0 +1,22 @@
+{
+  "name": "villain-steam-hub",
+  "version": "1.0.0",
+  "description": "A web application for downloading branches from the Villain Steam Hub repository.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
+  },
+  "license": "MIT"
+}
