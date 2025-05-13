@@ -134,21 +134,22 @@
   <div class="overlay"></div>
 
   <div class="container">
-    <h1>Villain Branch Downloader</h1>
-    <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)" />
+    <h1>Steam Generator</h1>
+    <input type="text" id="branchInput" placeholder="Enter AppId (e.g. 3655300)" />
     <button onclick="checkBranch()">Download</button>
     <div id="message"></div>
-    <div id="loading" class="loading">Checking branch... <div class="spinner"></div></div>
+    <div id="loading" class="loading">Checking database... <div class="spinner"></div></div>
   </div>
 
   <script>
     async function checkBranch() {
-      const branch = document.getElementById("branchInput").value.trim();
+      const branchInput = document.getElementById("branchInput");
+      const branch = branchInput.value.trim();
       const message = document.getElementById("message");
       const loading = document.getElementById("loading");
 
       if (!branch) {
-        message.textContent = "Please enter a branch name.";
+        message.textContent = "Please enter AppId.";
         return;
       }
 
@@ -162,16 +163,21 @@
         loading.style.display = "none";
 
         if (response.ok) {
-          message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
-          const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
-          window.location.href = zipUrl;
+          const userConfirmed = confirm(`AppId "${branch}" found. Do you want to download the ZIP file?`);
+          if (userConfirmed) {
+            const zipUrl = `https://github.com/toshiro9117/Villain-steam-hub/archive/refs/heads/${branch}.zip`;
+            window.location.href = zipUrl;
+          }
+          branchInput.value = ""; // Clear the input field
         } else {
-          message.textContent = `❌ Branch "${branch}" does not exist.`;
+          message.textContent = `❌ Game "${branch}" does not exist in the database.`;
+          branchInput.value = ""; // Clear the input field
         }
       } catch (error) {
         console.error(error);
         loading.style.display = "none";
-        message.textContent = "⚠️ Error checking the branch. Please try again.";
+        message.textContent = "⚠️ Error checking database. Please try again.";
+        branchInput.value = ""; // Clear the input field
       }
     }
   </script>
