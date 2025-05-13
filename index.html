@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Villain Branch Downloader</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    /* ...existing styles... */
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <div class="container">
+    <h1>Villain Branch Downloader</h1>
+    <input type="text" id="branchInput" placeholder="Enter branch name (e.g. 3655300)">
+    <button onclick="checkBranch()">Download</button>
+    <div id="message"></div>
+    <div id="loading" class="loading">Checking branch... <div class="spinner"></div></div>
+  </div>
+
+  <script>
+    async function checkBranch() {
+      const branch = document.getElementById("branchInput").value.trim();
+      const message = document.getElementById("message");
+      const loading = document.getElementById("loading");
+
+      if (!branch) {
+        message.textContent = "Please enter a branch name.";
+        return;
+      }
+
+      message.textContent = "";
+      loading.style.display = "block";
+
+      try {
+        const response = await fetch("/api/checkBranch", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ branch }),
+        });
+
+        const data = await response.json();
+        loading.style.display = "none";
+
+        if (response.ok && data.success) {
+          message.textContent = `✅ Branch "${branch}" found. Downloading ZIP...`;
+          window.location.href = data.zipUrl;
+        } else {
+          message.textContent = `❌ ${data.message || "Branch does not exist."}`;
+        }
+      } catch (error) {
+        console.error(error);
+        loading.style.display = "none";
+        message.textContent = "⚠️ Error checking the branch. Please try again.";
+      }
+    }
+  </script>
+</body>
+</html>
