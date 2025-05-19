@@ -4,8 +4,8 @@
     "name": "Grounded",
     "schinese_name": "禁闭求生",
     "isfreeapp": "0",
-    "change_number": "28815610",
-    "update_time": "2025-05-05 10:08:28",
+    "change_number": "28981363",
+    "update_time": "2025-05-14 22:50:08",
     "depot": {
         "228983": {
             "config": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4146942671697184416",
-                    "size": "12142645418",
-                    "download": "11489413312"
+                    "gid": "1768200224774657340",
+                    "size": "12144883677",
+                    "download": "11485077120"
                 },
                 "public_test": {
                     "gid": "3779198334583472992",
@@ -126,8 +126,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18033659",
-                "timeupdated": "1744909051"
+                "buildid": "18247588",
+                "timeupdated": "1747069353"
             },
             "public_test": {
                 "buildid": "17768739",
